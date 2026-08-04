@@ -1,0 +1,3575 @@
+[
+    {
+        "chunk_id": "PNJ_2020_separate_table_1",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2020\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2020\n\nNỘI DUNG\n\nTRANG\n\nThông tin về doanh nghiệp 1\n\nBáo cáo của Ban Điều hành 2\n\nBáo cáo kiểm toán độc lập 3\n\nBảng cân đối kế toán riêng (Mẫu số B 01 - DN) 5\n\nBáo cáo kết quả hoạt động kinh doanh riêng (Mẫu số B 02 - DN) 7\n\nBáo cáo lưu chuyển tiền tệ riêng (Mẫu số B 03 - DN) 8\n\nThuyết minh báo cáo tài chính riêng (Mẫu số B 09 - DN) 9\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nTHÔNG TIN VỀ DOANH NGHIỆP",
+        "dataframe": [
+            {
+                "0": "Giấy chứng nhận đăng ký doanh nghiệp",
+                "1": "Số 0300521758 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp lần đầu ngày 2 tháng 1 năm 2004 và Giấy chứng nhận đăng ký doanh nghiệp thay đổi gần nhất lần thứ 30 ngày 31 tháng 12 năm 2019.",
+                "2": "Số 0300521758 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp lần đầu ngày 2 tháng 1 năm 2004 và Giấy chứng nhận đăng ký doanh nghiệp thay đổi gần nhất lần thứ 30 ngày 31 tháng 12 năm 2019."
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Bà Cao Thi Ngọc DungÔng Lê Trí ThôngÔng Lê Hữu HạnhÔng Lê Quang PhúcBà Huỳnh Thị Xuân LiênBà Đăng Thị LảiBà Tiêu Yến TrìnhBà Trần Phương Ngọc ThảoÔng Nguyễn Tuấn HảiBà Phạm Vũ Thanh Giang",
+                "2": "Chủ tịchPhó Chủ tịchThành viênThành viênThành viênThành viên( bổ nhiệm ngày 10/6/2020)Thành viên( bổ nhiệm ngày 10/6/2020)Thành viên( bổ nhiệm ngày 10/6/2020)(Thành viên)(từ nhiệm ngày 10/6/2020)"
+            },
+            {
+                "0": "Ban Kiểm soát",
+                "1": "Ông Nguyễn Thành DựBà Nguyễn Ngọc HuệÔng Lê Anh Đức",
+                "2": "Trường banThành viênThành viên"
+            },
+            {
+                "0": "Ban Điều hành",
+                "1": "Ông Lê Trí Thông",
+                "2": "Tổng Giám đốc(Từ ngày 10 tháng 8 năm 2020Hội đồng Quản trị phân côngÔng Lê Trí Thông quản lý và điều hành Khối khách hàng & bán lẻ và Khối cung ứng)"
+            },
+            {
+                "0": "Ban Điều hành",
+                "1": "Bà Đăng Thị Lải",
+                "2": "Giám đốc Vận hành kiểmGiám đốc khởi Tài chính– Vận hành"
+            },
+            {
+                "0": "Ban Điều hành",
+                "1": "Bà Trần Thị Thu HàÔng Phan Nguyễn Hoài AnhÔng Nguyễn Hoàng ChâuÔng Đào Trung KiênÔng Đăng Hải AnhÔng Nguyễn Ngọc TrânÔng Nguyễn Anh HùngÔng Dương Quang Hải",
+                "2": "Giám đốc khởi Bán lẻ(dếng ngày 10 tháng 8 năm 2020)Quyền Giám đốc khởi MarketingGiám đốc khởi cung ứng(dếng ngày 10 tháng 8 năm 2020)Giám đốc khởi Chiến lượcGiám đốc khởi Công nghệ thông(từ ngày 20 tháng 8 năm 2020)Giám đốc khởi Công nghệ thông(dếng ngày 20 tháng 8 năm 2020)Giám đốc khởi Nguồn nhân lựcKế toán trưởng"
+            },
+            {
+                "0": "Người đại diện theo pháp luật",
+                "1": "Ông Lê Trí Thông",
+                "2": "Tổng Giám đốc"
+            },
+            {
+                "0": "Trụ sở chính",
+                "1": "170E Phan Đăng Lưu, Phường 3, Quận Phú Nhuận,Thành phố Hồ Chí Minh, Việt Nam",
+                "2": "170E Phan Đăng Lưu, Phường 3, Quận Phú Nhuận,Thành phố Hồ Chí Minh, Việt Nam"
+            },
+            {
+                "0": "Kiểm toán viên",
+                "1": "Công ty TNHH PwC (Việt Nam)",
+                "2": "Công ty TNHH PwC (Việt Nam)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_2",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "1\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nTRÁCH NHIỆM CỦA BAN ĐIỀU HÀNH CÔNG TY ĐỐI VỚI BẢO CÁO TÀI CHÍNH RIÊNG\n\nBan Điều hành Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận (\"Công ty\") chịu trách nhiệm lập báo cáo tài chính riêng thể hiện trung thực và hợp lý tỉnh hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2020, cũng như kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng của năm tài chính kết thúc cùng ngày nếu trên. Trong việc soạn lập báo cáo tài chính riêng này, Ban Điều hành được yêu cầu phải:\n\n- chọn lựa các chính sách kế toán phù hợp và áp dụng một cách nhất quán;\n\n- thực hiện các xét đoán và ước tính một cách hợp lý và thân trọng; và\n\n- soan lập báo cáo tài chính riêng trên cơ sở đơn vị hoạt động liên tục trừ khi giả định đơn vị hoạt động liên tục là không phù hợp.\n\nBan Điều hành của Công ty chịu trách nhiệm bảo đảm rằng các số sách kế toán đúng đản đã được thiết lập và duy trì để thể hiện tỉnh hình tài chính của Công ty với độ chính xác hợp lý tại mọi thời điểm và để làm cơ sở soạn lập báo cáo tài chính riêng tuân thủ theo chế độ kế toán được trình bày ở Thuyết minh số 2 của báo cáo tài chính riêng. Ban Điều hành của Công ty cũng chịu trách nhiệm đối với việc bảo vệ các tài sản của Công ty và thực hiện các biện pháp hợp lý để phòng ngừa và phát hiện các gian lận hoặc nhằm lấn.\n\nPHÊ CHUẦN BÁO CÁO TÀI CHÍNH RIÊNG\n\nTheo đây, chúng tôi phê chuẩn báo cáo tài chính riêng dính kèm từ trang 5 đến trang 43. Báo cáo tài chính riêng này phần ánh trung thực và hợp lý tính hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2020, cũng như kết quả hoạt động kinh doanh riêng và tinh hình lưu chuyển tiền tệ riêng của năm tài chính kết thúc vào ngày nếu trên phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các qui định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nNgười sử dụng báo cáo tài chính riêng của Công ty nên đọc cùng với báo cáo tài chính hợp nhất của Công ty và các công ty con (goi chung là \"Tập đoàn\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 để có đầy đủ thông tin về tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất của Tập đoàn.\n\nThay mặt Ban Điều hành\n\nLê Trí Thông\n\nTổng Giám đốc\n\nThành phố Hồ Chí Minh, nước CHXHCN Việt Nam\n\nNgày 15 tháng 3 năm 2021\n\n2\n\n\n\npwc\n\nBÁO CÁO KIÊM TOÁN ĐỘC LẬP\nGỦI CÁC CỔ ĐÔNG CỦA CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nChứng tối đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận (\"Công ty\") được lập ngày 31 tháng 12 năm 2020, và được Ban Điều hành Công ty phê chuẩn ngày 15 tháng 3 năm 2021. Báo cáo tài chính riêng này bao gồm: bằng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2020, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày nếu trên, và thuyết minh báo cáo tài chính riêng bao gồm các chính sách kế toán chủ yếu từ trang 5 đến trang 43.\n\nTrách nhiệm của Ban Điều hành\n\nBan Điều hành Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các qui định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Điều hành xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lân hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng này dựa trên kết quả cuộc kiểm toán. Chung tôi đã tiến hành kiểm toán theo các Chuẩn mục Kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính riêng do gian lân hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tỉnh hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Điều hành cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\n3\n\nCông ty TNHH PwC (Việt Nam)\nLầu 8, Saigon Tower, 29 Lê Duấn, Quận 1, TP. Hồ Chí Minh, Việt Nam\nĐT: +84 (28)38230796, www.pwc.com/vn\n\n\n\npwc\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến của chúng tôi, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khía cạnh trong yếu tính hình tài chính của Công ty tại ngày 31 tháng 12 năm 2020, cũng như kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày nếu trên phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nThay mặt và đại diện cho Công ty TNHH PwC (Việt Nam)\n\nMai Việt Hùng Trần\n\nSố Giấy CN ĐKHN kiểm toán:\n\n0048-2018-006-1\n\nChữ ký được ủy quyền\n\nNguyễn Vũ Anh Tuán\n\nSố Giấy CN ĐKHN kiểm toán.\n\n3631-2021-006-1\n\nSố hiệu báo cáo kiểm toán: HCM10120\n\nTP. Hồ Chí Minh, ngày 15 tháng 3 năm 2021\n\n4\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 01 - DN\n\nBẢNG CẦN ĐỐI KẾ TOÁN RIÊNG",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "Tại ngày 31 tháng 12 năm",
+                "4": "Tại ngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "2020 VND",
+                "4": "2019 VND"
+            },
+            {
+                "0": "100",
+                "1": "TÀI SẢN NGĂN HẠN",
+                "2": "",
+                "3": "6.474.649.388.077",
+                "4": "6.682.090.576.699"
+            },
+            {
+                "0": "110",
+                "1": "Tiền",
+                "2": "",
+                "3": "228.463.983.404",
+                "4": "82.586.849.294"
+            },
+            {
+                "0": "111",
+                "1": "Tiền",
+                "2": "3",
+                "3": "228.463.983.404",
+                "4": "82.586.849.294"
+            },
+            {
+                "0": "130",
+                "1": "Các khoản phải thu ngắn hạn",
+                "2": "",
+                "3": "630.326.326.092",
+                "4": "932.945.866.003"
+            },
+            {
+                "0": "131",
+                "1": "Phải thu ngắn hạn của khách hàng",
+                "2": "4",
+                "3": "42.741.333.285",
+                "4": "96.534.570.471"
+            },
+            {
+                "0": "132",
+                "1": "Trả trước cho người bán ngắn hạn",
+                "2": "5",
+                "3": "571.620.933.833",
+                "4": "731.834.000.148"
+            },
+            {
+                "0": "135",
+                "1": "Phải thu về cho vay ngắn hạn",
+                "2": "35(b)",
+                "3": "50.000.000.000",
+                "4": "100.000.000.000"
+            },
+            {
+                "0": "136",
+                "1": "Phải thu ngắn hạn khác",
+                "2": "6(a)",
+                "3": "12.463.883.751",
+                "4": "4.093.499.097"
+            },
+            {
+                "0": "137",
+                "1": "Dự phòng phải thu ngắn hạn khó đòi",
+                "2": "7",
+                "3": "(46.559.069.745)",
+                "4": "-"
+            },
+            {
+                "0": "139",
+                "1": "Tài sản thiếu chờ xử lý",
+                "2": "",
+                "3": "59.244.968",
+                "4": "483.796.287"
+            },
+            {
+                "0": "140",
+                "1": "Hàng tồn kho",
+                "2": "",
+                "3": "5.545.614.607.458",
+                "4": "5.600.042.475.851"
+            },
+            {
+                "0": "141",
+                "1": "Hàng tồn kho",
+                "2": "8",
+                "3": "5.545.614.607.458",
+                "4": "5.600.042.475.851"
+            },
+            {
+                "0": "150",
+                "1": "Tài sản ngắn hạn khác",
+                "2": "",
+                "3": "70.244.471.123",
+                "4": "66.515.385.551"
+            },
+            {
+                "0": "151",
+                "1": "Chi phí trả trước ngắn hạn",
+                "2": "9(a)",
+                "3": "60.983.508.549",
+                "4": "66.450.661.055"
+            },
+            {
+                "0": "152",
+                "1": "Thuế GTGT được khấu trừ",
+                "2": "",
+                "3": "9.260.962.574",
+                "4": "-"
+            },
+            {
+                "0": "153",
+                "1": "Thuế và các khoản khác phải thu Nhà nước",
+                "2": "",
+                "3": "-",
+                "4": "64.724.496"
+            },
+            {
+                "0": "200",
+                "1": "TÀI SẢN DÀI HẠN",
+                "2": "",
+                "3": "1.492.980.532.386",
+                "4": "1.278.105.627.829"
+            },
+            {
+                "0": "210",
+                "1": "Khoản phải thu dài hạn",
+                "2": "",
+                "3": "73.087.785.912",
+                "4": "67.305.344.776"
+            },
+            {
+                "0": "216",
+                "1": "Phải thu dài hạn khác",
+                "2": "6(b)",
+                "3": "73.087.785.912",
+                "4": "67.305.344.776"
+            },
+            {
+                "0": "220",
+                "1": "Tài sản cố định",
+                "2": "",
+                "3": "816.679.203.148",
+                "4": "829.804.515.778"
+            },
+            {
+                "0": "221",
+                "1": "Tài sản cố định hữu hình",
+                "2": "10(a)",
+                "3": "179.965.644.686",
+                "4": "182.749.211.876"
+            },
+            {
+                "0": "222",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "328.768.290.663",
+                "4": "303.405.749.655"
+            },
+            {
+                "0": "223",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(148.802.645.977)",
+                "4": "(120.656.537.779)"
+            },
+            {
+                "0": "227",
+                "1": "Tài sản cố định vô hình",
+                "2": "10(b)",
+                "3": "636.713.558.462",
+                "4": "647.055.303.902"
+            },
+            {
+                "0": "228",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "669.060.757.659",
+                "4": "666.299.045.857"
+            },
+            {
+                "0": "229",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(32.347.199.197)",
+                "4": "(19.243.741.955)"
+            },
+            {
+                "0": "240",
+                "1": "Tài sản dở dang dài hạn",
+                "2": "",
+                "3": "30.183.906.350",
+                "4": "28.192.987.250"
+            },
+            {
+                "0": "242",
+                "1": "Chi phí xây dựng cơ bản dở dang",
+                "2": "11",
+                "3": "30.183.906.350",
+                "4": "28.192.987.250"
+            },
+            {
+                "0": "250",
+                "1": "Đầu tư tài chính dài hạn",
+                "2": "12",
+                "3": "310.000.000.000",
+                "4": "140.000.000.000"
+            },
+            {
+                "0": "251",
+                "1": "Đầu tư vào công ty con",
+                "2": "",
+                "3": "340.000.000.000",
+                "4": "170.000.000.000"
+            },
+            {
+                "0": "253",
+                "1": "Đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "395.271.613.400",
+                "4": "395.271.613.400"
+            },
+            {
+                "0": "254",
+                "1": "Dự phòng đầu tư tài chính dài hạn",
+                "2": "",
+                "3": "(425.271.613.400)",
+                "4": "(425.271.613.400)"
+            },
+            {
+                "0": "260",
+                "1": "Tài sản dài hạn khác",
+                "2": "",
+                "3": "263.029.636.976",
+                "4": "212.802.780.025"
+            },
+            {
+                "0": "261",
+                "1": "Chi phí trả trước dài hạn",
+                "2": "9(b)",
+                "3": "174.314.839.953",
+                "4": "125.671.315.366"
+            },
+            {
+                "0": "262",
+                "1": "Tài sản thuế thu nhập hoãn lại",
+                "2": "22",
+                "3": "88.714.797.023",
+                "4": "87.131.464.659"
+            },
+            {
+                "0": "270",
+                "1": "TỔNG TÀI SẢN",
+                "2": "",
+                "3": "7.967.629.920.463",
+                "4": "7.960.196.204.528"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_3",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Các thuyết minh từ trang 9 đến trang 43 là một phần cấu thành báo cáo tài chính riêng này.\n\n5\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 01 – DN\n\nBÀNG CÂN ĐỐI KẾ TOÁN RIÊNG\n(tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Mãsố",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyếtminh",
+                "3": "Tại ngày 31 tháng 12 năm",
+                "4": "Tại ngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mãsố",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyếtminh",
+                "3": "2020VND",
+                "4": "2019VND"
+            },
+            {
+                "0": "300",
+                "1": "NỘ PHẢI TRẢ",
+                "2": "",
+                "3": "2.819.891.308.781",
+                "4": "3.440.009.205.304"
+            },
+            {
+                "0": "310",
+                "1": "Nợ ngắn hạn",
+                "2": "",
+                "3": "2.810.745.215.781",
+                "4": "3.432.402.203.304"
+            },
+            {
+                "0": "311",
+                "1": "Phải trả người bán ngắn hạn",
+                "2": "13",
+                "3": "467.421.998.503",
+                "4": "619.571.810.553"
+            },
+            {
+                "0": "312",
+                "1": "Người mua trả tiền trước ngắn hạn",
+                "2": "14",
+                "3": "78.453.544.728",
+                "4": "58.403.718.325"
+            },
+            {
+                "0": "313",
+                "1": "Thuế và các khoản phải nộp Nhà nước",
+                "2": "15",
+                "3": "205.321.597.778",
+                "4": "165.567.273.128"
+            },
+            {
+                "0": "314",
+                "1": "Phải trả người lao động",
+                "2": "16",
+                "3": "244.814.397.938",
+                "4": "175.648.804.619"
+            },
+            {
+                "0": "315",
+                "1": "Chỉ phí phải trả ngắn hạn",
+                "2": "17",
+                "3": "42.163.045.770",
+                "4": "40.171.657.351"
+            },
+            {
+                "0": "319",
+                "1": "Phải trả ngắn hạn khác",
+                "2": "18",
+                "3": "68.515.458.771",
+                "4": "48.233.642.368"
+            },
+            {
+                "0": "320",
+                "1": "Vay ngắn hạn",
+                "2": "19(a)",
+                "3": "1.588.817.635.703",
+                "4": "2.234.770.938.231"
+            },
+            {
+                "0": "322",
+                "1": "Quỹ khen thưởng, phúc lợi",
+                "2": "20",
+                "3": "115.237.536.590",
+                "4": "90.034.358.729"
+            },
+            {
+                "0": "330",
+                "1": "Nợ dài hạn",
+                "2": "",
+                "3": "9.146.093.000",
+                "4": "7.607.002.000"
+            },
+            {
+                "0": "337",
+                "1": "Phải trả dài hạn khác",
+                "2": "",
+                "3": "526.168.000",
+                "4": "476.006.000"
+            },
+            {
+                "0": "338",
+                "1": "Vay dài hạn",
+                "2": "19(b)",
+                "3": "-",
+                "4": "3.700.000.000"
+            },
+            {
+                "0": "342",
+                "1": "Dự phòng phải trả dài hạn",
+                "2": "21",
+                "3": "8.619.925.000",
+                "4": "3.430.996.000"
+            },
+            {
+                "0": "400",
+                "1": "VỐN CHỦ SỞ HỮU",
+                "2": "",
+                "3": "5.147.738.611.682",
+                "4": "4.520.186.999.224"
+            },
+            {
+                "0": "410",
+                "1": "Vốn chủ sở hữu",
+                "2": "",
+                "3": "5.147.738.611.682",
+                "4": "4.520.186.999.224"
+            },
+            {
+                "0": "411",
+                "1": "Vốn góp của chủ sở hữu",
+                "2": "23, 24",
+                "3": "2.276.123.620.000",
+                "4": "2.252.935.850.000"
+            },
+            {
+                "0": "411a",
+                "1": "- Cổ phiếu phổ thông có quyền biểu quyết",
+                "2": "",
+                "3": "2.276.123.620.000",
+                "4": "2.252.935.850.000"
+            },
+            {
+                "0": "412",
+                "1": "Thặng dư vốn cổ phần",
+                "2": "24",
+                "3": "991.261.882.458",
+                "4": "968.074.112.458"
+            },
+            {
+                "0": "415",
+                "1": "Cổ phiếu quỹ",
+                "2": "24",
+                "3": "(3.384.090.000)",
+                "4": "(2.101.090.000)"
+            },
+            {
+                "0": "418",
+                "1": "Quỹ đầu tư phát triển",
+                "2": "24",
+                "3": "372.779.556.918",
+                "4": "313.083.556.918"
+            },
+            {
+                "0": "421",
+                "1": "Lợi nhuận sau thuế (\"LNST\") chưaphân phối",
+                "2": "24",
+                "3": "1.510.957.642.306",
+                "4": "988.194.569.848"
+            },
+            {
+                "0": "421a",
+                "1": "- LNST chưa phân phối lũy kế của cácnăm trước",
+                "2": "",
+                "3": "613.766.393.848",
+                "4": "8.315.394.986"
+            },
+            {
+                "0": "421b",
+                "1": "- LNST chưa phân phối của năm nay",
+                "2": "",
+                "3": "897.191.248.458",
+                "4": "979.879.174.862"
+            },
+            {
+                "0": "440",
+                "1": "TỔNG NGUỒN VỐN",
+                "2": "",
+                "3": "7.967.629.920.463",
+                "4": "7.960.196.204.528"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_4",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Nguyễn Thành Đạt\nNgười lập\n\nDương Quang Hải\nKế toán trường\n\nLê Trí Thông\nTổng Giám đốc\nNgày 15 tháng 3 năm 2021\n\nCác thuyết minh từ trang 9 đến trang 43 là một phần cấu thành báo cáo tài chính riêng này.\n\n6\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 02 – DN\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG",
+        "dataframe": [
+            {
+                "0": "Mãsố",
+                "1": "",
+                "2": "Thuyếtminh",
+                "3": "Năm tài chính kết thúcngày 31 tháng 12 năm",
+                "4": "Năm tài chính kết thúcngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mãsố",
+                "1": "",
+                "2": "Thuyếtminh",
+                "3": "2020VND",
+                "4": "2019VND"
+            },
+            {
+                "0": "01",
+                "1": "Doanh thu bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "18.249.207.303.760",
+                "4": "15.097.878.887.552"
+            },
+            {
+                "0": "02",
+                "1": "Khoản giảm trừ doanh thu",
+                "2": "",
+                "3": "(163.140.746.157)",
+                "4": "(136.566.152.783)"
+            },
+            {
+                "0": "10",
+                "1": "Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "27",
+                "3": "18.086.066.557.603",
+                "4": "14.961.312.734.769"
+            },
+            {
+                "0": "11",
+                "1": "Giá vốn hàng bán và dịch vụ cung cấp",
+                "2": "28",
+                "3": "(14.814.605.656.076)",
+                "4": "(11.735.945.301.285)"
+            },
+            {
+                "0": "20",
+                "1": "Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "3.271.460.901.527",
+                "4": "3.225.367.433.484"
+            },
+            {
+                "0": "21",
+                "1": "Doanh thu hoạt động tài chính",
+                "2": "29",
+                "3": "2.234.041.308",
+                "4": "4.252.790.847"
+            },
+            {
+                "0": "22",
+                "1": "Chi phí tài chính",
+                "2": "30",
+                "3": "(136.487.135.123)",
+                "4": "(141.834.207.929)"
+            },
+            {
+                "0": "23",
+                "1": "- Trong đó: Chi phí lãi vay",
+                "2": "",
+                "3": "(132.606.524.473)",
+                "4": "(109.701.338.257)"
+            },
+            {
+                "0": "25",
+                "1": "Chi phí bán hàng",
+                "2": "31",
+                "3": "(1.335.106.694.296)",
+                "4": "(1.230.387.363.412)"
+            },
+            {
+                "0": "26",
+                "1": "Chi phí quản lý doanh nghiệp",
+                "2": "32",
+                "3": "(495.909.067.684)",
+                "4": "(408.175.075.416)"
+            },
+            {
+                "0": "30",
+                "1": "Lợi nhuận thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "1.306.192.045.732",
+                "4": "1.449.223.577.574"
+            },
+            {
+                "0": "31",
+                "1": "Thu nhập khác",
+                "2": "",
+                "3": "4.724.316.142",
+                "4": "3.933.921.321"
+            },
+            {
+                "0": "32",
+                "1": "Chi phí khác",
+                "2": "",
+                "3": "(8.050.661.786)",
+                "4": "(3.580.227.262)"
+            },
+            {
+                "0": "40",
+                "1": "(Lỗ)/ lợi nhuận khác",
+                "2": "",
+                "3": "(3.326.345.644)",
+                "4": "353.694.059"
+            },
+            {
+                "0": "50",
+                "1": "Tổng lợi nhuận kế toán trước thuế",
+                "2": "",
+                "3": "1.302.865.700.088",
+                "4": "1.449.577.271.633"
+            },
+            {
+                "0": "51",
+                "1": "Chi phí thuế thu nhập doanh nghiệp (\"TNDN\") hiện hành",
+                "2": "33",
+                "3": "(272.183.368.394)",
+                "4": "(293.343.935.792)"
+            },
+            {
+                "0": "52",
+                "1": "Thu nhập thuế TNDN hoãn lại",
+                "2": "33",
+                "3": "1.583.332.364",
+                "4": "1.779.639.821"
+            },
+            {
+                "0": "60",
+                "1": "Lợi nhuận sau thuế TNDN",
+                "2": "",
+                "3": "1.032.265.664.058",
+                "4": "1.158.012.975.662"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_5",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Nguyễn Thành Đạt\nNgười lập\n\nDương Quang Hải\nKế toán trường\n\nLê Trí Thông\nTổng Giám đốc\nNgày 15 tháng 3 năm 2021\n\nCác thuyết minh từ trang 9 đến trang 43 là một phần cấu thành báo cáo tài chính riêng này.\n\n7\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 03 - DN\n\nBÁO CÁO LƯU CHUYỀN TIỀN TỆ RIÊNG\n\n(Theo phương pháp gián tiếp)",
+        "dataframe": [
+            {
+                "0": "Mãsố",
+                "1": "",
+                "2": "Thuyếtminh",
+                "3": "Nam tal chính kết trongngày 31 tháng 12 năm",
+                "4": "Nam tal chính kết trongngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mãsố",
+                "1": "",
+                "2": "Thuyếtminh",
+                "3": "2020VND",
+                "4": "2019VND"
+            },
+            {
+                "0": "01",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỒNG KINH DOANHLợi nhuận kế toán trước thuếĐiều chỉnh cho các khoản:",
+                "2": "",
+                "3": "1.302.865.700.088",
+                "4": "1.449.577.271.633"
+            },
+            {
+                "0": "02",
+                "1": "Khấu hao tài sản cố định (\"TSCĐ\")",
+                "2": "",
+                "3": "43.028.953.790",
+                "4": "34.838.963.175"
+            },
+            {
+                "0": "03",
+                "1": "Các khoản dự phòng",
+                "2": "",
+                "3": "51.747.998.745",
+                "4": "30.000.000.000"
+            },
+            {
+                "0": "04",
+                "1": "Lãi chênh lệch tỷ giá hối đoái do đánh giá lạicác khoản mục tiền tệ có gốc ngoại tệ",
+                "2": "",
+                "3": "(247.150.460)",
+                "4": "(1.242.529.054)"
+            },
+            {
+                "0": "05",
+                "1": "Lãi tử hoạt động đầu tư",
+                "2": "",
+                "3": "(186.563.446)",
+                "4": "(3.740.518.903)"
+            },
+            {
+                "0": "06",
+                "1": "Chi phí lãi vay",
+                "2": "",
+                "3": "132.606.524.473",
+                "4": "109.701.338.257"
+            },
+            {
+                "0": "08",
+                "1": "Lợi nhuận tử hoạt động kinh doanh trước nhữngthay đổi vốn lưu động",
+                "2": "",
+                "3": "1.529.815.463.190",
+                "4": "1.619.134.525.108"
+            },
+            {
+                "0": "09",
+                "1": "Giảm/(tăng) các khoản phải thu",
+                "2": "",
+                "3": "191.081.790.952",
+                "4": "(711.312.404.770)"
+            },
+            {
+                "0": "10",
+                "1": "Giảm/(tăng) hàng tồn kho",
+                "2": "",
+                "3": "54.427.868.393",
+                "4": "(780.175.746.510)"
+            },
+            {
+                "0": "11",
+                "1": "(Giảm)/tăng các khoản phải trả",
+                "2": "",
+                "3": "(69.313.595.461)",
+                "4": "154.122.437.896"
+            },
+            {
+                "0": "12",
+                "1": "Tăng chí phí trả trước",
+                "2": "",
+                "3": "(43.176.372.081)",
+                "4": "(38.683.530.822)"
+            },
+            {
+                "0": "14",
+                "1": "Tiền lãi vay đã trả",
+                "2": "",
+                "3": "(133.501.763.936)",
+                "4": "(108.653.972.896)"
+            },
+            {
+                "0": "15",
+                "1": "Thuế TNDN đã nộp",
+                "2": "",
+                "3": "(237.842.086.643)",
+                "4": "(275.691.386.747)"
+            },
+            {
+                "0": "17",
+                "1": "Tiền chi khác tử hoạt động kinh doanh",
+                "2": "",
+                "3": "(34.492.822.139)",
+                "4": "(20.260.223.341)"
+            },
+            {
+                "0": "20",
+                "1": "Lưu chuyển tiền thuần tử hoạt động kinh doanh",
+                "2": "",
+                "3": "1.256.998.482.275",
+                "4": "(161.520.302.082)"
+            },
+            {
+                "0": "21",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỒNG ĐẦU TƯ'Tiền chỉ để mua sắm, xây dựng TSCĐ và các tàisản dài hạn khác",
+                "2": "",
+                "3": "(31.943.696.474)",
+                "4": "(189.614.177.470)"
+            },
+            {
+                "0": "22",
+                "1": "Tiền thu từ thanh lý, nhượng bán TSCĐ",
+                "2": "",
+                "3": "133.567.536",
+                "4": "1.774.979.478"
+            },
+            {
+                "0": "23",
+                "1": "Tiền chỉ cho vay",
+                "2": "",
+                "3": "-",
+                "4": "(94.000.000.000)"
+            },
+            {
+                "0": "24",
+                "1": "Tiền thu hồi cho vay",
+                "2": "",
+                "3": "50.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "25",
+                "1": "Tiền chỉ đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "(170.000.000.000)",
+                "4": "(10.000.000.000)"
+            },
+            {
+                "0": "27",
+                "1": "Tiền thu lãi tiền gửi, cổ tức và lợi nhuận được chia",
+                "2": "",
+                "3": "102.132.124",
+                "4": "2.428.864.048"
+            },
+            {
+                "0": "30",
+                "1": "Lưu chuyển tiền thuần tử hoạt động đầu tư",
+                "2": "",
+                "3": "(151.707.996.814)",
+                "4": "(289.410.333.944)"
+            },
+            {
+                "0": "31",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỒNG TẢI CHÍNHTiền thu từ phát hành cổ phiếu, nhận vốn góp củachủ sở hữu",
+                "2": "",
+                "3": "46.375.540.000",
+                "4": "68.932.500.000"
+            },
+            {
+                "0": "32",
+                "1": "Tiền chỉ mua lại cổ phiếu đã phát hành",
+                "2": "",
+                "3": "(1.283.000.000)",
+                "4": "(2.094.000.000)"
+            },
+            {
+                "0": "33",
+                "1": "Tiền thu từ đi vay",
+                "2": "",
+                "3": "6.389.152.533.973",
+                "4": "5.047.550.445.086"
+            },
+            {
+                "0": "34",
+                "1": "Tiền chỉ trả nợ gốc vay",
+                "2": "",
+                "3": "(7.038.805.836.501)",
+                "4": "(4.387.362.004.881)"
+            },
+            {
+                "0": "36",
+                "1": "Tiền chỉ trả cổ tức",
+                "2": "",
+                "3": "(355.099.739.283)",
+                "4": "(343.875.424.770)"
+            },
+            {
+                "0": "40",
+                "1": "Lưu chuyển thuần tử hoạt động tài chính",
+                "2": "",
+                "3": "(959.660.501.811)",
+                "4": "383.151.515.435"
+            },
+            {
+                "0": "50",
+                "1": "Lưu chuyển tiền thuần trong năm",
+                "2": "",
+                "3": "145.629.983.650",
+                "4": "(67.779.120.591)"
+            },
+            {
+                "0": "60",
+                "1": "Tiền đầu năm",
+                "2": "3",
+                "3": "82.586.849.294",
+                "4": "150.227.254.450"
+            },
+            {
+                "0": "61",
+                "1": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+                "2": "",
+                "3": "247.150.460",
+                "4": "138.715.435"
+            },
+            {
+                "0": "70",
+                "1": "Tiền cuối năm",
+                "2": "3",
+                "3": "228.463.983.404",
+                "4": "82.586.849.294"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "Nguyễn Thành ĐạtNgười lập",
+                "1": "Nguyễn Thành ĐạtNgười lập",
+                "2": "Dương Quang HảiKế toán trường",
+                "3": "Dương Quang HảiKế toán trường",
+                "4": "Lê Trí ThôngTổng Giám đốcNgày 15 tháng 3 năm 2021"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_6",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Nguyễn Thành Đạt\nNgười lập\n\nDương Quang Hải\nKế toán trường\n\nLê Trí Thông\n\nTổng Giám đốc\n\nNgày 15 tháng 3 năm 2021\n\nCác thuyết minh từ trang 9 đến trang 43 là một phần cấu thành báo cáo tài chính riêng này.\n\n8\n\n\n\nCÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THẢNG 12 NĂM 2020\n\n1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY\n\nCông ty Cổ phần Vàng bạc Đá quý Phú Nhuận (\"Công ty\") là một công ty cổ phần được thành lập tại nước CHXHCN Việt Nam theo Giấy chứng nhận đăng ký doanh nghiệp số 0300521758 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp lần đầu ngày 2 tháng 1 năm 2004 và Giấy chứng nhận đăng ký doanh nghiệp điều chỉnh mới nhất lần thứ 30 ngày 31 tháng 12 năm 2019.\n\nNgày 23 tháng 3 năm 2009, cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh theo Quyết định số 129/UBCK-DKNY do Tổng Giám đốc Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ký ngày 26 tháng 12 năm 2008.\n\nHoạt động chính của Công ty là kinh doanh vàng, bạc, nữ trang và đá quý, xuất nhập khẩu nữ trang bằng vàng, bạc và đá quý.\n\nChu kỳ sản xuất kinh doanh thông thường của Công ty là 12 tháng.\n\nTại ngày 31 tháng 12 năm 2020, Công ty có 4 công ty con như được trình bày trong Thuyết minh 12 – Đầu tư tài chính dài hạn. Chỉ tiết như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nơi thành lập, đăng ký hoạt động",
+                "2": "31.12.2020",
+                "3": "31.12.2020",
+                "4": "31.12.2019",
+                "5": "31.12.2019",
+                "6": "Hoạt động chính"
+            },
+            {
+                "0": "",
+                "1": "Nơi thành lập, đăng ký hoạt động",
+                "2": "Tỷ lệ sở hữu %",
+                "3": "Tỷ lệ biểu quyết nắm giữ %",
+                "4": "Tỷ lệ sở hữu %",
+                "5": "Tỷ lệ biểu quyết nắm giữ %",
+                "6": "Hoạt động chính"
+            },
+            {
+                "0": "Công ty TNHH MTV Thời trang CAO",
+                "1": "Thành phố Hồ Chí Minh",
+                "2": "100",
+                "3": "100",
+                "4": "100",
+                "5": "100",
+                "6": "Kinh doanh trang sức"
+            },
+            {
+                "0": "Công ty TNHH MTV Giám định PNJ",
+                "1": "Thành phố Hồ Chí Minh",
+                "2": "100",
+                "3": "100",
+                "4": "100",
+                "5": "100",
+                "6": "Tư vấn và giám định vàng, bạc và đá quỹ"
+            },
+            {
+                "0": "Công ty TNHH MTV Chế tác và Kinh doanh Trang sức PNJ",
+                "1": "Thành phố Hồ Chí Minh",
+                "2": "100",
+                "3": "100",
+                "4": "100",
+                "5": "100",
+                "6": "Chế tác và kinh doanh trang sức"
+            },
+            {
+                "0": "Công ty TNHH MTV Kỳ nguyên Khách hàng",
+                "1": "Thành phố Hồ Chí Minh",
+                "2": "100",
+                "3": "100",
+                "4": "100",
+                "5": "100",
+                "6": "Bán lẻ hàng hóa"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_7",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Ngoài ra, tại ngày 31 tháng 12 năm 2020, Công ty có 56 chi nhánh (ngày 31 tháng 12 năm 2019: 53 chi nhánh) tại các Tỉnh và Thành phố khác nhau ở Việt Nam.\n\nTại ngày 31 tháng 12 năm 2020, Công ty có 4.609 nhân viên (tại ngày 31 tháng 12 năm 2019: 4.784 nhân viên).\n\n9\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU\n\n2.1 Co sò của việc soạn lập báo cáo tài chính riêng\n\nBáo cáo tài chính riêng đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng. Báo cáo tài chính riêng được lập theo nguyên tắc giá gốc.\n\nBáo cáo tài chính riêng kèm theo không nhằm mục đích trình bày tính hình tài chính, kết quả kinh doanh và tỉnh hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán thường được chấp nhận ở các nước và các thể chế khác ngoài nước Việt Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại nước Việt Nam có thể khác với các nguyên tắc và thông lệ kế toán tại các nước và các thể chế khác.\n\nNgoài ra, Công ty cũng đã soạn lập báo cáo tài chính hợp nhất của Công ty và các công ty con (gọi chung là “Tập đoàn”) theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Trong báo cáo tài chính hợp nhất, các công ty con là những công ty mà Tập đoàn kiểm soát các chính sách hoạt động và tài chính, đã được hợp nhất đầy đủ.\n\nNgười sử dụng báo cáo tài chính riêng của Công ty nên đọc cùng với báo cáo tài chính hợp nhất của Tập đoàn cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 để có đủ thông tin về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Tập đoàn.\n\n2.2 Năm tài chính\n\nNăm tài chính của Công ty bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12.\n\n2.3 Đơn vị tiền tệ sử dụng trong kế toán\n\nCông ty sử dụng đơn vị tiền tệ trong kế toán và được trình bày trên báo cáo tài chính riêng là Đồng Việt Nam (\"VND\" hoặc \"Đồng\"). Công ty xác định đơn vị tiền tệ sử dụng trong kế toán dựa vào đơn vị tiền tệ chủ yếu sử dụng trong các giao dịch bán hàng, cung cấp dịch vụ, có ảnh hưởng lớn đến giá bán hàng hóa, cung cấp dịch vụ; đơn vị tiền tệ dùng để niêm yết giá bán và nhận thanh toán; đơn vị tiền tệ sử dụng chủ yếu trong việc mua hàng hóa, dịch vụ; có ảnh hưởng lớn đến chi phí nhân công, nguyên vật liệu và các chi phí sản xuất kinh doanh khác, và thông thường dùng để thanh toán cho các chi phí đó.\n\nNgoài ra, Công ty còn sử dụng đơn vị tiền tệ này để huy động các nguồn lực tài chính (như phát hành cổ phiếu, trái phiếu) và/hoặc thường xuyên thu được đơn vị tiền tệ này từ các hoạt động kinh doanh và tích trữ lại.\n\n10\n\n\n\nCÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YỀU (tiếp theo)\n\n2.4 Các loại tỷ giá hối đoái áp dụng trong kế toán\n\nCác nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá giao dịch thực tế áp dụng tại ngày phát sinh nghiệp vụ. Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh riêng.\n\nTài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày của bằng cân đối kế toán riêng lần lượt được quy đổi theo tỷ giá mua và tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch áp dụng tại ngày bằng cân đối kế toán riêng. Các khoản ngoại tệ gửi ngân hàng tại ngày của bằng cân đối kế toán được quy đổi theo tỷ giá mua của chính ngân hàng thương mại nơi Công ty mở tài khoản ngoại tệ. Chênh lệch tỷ giá phát sinh từ việc quy đổi này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh riêng.\n\n2.5 Tiền\n\nTiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng và tiền đang chuyển.\n\n2.6 Các khoản phải thu\n\nCác khoản phải thu thể hiện giá trị ghi sổ của các khoản phải thu khách hàng gồm các khoản phải thu mang tính chất thương mại phát sinh từ giao dịch bán hàng hóa, cung cấp dịch vụ; và các khoản phải thu khác không có tính thương mại, không liên quan đến giao dịch bán hàng hóa và cung cấp dịch vụ. Dự phòng các khoản phải thu khó đòi được lập cho từng khoản phải thu căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên), hoặc căn cứ vào mức tổn thất dự kiến có thể xảy ra. Các khoản phải thu được xác định là không thể thu hồi sẽ được xóa sổ.\n\nCác khoản phải thu được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản phải thu tại ngày của bằng cân đối kế toán riêng tới ngày đến hạn thu hồi.\n\n2.7 Hàng tồn kho\n\nHàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được xác định trên cơ sở bình quân gia quyền và bao gồm tất cả các chi phí mua, chi phí chế biến và các chi phí khác có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Trong trường hợp các sản phẩm được sản xuất, giá gốc bao gồm tất cả các chi phí trực tiếp và chi phí sản xuất chung dựa trên mức độ hoạt động bình thường. Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong năm kinh doanh bình thường trừ chi phí ước tính để hoàn thành sản phẩm và chi phí ước tính cần thiết cho việc tiêu thụ.\n\nCông ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.\n\nDự phòng được lập cho hàng tồn kho bị lỗi thời, chấm lưu chuyển và bị hông. Chênh lệch giữa khoản dự phòng phải lập ở cuối năm kế toán này và khoản dự phòng đã lập ở cuối năm kế toán trước được ghi nhận tăng hoặc giảm giá vốn hàng bán trong năm.\n\n11\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YÊU (tiếp theo)\n\n2.8 Đầu tư tài chính\n\n(a) Đầu tư vào công ty con\n\nCông ty con là những doanh nghiệp mà Công ty có quyền chi phối các chính sách tài chính và hoạt động của doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó, thường đi kèm là việc nấm giữ hơn một nửa quyền biểu quyết. Sự tổn tại và tính hữu hiệu của quyền biểu quyết tiêm tàng đang được thực thi hoặc được chuyển đổi sẽ được xem xét khi đánh giá liệu Công ty có quyền kiểm soát doanh nghiệp hay không.\n\nĐầu tư vào công ty con được ghi nhận ban đầu theo giá gốc, bao gồm giá trị góp vốn công các chi phí liên quan trực tiếp đến việc đầu tư. Sau đó, Ban Điều hành thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối kỳ kế toán.\n\n(b) Đầu tư góp vốn vào đơn vị khác\n\nĐầu tư góp vốn vào đơn vị khác là khoản đầu tư vào công cụ vốn của đơn vị khác nhưng không có quyền kiểm soát hoặc đồng kiểm soát, không có ảnh hưởng đáng kể đối với bên được đầu tư. Khoản đầu tư này được ghi nhận ban đầu theo giả gốc. Sau đó, Ban Điều hành thực hiện việc rà soát đối với khoản đầu tư để ghi nhận dự phòng vào cuối kỳ kế toán.\n\n(c) Dự phòng giảm giá đầu tư vào công ty con, đầu tư góp vốn vào đơn vị khác\n\nDự phòng giảm giá đầu tư vào công ty con, đầu tư góp vốn vào đơn vị khác được lập vào cuối kỳ kế toán khi có sự giảm giá trị của các khoản đầu tư. Đối với khoản đầu tư vào cổ phiếu niêm yết hoặc giá trị hợp lý khoản đầu tư được xác định tin cây dự phòng được lập khi giá gốc cao hơn giá trị thị trường. Đối với các khoản đầu tư khác, dự phòng giảm giá đầu tư được lập khi Công ty nhận đầu tư bị lỗ, ngoại trừ khoản lỗ mà Ban điều hành Công ty đã dự đoán từ khi đầu tư.\n\nChênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi số ban đầu.\n\n2.9 Cho vay\n\nCho vay là các khoản cho vay với mục đích thu lãi hàng kỳ theo khế ước giữa các bên nhưng không được giao dịch mua, bán trên thị trường như chứng khoản.\n\nCho vay được ghi nhận ban đầu theo giá gốc. Sau đó, Ban Điều hành thực hiện việc rà soát đối với tất cả các khoản còn chưa thu để ghi nhận dự phòng các khoản cho vay khó đòi vào cuối kỳ kế toán. Dự phòng các khoản cho vay khó đòi được lập cho từng khoản cho vay căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên), hoặc căn cứ vào mức tổn thất dự kiến có thể xây ra. Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi số ban đầu.\n\nCho vay được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản cho vay tại ngày của bằng cân đối kế toán riêng đến ngày tới hạn thu hồi.\n\n12\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU (tiếp theo)\n\n2.10 Tài sản cố định (\"TSCĐ\")\n\nTSCĐ hữu hình và TSCĐ vô hình\n\nTSCĐ được phần ánh theo nguyên giá trừ khấu hao lũy kế. Nguyên giá bao gồm các chi phí liên quan trực tiếp đến việc có được TSCĐ ở trạng thải sản sàng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên giá TSCĐ nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí sản xuất kinh doanh trong năm.\n\nKhâu hao\n\nTSCĐ được khấu hao theo phương pháp đường thẳng để trừ dần nguyên giá tài sản qua suốt thời gian hữu dụng ước tính. Thời gian hữu dụng ước tính của các loại tài sản như sau:",
+        "dataframe": [
+            {
+                "0": "Nhà cửa, vật kiến trúc",
+                "1": "5 - 25 năm"
+            },
+            {
+                "0": "Máy móc, thiết bị",
+                "1": "3 - 15 năm"
+            },
+            {
+                "0": "Phương tiện vận tải",
+                "1": "5 - 10 năm"
+            },
+            {
+                "0": "Thiết bị quản lý",
+                "1": "3 - 10 năm"
+            },
+            {
+                "0": "Phần mềm",
+                "1": "3 - 5 năm"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_8",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Quyền sử dụng đất không thời hạn được ghi nhận theo giá gốc và không khấu hao.\n\nThanh lý\n\nLãi hoặc lỗ phát sinh do thanh lý nhượng bán TSCĐ được xác định bằng số chênh lệch giữa số tiền thu thuần do thanh lý với giá trị còn lại của TSCĐ và được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh riêng.\n\nChỉ phí xây dựng cơ bản dở dang\n\nChi phí xây dựng cơ bản dở dang thể hiện giá trị của các tài sản trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê hoặc quản trị, hoặc cho bất kì mục đích nào khác, được ghi nhận theo giá gốc, bao gồm toàn bộ chi phí cần thiết để xây dựng mới hoặc sửa chữa, cải tạo, mở rộng hay trang bị lại kỹ thuật công trình như chi phí xây dựng; chi phí thiết bị; chi phí tư vấn đầu tư xây dựng; và chi phí vay được vốn hóa đối với tài sản đủ điều kiện phù hợp với chính sách kế toán của Công ty. Khấu hao của những tài sản này, cũng giống như các loại TSCĐ khác, sẽ bất đầu được trích khi tài sản đã sẵn sàng cho mục đích sử dụng.\n\n2.11 Thuê tài sản hoạt động\n\nThuê hoạt động là loại hình thuê TSCĐ mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.\n\n13\n\n\n\nCÔNG TY CÔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU (tiếp theo)\n\n2.12 Chi phí trả trước\n\nChi phí trả trước bao gồm các chi phí trả trước ngắn hạn và chi phí trả trước dài hạn trên bằng cân đối kế toán riêng. Các khoản chi phí trả trước này được ghi nhận theo giá gốc và được phân bổ theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính.\n\n2.13 Nợ phải trả\n\nCác khoản nợ phải trả được phân loại dựa vào tính chất bao gồm:\n\n- Phải trả người bán gồm các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa và dịch vụ; và\n\n- Phải trả khác gồm các khoản phải trả không có tính thương mại, không liên quan đến giao dịch mua hàng hóa và dịch vụ.\n\nCác khoản nợ phải trả được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản phải trả tại ngày của bằng cân đối kế toán riêng đến ngày tới hạn thanh toán.\n\n2.14 Vay\n\nVay bao gồm các khoản tiền vay từ các ngân hàng, cá nhân và bên liên quan.\n\nCác khoản vay được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản vay tại ngày của bằng cân đối kế toán riêng đến ngày tới hạn thanh toán.\n\nChi phí đi vay liên quan trực tiếp đối với hoạt động xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn sẽ được vốn hóa trong thời gian mà các tài sản này được hoàn thành và chuẩn bị đưa vào sử dụng. Đối với các khoản vay chung trong đó có sử dụng vốn cho mục đích đầu tư xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn thì Công ty xác định chi phí đi vay được vốn hóa theo tỷ lệ vốn hóa đối với chi phí lũy kế bình quân gia quyền phát sinh cho việc đầu tư xây dựng cơ bản hoặc sản xuất tài sản đủ tiêu chuẩn đó. Tỷ lệ vốn hóa được tính theo tỷ lệ lãi suất bình quân gia quyền của các khoản vay chưa trả trong năm, trừ các khoản vay riêng biết phục vụ cho mục đích hình thành một tài sản cụ thể. Chi phí đi vay khác được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.\n\n2.15 Chi phí phải trả\n\nBao gồm các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán trong năm báo cáo nhưng thực tế chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán, được ghi nhận vào chi phí sản xuất kinh doanh của năm báo cáo.\n\n14\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU (tiếp theo)\n\n2.16 Các khoản dự phòng\n\nCác khoản dự phòng được ghi nhận khi Công ty có nghĩa vụ nợ hiện tại, pháp lý hoặc liên đối, phát sinh từ các sự kiện đã xảy ra; sự giảm sút những lợi ích kinh tế có thể xảy ra dẫn đến việc yêu cầu phải thanh toán nghĩa vụ nợ; và giá trị của nghĩa vụ nợ đó được ước tính một cách đáng tin cây. Dự phòng không được ghi nhận cho các khoản lỗ hoạt động trong tương lai.\n\nDự phòng được tính trên cơ sở các khoản chi phí dự tính phải thanh toán nghĩa vụ nợ. Nếu ảnh hưởng về giá trị thời gian của tiền là trong yếu thì dự phòng được tính trên cơ sở giá trị hiện tại với tỷ lệ chiết khấu trước thuế và phân ảnh những đánh giá trên thị trường hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó. Giá trị tăng lên do ảnh hưởng của yếu tố thời gian được ghi nhận là chi phí tài chính. Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập chưa sử dụng ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chi phí sản xuất kinh doanh trong năm.\n\n2.17 Dụ phòng trợ cấp thời việc\n\nTheo Luật Lao động Việt Nam, người lao động của Công ty đã làm việc thường xuyên đủ 12 tháng trở lên được hưởng khoản trợ cấp thời việc. Thời gian làm việc để tính trợ cấp thời việc là tổng thời gian người lao động đã làm việc thực tế cho Công ty trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và thời gian làm việc đã được Công ty chỉ trả trợ cấp thời việc.\n\nTrợ cấp thời việc của người lao đông được trích trước cuối mỗi năm báo cáo theo tỷ lệ bằng một nửa mức lương bình quân tháng cho mỗi nằm làm việc. Mức lương bình quân tháng để tính trợ cấp thời việc dựa trên mức lương bình quân theo hợp đồng lao động của sâu tháng gần nhất tính đến trước ngày lập bảng cân đối kế toán riêng này.\n\nKhoản trích trước này được sử dụng để trả một lần khi người lao động chấm dứt hợp đồng lao động theo quy định hiện hành.\n\n2.18 Vốn chủ sở hữu\n\nVốn góp của chủ sở hữu được ghi nhận theo số thực tế góp của các cổ đông và được phần ánh theo mênh giá của cổ phiếu.\n\nThăng dư vốn cổ phần là khoản chênh lệch giữa vốn góp theo mênh giá cổ phiếu với giá thực tế phát hành cổ phiếu; chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tái phát hành cổ phiếu quỹ.\n\nCổ phiếu quỹ là cổ phiếu do Công ty phát hành và được mua lại bởi chính Công ty, nhưng chưa bị hủy bỏ và sẽ được tái phát hành trở lại trong khoảng thời gian theo quy định của pháp luật về chứng khoán.\n\nLNST chưa phân phối của Công ty phân ánh kết quả kinh doanh lũy kế sau thuế TNDN của Công ty tại thời điểm báo cáo.\n\n15\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU (tiếp theo)\n\n2.19 Phân chia lợi nhuận\n\nCổ tức của Công ty được ghi nhận là một khoản phải trả trong báo cáo tài chính riêng của năm tài chính mà cổ tức được thông qua tại Đại hội đồng Cổ đông.\n\nLNST TNDN có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê chuẩn và sau khi đã trích lập các quỹ dự phòng theo điều lệ của Công ty và các quy định của pháp luật Việt Nam.\n\nCông ty trích lập các quỹ dự phòng như sau:\n\n(a) Quỹ đầu tư phát triển\n\nQuỹ đầu tư phát triển được trích lập từ LNST TNDN của Công ty và được các cổ đông phê chuẩn tại Đại hội đồng Cổ đông. Quỹ này được trích lập nhằm phục vụ cho việc mở rộng hoạt động hoặc đầu tư chiều sâu của Công ty.\n\n(b) Quỹ khen thưởng, phúc lợi\n\nQuỹ khen thưởng, phúc lợi được trích lập từ LNST TNDN của Công ty và được các cổ đông phê chuẩn tại Đại hội đồng Cổ đông. Quỹ này được trình bày là một khoản phải trả trên bảng cân đối kế toán riêng. Quỹ khen thưởng, phúc lợi được trích lập nhằm khen thưởng và khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho cán bộ, công nhân viên.\n\n2.20 Ghi nhận doanh thu\n\n(a) Doanh thu bán hàng\n\nDoanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:\n\n- Công ty đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;\n\n- Công ty không còn nấm giữ quyền quản lý sản phẩm hoặc hàng hóa như người sở hữu sản phẩm hoặc hàng hóa hoặc quyền kiểm soát sản phẩm hoặc hàng hóa;\n\n- Doanh thu được xác định tương đối chắc chắn;\n\n• Công ty sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và\n\n• Xác định được chi phí liên quan đến giao dịch bán hàng.\n\nDoanh thu không được ghi nhận khi có yếu tố không chắc chắn mang tính trọng yếu về khả năng thu được tiền bán hàng hoặc khả năng hàng bán bị trả lại.\n\nDoanh thu được ghi nhận phù hợp với \"bản chất hơn hình thức\" và được phân bổ theo nghĩa vụ cung ứng hàng hóa. Trường hợp Công ty dùng sản phẩm, hàng hóa để khuyến mãi cho khách hàng kèm theo điều kiện mua hàng của Công ty thì Công ty phân bổ số tiền thu được để tính doanh thu cho cả hàng khuyến mãi và giá trị hàng khuyến mãi được tính vào giá vốn hàng bán.\n\n16\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YỀU (tiếp theo)\n\n2.20 Ghi nhận doanh thu (tiếp theo)\n\n(b) Doanh thu cung cấp dịch vụ\n\nDoanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi dịch vụ đã được cung cấp, bằng cách tính mức độ hoàn thành của từng giao dịch, dựa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung cấp so với tổng khối lượng dịch vụ phải cung cấp. Doanh thu cung cấp dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bón (4) điều kiện sau:\n\n- Doanh thu được xác định tương đối chắc chắn;\n\n• Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;\n\n- Xác định được phần công việc đã hoàn thành tại ngày của bảng cân đối kế toán riêng; và\n\n- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.\n\n(c) Thu nhập lãi\n\nThu nhập lãi được ghi nhận khi được hưởng.\n\n(d) Thu nhập từ cổ tức\n\nThu nhập từ cổ tức được ghi nhận khi Công ty xác lập quyền nhận cổ tức từ các đơn vị đầu tư.\n\n2.21 Khoản giảm trừ doanh thu\n\nKhoản giảm trừ doanh thu bao gồm hàng bán bị trả lại. Khoản giảm trừ doanh thu phát sinh cùng kỳ tiêu thụ sản phẩm, hàng hóa, dịch vụ được ghi nhận điều chỉnh giảm doanh thu kỳ phát sinh.\n\nKhoản giảm trừ doanh thu đối với sản phẩm, hàng hóa, dịch vụ tiêu thụ trong năm, phát sinh sau ngày của bằng cân đối kế toán riêng nhưng trước thời điểm phát hành báo cáo tài chính riêng được ghi nhận điều chỉnh giảm doanh thu của năm lập báo cáo.\n\n2.22 Giá vốn hàng bán và dịch vụ cung cấp\n\nGiá vốn hàng bán và dịch vụ cung cấp là tổng chi phí phát sinh của thành phẩm, hàng hóa, vật tư xuất bán và dịch vụ cung cấp cho khách hàng trong năm, được ghi nhận theo nguyên tắc phù hợp với doanh thu và nguyên tắc thân trọng.\n\n2.23 Chi phí tài chính\n\nChi phí tài chính phần ánh những khoản chi phí hoạt động tài chính phát sinh trong năm chủ yếu bao gồm các khoản chi phí hoặc các khoản lỗ liên quan đến các hoạt động đầu tư tài chính, chi phí đi vay vốn, và lỗ tỷ giá hối đoái.\n\n17\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n2.24 Chi phí bán hàng\n\nChi phí bán hàng chủ yếu phần ánh các chi phí thực tế phát sinh trong quá trình bán sản phẩm, hàng hóa, cung cấp dịch vụ, chủ yếu bao gồm các chi phí chào hàng; giới thiệu sản phẩm; quảng cáo sản phẩm; phí bảo hành; duy trì; đóng gói; và vận chuyển.\n\n2.25 Chi phí quản lý doanh nghiệp\n\nChi phí quản lý doanh nghiệp phản ánh các chi phí quản lý chung của Công ty chủ yếu bao gồm các chi phí về lương nhân viên bộ phận quản lý (tiền lương, tiền công, các khoản phụ cấp,...); bảo hiểm xã hội, bảo hiểm y tế, kinh phí công đoàn, bảo hiểm thất nghiệp của nhân viên quản lý; chi phí vật liệu văn phòng; công cụ lao động; khấu hao TSCĐ dùng cho quản lý doanh nghiệp; thuê đất; dịch vụ mua ngoài; và chi phí khác.\n\n2.26 Thuế TNDN và thuế TNDN hoãn lại\n\nThuế TNDN bao gồm toàn bộ số thuế TNDN tính trên thu nhập chịu thuế TNDN, kể cả các khoản thu nhập nhận được từ hoạt động sản xuất, kinh doanh hàng hóa dịch vụ tại nước ngoài mà Việt Nam chưa ký hiệp định về tránh đánh thuế hai lần. Chi phí thuế thu nhập bao gồm chi phí thuế TNDN hiện hành và chi phí thuế TNDN hoãn lại.\n\nThuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế và thuế suất thuế TNDN của năm hiện hành. Thuế TNDN hiện hành và thuế TNDN hoãn lại được ghi nhận là thu nhập hay chí phí khi xác định lợi nhuận hoặc lỗ của kỳ phát sinh, ngoại trừ trường hợp thuế thu nhập phát sinh từ một giao dịch hoặc sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng kỳ hay một kỳ khác.\n\nThuế TNDN hoãn lại được tính đầy đủ, sử dụng phương thức công nợ, tính trên các khoản chênh lệch tạm thời giữa giá trị ghi số của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính và cơ sở tính thuế TNDN của các khoản mục này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch mà giao dịch này không phải là giao dịch sáp nhập doanh nghiệp, không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tính thuế thu nhập tại thời điểm phát sinh giao dịch. Thuế TNDN hoãn lại được tính theo thuế suất dự tính được áp dụng trong niên độ mà tài sản được thu hồi hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu lực tại ngày của bảng cân đối kế toán riêng.\n\nTài sản thuế TNDN hoãn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế TNDN trong tương lai để sử dụng những chênh lệch tạm thời được khấu trừ.\n\n2.27 Các bên liên quan\n\nCác doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Công ty hoặc chịu sự kiểm soát của Công ty, hoặc cũng chung sự kiểm soát với Công ty, bao gồm cả công ty mẹ, công ty con và công ty liên kết là các bên liên quan. Các bên liên kết, các cá nhân trực tiếp hoặc gián tiếp nằm quyền biểu quyết của Công ty mà có ảnh hưởng đáng kể đối với Công ty, những cá nhân quản lý chủ chốt bao gồm Ban Điều hành Công ty, những thành viên mặt thiết trong gia đình của các cá nhân này hoặc các bên liên kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan.\n\nTrong việc xem xét từng mối quan hệ của các bên liên quan, Công ty căn cứ vào bản chất của mối quan hệ chữ không chỉ hình thức pháp lý của các quan hệ đó.\n\n18\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU (tiếp theo)\n\n2.28 Uốc tính kế toán\n\nViệc lập báo cáo tài chính riêng tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý khác có liên quan đến việc lập và trình bày báo cáo tài chính riêng yêu cầu Ban Điều hành phải có những ước tính và giả định ảnh hưởng đến số liệu về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiêm tàng tại ngày kết thúc năm tài chính cũng như các số liệu về doanh thu và chi phí trong suốt năm tài chính. Mặc dù các ước tính kê toán được lập bằng tất cả sự hiểu biết của Ban Điều hành, số thực tế phát sinh có thể khác với các ước tính.\n\nCác ước tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính riêng bao gồm:\n\n• Thời gian hữu dụng ước tính của TSCĐ (Thuyết minh 9);\n\n• Khoản dự phòng đầu tư tài chính dài hạn (Thuyết minh 12);\n\n• Ghi nhân tài sản thuế thu nhập hoãn lại (Thuyết minh 22); và\n\n• Dự phòng phải thu ngắn hạn khó đòi (Thuyết minh 7).\n\nCác ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khứ và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính riêng của Công ty và được Ban Điều hành đánh giá là hợp lý.\n\n3 TIÊN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "111.148.587.697",
+                "2": "51.564.859.289"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "94.288.301.206",
+                "2": "16.380.464.624"
+            },
+            {
+                "0": "Tiền đang chuyển",
+                "1": "23.027.094.501",
+                "2": "14.641.525.381"
+            },
+            {
+                "0": "",
+                "1": "228.463.983.404",
+                "2": "82.586.849.294"
+            },
+            {
+                "0": "Bên thứ ba",
+                "1": "Bên thứ ba",
+                "2": "Bên thứ ba"
+            },
+            {
+                "0": "Công ty TNHH Aeon Việt Nam - Chi nhánh",
+                "1": "5.965.409.829",
+                "2": "3.770.153.502"
+            },
+            {
+                "0": "Bình Dương",
+                "1": "5.965.409.829",
+                "2": "3.770.153.502"
+            },
+            {
+                "0": "Công ty TNHH Aeon Việt Nam",
+                "1": "4.699.946.682",
+                "2": "3.134.551.256"
+            },
+            {
+                "0": "Công ty TNHH Aeon Việt Nam - Chi nhánh",
+                "1": "4.699.946.682",
+                "2": "3.134.551.256"
+            },
+            {
+                "0": "Bình Tân",
+                "1": "4.658.692.785",
+                "2": "3.035.969.672"
+            },
+            {
+                "0": "Khác",
+                "1": "27.417.283.989",
+                "2": "21.581.250.012"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 35(b))",
+                "1": "-",
+                "2": "65.012.646.029"
+            },
+            {
+                "0": "",
+                "1": "42.741.333.285",
+                "2": "96.534.570.471"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_9",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019, Công ty không có khoản phải thu nào quá hạn hoặc chưa quá hạn nhưng khó có khả năng thu hồi.\n\n19\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n5 TRÀ TRƯỚC CHO NGƯỜI BÁN NGĂN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Bên thứ ba",
+                "1": "Bên thứ ba",
+                "2": "Bên thứ ba"
+            },
+            {
+                "0": "Công ty Cổ phần Xây dựng và Trang tríNội thất Cao tốc",
+                "1": "-",
+                "2": "7.115.103.418"
+            },
+            {
+                "0": "Công ty Cổ phần Xây dựng Địa ốc Gia KhangKhác",
+                "1": "3.035.860.00012.626.111.136",
+                "2": "5.340.173.00027.072.307.235"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 35(b))",
+                "1": "555.958.962.697",
+                "2": "692.306.416.495"
+            },
+            {
+                "0": "",
+                "1": "571.620.933.833",
+                "2": "731.834.000.148"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_10",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "6 PHÀI THU KHÁC\n\n(a) Ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Tạm ứng cho nhân viên",
+                "1": "4.362.005.293",
+                "2": "1.014.075.124"
+            },
+            {
+                "0": "Khác",
+                "1": "5.709.249.495",
+                "2": "775.705.010"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 35(b))",
+                "1": "2.392.628.963",
+                "2": "2.303.718.963"
+            },
+            {
+                "0": "",
+                "1": "12.463.883.751",
+                "2": "4.093.499.097"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_11",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019, Công ty không có khoản phải thu ngắn hạn khác nào quá hạn hoặc chưa quá hạn nhưng khó có khả năng thu hồi.\n\n(b) Dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Đặt cọc thuê cửa hàng",
+                "1": "73.087.785.912",
+                "2": "67.305.344.776"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_12",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "20\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n7 NỘ KHÓ ĐỜI",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020",
+                "2": "2020",
+                "3": "2020",
+                "4": "2020"
+            },
+            {
+                "0": "",
+                "1": "Giá trị gốc VND",
+                "2": "Giá trị có thể thu hồi VND",
+                "3": "Dự phòng VND",
+                "4": "Thời gian quá hạn"
+            },
+            {
+                "0": "i-Tổng giá trị các khoản cho vay quá hạn thanh toán",
+                "1": "50.000.000.000",
+                "2": "4.643.809.101",
+                "3": "(45.356.190.899)",
+                "4": "Trên 2 năm"
+            },
+            {
+                "0": "ii-Tổng giá trị các khoản phải thu chưa quá hạn nhưng khó có khả năng thu hồi",
+                "1": "1.202.878.846",
+                "2": "-",
+                "3": "(1.202.878.846)",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "2019",
+                "2": "2019",
+                "3": "2019",
+                "4": "2019"
+            },
+            {
+                "0": "",
+                "1": "Giá trị gốc VND",
+                "2": "Giá trị có thể thu hồi VND",
+                "3": "Dự phòng VND",
+                "4": "Thời gian quá hạn"
+            },
+            {
+                "0": "i-Tổng giá trị các khoản cho vay quá hạn thanh toán",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "ii-Tổng giá trị các khoản phải thu chưa quá hạn nhưng khó có khả năng thu hồi",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_13",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "8 HÀNG TÔN KHO",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Nguyên vật liệu",
+                "1": "90.138.560.521",
+                "2": "67.475.247.675"
+            },
+            {
+                "0": "Công cụ, dụng cụ",
+                "1": "21.981.313.101",
+                "2": "27.472.070.110"
+            },
+            {
+                "0": "Chi phí SXKD dở dang",
+                "1": "960.609.840",
+                "2": "351.747.040"
+            },
+            {
+                "0": "Hàng hóa",
+                "1": "5.432.534.123.996",
+                "2": "5.504.743.411.026"
+            },
+            {
+                "0": "",
+                "1": "5.545.614.607.458",
+                "2": "5.600.042.475.851"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_14",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2020, hàng tồn kho của Công ty với tổng giá trị là 2.176.916.000.000 Đồng (ngày 31 tháng 12 năm 2019: 1.506.916.000.000 Đồng) đã được dùng để làm tài sản thế chấp cho các khoản vay ngân hàng thương mại ngắn hạn (Thuyết minh 19(a)).\n\n21\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n9 CHI PHÍ TRÀ TRƯỚC\n\n(a) Ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Chi phí thuê hoạt động",
+                "1": "28.137.004.357",
+                "2": "27.634.980.897"
+            },
+            {
+                "0": "Chi phí công nghệ thông tin",
+                "1": "12.490.883.142",
+                "2": "8.345.505.585"
+            },
+            {
+                "0": "Công cụ và dụng cụ",
+                "1": "9.088.558.141",
+                "2": "15.862.561.625"
+            },
+            {
+                "0": "Chi phí sửa chữa và bảo trì",
+                "1": "4.733.609.694",
+                "2": "4.109.332.379"
+            },
+            {
+                "0": "Chi phí đồng phục nhân viên",
+                "1": "-",
+                "2": "7.374.039.462"
+            },
+            {
+                "0": "Chi phí thuê bằng quảng cáo",
+                "1": "-",
+                "2": "515.780.770"
+            },
+            {
+                "0": "Khác",
+                "1": "6.533.453.215",
+                "2": "2.608.460.337"
+            },
+            {
+                "0": "",
+                "1": "60.983.508.549",
+                "2": "66.450.661.055"
+            },
+            {
+                "0": "Chi phí cải tạo văn phòng và cửa hàng",
+                "1": "80.669.317.259",
+                "2": "47.605.216.973"
+            },
+            {
+                "0": "Công cụ và dụng cụ",
+                "1": "77.339.118.407",
+                "2": "64.032.891.314"
+            },
+            {
+                "0": "Chi phí thuê cửa hàng",
+                "1": "13.759.093.930",
+                "2": "9.616.517.091"
+            },
+            {
+                "0": "Chi phí thuê bằng quảng cáo",
+                "1": "-",
+                "2": "1.950.362.470"
+            },
+            {
+                "0": "Khác",
+                "1": "2.547.310.357",
+                "2": "2.466.327.518"
+            },
+            {
+                "0": "",
+                "1": "174.314.839.953",
+                "2": "125.671.315.366"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_15",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "22\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n10 TSCD\n\n(a) TSCĐ hữu hình",
+        "dataframe": [
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá",
+                "3": "Nguyên giá",
+                "4": "Nguyên giá",
+                "5": "Nguyên giá"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2020",
+                "1": "148.336.281.191",
+                "2": "40.810.468.790",
+                "3": "30.170.753.351",
+                "4": "84.088.246.323",
+                "5": "303.405.749.655"
+            },
+            {
+                "0": "Mua trong năm",
+                "1": "8.774.948.708",
+                "2": "8.266.018.366",
+                "3": "-",
+                "4": "10.054.098.498",
+                "5": "27.095.065.572"
+            },
+            {
+                "0": "Thanh lý, nhượng bán",
+                "1": "-",
+                "2": "(1.450.852.936)",
+                "3": "-",
+                "4": "(281.671.628)",
+                "5": "(1.732.524.564)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2020",
+                "1": "157.111.229.899",
+                "2": "47.625.634.220",
+                "3": "30.170.753.351",
+                "4": "93.860.673.193",
+                "5": "328.768.290.663"
+            },
+            {
+                "0": "Khấu hao lũy kế",
+                "1": "Khấu hao lũy kế",
+                "2": "Khấu hao lũy kế",
+                "3": "Khấu hao lũy kế",
+                "4": "Khấu hao lũy kế",
+                "5": "Khấu hao lũy kế"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2020",
+                "1": "44.008.607.930",
+                "2": "24.730.427.324",
+                "3": "13.681.549.200",
+                "4": "38.235.953.325",
+                "5": "120.656.537.779"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "7.398.762.243",
+                "2": "6.630.159.402",
+                "3": "3.658.981.212",
+                "4": "12.141.593.691",
+                "5": "29.829.496.548"
+            },
+            {
+                "0": "Thanh lý, nhượng bán",
+                "1": "-",
+                "2": "(1.401.716.722)",
+                "3": "-",
+                "4": "(281.671.628)",
+                "5": "(1.683.388.350)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2020",
+                "1": "51.407.370.173",
+                "2": "29.958.870.004",
+                "3": "17.340.530.412",
+                "4": "50.095.875.388",
+                "5": "148.802.645.977"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại",
+                "3": "Giá trị còn lại",
+                "4": "Giá trị còn lại",
+                "5": "Giá trị còn lại"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2020",
+                "1": "104.327.673.261",
+                "2": "16.080.041.466",
+                "3": "16.489.204.151",
+                "4": "45.852.292.998",
+                "5": "182.749.211.876"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2020",
+                "1": "105.703.859.726",
+                "2": "17.666.764.216",
+                "3": "12.830.222.939",
+                "4": "43.764.797.805",
+                "5": "179.965.644.686"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_16",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2020, TSCĐ hữu hình của Công ty với giá trị còn lại 10.555.033.631 Đồng (ngày 31 tháng 12 năm 2019: 10.071.979.475 Đồng) đã được dùng để làm tài sản thế chấp cho các khoản vay ngân hàng thương mại (Thuyết minh 19).\n\nNguyên giá của TSCĐ hữu hình đã khấu hao hết nhưng vấn còn sử dụng tài ngày 31 tháng 12 năm 2020 là 34.879.810.146 Đồng (ngày 31 tháng 12 năm 2019: 27.459.540.133 Đồng).\n\n23\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n10 TSCĐ (tiếp theo)\n\n(b) TSCĐ vô hình",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Quyền sử dụng đất VND",
+                "2": "Phần mềm VND",
+                "3": "Tổng cộng VND"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá",
+                "3": "Nguyên giá"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2020",
+                "1": "542.687.586.739",
+                "2": "123.611.459.118",
+                "3": "666.299.045.857"
+            },
+            {
+                "0": "Mua trong năm",
+                "1": "41.690.203",
+                "2": "2.816.021.599",
+                "3": "2.857.711.802"
+            },
+            {
+                "0": "Thanh lý, nhượng bán",
+                "1": "-",
+                "2": "(96.000.000)",
+                "3": "(96.000.000)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2020",
+                "1": "542.729.276.942",
+                "2": "126.331.480.717",
+                "3": "669.060.757.659"
+            },
+            {
+                "0": "Khấu hao lũy kế",
+                "1": "Khấu hao lũy kế",
+                "2": "Khấu hao lũy kế",
+                "3": "Khấu hao lũy kế"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2020",
+                "1": "-",
+                "2": "19.243.741.955",
+                "3": "19.243.741.955"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "-",
+                "2": "13.199.457.242",
+                "3": "13.199.457.242"
+            },
+            {
+                "0": "Thanh lý, nhượng bán",
+                "1": "-",
+                "2": "(96.000.000)",
+                "3": "(96.000.000)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2020",
+                "1": "-",
+                "2": "32.347.199.197",
+                "3": "32.347.199.197"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại",
+                "3": "Giá trị còn lại"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2020",
+                "1": "542.687.586.739",
+                "2": "104.367.717.163",
+                "3": "647.055.303.902"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2020",
+                "1": "542.729.276.942",
+                "2": "93.984.281.520",
+                "3": "636.713.558.462"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_17",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2020, giá trị quyền sử dụng đất của Công ty trị giá 49.837.617.572 Đồng (ngày 31 tháng 12 năm 2019: 49.837.617.572 Đồng) đã được dùng để làm tài sản thể chấp cho các khoản vay ngân hàng thương mại của Công ty (Thuyết minh 19).\n\nNguyên giá của phần mềm máy tính đã khấu hao hết nhưng vẫn còn sử dụng tài ngày 31 tháng 12 năm 2020 là 6.982.250.583 Đồng (tại ngày 31 tháng 12 năm 2019:7.078.250.583 Đồng).\n\n24\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n11 CHI PHÍ XÃY DỰNG CƠ BẢN DỒ DANG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Quyền sử dụng đất tại Dĩ An - Bình Dương",
+                "1": "26.137.767.250",
+                "2": "26.137.767.250"
+            },
+            {
+                "0": "Phần mềm quản lý nhân sự",
+                "1": "1.990.919.100",
+                "2": "-"
+            },
+            {
+                "0": "Khác",
+                "1": "2.055.220.000",
+                "2": "2.055.220.000"
+            },
+            {
+                "0": "",
+                "1": "30.183.906.350",
+                "2": "28.192.987.250"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "28.192.987.250",
+                "2": "67.983.789.990"
+            },
+            {
+                "0": "Tăng",
+                "1": "1.990.919.100",
+                "2": "151.631.252.172"
+            },
+            {
+                "0": "Chuyển sang TSCĐ hữu hình",
+                "1": "-",
+                "2": "(36.146.625.463)"
+            },
+            {
+                "0": "Chuyển sang TSCĐ vô hình",
+                "1": "-",
+                "2": "(155.275.429.449)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "30.183.906.350",
+                "2": "28.192.987.250"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_18",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "25\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n12 ĐẦU TƯ TÀI CHÍNH DÀI HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2020",
+                "3": "2020",
+                "4": "2019",
+                "5": "2019"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Giá gốc VND",
+                "3": "Dự phòng VND",
+                "4": "Giá gốc VND",
+                "5": "Dự phòng VND"
+            },
+            {
+                "0": "(i)",
+                "1": "Đầu tư vào công ty con",
+                "2": "Đầu tư vào công ty con",
+                "3": "Đầu tư vào công ty con",
+                "4": "Đầu tư vào công ty con",
+                "5": "Đầu tư vào công ty con"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH MTV Thời trang CAO",
+                "2": "100.000.000.000",
+                "3": "-",
+                "4": "30.000.000.000",
+                "5": "-"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH MTV Giám định PNJ",
+                "2": "10.000.000.000",
+                "3": "-",
+                "4": "10.000.000.000",
+                "5": "-"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH MTV Kỷ nguyên Khách hàng (*)",
+                "2": "30.000.000.000",
+                "3": "(30.000.000.000)",
+                "4": "30.000.000.000",
+                "5": "(30.000.000.000)"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH MTV Chế tác và Kinh doanh Trang sức PNJ",
+                "2": "200.000.000.000",
+                "3": "-",
+                "4": "100.000.000.000",
+                "5": "-"
+            },
+            {
+                "0": "(ii)",
+                "1": "Đầu tư góp vốn vào đơn vị khác",
+                "2": "Đầu tư góp vốn vào đơn vị khác",
+                "3": "Đầu tư góp vốn vào đơn vị khác",
+                "4": "Đầu tư góp vốn vào đơn vị khác",
+                "5": "Đầu tư góp vốn vào đơn vị khác"
+            },
+            {
+                "0": "(ii)",
+                "1": "Ngân hàng TMCP Đông Á (**)",
+                "2": "395.271.613.400",
+                "3": "(395.271.613.400)",
+                "4": "395.271.613.400",
+                "5": "(395.271.613.400)"
+            },
+            {
+                "0": "(ii)",
+                "1": "",
+                "2": "735.271.613.400",
+                "3": "(425.271.613.400)",
+                "4": "565.271.613.400",
+                "5": "(425.271.613.400)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_19",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019, Công ty chưa xác định được giá trị hợp lý của các khoản đầu tư tài chính này để thuyết minh trên báo cáo tài chính riêng, vi các khoản đầu tư này chưa niêm yết trên thị trường.\n\n(*) Công ty đã trích lập dự phòng toàn bộ giá trị khoản đầu tư vào Công ty TNHH MTV Kỷ nguyên Khách hàng, do công ty con này có kết quả hoạt động kinh doanh lỗ lũy kế tại ngày 31 tháng 12 năm 2020.\n\n(**) Tại ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019, Ngân hàng Thương mại Cổ phần (\"TMCP\") Đông Á vẫn nằm trong diện kiểm soát đặc biệt của Ngân hàng Nhà nước và cổ phiếu của Ngân hàng này không được phép chuyển nhượng. Do đó Ban Điều hành đã trích lập dự phòng toàn bộ giá trị khoản đầu từ vào Ngân hàng TMCP Đông Á tại ngày kết thúc năm tài chính.\n\n26\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n13 PHÀI TRÀ NGƯỜI BÁN NGĂN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Bên thứ ba",
+                "1": "Bên thứ ba",
+                "2": "Bên thứ ba"
+            },
+            {
+                "0": "Finesse Impex Limited",
+                "1": "185.106.975.192",
+                "2": "264.376.245.789"
+            },
+            {
+                "0": "Công ty TNHH Forte Jewellery (HK)",
+                "1": "126.662.589.601",
+                "2": "154.975.866.651"
+            },
+            {
+                "0": "Công ty TNHH Quang Vinh Nguyễn",
+                "1": "912.591.777",
+                "2": "12.140.499.777"
+            },
+            {
+                "0": "Khác",
+                "1": "127.520.793.623",
+                "2": "185.973.593.012"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 35(b))",
+                "1": "27.219.048.310",
+                "2": "2.105.605.324"
+            },
+            {
+                "0": "",
+                "1": "467.421.998.503",
+                "2": "619.571.810.553"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_20",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019, Công ty không có khoản phải trả người bán ngắn hạn nào bị quá hạn thanh toán.\n\n14 NGUỒI MUA TRÀ TIỀN TRƯỚC NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Bên thứ ba",
+                "1": "78.453.544.728",
+                "2": "58.403.718.325"
+            },
+            {
+                "0": "Thuế TNDN",
+                "1": "148.986.903.511",
+                "2": "114.645.621.760"
+            },
+            {
+                "0": "Thuế giá trị gia tăng (\"VAT\")",
+                "1": "44.703.754.789",
+                "2": "42.216.317.119"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân (\"PIT\")",
+                "1": "7.061.308.945",
+                "2": "4.135.703.716"
+            },
+            {
+                "0": "Khác",
+                "1": "4.569.630.533",
+                "2": "4.569.630.533"
+            },
+            {
+                "0": "",
+                "1": "205.321.597.778",
+                "2": "165.567.273.128"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_21",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "27\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n15 THUẾ VÀ CÁC KHOÀN PHÀI NỘP NHÀ NƯỚC (tiếp theo)\n\nBiến động về thuế và các khoản phải nộp Nhà nước trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày1.1.2020VND",
+                "2": "Số phải nộptrong nămVND",
+                "3": "Số đã thực nộptrong nămVND",
+                "4": "Tại ngày31.12.2020VND"
+            },
+            {
+                "0": "VAT",
+                "1": "42.216.317.119",
+                "2": "367.460.591.441",
+                "3": "(364.973.153.771)",
+                "4": "44.703.754.789"
+            },
+            {
+                "0": "Thuế TNDN",
+                "1": "114.645.621.760",
+                "2": "272.183.368.394",
+                "3": "(237.842.086.643)",
+                "4": "148.986.903.511"
+            },
+            {
+                "0": "PIT",
+                "1": "4.135.703.716",
+                "2": "57.879.454.904",
+                "3": "(54.953.849.675)",
+                "4": "7.061.308.945"
+            },
+            {
+                "0": "Khác",
+                "1": "4.569.630.533",
+                "2": "1.769.679.870",
+                "3": "(1.769.679.870)",
+                "4": "4.569.630.533"
+            },
+            {
+                "0": "",
+                "1": "165.567.273.128",
+                "2": "699.293.094.609",
+                "3": "(659.538.769.959)",
+                "4": "205.321.597.778"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_22",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "16 PHÀI TRẢ NGƯỜI LAO ĐỘNG\n\nSố dư phải trả người lao động thể hiện khoản trích trước lương tháng 13 và các khoản thưởng thành tích phải trả cho cán bộ công nhân viên.\n\n17 CHI PHÍ PHẢI TRẢ NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Chi phí quảng cáo và tiếp thị",
+                "1": "36.537.750.567",
+                "2": "33.745.133.406"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "3.144.696.147",
+                "2": "4.039.935.610"
+            },
+            {
+                "0": "Khác",
+                "1": "2.480.599.056",
+                "2": "2.386.588.335"
+            },
+            {
+                "0": "",
+                "1": "42.163.045.770",
+                "2": "40.171.657.351"
+            },
+            {
+                "0": "Thường Hội đồng Quản trị và Ban Điều hành",
+                "1": "21.039.066.145",
+                "2": "20.528.793.837"
+            },
+            {
+                "0": "Cổ tức phải trả (Thuyết minh 25)",
+                "1": "11.167.693.692",
+                "2": "6.004.841.375"
+            },
+            {
+                "0": "Kinh phí công đoàn",
+                "1": "4.070.292.446",
+                "2": "8.391.944.233"
+            },
+            {
+                "0": "Lãi vay (Thuyết minh 35(b))",
+                "1": "545.841.096",
+                "2": "545.841.096"
+            },
+            {
+                "0": "Khác",
+                "1": "31.692.565.392",
+                "2": "12.762.221.827"
+            },
+            {
+                "0": "",
+                "1": "68.515.458.771",
+                "2": "48.233.642.368"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_23",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "28\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n19 CÁC KHOÀN VAY\n\n(a) Ngắn hạn",
+        "dataframe": [
+            {
+                "0": "300.000.000.000",
+                "1": "953.230.965.374",
+                "2": "(938.000.000.000)",
+                "3": "315.230.965.374"
+            },
+            {
+                "0": "499.861.368.524",
+                "1": "976.020.385.113",
+                "2": "(1.192.873.511.345)",
+                "3": "283.008.242.292"
+            },
+            {
+                "0": "200.000.000.000",
+                "1": "965.585.828.580",
+                "2": "(940.900.000.000)",
+                "3": "224.685.828.580"
+            },
+            {
+                "0": "-",
+                "1": "295.383.613.627",
+                "2": "(150.977.623.867)",
+                "3": "144.405.989.760"
+            },
+            {
+                "0": "-",
+                "1": "313.379.349.870",
+                "2": "(195.716.170.800)",
+                "3": "117.663.179.070"
+            },
+            {
+                "0": "92.799.546.320",
+                "1": "280.828.894.723",
+                "2": "(301.291.056.397)",
+                "3": "72.337.384.646"
+            },
+            {
+                "0": "-",
+                "1": "68.348.957.900",
+                "2": "-",
+                "3": "68.348.957.900"
+            },
+            {
+                "0": "97.000.000.000",
+                "1": "242.097.049.000",
+                "2": "(274.097.049.000)",
+                "3": "65.000.000.000"
+            },
+            {
+                "0": "490.427.204.477",
+                "1": "478.745.173.542",
+                "2": "(910.119.406.019)",
+                "3": "59.052.972.000"
+            },
+            {
+                "0": "99.971.329.000",
+                "1": "158.907.793.895",
+                "2": "(211.540.894.614)",
+                "3": "47.338.228.281"
+            },
+            {
+                "0": "-",
+                "1": "262.100.000.000",
+                "2": "(217.300.000.000)",
+                "3": "44.800.000.000"
+            },
+            {
+                "0": "3.700.000.000",
+                "1": "3.700.000.000",
+                "2": "(3.700.000.000)",
+                "3": "3.700.000.000"
+            },
+            {
+                "0": "298.893.399.480",
+                "1": "1.248.892.181.869",
+                "2": "(1.547.785.581.349)",
+                "3": "-"
+            },
+            {
+                "0": "-",
+                "1": "62.312.992.680",
+                "2": "(62.312.992.680)",
+                "3": "-"
+            },
+            {
+                "0": "129.118.090.430",
+                "1": "72.319.347.800",
+                "2": "(81.191.550.430)",
+                "3": "120.245.887.800"
+            },
+            {
+                "0": "23.000.000.000",
+                "1": "11.000.000.000",
+                "2": "(11.000.000.000)",
+                "3": "23.000.000.000"
+            },
+            {
+                "0": "2.234.770.938.231",
+                "1": "6.392.852.533.973",
+                "2": "(7.038.805.836.501)",
+                "3": "1.588.817.635.703"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_24",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "",
+        "dataframe": [
+            {
+                "0": "Vay ngân hàng (*)"
+            },
+            {
+                "0": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam"
+            },
+            {
+                "0": "Ngân hàng TMCP Công thương Việt Nam"
+            },
+            {
+                "0": "Ngân hàng TMCP Đông Nam Á"
+            },
+            {
+                "0": "Ngân hàng TMCP Quốc tế Việt Nam"
+            },
+            {
+                "0": "Ngân Hàng TNHH MTV HSBC (Việt Nam)"
+            },
+            {
+                "0": "Ngân hàng TNHH CTBC - Chi nhánh Hồ Chí Minh"
+            },
+            {
+                "0": "Ngân hàng TMCP Phát triển TP. Hồ Chí Minh"
+            },
+            {
+                "0": "Ngân hàng TNHH Shinhan Việt Nam"
+            },
+            {
+                "0": "Ngân hàng TMCP Ngoại thương Việt Nam"
+            },
+            {
+                "0": "Ngân hàng TMCP Quản đội"
+            },
+            {
+                "0": "China Construction Bank Corporation - Chi Nhánh Hồ Chí Minh"
+            },
+            {
+                "0": "Ngân hàng Nông nghiệp và Phát triển Nông thôn(Thuyết minh 19(b))"
+            },
+            {
+                "0": "Ngân hàng TMCP Xăng dầu Petrolimex"
+            },
+            {
+                "0": "Ngân hàng TMCP Phương Đông"
+            },
+            {
+                "0": "Vay cá nhân (**)"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 35(b))"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_25",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "29\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN",
+        "dataframe": [
+            {
+                "0": "19",
+                "1": "CÁC KHOẢN VAY (tiếp theo)"
+            },
+            {
+                "0": "(a)",
+                "1": "Ngắn hạn (tiếp theo)"
+            },
+            {
+                "0": "(*)",
+                "1": "Chi tiết các khoản vay ngân hàng ngân hạn như sau:"
+            },
+            {
+                "0": "",
+                "1": "Ngân hàng"
+            },
+            {
+                "0": "",
+                "1": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam"
+            },
+            {
+                "0": "",
+                "1": "Ngân hàng TMCP Công thương Việt Nam"
+            },
+            {
+                "0": "",
+                "1": "Ngân hàng TMCP Đông Nam Á"
+            },
+            {
+                "0": "",
+                "1": "Ngân hàng TMCP Quốc tế Việt Nam"
+            },
+            {
+                "0": "",
+                "1": "Ngân Hàng TNHH MTV HSBC (Việt Nam)"
+            },
+            {
+                "0": "",
+                "1": "Ngân hàng TNHH CTBC - Chi nhánh Hồ Chí Minh"
+            },
+            {
+                "0": "",
+                "1": "Ngân hàng TMCP Phát triển TP. Hồ Chí Minh"
+            },
+            {
+                "0": "",
+                "1": "Ngân hàng TNHH Shinhan Việt Nam"
+            },
+            {
+                "0": "",
+                "1": "Ngân hàng TMCP Ngoại thương Việt Nam"
+            },
+            {
+                "0": "",
+                "1": "Ngân hàng TMCP Quản đội"
+            },
+            {
+                "0": "",
+                "1": "China Construction Bank Corporation - Chi Nhánh Hồ Chí Minh"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_26",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "30\n\n\n\nCÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n19 CÁC KHOÀN VAY (tiếp theo)\n\n(a) Ngắn hạn (tiếp theo)\n\n(**) Khoản vay cá nhân thể hiện các khoản vay tín chấp từ cán bộ công nhân viên của Công ty. Các khoản vay này có thời hạn vay là 12 tháng và chịu lãi suất 2,5% - 8%/năm.\n\n(b) Dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày1.1.2020VND",
+                "2": "TăngVND",
+                "3": "GiảmVND",
+                "4": "Tại ngày31.12.2020VND"
+            },
+            {
+                "0": "Vay ngân hàng (*)",
+                "1": "3.700.000.000",
+                "2": "-",
+                "3": "(3.700.000.000)",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_27",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "(*) Khoản vay ngân hàng dài hạn thể hiện các khoản vay của Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam theo Hợp đồng tín dụng số 1902-LAV-201600516 ngày 22 tháng 11 năm 2016 nhằm mục đích mua sắm TSCĐ. Thời hạn của khoản vay này là 60 tháng kể từ ngày giải ngân đầu tiên ngày 26 tháng 12 năm 2016. Khoản vay này chịu lãi suất 9,5%/năm và được đảm bảo bằng TSCĐ hữu hình và quyền sử dụng đất của Công ty (Thuyết minh 10). Khoản vay dài hạn này sẽ đáo hạn trong năm 2021, và tại ngày 31 tháng 12 năm 2020 đã được phân loại là khoản vay ngắn hạn (Thuyết minh 19(a)).\n\n31\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n20 QUỸ KHEN THƯỜNG, PHÚC LỢI",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "90.034.358.729",
+                "2": "62.298.582.070"
+            },
+            {
+                "0": "Trích thêm trong năm (Thuyết minh 24)",
+                "1": "59.696.000.000",
+                "2": "47.996.000.000"
+            },
+            {
+                "0": "Sử dụng trong năm",
+                "1": "(34.492.822.139)",
+                "2": "(20.260.223.341)"
+            },
+            {
+                "0": "",
+                "1": "115.237.536.590",
+                "2": "90.034.358.729"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_28",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "21 DỰ PHÒNG PHẢI TRẢ DÀI HẠN\n\nSố dư thể hiện khoản dự phòng trợ cấp thời việc phải trả cho cán bộ công nhân viên.\n\n22 TÀI SẢN THUẾ TNDN HOÃN LẠI\n\nTài sản thuế TNDN hoãn lại và thuế TNDN hoãn lại phải trả được bù trừ khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế TNDN hiện hành với thuế TNDN hiện hành phải trả và khi thuế TNDN hoãn lại có liên quan đến cùng một cơ quan thuế. Chi tiết như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Tài sản thuế thu nhập hoãn lại:Tài sản thuế thu nhập hoãn lại được thuhồi sau 12 tháng",
+                "1": "79.740.521.880",
+                "2": "79.740.521.880"
+            },
+            {
+                "0": "Tài sản thuế thu nhập hoãn lại được thuhồi trong vòng 12 tháng",
+                "1": "8.974.275.143",
+                "2": "7.390.942.779"
+            },
+            {
+                "0": "",
+                "1": "88.714.797.023",
+                "2": "87.131.464.659"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "87.131.464.659",
+                "2": "85.351.824.838"
+            },
+            {
+                "0": "Ghi nhận vào báo cáo kết quả hoạt động kinh doanh (Thuyết minh 33)",
+                "1": "1.583.332.364",
+                "2": "1.779.639.821"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "88.714.797.023",
+                "2": "87.131.464.659"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_29",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "32\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n22 TÀI SẢN THUẾ TNDN HOÃN LẠI (tiếp theo)\n\nChi tiết tài sản thuế TNDN hoãn lại:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Các khoản chênh lệch tạm thời được khấu trừ",
+                "1": "88.714.797.023",
+                "2": "87.131.464.659"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_30",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Tài sản thuế TNDN hoãn lại chủ yếu phát sinh từ các khoản chênh lệch tạm thời được khấu trừ liên quan đến chi phí trích trước, khoản dự phòng đầu tư tài chính dài hạn và dự phòng trợ cấp thời việc.\n\nThuế suất thuế TNDN sử dụng để xác định giá trị tài sản thuế TNDN hoãn lãi là 20%.\n\n23 VÓN GÓP CỦA CHỦ SỞ HỮU\n\n(a) Số lượng cổ phiếu phổ thông",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020",
+                "2": "2019"
+            },
+            {
+                "0": "Số lượng cổ phiếu đăng ký",
+                "1": "227.612.362",
+                "2": "225.293.585"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã phát hành",
+                "1": "227.612.362",
+                "2": "225.293.585"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã mua lại",
+                "1": "(169.559)",
+                "2": "(105.409)"
+            },
+            {
+                "0": "Số lượng cổ phiếu đang lưu hành",
+                "1": "227.442.803",
+                "2": "225.188.176"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_31",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "(b) Chi tiết vốn góp của chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020",
+                "2": "2020",
+                "3": "2019",
+                "4": "2019"
+            },
+            {
+                "0": "",
+                "1": "Cổ phiếu phổ thông",
+                "2": "%",
+                "3": "Cổ phiếu phổ thông",
+                "4": "%"
+            },
+            {
+                "0": "Bà Cao Thị Ngọc Dung",
+                "1": "205.840.180.000",
+                "2": "904",
+                "3": "203.264.180.000",
+                "4": "903"
+            },
+            {
+                "0": "Công ty Cổ phần Quản lý Quỹ VinaCapital (*)",
+                "1": "156.537.510.000",
+                "2": "688",
+                "3": "181.331.380.000",
+                "4": "805"
+            },
+            {
+                "0": "Bà Trương Ngọc Phương (**)",
+                "1": "208.209.430.000",
+                "2": "915",
+                "3": "155.997.900.000",
+                "4": "693"
+            },
+            {
+                "0": "Phần vốn của các đối tượng khác",
+                "1": "1.705.536.500.000",
+                "2": "7499",
+                "3": "1.712.342.390.000",
+                "4": "7604"
+            },
+            {
+                "0": "Cổ phiếu quỹ",
+                "1": "(1.695.590.000)",
+                "2": "(0)",
+                "3": "(1.054.090.000)",
+                "4": "(0)"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã phát hành",
+                "1": "2.274.428.030.000",
+                "2": "100",
+                "3": "2.251.881.760.000",
+                "4": "100"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_32",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "33\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n23 VÔN GÓP CỦA CHỦ SỞ HỮU (tiếp theo)\n\n(b) Chi tiết vốn góp của chủ sở hữu (tiếp theo)\n\n(*) Tại ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019, Công ty Cổ phần Quản lý Quỹ Vina Capital là đại diện vốn cho một nhóm nhà đầu tư.\n\n(**) Tại ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019, bà Trương Ngọc Phương là đại diện vốn cho một nhóm nhà đầu tư nước ngoài.\n\n(c) Tỉnh hình biến động của vốn cổ phần",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cổ phiếu",
+                "2": "Cổ phiếu phổ thông VND"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2019",
+                "1": "167.002.273",
+                "2": "1.670.022.730.000"
+            },
+            {
+                "0": "Cổ phiếu mới phát hành",
+                "1": "58.290.603",
+                "2": "582.906.030.000"
+            },
+            {
+                "0": "Cổ phiếu quỹ",
+                "1": "(104.700)",
+                "2": "(1.047.000.000)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2019",
+                "1": "225.188.176",
+                "2": "2.251.881.760.000"
+            },
+            {
+                "0": "Cổ phiếu mới phát hành",
+                "1": "2.318.777",
+                "2": "23.187.770.000"
+            },
+            {
+                "0": "Cổ phiếu quỹ",
+                "1": "(64.150)",
+                "2": "(641.500.000)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2020",
+                "1": "227.442.803",
+                "2": "2.274.428.030.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_33",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "Mệnh giá cổ phiếu: 10.000 Đồng trên một cổ phiếu.\n\n34\n\n\n\nCÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n24 TÌNH HÌNH TĂNG GIẢM NGUỒN VỐN CHỦ SỞ HỮU",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn góp của chủ sở hữu VND",
+                "2": "Thặng dư vốn cổ phần VND",
+                "3": "Cổ phiếu quỹ VND",
+                "4": "Quỹ đầu tư phát triển VND",
+                "5": "LNST chưa phân phối VND",
+                "6": "Tổng cộng VND"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2019",
+                "1": "1.670.029.820.000",
+                "2": "925.397.862.458",
+                "3": "(7.090.000)",
+                "4": "265.087.556.918",
+                "5": "863.398.447.986",
+                "6": "3.723.906.597.362"
+            },
+            {
+                "0": "Chia cổ tức bằng cổ phiếu (Thuyết minh 25)",
+                "1": "556.649.780.000",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(556.649.780.000)",
+                "6": "-"
+            },
+            {
+                "0": "Phát hành cổ phiếu theo chương trình lựa chọn cho người lao động",
+                "1": "26.256.250.000",
+                "2": "42.676.250.000",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "68.932.500.000"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "1.158.012.975.662",
+                "6": "1.158.012.975.662"
+            },
+            {
+                "0": "Chi trả cổ tức",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(345.136.073.800)",
+                "6": "(345.136.073.800)"
+            },
+            {
+                "0": "Mua cổ phiếu quỹ",
+                "1": "-",
+                "2": "-",
+                "3": "(2.094.000.000)",
+                "4": "-",
+                "5": "-",
+                "6": "(2.094.000.000)"
+            },
+            {
+                "0": "Trích quỹ khen thưởng phúc lợi (Thuyết minh 20)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(47.996.000.000)",
+                "6": "(47.996.000.000)"
+            },
+            {
+                "0": "Trích quỹ đầu tư phát triển",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "47.996.000.000",
+                "5": "(47.996.000.000)",
+                "6": "-"
+            },
+            {
+                "0": "Trích thưởng HĐQT và Ban Điều hành",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(35.439.000.000)",
+                "6": "(35.439.000.000)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2019",
+                "1": "2.252.935.850.000",
+                "2": "968.074.112.458",
+                "3": "(2.101.090.000)",
+                "4": "313.083.556.918",
+                "5": "988.194.569.848",
+                "6": "4.520.186.999.224"
+            },
+            {
+                "0": "Phát hành cổ phiếu theo chương trình lựa chọn cho người lao động (*)",
+                "1": "23.187.770.000",
+                "2": "23.187.770.000",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "46.375.540.000"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "1.032.265.664.058",
+                "6": "1.032.265.664.058"
+            },
+            {
+                "0": "Chi trả cổ tức (Thuyết minh 25) (**)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(360.262.591.600)",
+                "6": "(360.262.591.600)"
+            },
+            {
+                "0": "Mua cổ phiếu quỹ",
+                "1": "-",
+                "2": "-",
+                "3": "(1.283.000.000)",
+                "4": "-",
+                "5": "-",
+                "6": "(1.283.000.000)"
+            },
+            {
+                "0": "Trích quỹ khen thưởng phúc lợi (Thuyết minh 20) (***)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(59.696.000.000)",
+                "6": "(59.696.000.000)"
+            },
+            {
+                "0": "Trích quỹ đầu tư phát triển (***)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "59.696.000.000",
+                "5": "(59.696.000.000)",
+                "6": "-"
+            },
+            {
+                "0": "Trích thưởng HĐQT và Ban Điều hành (***)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(29.848.000.000)",
+                "6": "(29.848.000.000)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2020",
+                "1": "2.276.123.620.000",
+                "2": "991.261.882.458",
+                "3": "(3.384.090.000)",
+                "4": "372.779.556.918",
+                "5": "1.510.957.642.306",
+                "6": "5.147.738.611.682"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_34",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "35\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n24 TÌNH HÌNH TĂNG GIÀM NGUỒN VỐN CHỦ SỞ HỮU (tiếp theo)\n\n(*) Theo Nghị quyết Đại hội đồng Cổ đông thường niên số 337/2020/NQ-ĐHĐCĐ-CTY ngày 10 tháng 6 năm 2020 và Nghị quyết Hội đồng Quản trị số 526/2020/NQ-HĐQT-CTY ngày 26 tháng 10 năm 2020, Công ty đã phát hành thêm 2.318.777 cổ phiếu cho các thành viên Hội đồng Quản trị, thành viên Ban Điều hành, lãnh đạo chủ chốt, cán bộ cấp trung và các nhân viên chủ chốt khác của Công ty và các công ty con đã có đông góp tích cực trong việc hoàn thành vượt mức kế hoạch kinh doanh năm 2019 với giá phát hành 20.000 đồng/cổ phiếu\n\n(**) Trong năm, Công ty đã tạm ứng cổ tức đợt 2 năm 2019 với số tiền 225.188.176.000 Đồng cho các cổ đông theo Nghị quyết Hội đồng Quản trị số 197/2020/NQ-HĐQT-CTY ngày 16 tháng 3 năm 2020. Ngoài ra, Công ty đã thực hiện tạm ứng cổ tức đợt 1 năm 2020 với tỷ lệ thanh toán: 6%/cổ phiếu (mỗi cổ phiếu được nhận 600 Đồng) tương đương 135.074.415.600 Đồng theo Nghị quyết Hội đồng Quản trị số 558/NQ-HĐQT-CTY ngày 12 tháng 11 năm 2020.\n\n(***) Theo Nghị quyết Đại hội Đồng Cổ đông số 337/2020/NQ-DHDCD-CTY ngày 10 tháng 6 năm 2020, Đại hội đồng Cổ đông đã thông qua phương án phân chia lợi nhuận cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 như sau:\n\n- Chia cổ tức bằng tiền: 403.321.976.800 Đồng;\n\n- Trích quỹ đầu tư phát triển: 59.696.000.000 Đông;\n\n- Trích quỹ khen thưởng, phúc lợi: 59.696.000.000 Đồng; và\n\n- Trích quỹ khen thưởng Hội đồng Quản trị và Ban Điều hành: 29.848.000.000 Đồng.\n\n25 CỔ TỨC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "6.004.841.375",
+                "2": "4.744.192.345"
+            },
+            {
+                "0": "Cổ tức phải trả trong năm (Thuyết minh 24)",
+                "1": "360.262.591.600",
+                "2": "901.785.853.800"
+            },
+            {
+                "0": "Cổ tức đã chi trả bằng cổ phiếu(Thuyết minh 24)",
+                "1": "-",
+                "2": "(556.649.780.000)"
+            },
+            {
+                "0": "Cổ tức đã chi trả bằng tiền",
+                "1": "(355.099.739.283)",
+                "2": "(343.875.424.770)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "11.167.693.692",
+                "2": "6.004.841.375"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_35",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "36\n\n\n\nCÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n26 CÁC KHOÀN MỤC NGOÀI BÀNG CÂN ĐỐI KẾ TOÁN\n\n(a) Khoản mục tiền đã bao gồm số ngoại tệ như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020",
+                "2": 2019.0
+            },
+            {
+                "0": "Đô la Mỹ - USD",
+                "1": "58.266",
+                "2": 59.095
+            },
+            {
+                "0": "Euro - EUR",
+                "1": "480",
+                "2": 1.716
+            },
+            {
+                "0": "Băng Anh - GBP",
+                "1": "1.625",
+                "2": 1.625
+            },
+            {
+                "0": "Đô la Hồng Kông - HKD",
+                "1": "-",
+                "2": 970.0
+            },
+            {
+                "0": "Đô la Úc - AUD",
+                "1": "434",
+                "2": 443.0
+            },
+            {
+                "0": "Đô la Singapore - SGD",
+                "1": "-",
+                "2": 174.0
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_36",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "(b) Các khoản thanh toán tiền thuê tối thiểu trong tương lai theo hợp đồng thuê hoạt động không hủy ngang là 1.207.159.917.311 Đồng và 1.174.724.583.477 Đồng tương ứng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019 (Thuyết minh 36).\n\n27 DOANH THU THUẦN VỀ BÁN HÀNG VÀ CUNG CẤP ĐỊCH VỤ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Doanh thu",
+                "1": "Doanh thu",
+                "2": "Doanh thu"
+            },
+            {
+                "0": "Doanh thu bán vàng, bạc và đồ trang sức",
+                "1": "18.203.162.726.488",
+                "2": "15.067.309.216.058"
+            },
+            {
+                "0": "Doanh thu bán phụ kiện",
+                "1": "29.405.737.314",
+                "2": "12.836.219.561"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "16.638.839.958",
+                "2": "17.733.451.933"
+            },
+            {
+                "0": "",
+                "1": "18.249.207.303.760",
+                "2": "15.097.878.887.552"
+            },
+            {
+                "0": "Khoản giảm trừ",
+                "1": "Khoản giảm trừ",
+                "2": "Khoản giảm trừ"
+            },
+            {
+                "0": "Hàng bán bị trả lại",
+                "1": "(163.140.746.157)",
+                "2": "(136.566.152.783)"
+            },
+            {
+                "0": "Doanh thu thuần về bán hàng và dịch vụ cung cấp",
+                "1": "18.086.066.557.603",
+                "2": "14.961.312.734.769"
+            },
+            {
+                "0": "Giá vốn vàng, bạc, đồ trang sức và dịch vụ cung cấp",
+                "1": "14.788.822.269.667",
+                "2": "11.722.361.782.958"
+            },
+            {
+                "0": "Giá vốn phụ kiện",
+                "1": "25.783.386.409",
+                "2": "13.583.518.327"
+            },
+            {
+                "0": "",
+                "1": "14.814.605.656.076",
+                "2": "11.735.945.301.285"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_37",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "37\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n29 DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Lãi chênh lệch tỷ giá hối đoái đã thực hiện",
+                "1": "1.884.758.724",
+                "2": "581.397.745"
+            },
+            {
+                "0": "Lãi thuần do đánh giá lại các khoản có gốc ngoại tệ cuối năm",
+                "1": "247.150.460",
+                "2": "1.242.529.054"
+            },
+            {
+                "0": "Lãi tiền gửi",
+                "1": "102.132.124",
+                "2": "2.428.864.048"
+            },
+            {
+                "0": "",
+                "1": "2.234.041.308",
+                "2": "4.252.790.847"
+            },
+            {
+                "0": "Lãi vay",
+                "1": "132.606.524.473",
+                "2": "109.701.338.257"
+            },
+            {
+                "0": "Lỗ chênh lệch tỷ giá hối đoái đã thực hiện",
+                "1": "819.351.388",
+                "2": "1.110.438.738"
+            },
+            {
+                "0": "Dư phòng giảm giá khoản đầu tư vàtôn thất đầu tư",
+                "1": "",
+                "2": "30.000.000.000"
+            },
+            {
+                "0": "Khác",
+                "1": "3.061.259.262",
+                "2": "1.022.430.934"
+            },
+            {
+                "0": "",
+                "1": "136.487.135.123",
+                "2": "141.834.207.929"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "633.786.902.485",
+                "2": "577.381.472.453"
+            },
+            {
+                "0": "Chi phí thuê cửa hàng",
+                "1": "252.649.608.460",
+                "2": "228.547.583.992"
+            },
+            {
+                "0": "Chi phí quảng cáo, tiếp thị",
+                "1": "138.844.557.829",
+                "2": "136.332.923.400"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "112.191.813.763",
+                "2": "105.956.771.487"
+            },
+            {
+                "0": "Chi phí đồ dùng văn phòng",
+                "1": "102.728.197.539",
+                "2": "107.611.228.844"
+            },
+            {
+                "0": "Chi phí khấu hao",
+                "1": "14.123.408.308",
+                "2": "10.373.831.594"
+            },
+            {
+                "0": "Khác",
+                "1": "80.782.205.912",
+                "2": "64.183.551.642"
+            },
+            {
+                "0": "",
+                "1": "1.335.106.694.296",
+                "2": "1.230.387.363.412"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_38",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "38\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n32 CHI PHÍ QUẢN LÝ DOANH NGHIỆP",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "322.672.920.609",
+                "2": "281.608.403.453"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "38.682.714.294",
+                "2": "34.852.380.529"
+            },
+            {
+                "0": "Chi phí khấu hao",
+                "1": "28.839.161.954",
+                "2": "24.422.826.652"
+            },
+            {
+                "0": "Chi phí đồ dùng văn phòng",
+                "1": "12.128.492.322",
+                "2": "14.174.360.992"
+            },
+            {
+                "0": "Thuế, phí và lệ phí",
+                "1": "747.012.083",
+                "2": "580.262.839"
+            },
+            {
+                "0": "Khác",
+                "1": "92.838.766.422",
+                "2": "52.536.840.951"
+            },
+            {
+                "0": "",
+                "1": "495.909.067.684",
+                "2": "408.175.075.416"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_39",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "33 THUÉ TNDN\n\nSố thuế TNDN tính trên lợi nhuận kế toán trước thuế của Công ty khác với số thuế khi được tính theo các thuế suất áp dụng như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Lợi nhuận kế toán trước thuế",
+                "1": "1.302.865.700.088",
+                "2": "1.449.577.271.633"
+            },
+            {
+                "0": "Thuế tính ở thuế suất 20%Điều chỉnh:",
+                "1": "260.573.140.018",
+                "2": "289.915.454.327"
+            },
+            {
+                "0": "Chi phí không được khấu trừ",
+                "1": "10.026.896.012",
+                "2": "1.648.841.644"
+            },
+            {
+                "0": "Chi phí thuế TNDN (*)",
+                "1": "270.600.036.030",
+                "2": "291.564.295.971"
+            },
+            {
+                "0": "Chi phí/(thu nhập) thuế TNDNghi nhận trong báo cáo kết quả hoạtđộng kinh doanh riêng:Thuế TNDN - hiện hành",
+                "1": "272.183.368.394",
+                "2": "293.343.935.792"
+            },
+            {
+                "0": "Thuế TNDN - hoãn lại (Thuyết minh 22)",
+                "1": "(1.583.332.364)",
+                "2": "(1.779.639.821)"
+            },
+            {
+                "0": "",
+                "1": "270.600.036.030",
+                "2": "291.564.295.971"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_40",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "(*) Chi phí thuế TNDN cho năm tài chính được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh tùy thuộc vào sự kiểm tra của cơ quan thuế.\n\n39\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n34 CHI PHÍ KINH DOANH THEO YÊU TÓ\n\nChi phí kinh doanh theo yếu tố thể hiện các chi phí phát sinh trong năm từ hoạt động kinh doanh của Công ty, không bao gồm giá mua hàng hóa phát sinh trong hoạt động thương mại. Chi tiết được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "958.405.987.055",
+                "2": "879.872.633.509"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "547.134.262.501",
+                "2": "506.447.850.237"
+            },
+            {
+                "0": "Công cụ, dụng cụ",
+                "1": "114.856.689.861",
+                "2": "125.649.182.471"
+            },
+            {
+                "0": "Chi phí khấu hao",
+                "1": "43.028.953.790",
+                "2": "34.838.963.175"
+            },
+            {
+                "0": "Chi phí nguyên liệu, vật liệu",
+                "1": "-",
+                "2": "1.499.658.047.266"
+            },
+            {
+                "0": "Khác",
+                "1": "174.301.600.889",
+                "2": "294.182.491.982"
+            },
+            {
+                "0": "",
+                "1": "1.837.727.494.096",
+                "2": "3.340.649.168.640"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_41",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "35 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN\n\n(a) Giao dịch với các bên liên quan\n\nTrong năm, các nghiệp vụ chủ yếu sau đây được thực hiện với các bên liên quan:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2020VND",
+                "3": "2019VND"
+            },
+            {
+                "0": "i)",
+                "1": "Doanh thu bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "i)",
+                "1": "Công ty TNHH MTV Chế tác và Kinh doanh Trang sức PNJ",
+                "2": "3.945.899.055.854",
+                "3": "2.141.533.885.921"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty TNHH MTV Thời trang CAO",
+                "2": "2.683.794.643",
+                "3": "72.226.202.802"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty TNHH MTV Kỹ nguyên Khách hàng",
+                "2": "700.000.000",
+                "3": "6.251.644.952"
+            },
+            {
+                "0": "i)",
+                "1": "",
+                "2": "3.949.282.850.497",
+                "3": "2.220.011.733.675"
+            },
+            {
+                "0": "ii)",
+                "1": "Mua hàng hóa và dịch vụ",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH MTV Chế tác và Kinh doanh Trang sức PNJ",
+                "2": "4.475.495.124.800",
+                "3": "3.267.540.993.554"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH MTV Thời trang CAO",
+                "2": "74.223.586.325",
+                "3": "7.899.340.227"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH MTV Kỹ nguyên Khách hàng",
+                "2": "64.602.827.736",
+                "3": "12.212.312.698"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH MTV Giám định PNJ",
+                "2": "4.162.226.800",
+                "3": "3.227.801.500"
+            },
+            {
+                "0": "ii)",
+                "1": "",
+                "2": "4.618.483.765.661",
+                "3": "3.290.880.447.979"
+            },
+            {
+                "0": "iii)",
+                "1": "Chi phí lãi vay",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "iii)",
+                "1": "Công ty TNHH MTV Giám định PNJ",
+                "2": "1.648.640.146",
+                "3": "950.104.108"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_42",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "40\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n35 THUYÊT MINH VỀ CÁC BÊN LIÊN QUAN (tiếp theo)\n\n(a) Giao dịch với các bên liên quan (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2020VND",
+                "3": "2019VND"
+            },
+            {
+                "0": "iv)",
+                "1": "Đầu tư vào các công ty con",
+                "2": "Đầu tư vào các công ty con",
+                "3": "Đầu tư vào các công ty con"
+            },
+            {
+                "0": "iv)",
+                "1": "Công ty TNHH MTV Chế tác và Kinh doanh Trang sức PNJ",
+                "2": "100.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "iv)",
+                "1": "Công ty TNHH MTV Thời trang CAO",
+                "2": "70.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "iv)",
+                "1": "Công ty TNHH MTV Kỳ nguyên Khách hàng",
+                "2": "-",
+                "3": "10.000.000.000"
+            },
+            {
+                "0": "iv)",
+                "1": "",
+                "2": "170.000.000.000",
+                "3": "10.000.000.000"
+            },
+            {
+                "0": "v)",
+                "1": "Thu nhập lãi cho vay ngắn hạn",
+                "2": "Thu nhập lãi cho vay ngắn hạn",
+                "3": "Thu nhập lãi cho vay ngắn hạn"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH MTV Kỳ nguyên Khách hàng",
+                "2": "-",
+                "3": "2.303.718.963"
+            },
+            {
+                "0": "vi)",
+                "1": "Các khoản chi cho các nhân sự quản lý chủ chốt",
+                "2": "Các khoản chi cho các nhân sự quản lý chủ chốt",
+                "3": "Các khoản chi cho các nhân sự quản lý chủ chốt"
+            },
+            {
+                "0": "vi)",
+                "1": "Lương và các quyền lợi gộp khác Trong đó:",
+                "2": "44.426.030.312",
+                "3": "53.158.673.767"
+            },
+            {
+                "0": "vi)",
+                "1": "Các thành viên Hội đồng Quản trị",
+                "2": "13.327.809.094",
+                "3": "15.947.602.130"
+            },
+            {
+                "0": "vi)",
+                "1": "Các thành viên Ban Điều hành",
+                "2": "31.098.221.218",
+                "3": "37.211.071.637"
+            },
+            {
+                "0": "(b)",
+                "1": "Số dư cuối năm với các bên liên quan",
+                "2": "Số dư cuối năm với các bên liên quan",
+                "3": "Số dư cuối năm với các bên liên quan"
+            },
+            {
+                "0": "(b)",
+                "1": "",
+                "2": "2020VND",
+                "3": "2019VND"
+            },
+            {
+                "0": "i)",
+                "1": "Phải thu ngắn hạn của khách hàng (Thuyết minh 4)",
+                "2": "Phải thu ngắn hạn của khách hàng (Thuyết minh 4)",
+                "3": "Phải thu ngắn hạn của khách hàng (Thuyết minh 4)"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty TNHH MTV Thời trang CAO",
+                "2": "-",
+                "3": "61.373.320.983"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty TNHH MTV Kỳ nguyên Khách hàng",
+                "2": "-",
+                "3": "3.639.325.046"
+            },
+            {
+                "0": "i)",
+                "1": "",
+                "2": "-",
+                "3": "65.012.646.029"
+            },
+            {
+                "0": "ii)",
+                "1": "Trà trước cho người bán ngắn hạn(Thuyết minh 5)",
+                "2": "Trà trước cho người bán ngắn hạn(Thuyết minh 5)",
+                "3": "Trà trước cho người bán ngắn hạn(Thuyết minh 5)"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH MTV Chế tác và Kinh doanh Trang sức PNJ",
+                "2": "514.736.557.354",
+                "3": "692.306.416.495"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH MTV Kỳ nguyên Khách hàng",
+                "2": "41.222.405.343",
+                "3": "-"
+            },
+            {
+                "0": "ii)",
+                "1": "",
+                "2": "555.958.962.697",
+                "3": "692.306.416.495"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_43",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "41\n\n\n\nCÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 – DN\n\n35 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (tiếp theo)\n\n(b) Số dư cuối năm với các bên liên quan (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2020VND",
+                "3": "2019VND"
+            },
+            {
+                "0": "iii)",
+                "1": "Phải thu về cho vay ngắn hạn",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "iii)",
+                "1": "Công ty TNHH MTV Kỳ nguyên Khách hàng",
+                "2": "50.000.000.000",
+                "3": "100.000.000.000"
+            },
+            {
+                "0": "iv)",
+                "1": "Phải thu ngắn hạn khác (Thuyết minh 6(a))",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "iv)",
+                "1": "Công ty TNHH MTV Kỳ nguyên Khách hàng",
+                "2": "2.392.628.963",
+                "3": "2.303.718.963"
+            },
+            {
+                "0": "v)",
+                "1": "Phải trả người bán ngắn hạn(Thuyết minh 13)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH MTV Thời trang CAO",
+                "2": "21.538.833.386",
+                "3": "-"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH MTV Chế tác và Kinh doanh Trang sức PNJ",
+                "2": "5.680.214.924",
+                "3": "-"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH MTV Giám định PNJ",
+                "2": "-",
+                "3": "2.105.605.324"
+            },
+            {
+                "0": "v)",
+                "1": "",
+                "2": "27.219.048.310",
+                "3": "2.105.605.324"
+            },
+            {
+                "0": "vi)",
+                "1": "Phải trả ngắn hạn khác (Thuyết minh 18)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "vi)",
+                "1": "Công ty TNHH MTV Giám định PNJ",
+                "2": "545.841.096",
+                "3": "545.841.096"
+            },
+            {
+                "0": "vii)",
+                "1": "Vay ngắn hạn (Thuyết minh 19(a))",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "vii)",
+                "1": "Công ty TNHH MTV Giám định PNJ",
+                "2": "23.000.000.000",
+                "3": "23.000.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PNJ_2020_separate_table_44",
+        "metadata": {
+            "ticker": "PNJ",
+            "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "PNJ_financial_statements_2020_separate"
+        },
+        "context_text": "42\n\n\n\nCÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN\n\nMẫu số B 09 - DN\n\n36 CAM KÊT THUÊ HOẠT ĐỘNG\n\nCác hợp đồng thuê cửa hàng không hủy ngang, Công ty phải trả mức tối thiểu trong tương lai như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2020VND",
+                "2": "2019VND"
+            },
+            {
+                "0": "Dưới 1 năm",
+                "1": "202.083.737.360",
+                "2": "214.927.576.282"
+            },
+            {
+                "0": "Từ 1 đến 5 năm",
+                "1": "653.768.103.852",
+                "2": "601.246.671.232"
+            },
+            {
+                "0": "Trên 5 năm",
+                "1": "351.308.076.099",
+                "2": "358.550.335.963"
+            },
+            {
+                "0": "Tổng cộng các khoản thanh toán tối thiểu",
+                "1": "1.207.159.917.311",
+                "2": "1.174.724.583.477"
+            }
+        ]
+    }
+]

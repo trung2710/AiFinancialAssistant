@@ -1,0 +1,4162 @@
+[
+    {
+        "chunk_id": "VSC_2022_separate_table_1",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "1\n1\n1\n1\n1\n1\n1\n1\n1\n1\n1\n1\n1\n1\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n\n\n「\n「\n「\n「\n「\n「\n「\n」\n」\n」\n」\n」\n」\n」\n」\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\nNỘI DUNG\nTRANG\n\nThông tin về doanh nghiệp 1\n\nBáo cáo của Ban Giám đốc 2\n\nBáo cáo kiểm toán độc lập 3\n\nBảng cân đối kế toán riêng (Mẫu số B 01 – DN) 5\n\nBáo cáo kết quả hoạt động kinh doanh riêng (Mẫu số B 02 – DN) 7\n\nBáo cáo lưu chuyển tiền tệ riêng (Mẫu số B 03 – DN) 8\n\nThuyết minh báo cáo tài chính riêng (Mẫu số B 09 – DN) 10\n\n\n\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nTHÔNG TIN VỀ DOANH NGHIỆP\n\nGiấy Chứng nhận\n\nĐăng ký Doanh nghiệp Số 0200453688 đề ngày 1 tháng 4 năm 2002",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Giấy Chứng nhận Đăng ký Doanh nghiệp số 0200453688 và các thay đổi Giấy Chứng nhận Đăng ký Doanh nghiệp do Sở Kế hoạch và Đầu tư Thành phố Hải Phòng cấp. Giấy Chứng nhận Đăng ký Doanh nghiệp thay đổi gần nhất (lần thứ hai mươi ba) được cấp ngày 14 tháng 7 năm 2022",
+                "2": "Giấy Chứng nhận Đăng ký Doanh nghiệp số 0200453688 và các thay đổi Giấy Chứng nhận Đăng ký Doanh nghiệp do Sở Kế hoạch và Đầu tư Thành phố Hải Phòng cấp. Giấy Chứng nhận Đăng ký Doanh nghiệp thay đổi gần nhất (lần thứ hai mươi ba) được cấp ngày 14 tháng 7 năm 2022"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Ông Nguyễn Việt HòaÔng Nguyễn Việt TrungÔng Văn Trần HoảnÔng Bùi Minh HưngÔng Tạ Công ThôngÔng Cáp Trọng CườngÔng Nguyễn Đức DũngÔng Dương Tiến DũngÔng Trần Quang TiếnÔng Nguyễn Hoàng Anh",
+                "2": "Chủ tịchThành viênThành viênThành viên(bổ nhiệm ngày 24/3/2022)Thành viênThành viên(bổ nhiệm ngày 9/9/2022)Thành viên(bổ nhiệm ngày 9/9/2022)Thành viên(miễn nhiệm ngày 9/9/2022)Thành viên(miễn nhiệm ngày 9/9/2022)Thành viên(miễn nhiệm ngày 9/3/2022)"
+            },
+            {
+                "0": "Ban Giám đốc",
+                "1": "Ông Bùi Minh HưngÔng Nguyễn Thế TrọngÔng Phan Văn HưngÔng Tạ Công ThôngÔng Cáp Trọng CườngÔng Dương Tiến Dũng",
+                "2": "Tổng Giám đốcGiám đốc kỹ thuậtGiám đốc tài chính(bổ nhiệm ngày 1/10/2022)Giám đốc Marketing(bổ nhiệm ngày 1/6/2022)Giám đốc khai thác(bổ nhiệm ngày 13/3/2022)Giám đốc tài chính(miễn nhiệm ngày 1/10/2022)"
+            },
+            {
+                "0": "Ban Kiểm soát",
+                "1": "Bà Nguyễn Thị Kim NhãBà Nguyễn Thị Minh LanBà Nghiêm Thị Thủy Dương",
+                "2": "Trường banThành viênThành viên"
+            },
+            {
+                "0": "Người đại diện theo pháp luật",
+                "1": "Ông Bùi Minh Hưng",
+                "2": "Tổng Giám đốc"
+            },
+            {
+                "0": "Trụ sở chính",
+                "1": "Số 11 Võ Thị Sáu, Phường Máy Tơ, Quận Ngô Quyền, Thành phố Hải Phòng, Việt Nam",
+                "2": "Số 11 Võ Thị Sáu, Phường Máy Tơ, Quận Ngô Quyền, Thành phố Hải Phòng, Việt Nam"
+            },
+            {
+                "0": "Công ty kiểm toán",
+                "1": "Chi nhánh Công ty TNHH PwC (Việt Nam) tại Hà Nội",
+                "2": "Chi nhánh Công ty TNHH PwC (Việt Nam) tại Hà Nội"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_2",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "1\n\n\n\n[Non-Text]\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nBÁO CÁO CỦA BAN GIÁM ĐỐC\n\nTRÁCH NHIỆM CỦA BAN GIÁM ĐỐC CÔNG TY ĐỐI VỚI BÁO CÁO TÀI CHÍNH RIÊNG\n\nBan Giám đốc của Công ty Cổ phần Container Việt Nam (\"Công ty\") chịu trách nhiệm lập và trình bày báo cáo tài chính riêng thể hiện trung thực và hợp lý tỉnh hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2022, cũng như kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng của năm tài chính kết thúc cùng ngày nếu trên. Trong việc lập báo cáo tài chính riêng này, Ban Giám đốc được yêu cầu phải:\n\n- chọn lựa các chính sách kế toán phù hợp và áp dụng một cách nhất quán;\n\n- thực hiện các xét đoán và ước tính một cách hợp lý và thân trong; và\n\n- lập báo cáo tài chính riêng trên cơ sở Công ty hoạt động liên tục trừ khi giả định Công ty hoạt động liên tục là không phù hợp.\n\nBan Giám đốc của Công ty chịu trách nhiệm bảo đảm rằng các số sách kế toán đúng dẫn đã được thiết lập và duy trì để thể hiện tinh hình tài chính riêng của Công ty với độ chính xác hợp lý tại mọi thời điểm và đề làm cơ sở lập bảo cáo tài chính riêng tuân thủ theo chế độ kế toán được trình bày ở Thuyết minh 2 của báo cáo tài chính riêng. Ban Giám đốc của Công ty cũng chịu trách nhiệm đối với việc bảo vệ các tài sản của Công ty và thực hiện các biện pháp hợp lý để ngăn ngửa và phát hiện các gian lân hoặc nhằm lấn.\n\nPHÊ CHUẦN BÁO CÁO TÀI CHÍNH RIÊNG\n\nTheo đây, chúng tôi phê chuẩn báo cáo tài chính riêng định kèm từ trang 5 đến trang 45. Báo cáo tài chính riêng này phần ánh trung thực và hợp lý tinh hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2022, cũng như kết quả hoạt động kinh doanh riêng và tinh hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày nếu trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nNgười sử dụng báo cáo tài chính riêng của Công ty nên đọc cùng với báo cáo tài chính hợp nhất của Công ty và các công ty con (goi chung là \"Tập đoàn\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 để có đủ thông tin về tinh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất của Tập đoàn.\n\nThay mặt Ban Giám đốc\n\nBùi Minh Hung\n\nTổng Giám đốc/\n\nNgười đại diện theo pháp luật\n\nHải Phòng, nước CHXHCN Việt Nam\n\nNgày 20 tháng 2 năm 2023\n\n2\n\n\n\n[Non-Text]\n\npwc\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP\n\nGỦI CÁC CỔ ĐÔNG CỦA CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nChứng tối đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Container Việt Nam (\"Công ty\") được lập ngày 31 tháng 12 năm 2022 và được Ban Giám đốc của Công ty phê chuẩn ngày 20 tháng 2 năm 2023. Báo cáo tài chính riêng này bao gồm: bằng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2022, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày nếu trên, và thuyết minh báo cáo tài chính riêng bao gồm các chính sách kế toán chủ yếu từ trang 5 đến trang 45.\n\nTrách nhiệm của Ban Giám đốc\n\nBan Giám đốc của Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng này dựa trên kết quả cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính riêng đo gian lận hoặc nhằm lẫn. Khí thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\nChỉ nhánh Công ty TNHH PwC (Việt Nam) tại Hà Nội\n\nTăng 16, Keangnam Hanoi Landmark Tower, Lô E6, Khu đô thị Câu Giấy, Phường Mế Trì, Quân Nam Từ Liêm, Hà Nội, Việt Nam\n\nDT: +84 24 3946 2246, www.pwc.com/vn\n\n3\n\n\n\n「\n「\n「\n「\n「\n「\n「\n「\n」\n」\n」\n」\n」\n」\n」\n」\n\n[Non-Text]\n\npwc\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến của chúng tôi, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tỉnh hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2022, cũng như kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng của Công ty cho năm tài chính kết thúc cùng ngày nếu trên, phù hợp với các Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nThay mặt và đại diện cho Chi nhánh Công ty TNHH PwC (Việt Nam) tại Hà Nội\n\nTrần Hồng Kiên\n\nSố Giấy CN ĐKHN kiểm toán:\n\n0298-2023-006-1\n\nChữ ký được ủy quyền\n\nSố hiệu báo cáo kiểm toán: HAN 3227\n\nHà Nội, ngày 20 tháng 2 năm 2023\n\nĐăng Thái Sơn\n\nSố Giấy CN ĐKHN kiểm toán:\n\n4668-2023-006-1\n\n4\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 01 - DN\n\nBẢNG CẦN ĐỐI KẾ TOÁN RIÊNG",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "Tại ngày 31 tháng 12 năm",
+                "4": "Tại ngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "2022 VND",
+                "4": "2021 VND(Phân loại lại – Thuyết minh 30)"
+            },
+            {
+                "0": "100",
+                "1": "TÀI SẢN NGĂN HẠN",
+                "2": "",
+                "3": "438.095.318.297",
+                "4": "706.063.687.329"
+            },
+            {
+                "0": "110",
+                "1": "Tiền và các khoản tương đương tiền",
+                "2": "3",
+                "3": "9.384.395.130",
+                "4": "633.997.287.489"
+            },
+            {
+                "0": "111",
+                "1": "Tiền",
+                "2": "",
+                "3": "8.234.395.130",
+                "4": "565.075.300.060"
+            },
+            {
+                "0": "112",
+                "1": "Các khoản tương đương tiền",
+                "2": "",
+                "3": "1.150.000.000",
+                "4": "68.921.987.429"
+            },
+            {
+                "0": "120",
+                "1": "Đầu tư tài chính ngắn hạn",
+                "2": "",
+                "3": "26.000.000.000",
+                "4": "1.000.000.000"
+            },
+            {
+                "0": "123",
+                "1": "Đầu tư nằm giữ đến ngày đáo hạn",
+                "2": "8(a)",
+                "3": "26.000.000.000",
+                "4": "1.000.000.000"
+            },
+            {
+                "0": "130",
+                "1": "Các khoản phải thu ngắn hạn",
+                "2": "",
+                "3": "388.810.051.507",
+                "4": "57.834.970.525"
+            },
+            {
+                "0": "131",
+                "1": "Phải thu ngắn hạn của khách hàng",
+                "2": "4",
+                "3": "24.289.233.758",
+                "4": "40.019.688.716"
+            },
+            {
+                "0": "132",
+                "1": "Trả trước cho người bán ngắn hạn",
+                "2": "",
+                "3": "1.070.019.414",
+                "4": "71.708.647"
+            },
+            {
+                "0": "135",
+                "1": "Phải thu về cho vay ngắn hạn",
+                "2": "5(a)",
+                "3": "11.605.263.154",
+                "4": "1.789.473.698"
+            },
+            {
+                "0": "136",
+                "1": "Phải thu ngắn hạn khác",
+                "2": "6",
+                "3": "352.163.863.702",
+                "4": "16.272.427.985"
+            },
+            {
+                "0": "137",
+                "1": "Dự phòng phải thu ngắn hạn khó đòi",
+                "2": "6",
+                "3": "(318.328.521)",
+                "4": "(318.328.521)"
+            },
+            {
+                "0": "140",
+                "1": "Hàng tồn kho",
+                "2": "",
+                "3": "1.184.330.434",
+                "4": "1.214.274.739"
+            },
+            {
+                "0": "141",
+                "1": "Hàng tồn kho",
+                "2": "",
+                "3": "1.184.330.434",
+                "4": "1.214.274.739"
+            },
+            {
+                "0": "150",
+                "1": "Tài sản ngắn hạn khác",
+                "2": "",
+                "3": "12.716.541.226",
+                "4": "12.017.154.576"
+            },
+            {
+                "0": "152",
+                "1": "Thuế Giá trị Gia tàng (\"GTGT\") được khấu trừ",
+                "2": "10(a)",
+                "3": "11.473.226.985",
+                "4": "10.775.773.325"
+            },
+            {
+                "0": "153",
+                "1": "Thuế và các khoản khác phải thu Nhà nước",
+                "2": "10(b)",
+                "3": "1.243.314.241",
+                "4": "1.241.381.251"
+            },
+            {
+                "0": "200",
+                "1": "TÀI SẢN DÀI HẠN",
+                "2": "",
+                "3": "1.980.915.603.362",
+                "4": "1.410.304.529.156"
+            },
+            {
+                "0": "210",
+                "1": "Các khoản phải thu dài hạn",
+                "2": "",
+                "3": "32.368.421.053",
+                "4": "2.526.315.786"
+            },
+            {
+                "0": "215",
+                "1": "Phải thu về cho vay dài hạn",
+                "2": "5(b)",
+                "3": "32.368.421.053",
+                "4": "2.526.315.786"
+            },
+            {
+                "0": "220",
+                "1": "Tài sản cố định",
+                "2": "",
+                "3": "37.027.030.625",
+                "4": "22.083.379.119"
+            },
+            {
+                "0": "221",
+                "1": "Tài sản cố định hữu hình",
+                "2": "7(a)",
+                "3": "31.609.177.624",
+                "4": "16.601.313.821"
+            },
+            {
+                "0": "222",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "80.557.184.730",
+                "4": "64.929.033.541"
+            },
+            {
+                "0": "223",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(48.948.007.106)",
+                "4": "(48.327.719.720)"
+            },
+            {
+                "0": "227",
+                "1": "Tài sản cố định vô hình",
+                "2": "7(b)",
+                "3": "5.417.853.001",
+                "4": "5.482.065.298"
+            },
+            {
+                "0": "228",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "6.099.124.701",
+                "4": "6.099.124.701"
+            },
+            {
+                "0": "229",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(681.271.700)",
+                "4": "(617.059.403)"
+            },
+            {
+                "0": "250",
+                "1": "Đầu tư tài chính dài hạn",
+                "2": "",
+                "3": "1.910.464.786.312",
+                "4": "1.385.146.443.286"
+            },
+            {
+                "0": "251",
+                "1": "Đầu tư vào công ty con",
+                "2": "8(b)",
+                "3": "1.440.075.000.000",
+                "4": "895.075.000.000"
+            },
+            {
+                "0": "252",
+                "1": "Đầu tư vào công ty liên kết",
+                "2": "8(b)",
+                "3": "489.916.443.286",
+                "4": "489.916.443.286"
+            },
+            {
+                "0": "253",
+                "1": "Đầu tư góp vốn vào đơn vị khác",
+                "2": "8(b)",
+                "3": "155.000.000",
+                "4": "155.000.000"
+            },
+            {
+                "0": "254",
+                "1": "Dự phòng đầu tư tài chính dài hạn",
+                "2": "8(b)",
+                "3": "(19.681.656.974)",
+                "4": "-"
+            },
+            {
+                "0": "260",
+                "1": "Tài sản dài hạn khác",
+                "2": "",
+                "3": "1.055.365.372",
+                "4": "548.390.965"
+            },
+            {
+                "0": "261",
+                "1": "Chi phí trả trước dài hạn",
+                "2": "",
+                "3": "1.055.365.372",
+                "4": "548.390.965"
+            },
+            {
+                "0": "270",
+                "1": "TỔNG TÀI SẢN",
+                "2": "",
+                "3": "2.419.010.921.659",
+                "4": "2.116.368.216.485"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_3",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "Các thuyết minh từ trang 9 đến trang 45 là một phần cấu thành báo cáo tài chính riêng này.\n\n5\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 01 – DN\n\nBÀNG CẦN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "Tại ngày 31 tháng 12 năm",
+                "4": "Tại ngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "2022 VND",
+                "4": "2021 VND(Phân loại lại – Thuyết minh 30)"
+            },
+            {
+                "0": "300",
+                "1": "NỘ PHẢI TRẢ",
+                "2": "",
+                "3": "292.715.964.947",
+                "4": "660.864.221.429"
+            },
+            {
+                "0": "310",
+                "1": "Nợ ngắn hạn",
+                "2": "",
+                "3": "291.680.903.316",
+                "4": "659.621.762.929"
+            },
+            {
+                "0": "311",
+                "1": "Phải trả người bán ngắn hạn",
+                "2": "9",
+                "3": "12.374.909.657",
+                "4": "3.756.088.527"
+            },
+            {
+                "0": "312",
+                "1": "Người mua trả tiền trước ngắn hạn",
+                "2": "",
+                "3": "1.139.597.062",
+                "4": "1.767.719.458"
+            },
+            {
+                "0": "313",
+                "1": "Thuế và các khoản phải nộp Nhà nước",
+                "2": "10(c)",
+                "3": "1.626.750.347",
+                "4": "2.117.363.304"
+            },
+            {
+                "0": "314",
+                "1": "Phải trả người lao động",
+                "2": "11",
+                "3": "1.164.055.500",
+                "4": "8.108.614.589"
+            },
+            {
+                "0": "315",
+                "1": "Chi phí phải trả ngắn hạn",
+                "2": "",
+                "3": "4.199.097.000",
+                "4": "157.814.118"
+            },
+            {
+                "0": "319",
+                "1": "Phải trả ngắn hạn khác",
+                "2": "12",
+                "3": "98.228.153.504",
+                "4": "640.846.592.787"
+            },
+            {
+                "0": "320",
+                "1": "Vay và nợ thuê tài chính ngắn hạn",
+                "2": "13",
+                "3": "171.800.000.000",
+                "4": "-"
+            },
+            {
+                "0": "322",
+                "1": "Quỹ khen thưởng, phúc lợi",
+                "2": "14",
+                "3": "1.148.340.246",
+                "4": "2.867.570.146"
+            },
+            {
+                "0": "330",
+                "1": "Nợ dài hạn",
+                "2": "",
+                "3": "1.035.061.631",
+                "4": "1.242.458.500"
+            },
+            {
+                "0": "337",
+                "1": "Phải trả dài hạn khác",
+                "2": "",
+                "3": "30.000.000",
+                "4": "30.000.000"
+            },
+            {
+                "0": "342",
+                "1": "Dự phòng phải trả dài hạn",
+                "2": "",
+                "3": "1.005.061.631",
+                "4": "1.212.458.500"
+            },
+            {
+                "0": "400",
+                "1": "VỐN CHỦ SỞ HỮU",
+                "2": "",
+                "3": "2.126.294.956.712",
+                "4": "1.455.503.995.056"
+            },
+            {
+                "0": "410",
+                "1": "Vốn chủ sở hữu",
+                "2": "",
+                "3": "2.126.294.956.712",
+                "4": "1.455.503.995.056"
+            },
+            {
+                "0": "411",
+                "1": "Vốn góp của chủ sở hữu",
+                "2": "1516",
+                "3": "1.212.693.970.000",
+                "4": "551.227.980.000"
+            },
+            {
+                "0": "411a",
+                "1": "- Cổ phiếu phổ thông có quyền biểu quyết",
+                "2": "",
+                "3": "1.212.693.970.000",
+                "4": "551.227.980.000"
+            },
+            {
+                "0": "412",
+                "1": "Thắng dư vốn cổ phần",
+                "2": "16",
+                "3": "39.403.521.246",
+                "4": "36.141.891.246"
+            },
+            {
+                "0": "418",
+                "1": "Quỹ đầu tư phát triển",
+                "2": "16",
+                "3": "646.734.369.757",
+                "4": "646.734.369.757"
+            },
+            {
+                "0": "421",
+                "1": "Lợi nhuận sau thuế (\"LNST\") chưa phân phối",
+                "2": "16",
+                "3": "227.463.095.709",
+                "4": "221.399.754.053"
+            },
+            {
+                "0": "421a",
+                "1": "- LNST chưa phân phối của các năm trước",
+                "2": "",
+                "3": "101.861.744.053",
+                "4": "-"
+            },
+            {
+                "0": "421b",
+                "1": "- LNST chưa phân phối của năm nay",
+                "2": "",
+                "3": "125.601.351.656",
+                "4": "221.399.754.053"
+            },
+            {
+                "0": "440",
+                "1": "TỔNG NGUỒN VỐN",
+                "2": "",
+                "3": "2.419.010.921.659",
+                "4": "2.116.368.216.485"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_4",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "Đoàn Thị Phương Thảo\nNgười lập\n\nLê Thế Trung\nKế toán trường\n\nBùi Minh Hung\nTổng Giám đốc/\nNgười đại diện theo pháp luật\nNgày 20 tháng 2 năm 2023\n\nCác thuyết minh từ trang 9 đến trang 45 là một phần cấu thành báo cáo tài chính riêng này.\n\n6\n\n\n\n[Non-Text]\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 02 – DN\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "",
+                "2": "Thuyết minh",
+                "3": "Năm tài chính kết thúc ngày 31 tháng 12 năm",
+                "4": "Năm tài chính kết thúc ngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mã số",
+                "1": "",
+                "2": "Thuyết minh",
+                "3": "2022 VND",
+                "4": "2021 VND"
+            },
+            {
+                "0": "01",
+                "1": "Doanh thu bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "239.855.081.102",
+                "4": "162.568.460.428"
+            },
+            {
+                "0": "02",
+                "1": "Các khoản giảm trừ doanh thu",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "10",
+                "1": "Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "18",
+                "3": "239.855.081.102",
+                "4": "162.568.460.428"
+            },
+            {
+                "0": "11",
+                "1": "Giá vốn hàng bán và dịch vụ cung cấp",
+                "2": "19",
+                "3": "(223.438.851.267)",
+                "4": "(137.272.931.889)"
+            },
+            {
+                "0": "20",
+                "1": "Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "16.416.229.835",
+                "4": "25.295.528.539"
+            },
+            {
+                "0": "21",
+                "1": "Doanh thu hoạt động tài chính",
+                "2": "20",
+                "3": "283.671.025.428",
+                "4": "245.975.454.507"
+            },
+            {
+                "0": "22",
+                "1": "Chi phí tài chính",
+                "2": "21",
+                "3": "(20.638.745.883)",
+                "4": "(113.441.685)"
+            },
+            {
+                "0": "25",
+                "1": "Chi phí bán hàng",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "26",
+                "1": "Chi phí quản lý doanh nghiệp",
+                "2": "22",
+                "3": "(31.328.023.953)",
+                "4": "(21.965.097.612)"
+            },
+            {
+                "0": "30",
+                "1": "Lợi nhuận thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "248.120.485.427",
+                "4": "249.192.443.749"
+            },
+            {
+                "0": "31",
+                "1": "Thu nhập khác",
+                "2": "",
+                "3": "432.609.630",
+                "4": "1.663.304.339"
+            },
+            {
+                "0": "32",
+                "1": "Chi phí khác",
+                "2": "",
+                "3": "(323.943.058)",
+                "4": "-"
+            },
+            {
+                "0": "40",
+                "1": "Lợi nhuận khác",
+                "2": "",
+                "3": "108.666.572",
+                "4": "1.663.304.339"
+            },
+            {
+                "0": "50",
+                "1": "Tổng lợi nhuận kế toán trước thuế",
+                "2": "",
+                "3": "248.229.151.999",
+                "4": "250.855.748.088"
+            },
+            {
+                "0": "51",
+                "1": "Chi phí thuế thu nhập doanh nghiệp (\"TNDN\") hiện hành",
+                "2": "23",
+                "3": "(1.358.403.343)",
+                "4": "(1.712.436.585)"
+            },
+            {
+                "0": "52",
+                "1": "Chi phí thuế TNDN hoãn lại",
+                "2": "23",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "60",
+                "1": "Lợi nhuận sau thuế TNDN",
+                "2": "",
+                "3": "246.870.748.656",
+                "4": "249.143.311.503"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_5",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "Đoàn Thị Phương Thảo\nNgười lập\n\nLê Thế Trung\nKế toán trường\n\nBui Minh Hung\nTổng Giám đốc/\nNgười đại diện theo pháp luật\nNgày 20 tháng 2 năm 2023\n\nCác thuyết minh từ trang 9 đến trang 45 là một phần cấu thành báo cáo tài chính riêng này.\n\n7\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 03 – DN\n\nBÁO CÁO LƯU CHUYÊN TIÊN TỆ RIÊNG\n\n(Theo phương pháp gián tiếp)",
+        "dataframe": [
+            {
+                "0": "Mãsố",
+                "1": "",
+                "2": "Thuyếtminh",
+                "3": "Năm tài chính kết thúcngày 31 tháng 12 năm",
+                "4": "Năm tài chính kết thúcngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mãsố",
+                "1": "",
+                "2": "Thuyếtminh",
+                "3": "2022VND",
+                "4": "2021VND"
+            },
+            {
+                "0": "",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "3": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "4": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH"
+            },
+            {
+                "0": "01",
+                "1": "Lợi nhuận kế toán trước thuếĐiều chỉnh cho các khoản:",
+                "2": "",
+                "3": "248.229.151.999",
+                "4": "250.855.748.088"
+            },
+            {
+                "0": "02",
+                "1": "Khấu hao tài sản cố định (\"TSCĐ\")",
+                "2": "",
+                "3": "2.456.227.087",
+                "4": "2.536.137.381"
+            },
+            {
+                "0": "03",
+                "1": "Các khoản dự phòng",
+                "2": "",
+                "3": "19.474.260.105",
+                "4": "1.212.458.500"
+            },
+            {
+                "0": "04",
+                "1": "Lỗ/(lãi) chênh lệch tỷ giá hối đoái do đánh giá lạicác khoản mục tiên tệ có gốc ngoại tệ",
+                "2": "",
+                "3": "111.560.282",
+                "4": "(312.562.978)"
+            },
+            {
+                "0": "05",
+                "1": "Lãi từ hoạt động đầu tư",
+                "2": "",
+                "3": "(277.577.732.472)",
+                "4": "(246.065.779.054)"
+            },
+            {
+                "0": "08",
+                "1": "(Lỗ)/lợi nhuận từ hoạt động kinh doanh trướcnhững thay đổi vốn lưu động",
+                "2": "",
+                "3": "(7.306.532.999)",
+                "4": "8.226.001.937"
+            },
+            {
+                "0": "09",
+                "1": "(Tăng)/Giảm các khoản phải thu",
+                "2": "",
+                "3": "(21.858.011.677)",
+                "4": "82.629.622.496"
+            },
+            {
+                "0": "10",
+                "1": "Giảm/(tăng) hàng tồn kho",
+                "2": "",
+                "3": "29.944.305",
+                "4": "(747.452.045)"
+            },
+            {
+                "0": "11",
+                "1": "Tăng các khoản phải trả",
+                "2": "",
+                "3": "10.916.555.097",
+                "4": "48.965.184.589"
+            },
+            {
+                "0": "12",
+                "1": "Tăng chi phí trả trước",
+                "2": "",
+                "3": "(506.974.407)",
+                "4": "(335.838.954)"
+            },
+            {
+                "0": "15",
+                "1": "Thuế TNDN đã nộp",
+                "2": "",
+                "3": "(1.355.642.332)",
+                "4": "(3.265.726.202)"
+            },
+            {
+                "0": "17",
+                "1": "Tiền chi khác từ hoạt động kinh doanh",
+                "2": "",
+                "3": "(11.019.229.900)",
+                "4": "(21.371.107.631)"
+            },
+            {
+                "0": "20",
+                "1": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "(31.099.891.913)",
+                "4": "114.100.684.190"
+            },
+            {
+                "0": "",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "2": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "3": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "4": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+            },
+            {
+                "0": "21",
+                "1": "Tiền chi để mua sắm TSCĐ",
+                "2": "",
+                "3": "(17.399.878.593)",
+                "4": "(1.637.543.636)"
+            },
+            {
+                "0": "22",
+                "1": "Tiền thu từ thanh lý, nhượng bán TSCĐ",
+                "2": "",
+                "3": "432.609.630",
+                "4": "509.090.904"
+            },
+            {
+                "0": "23",
+                "1": "Tiền chi mua các công cụ nợ của các đơn vị khác",
+                "2": "",
+                "3": "(80.000.000.000)",
+                "4": "(1.000.000.000)"
+            },
+            {
+                "0": "24",
+                "1": "Tiền thu hồi cho vay, bán lại các công cụ nợ củadơn vị khác",
+                "2": "",
+                "3": "15.342.105.277",
+                "4": "27.154.634.057"
+            },
+            {
+                "0": "25",
+                "1": "Tiền chi đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "(845.000.000.000)",
+                "4": "(392.492.736.000)"
+            },
+            {
+                "0": "27",
+                "1": "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+                "2": "",
+                "3": "277.145.122.842",
+                "4": "178.378.240.000"
+            },
+            {
+                "0": "30",
+                "1": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+                "2": "",
+                "3": "(649.480.040.844)",
+                "4": "(189.088.314.675)"
+            },
+            {
+                "0": "",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "3": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "4": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+            },
+            {
+                "0": "31",
+                "1": "Tiền thu từ phát hành cổ phiếu, nhận vốn góp củachủ sở hữu",
+                "2": "",
+                "3": "5.436.050.000",
+                "4": "549.053.560.000"
+            },
+            {
+                "0": "33",
+                "1": "Tiền thu đi vay",
+                "2": "",
+                "3": "171.800.000.000",
+                "4": ""
+            },
+            {
+                "0": "36",
+                "1": "Tiền cổ tức, lợi nhuận đã trả cho chủ sở hữu",
+                "2": "",
+                "3": "(121.269.397.000)",
+                "4": "(55.122.798.000)"
+            },
+            {
+                "0": "40",
+                "1": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                "2": "",
+                "3": "55.966.653.000",
+                "4": "493.930.762.000"
+            },
+            {
+                "0": "50",
+                "1": "Lưu chuyển tiền thuần trong năm",
+                "2": "",
+                "3": "(624.613.279.757)",
+                "4": "418.943.131.515"
+            },
+            {
+                "0": "60",
+                "1": "Tiền và tương đương tiền đầu năm",
+                "2": "3",
+                "3": "633.997.287.489",
+                "4": "214.950.878.788"
+            },
+            {
+                "0": "61",
+                "1": "Ảnh hưởng của thay đổi tỷ giá quy đổi ngoại tệ",
+                "2": "",
+                "3": "387.398",
+                "4": "103.277.186"
+            },
+            {
+                "0": "70",
+                "1": "Tiền và tương đương tiền cuối năm",
+                "2": "3",
+                "3": "9.384.395.130",
+                "4": "633.997.287.489"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_6",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "Các thông tin liên quan tới báo cáo lưu chuyển tiền tệ được được tính bày tại Thuyết minh 25.\n\nĐoàn Thị Phương Thảo\nNgười lập\n\nLê Thế Trung\nKế toán trường\n\nTổng Giám đốc/\nNgười đại diện theo pháp luật\nNgày 20 tháng 2 năm 2023\n\nCác thuyết minh từ trang 9 đến trang 45 là một phần cấu thành báo cáo tài chính riêng này.\n\n8\n\n\n\n[Non-Text]\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY\n\nCông ty Cổ phần Container Việt Nam (\"Công ty\") là một công ty cổ phần được thành lập tại nước CHXHCN Việt Nam theo Giấy Chứng nhận Đăng ký Doanh nghiệp số 0200453688 đề ngày 1 tháng 4 năm 2002 và các thay đổi Giấy Chứng nhận Đăng ký Doanh nghiệp do Sở Kế hoạch và Đầu tư Thành phố Hải Phòng cấp.\n\nCổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh với mã giao dịch cổ phiếu là VSC.\n\nLĩnh vực hoạt động kinh doanh của Công ty bao gồm:\n\n• Kinh doanh kho bãi và lưu giữ hàng hóa;\n\n• Vận tải hàng hóa ven biển và viễn dương;\n\n• Vận tải hàng hóa đường thủy nội địa;\n\n- Sửa chữa máy móc, thiết bị;\n\n• Bảo dưỡng sửa chữa ô tô và xe có động cơ khác;\n\n• Bán lẻ nhiên liệu động cơ trong các cửa hàng chuyên doanh;\n\n- Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường thủy;\n\n- Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải;\n\n• Vận tải hàng hóa bằng đường bộ;\n\n- Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt và đường bộ;\n\n• Bóc xếp hàng hóa;\n\n• Cho thuê xe có động cơ; và\n\n• Cho thuê máy móc thiết bị và đồ dùng hữu hình khác.\n\nChu kỳ sản xuất kinh doanh thông thường của Công ty là 12 tháng.\n\nTai ngày 31 tháng 12 năm 2022, Công ty có 60 nhân viên (tại ngày 31 tháng 12 năm 2021: 72 nhân viên).\n\nTai ngày 31 tháng 12 năm 2022, Công ty có 7 công ty con và 4 công ty liên kết (Thuyết minh 8(b)) như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nơi thành lập,đăng kýhoạt động",
+                "2": "31/12/2022",
+                "3": "31/12/2022",
+                "4": "31/12/2021",
+                "5": "31/12/2021"
+            },
+            {
+                "0": "",
+                "1": "Nơi thành lập,đăng kýhoạt động",
+                "2": "Tỷ lệsở hữu",
+                "3": "Tỷ lệbiểu quyếtnăm giữ",
+                "4": "Tỷ lệsở hữu",
+                "5": "Tỷ lệbiểu quyếtnăm giữ"
+            },
+            {
+                "0": "Công ty con",
+                "1": "Công ty con",
+                "2": "Công ty con",
+                "3": "Công ty con",
+                "4": "Công ty con",
+                "5": "Công ty con"
+            },
+            {
+                "0": "1) Công ty Cổ phần Cảng Xanh VIP",
+                "1": "Hải Phòng",
+                "2": "74%",
+                "3": "74%",
+                "4": "74%",
+                "5": "74%"
+            },
+            {
+                "0": "2) Công ty Cổ phần Đầu tư Dịch vụvà Phát triển Xanh",
+                "1": "Hải Phòng",
+                "2": "66%",
+                "3": "66%",
+                "4": "66%",
+                "5": "66%"
+            },
+            {
+                "0": "3) Công ty Cổ phần ContainerMiền Trung",
+                "1": "Đà Nẵng",
+                "2": "65%",
+                "3": "65%",
+                "4": "65%",
+                "5": "65%"
+            },
+            {
+                "0": "4) Công ty TNHH Một thành viênVấn tải biển Ngồi Sao Xanh",
+                "1": "Hải Phòng",
+                "2": "100%",
+                "3": "100%",
+                "4": "100%",
+                "5": "100%"
+            },
+            {
+                "0": "5) Công ty TNHH Một thành viênTrung tâm Logistics Xanh",
+                "1": "Hải Phòng",
+                "2": "100%",
+                "3": "100%",
+                "4": "100%",
+                "5": "100%"
+            },
+            {
+                "0": "6) Công ty TNHH Một thành viênDịch vụ Cảng Xanh",
+                "1": "Hải Phòng",
+                "2": "100%",
+                "3": "100%",
+                "4": "100%",
+                "5": "100%"
+            },
+            {
+                "0": "7) Công ty TNHH Một thành viênViconship Hồ Chí Minh",
+                "1": "Thành phốHồ Chí Minh",
+                "2": "100%",
+                "3": "100%",
+                "4": "-",
+                "5": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_7",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "9\n\n\n\n[Non-Text]\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY (TIẾP THEO)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nơi thànhlập, đăng kýhoạt động",
+                "2": "31.12.2022",
+                "3": "31.12.2022",
+                "4": "31.12.2021",
+                "5": "31.12.2021"
+            },
+            {
+                "0": "",
+                "1": "Nơi thànhlập, đăng kýhoạt động",
+                "2": "Tỷ lệsở hữu",
+                "3": "Tỷ lệbiểu quyếtnăm giữ",
+                "4": "Tỷ lệsở hữu",
+                "5": "Tỷ lệbiểu quyếtnăm giữ"
+            },
+            {
+                "0": "Công ty liên kết",
+                "1": "Công ty liên kết",
+                "2": "Công ty liên kết",
+                "3": "Công ty liên kết",
+                "4": "Công ty liên kết",
+                "5": "Công ty liên kết"
+            },
+            {
+                "0": "1) Công ty Cổ phần LogisticsCăng Đà Nẵng",
+                "1": "Đà Nẵng",
+                "2": "31%",
+                "3": "31%",
+                "4": "31%",
+                "5": "31%"
+            },
+            {
+                "0": "2) Công ty Cổ phần Cảng dịchvụ Dầu khí Đình Vũ",
+                "1": "Hải Phòng",
+                "2": "22%",
+                "3": "22%",
+                "4": "22%",
+                "5": "22%"
+            },
+            {
+                "0": "3) Công ty TNHH TuyênContainer T.S Hà Nội",
+                "1": "Hải Phòng",
+                "2": "30%",
+                "3": "30%",
+                "4": "30%",
+                "5": "30%"
+            },
+            {
+                "0": "4) Công ty Cổ phần Cảng VIMCDỉnh Vũ",
+                "1": "Hải Phòng",
+                "2": "36%",
+                "3": "36%",
+                "4": "36%",
+                "5": "36%"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_8",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU\n\n2.1 Cơ sở của việc lập báo cáo tài chính riêng\n\nBáo cáo tài chính riêng đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng. Báo cáo tài chính riêng được lập theo nguyên tắc giá gốc.\n\nBáo cáo tài chính riêng kèm theo không nhằm mục đích trình bày tỉnh hình tải chính riêng, kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng theo các nguyên tắc và thông lệ kế toán thường được chấp nhận ở các nước và các thể chế khác ngoài nước Việt Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại nước Việt Nam có thể khác với các nguyên tắc và thông lệ kế toán tại các nước và các thể chế khác.\n\nNgoài ra, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con theo các Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Trong báo cáo tài chính hợp nhất, các công ty con là những công ty mà Tập đoàn kiểm soát các chính sách hoạt động và tài chính, đã được hợp nhất đầy đủ.\n\nNgười sử dụng báo cáo tài chính riêng của Công ty nên đọc cùng với báo cáo tài chính hợp nhất của Tập đoàn cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 để có đủ thông tin về tinh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất của Tập đoàn.\n\n2.2 Năm tài chính\n\nNăm tài chính của Công ty bất đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12.\n\n2.3 Đơn vị tiền tệ sử dụng trong kế toán\n\nCông ty sử dụng đơn vị tiền tệ trong kế toán và trình bày trên báo cáo tài chính riêng là Đồng Việt Nam (\"VND\" hoặc \"Đồng\").\n\n10\n\n\n\n[Non-Text]\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YỀU (TIẾP THEO)\n\n2.4 Các loại tỷ giá hối đoái áp dụng trong kế toán\n\nCác nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá giao dịch thực tế áp dụng tại ngày phát sinh nghiệp vụ. Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi nhận là thu nhập hoặc chỉ phí trong báo cáo kết quả hoạt động kinh doanh riêng.\n\nTài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày của bảng cân đối kế toán riêng lần lượt được quy đổi theo tỷ giả mua và tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch áp dụng tại ngày bảng cân đối kế toán riêng. Các khoản ngoại tệ gửi ngân hàng tại ngày của bảng cân đối kế toán riêng được quy đổi theo tỷ giả mua của chính ngân hàng thương mại nơi Công ty mở tài khoản ngoại tệ. Chênh lệch tỷ giá phát sinh từ việc quy đổi này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh riêng.\n\n2.5 Tiền và các khoản tương đương tiền\n\nTiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, tiền gửi không kỳ hạn và các khoản đầu tư ngắn hạn khác có thời hạn đảo hạn ban đầu không quá ba tháng.\n\n2.6 Các khoản phải thu\n\nCác khoản phải thu thể hiện giá trị ghi sổ của các khoản phải thu khách hàng gồm các khoản phải thu mang tính chất thương mại phát sinh từ giao dịch bán hàng hóa, cung cấp dịch vụ; và các khoản phải thu khác không có tính thương mại, không liên quan đến giao dịch bán hàng hóa và cung cấp dịch vụ. Dự phòng các khoản phải thu khó đòi được lập cho từng khoản phải thu căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên). Các khoản phải thu được xác định là không thể thu hồi sẽ được xóa sổ.\n\nCác khoản phải thu được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản phải thu tại ngày của bằng cân đối kế toán riêng tới ngày đến hạn thu hồi.\n\n2.7 Hàng tồn kho\n\nHàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được xác định trên cơ sở nhập trước xuất trước và bao gồm tất cả các chi phí mua, chi phí chế biến và các chi phí khác có được hàng tồn kho ở địa điểm và trạng thái hiện tai. Trong trường hợp các sản phẩm được sản xuất, giá gốc bao gồm tất cả chi phí trực tiếp và chi phí sản xuất chung dựa trên mức độ hoạt động bình thường. Giá trị thuần có thể thực hiện được là giả bán ước tính của hàng tồn kho trong năm kinh doanh bình thường trừ chi phí ước tính để hoàn thành sản phẩm và chi phí ước tính cần thiết cho việc tiêu thụ.\n\nCông ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.\n\n11\n\n\n\n「\n「\n「\n「\n「\n「\n「\n「\n」\n」\n」\n」\n」\n」\n」\n」\n」\n」\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YỀU (TIẾP THEO)\n\n2.8 Đầu tư tài chính\n\n(a) Đầu tư nằm giữ đến ngày đáo hạn\n\nCác khoản đầu tư nằm giữ đến ngày đáo hạn là các khoản đầu tư mà Công ty có ý định và có khả năng giữ đến ngày đáo hạn.\n\nCác khoản đầu tư nằm giữ đến ngày đáo hạn bao gồm các khoản tiền gửi ngân hàng với mục đích thu lãi hàng năm. Các khoản đầu tư này ban đầu được ghi nhận theo giá gốc. Sau đó, Công ty thực hiện việc rà soát đối với các khoản đầu tư để ghi nhận dự phòng vào cuối năm kể toán.\n\nDự phòng giảm giá đầu tư nằm giữ đến ngày đáo hạn được lập trên cơ sở có bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được. Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chỉ phí tài chính trong năm. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.\n\nCác khoản đầu tư nằm giữ đến ngày đáo hạn được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản đầu tư năm giữ đến ngày đáo hạn tại ngày của bằng cân đối kế toán riêng đến ngày đáo hạn.\n\n(b) Đầu tư vào công ty con\n\nCông ty con là doanh nghiệp mà Công ty có quyền chi phối các chính sách tài chính và hoạt động của doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó, thường đi kèm là việc nằm giữ hơn một nửa quyền biểu quyết. Sự tồn tại và tính hữu hiệu của quyền biểu quyết tiêm tàng đang được thực thi hoặc được chuyển đổi sẽ được xem xét khi đánh giá liệu Công ty có quyền kiểm soát doanh nghiệp hay không.\n\nĐầu tư vào công ty con được ghi nhận ban đầu theo giả gốc, cộng các chi phí liên quan trực tiếp đến việc đầu tư. Sau đó, Ban Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối kỳ kế toán.\n\n(c) Đầu tư vào công ty liên kết\n\nCông ty liên kết là tất cả các công ty trong đó Công ty có ảnh hưởng đáng kể nhưng không phải kiểm soát, thường được thể hiện thông qua việc nấm giữ tử 20% đến 50% quyền biểu quyết ở công ty đó.\n\nĐầu tư vào công ty liên kết được ghi nhận ban đầu theo giá gốc, bao gồm giá mua cộng các chi phí liên quan trực tiếp đến việc đầu tư. Sau đó, Ban Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối kỳ kế toán.\n\n(d) Đầu tư góp vốn vào đơn vị khác\n\nĐầu tư góp vốn vào đơn vị khác là các khoản đầu tư vào công cụ vốn của đơn vị khác nhưng không có quyền kiểm soát hoặc đồng kiểm soát, không có ảnh hưởng đáng kể đối với bên được đầu tư. Các khoản đầu tư này được ghi nhận ban đầu theo giả gốc. Sau đó, Ban Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối kỳ kể toán.\n\n12\n\n\n\n「\n「\n「\n「\n「\n「\n「\n「\n」\n」\n」\n」\n」\n」\n」\n」\n」\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)\n\n2.8 Đầu tư tài chính (tiếp theo)\n\n(e) Dự phòng giảm giá đầu tư vào công ty con, công ty liên kết và đầu tư góp vốn vào đơn vị khác\n\nDự phòng giảm giá đầu tư vào công ty con, công ty liên kết và đầu tư góp vốn vào đơn vị khác được lập vào cuối kỳ kế toán khi có sự giảm giá trị của các khoản đầu tư.\n\nDự phòng giảm giá đầu tư vào công ty con; công ty liên doanh, liên kết được tính dựa trên khoản lỗ của bên được đầu tư.\n\nDự phòng giảm giả đầu tư góp vốn vào đơn vị khác được tính dựa trên giá trị thị trường nếu giá trị thị trường được xác định một cách tin cây. Nếu giá trị thị trường không thể được xác định một cách tin cây, dự phòng giảm giả đầu tư góp vốn vào đơn vị khác được tính tương tự như dự phòng giảm giả đầu tư vào công ty con; công ty liên doanh, liên kết.\n\nChênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chi phí tài chính trong kỳ. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.\n\n2.9 Cho vay\n\nCho vay là các khoản cho vay với mục đích thu lãi hàng kỳ theo khế ước giữa các bên nhưng không được giao dịch mua, bán trên thị trường như chứng khoản.\n\nCho vay được ghi nhận ban đầu theo giá gốc. Sau đó, Ban Giám đốc thực hiện việc rà soát đối với tất cả các khoản còn chưa thu để ghi nhận dự phòng các khoản cho vay khó đòi vào cuối kỳ kế toán. Dự phòng các khoản cho vay khó đòi được lập cho từng khoản cho vay căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên). Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chi phí tài chính trong kỳ. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.\n\nCho vay được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản cho vay tại ngày của bằng cân đối kế toán riêng đến ngày tới hạn thu hồi.\n\n2.10 Tài sản cố định (\"TSCĐ\")\n\nTSCĐ hữu hình và TSCĐ vô hình\n\nTài sản cố định được phần ánh theo nguyên giá trừ khấu hao lũy kế. Nguyên giá bao gồm các chi phí liên quan trực tiếp đến việc có được tài sản cố định ở trạng thái sản sàng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chi được ghi tăng nguyên giá tài sản cố định nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí sản xuất kinh doanh trong năm.\n\n13\n\n\n\n[Non-Text]\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (TIẾP THEO)\n\n2.10 Tài sản cố định (tiếp theo)\n\nKhâu hao\n\nTài sản cố định được khấu hao theo phương pháp đường thẳng để giảm dần giá trị phải khấu hao trong suốt thời gian hữu dụng ước tính. Giá trị khấu hao là nguyên giá TSCĐ ghi nhận trên báo cáo tài chính trừ đi (-) giá trị thanh lý ước tính của tài sản. Thời gian hữu dụng ước tính của các loại tài sản như sau:",
+        "dataframe": [
+            {
+                "0": "Nhà cửa, vật kiến trúc",
+                "1": "10 – 25 năm"
+            },
+            {
+                "0": "Máy móc, thiết bị",
+                "1": "3 – 7 năm"
+            },
+            {
+                "0": "Phương tiện vận tải",
+                "1": "6 – 10 năm"
+            },
+            {
+                "0": "Thiết bị quản lý",
+                "1": "3 – 5 năm"
+            },
+            {
+                "0": "Phần mềm máy tính",
+                "1": "3 – 5 năm"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_9",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "Quyền sử dụng đất bao gồm quyền sử dụng đất không thời hạn và được cấp Giấy chứng nhận quyền sử dụng đất. Quyền sử dụng đất không thời hạn được ghi nhận theo giá gốc và không được khấu hao.\n\nThanh lý\n\nLãi hoặc lỗ phát sinh do thanh lý, nhượng bán tài sản cố định được xác định bằng số chênh lệch giữa số tiền thu thuần do thanh lý với giá trị còn lại của tài sản cố định và được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh riêng.\n\n2.11 Thuê tài sản\n\nThuê hoạt động là loại hình thuê tài sản cố định mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.\n\n2.12 Chi phí trả trước\n\nChi phí trả trước bao gồm các chi phí trả trước ngắn hạn và chi phí trả trước dài hạn trên bằng cân đối kế toán riêng. Các khoản chi phí trả trước này được ghi nhận theo giá gốc và được phân bổ theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính.\n\n2.13 Nợ phải trả\n\nCác khoản nợ phải trả được phân loại dựa vào tính chất bao gồm:\n\n- Phải trả người bán gồm các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa và dịch vụ; và\n\n- Phải trả khác gồm các khoản phải trả không có tính thương mai và không liên quan đến giao dịch mua hàng hóa và dịch vụ.\n\nCác khoản nợ phải trả được phân loại ngắn hạn và dài hạn trên bảng cân đối kế toán riêng cần cứ theo kỳ hạn còn lại của các khoản phải trả tại ngày của bảng cân đối kế toán riêng tới ngày đến hạn thanh toán.\n\n14\n\n\n\n「\n「\n「\n「\n「\n「\n「\n」\n」\n」\n」\n」\n」\n」\n」\n」\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)\n\n2.14 Vay\n\nVay bao gồm các khoản tiền vay từ các ngân hàng, tổ chức tài chính, công ty tài chính và các đối tượng khác.\n\nCác khoản vay được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng cản cứ theo kỳ hạn còn lại của các khoản vay tại ngày của bằng cân đối kế toán riêng tối ngày đến hạn thanh toán.\n\nChi phí đi vay liên quan trực tiếp đối với hoạt động xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn sẽ được vốn hóa trong thời gian mà các tài sản này được hoàn thành và chuẩn bị đưa vào sử dụng. Đối với các khoản vay chung trong đó có sử dụng vốn cho mục đích đầu tư xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn thi Công ty xác định chi phí đi vay được vốn hóa theo tỷ lệ vốn hóa đối với chi phí lũy kế bình quân gia quyền phát sinh cho việc đầu tư xây dựng cơ bản hoặc sản xuất tài sản đủ tiêu chuẩn đó. Tỷ lệ vốn hóa được tính theo tỷ lệ lãi suất bình quân gia quyền của các khoản vay chưa trả trong năm, trừ các khoản vay riêng biệt phục vụ cho mục đích hình thành một tài sản cụ thể. Chi phí đi vay khác được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.\n\n2.15 Chi phí phải trả\n\nChi phí phải trả bao gồm các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán trong kỳ báo cáo nhưng thực tế chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kể toán. Chi phí phải trả được ghi nhận vào chi phí sản xuất, kinh doanh của kỳ báo cáo.\n\n2.16 Các khoản dự phòng\n\nCác khoản dự phòng được ghi nhận khi Công ty có nghĩa vụ nợ hiện tai, pháp lý hoặc liên đối, phát sinh từ các sự kiện đã xảy ra; việc thanh toán nghĩa vụ nợ có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh tế và giá trị của nghĩa vụ nợ đó được ước tính một cách đáng tin cây. Dự phòng không được ghi nhận cho các khoản lỗ hoạt động trong tương lai.\n\nDự phòng được tính trên cơ sở các khoản chi phí dự tính phải thanh toán nghĩa vụ nợ. Nếu ảnh hưởng về giá trị thời gian của tiền là trọng yếu thì dự phòng được tính trên cơ sở giá trị hiện tại với tỷ lệ chiết khấu trước thuế và phân ảnh những đánh giá trên thị trường hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó. Giá trị tăng lên do ảnh hưởng của yếu tố thời gian được ghi nhận là chi phí tài chính. Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập chưa sử dụng ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chi phí sản xuất kinh doanh trong năm.\n\n15\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YỀU (TIẾP THEO)\n\n2.17 Dự phòng trợ cấp thời việc\n\nTheo Luật Lao động Việt Nam, người lao động của Công ty đã làm việc thường xuyên đủ 12 tháng trở lên được hưởng khoản trợ cấp thời việc. Thời gian làm việc để tính trợ cấp thời việc là tổng thời gian người lao động đã làm việc thực tế cho Công ty trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và thời gian làm việc đã được Công ty chỉ trả trợ cấp thời việc.\n\nTrợ cấp thời việc của người lao động được trích trước cuối mỗi ký bảo cáo theo tỷ lệ bằng một nửa mức lương bình quân tháng cho mỗi nằm làm việc. Mức lương bình quân tháng để tính trợ cấp thời việc dựa trên mức lương bình quân tháng để tính trợ cấp thời việc dựa trên mức lương bình quân theo hợp đồng lao động của sau tháng gần nhất tính đến trước ngày lập bằng cân đối kế toán riêng này. Khoản trích trước này được sử dụng để trả một lần khi người lao động chấm dứt hợp đồng lao động theo quy định hiện hành.\n\n2.18 Vốn chủ sở hữu\n\nVốn góp chủ sở hữu được ghi nhận theo số thực tế góp của các cổ đông và được phần ánh theo mệnh giả của cổ phiếu.\n\nThăng dư vốn cổ phần là khoản chênh lệch giữa vốn góp theo mệnh giá cổ phiếu với giá thực tế phát hành cổ phiếu; chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tái phát hành cổ phiếu quỹ.\n\nLợi nhuận sau thuế chưa phân phối phần ánh kết quả kinh doanh (lãi hoặc lỗ) sau thuế thu nhập doanh nghiệp của Công ty tại thời điểm bảo cáo.\n\n2.19 Phân chia lợi nhuận\n\nCổ tức của Công ty được ghi nhận là một khoản phải trả trong báo cáo tài chính riêng của năm kế toàn mà cổ tức được thông qua tại Đại hội đồng Cổ đông.\n\nLNST TNDN có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt và sau khi đã trích lập các quỹ theo điều lệ của Công ty và các quy định của pháp luật Việt Nam.\n\nCông ty trích lập các quỹ sau:\n\n(a) Quỹ đầu tư phát triển\n\nQuỹ đầu tư phát triển được trich lập từ LNST TNDN của Công ty và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông. Quỹ được sử dụng nhằm mục đích mở rộng kinh doanh trong tương lai.\n\n(b) Quỹ khen thưởng, phúc lợi\n\nQuỹ khen thưởng, phúc lợi được trích lập từ LNST TNDN của Công ty và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông. Quỹ được trình bày là một khoản phải trả trên bằng cân đối kế toán riêng. Quỹ được sử dụng để chi trả các khoản khen thưởng và phúc lợi cho các nhân viên, thưởng cho ban quản lý điều hành của Công ty theo chính sách khen thưởng và phúc lợi của Công ty.\n\n16\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (TIẾP THEO)\n\n2.20 Ghi nhận doanh thu\n\n(a) Doanh thu bán hàng\n\nDoanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:\n\n- Công ty đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;\n\n- Công ty không còn nằm giữ quyền quản lý sản phẩm hoặc hàng hóa như người sở hữu sản phẩm hoặc hàng hóa, hoặc quyền kiểm soát sản phẩm hoặc hàng hóa;\n\n- Doanh thu được xác định tương đối chắc chắn;\n\n• Công ty sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và\n\n- Xác định được chi phí liên quan đến giao dịch bán hàng.\n\nDoanh thu không được ghi nhận khi có yếu tố không chắc chắn mang tính trọng yếu về khả năng thu được tiền bán hàng hoặc khả năng hàng bán bị trả lại.\n\nDoanh thu được ghi nhận phù hợp với bản chất hơn hình thức và được phân bổ theo nghĩa vụ cung ứng sản phẩm hoặc hàng hóa. Trường hợp Công ty dùng sản phẩm, hàng hóa để khuyến mãi cho khách hàng kèm theo điều kiện mua hàng của Công ty thì Công ty phân bổ số tiền thu được để tính doanh thu cho cả hàng khuyến mãi và giá trị hàng khuyến mãi được tính vào giả vốn hàng bán trong báo cáo kết quả hoạt động kinh doanh riêng.\n\n(b) Doanh thu cung cấp dịch vụ\n\nDoanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi dịch vụ đã được cung cấp, bằng cách tỉnh mức độ hoàn thành của từng giao dịch, dựa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung cấp so với tổng khởi lượng dịch vụ phải cung cấp. Doanh thu cung cấp dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn (4) điều kiện sau:\n\n- Doanh thu được xác định tương đối chắc chắn;\n\n• Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;\n\n- Xác định được phần công việc đã hoàn thành tại ngày của bằng cân đối kế toán riêng; và\n\n- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.\n\n(c) Thu nhập lãi\n\nThu nhập lãi được ghi nhận khi được hưởng.\n\n(d) Thu nhập từ cổ tức\n\nThu nhập từ cổ tức được ghi nhận khi Công ty xác lập quyền nhận cổ tức từ các đơn vị đầu tư.\n\n17\n\n\n\n「\n「\n「\n「\n「\n「\n「\n「\n」\n」\n」\n」\n」\n」\n」\n」\n」\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (TIẾP THEO)\n\n2.21 Giá vốn hàng bán và dịch vụ cung cấp\n\nGiá vốn hàng bán và dịch vụ cung cấp là tổng chi phí phát sinh của hàng hóa và dịch vụ cung cấp cho khách hàng trong năm, được ghi nhận theo nguyên tắc phủ hợp với doanh thu và nguyên tắc thận trọng.\n\n2.22 Chi phí tài chính\n\nChi phí tài chính phần ánh những khoản chí phí hoạt động tài chính phát sinh trong năm chủ yếu bao gồm các khoản chi phí hoặc các khoản lỗ liên quan đến các hoạt động đầu tư tài chính, khoản lỗ phát sinh khi bán ngoại tệ, lỗ do chênh lệch tỷ giá hối đoái và chi phí lãi vay.\n\n2.23 Chi phí quản lý doanh nghiệp\n\nChi phí quản lý doanh nghiệp phần ánh các chi phí thực tế phát sinh trong quá trình quản lý chung của Công ty.\n\n2.24 Thuế thu nhập doanh nghiệp hiện hành và thuế thu nhập doanh nghiệp hoãn lại\n\nThuế thu nhập doanh nghiệp (\"TNDN\") bao gồm toàn bộ số thuế TNDN tính trên thu nhập chịu thuế TNDN. Chi phí thuế TNDN bao gồm chi phí thuế TNDN hiện hành và chi phí thuế TNDN hoãn lại.\n\nThuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế và thuế suất thuế TNDN của nằm hiện hành. Thuế TNDN hiện hành và thuế TNDN hoãn lại được ghi nhận là thu nhập hay chi phí khi xác định lợi nhuận hoặc lỗ của kỳ phát sinh, ngoại trừ trường hợp thuế TNDN phát sinh từ một giao dịch hoặc sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng kỳ hay một kỳ khác.\n\nThuế TNDN hoãn lại sử dụng phương pháp công nợ, được tính đầy đủ dựa trên các khoản chênh lệch tạm thời giữa giá trị ghi số của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính riêng và cơ sở tính thuế TNDN của các khoản mục này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế TNDN hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch mà giao dịch này không phải là giao dịch sáp nhập doanh nghiệp, không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tính thuế TNDN tại thời điểm phát sinh giao dịch. Thuế TNDN hoãn lại được tính theo thuế suất dự tính được áp dụng trong niên độ mà tài sản được thu hồi hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu lực tại ngày của bằng cân đối kế toán riêng.\n\nTài sản thuế TNDN hoãn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế TNDN trong tương lai để sử dụng những chênh lệch tạm thời được khấu trừ.\n\n2.25 Các bên liên quan\n\nCác doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Công ty hoặc chịu sự kiểm soát của Công ty, hoặc cũng chung sự kiểm soát với Công ty, bao gồm cả công ty mẹ, công ty con và công ty trong cũng tập đoàn là các bên liên quan. Các bên liên kết, các cá nhân trực tiếp hoặc giản tiếp nằm quyền biểu quyết của Công ty mà có ảnh hưởng đáng kể đối với Công ty, những cá nhân quản lý chủ chốt bao gồm Ban Giám đốc Công ty, những thành viên mặt thiết trong gia đình của các cá nhân này hoặc các bên liên kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan.\n\n18\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (TIẾP THEO)\n\n2.25 Các bên liên quan (tiếp theo)\n\nTrong việc xem xét từng mối quan hệ của các bên liên quan, Công ty căn cứ vào bản chất của mối quan hệ chú không chỉ hình thức pháp lý của các quan hệ đó.\n\n2.26 Báo cáo bộ phận\n\nMột bộ phận là một hợp phần có thể xác định riêng biệt của Công ty tham gia vào việc bán hàng hoặc cung cấp dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc bán hàng hoặc cung cấp dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo khu vực địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Báo cáo bộ phận cơ bản của Công ty là dưa theo bộ phận chia theo hoạt động kinh doanh.\n\nĐối với báo cáo bộ phận theo khu vực địa lý, Công ty chỉ hoạt động trong phạm vi lãnh thổ Việt Nam. Do vậy, Công ty không có bộ phận theo khu vực địa lý nào khác ngoài lãnh thổ Việt Nam.\n\n2.27 U'óc tính kế toán trọng yếu\n\nViệc lập báo cáo tài chính riêng tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng yêu cầu Ban Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về nợ phải trả, tài sản và việc trình bày các khoản nợ và tài sản tiềm tàng tại ngày kết thúc niên độ kế toán cũng như các số liệu về doanh thu và chi phí trong suốt kỳ kế toán.\n\nCác ước tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính riêng bao gồm:\n\n• Thời gian hữu dụng ước tính của TSCĐ (Thuyết minh 2.10 và Thuyết minh 7); và\n\n• Dự phòng các khoản phải thu khó đòi (Thuyết minh 2.6).\n\nCác ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khú và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính riêng của Công ty và được Ban Giám đốc đánh giá là hợp lý.\n\n3 TIÊN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIÊN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2022VND",
+                "2": "31/12/2021VND"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "169.702.337",
+                "2": "193.988.936"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "8.064.692.793",
+                "2": "564.881.311.124"
+            },
+            {
+                "0": "Các khoản tương đương tiền (*)",
+                "1": "1.150.000.000",
+                "2": "68.921.987.429"
+            },
+            {
+                "0": "",
+                "1": "9.384.395.130",
+                "2": "633.997.287.489"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_10",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "(*) Các khoản tương đương tiền là tiền gửi có kỳ hạn tại các ngân hàng thương mại có kỳ hạn ban đầu dưới hoặc bằng 3 tháng với lãi suất từ 2,9%/năm đến 5,8%/năm (năm 2021: lãi suất từ 2,8%/năm đến 4,6%/năm).\n\n19\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n4 PHÀI THU NGÀN HẠN CỦA KHÁCH HÀNG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2022VND",
+                "2": "31/12/2021VND"
+            },
+            {
+                "0": "Bên thứ baTrong đó:- Công ty TNHH Dịch vụ và Xuất nhập khẩuvận chuyển Đa phương thức Việt Nam- Công ty TNHH Thương mại và Dịch vụTiếp vận Long Mã- Công ty Cổ phần Tiếp vận Siêu Tốc- MAERSK A/S- KhácBên liên quan (Thuyết minh 26(b)) (*)",
+                "1": "15.258.694.328",
+                "2": "26.010.688.031"
+            },
+            {
+                "0": "Bên thứ baTrong đó:- Công ty TNHH Dịch vụ và Xuất nhập khẩuvận chuyển Đa phương thức Việt Nam- Công ty TNHH Thương mại và Dịch vụTiếp vận Long Mã- Công ty Cổ phần Tiếp vận Siêu Tốc- MAERSK A/S- KhácBên liên quan (Thuyết minh 26(b)) (*)",
+                "1": "-",
+                "2": "12.110.267.731"
+            },
+            {
+                "0": "Bên thứ baTrong đó:- Công ty TNHH Dịch vụ và Xuất nhập khẩuvận chuyển Đa phương thức Việt Nam- Công ty TNHH Thương mại và Dịch vụTiếp vận Long Mã- Công ty Cổ phần Tiếp vận Siêu Tốc- MAERSK A/S- KhácBên liên quan (Thuyết minh 26(b)) (*)",
+                "1": "8.783.901.290",
+                "2": "4.013.188.409"
+            },
+            {
+                "0": "Bên thứ baTrong đó:- Công ty TNHH Dịch vụ và Xuất nhập khẩuvận chuyển Đa phương thức Việt Nam- Công ty TNHH Thương mại và Dịch vụTiếp vận Long Mã- Công ty Cổ phần Tiếp vận Siêu Tốc- MAERSK A/S- KhácBên liên quan (Thuyết minh 26(b)) (*)",
+                "1": "-",
+                "2": "3.240.421.471"
+            },
+            {
+                "0": "Bên thứ baTrong đó:- Công ty TNHH Dịch vụ và Xuất nhập khẩuvận chuyển Đa phương thức Việt Nam- Công ty TNHH Thương mại và Dịch vụTiếp vận Long Mã- Công ty Cổ phần Tiếp vận Siêu Tốc- MAERSK A/S- KhácBên liên quan (Thuyết minh 26(b)) (*)",
+                "1": "3.959.110.753",
+                "2": "1.804.150.200"
+            },
+            {
+                "0": "Bên thứ baTrong đó:- Công ty TNHH Dịch vụ và Xuất nhập khẩuvận chuyển Đa phương thức Việt Nam- Công ty TNHH Thương mại và Dịch vụTiếp vận Long Mã- Công ty Cổ phần Tiếp vận Siêu Tốc- MAERSK A/S- KhácBên liên quan (Thuyết minh 26(b)) (*)",
+                "1": "2.515.682.285",
+                "2": "4.842.660.220"
+            },
+            {
+                "0": "Bên thứ baTrong đó:- Công ty TNHH Dịch vụ và Xuất nhập khẩuvận chuyển Đa phương thức Việt Nam- Công ty TNHH Thương mại và Dịch vụTiếp vận Long Mã- Công ty Cổ phần Tiếp vận Siêu Tốc- MAERSK A/S- KhácBên liên quan (Thuyết minh 26(b)) (*)",
+                "1": "9.030.539.430",
+                "2": "14.009.000.685"
+            },
+            {
+                "0": "Bên thứ baTrong đó:- Công ty TNHH Dịch vụ và Xuất nhập khẩuvận chuyển Đa phương thức Việt Nam- Công ty TNHH Thương mại và Dịch vụTiếp vận Long Mã- Công ty Cổ phần Tiếp vận Siêu Tốc- MAERSK A/S- KhácBên liên quan (Thuyết minh 26(b)) (*)",
+                "1": "24.289.233.758",
+                "2": "40.019.688.716"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_11",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "(*) Số dư phải thu ngắn hạn của các bên liên quan chủ yếu liên quan tới doanh thu từ bán nhiên liệu vật liệu, phí chứng từ cho công ty con và các khoản doanh thu từ phí quản lý.\n\n5 PHÀI THU VỀ CHO VAY\n\n(a) Ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2022VND",
+                "2": "31/12/2021VND"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 26(b))",
+                "1": "11.605.263.154",
+                "2": "1.789.473.698"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 26(b))",
+                "1": "32.368.421.053",
+                "2": "2.526.315.786"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_12",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2022, số dư phải thu về cho vay bao gồm phần nợ phải trả dài hạn và phần nợ dài hạn đến hạn trả từ Công ty Cổ phần Container Miền Trung, Công ty TNHH MTV Vận tải biển Ngôi Sao Xanh và Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh – các công ty con của Công ty. Theo Nghị quyết số 07/2022/NQ-HDQT đề ngày 27 tháng 4 năm 2022 và Nghị quyết số 14/2022/NQ-HDQT đề ngày 6 tháng 7 năm 2022, Hội đồng Quản trị đã phê duyệt việc hỗ trợ vốn cho các công ty con để thực hiện các hoạt động sản xuất kinh doanh và đầu tư. Theo các hợp đồng vay cho các công ty con, thời hạn của các khoản vay là 60 tháng kể từ ngày giải ngân. Tiền gốc vay được trả định kỳ ba tháng một lần. Lãi suất khoản vay là từ 5,1%/năm đến 5,7%/năm (2021: lãi suất từ 4,6%/năm đến 5,5%/năm) và được trả định kỳ ba tháng một lần.\n\n20\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n6 PHẢI THU NGẢN HẠN KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2022VND",
+                "2": "31/12/2021VND"
+            },
+            {
+                "0": "Bên thứ baTrong đó",
+                "1": "302.386.604.941",
+                "2": "2.377.579.761"
+            },
+            {
+                "0": "- Đặt cọc để thực hiện chuyển nhượng cổ phần (*)",
+                "1": "300.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "- Khác",
+                "1": "2.386.604.941",
+                "2": "2.377.579.761"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 26(b)) (**)",
+                "1": "49.777.258.761",
+                "2": "13.894.848.224"
+            },
+            {
+                "0": "",
+                "1": "352.163.863.702",
+                "2": "16.272.427.985"
+            },
+            {
+                "0": "Dự phòng phải thu ngắn hạn khác",
+                "1": "(318.328.521)",
+                "2": "(318.328.521)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_13",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "(*) Theo hợp đồng đặt cọc số 118/HĐĐC đề ngày 29 tháng 12 năm 2022, Công ty và Công ty TNHH Thương mại và Đầu tư Đoàn Huy (\"Bên mua\") đã thực hiện đặt cọc 1.000.000.000.000 VND đề mua lại cổ phần tại một công ty mục tiêu, trong đó, phần tiền góp của Công ty là 300.000.000.000 VND.\n\nTiền đặt cọc được dùng để đảm bảo cho việc các bên sẽ phối hợp thực hiện các thủ tục pháp lý, tiến hành đảm phán nội dung hợp đồng mua bán cũng như ký kết hợp đồng, nhưng không muốn hơn ngày 31 tháng 3 năm 2023, trừ trường hợp các bên có thỏa thuận khác. Trong trường hợp hợp đồng mua bán không thể thực hiện và được sự đồng thuận của cả bên mua và bên bán, tiền đặt cọc sẽ được hoàn trả cho bên mua trong vòng nằm ngày làm việc kể từ ngày ký kết văn bản thỏa thuận chấm dứt hợp đồng đặt cọc.\n\n(**) Số dư khoản phải thu ngắn hạn khác với các bên liên quan chủ yếu là khoản lợi nhuận được chia tử các công ty con và các khoản tạm ứng tiền cho các công ty con của Công ty.\n\n21\n\n\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n7 TÀI SẢN CỔ ĐỊNH\n\n(a) Tài sản cố định hữu hình",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nhà cửa,vật kiến trúcVND",
+                "2": "Máy móc,thiết bịVND",
+                "3": "Phương tiệnvận tảiVND",
+                "4": "Thiết bị quản lýVND",
+                "5": "Tổng cộngVND"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá",
+                "3": "Nguyên giá",
+                "4": "Nguyên giá",
+                "5": "Nguyên giá"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2022",
+                "1": "21.784.803.233",
+                "2": "434.647.000",
+                "3": "41.124.407.991",
+                "4": "1.585.175.317",
+                "5": "64.929.033.541"
+            },
+            {
+                "0": "Mua mới (*)",
+                "1": "-",
+                "2": "182.000.000",
+                "3": "17.217.878.593",
+                "4": "-",
+                "5": "17.399.878.593"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "-",
+                "2": "-",
+                "3": "(1.771.727.404)",
+                "4": "-",
+                "5": "(1.771.727.404)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2022",
+                "1": "21.784.803.233",
+                "2": "616.647.000",
+                "3": "56.570.559.180",
+                "4": "1.585.175.317",
+                "5": "80.557.184.730"
+            },
+            {
+                "0": "Giá trị khấu hao lũy kế",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "Giá trị khấu hao lũy kế",
+                "3": "Giá trị khấu hao lũy kế",
+                "4": "Giá trị khấu hao lũy kế",
+                "5": "Giá trị khấu hao lũy kế"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2022",
+                "1": "(14.403.972.182)",
+                "2": "(434.647.000)",
+                "3": "(32.333.239.477)",
+                "4": "(1.155.861.061)",
+                "5": "(48.327.719.720)"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "(561.161.281)",
+                "2": "(18.672.940)",
+                "3": "(1.596.601.300)",
+                "4": "(215.579.269)",
+                "5": "(2.392.014.790)"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "-",
+                "2": "-",
+                "3": "1.771.727.404",
+                "4": "-",
+                "5": "1.771.727.404"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2022",
+                "1": "(14.965.133.463)",
+                "2": "(453.319.940)",
+                "3": "(32.158.113.373)",
+                "4": "(1.371.440.330)",
+                "5": "(48.948.007.106)"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại",
+                "3": "Giá trị còn lại",
+                "4": "Giá trị còn lại",
+                "5": "Giá trị còn lại"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2022",
+                "1": "7.380.831.051",
+                "2": "-",
+                "3": "8.791.168.514",
+                "4": "429.314.256",
+                "5": "16.601.313.821"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2022",
+                "1": "6.819.669.770",
+                "2": "163.327.060",
+                "3": "24.412.445.807",
+                "4": "213.734.987",
+                "5": "31.609.177.624"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_14",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "(*) Mua môi trong năm chủ yếu là các phương tiện vận tải bao gồm xe nâng đề sản xuất và xe ô tô phục vụ mục đích văn phòng.\n\nNguyên giá tài sản cố định hữu hình của Công ty đã khấu hao hết nhưng còn sử dụng tại ngày 31 tháng 12 năm 2022 là 35.190.475.626 VND (tại ngày 31 tháng 12 năm 2021: 36.347.128.394 VND).\n\nMẫu số B 09 – DN\n\n22\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG GIỮA\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n7 TÀI SẢN CỔ ĐỊNH (TIẾP THEO)\n\n(b) Tài sản cố định vô hình",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Quyền sử dụng đất VND",
+                "2": "Phần mềm máy tính VND",
+                "3": "Tổng cộng VND"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá",
+                "3": "Nguyên giá"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2022",
+                "1": "5.417.853.001",
+                "2": "681.271.700",
+                "3": "6.099.124.701"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2022",
+                "1": "5.417.853.001",
+                "2": "681.271.700",
+                "3": "6.099.124.701"
+            },
+            {
+                "0": "Giá trị khấu hao lũy kế",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "Giá trị khấu hao lũy kế",
+                "3": "Giá trị khấu hao lũy kế"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2022",
+                "1": "-",
+                "2": "(617.059.403)",
+                "3": "(617.059.403)"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "",
+                "2": "(64.212.297)",
+                "3": "(64.212.297)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2022",
+                "1": "-",
+                "2": "(681.271.700)",
+                "3": "(681.271.700)"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại",
+                "3": "Giá trị còn lại"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2022",
+                "1": "5.417.853.001",
+                "2": "64.212.297",
+                "3": "5.482.065.298"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2022",
+                "1": "5.417.853.001",
+                "2": "-",
+                "3": "5.417.853.001"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_15",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "Nguyên giá tài sản cố định vô hình của Công ty đã khấu hao hết nhưng còn sử dụng tại ngày 31 tháng 12 năm 2022 là 681.271.700 VND (tại ngày 31 tháng 12 năm 2021: 298.549.300 VND).\n\n23\n\n\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 - DN\n\nTHUYÊT MINH BẢO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n8 ĐẦU TƯ TÀI CHÍNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "Tại ngày 31/12/2022",
+                "3": "Tại ngày 31/12/2022",
+                "4": "Tại ngày 31/12/2022",
+                "5": "Tại ngày 31/12/2021",
+                "6": "Tại ngày 31/12/2021",
+                "7": "Tại ngày 31/12/2021"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Giá gốc VND",
+                "3": "Giá trị hợp lý VND",
+                "4": "Dự phòng VND",
+                "5": "Giá gốc VND",
+                "6": "Giá trị hợp lý VND",
+                "7": "Dự phòng VND"
+            },
+            {
+                "0": "(a)",
+                "1": "Ngắn hạn",
+                "2": "Ngắn hạn",
+                "3": "Ngắn hạn",
+                "4": "Ngắn hạn",
+                "5": "Ngắn hạn",
+                "6": "Ngắn hạn",
+                "7": "Ngắn hạn"
+            },
+            {
+                "0": "(i)",
+                "1": "Đầu tư nằm giữ đến ngày đáo hạn",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            },
+            {
+                "0": "(i)",
+                "1": "Tiền gửi có kỹ hạn tại ngân hàng thương mai",
+                "2": "26.000.000.000",
+                "3": "26.000.000.000",
+                "4": "-",
+                "5": "1.000.000.000",
+                "6": "1.000.000.000",
+                "7": "-"
+            },
+            {
+                "0": "(b)",
+                "1": "Dài hạn",
+                "2": "Dài hạn",
+                "3": "Dài hạn",
+                "4": "Dài hạn",
+                "5": "Dài hạn",
+                "6": "Dài hạn",
+                "7": "Dài hạn"
+            },
+            {
+                "0": "(i)",
+                "1": "Đầu tư vào công ty con",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty Cổ phần Cảng xanh VIP",
+                "2": "518.850.000.000",
+                "3": "1.805.760.000.000",
+                "4": "-",
+                "5": "518.850.000.000",
+                "6": "1.843.380.000.000",
+                "7": "-"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+                "2": "80.400.000.000",
+                "3": "83.616.000.000",
+                "4": "-",
+                "5": "80.400.000.000",
+                "6": "183.312.000.000",
+                "7": "-"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "19.825.000.000",
+                "3": "33.702.500.000",
+                "4": "-",
+                "5": "19.825.000.000",
+                "6": "52.932.750.000",
+                "7": "-"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH Mốt thành viên Dịch vụ Cảng Xanh",
+                "2": "110.000.000.000",
+                "3": "(*)",
+                "4": "-",
+                "5": "110.000.000.000",
+                "6": "(*)",
+                "7": "-"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH Mốt thành viên Viconship Hồ Chí Minh (**)",
+                "2": "15.000.000.000",
+                "3": "(*)",
+                "4": "-",
+                "5": "-",
+                "6": "-",
+                "7": "-"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH Mốt thành viên Trung tâm Logistics Xanh (***)",
+                "2": "620.000.000.000",
+                "3": "(*)",
+                "4": "-",
+                "5": "90.000.000.000",
+                "6": "(*)",
+                "7": "-"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH Mốt thành viên Vận tải biển Ngõi sao Xanh",
+                "2": "76.000.000.000",
+                "3": "(*)",
+                "4": "-",
+                "5": "76.000.000.000",
+                "6": "(*)",
+                "7": "-"
+            },
+            {
+                "0": "(i)",
+                "1": "",
+                "2": "1.440.075.000.000",
+                "3": "1.923.078.500.000",
+                "4": "-",
+                "5": "895.075.000.000",
+                "6": "2.079.624.750.000",
+                "7": "-"
+            },
+            {
+                "0": "(ii)",
+                "1": "Đầu tư vào công ty liên kết",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty Cổ phần Logistics Cảng Đà Nẵng",
+                "2": "14.430.000.000",
+                "3": "24.242.400.000",
+                "4": "-",
+                "5": "14.430.000.000",
+                "6": "29.970.000.000",
+                "7": "-"
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty Cổ phần Cảng dịch vụ Dầu khí Đình Vũ",
+                "2": "80.991.207.286",
+                "3": "61.741.400.000",
+                "4": "-",
+                "5": "80.991.207.286",
+                "6": "101.432.300.000",
+                "7": "-"
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty TNHH Tuyến Container T.S. Hà Nội",
+                "2": "2.002.500.000",
+                "3": "(*)",
+                "4": "-",
+                "5": "2.002.500.000",
+                "6": "(*)",
+                "7": "-"
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty Cổ phần Cảng VIMC Đình Vũ",
+                "2": "392.492.736.000",
+                "3": "(*)",
+                "4": "(19.681.656.974)",
+                "5": "392.492.736.000",
+                "6": "(*)",
+                "7": "-"
+            },
+            {
+                "0": "(ii)",
+                "1": "",
+                "2": "489.916.443.286",
+                "3": "85.983.800.000",
+                "4": "(19.681.656.974)",
+                "5": "489.916.443.286",
+                "6": "131.402.300.000",
+                "7": "-"
+            },
+            {
+                "0": "(iii)",
+                "1": "Đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            },
+            {
+                "0": "(iii)",
+                "1": "Công ty TNHH MSC Việt Nam",
+                "2": "155.000.000",
+                "3": "(*)",
+                "4": "-",
+                "5": "155.000.000",
+                "6": "(*)",
+                "7": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_16",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "24\n\n\\(x_{0}y_{1}\\approx x_{0}y_{2}\\)\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n8 ĐẦU TƯ TÀI CHÍNH (TIẾP THEO)\n\n(*) Đối với các đơn vị đầu tư là các công ty có cổ phiếu niêm yết trên các sở giao dịch chứng khoán, cổ phiếu của công ty đại chúng đăng ký giao dịch trên thị trường giao dịch cổ phiếu của công ty đại chúng chưa niêm yết (\"UPCoM\"), giá trị hợp lý được tinh dựa trên giá đóng của của ngày có giao dịch gần nhất trước ngày kết thúc năm tài chính.\n\nĐối với các khoản đầu tư còn lại, Công ty chưa xác định giá trị hợp lý của các khoản đầu tư này để thuyết minh trên báo cáo tài chính riêng vi các khoản đầu tư này không có giá niêm yết trên thị trường và các Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng hiện không có hướng dẫn chi tiết về cách tính giá trị hợp lý. Giá trị hợp lý của các khoản đầu tư này có thể khác với giá trị ghi số.\n\n(**) Ngày 13 tháng 9 năm 2022, Hội đồng Quản trị đã ban hành Nghị Quyết số 25/2022/NQ-HĐQT thông qua việc thành lập Công ty TNHH MTV Viconship Hồ Chí Minh với số vốn điều lệ là 15 tỷ đồng.\n\n(***) Ngày 17 tháng 4 năm 2022, Hội đồng Quản trị đã ban hành Nghị quyết số 06/2022/NQ-HĐQT thông qua việc góp vốn để tăng vốn điều lệ của Công ty TNHH MTV Trung tâm Logistics Xanh – công ty con của Công ty từ 90 tỷ đồng lên thành 590 tỷ đồng và vào ngày 1 tháng 9 năm 2022, Hội đồng Quản trị đã ban hành Nghị quyết số 26/2022/NQ-HĐQT thông qua việc góp vốn để tiếp tục tăng vốn điều lệ của Công ty TNHH MTV Trung tâm Logistics Xanh từ 590 tỷ đồng lên thành 620 tỷ đồng để thực hiện dự án đầu tư mở rộng sản xuất kinh doanh của đơn vị này.\n\n9 PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2022VND",
+                "2": "31/12/2021VND"
+            },
+            {
+                "0": "Bên thứ ba",
+                "1": "3.444.639.949",
+                "2": "1.837.102.474"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "- Chi nhánh Công ty TNHH Nam Sung Shipping Việt Nam tại Hải Phòng",
+                "1": "755.351.800",
+                "2": "-"
+            },
+            {
+                "0": "- Chi nhánh Công ty Cổ phần Hàng hải Macs tại Hải Phòng",
+                "1": "741.550.000",
+                "2": "-"
+            },
+            {
+                "0": "- Công ty Cổ phần Vận tải và Xếp dỡ Hải An",
+                "1": "-",
+                "2": "665.793.454"
+            },
+            {
+                "0": "- Chi nhánh Công ty TNHH KMTC (Việt Nam) tại Hải Phòng",
+                "1": "-",
+                "2": "644.314.000"
+            },
+            {
+                "0": "- Khác",
+                "1": "1.947.738.149",
+                "2": "526.995.020"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 26(b))",
+                "1": "8.930.269.708",
+                "2": "1.918.986.053"
+            },
+            {
+                "0": "",
+                "1": "12.374.909.657",
+                "2": "3.756.088.527"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_17",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "25\n\n\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n10 THUẾ VÀ CÁC KHOÀN PHẢI THU/PHẢI NỘP NHÀ NƯỚC\n\nBiến động về thuế và các khoản phải thu/phải nộp Nhà nước trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "Tại ngày1/1/2022VND",
+                "3": "Số phát sinhtrong nămVND",
+                "4": "Cán trừ phải thu/phải trảVND",
+                "5": "Phân loại lại phảithu và phải trảVND",
+                "6": "Tại ngày31/12/2022VND"
+            },
+            {
+                "0": "(a)",
+                "1": "Thuế GTGT được khấu trừThuế GTGT được khấu trừ",
+                "2": "10.775.773.325",
+                "3": "20.396.084.393",
+                "4": "(20.433.344.877)",
+                "5": "734.714.144",
+                "6": "11.473.226.985"
+            },
+            {
+                "0": "(b)",
+                "1": "Thuế và các khoản khác phải thu Nhà nướcThuế TNDNThuế đất",
+                "2": "1.241.381.251-",
+                "3": "-",
+                "4": "(2.761.011)-",
+                "5": "-",
+                "6": "1.238.620.240"
+            },
+            {
+                "0": "(b)",
+                "1": "Thuế và các khoản khác phải thu Nhà nướcThuế TNDNThuế đất",
+                "2": "1.241.381.251-",
+                "3": "-",
+                "4": "(2.761.011)-",
+                "5": "4.694.001",
+                "6": "4.694.001"
+            },
+            {
+                "0": "(b)",
+                "1": "Thuế và các khoản khác phải thu Nhà nướcThuế TNDNThuế đất",
+                "2": "1.241.381.251",
+                "3": "-",
+                "4": "(2.761.011)",
+                "5": "4.694.001",
+                "6": "1.243.314.241"
+            },
+            {
+                "0": "(b)",
+                "1": "Tại ngày1/1/2022VND",
+                "2": "Số phát sinhtrong nămVND",
+                "3": "Số đã thực nhận/thực trả trong nămVND",
+                "4": "Cán trừ phảithu/phải trảVND",
+                "5": "Phân loại lại phảithu và phải trảVND",
+                "6": "Tại ngày31/12/2022VND"
+            },
+            {
+                "0": "(c)",
+                "1": "Phải nộpThuế GTGTThuế TNDNThuế thu nhập cá nhânThuế và các khoản phải nộpNhà nước khácThuế đất",
+                "2": "385.835.892-364.201.2921.367.326.120-2.117.363.304",
+                "3": "22.451.528.4981.358.403.34310.218.578.9327.285.257.9816.269.259.56747.583.028.321",
+                "4": "(3.119.242.628)(1.355.642.332)(8.975.520.906)(8.652.584.101)(6.273.953.568)(28.376.943.535)",
+                "5": "(20.433.344.877)(2.761.011)-",
+                "6": "734.714.144-1.607.259.318-4.694.001739.408.1451.626.750.347"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_18",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "Mẫu số B 09 – DN\n\n26\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n11 PHÀI TRÀ NGƯỜI LAO ĐỘNG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2022VND",
+                "2": "31/12/2021VND"
+            },
+            {
+                "0": "Chi phí lương nhân viên",
+                "1": "1.164.055.500",
+                "2": "1.076.394.589"
+            },
+            {
+                "0": "Chi phí thường nhân viên",
+                "1": "-",
+                "2": "7.032.220.000"
+            },
+            {
+                "0": "",
+                "1": "1.164.055.500",
+                "2": "8.108.614.589"
+            },
+            {
+                "0": "",
+                "1": "31/12/2022VND",
+                "2": "31/12/2021VND(Phân loại lại – Thuyết minh 30)"
+            },
+            {
+                "0": "Bên thứ baTrong đó:- Phải trả liên quan tới phần vốn góp của các cổ đông của Công ty (*)- Các khoản thu hộ Hăng tàu Dong Young Shipping Co., Ltd. (**)- Khách hàng đặt cược thuê vô container- Cổ tức phải trả cho cổ đông- KhácBên liên quan (Thuyết minh 26(b)) (***)",
+                "1": "10.079.082.142",
+                "2": "622.727.101.789549.053.560.00069.359.251.3141.336.507.0531.151.331.6001,826,451,82218.119.490.998"
+            },
+            {
+                "0": "Bên thứ baTrong đó:- Phải trả liên quan tới phần vốn góp của các cổ đông của Công ty (*)- Các khoản thu hộ Hăng tàu Dong Young Shipping Co., Ltd. (**)- Khách hàng đặt cược thuê vô container- Cổ tức phải trả cho cổ đông- KhácBên liên quan (Thuyết minh 26(b)) (***)",
+                "1": "98.228.153.504",
+                "2": "640.846.592.787"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_19",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "(*) Số dư tại ngày 31 tháng 12 năm 2021 liên quan tới số tiền thực nhận tử các cổ đông của Công ty cho mục đích tăng vốn điều lệ của Công ty (Thuyết minh 3). Tuy nhiên, đến hết ngày 31 tháng 12 năm 2021, Công ty chưa thực hiện xong việc tăng vốn điều lệ theo nội dung đăng ký đã được Ủy Ban Chứng Khoản Nhà Nước (UBCKNN) phê duyệt trong Giấy Chứng nhận chào bán số 219/GCN-UBCK đề ngày 4 tháng 10 năm 2021 và Quyết định gia hạn Giấy chứng nhận chào bán số 925/QĐ-UBCK đề ngày 30 tháng 12 năm 2021. Do đó, khoản tiền góp vốn thực nhận nhưng chưa được UBCK xác nhận kết quả chào bán được phân loại lại như một khoản phải trả ngắn hạn khác trên báo cáo tài chính riêng của Công ty (Thuyết minh 30).\n\nNgày 25 tháng 1 năm 2022, Công ty đã nhận được Công văn số 479/UBCK-QLCB của UBCKNN xác nhận đã nhận được tài liệu báo cáo kết quả chào bán cổ phiếu thêm ra công chúng theo đúng nội dung đã đăng ký trong các Giấy chứng nhận chào bán đã nêu trên. Tại thời điểm này, Công ty đã kết chuyển số dư tiền liên quan đến mục đích tăng vốn đang hạch toán ở khoản mục phải trả nếu trên vào vốn chủ sở hữu của Công ty (Thuyết minh 16).\n\n(**) Số dư tai ngày 31 tháng 12 năm 2021 thể hiện khoản thu hộ khách hàng đối với Dong Young Shipping Co., Ltd, đơn vị Công ty đã ký hợp đồng làm đại lý. Vào ngày 31 tháng 12 năm 2022, Công ty không còn là đại lý cho hăng tàu này.\n\n27\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n12 PHẢI TRẢ NGÂN HẠN KHÁC (TIẾP THEO)\n\n(***) Số dư tại ngày 31 tháng 12 năm 2022 chủ yếu thể hiện các khoản tiền mã Công ty TNHH Một thành viên Dịch vụ Cảng Xanh – công ty con, chuyển về cho Công ty. Tại ngày 31 tháng 12 năm 2022, Công ty TNHH Một thành viên Dịch vụ Cảng Xanh chưa ban hành nghị quyết phê chuẩn việc phân phối lợi nhuận của năm 2022, do đó, các khoản tiền chuyển về này được trình bày là khoản phải trả khác trên báo cáo tài chính riêng này.\n\n13 VAY NGÂN HẠN\n\nBiến động của vay ngắn hạn trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày1/1/2022VND",
+                "2": "Tăng trong nămVND",
+                "3": "Tại ngày31/12/2022VND"
+            },
+            {
+                "0": "Vay ngắn hạnVay bên thứ ba (*)",
+                "1": "-",
+                "2": "171.800.000.000",
+                "3": "171.800.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_20",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "(*) Số dư tại ngày 31 tháng 12 năm 2022 thể hiện khoản vay từ Công ty TNHH Thương mại và Đầu tư Đoàn Huy theo hợp đồng vay tiền số 01/2022/HĐVT/ĐH-VSC đề ngày 29 tháng 12 năm 2022. Thời hạn vay của khoản vay là 12 tháng tính từ ngày giải ngân khoản vay. Mục đích của khoản vay là phục vụ hoạt động kinh doanh, đầu tư của Công ty. Theo phụ lực hợp đồng vay tiền số 01/2022/PLHĐVT đề ngày 29 tháng 12 năm 2022, khoản vay được miễn lãi đến ngày 31 tháng 3 năm 2023 và được tính lãi kể từ ngày 1 tháng 4 năm 2023 đến hết thời hạn khoản vay theo mức lãi suất huy động tiết kiểm doanh nghiệp bằng đồng Việt Nam kỳ hạn 12 tháng (trả lãi cuối kỳ) tại Vietcombank – Chi nhánh Hải Phòng có hiệu lực vào ngày này + (công) 2%/năm. Lãi vay và gốc vay được trả một lần vào cuối kỳ.\n\n14 QUỸ KHEN THƯỜNG, PHÚC LỢI\n\nBiến động về Quý khen thưởng, phúc lợi của Công ty trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2022VND",
+                "2": "31/12/2021VND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "2.867.570.146",
+                "2": "16.318.677.777"
+            },
+            {
+                "0": "Trích lập trong năm (Thuyết minh 15)",
+                "1": "5.200.000.000",
+                "2": "7.920.000.000"
+            },
+            {
+                "0": "Sử dụng trong năm",
+                "1": "(6.919.229.900)",
+                "2": "(21.371.107.631)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "1.148.340.246",
+                "2": "2.867.570.146"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_21",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "28\n\nb.e.  \\( \\geqslant \\)  O:  \\( \\lambda=\\lambda \\)\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n15 VÓN GÓP CỦA CHỦ SỞ HỮU\n\n(a) Số lượng cổ phiếu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2022Cổ phiếuphổ thông",
+                "2": "31/12/2021Cổ phiếuphổ thông"
+            },
+            {
+                "0": "Số lượng cổ phiếu đăng ký",
+                "1": "121.269.397",
+                "2": "55.122.798"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã phát hành",
+                "1": "121.269.397",
+                "2": "55.122.798"
+            },
+            {
+                "0": "Số lượng cổ phiếu đang lưu hành",
+                "1": "121.269.397",
+                "2": "55.122.798"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_22",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "Mệnh giá cổ phiếu: 10.000 VND trên một cổ phiếu.\n\n(b) Chi tiết vốn góp của chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2022",
+                "2": "31/12/2022",
+                "3": "31/12/2021",
+                "4": "31/12/2021"
+            },
+            {
+                "0": "",
+                "1": "Cổ phiếu phổ thông",
+                "2": "%",
+                "3": "Cổ phiếu phổ thông",
+                "4": "%"
+            },
+            {
+                "0": "Công ty Cổ phần Đại lý Vận tải SAFI",
+                "1": "2.490.000",
+                "2": "205",
+                "3": "3.600.000",
+                "4": "653"
+            },
+            {
+                "0": "Công ty Cổ phần Tập đoàn T&D Group",
+                "1": "-",
+                "2": "-",
+                "3": "2.855.000",
+                "4": "518"
+            },
+            {
+                "0": "Công ty Cổ phần Thành Đức Holding",
+                "1": "-",
+                "2": "-",
+                "3": "2.855.000",
+                "4": "518"
+            },
+            {
+                "0": "Bà Đoàn Thị Tơ",
+                "1": "-",
+                "2": "-",
+                "3": "3.898.333",
+                "4": "707"
+            },
+            {
+                "0": "Bà Tạ Kim Chi",
+                "1": "-",
+                "2": "-",
+                "3": "3.804.434",
+                "4": "690"
+            },
+            {
+                "0": "Ông Đoàn Quang Huy",
+                "1": "3.945.318",
+                "2": "325",
+                "3": "3.113.380",
+                "4": "565"
+            },
+            {
+                "0": "Cổ đông khác (*)",
+                "1": "114.834.079",
+                "2": "9469",
+                "3": "34.996.651",
+                "4": "6349"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã phát hành",
+                "1": "121.269.397",
+                "2": "100",
+                "3": "55.122.798",
+                "4": "100"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_23",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "(*) Cổ đông khác là cổ đông tổ chức và cá nhân, mỗi cổ đông sở hữu dưới 5% số cổ phiếu có quyền biểu quyết của Công ty.\n\n29\n\n\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n16 TÌNH HÌNH TĂNG GIÀM NGUỒN VỐN CHỦ SỞ HỮU\n\nMẫu số B 09 – DN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn góp của chủ sở hữu VND",
+                "2": "Thăng dư vốn cổ phần VND",
+                "3": "Quỹ đầu tư phát triển VND",
+                "4": "LNST chưa phân phối VND",
+                "5": "Tổng cộng VND"
+            },
+            {
+                "0": "Tai ngày 1 tháng 1 năm 2021",
+                "1": "551.227.980.000",
+                "2": "36.141.891.246",
+                "3": "646.734.369.757",
+                "4": "35.299.240.550",
+                "5": "1.269.403.481.553"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "249.143.311.503",
+                "5": "249.143.311.503"
+            },
+            {
+                "0": "Trích lập Quỹ khen thưởng, phúc lợi(Thuyết minh 14)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(5.620.000.000)",
+                "5": "(5.620.000.000)"
+            },
+            {
+                "0": "Thường Hội đồng Quản trị và Ban Kiểm soát",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(2.300.000.000)",
+                "5": "(2.300.000.000)"
+            },
+            {
+                "0": "Chia cổ tức",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(27.561.399.000)",
+                "5": "(27.561.399.000)"
+            },
+            {
+                "0": "Tạm ứng cổ tức năm 2021",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(27.561.399.000)",
+                "5": "(27.561.399.000)"
+            },
+            {
+                "0": "Vốn tăng trong năm",
+                "1": "549.053.560.000",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "549.053.560.000"
+            },
+            {
+                "0": "Tai ngày 31 tháng 12 năm 2021 (Đã báo cáo)",
+                "1": "1.100.281.540.000",
+                "2": "36.141.891.246",
+                "3": "646.734.369.757",
+                "4": "221.399.754.053",
+                "5": "2.004.557.555.056"
+            },
+            {
+                "0": "Điều chính sang phải trả ngắn hạn(Thuyết minh 30)",
+                "1": "(549.053.560.000)",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(549.053.560.000)"
+            },
+            {
+                "0": "Tai ngày 31 tháng 12 năm 2021(Sau khi điều chỉnh lại)",
+                "1": "551.227.980.000",
+                "2": "36.141.891.246",
+                "3": "646.734.369.757",
+                "4": "221.399.754.053",
+                "5": "1.455.503.995.056"
+            },
+            {
+                "0": "Lợi nhuận thuần trong kỳ",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "246.870.748.656",
+                "5": "246.870.748.656"
+            },
+            {
+                "0": "Trích lập Quỹ khen thưởng và phúc lợi(Thuyết minh 14) (*)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(5.200.000.000)",
+                "5": "(5.200.000.000)"
+            },
+            {
+                "0": "Thường Hội đồng Quản trị và Ban Kiểm soát (*)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(4.100.000.000)",
+                "5": "(4.100.000.000)"
+            },
+            {
+                "0": "Vốn tăng trong năm (**)",
+                "1": "551.227.980.000",
+                "2": "3.261.630.000",
+                "3": "-",
+                "4": "-",
+                "5": "554.489.610.000"
+            },
+            {
+                "0": "Chia cổ tức bằng cổ phiếu năm 2021 (***)",
+                "1": "110.238.010.000",
+                "2": "-",
+                "3": "-",
+                "4": "(110.238.010.000)",
+                "5": "-"
+            },
+            {
+                "0": "Tạm ứng cổ tức năm 2022 (****)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(121.269.397.000)",
+                "5": "(121.269.397.000)"
+            },
+            {
+                "0": "Tai ngày 31 tháng 12 năm 2022",
+                "1": "1.212.693.970.000",
+                "2": "39.403.521.246",
+                "3": "646.734.369.757",
+                "4": "227.463.095.709",
+                "5": "2.126.294.956.712"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_24",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "(*) Theo Nghị quyết số 01/2022/NQ-ĐHĐCĐ đề ngày 24 tháng 3 năm 2022, Đại hội đồng Cổ đông của Công ty đã phê duyệt việc việc trích lập Quỹ khen thưởng, phúc lợi, thưởng Hội đồng Quản trị và Ban Kiểm soát.\n\n30\n\n\n\n[Non-Text]\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n16 TÌNH HÌNH TĂNG GIẢM NGUỒN VỐN CHỦ SỞ HỮU (TIẾP THEO)\n\n(**) Theo Nghị quyết Đại hội đồng cổ đông số 01/2021/NQ-ĐHĐCĐ đề ngày 26 tháng 3 năm 2021, Đại hội đồng cổ đông của Công ty đã thông qua phương án phát hành thêm cổ phiếu cho cổ đông hiện hữu theo tỷ lệ 1:1, với giá phát hành một cổ phiếu là 10.000 VND, để tăng vốn điều lệ của Công ty. Phương án tăng vốn điều lệ đã được UBCKNN phê duyệt trong Giấy Chứng nhận chào bán số 219/GCN-UBCK đề ngày 4 tháng 10 năm 2021 và Quyết định gia hạn Giấy chứng nhận chào bán số 925/QĐ-UBCK đề ngày 30 tháng 12 năm 2021. Tại ngày 31 tháng 12 năm 2021, Công ty đã thực nhận được tiền chào bán 54.905.356 cổ phiếu cho cổ đông hiện hữu với số tiền là 549.053.560.000 VND.\n\nTrong năm 2022, Công ty tiếp tục nhận được tiền chào bán 217.442 cổ phiếu còn lại cho cổ đông hiện hữu với số tiền là 5.436.050.000 VND với giá phát hành một cổ phiếu là 25.000 VND.\n\nNgày 14 tháng 1 năm 2022, theo Nghị quyết số 01/2022/NQ-HĐQT, Hội đồng Quản trị của Công ty đã thông qua kết quả đốt phát hành cổ phiếu đề tăng vốn điều lệ, trong đó tổng số lượng cổ phiếu chào bán thành công là 55.122.798 cổ phiếu. Ngày 25 tháng 1 năm 2022, Công ty đã nhận được Công văn số 479/UBCK-QLCB của UBCKNN xác nhận đã nhận được tài liệu bảo cáo kết quả chào bán cổ phiếu thêm ra công chúng theo đúng nội dung đã đăng ký trong các Giấy chứng nhận chào bán đã được UBCKNN chấp thuần. Từ thời điểm này, Công ty đã ghi nhận toàn bộ số tiền thực nhận từ các cổ đông của Công ty cho mục đích tăng vốn vào vốn chủ sở hữu của Công ty.\n\n(***) Ngày 13 tháng 6 năm 2022, Hội đồng Quản trị của Công ty đã ban hành Nghị quyết số 13/2022/NQ-HĐQT đưa ra phương án trả cổ tức bằng cổ phiếu với tỷ lệ 10:1 (cổ đông sở hữu 10 cổ phiếu được nhận 1 cổ phiếu mới), trong đó, ngày đăng ký cuối cùng của các cổ đông là ngày 30 tháng 6 năm 2022.\n\nNgày 7 tháng 7 năm 2022, Hội đồng Quản trị của Công ty đã ban hành Nghị quyết số 15/2022/NQ-HĐQT thông qua kết quả phát hành 11.023.801 cổ phiếu để trả cổ tức cho các cổ đông của Công ty nâng tổng số cổ phiếu có quyền biểu quyết đang lưu hành lên 121.269.397 cổ phiếu, đồng thời thông qua việc tăng vốn điều lệ của Công ty lên 1.212.693.970.000 VND. Cũng trong ngày này, Công ty đã thực hiện báo cáo kết quả đợt phát hành cổ phiếu để trả cổ tức đến UBCKNN và được UBCKNN chấp thuận phát hành thành công qua Công văn số 4362/UBCK-QLCB để ngày 8 tháng 7 năm 2022.\n\nSau đó, ngày 14 tháng 7 năm 2022, Sở Kế hoạch và Đầu tư thành phố Hải Phòng đã cấp giấy Chứng nhận đăng ký doanh nghiệp sửa đổi lần thử 23, trong đó điều chỉnh tăng vốn chủ sở hữu lên 1.212.693.970.000 VND.\n\n(****) Ngày 13 tháng 9 năm 2022, Hội đồng Quản trị của Công ty đã ban hành Nghị quyết số 25/2022/NQ-HĐQT đưa ra phương án tạm ứng cổ tức (1 cổ phiếu được nhận 1.000 VND), ngày đăng ký cuối cùng thực hiện quyền nhận cổ tức là ngày 29 tháng 9 năm 2022 và ngày thanh toán là ngày 18 tháng 10 năm 2022.\n\n17 CÁC KHOÀN MỤC NGOÀI BÀNG CÂN Đ<|box_end|><|ref_start|> KẾ TOÁN\n\nTại ngày 31 tháng 12 năm 2022, khoản mục tiền và các khoản tương đương tiền bao gồm số ngoại tệ 584.68 Đô la Mỹ, tương đương 13.874.416 VND (tại ngày 31 tháng 12 năm 2021: 714,79 Đô la Mỹ, tương đương 16.378.128 VND).\n\n31\n\n\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n18 DOANH THU THUẦN VỀ BÁN HÀNG VÀ CUNG CÁP DỊCH VỤ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2022VND",
+                "2": "2021VND"
+            },
+            {
+                "0": "Doanh thu thuần từ bán hàng",
+                "1": "164.709.275.430",
+                "2": "90.267.332.430"
+            },
+            {
+                "0": "Doanh thu thuần từ dịch vụ lưu bãi, chạy lạnh, kiểm hóa, kiểm dịch",
+                "1": "27.927.492.807",
+                "2": "32.233.937.430"
+            },
+            {
+                "0": "Doanh thu thuần từ dịch vụ bốc dỡ container",
+                "1": "10.673.177.586",
+                "2": "14.592.763.389"
+            },
+            {
+                "0": "Doanh thu thuần từ cung cấp dịch vụ khác",
+                "1": "36.545.135.279",
+                "2": "25.474.427.179"
+            },
+            {
+                "0": "",
+                "1": "239.855.081.102",
+                "2": "162.568.460.428"
+            },
+            {
+                "0": "Chi phí mua hàng hóa",
+                "1": "160.299.641.399",
+                "2": "85.472.587.085"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "13.125.246.844",
+                "2": "13.453.468.726"
+            },
+            {
+                "0": "Chi phí khấu hao",
+                "1": "2.456.227.087",
+                "2": "2.536.137.381"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "47.448.228.402",
+                "2": "35.667.063.193"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "109.507.535",
+                "2": "143.675.504"
+            },
+            {
+                "0": "",
+                "1": "223.438.851.267",
+                "2": "137.272.931.889"
+            },
+            {
+                "0": "Cổ tức từ các khoản đầu tư tài chính",
+                "1": "274.543.092.924",
+                "2": "239.023.000.982"
+            },
+            {
+                "0": "Lãi tiền gửi ngân hàng",
+                "1": "7.022.656.800",
+                "2": "5.533.745.489"
+            },
+            {
+                "0": "Lãi từ hoạt động cho vay (Thuyết minh 26(a))",
+                "1": "1.576.607.741",
+                "2": "881.981.688"
+            },
+            {
+                "0": "Doanh thu hoạt động tài chính khác",
+                "1": "528.667.963",
+                "2": "536.726.348"
+            },
+            {
+                "0": "",
+                "1": "283.671.025.428",
+                "2": "245.975.454.507"
+            },
+            {
+                "0": "Dự phòng đầu tư tài chính (Thuyết minh 8(b))",
+                "1": "19.681.656.974",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí hoạt động tài chính khác",
+                "1": "957.088.909",
+                "2": "113.441.685"
+            },
+            {
+                "0": "",
+                "1": "20.638.745.883",
+                "2": "113.441.685"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_25",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "32\n\n\n\n____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n22 CHI PHÍ QUẢN LÝ DOANH NGHIỆP",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2022VND",
+                "2": "2021VND"
+            },
+            {
+                "0": "Chi phi nhân viên",
+                "1": "19.859.788.597",
+                "2": "15.447.854.278"
+            },
+            {
+                "0": "Chi phi dịch vụ mua ngoài",
+                "1": "7.455.218.210",
+                "2": "4.873.250.329"
+            },
+            {
+                "0": "Khác",
+                "1": "4.013.017.146",
+                "2": "1.643.993.005"
+            },
+            {
+                "0": "",
+                "1": "31.328.023.953",
+                "2": "21.965.097.612"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_26",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "23 THUÊ THU NHẬP DOANH NGHIỆP\n\nSố thuế TNDN trên lợi nhuận kế toán trước thuế của Công ty khác với số thuế khi được tính theo thuế suất phổ thông áp dụng 20% như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2022VND",
+                "2": "2021VND"
+            },
+            {
+                "0": "Lợi nhuận kế toán trước thuế",
+                "1": "248.229.151.999",
+                "2": "250.855.748.088"
+            },
+            {
+                "0": "Thuế tính ở thuế suất 20%Điều chỉnh:",
+                "1": "49.645.830.400",
+                "2": "50.171.149.618"
+            },
+            {
+                "0": "Chi phí không được khấu trừChênh lệch tam thời không ghi nhận thuếTNDN hoãn lại",
+                "1": "2.684.860.133",
+                "2": "220.130.153"
+            },
+            {
+                "0": "Chi phí không được khấu trừChênh lệch tam thời không ghi nhận thuếTNDN hoãn lại",
+                "1": "3.936.331.395",
+                "2": ""
+            },
+            {
+                "0": "Thu nhập cổ tức nhận được từ các khoảnđầu tư tài chính không chịu thuế TNDNU'u đãi thuế (*)",
+                "1": "(54.908.618.585)-",
+                "2": "(47.944.279.292)(734.563.894)"
+            },
+            {
+                "0": "Chi phí thuế TNDN (**)",
+                "1": "1.358.403.343",
+                "2": "1.712.436.585"
+            },
+            {
+                "0": "Chi phí thuế TNDN ghi nhận trong bảo cáokết quả hoạt động kinh doanh riêng:Thuế TNDN – hiện hànhThuế TNDN – hoãn lại",
+                "1": "1.358.403.343-",
+                "2": "1.712.436.585-"
+            },
+            {
+                "0": "Chi phí thuế TNDN ghi nhận trong bảo cáokết quả hoạt động kinh doanh riêng:Thuế TNDN – hiện hànhThuế TNDN – hoãn lại",
+                "1": "1.358.403.343",
+                "2": "1.712.436.585"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_27",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "(*) Theo Nghị quyết số 406/NQ-UBTVQH15 ban hành ngày 19 tháng 10 năm 2021 về việc giảm thuế TNDN phải nộp đối với các doanh nghiệp, hợp tác xã, đơn vị sự nghiệp và tổ chức khác, Công ty được giảm 30% thuế TNDN phải nộp cho năm 2021 do có tổng doanh thu bán hàng và cung cấp dịch vụ không quá 200 tỷ đồng trong năm 2021.\n\n(**) Chi phí thuế TNDN cho kỳ kế toán được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh tùy thuộc vào sự kiểm tra của cơ quan thuế.\n\n33\n\n\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 - DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n24 CHI PHÍ KINH DOANH THEO YÉU TÓ\n\nChi phí sản xuất kinh doanh theo yếu tố thể hiện các chi phí phát sinh trong kỳ, nhưng không bao gồm giá của hàng hóa liên quan tới hoạt động thương mại. Chi tiết được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2022VND",
+                "2": "2021VND"
+            },
+            {
+                "0": "Chi phí mua hàng hóa",
+                "1": "160.299.641.399",
+                "2": "85.472.587.085"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "32.985.035.441",
+                "2": "28.901.323.004"
+            },
+            {
+                "0": "Chi phí khấu hao",
+                "1": "2.456.227.087",
+                "2": "2.536.137.381"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "54.903.446.612",
+                "2": "40.540.313.522"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "4.122.524.681",
+                "2": "1.787.668.509"
+            },
+            {
+                "0": "",
+                "1": "254.766.875.220",
+                "2": "159.238.029.501"
+            },
+            {
+                "0": "Căn trừ công nợ nội bộ và các khoản lợi nhuận được chia",
+                "1": "18.119.490.998",
+                "2": "60.644.760.982"
+            },
+            {
+                "0": "Thu hộ trả hộ về thường hoàn thành kế hoạch cho nhân sự các công ty con",
+                "1": "464.000.000",
+                "2": "11.407.500.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_28",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "26 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN\n\nCông ty là một công ty cổ phần.\n\nChi tiết của các bên liên quan chính và mối quan hệ như sau:",
+        "dataframe": [
+            {
+                "0": "Tên",
+                "1": "Mối quan hệ"
+            },
+            {
+                "0": "- Công ty Cổ phần Cảng xanh VIP",
+                "1": "Công ty con"
+            },
+            {
+                "0": "- Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+                "1": "Công ty con"
+            },
+            {
+                "0": "- Công ty Cổ phần Container Miền Trung",
+                "1": "Công ty con"
+            },
+            {
+                "0": "- Công ty TNHH Một thành viên Dịch vụ Cảng Xanh",
+                "1": "Công ty con"
+            },
+            {
+                "0": "- Công ty TNHH Một thành viên Viconship Hồ Chí Minh",
+                "1": "Công ty con"
+            },
+            {
+                "0": "- Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "1": "Công ty con"
+            },
+            {
+                "0": "- Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh",
+                "1": "Công ty con"
+            },
+            {
+                "0": "- Công ty Cổ phần Cảng cạn Quảng Bình - Đình Vũ",
+                "1": "Công ty con gián tiếp"
+            },
+            {
+                "0": "- Công ty Cổ phần Logistics Cảng Đà Nẵng",
+                "1": "Công ty liên kết"
+            },
+            {
+                "0": "- Công ty Cổ phần Cảng dịch vụ Dầu khí Đình Vũ",
+                "1": "Công ty liên kết"
+            },
+            {
+                "0": "- Công ty TNHH Tuyến Container T.S. Hà Nội",
+                "1": "Công ty liên kết"
+            },
+            {
+                "0": "- Công ty Cổ phần Cảng VIMC Đình Vũ",
+                "1": "Công ty liên kết"
+            },
+            {
+                "0": "- Hội đồng quản trị/Ban Giám đốc/Ban Kiểm soát",
+                "1": "Nhân sự quản lý chủ chốt"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_29",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "34\n\n\n\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n26 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)\n\n(a) Giao dịch với các bên liên quan",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2022VND",
+                "3": "2021VND"
+            },
+            {
+                "0": "(i)",
+                "1": "Doanh thu bán hàng",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty Cổ phần Cảng Xanh VIP",
+                "2": "65.141.438.841",
+                "3": "14.387.443.152"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+                "2": "19.912.575.456",
+                "3": "14.378.548.981"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH Một thành viên Dịch vụ Cảng Xanh",
+                "2": "14.037.915.027",
+                "3": "9.312.703.848"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "10.923.045.060",
+                "3": "13.739.897.347"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngõi sao Xanh",
+                "2": "54.621.577.164",
+                "3": "38.448.739.102"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty Cổ phần Cảng Cạn Quảng Bình - Đình Vũ",
+                "2": "72.723.882",
+                "3": "-"
+            },
+            {
+                "0": "(i)",
+                "1": "",
+                "2": "164.709.275.430",
+                "3": "90.267.332.430"
+            },
+            {
+                "0": "(ii)",
+                "1": "Doanh thu cung cấp dịch vụ",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty Cổ phần Cảng Xanh VIP",
+                "2": "9.384.000.000",
+                "3": "9.384.000.000"
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+                "2": "1.116.000.000",
+                "3": "1.116.000.000"
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "208.700.000",
+                "3": "125.665.000"
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty TNHH Một thành viên Dịch vụ Cảng Xanh",
+                "2": "1.416.000.000",
+                "3": "1.416.000.000"
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty TNHH Một thành viên Viconship Hồ Chí Minh",
+                "2": "202.907.360",
+                "3": "-"
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "1.116.000.000",
+                "3": "1.116.000.000"
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngõi sao Xanh",
+                "2": "4.012.144.889",
+                "3": "3.926.765.237"
+            },
+            {
+                "0": "(ii)",
+                "1": "",
+                "2": "17.455.752.249",
+                "3": "17.084.430.237"
+            },
+            {
+                "0": "(iii)",
+                "1": "Bán tài sản cố định",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(iii)",
+                "1": "Công ty Cổ phần Cảng Xanh VIP",
+                "2": "166.666.667",
+                "3": "-"
+            },
+            {
+                "0": "(iii)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "-",
+                "3": "463.636.359"
+            },
+            {
+                "0": "(iii)",
+                "1": "Ông Nguyễn Việt Trung",
+                "2": "46.296.296",
+                "3": "-"
+            },
+            {
+                "0": "(iii)",
+                "1": "",
+                "2": "212.962.963",
+                "3": "463.636.359"
+            },
+            {
+                "0": "(iv)",
+                "1": "Thanh lý vật tư và chi phí trả trước",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(iv)",
+                "1": "Công ty TNHH Một thành viên Dịch vụ Cảng Xanh",
+                "2": "-",
+                "3": "19.064.104.296"
+            },
+            {
+                "0": "(v)",
+                "1": "Thu nhập khác",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(v)",
+                "1": "Công ty Cổ phần Cảng dịch vụ đầu khí Đình Vũ",
+                "2": "323.756.250",
+                "3": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_30",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "35\n\n\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n26 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)\n\n(a) Giao dịch với các bên liên quan (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2022VND",
+                "3": "2021VND"
+            },
+            {
+                "0": "(vi)",
+                "1": "Mua hàng hóa và dịch vụ",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(vi)",
+                "1": "Công ty Cổ phần Cảng Xanh VIP",
+                "2": "542.210.000",
+                "3": "98.875.000"
+            },
+            {
+                "0": "(vi)",
+                "1": "Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+                "2": "1.835.874.471",
+                "3": "2.077.449.640"
+            },
+            {
+                "0": "(vi)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "918.906.296",
+                "3": "90.855.117"
+            },
+            {
+                "0": "(vi)",
+                "1": "Công ty TNHH Một thành viên Dịch vụ Cảng Xanh",
+                "2": "12.605.605.844",
+                "3": "12.662.937.423"
+            },
+            {
+                "0": "(vi)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "10.880.684.977",
+                "3": "1.788.796.240"
+            },
+            {
+                "0": "(vi)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngõi sao Xanh",
+                "2": "3.003.552.343",
+                "3": "6.815.172.367"
+            },
+            {
+                "0": "(vi)",
+                "1": "Công ty TNHH Tuyến Container T.S. Hà Nội",
+                "2": "70.830.300",
+                "3": "-"
+            },
+            {
+                "0": "(vi)",
+                "1": "",
+                "2": "29.857.664.231",
+                "3": "23.534.085.787"
+            },
+            {
+                "0": "(vii)",
+                "1": "Cho vay",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(vii)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "18.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "(vii)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "15.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "(vii)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngõi sao Xanh",
+                "2": "21.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "(vii)",
+                "1": "",
+                "2": "54.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "(viii)",
+                "1": "Thu gốc từ cho vay",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(viii)",
+                "1": "Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+                "2": "-",
+                "3": "15.237.037.038"
+            },
+            {
+                "0": "(viii)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "4.236.842.119",
+                "3": "5.210.526.320"
+            },
+            {
+                "0": "(viii)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngõi sao Xanh",
+                "2": "10.105.263.158",
+                "3": "5.707.070.699"
+            },
+            {
+                "0": "(viii)",
+                "1": "",
+                "2": "14.342.105.277",
+                "3": "26.154.634.057"
+            },
+            {
+                "0": "(ix)",
+                "1": "Lãi khoản cho vay",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(ix)",
+                "1": "Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+                "2": "-",
+                "3": "360.372.064"
+            },
+            {
+                "0": "(ix)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "860.755.830",
+                "3": "382.825.516"
+            },
+            {
+                "0": "(ix)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "168.657.534",
+                "3": "-"
+            },
+            {
+                "0": "(ix)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngõi sao Xanh",
+                "2": "547.194.377",
+                "3": "138.784.108"
+            },
+            {
+                "0": "(ix)",
+                "1": "",
+                "2": "1.576.607.741",
+                "3": "881.981.688"
+            },
+            {
+                "0": "(x)",
+                "1": "Thu lãi cho vay",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(x)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "709.405.504",
+                "3": "-"
+            },
+            {
+                "0": "(x)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngõi sao Xanh",
+                "2": "545.194.521",
+                "3": "-"
+            },
+            {
+                "0": "(x)",
+                "1": "",
+                "2": "1.254.600.025",
+                "3": "-"
+            },
+            {
+                "0": "(xi)",
+                "1": "Góp vốn các bên liên quan",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(xi)",
+                "1": "Công ty TNHH Một thành viên Viconship Hồ Chí Minh",
+                "2": "15.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "(xi)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics xanh",
+                "2": "530.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "(xi)",
+                "1": "",
+                "2": "545.000.000.000",
+                "3": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_31",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "36\n\n\n\n(No text to output)\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n26 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)\n\n(a) Giao dịch với các bên liên quan (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2022VND",
+                "3": "2021VND"
+            },
+            {
+                "0": "(xii)",
+                "1": "Lợi nhuận được chia từ các công ty con, công ty liên kết",
+                "2": "Lợi nhuận được chia từ các công ty con, công ty liên kết",
+                "3": "Lợi nhuận được chia từ các công ty con, công ty liên kết"
+            },
+            {
+                "0": "(xii)",
+                "1": "Công ty Cổ phần Cảng Xanh VIP",
+                "2": "117.562.500.000",
+                "3": "141.075.000.000"
+            },
+            {
+                "0": "(xii)",
+                "1": "Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+                "2": "4.020.000.000",
+                "3": "13.668.000.000"
+            },
+            {
+                "0": "(xii)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "991.250.000",
+                "3": "2.379.000.000"
+            },
+            {
+                "0": "(xii)",
+                "1": "Công ty TNHH Một thành viên Dịch vụ Cảng Xanh",
+                "2": "108.721.061.505",
+                "3": "45.590.257.518"
+            },
+            {
+                "0": "(xii)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "20.746.955.939",
+                "3": "14.881.230.598"
+            },
+            {
+                "0": "(xii)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngôi Sao Xanh",
+                "2": "18.340.125.480",
+                "3": "13.257.372.866"
+            },
+            {
+                "0": "(xii)",
+                "1": "Công ty Cổ phần Cảng Logistics Đà Nẵng",
+                "2": "1.998.000.000",
+                "3": "1.998.000.000"
+            },
+            {
+                "0": "(xii)",
+                "1": "Công ty Cổ phần Cảng Dịch vụ Dầu khí Đình Vũ",
+                "2": "-",
+                "3": "6.174.140.000"
+            },
+            {
+                "0": "(xii)",
+                "1": "Công ty TNHH Tuyến Container T.S. Hà Nội",
+                "2": "2.106.000.000",
+                "3": "-"
+            },
+            {
+                "0": "(xii)",
+                "1": "",
+                "2": "274.485.892.924",
+                "3": "239.023.000.982"
+            },
+            {
+                "0": "(xiii)",
+                "1": "Thu hộ trả hộ về thường hoàn thành kế hoạch cho nhân sự các công ty con",
+                "2": "Thu hộ trả hộ về thường hoàn thành kế hoạch cho nhân sự các công ty con",
+                "3": "Thu hộ trả hộ về thường hoàn thành kế hoạch cho nhân sự các công ty con"
+            },
+            {
+                "0": "(xiii)",
+                "1": "Công ty Cổ phần Cảng Xanh VIP",
+                "2": "-",
+                "3": "1.411.500.000"
+            },
+            {
+                "0": "(xiii)",
+                "1": "Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+                "2": "81.500.000",
+                "3": "1.241.500.000"
+            },
+            {
+                "0": "(xiii)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "-",
+                "3": "785.000.000"
+            },
+            {
+                "0": "(xiii)",
+                "1": "Công ty TNHH Một thành viên Dịch vụ Cảng Xanh",
+                "2": "148.000.000",
+                "3": "2.621.500.000"
+            },
+            {
+                "0": "(xiii)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "81.000.000",
+                "3": "2.132.500.000"
+            },
+            {
+                "0": "(xiii)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngôi Sao Xanh",
+                "2": "153.500.000",
+                "3": "3.215.500.000"
+            },
+            {
+                "0": "(xiii)",
+                "1": "",
+                "2": "464.000.000",
+                "3": "11.407.500.000"
+            },
+            {
+                "0": "(xiv)",
+                "1": "Thu hộ trả hộ về tiền ứng hộ Covid-19",
+                "2": "Thu hộ trả hộ về tiền ứng hộ Covid-19",
+                "3": "Thu hộ trả hộ về tiền ứng hộ Covid-19"
+            },
+            {
+                "0": "(xiv)",
+                "1": "Công ty Cổ phần Cảng Xanh VIP",
+                "2": "-",
+                "3": "1.000.000.000"
+            },
+            {
+                "0": "(xiv)",
+                "1": "Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+                "2": "-",
+                "3": "500.000.000"
+            },
+            {
+                "0": "(xiv)",
+                "1": "Công ty TNHH Một thành viên Dịch vụ Cảng Xanh",
+                "2": "-",
+                "3": "1.000.000.000"
+            },
+            {
+                "0": "(xiv)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "-",
+                "3": "500.000.000"
+            },
+            {
+                "0": "(xiv)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngôi Sao Xanh",
+                "2": "-",
+                "3": "1.000.000.000"
+            },
+            {
+                "0": "(xiv)",
+                "1": "",
+                "2": "-",
+                "3": "4.000.000.000"
+            },
+            {
+                "0": "(xv)",
+                "1": "Các khoản thu hộ trả hộ các công ty con khác",
+                "2": "Các khoản thu hộ trả hộ các công ty con khác",
+                "3": "Các khoản thu hộ trả hộ các công ty con khác"
+            },
+            {
+                "0": "(xv)",
+                "1": "Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+                "2": "-",
+                "3": "1.387.899.236"
+            },
+            {
+                "0": "(xv)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "51.190.942",
+                "3": "-"
+            },
+            {
+                "0": "(xv)",
+                "1": "Công ty TNHH Một thành viên dịch vụ Cảng Xanh",
+                "2": "5.551.255.000",
+                "3": "14.467.865.895"
+            },
+            {
+                "0": "(xv)",
+                "1": "Công ty TNHH Một thành viên Viconship Hồ Chí Minh",
+                "2": "47.921.532",
+                "3": "-"
+            },
+            {
+                "0": "(xv)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngôi Sao Xanh",
+                "2": "5.484.263.224",
+                "3": "907.184.895"
+            },
+            {
+                "0": "(xv)",
+                "1": "",
+                "2": "11.134.630.698",
+                "3": "16.762.950.026"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_32",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "37\n\n\\( \\therefore {a}_{1} =  - {b}_{1} + 3 \\)\n\n\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n26 THUYÊT MINH VỀ CÁC BÊN LIÊN QUAN (TIÉP THEO)\n\n(a) Giao dịch với các bên liên quan (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2022VND",
+                "3": "2021VND"
+            },
+            {
+                "0": "(xvi)",
+                "1": "Bổ sung quỹ phúc lợi cho các công ty conCông ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "300.000.000",
+                "3": "-"
+            },
+            {
+                "0": "(xvi)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngõi sao Xanh",
+                "2": "300.000.000",
+                "3": "-"
+            },
+            {
+                "0": "(xvi)",
+                "1": "",
+                "2": "600.000.000",
+                "3": "-"
+            },
+            {
+                "0": "Hội đồng quản trị",
+                "1": "Hội đồng quản trị",
+                "2": "Hội đồng quản trị",
+                "3": "Hội đồng quản trị"
+            },
+            {
+                "0": "Ông Nguyễn Việt Hoà",
+                "1": "Chủ tịch",
+                "2": "2.429.589.000",
+                "3": "1.398.971.710"
+            },
+            {
+                "0": "Ông Nguyễn Việt Trung",
+                "1": "Thành viên",
+                "2": "450.000.000",
+                "3": "200.000.000"
+            },
+            {
+                "0": "Ông Văn Trần Hoàn",
+                "1": "Thành viên",
+                "2": "450.000.000",
+                "3": "-"
+            },
+            {
+                "0": "Ông Bùi Minh Hưng",
+                "1": "Thành viên(bổ nhiệm ngày 24/3/2022)",
+                "2": "2.962.138.000",
+                "3": "476.498.000"
+            },
+            {
+                "0": "Ông Tạ Công Thông",
+                "1": "Thành viên",
+                "2": "450.000.000",
+                "3": "-"
+            },
+            {
+                "0": "Ông Cáp Trọng Cường",
+                "1": "Thành viên(bổ nhiệm ngày 9/9/2022)",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Ông Nguyễn Đức Dũng",
+                "1": "Thành viên(bổ nhiệm ngày 9/9/2022)",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Ông Dương Tiến Dũng",
+                "1": "Thành viên(miễn nhiệm ngày 9/9/2022)",
+                "2": "2.679.981.000",
+                "3": "642.813.000"
+            },
+            {
+                "0": "Ông Trần Quang Tiến",
+                "1": "Thành viên(miễn nhiệm ngày 9/9/2022)",
+                "2": "300.000.000",
+                "3": "-"
+            },
+            {
+                "0": "Ông Nguyễn Hoàng Anh",
+                "1": "Thành viên(miễn nhiệm ngày 9/3/2022)",
+                "2": "500.000.000",
+                "3": "200.000.000"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "10.221.708.000",
+                "3": "2.918.282.710"
+            },
+            {
+                "0": "Bà Nguyễn Thị Kim Nhã",
+                "1": "Trường ban",
+                "2": "338.040.000",
+                "3": "484.582.664"
+            },
+            {
+                "0": "Bà Nguyễn Thị Minh Lan",
+                "1": "Thành viên",
+                "2": "125.000.000",
+                "3": "100.000.000"
+            },
+            {
+                "0": "Bà Nghiêm Thị Thủy Dương",
+                "1": "Thành viên",
+                "2": "125.000.000",
+                "3": "100.000.000"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "588.040.000",
+                "3": "684.582.664"
+            },
+            {
+                "0": "Ông Bùi Minh Hung",
+                "1": "Tổng Giám đốc",
+                "2": "Như trên",
+                "3": "Như trên"
+            },
+            {
+                "0": "Ông Nguyễn Thế Trọng",
+                "1": "Giám đốc kỹ thuật",
+                "2": "2.465.938.000",
+                "3": "1.573.259.605"
+            },
+            {
+                "0": "Ông Phan Văn Hưng",
+                "1": "Giám đốc tài chính(bố nhiệm ngày 1/10/2022)",
+                "2": "204.000.000",
+                "3": "-"
+            },
+            {
+                "0": "Ông Tạ Công Thông",
+                "1": "Giám đốc Marketing(bố nhiệm ngày 1/6/2022)",
+                "2": "Như trên",
+                "3": "Như trên"
+            },
+            {
+                "0": "Ông Cáp Trọng Cường",
+                "1": "Giám đốc khai thác(bố nhiệm ngày 13/3/2022)",
+                "2": "Như trên",
+                "3": "Như trên"
+            },
+            {
+                "0": "Ông Dương Tiến Dũng",
+                "1": "Giám đốc tài chính(miễn nhiệm ngày 1/10/2022)",
+                "2": "Như trên",
+                "3": "Như trên"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_33",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "38\n\n\\(B_{1} \\in I \\leq 0, 1 \\leq 0\\)\n\n\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n26 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)\n\n(b) Số dư với các bên liên quan",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "31/12/2022VND",
+                "3": "31/12/2021VND"
+            },
+            {
+                "0": "(i)",
+                "1": "Phải thu ngắn hạn của khách hàng (Thuyết minh 4)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty Cổ phần Cảng Xanh VIP",
+                "2": "121.651.200",
+                "3": "2.664.780.272"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+                "2": "454.629.390",
+                "3": "3.692.753.784"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "30.348.000",
+                "3": "9.436.000"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH Một thành viên Dịch vụ Cảng Xanh",
+                "2": "1.498.218.974",
+                "3": "-"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH Viconship Hồ Chí Minh",
+                "2": "267.061.481",
+                "3": "-"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "-",
+                "3": "3.010.204.566"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngõi sao Xanh",
+                "2": "6.528.634.115",
+                "3": "4.631.826.063"
+            },
+            {
+                "0": "(i)",
+                "1": "Công ty Cổ phần Cảng Cạn Quảng Bình – Đình Vũ",
+                "2": "79.996.270",
+                "3": ""
+            },
+            {
+                "0": "(i)",
+                "1": "Ông Nguyễn Việt Trung",
+                "2": "50.000.000",
+                "3": "-"
+            },
+            {
+                "0": "(i)",
+                "1": "",
+                "2": "9.030.539.430",
+                "3": "14.009.000.685"
+            },
+            {
+                "0": "(ii)",
+                "1": "Phải thu về cho vay ngắn hạn (Thuyết minh 5(a))",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "4.815.789.470",
+                "3": "1.789.473.698"
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "2.368.421.052",
+                "3": "-"
+            },
+            {
+                "0": "(ii)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngõi sao Xanh",
+                "2": "4.421.052.632",
+                "3": "-"
+            },
+            {
+                "0": "(ii)",
+                "1": "",
+                "2": "11.605.263.154",
+                "3": "1.789.473.698"
+            },
+            {
+                "0": "(iii)",
+                "1": "Phải thu về cho vay dài hạn (Thuyết minh 5(b))",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(iii)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "13.263.157.895",
+                "3": "2.526.315.786"
+            },
+            {
+                "0": "(iii)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "12.631.578.948",
+                "3": "-"
+            },
+            {
+                "0": "(iii)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngõi sao Xanh",
+                "2": "6.473.684.210",
+                "3": "-"
+            },
+            {
+                "0": "(iii)",
+                "1": "",
+                "2": "32.368.421.053",
+                "3": "2.526.315.786"
+            },
+            {
+                "0": "(iv)",
+                "1": "Phải thu ngắn hạn khác (Thuyết minh 6)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(iv)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "10.103.934",
+                "3": "-"
+            },
+            {
+                "0": "(iv)",
+                "1": "Công ty TNHH Một thành viên Viconship Hồ Chí Minh",
+                "2": "3.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "(iv)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "46.434.878.297",
+                "3": "13.268.922.358"
+            },
+            {
+                "0": "(iv)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngõi sao Xanh",
+                "2": "8.520.280",
+                "3": "625.925.866"
+            },
+            {
+                "0": "(iv)",
+                "1": "Công ty Cổ phần Cảng Dịch vụ Dầu khí Đình Vũ",
+                "2": "323.756.250",
+                "3": "-"
+            },
+            {
+                "0": "(iv)",
+                "1": "",
+                "2": "49.777.258.761",
+                "3": "13.894.848.224"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_34",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "39\n\n\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n26 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)\n\n(b) Số dư với các bên liên quan (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "31/12/2022VND",
+                "3": "31/12/2021VND"
+            },
+            {
+                "0": "(v)",
+                "1": "Phải trả người bán ngắn hạn (Thuyết minh 9)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(v)",
+                "1": "Công ty Cổ phần Container Miền Trung",
+                "2": "-",
+                "3": "64.001.600"
+            },
+            {
+                "0": "(v)",
+                "1": "Công ty TNHH Một thành viên Trung tâm Logistics Xanh",
+                "2": "8.930.269.708",
+                "3": "1.804.150.200"
+            },
+            {
+                "0": "(v)",
+                "1": "Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh",
+                "2": "-",
+                "3": "50.834.253"
+            },
+            {
+                "0": "(v)",
+                "1": "",
+                "2": "8.930.269.708",
+                "3": "1.918.986.053"
+            },
+            {
+                "0": "(vi)",
+                "1": "Phải trả ngắn hạn khác (Thuyết minh 12)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(vi)",
+                "1": "Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+                "2": "81.500.000",
+                "3": "-"
+            },
+            {
+                "0": "(vi)",
+                "1": "Công ty TNHH Một thành viên Dịch vụ Cảng Xanh",
+                "2": "87.995.174.493",
+                "3": "18.119.490.998"
+            },
+            {
+                "0": "(vi)",
+                "1": "Ông Nguyễn Văn Tiến",
+                "2": "72.396.869",
+                "3": "-"
+            },
+            {
+                "0": "(vi)",
+                "1": "",
+                "2": "88.149.071.362",
+                "3": "18.119.490.998"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_35",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "27 CÁC CAM KẾT THUÊ HOẠT ĐỘNG\n\nCông ty phải trả mức tối thiểu cho các hợp đồng thuê hoạt động không hủy ngang trong tương lai, chủ yếu là tiền thuê văn phòng, như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2022VND",
+                "2": "31/12/2021VND"
+            },
+            {
+                "0": "Dưới 1 năm",
+                "1": "5.902.410.000",
+                "2": "5.902.410.000"
+            },
+            {
+                "0": "Từ 1 đến 5 năm",
+                "1": "29.512.050.000",
+                "2": "29.512.050.000"
+            },
+            {
+                "0": "Trên 5 năm",
+                "1": "15.746.826.926",
+                "2": "21.665.407.912"
+            },
+            {
+                "0": "Tổng cộng các khoản thanh toán tối thiểu",
+                "1": "51.161.286.926",
+                "2": "57.079.867.912"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_36",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "40\n\n\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n28 BÁO CÁO BỘ PHẠN\n\nDoanh thu và chi phi theo lĩnh vực kinh doanh chính của Công ty như sau:\n\nMẫu số B 09 – DN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm tài chính kết thúc ngày 31 tháng 12 năm 2022",
+                "2": "Năm tài chính kết thúc ngày 31 tháng 12 năm 2022",
+                "3": "Năm tài chính kết thúc ngày 31 tháng 12 năm 2022",
+                "4": "Năm tài chính kết thúc ngày 31 tháng 12 năm 2022"
+            },
+            {
+                "0": "",
+                "1": "Hoạt độngbản hàng hóaVND",
+                "2": "Hoạt độngcung cấp dịch vụVND",
+                "3": "Hoạt độngđầu tư tài chínhVND",
+                "4": "Tổng cộngVND"
+            },
+            {
+                "0": "Doanh thu và thu nhập",
+                "1": "164.709.275.430",
+                "2": "75.145.805.672",
+                "3": "284.103.635.058",
+                "4": "523.958.716.160"
+            },
+            {
+                "0": "Chi phí hoạt động trực tiếp",
+                "1": "(160.299.641.399)",
+                "2": "(63.139.209.868)",
+                "3": "(20.962.688.941)",
+                "4": "(244.401.540.208)"
+            },
+            {
+                "0": "Tổng cộng",
+                "1": "4.409.634.031",
+                "2": "12.006.595.804",
+                "3": "263.140.946.117",
+                "4": "279.557.175.952"
+            },
+            {
+                "0": "Chi phí chung không phân bổ",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "(31.328.023.953)"
+            },
+            {
+                "0": "Tổng lợi nhuận kế toán trước thuế",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "248.229.151.999"
+            },
+            {
+                "0": "",
+                "1": "Năm tài chính kết thúc ngày 31 tháng 12 năm 2021",
+                "2": "Năm tài chính kết thúc ngày 31 tháng 12 năm 2021",
+                "3": "Năm tài chính kết thúc ngày 31 tháng 12 năm 2021",
+                "4": "Năm tài chính kết thúc ngày 31 tháng 12 năm 2021"
+            },
+            {
+                "0": "",
+                "1": "Hoạt độngbản hàng hóaVND",
+                "2": "Hoạt độngcung cấp dịch vụVND",
+                "3": "Hoạt độngđầu tư tài chínhVND",
+                "4": "Tổng cộngVND"
+            },
+            {
+                "0": "Doanh thu và thu nhập",
+                "1": "90.267.332.430",
+                "2": "72.301.127.998",
+                "3": "247.638.758.846",
+                "4": "410.207.219.274"
+            },
+            {
+                "0": "Chi phí hoạt động trực tiếp",
+                "1": "(85.472.587.085)",
+                "2": "(51.800.344.804)",
+                "3": "(113.441.685)",
+                "4": "(137.386.373.574)"
+            },
+            {
+                "0": "Tổng cộng",
+                "1": "4.794.745.345",
+                "2": "20.500.783.194",
+                "3": "247.525.317.161",
+                "4": "272.820.845.700"
+            },
+            {
+                "0": "Chi phí chung không phân bổ",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "(21.965.097.612)"
+            },
+            {
+                "0": "Tổng lợi nhuận kế toán trước thuế",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "250.855.748.088"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_37",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "41\n\n\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nTHUYẾT MINH BÁO CẢO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n28 BÁO CÁO BỘ PHẠN (TIẾP THEO)\n\nTài sản và nợ phải trả theo lĩnh vực kinh doanh chính của Công ty như sau:\n\nTại ngày 31 tháng 12 năm 2022",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Hoạt độngbản hàng hóaVND",
+                "2": "Hoạt độngcung cấp dịch vụVND",
+                "3": "Hoạt độngđầu tư tài chínhVND",
+                "4": "Tổng cộngVND"
+            },
+            {
+                "0": "Tài sản bộ phận",
+                "1": "Tài sản bộ phận",
+                "2": "Tài sản bộ phận",
+                "3": "Tài sản bộ phận",
+                "4": "Tài sản bộ phận"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:",
+                "3": "Trong đó:",
+                "4": "Trong đó:"
+            },
+            {
+                "0": "Hàng tồn kho",
+                "1": "1.184.330.434",
+                "2": "-",
+                "3": "-",
+                "4": "1.184.330.434"
+            },
+            {
+                "0": "Phải thu ngắn hạn của khách hàng",
+                "1": "8.592.571.694",
+                "2": "15.696.662.064",
+                "3": "-",
+                "4": "24.289.233.758"
+            },
+            {
+                "0": "Phải thu về cho vay ngắn hạn",
+                "1": "-",
+                "2": "-",
+                "3": "11.605.263.154",
+                "4": "11.605.263.154"
+            },
+            {
+                "0": "Phải thu về cho vay dài hạn",
+                "1": "-",
+                "2": "-",
+                "3": "32.368.421.053",
+                "4": "32.368.421.053"
+            },
+            {
+                "0": "Đầu tư vào công ty con",
+                "1": "-",
+                "2": "-",
+                "3": "1.440.075.000.000",
+                "4": "1.440.075.000.000"
+            },
+            {
+                "0": "Đầu tư vào công ty liên kết",
+                "1": "-",
+                "2": "-",
+                "3": "489.916.443.286",
+                "4": "489.916.443.286"
+            },
+            {
+                "0": "Đầu tư dài hạn khác",
+                "1": "-",
+                "2": "-",
+                "3": "155.000.000",
+                "4": "155.000.000"
+            },
+            {
+                "0": "Tổng tài sản phân bổ",
+                "1": "9.776.902.128",
+                "2": "15.696.662.064",
+                "3": "1.974.120.127.493",
+                "4": "1.999.593.691.685"
+            },
+            {
+                "0": "Tài sản không phân bổ",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "419.415.231.762"
+            },
+            {
+                "0": "Tổng tài sản",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "2.419.008.923.447"
+            },
+            {
+                "0": "Nợ phải trả bộ phận",
+                "1": "Nợ phải trả bộ phận",
+                "2": "Nợ phải trả bộ phận",
+                "3": "Nợ phải trả bộ phận",
+                "4": "Nợ phải trả bộ phận"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:",
+                "3": "Trong đó:",
+                "4": "Trong đó:"
+            },
+            {
+                "0": "Phải trả người bán ngắn hạn",
+                "1": "-",
+                "2": "12.374.909.657",
+                "3": "-",
+                "4": "12.374.909.657"
+            },
+            {
+                "0": "Người mua trả tiền trước ngắn hạn",
+                "1": "-",
+                "2": "1.139.597.062",
+                "3": "-",
+                "4": "1.139.597.062"
+            },
+            {
+                "0": "Phải trả ngắn hạn khác",
+                "1": "-",
+                "2": "10.232.979.011",
+                "3": "87.995.174.493",
+                "4": "98.236.155.292"
+            },
+            {
+                "0": "Tổng nợ phải trả phân bổ",
+                "1": "-",
+                "2": "23.747.485.730",
+                "3": "87.995.174.493",
+                "4": "111.750.662.011"
+            },
+            {
+                "0": "Nợ phải trả không phân bổ",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "180.963.304.724"
+            },
+            {
+                "0": "Tổng nợ phải trả",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "292.713.966.735"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_38",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "Mẫu số B 09 – DN\n\n42\n\n\n\nCÔNG TY CỔ PHẦN CONTAINER VIỆT NAM\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n28 BÁO CÁO BỘ PHẠN (TIẾP THEO)\n\nTài sản và nợ phải trả theo lĩnh vực kinh doanh chính của Công ty như sau:\n\nMẫu số B 09 - DN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày 31 tháng 12 năm 2021",
+                "2": "Tại ngày 31 tháng 12 năm 2021",
+                "3": "Tại ngày 31 tháng 12 năm 2021",
+                "4": "Tại ngày 31 tháng 12 năm 2021"
+            },
+            {
+                "0": "",
+                "1": "Hoạt độngbản hàng hóaVND",
+                "2": "Hoạt độngcung cấp dịch vụVND",
+                "3": "Hoạt độngđầu tư tài chínhVND",
+                "4": "Tổng cộngVND"
+            },
+            {
+                "0": "Tải sản bộ phận",
+                "1": "Tải sản bộ phận",
+                "2": "Tải sản bộ phận",
+                "3": "Tải sản bộ phận",
+                "4": "Tải sản bộ phận"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:",
+                "3": "Trong đó:",
+                "4": "Trong đó:"
+            },
+            {
+                "0": "Hàng tồn kho",
+                "1": "1.214.274.739",
+                "2": "-",
+                "3": "-",
+                "4": "1.214.274.739"
+            },
+            {
+                "0": "Phải thu ngắn hạn của khách hàng",
+                "1": "-",
+                "2": "40.019.688.716",
+                "3": "-",
+                "4": "40.019.688.716"
+            },
+            {
+                "0": "Phải thu về cho vay",
+                "1": "-",
+                "2": "-",
+                "3": "4.315.789.484",
+                "4": "4.315.789.484"
+            },
+            {
+                "0": "Đầu tư vào công ty con",
+                "1": "-",
+                "2": "-",
+                "3": "895.075.000.000",
+                "4": "895.075.000.000"
+            },
+            {
+                "0": "Đầu tư vào công ty liên kết",
+                "1": "-",
+                "2": "-",
+                "3": "489.916.443.286",
+                "4": "489.916.443.286"
+            },
+            {
+                "0": "Đầu tư dài hạn khác",
+                "1": "-",
+                "2": "-",
+                "3": "155.000.000",
+                "4": "155.000.000"
+            },
+            {
+                "0": "Tổng tài sản phân bổ",
+                "1": "1.214.274.739",
+                "2": "40.019.688.716",
+                "3": "1.389.462.232.770",
+                "4": "1.430.696.196.225"
+            },
+            {
+                "0": "Tải sản không phân bổ",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "685.672.020.260"
+            },
+            {
+                "0": "Tổng tài sản",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "2.116.368.216.485"
+            },
+            {
+                "0": "Nợ phải trả bộ phận",
+                "1": "Nợ phải trả bộ phận",
+                "2": "Nợ phải trả bộ phận",
+                "3": "Nợ phải trả bộ phận",
+                "4": "Nợ phải trả bộ phận"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:",
+                "3": "Trong đó:",
+                "4": "Trong đó:"
+            },
+            {
+                "0": "Phải trả người bán ngắn hạn",
+                "1": "-",
+                "2": "3.756.088.527",
+                "3": "-",
+                "4": "3.756.088.527"
+            },
+            {
+                "0": "Người mua trả tiến trước ngắn hạn",
+                "1": "-",
+                "2": "1.767.719.458",
+                "3": "-",
+                "4": "1.767.719.458"
+            },
+            {
+                "0": "Phải trả ngắn hạn khác",
+                "1": "-",
+                "2": "91.793.032.787",
+                "3": "-",
+                "4": "91.793.032.787"
+            },
+            {
+                "0": "Tổng nợ phải trả phân bổ",
+                "1": "-",
+                "2": "97.316.840.772",
+                "3": "-",
+                "4": "97.316.840.772"
+            },
+            {
+                "0": "Nợ phải trả không phân bổ",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "563.547.380.657"
+            },
+            {
+                "0": "Tổng nợ phải trả",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "660.864.221.429"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VSC_2022_separate_table_39",
+        "metadata": {
+            "ticker": "VSC",
+            "company_name": "CTCP Container Việt Nam",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "VSC_financial_statements_2022_separate"
+        },
+        "context_text": "43\n\n\n\n— — — — — — — — — — — — — — — — — — — — — — —\n\nCÔNG TY CÓ PHẦN CONTAINER VIỆT NAM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2022\n\n29 NỘ TIÊM TÀNG\n\nChi phí khởi phục và hoàn trả mặt bằng lô đất thuê\n\nTại ngày 31 tháng 12 năm 2022, Công ty đã ký các hợp đồng thuê đất và đã thực hiện xây dựng công trình và hạ tầng trên các lô đất thuê này. Các hợp đồng này quy định việc giải quyết tài sản gắn liền với đất sau khi kết thúc hợp đồng thuê đất được thực hiện theo quy định của pháp luật. Cần cứ theo các quy định hiện hành, Công ty có thể có nghĩa vụ trong tương lai liên quan đến việc thảo dở, di đời các tài sản của Công ty ra khởi khu đất và phục hồi khu đất về trạng thái ban đầu sau thời hạn thuê đất, và nghĩa vụ này chỉ có thể xác định được rõ ràng khi có thêm các sự kiện trong tương lai, ví dụ như các trao đổi bổ sung với bên cho thuê đất hay khi cơ quan chức năng ban hành bổ sung các văn bản pháp luật làm rõ nghĩa vụ của bên đi thuê khi hợp đồng thuê đất không có điều khoản hoàn nguyên. Do Công ty chưa đánh giá được khả năng về giảm sút lợi ích kinh tế từ nghĩa vụ tiềm tàng này, Công ty không ghi nhận khoản dự phòng chi phí hoàn nguyên mà thuyết minh đây là một khoản nợ tiềm tàng trong báo cáo tài chính riêng của Công ty cho kỳ kế toán kết thúc ngày 31 tháng 12 năm 2022.\n\n30 PHÂN LOẠI LẠI SỐ LIỆU SO SÁNH\n\nTại ngày 31 tháng 12 năm 2021, Công ty đã ghi nhận tăng vốn điều lệ với số tiền là 549.053.560.000 đồng (Thuyết minh 16), căn cứ vào số tiền thực nhận từ các cổ đông của Công ty tại thời điểm kết thúc năm tài chính. Tuy nhiên, theo yêu cầu của UBCKNN, đến hết ngày 31 tháng 12 năm 2021, do Công ty chưa thực hiện xong việc tăng vốn điều lệ theo nội dung đăng ký đã được Ủy Ban Chứng Khoản Nhà Nước (UBCKNN) phê duyệt trong Giấy Chứng nhận chào bán số 219/GCN-UBCK đề ngày 4 tháng 10 năm 2021 và Quyết định gia hạn Giấy chứng nhận chào bán số 925/QĐ-UBCK đề ngày 30 tháng 12 năm 2021 nên Công ty chỉ được ghi nhận phần vốn tăng này sau khi được UBCKNN chấp thuận về việc hoàn thành phát hành cổ phiếu theo Công văn số 479/UBCK-QLCB đề ngày 25 tháng 1 năm 2022. Do đó, khoản tiền đã thực nhận liên quan đến việc tăng vốn điều lệ này được phân loại lại như một khoản “phải trả ngắn hạn khác” thay vi ghi nhận vào “Vốn góp của chủ sở hữu” trên báo cáo tài chính riêng cho niên độ kết thúc ngày 31 tháng 12 năm 2021 của Công ty.\n\nBáo cáo tình hình tài chính riêng (trích dẫn):",
+        "dataframe": [
+            {
+                "0": "Mãsố",
+                "1": "Chỉ tiêu",
+                "2": "Tại ngày 31 tháng 12 năm 2021",
+                "3": "Tại ngày 31 tháng 12 năm 2021",
+                "4": "Tại ngày 31 tháng 12 năm 2021"
+            },
+            {
+                "0": "Mãsố",
+                "1": "Chỉ tiêu",
+                "2": "Số liệuđã báo cáoVND",
+                "3": "Điều chínhphân loại lạiVND",
+                "4": "Số liệu sau khiphân loại lạiVND"
+            },
+            {
+                "0": "300",
+                "1": "Nợ PHẢI TRẢ",
+                "2": "111.810.661.429",
+                "3": "549.053.560.000",
+                "4": "660.864.221.429"
+            },
+            {
+                "0": "310",
+                "1": "Nợ ngắn hạn",
+                "2": "110.568.202.929",
+                "3": "549.053.560.000",
+                "4": "659.621.762.929"
+            },
+            {
+                "0": "319",
+                "1": "Phải trả ngắn hạn khác",
+                "2": "91.793.032.787",
+                "3": "549.053.560.000",
+                "4": "640.846.592.787"
+            },
+            {
+                "0": "400",
+                "1": "VỐN CHỦ SỞ HỮU",
+                "2": "2.004.557.555.056",
+                "3": "(549.053.560.000)",
+                "4": "1.455.503.995.056"
+            },
+            {
+                "0": "410",
+                "1": "Vốn chủ sở hữu",
+                "2": "2.004.557.555.056",
+                "3": "(549.053.560.000)",
+                "4": "1.455.503.995.056"
+            },
+            {
+                "0": "411",
+                "1": "Vốn góp của chủ sở hữu",
+                "2": "1.100.281.540.000",
+                "3": "(549.053.560.000)",
+                "4": "551.227.980.000"
+            },
+            {
+                "0": "411a",
+                "1": "- Cổ phiếu phổ thông cóquyền biểu quyết",
+                "2": "1.100.281.540.000",
+                "3": "(549.053.560.000)",
+                "4": "551.227.980.000"
+            }
+        ]
+    }
+]

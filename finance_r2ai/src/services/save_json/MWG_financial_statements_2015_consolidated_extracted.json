@@ -1,0 +1,2637 @@
+[
+    {
+        "chunk_id": "MWG_2015_consolidated_table_1",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "Công ty Cổ phần Đầu tư Thế Giới Di Động\n\nBáo cáo tài chính hợp nhất\n\nNgày 31 tháng 12 năm 2015\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Đông\n\nTHÔNG TIN CHUNG\n\nCÔNG TY\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động (\"Công ty\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh số 4103012275 do Sở Kế hoạch và Đầu tư Tĩnh Bình Dương cấp ngày 16 tháng 1 năm 2009, và các Giấy Chứng nhận Đăng ký Kinh doanh điều chỉnh.\n\nCông ty có trụ sở chính tại 222 Yersin, Phường Phú Cường, Thị Xã Thủ Dầu Một, Tĩnh Bình Dương, Việt Nam và văn phòng hoạt động tại Tòa nhà E-Town 2, Lầu 6, Số 364 Công Hòa, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam.\n\nCông ty có hai công ty con là Công ty Cổ phần Thế Giới Di Động và Công ty Cổ phần Thương mại Thế Giới Điện Tử (“Nhóm Công ty”). Tại ngày 31 tháng 12 năm 2015, Công ty năm 99,95% phần vốn chủ sở hữu trong Công ty Cổ phần Thế Giới Di Động và 99,95% phần vốn chủ sở hữu trong Công ty Cổ phần Thương mại Thế Giới Điện Tử.\n\nLĩnh vực hoạt động chủ yếu trong năm hiện tại của Nhóm Công ty là mua bán, bảo hành, sửa chữa: thiết bị tin học, điện thoại, linh kiện và phụ kiện điện thoại; máy ảnh, camera, thiết bị kỹ thuật số, thiết bị điện tử, điện gia dụng và các phụ kiện liên quan. Bên cạnh đó, Nhóm công ty bắt đầu triển khai thử nghiệm các mặt hàng thực phẩm, đồ uống, thực phẩm từ thịt, thủy sản, rau quả.\n\nCổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh với mã chứng khoán \"MWG\" theo Quyết định niêm yết số 253/QĐ-SGDHCM do Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh cấp ngày 7 tháng 7 năm 2014.\n\nHỘI ĐỒNG QUẢN TRỊ\n\nCác thành viên Hội đồng Quản trị trong năm và vào ngày lập báo cáo tài chính hợp nhất này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Nguyễn Đức Tài",
+                "1": "Chủ tịch"
+            },
+            {
+                "0": "Ông Trần Lê Quân",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Điều Chính Hải Triều",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Chris Freund",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Thomas Lanyi",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Trần Kinh Doanh",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Robert Willet",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Đặng Minh Lương",
+                "1": "Thành viên"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_2",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "BAN KIÊM SOÁT\n\nCác thành viên Ban kiểm soát trong năm và vào ngày lập báo cáo tài chính hợp nhất này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Trần Huy Thanh Tùng",
+                "1": "Trường ban"
+            },
+            {
+                "0": "Ông Hoàng Xuân Thắng",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Bà Nguyễn Khánh Vân",
+                "1": "Thành viên"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_3",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "BAN GIÁM ĐÓC\n\nCác thành viên Ban Giám đốc trong năm và vào ngày lập báo cáo tài chính hợp nhất này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Nguyễn Đức Tài",
+                "1": "Tổng Giám đốc"
+            },
+            {
+                "0": "Ông Điều Chính Hải Triêu",
+                "1": "Giám đốc Ký thuật"
+            },
+            {
+                "0": "Ông Vũ Đăng Linh",
+                "1": "Giám đốc Tài chính"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_4",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "1\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Đông\n\nTHÔNG TIN CHUNG (tiếp theo)\n\nNGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT\n\nNgười đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo tài chính hợp nhất này là Ông Nguyễn Đức Tài.\n\nKIÊM TOÁN VIÊN\n\nCông ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.\n\n2\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nBÁO CÁO CỦA TỔNG GIÁM ĐỐC\n\nBan Giám đốc Công ty Cổ phần Đầu tư Thế Giới Di Đông (\"Công ty\") trình bày báo cáo này và báo cáo tài chính hợp nhất của Công ty và các công ty con (\"Nhóm Công ty\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015.\n\nTRÁCH NHIỆM CỦA BAN GIÁM ĐỐC ĐỐI VỚI BẢO CÁO TÀI CHÍNH HỢP NHẤT\n\nBan Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính hợp nhất cho từng năm tài chính phần ánh trung thực và hợp lý tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty trong năm. Trong quá trình lập báo cáo tài chính hợp nhất này, Ban Giám đốc cần phải:\n\nlựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;\n\n- thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;\n\nnếu rõ các chuẩn mục kế toán áp dụng cho Nhóm Công ty có được tuân thủ hay không và tất cả những sai lệch trong yếu so với những chuẩn mục này đã được trình bày và giải thích trong báo cáo tài chính hợp nhất; và\n\nlập báo cáo tài chính hợp nhất trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Nhóm Công ty sẽ tiếp tục hoạt động.\n\nBan Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phần ánh tình hình tài chính hợp nhất của Nhóm Công ty, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Nhóm Công ty và do đó phải thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lận và những vi phạm khác.\n\nBan Giám đốc cam kết đã tuân thủ những yêu cầu nếu trên trong việc lập báo cáo tài chính hợp nhất kèm theo.\n\nCÔNG BÓ CỦA BAN GIÁM ĐỐC\n\nTheo ý kiến của Ban Giám đốc, báo cáo tài chính hợp nhất kèm theo đã phần ánh trung thực và hợp lý tính hình tài chính hợp nhất của Nhóm Công ty vào ngày 31 tháng 12 năm 2015, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.\n\nThay mặt Ban Giám đốc:\n\nNgày 12 tháng 2 năm 2016\n\n3\n\n\n\n[Non-Text]\n\nEY\n\nBuilding a better working world\n\nErnst & Young Vietnam Limited Tel: +84 8 3824 5252\n28th Floor, Bitexco Financial Tower Fax: +84 8 3824 5250\n2 Hai Trieu Street, District 1 ey.com\nHo Chi Minh City, S.R. of Vietnam\n\nSố tham chiếu: 61110221/17666208-HN\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP\n\nKính gửi: Quý Cổ đông và Hội đồng Quản trị Công ty Cổ phần Đầu tư Thế Giới Di Động\n\nChúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Đầu tư Thế Giới Di Động (\"Công ty\") và các công ty con (\"Nhóm Công ty\") được lập ngày 12 tháng 2 năm 2016 và được trình bày từ trang 6 đến trang 33 bao gồm bảng cân đối kế toán hợp nhất vào ngày 31 tháng 12 năm 2015, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và các thuyết minh báo cáo tài chính hợp nhất kèm theo.\n\nTrách nhiệm của Ban Giám đốc\n\nBan Giám đốc chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Nhóm Công ty theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chứng tối là đưa ra ý kiến về báo cáo tài chính hợp nhất đưa trên kết quả của cuộc kiểm toán. Chủng tối đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chứng tối tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Nhóm Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên bảo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lập hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Nhóm Công ty liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Nhóm Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\nA member firm of Ernst & Young Global Limited\n\n\n\n-\n\nEY\n\nBuilding a better working world\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phần ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu, tỉnh hình tài chính hợp nhất của Nhóm Công ty tại ngày 31 tháng 12 năm 2015, cũng như kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.\n\nCông ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam\n\nLê Vũ Trường\n\nPhó Tổng Giám đốc\n\nGiấy CNDKHN kiểm toán\n\nSố: 1588-2013-004-1\n\nNguyễn Thanh Sang\n\nKiểm toán viên\n\nGiấy CNDKHN kiểm toán\n\nSô: 1541-2013-004-1\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 12 tháng 2 năm 2016\n\nA member firm of Ernst & Young Global Limited\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB01-DN/HN\n\nBẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT\n\nvào ngày 31 tháng 12 năm 2015\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "100",
+                "1": "A. TÀI SẢN NGẮN HẠN",
+                "2": "",
+                "3": "6.176.432.326.364",
+                "4": "2.837.686.622.393"
+            },
+            {
+                "0": "110",
+                "1": "I. Tiền và các khoản tương đương tiền",
+                "2": "4",
+                "3": "343.872.968.705",
+                "4": "212.920.620.191"
+            },
+            {
+                "0": "111",
+                "1": "1. Tiền",
+                "2": "",
+                "3": "341.111.726.751",
+                "4": "210.211.076.663"
+            },
+            {
+                "0": "112",
+                "1": "2. Các khoản tương đương tiền",
+                "2": "",
+                "3": "2.761.241.954",
+                "4": "2.709.543.528"
+            },
+            {
+                "0": "130",
+                "1": "II. Các khoản phải thu ngắn hạn",
+                "2": "",
+                "3": "636.322.979.955",
+                "4": "301.952.738.787"
+            },
+            {
+                "0": "131",
+                "1": "1. Phải thu ngắn hạn của khách hàng",
+                "2": "",
+                "3": "76.906.740.739",
+                "4": "44.481.521.771"
+            },
+            {
+                "0": "132",
+                "1": "2. Trả trước cho người bán ngắn hạn",
+                "2": "",
+                "3": "218.453.419.175",
+                "4": "90.846.398.087"
+            },
+            {
+                "0": "136",
+                "1": "3. Phải thu ngắn hạn khác",
+                "2": "5",
+                "3": "340.962.820.041",
+                "4": "166.624.818.929"
+            },
+            {
+                "0": "140",
+                "1": "III. Hàng tồn kho",
+                "2": "6",
+                "3": "4.932.684.842.299",
+                "4": "2.195.306.348.135"
+            },
+            {
+                "0": "141",
+                "1": "1. Hàng tồn kho",
+                "2": "",
+                "3": "5.009.708.492.628",
+                "4": "2.253.516.929.935"
+            },
+            {
+                "0": "149",
+                "1": "2. Dự phòng giảm giả hàng tồn kho",
+                "2": "",
+                "3": "(77.023.650.329)",
+                "4": "(58.210.581.800)"
+            },
+            {
+                "0": "150",
+                "1": "IV. Tài sản ngắn hạn khác",
+                "2": "",
+                "3": "263.551.535.405",
+                "4": "127.506.915.280"
+            },
+            {
+                "0": "151",
+                "1": "1. Chi phí trả trước ngắn hạn",
+                "2": "7",
+                "3": "109.626.068.028",
+                "4": "77.713.718.762"
+            },
+            {
+                "0": "152",
+                "1": "2. Thuế GTGT được khấu trừ",
+                "2": "",
+                "3": "153.922.967.377",
+                "4": "49.618.196.518"
+            },
+            {
+                "0": "153",
+                "1": "3. Thuế và các khoản khác phải thu Nhà nước",
+                "2": "",
+                "3": "2.500.000",
+                "4": "175.000.000"
+            },
+            {
+                "0": "200",
+                "1": "B. TÀI SẢN DÀI HẠN",
+                "2": "",
+                "3": "1.089.329.907.510",
+                "4": "569.512.868.791"
+            },
+            {
+                "0": "210",
+                "1": "I. Phải thu dài hạn",
+                "2": "",
+                "3": "112.464.049.268",
+                "4": "74.281.249.525"
+            },
+            {
+                "0": "216",
+                "1": "1. Phải thu dài hạn khác",
+                "2": "8",
+                "3": "112.464.049.268",
+                "4": "74.281.249.525"
+            },
+            {
+                "0": "220",
+                "1": "II. Tài sản cố định",
+                "2": "",
+                "3": "849.146.989.686",
+                "4": "411.358.537.322"
+            },
+            {
+                "0": "221",
+                "1": "1. Tài sản cố định hữu hình",
+                "2": "9",
+                "3": "826.925.406.043",
+                "4": "388.331.224.087"
+            },
+            {
+                "0": "222",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "1.182.769.513.198",
+                "4": "558.482.010.906"
+            },
+            {
+                "0": "223",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(355.844.107.155)",
+                "4": "(170.150.786.819)"
+            },
+            {
+                "0": "227",
+                "1": "2. Tài sản cố định vô hình",
+                "2": "10",
+                "3": "22.221.583.643",
+                "4": "23.027.313.235"
+            },
+            {
+                "0": "228",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "26.203.355.944",
+                "4": "26.151.751.644"
+            },
+            {
+                "0": "229",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "",
+                "3": "(3.981.772.301)",
+                "4": "(3.124.438.409)"
+            },
+            {
+                "0": "240",
+                "1": "III. Tài sản dở dang dài hạn",
+                "2": "",
+                "3": "42.854.581.814",
+                "4": "23.060.724.276"
+            },
+            {
+                "0": "242",
+                "1": "1. Chi phí xây dựng cơ bản dở dang",
+                "2": "11",
+                "3": "42.854.581.814",
+                "4": "23.060.724.276"
+            },
+            {
+                "0": "260",
+                "1": "IV. Tài sản dài hạn khác",
+                "2": "",
+                "3": "84.864.286.742",
+                "4": "60.812.357.668"
+            },
+            {
+                "0": "261",
+                "1": "1. Chi phí trả trước dài hạn",
+                "2": "12",
+                "3": "56.933.695.976",
+                "4": "25.459.480.409"
+            },
+            {
+                "0": "262",
+                "1": "2. Tài sản thuế thu nhập hoãn lại",
+                "2": "23.3",
+                "3": "15.404.730.066",
+                "4": "12.806.327.995"
+            },
+            {
+                "0": "269",
+                "1": "3. Lợi thể thương mại",
+                "2": "13",
+                "3": "12.525.860.700",
+                "4": "22.546.549.264"
+            },
+            {
+                "0": "270",
+                "1": "TỔNG CỘNG TÀI SẢN",
+                "2": "",
+                "3": "7.265.762.233.874",
+                "4": "3.407.199.491.184"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_5",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "6\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Đông\n\nB01-DN/HN\n\nBẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2015\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "NGUÔN VÔN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "300",
+                "1": "A. NỘ PHẢI TRẢ",
+                "2": "",
+                "3": "4.782.209.545.548",
+                "4": "1.923.190.326.673"
+            },
+            {
+                "0": "310",
+                "1": "I. Nợ ngắn hạn",
+                "2": "",
+                "3": "4.782.209.545.548",
+                "4": "1.923.190.326.673"
+            },
+            {
+                "0": "311",
+                "1": "1. Phải trả người bán ngắn hạn",
+                "2": "14",
+                "3": "1.971.271.636.818",
+                "4": "981.794.284.232"
+            },
+            {
+                "0": "312",
+                "1": "2. Người mua trả tiền trước ngắn hạn",
+                "2": "",
+                "3": "19.297.585.840",
+                "4": "8.353.792.068"
+            },
+            {
+                "0": "313",
+                "1": "3. Thuế và các khoản phải nộp Nhà nước",
+                "2": "15",
+                "3": "174.477.742.839",
+                "4": "57.948.259.321"
+            },
+            {
+                "0": "314",
+                "1": "4. Phải trả người lao động",
+                "2": "",
+                "3": "52.487.558.084",
+                "4": "344.502.084"
+            },
+            {
+                "0": "315",
+                "1": "5. Chi phí phải trả ngắn hạn",
+                "2": "16",
+                "3": "307.223.642.031",
+                "4": "191.807.973.852"
+            },
+            {
+                "0": "319",
+                "1": "6. Phải trả ngắn hạn khác",
+                "2": "17",
+                "3": "175.362.240.764",
+                "4": "48.482.430.642"
+            },
+            {
+                "0": "320",
+                "1": "7. Vay ngắn hạn",
+                "2": "18",
+                "3": "2.052.945.972.681",
+                "4": "618.690.305.273"
+            },
+            {
+                "0": "321",
+                "1": "8. Dự phòng phải trả ngắn hạn",
+                "2": "",
+                "3": "24.193.166.491",
+                "4": "10.818.779.201"
+            },
+            {
+                "0": "322",
+                "1": "9. Quỹ khen thưởng, phúc lợi",
+                "2": "",
+                "3": "4.950.000.000",
+                "4": "4.950.000.000"
+            },
+            {
+                "0": "400",
+                "1": "B. VỐN CHỦ SỞ HỮU",
+                "2": "",
+                "3": "2.483.552.688.326",
+                "4": "1.484.009.164.511"
+            },
+            {
+                "0": "410",
+                "1": "I. Vốn chủ sở hữu",
+                "2": "",
+                "3": "2.483.552.688.326",
+                "4": "1.484.009.164.511"
+            },
+            {
+                "0": "411",
+                "1": "1. Vốn cổ phần",
+                "2": "19.1",
+                "3": "1.468.889.740.000",
+                "4": "1.119.567.790.000"
+            },
+            {
+                "0": "411a",
+                "1": "- Cổ phiếu có quyền biểu quyết",
+                "2": "",
+                "3": "1.468.889.740.000",
+                "4": "1.119.567.790.000"
+            },
+            {
+                "0": "412",
+                "1": "2. Thắng dư vốn cổ phần",
+                "2": "19.1",
+                "3": "36.717.698.286",
+                "4": "36.717.698.286"
+            },
+            {
+                "0": "414",
+                "1": "3. Vốn khác",
+                "2": "19.1",
+                "3": "1.130.494.084",
+                "4": "1.130.494.084"
+            },
+            {
+                "0": "415",
+                "1": "4. Cổ phiếu quỹ",
+                "2": "19.1",
+                "3": "(2.454.294.500)",
+                "4": "(300.394.500)"
+            },
+            {
+                "0": "421",
+                "1": "5. Lợi nhuận sau thuế chưa phân phối",
+                "2": "19.1",
+                "3": "977.630.195.800",
+                "4": "317.840.559.767"
+            },
+            {
+                "0": "421a",
+                "1": "- (Lỗ lũy kế) lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước",
+                "2": "",
+                "3": "(31.481.390.233)",
+                "4": "51.744.017.935"
+            },
+            {
+                "0": "421b",
+                "1": "- Lợi nhuận sau thuế chưa phân phối năm này",
+                "2": "",
+                "3": "1.009.111.586.033",
+                "4": "266.096.541.832"
+            },
+            {
+                "0": "429",
+                "1": "6. Lợi ích cổ đông không kiểm soát",
+                "2": "",
+                "3": "1.638.854.656",
+                "4": "9.053.016.874"
+            },
+            {
+                "0": "440",
+                "1": "TỔNG CỘNG NGUỒN VỐN",
+                "2": "",
+                "3": "7.265.762.233.874",
+                "4": "3.407.199.491.184"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_6",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "Lý Trần Kim Ngân\n\nNgười lập\n\nVũ Đăng Linh\n\nGiám đốc Tài chính\n\nNguyễn Đức Tài\n\nTổng Giám đốc\n\nNgày 12 tháng 2 năm 2016\n\n7\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB02-DN/HN\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "01",
+                "1": "1. Doanh thu bán hàng và cung cấp dịch vụ",
+                "2": "20.1",
+                "3": "25.388.072.018.730",
+                "4": "15.836.649.248.254"
+            },
+            {
+                "0": "02",
+                "1": "2. Các khoản giảm trừ doanh thu",
+                "2": "20.1",
+                "3": "(135.338.939.486)",
+                "4": "(79.923.391.578)"
+            },
+            {
+                "0": "10",
+                "1": "3. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "20.1",
+                "3": "25.252.733.079.244",
+                "4": "15.756.725.856.676"
+            },
+            {
+                "0": "11",
+                "1": "4. Giá vốn hàng bán và dịch vụ cung cấp",
+                "2": "21",
+                "3": "(21.330.302.185.370)",
+                "4": "(13.360.606.457.365)"
+            },
+            {
+                "0": "20",
+                "1": "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "3.922.430.893.874",
+                "4": "2.396.119.399.311"
+            },
+            {
+                "0": "21",
+                "1": "6. Doanh thu hoạt động tài chính",
+                "2": "20.2",
+                "3": "80.985.820.413",
+                "4": "71.335.314.202"
+            },
+            {
+                "0": "22",
+                "1": "7. Chi phí tài chính Trong đó: Chi phí lãi vay",
+                "2": "22",
+                "3": "(40.666.093.756) (38.893.852.014)",
+                "4": "(21.291.413.996) (21.261.415.761)"
+            },
+            {
+                "0": "23",
+                "1": "7. Chi phí tài chính Trong đó: Chi phí lãi vay",
+                "2": "22",
+                "3": "(40.666.093.756) (38.893.852.014)",
+                "4": "(21.291.413.996) (21.261.415.761)"
+            },
+            {
+                "0": "25",
+                "1": "8. Chi phí bán hàng",
+                "2": "21",
+                "3": "(2.351.094.719.997)",
+                "4": "(1.349.301.070.370)"
+            },
+            {
+                "0": "26",
+                "1": "9. Chi phí quản lý doanh nghiệp",
+                "2": "21",
+                "3": "(249.315.306.535)",
+                "4": "(240.543.267.438)"
+            },
+            {
+                "0": "30",
+                "1": "10. Lợi nhuận thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "1.362.340.593.999",
+                "4": "856.318.961.709"
+            },
+            {
+                "0": "31",
+                "1": "11. Thu nhập khác",
+                "2": "",
+                "3": "25.192.750.122",
+                "4": "15.118.039.591"
+            },
+            {
+                "0": "32",
+                "1": "12. Chi phí khác",
+                "2": "",
+                "3": "(1.749.556.427)",
+                "4": "(3.239.558.206)"
+            },
+            {
+                "0": "40",
+                "1": "13. Lợi nhuận khác",
+                "2": "",
+                "3": "23.443.193.695",
+                "4": "11.878.481.385"
+            },
+            {
+                "0": "50",
+                "1": "14. Tổng lợi nhuận kế toán trước thuế",
+                "2": "",
+                "3": "1.385.783.787.694",
+                "4": "868.197.443.094"
+            },
+            {
+                "0": "51",
+                "1": "15. Chi phí thuế TNDN hiện hành",
+                "2": "23.2",
+                "3": "(312.610.960.322)",
+                "4": "(203.799.232.655)"
+            },
+            {
+                "0": "52",
+                "1": "16. Thu nhập thuế TNDN hoãn lại",
+                "2": "23.3",
+                "3": "2.598.402.071",
+                "4": "9.346.006.165"
+            },
+            {
+                "0": "60",
+                "1": "17. Lợi nhuận sau thuế TNDN",
+                "2": "",
+                "3": "1.075.771.229.443",
+                "4": "673.744.216.604"
+            },
+            {
+                "0": "61",
+                "1": "18. Lợi nhuận sau thuế của công ty mẹ",
+                "2": "",
+                "3": "1.071.893.519.399",
+                "4": "668.106.031.832"
+            },
+            {
+                "0": "62",
+                "1": "19. Lợi nhuận sau thuế của cổ đông không kiểm soát",
+                "2": "",
+                "3": "3.877.710.044",
+                "4": "5.638.184.772"
+            },
+            {
+                "0": "70",
+                "1": "20. Lãi cơ bản trên cổ phiếu",
+                "2": "24",
+                "3": "7.305",
+                "4": "4.553"
+            },
+            {
+                "0": "71",
+                "1": "21. Lãi suy giảm trên cổ phiếu",
+                "2": "24",
+                "3": "7.305",
+                "4": "4.553"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_7",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "Lý Trần Kim Ngân\n\nNgười lập\n\nVũ Đăng Linh\n\nGiám đốc Tài chính\n\nNguyên Đức Tai\n\nTổng Giám đốc\n\nNgày 12 tháng 2 năm 2016\n\n8\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Đông\n\nB03-DN/HN\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "",
+                "1": "I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "01",
+                "1": "Lợi nhuận trước thuế Điều chỉnh cho các khoản:",
+                "2": "",
+                "3": "1.385.783.787.694",
+                "4": "868.197.443.094"
+            },
+            {
+                "0": "02",
+                "1": "Khấu hao và hao mòn tài sản cố định (bao gồm phân bổ lợi thế thương mại)",
+                "2": "9, 10, 13",
+                "3": "197.056.011.824",
+                "4": "116.388.450.156"
+            },
+            {
+                "0": "03",
+                "1": "Dự phòng",
+                "2": "",
+                "3": "32.187.455.819",
+                "4": "50.319.643.793"
+            },
+            {
+                "0": "04",
+                "1": "Lãi chênh lệch tỷ giá hối đoái",
+                "2": "",
+                "3": "(138.916.487)",
+                "4": "-"
+            },
+            {
+                "0": "05",
+                "1": "Lãi lỗ từ hoạt động đầu tư",
+                "2": "",
+                "3": "(856.415.030)",
+                "4": "(4.921.557.749)"
+            },
+            {
+                "0": "06",
+                "1": "Chi phí lãi vay",
+                "2": "22",
+                "3": "38.893.852.014",
+                "4": "21.261.415.761"
+            },
+            {
+                "0": "08",
+                "1": "Lợi nhuận từ hoạt động kinh doanh trước thay đối vốn lưu động",
+                "2": "",
+                "3": "1.652.925.775.834",
+                "4": "1.051.245.395.055"
+            },
+            {
+                "0": "09",
+                "1": "Tăng các khoản phải thu",
+                "2": "",
+                "3": "(476.685.311.770)",
+                "4": "(69.681.219.038)"
+            },
+            {
+                "0": "10",
+                "1": "Tăng hàng tồn kho",
+                "2": "",
+                "3": "(2.756.191.562.693)",
+                "4": "(948.838.589.256)"
+            },
+            {
+                "0": "11",
+                "1": "Tăng các khoản phải trả",
+                "2": "",
+                "3": "1.235.357.266.488",
+                "4": "415.275.921.603"
+            },
+            {
+                "0": "12",
+                "1": "Tăng chi phí trả trước",
+                "2": "",
+                "3": "(63.386.564.833)",
+                "4": "(105.661.480.544)"
+            },
+            {
+                "0": "14",
+                "1": "Tiền lãi vay đã trả",
+                "2": "",
+                "3": "(37.442.521.379)",
+                "4": "(21.122.048.262)"
+            },
+            {
+                "0": "15",
+                "1": "Thuế thu nhập doanh nghiệp đã nộp",
+                "2": "23.2",
+                "3": "(196.048.457.727)",
+                "4": "(221.553.246.030)"
+            },
+            {
+                "0": "20",
+                "1": "Lưu chuyển tiền thuần (sử dụng vào) từ hoạt động kinh doanh",
+                "2": "",
+                "3": "(641.471.376.080)",
+                "4": "99.664.733.508"
+            },
+            {
+                "0": "",
+                "1": "II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "21",
+                "1": "Tiền chi để mua sắm tài sản cố định",
+                "2": "",
+                "3": "(586.517.897.472)",
+                "4": "(266.396.524.598)"
+            },
+            {
+                "0": "22",
+                "1": "Tiền thu do thanh lý tài sản cố định",
+                "2": "",
+                "3": "-",
+                "4": "1.447.928.974"
+            },
+            {
+                "0": "25",
+                "1": "Tiền chi để mua một phần vốn chủ sở hữu trong công ty con",
+                "2": "",
+                "3": "(72.239.580.000)",
+                "4": "(50.000.000.000)"
+            },
+            {
+                "0": "27",
+                "1": "Lãi tiền gửi",
+                "2": "",
+                "3": "913.660.286",
+                "4": "6.723.644.862"
+            },
+            {
+                "0": "30",
+                "1": "Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tư",
+                "2": "",
+                "3": "(657.843.817.186)",
+                "4": "(308.224.950.762)"
+            },
+            {
+                "0": "",
+                "1": "III. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "31",
+                "1": "Phát hành cổ phiếu",
+                "2": "",
+                "3": "-",
+                "4": "11.866.630.000"
+            },
+            {
+                "0": "",
+                "1": "Nhận góp vốn của cổ đông thiểu số",
+                "2": "",
+                "3": "-",
+                "4": "2.297.033.481"
+            },
+            {
+                "0": "32",
+                "1": "Mua lại cổ phiếu",
+                "2": "",
+                "3": "(2.153.900.000)",
+                "4": "(300.394.500)"
+            },
+            {
+                "0": "33",
+                "1": "Tiền thu từ đi vay",
+                "2": "",
+                "3": "8.129.261.915.021",
+                "4": "3.786.869.312.765"
+            },
+            {
+                "0": "34",
+                "1": "Tiền chi trả nợ gốc vay",
+                "2": "",
+                "3": "(6.695.006.247.613)",
+                "4": "(3.681.368.000.939)"
+            },
+            {
+                "0": "36",
+                "1": "Cổ tức đã trả",
+                "2": "",
+                "3": "(1.834.225.628)",
+                "4": "(2.617.511.830)"
+            },
+            {
+                "0": "40",
+                "1": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                "2": "",
+                "3": "1.430.267.541.780",
+                "4": "116.747.068.977"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_8",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "9\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB03-DN/HN\n\nBÁO CÁO LƯU CHUYÊN TIÊN TỆ HỢP NHẤT (tiếp theo)\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "50",
+                "1": "Tăng (giảm) tiền và tương đương tiền thuần trong năm",
+                "2": "",
+                "3": "130.952.348.514",
+                "4": "(91.813.148.277)"
+            },
+            {
+                "0": "60",
+                "1": "Tiền và tương đương tiền đầu năm",
+                "2": "",
+                "3": "212.920.620.191",
+                "4": "304.733.768.468"
+            },
+            {
+                "0": "70",
+                "1": "Tiền và tương đương tiền cuối năm",
+                "2": "4",
+                "3": "343.872.968.705",
+                "4": "212.920.620.191"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_9",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "Lý Trần Kim Ngân\n\nNgười lập\n\nVũ Đăng Linh\n\nGiám đốc Tài chính\n\nNguyên Đức Tải\n\nTổng Giám đốc\n\nNgày 12 tháng 2 năm 2016\n\n10\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n1. THÔNG TIN CÔNG TY\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động (\"Công ty\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh số 4103012275 do Sở Kế hoạch và Đầu tư Tĩnh Bình Dương cấp ngày 16 tháng 1 năm 2009, và các Giấy Chứng nhận Đăng ký Kinh doanh điều chỉnh.\n\nCông ty có trụ sở chính tại 222 Yersin, Phường Phú Cường, Thị Xã Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam và văn phòng hoạt động tại Tòa nhà E-Town 2, Lầu 6, Số 364 Cộng Hòa, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam.\n\nLĩnh vực hoạt động chủ yếu trong năm hiện tại của Công ty và các công ty con (\"Nhóm Công ty\") là mua bán, bảo hành, sửa chữa: thiết bị tin học, điện thoại, linh kiện và phụ kiện điện thoại; máy ảnh, camera, thiết bị kỹ thuật số, thiết bị điện tử, điện gia dung và các phụ kiện liên quan. Bên cạnh đó, Nhóm công ty bất đầu triển khai thử nghiệm các mặt hàng thực phẩm, đồ uống, thực phẩm từ thịt, thủy sản, rau quả.\n\nCổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh với mã chứng khoán \"MWG\" theo Quyết định niêm yết số 253/QĐ-SGDHCM do Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh cấp ngày 7 tháng 7 năm 2014.\n\nSố lượng nhân viên của Nhóm Công ty tại ngày 31 tháng 12 năm 2015 là 15.784 (ngày 31 tháng 12 năm 2014: 9.503).\n\nCơ cấu tổ chức\n\nCông ty có 2 công ty con đã được hợp nhất vào báo cáo tài chính hợp nhất của Công ty:\n\n- Công ty Cổ phần Thế Giới Di Đông (\"TGĐE\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh số 4103005841 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 2 tháng 1 năm 2007. TGĐE có trụ sở chính tại 130 Trần Quang Khải, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Việt Nam. Tại ngày 31 tháng 12 năm 2015, Công ty năm 99,95% phần vốn chủ sở hữu trong công ty con này.\n\n- Công ty Cổ phần Thương mại Thế Giới Điện Tử (\"TGD\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh số 0310471746 do Sở Kế hoạch và Đầu tư Thành Phó Hồ Chí Minh cấp ngày 23 tháng 11 năm 2010. TGD có trụ sở chính tại 130 Trần Quang Khải, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Việt Nam. Tại ngày 31 tháng 12 năm 2015, Công ty năm 99,95% phần vốn chủ sở hữu trong công ty con này.\n\n2. CƠ SỞ TRÌNH BÀY\n\n2.1 Chuẩn mực và Chế độ kế toán áp dụng\n\nBáo cáo tài chính hợp nhất của Công ty và các công ty con (\"Nhóm Công ty\") được trình bày bằng đồng Việt Nam (\"VNB\") phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam do Bộ Tài chính ban hành theo:\n\n> Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bớn Chuẩn mực kế toán Việt Nam (Đợt 1);\n\n▶ Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 2);\n\nQuyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 3);\n\n▶ Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 4); và Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bón Chuẩn mực kế toán Việt Nam (Đợt 5).\n\n11\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n2. CO' SÔ TRÌNH BÀY (tiếp theo)\n\n2.1 Chuẩn mực và Chế độ kế toán áp dụng (tiếp theo)\n\nTheo đó, báo cáo tài chính hợp nhất được trình bày kèm theo và việc sử dụng báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.\n\n2.2 Hình thức số kế toán áp dụng\n\nHình thức số kế toán được áp dụng của Nhóm công ty là Nhật ký chung.\n\n2.3 Ký ké toán năm\n\nKỳ kế toán năm của Nhóm công ty áp dụng cho việc lập báo cáo tài chính hợp nhất bắt đầu từ ngày 1 tháng 1 và kết thúc ngày 31 tháng 12.\n\n2.4 Đơn vị tiền tệ kế toán\n\nBáo cáo tài chính hợp nhất được lập bằng đơn vị tiền tệ sử dụng trong kế toán của Công ty là VND.\n\n2.5 Co sở hợp nhất\n\nBáo cáo tài chính hợp nhất bao gồm các báo cáo tài chính của Công ty và các công ty con (\"Nhóm Công ty\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015.\n\nCác công ty con được hợp nhất toàn bộ kể từ ngày mua, là ngày Nhóm Công ty thực sự nấm quyền kiểm soát công ty con, và tiếp tục được hợp nhất cho đến ngày Nhóm Công ty thực sự chấm dứt quyền kiểm soát đối với công ty con.\n\nCác báo cáo tài chính của Công ty và các công ty con sử dụng để hợp nhất được lập cho cùng một năm tài chính, và được áp dụng các chính sách kế toán một cách thống nhất.\n\nSố dư các tài khoản trên bằng cân đối kế toán giữa các đơn vị trong cùng Nhóm Công ty, các khoản thu nhập và chi phí, các khoản lãi hoặc lỗ nội bộ chưa thực hiện phát sinh từ các giao dịch này được loại trừ hoàn toàn.\n\nLợi ích của các cổ đông không kiểm soát là phần lợi ích trong lãi, hoặc lỗ, và trong tài sản thuần của công ty con không được nằm giữ bởi các cổ đông Công ty và được trình bày riêng biết trên báo cáo kết quả hoạt động kinh doanh hợp nhất và được trình bày riêng biết với phần vốn chủ sở hữu của các cổ đông của Công ty trong phần vốn chủ sở hữu trên bằng cân đối kế toán hợp nhất.\n\nẢnh hưởng do các thay đổi trong tỷ lệ sở hữu công ty con mà không làm mất quyền kiểm soát được hạch toán vào lợi nhuận lũy kế chưa phân phối.\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU\n\n3.1 Thay đổi trong chính sách kế toán và thuyết minh\n\nCác chính sách kế toán của Nhóm Công ty sử dụng để lập báo cáo tài chính hợp nhất được áp dụng nhất quán với với các chính sách đã được sử dụng để lập báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2014, ngoại trừ các thay đổi về chính sách kế toán liên quan đến các nghiệp vụ sau:\n\n3.1.1 Thông tư số 200/2014/TT-BTC hương dẫn Chế độ kế toán doanh nghiệp\n\nNgày 22 tháng 12 năm 2014, Bộ Tài chính đã ban hành Thông tư số 200/2014/TT-BTC hướng dẫn Chế độ kế toán doanh nghiệp (\"Thông tư 200\") thay thế Quyết định số 15/2006/QĐ-BTC ngày 20 tháng 3 năm 2006 và Thông tư số 244/2009/TT-BTC ngày 31 tháng 12 năm 2009 của Bộ Tài chính. Thông tư 200 có hiệu lực cho năm tài chính bắt đầu từ hoặc sau ngày 1 tháng 1 năm 2015.\n\n12\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.1 Thay đổi trong chính sách kế toán và thuyết minh (tiếp theo)\n\n3.1.1 Thông tư số 200/2014/TT-BTC hướng dẫn Chế độ kế toán doanh nghiệp (tiếp theo)\n\nNhóm Công ty áp dụng các thay đổi về chính sách kế toán theo quy định tại Thông tư 200 và có ảnh hưởng tối báo cáo tài chính hợp nhất của Nhóm Công ty trên cơ sở phi hồi tố do Thông tư 200 không yêu cầu áp dụng hồi tố đối với các thay đổi này. Nhóm Công ty cũng đã báo cáo lại số liệu tương ứng của năm trước đối với một số chỉ tiêu cho phù hợp với cách trình bày theo Thông tư 200 trong báo cáo tài chính hợp nhất năm nay như đã trình bày tại Thuyết minh số 29.\n\n3.1.2 Thông tư số 202/2014/TT-BTC hướng dẫn phương pháp lập và trình bày báo cáo tài chính hợp nhất\n\nNgày 22 tháng 12 năm 2014, Bộ Tài chính đã ban hành Thông tư số 202/2014/TT-BTC hướng dẫn phương pháp lập và trình bày báo cáo tài chính hợp nhất (\"Thông tư 202\") thay thế phần XIII - Thông tư số 161/2007/TT-BTC ngày 31 tháng 12 năm 2007, và có hiệu lực áp dụng cho việc lập và trình bày báo cáo tài chính hợp nhất cho năm tài chính bắt đầu từ hoặc sau ngày 1 tháng 1 năm 2015.\n\nNhóm Công ty áp dụng các thay đổi về kế toán theo quy định tại Thông tư 202 trên cơ sở phi hồi tố do Thông tư 202 không yêu cầu áp dụng hồi tố đối với các thay đổi này.\n\n3.2 Tiền và các khoản tương đương tiền\n\nTiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, các khoản đầu tư ngắn hạn có thời hạn gốc không quả ba tháng, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.\n\n3.3 Các khoản phải thu\n\nCác khoản phải thu được trình bày trên báo cáo tài chính hợp nhất theo giá trị ghi số các khoản phải thu từ khách hàng và phải thu khác sau khi cắn trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.\n\nDự phòng nợ phải thu khó đòi thể hiện phần giá trị dự kiến bị tổn thất do các khoản không được khách hàng thanh toán phát sinh đối với số dư các khoản phải thu tại ngày kết thúc ký kế toán năm. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trong năm trên báo cáo kết quả hoạt động kinh doanh hợp nhất.\n\n3.4 Hàng tồn kho\n\nHàng tồn kho được ghi nhận theo giá thấp hơn giữa giá gốc bao gồm chi phí mua và các chi phí liên quan trực tiếp để đưa mỗi sản phẩm đến vị trí, điều kiện hiện tại và giá trị thuần có thể thực hiện được.\n\nGiá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.\n\nNhóm Công ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho, với giá trị được xác định như sau:\n\nĐiện thoại di động và\n\nmáy tính xách tay - giá vốn thực tế theo phương pháp thực tế đích danh\n\nThiết bị kỹ thuật số điện tử - giá vốn thực tế theo phương pháp thực tế đích danh\n\nPhụ kiện - giá vốn thực tế theo phương pháp bình quân gia quyền\n\nThiết bị gia dụng - giá vốn thực tế theo phương pháp bình quân gia quyền\n\nKhác - giá vốn thực tế theo phương pháp bình quân gia quyền.\n\n13\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n3. TÓM TÁT CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (tiếp theo)\n\n3.4 Hàng tồn kho (tiếp theo)\n\nDự phòng giảm giá hàng tồn kho\n\nDự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị (do giảm giá, hư hỏng, kém phẩm chất, lỗi thời v.v.) có thể xảy ra đối với hàng hoá tồn kho thuộc quyền sở hữu của Nhóm Công ty dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc ký kế toán năm.\n\nSố tăng hoặc giảm khoản dự phòng giảm giá hàng tồn kho được hạch toán vào giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh hợp nhất.\n\n3.5 Chi phí trả trước\n\nChi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bằng cân đối kế toán hợp nhất và được phân bổ trong khoảng thời gian trả trước của chi phí tương ứng với các lợi ích kinh tế được tạo ra từ các chi phí này.\n\n3.6 Tài sản cố định hữu hình\n\nTài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị khấu hao lũy kê.\n\nNguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào hoạt động như dự kiến.\n\nCác chỉ phí mua sắm, nâng cấp và đổi mới tài sản cố định được ghi tăng nguyên giá của tài sản và chỉ phí bảo trì, sửa chữa được hạch toán vào kết quả hoạt động kinh doanh hợp nhất khi phát sinh.\n\nKhi tài sản hữu hình được bán hay thanh lý, nguyên giá và giá trị khấu hao lũy kế được xóa số và các khoản lãi lỗ phát sinh do thanh lý tài sản được hạch toán vào kết quả hoạt động kinh doanh hợp nhất.\n\n3.7 Tài sản cố định vô hình\n\nTài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.\n\nNguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.\n\nCác chi phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chi phí khác được hạch toán vào kết quả hoạt động kinh doanh hợp nhất khi phát sinh.\n\nKhi tài sản cố định vô hình được bán hay thanh lý, nguyên giá và giá trị hao mòn lũy kế được xóa số và các khoản lãi lỗ phát sinh do thanh lý tài sản được hạch toán vào kết quả hoạt động kinh doanh hợp nhất.\n\n3.8 Kháu hao và hao mòn\n\nKhẩu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp khấu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:",
+        "dataframe": [
+            {
+                "0": "Nhà cửa, vật kiến trúc",
+                "1": "5 năm"
+            },
+            {
+                "0": "Phần mềm máy tính",
+                "1": "4 năm"
+            },
+            {
+                "0": "Phương tiện vấn tải",
+                "1": "6 năm"
+            },
+            {
+                "0": "Thiết bị văn phòng",
+                "1": "3 - 8 năm"
+            },
+            {
+                "0": "Lợi thế thương mại",
+                "1": "3 - 10 năm"
+            },
+            {
+                "0": "Quyền sử dụng đất",
+                "1": "vô thời hạn"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_10",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "3.9 Chi phí di vay\n\nChi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Nhóm Công ty. Chi phí đi vay được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất trong năm khi phát sinh.\n\n14\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.10 Các khoản phải trả và chi phí trích trước\n\nCác khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Nhóm công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.\n\n3.11 Trợ cấp thời việc phải trả\n\nTrợ cấp thời việc cho nhân viên được trích trước vào cuối mỗi kỳ báo cáo cho toàn bộ người lao động đã làm việc tại Nhóm Công ty được hơn 12 tháng cho đến ngày 31 tháng 12 năm 2008 theo tỷ lệ một nữa mức lương bình quân tháng cho mỗi nằm làm việc tính đến ngày 31 tháng 12 năm 2008 theo Luật Lao động, Luật bảo hiểm xã hội và các văn bản hướng dẫn có liên quan. Mức lương bình quân tháng để tính trợ cấp thời việc sẽ được điều chỉnh vào cuối mỗi kỳ báo cáo theo mức lương bình quân của sâu tháng gần nhất tính đến thời điểm lập báo cáo. Phần tăng lên trong khoản trích trước này sẽ được ghi nhận vào báo cáo kết quả kinh doanh hợp nhất.\n\nKhoản trợ cấp thời việc trích trước này được sử dụng để trả trợ cấp thời việc cho người lao động khi chấm dứt hợp đồng lao động theo Điều 48 của Bộ luật Lao động.\n\n3.12 Các nghiệp vụ bằng ngoại tệ\n\nCác nghiệp vụ phát sinh bằng các đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Nhóm công ty VND được hạch toán theo tỷ giá giao dịch thực tế vào ngày phát sinh nghiệp vụ theo nguyên tắc sau:\n\n- Nghiệp vụ làm phát sinh các khoản phải thu được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Nhóm Công ty chỉ định khách hàng thanh toán.\n\n- Nghiệp vụ làm phát sinh các khoản phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Nhóm Công ty dự kiến giao dịch.\n\n- Giao dịch mua sắm tài sản hoặc các khoản chi phí được thanh toán ngay bằng ngoại tệ (không qua các tài khoản phải trả) được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi doanh nghiệp thực hiện thanh toán\n\nTại ngày kết thúc ký kế toán năm, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế tại ngày của bằng cân đối kế toán theo nguyên tắc sau.\n\n- Các khoản mục tiền tệ được phân loại là tài sản được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Nhóm Công ty thương xuyên có giao dịch.\n\n- Các khoản mục tiền tệ được phân loại là nợ phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Nhóm Công ty thường xuyên có giao dịch.\n\nTất cả các khoản chênh lệch tỷ giá thực tế phát sinh trong kỳ và chênh lệch do đánh giá lại số dư tiền tệ có gốc ngoại tệ cuối năm được hạch toán vào kết quả hoạt động kinh doanh hợp nhất\n\n3.13 Cổ phiếu quỹ\n\nCác công cụ vốn chủ sở hữu được Nhóm Công ty mua lại (cổ phiếu quỹ) được ghi nhận theo nguyên giá và trừ vào vốn chủ sở hữu. Nhóm Công ty không ghi nhận các khoản lãi/(lỗ) khi mua, bán, phát hành hoặc hủy các công cụ vốn chủ sở hữu của mình.\n\n3.14 Phân phối lợi nhuận\n\nLợi nhuận thuần sau thuế thu nhập doanh nghiệp (không bao gồm lãi chênh lệch tỷ giá do đánh giá lại các số dự tại ngày kết thúc ký kế toán năm) có thể được chia cho các cổ đông sau khi được cổ đông phê duyệt trong cuộc họp Đại hội đồng cổ đông thường niên và sau khi đã trích lập các quỹ dự phòng (nếu có) theo Điều lệ của Nhóm Công ty và các quy định của pháp luật Việt Nam.\n\n15\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)\n\n3.15 Ghi nhận doanh thu\n\nDoanh thu được ghi nhận khi Nhóm Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng trước khi ghi nhận doanh thu:\n\nDoanh thu bán hàng\n\nDoanh thu bán hàng được ghi nhận khi các rủi ro trọng yếu và các quyền sở hữu hàng hóa đã được chuyển sang người mua, thường là trùng với thời điểm chuyển giao hàng hóa.\n\nDoanh thu cung cấp dịch vụ\n\nDoanh thu cung cấp dịch vụ được ghi nhận khi dịch vụ đã được cung cấp.\n\nTiền lãi\n\nDoanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở dồn tích trừ khi khả năng thu hồi tiền lãi không chắc chắn.\n\nCô tức\n\nDoanh thu được ghi nhận khi quyền được nhận khoản thanh toán cổ tức của Nhóm Công ty được xác lập.\n\n3.16 Thuê hoạt động\n\nCác khoản tiền thuê theo hợp đồng thuê hoạt động được hạch toán vào kết quả hoạt động kinh doanh hợp nhất trong năm theo phương pháp đường thẳng trong thời hạn của hợp đồng thuê.\n\n3.17 Lãi trên cổ phiếu\n\nLãi cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận sau thuế thuộc về cổ đông sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho việc trích lập quỹ khen thưởng và phúc lợi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm.\n\nLãi suy giảm trên cổ phiếu được tính bằng cách chia lợi nhuận hoặc lỗ sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm và số lượng bình quân gia quyền của cổ phiếu phổ thông sẽ được phát hành trong trường hợp tất cả các cổ phiếu phổ thông tiềm năng có tác động suy giảm đều được chuyển thành cổ phiếu phổ thông.\n\n3.18 Thué\n\nThuế thu nhập hiện hành\n\nTài sản thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến phải nộp cho (hoặc được thu hồi tử) cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc ký kế toán năm.\n\nThuế thu nhập hiện hành được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\nNhóm Công ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Nhóm Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Nhóm Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.\n\n16\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.18 Thuế (tiếp theo)\n\nThuế thu nhập hoãn lại\n\nThuế thu nhập hoãn lai được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc ký kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của chúng cho mục đích lập báo cáo tài chính hợp nhất.\n\nThuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tam thời chịu thuế.\n\nTài sản thuế thu nhập hoãn lai cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này.\n\nGiá trị ghi số của tài sản thuế thu nhập hoãn lại phải được xem xét lại vào ngày kết thúc kỳ kế toán năm và phải giảm giá trị ghi số của tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập hoãn lại chưa ghi nhận trước đây được xem xét lại vào ngày kết thúc kỳ kế toán năm và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.\n\nTài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho năm tài chính tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc kỳ kế toán năm.\n\nThuế thu nhập hoãn lại được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\nNhóm Công ty chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả khi Nhóm Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế đối với cùng một đơn vị chịu thuế.\n\n3.19 Công cụ tài chính\n\nCông cụ tài chính – Ghi nhận ban đầu và trình bày\n\nTài sản tài chính\n\nTheo Thông tư số 210/2009/TT-BTC do Bộ Tài chính ban hành vào ngày 6 tháng 11 năm 2009 hướng dẫn áp dụng Chuẩn mực Báo cáo Tài chính Quốc tế về trình bày báo cáo tài chính và thuyết minh thông tin đối với công cụ tài chính (\"Thông tư 210\"), tài sản tài chính được phân loại một cách phù hợp, cho mục đích thuyết minh trong báo cáo tài chính hợp nhất, thành tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh, các khoản cho vay và phải thu, các khoản đầu tư giữ đến ngày đáo hạn và tài sản tài chính sẵn sàng để bán. Nhóm Công ty quyết định việc phân loại các tài sản tài chính này tại thời điểm ghi nhận lần đầu.\n\nTại thời điểm ghi nhận lần đầu, tài sản tài chính được xác định theo nguyên giá cộng với chi phí giao dịch trực tiếp có liên quan.\n\nCác tài sản tài chính của Nhóm Công ty bao gồm tiền và các khoản tiền gửi ngắn hạn, các khoản phải thu khách hàng và phải thu khác.\n\n17\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Đông\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)\n\n3.19 Công cụ tài chính (tiếp theo)\n\nCông cụ tài chính – Ghi nhận ban đầu và trình bày (tiếp theo)\n\nNợ phải trả tài chính\n\nNợ phải trả tài chính theo phạm vi của Thông tư 210, cho mục đích thuyết minh trong báo cáo tài chính hợp nhất, được phân loại một cách phù hợp thành các nợ phải trả tài chính được ghi nhận thông qua Báo cáo kết quả hoạt động kinh doanh, hoặc các khoản nợ phải trả tài chính được xác định theo giá trị phân bổ. Nhóm Công ty xác định việc phân loại các nợ phải trả tài chính thời điểm ghi nhận lần đầu.\n\nTất cả nợ phải trả tài chính được ghi nhận ban đầu theo nguyên giá trừ với các chi phí giao dịch trực tiếp có liên quan.\n\nNợ phải trả tài chính của Nhóm Công ty bao gồm các khoản phải trả người bán, các khoản phải trả khác và vay.\n\nCông cụ tài chính – Giá trị sau ghi nhận ban đầu\n\nHiện tại Thông tư 210 không có hướng dẫn về việc xác định lại giá trị của các công cụ tài chính sau ghi nhận ban đầu. Do đó giá trị sau ghi nhận ban đầu của các công cụ tài chính đang được phần ánh theo nguyên giá.\n\nBù trừ các công cụ tài chính\n\nCác tài sản tài chính và nợ phải trả tài chính được bù trừ và giá trị thuần sẽ được trình bày trên bằng cân đối kế toán hợp nhất nếu, và chỉ nếu, Nhóm Công ty có quyền hợp pháp thi hành việc bù trừ các giá trị đã được ghi nhận này và có ý định bù trừ trên cơ sở thuần, hoặc thu được các tài sản và thanh toán nợ phải trả đồng thời.\n\n3.20 Thông tin bộ phận\n\nMột bộ phận là một hợp phần có thể xác định riêng biết được của Nhóm Công ty tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo vùng địa lý), mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Hoạt động kinh doanh mua bán, bảo hành, sửa chữa: thiết bị tin học, điện thoại, linh kiện và phụ kiện điện thoại, máy ảnh, thiết bị kỹ thuật số, thiết bị điện tử, điện gia dụng và các phụ kiện có liên quan trong lãnh thổ Việt Nam chủ yếu tạo ra doanh thu và lợi nhuận cho Nhóm Công ty, trong khi các khoản doanh thu khác chiếm tỷ trọng nhỏ trong tổng doanh thu của Nhóm Công ty, do vậy Ban Giám đốc giả định rằng Nhóm Công ty hoạt động trong một bộ phận kinh doanh duy nhất là kinh doanh mua bán, bảo hành, sửa chữa: thiết bị tin học, điện thoại, linh kiện và phụ kiện điện thoại, máy ảnh, thiết bị kỹ thuật số, thiết bị điện tử, điện gia dụng và các phụ kiện có liên quan và một bộ phận chia theo vùng địa lý trọng yếu là Việt Nam.\n\n4. TIÊN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIÊN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "174.622.309.580",
+                "2": "82.487.162.647"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "156.416.860.560",
+                "2": "121.348.089.485"
+            },
+            {
+                "0": "Tiền đang chuyển",
+                "1": "10.072.556.611",
+                "2": "6.375.824.531"
+            },
+            {
+                "0": "Các khoản tương đương tiền",
+                "1": "2.761.241.954",
+                "2": "2.709.543.528"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "343.872.968.705",
+                "2": "212.920.620.191"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_11",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "Các khoản tương đương tiền thể hiện các khoản tiền gửi ngắn hạn có kỳ hạn dưới ba tháng và hưởng tiền lãi theo lãi suất dao động từ 4,6% đến 6,7% mỗi năm.\n\n18\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n5. CÁC KHOÀN PHẢI THU NGÁN HẠN KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Phải thu từ các nhà cung cấp (i)",
+                "1": "315.160.616.094",
+                "2": "141.101.160.525"
+            },
+            {
+                "0": "- Samsung Điện Từ Việt Nam",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Thái Nguyên",
+                "1": "84.642.627.135",
+                "2": "-"
+            },
+            {
+                "0": "- Sony Điện Từ Việt Nam",
+                "1": "39.288.779.993",
+                "2": "13.405.458.562"
+            },
+            {
+                "0": "- Apple South Asia Pte Ltd",
+                "1": "33.241.094.849",
+                "2": "-"
+            },
+            {
+                "0": "- Thế giới số",
+                "1": "743.694.036",
+                "2": "27.659.794.327"
+            },
+            {
+                "0": "- Khác",
+                "1": "157.244.420.080",
+                "2": "100.035.907.636"
+            },
+            {
+                "0": "Tạm ứng cho nhân viên",
+                "1": "11.492.620.175",
+                "2": "3.145.127.782"
+            },
+            {
+                "0": "Thuế giá trị gia tăng chưa kê khai",
+                "1": "8.360.478.184",
+                "2": "8.629.278.856"
+            },
+            {
+                "0": "Phải thu nhân viên",
+                "1": "1.472.973.206",
+                "2": "10.084.486.253"
+            },
+            {
+                "0": "Các khoản khác",
+                "1": "4.476.132.382",
+                "2": "3.664.765.513"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "340.962.820.041",
+                "2": "166.624.818.929"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_12",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "(i) Phải thu từ các nhà cung cấp bao gồm phần lớn là các khoản chiết khấu thương mại, chiết khấu thanh toán và bảo vệ giá.\n\n6. HÀNG TÔN KHO",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Điện thoại di động",
+                "1": "2.917.942.837.633",
+                "2": "1.335.452.318.704"
+            },
+            {
+                "0": "Thiết bị điện tử",
+                "1": "994.220.035.046",
+                "2": "205.802.397.137"
+            },
+            {
+                "0": "Phụ kiện",
+                "1": "326.542.170.462",
+                "2": "173.190.066.337"
+            },
+            {
+                "0": "Máy tính bằng",
+                "1": "304.528.245.430",
+                "2": "203.533.555.982"
+            },
+            {
+                "0": "Thiết bị gia dụng",
+                "1": "199.084.160.955",
+                "2": "51.304.295.501"
+            },
+            {
+                "0": "Máy tính xách tay",
+                "1": "97.995.910.134",
+                "2": "122.408.233.954"
+            },
+            {
+                "0": "Hàng đang chuyển",
+                "1": "75.315.470.199",
+                "2": "75.525.475.680"
+            },
+            {
+                "0": "Thẻ cáo",
+                "1": "48.959.965.108",
+                "2": "45.212.617.095"
+            },
+            {
+                "0": "Hàng hóa khác",
+                "1": "45.119.697.661",
+                "2": "41.087.969.545"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "5.009.708.492.628",
+                "2": "2.253.516.929.935"
+            },
+            {
+                "0": "Dự phòng giảm giá hàng tồn kho",
+                "1": "(77.023.650.329)",
+                "2": "(58.210.581.800)"
+            },
+            {
+                "0": "GIÁ TRỊ THUÀN",
+                "1": "4.932.684.842.299",
+                "2": "2.195.306.348.135"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_13",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2015, hàng tồn kho trị giá 2.736 tỷ VND đã được dùng để thế chấp cho các khoản vay (Thuyết minh số 18).\n\n19\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n6. HÀNG TÔN KHO (tiếp theo)\n\nChi tiết tinh hình tăng giảm dự phòng giảm giá hàng tồn kho",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "(58.210.581.800)",
+                "2": "(15.728.735.592)"
+            },
+            {
+                "0": "Cộng: Dự phòng trích lập trong năm",
+                "1": "(77.023.650.329)",
+                "2": "(58.210.581.800)"
+            },
+            {
+                "0": "Trừ: Sử dụng và hoàn nhập dự phòng trong năm",
+                "1": "58.210.581.800",
+                "2": "15.728.735.592"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "(77.023.650.329)",
+                "2": "(58.210.581.800)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_14",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "7. CHI PHÍ TRÀ TRƯỚC NGÂN HẠN\n\nChi phí trả trước ngắn hạn thể hiện chi phí thuê và thành lập văn phòng và các trung tâm phân phối.\n\n8. PHẢI THU DÀI HẠN KHÁC\n\nPhải thu dài hạn khác chủ yếu thể hiện chi phí ký quỹ dài hạn của văn phòng, cửa hàng và các trung tâm phân phối.\n\n20\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n9. TÀI SẢN CÓ ĐỊNH HỮU HÌNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nhà xưởng, vật kiến trúc",
+                "2": "Phương tiện vận tải",
+                "3": "Thiết bị văn phòng",
+                "4": "VND Tổng cộng"
+            },
+            {
+                "0": "Nguyên giá:",
+                "1": "Nguyên giá:",
+                "2": "Nguyên giá:",
+                "3": "Nguyên giá:",
+                "4": "Nguyên giá:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "453.611.268.500",
+                "2": "8.871.532.798",
+                "3": "95.999.209.608",
+                "4": "558.482.010.906"
+            },
+            {
+                "0": "Mua trong năm",
+                "1": "453.428.146.442",
+                "2": "20.005.610.881",
+                "3": "79.219.847.533",
+                "4": "552.653.604.856"
+            },
+            {
+                "0": "Đầu tư xây dựng cơ bản hoàn thành",
+                "1": "72.175.811.724",
+                "2": "-",
+                "3": "-",
+                "4": "72.175.811.724"
+            },
+            {
+                "0": "Thanh lý trong năm",
+                "1": "(22.528.529)",
+                "2": "(75.513.891)",
+                "3": "(443.871.868)",
+                "4": "(541.914.288)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "979.192.698.137",
+                "2": "28.801.629.788",
+                "3": "174.775.185.273",
+                "4": "1.182.769.513.198"
+            },
+            {
+                "0": "Giá trị khấu hao lũy kế:",
+                "1": "Giá trị khấu hao lũy kế:",
+                "2": "Giá trị khấu hao lũy kế:",
+                "3": "Giá trị khấu hao lũy kế:",
+                "4": "Giá trị khấu hao lũy kế:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "120.289.056.488",
+                "2": "2.786.255.151",
+                "3": "47.075.475.180",
+                "4": "170.150.786.819"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "160.198.722.524",
+                "2": "2.233.962.198",
+                "3": "23.745.304.646",
+                "4": "186.177.989.368"
+            },
+            {
+                "0": "Thanh lý trong năm",
+                "1": "(22.528.529)",
+                "2": "(18.268.635)",
+                "3": "(443.871.868)",
+                "4": "(484.669.032)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "280.465.250.483",
+                "2": "5.001.948.714",
+                "3": "70.376.907.958",
+                "4": "355.844.107.155"
+            },
+            {
+                "0": "Giá trị còn lại:",
+                "1": "Giá trị còn lại:",
+                "2": "Giá trị còn lại:",
+                "3": "Giá trị còn lại:",
+                "4": "Giá trị còn lại:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "333.322.212.012",
+                "2": "6.085.277.647",
+                "3": "48.923.734.428",
+                "4": "388.331.224.087"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "698.727.447.654",
+                "2": "23.799.681.074",
+                "3": "104.398.277.315",
+                "4": "826.925.406.043"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_15",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "21\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n10. TÀI SẢN CÓ ĐỊNH VÔ HÌNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Quyền sử dụng đất",
+                "2": "Phần mềm máy tính",
+                "3": "VND Tổng cộng"
+            },
+            {
+                "0": "Nguyên giá:",
+                "1": "Nguyên giá:",
+                "2": "Nguyên giá:",
+                "3": "Nguyên giá:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "21.042.500.000",
+                "2": "5.109.251.644",
+                "3": "26.151.751.644"
+            },
+            {
+                "0": "Mua trong năm",
+                "1": "51.604.300",
+                "2": "-",
+                "3": "51.604.300"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "21.094.104.300",
+                "2": "5.109.251.644",
+                "3": "26.203.355.944"
+            },
+            {
+                "0": "Giá trị khấu trừ lũy kế:",
+                "1": "Giá trị khấu trừ lũy kế:",
+                "2": "Giá trị khấu trừ lũy kế:",
+                "3": "Giá trị khấu trừ lũy kế:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "-",
+                "2": "3.124.438.409",
+                "3": "3.124.438.409"
+            },
+            {
+                "0": "Khấu trừ trong năm",
+                "1": "-",
+                "2": "857.333.892",
+                "3": "857.333.892"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "-",
+                "2": "3.981.772.301",
+                "3": "3.981.772.301"
+            },
+            {
+                "0": "Giá trị còn lại:",
+                "1": "Giá trị còn lại:",
+                "2": "Giá trị còn lại:",
+                "3": "Giá trị còn lại:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "21.042.500.000",
+                "2": "1.984.813.235",
+                "3": "23.027.313.235"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "21.094.104.300",
+                "2": "1.127.479.343",
+                "3": "22.221.583.643"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_16",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "11. CHI PHÍ XÂY DỰNG CƠ BẢN DỞ DANG\n\nChi phí xây dựng cơ bản dở dang chủ yếu thể hiện chi phí thành lập cửa hàng và trung tâm phân phối.\n\n12. CHI PHÍ TRÀ TRƯỚC DÀI HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Chi phí thiết kế, bài trí mới các cửa hàng",
+                "1": "26.856.894.734",
+                "2": "15.684.344.950"
+            },
+            {
+                "0": "Chi phí thuê cửa hàng",
+                "1": "17.563.004.795",
+                "2": "7.599.593.940"
+            },
+            {
+                "0": "Thiết bị có giá trị nhỏ",
+                "1": "12.513.796.447",
+                "2": "2.175.541.519"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "56.933.695.976",
+                "2": "25.459.480.409"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_17",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "13. LỘI THẾ THƯƠNG MẠI",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "VND"
+            },
+            {
+                "0": "Nguyên giá:",
+                "1": "Nguyên giá:"
+            },
+            {
+                "0": "Số đầu năm và số cuối năm",
+                "1": "30.159.070.256"
+            },
+            {
+                "0": "Giá trị phân bổ lũy kế:",
+                "1": "Giá trị phân bổ lũy kế:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "7.612.520.992"
+            },
+            {
+                "0": "Phân bổ trong năm",
+                "1": "10.020.688.564"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "17.633.209.556"
+            },
+            {
+                "0": "Giá trị còn lại:",
+                "1": "Giá trị còn lại:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "22.546.549.264"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "12.525.860.700"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_18",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "22\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n14 PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Công ty TNHH Thương mại và Xuất nhập khẩu Viettel",
+                "1": "310.867.954.724",
+                "2": "101.806.813.960"
+            },
+            {
+                "0": "Sony Điện Tử Việt Nam",
+                "1": "277.697.871.987",
+                "2": "199.378.586.320"
+            },
+            {
+                "0": "Khác",
+                "1": "1.382.705.810.107",
+                "2": "680.608.883.952"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "1.971.271.636.818",
+                "2": "981.794.284.232"
+            },
+            {
+                "0": "Thuế TNDN phải nộp (Thuyết minh số 23.2)",
+                "1": "172.757.057.796",
+                "2": "56.194.555.201"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "1.292.323.411",
+                "2": "1.558.548.324"
+            },
+            {
+                "0": "Thuế giá trị gia tăng",
+                "1": "20.180.013",
+                "2": "82.901.795"
+            },
+            {
+                "0": "Khác",
+                "1": "408.181.619",
+                "2": "112.254.001"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "174.477.742.839",
+                "2": "57.948.259.321"
+            },
+            {
+                "0": "Các khoản thường phải trả nhân viên",
+                "1": "161.706.975.206",
+                "2": "150.513.296.809"
+            },
+            {
+                "0": "Chi phí tiếp thị quảng cáo",
+                "1": "76.450.519.460",
+                "2": "3.122.962.573"
+            },
+            {
+                "0": "Các khoản phải trả nhân viên",
+                "1": "26.353.287.007",
+                "2": "19.336.155.459"
+            },
+            {
+                "0": "Chi phí dịch vụ bảo hành",
+                "1": "16.373.296.196",
+                "2": "2.797.127.818"
+            },
+            {
+                "0": "Các chi phí tiện ích",
+                "1": "12.104.268.559",
+                "2": "5.352.285.937"
+            },
+            {
+                "0": "Chi phí vận chuyển",
+                "1": "10.202.726.442",
+                "2": "6.321.750.705"
+            },
+            {
+                "0": "Khác",
+                "1": "4.032.569.161",
+                "2": "4.364.394.551"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "307.223.642.031",
+                "2": "191.807.973.852"
+            },
+            {
+                "0": "Thu hộ cước phí",
+                "1": "88.953.566.726",
+                "2": "16.061.873.910"
+            },
+            {
+                "0": "Phiếu giảm giá",
+                "1": "52.188.360.000",
+                "2": "1.257.680.000"
+            },
+            {
+                "0": "Thu hộ tiền trả góp",
+                "1": "20.780.034.000",
+                "2": "16.830.373.000"
+            },
+            {
+                "0": "Bảo hiểm y tế, bảo hiểm xã hội, kinh phí công đoàn",
+                "1": "3.789.853.004",
+                "2": "2.636.452.669"
+            },
+            {
+                "0": "Nhân viên ký quỹ",
+                "1": "3.390.559.040",
+                "2": "1.186.265.385"
+            },
+            {
+                "0": "Người bán ứng trước tiền trung bày",
+                "1": "-",
+                "2": "9.803.827.171"
+            },
+            {
+                "0": "Các khoản phải trả khác",
+                "1": "6.259.867.994",
+                "2": "705.958.507"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "175.362.240.764",
+                "2": "48.482.430.642"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_19",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "23\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n18. VAY NGÂN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "Số cuối năm",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Số cuối năm",
+                "3": "Số đầu năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "Vay ngân hàng",
+                "1": "Vay ngân hàng",
+                "2": "2.052.945.972.681",
+                "3": "618.690.305.273",
+                "4": "618.690.305.273"
+            },
+            {
+                "0": "Nhóm Công ty thực hiện các khoản vay ngân hạn ngân hàng này nhằm mục đích bổ sung nhu cầu vốn lưu động, chi tiết như sau:",
+                "1": "Nhóm Công ty thực hiện các khoản vay ngân hạn ngân hàng này nhằm mục đích bổ sung nhu cầu vốn lưu động, chi tiết như sau:",
+                "2": "Nhóm Công ty thực hiện các khoản vay ngân hạn ngân hàng này nhằm mục đích bổ sung nhu cầu vốn lưu động, chi tiết như sau:",
+                "3": "Nhóm Công ty thực hiện các khoản vay ngân hạn ngân hàng này nhằm mục đích bổ sung nhu cầu vốn lưu động, chi tiết như sau:",
+                "4": "Nhóm Công ty thực hiện các khoản vay ngân hạn ngân hàng này nhằm mục đích bổ sung nhu cầu vốn lưu động, chi tiết như sau:"
+            },
+            {
+                "0": "Bên cho vay",
+                "1": "Số dư cuối năm VND",
+                "2": "Kỳ hạn thanh toán",
+                "3": "Lãi suất",
+                "4": "Hình thức đảm bảo"
+            },
+            {
+                "0": "Ngân hàng TMCP Công Thương Việt Nam",
+                "1": "663.668.185.632",
+                "2": "từ 12/01/2016 đến 29/03/2016",
+                "3": "thả nổi",
+                "4": "Hàng tồn kho"
+            },
+            {
+                "0": "Ngân hàng TMCP Ngoại Thương Việt Nam",
+                "1": "401.207.982.139",
+                "2": "từ 15/02/2016 đến 29/02/2016",
+                "3": "thả nổi",
+                "4": "Tín chấp"
+            },
+            {
+                "0": "Ngân hàng TNHH MTV Standard Chartered (Việt Nam)",
+                "1": "304.154.263.160",
+                "2": "từ 18/01/2016 đến 23/02/2016",
+                "3": "thả nổi",
+                "4": "Hàng tồn kho"
+            },
+            {
+                "0": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam",
+                "1": "278.905.246.682",
+                "2": "từ 15/01/2016 đến 21/01/2016",
+                "3": "thả nổi",
+                "4": "Tín chấp"
+            },
+            {
+                "0": "Ngân Hàng TMCP Quân Đội – chi nhánh Quảng Nam",
+                "1": "194.033.257.300",
+                "2": "từ 22/01/2016 đến 29/02/2016",
+                "3": "thả nổi",
+                "4": "Tín chấp"
+            },
+            {
+                "0": "Ngân hàng TNHH MTV HSBC (Việt Nam)",
+                "1": "121.977.629.736",
+                "2": "từ 21/01/2016 đến 01/02/2016",
+                "3": "đi",
+                "4": "Hàng tồn kho"
+            },
+            {
+                "0": "Citibank N.A Việt Nam",
+                "1": "88.999.408.032",
+                "2": "từ 06/01/2016 đến 12/01/2016",
+                "3": "thả nổi",
+                "4": "Tín chấp"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "2.052.945.972.681",
+                "2": "",
+                "3": "",
+                "4": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_20",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "24\n\n\n\nCông ty Cố phần Đầu tư Thế Giới Di Đông\n\nB09-DN/HN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n19. VÓN CHỦ SỞ HỮU\n\n19.1 Tinh hình tăng giảm nguồn vốn chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn cổ phần",
+                "2": "Thặng dư vốn cổ phần",
+                "3": "Cổ phiếu quỹ",
+                "4": "Lợi nhuận sau thuế chưa phân phối",
+                "5": "Vốn khác",
+                "6": "Tổng cộng"
+            },
+            {
+                "0": "Năm trước:",
+                "1": "Năm trước:",
+                "2": "Năm trước:",
+                "3": "Năm trước:",
+                "4": "Năm trước:",
+                "5": "Năm trước:",
+                "6": "Năm trước:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "109.567.040.000",
+                "2": "151.578.368.286",
+                "3": "-",
+                "4": "538.007.977.935",
+                "5": "1.130.494.084",
+                "6": "800.283.880.305"
+            },
+            {
+                "0": "Phát hành cổ phiếu riêng lẻ",
+                "1": "6.851.120.000",
+                "2": "5.015.510.000",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "11.866.630.000"
+            },
+            {
+                "0": "Phát hành cổ phiếu thường",
+                "1": "119.876.180.000",
+                "2": "(119.876.180.000)",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Phát hành cổ phiếu trả cổ tức",
+                "1": "829.962.270.000",
+                "2": "-",
+                "3": "-",
+                "4": "(829.962.270.000)",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Phát hành cổ phiếu ESOP",
+                "1": "53.311.180.000",
+                "2": "-",
+                "3": "-",
+                "4": "(53.311.180.000)",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Trích quỹ khen thường,phúc lợi",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(5.000.000.000)",
+                "5": "-",
+                "6": "(5.000.000.000)"
+            },
+            {
+                "0": "Mua lại cổ phiếu",
+                "1": "-",
+                "2": "-",
+                "3": "(300.394.500)",
+                "4": "-",
+                "5": "-",
+                "6": "(300.394.500)"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "668.106.031.832",
+                "5": "-",
+                "6": "668.106.031.832"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "1.119.567.790.000",
+                "2": "36.717.698.286",
+                "3": "(300.394.500)",
+                "4": "317.840.559.767",
+                "5": "1.130.494.084",
+                "6": "1.474.956.147.637"
+            },
+            {
+                "0": "Năm nay:",
+                "1": "Năm nay:",
+                "2": "Năm nay:",
+                "3": "Năm nay:",
+                "4": "Năm nay:",
+                "5": "Năm nay:",
+                "6": "Năm nay:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "1.119.567.790.000",
+                "2": "36.717.698.286",
+                "3": "(300.394.500)",
+                "4": "317.840.559.767",
+                "5": "1.130.494.084",
+                "6": "1.474.956.147.637"
+            },
+            {
+                "0": "Phát hành cổ phiếu thường (i)",
+                "1": "279.471.970.000",
+                "2": "-",
+                "3": "-",
+                "4": "(279.471.970.000)",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Ảnh hưởng do các thay đổi trongtỷ lệ sở hữu công ty con (ii)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(62.781.933.366)",
+                "5": "-",
+                "6": "(62.781.933.366)"
+            },
+            {
+                "0": "Phát hành cổ phiếu ESOP (iii)",
+                "1": "69.849.980.000",
+                "2": "-",
+                "3": "-",
+                "4": "(69.849.980.000)",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Mua lại cổ phiếu",
+                "1": "-",
+                "2": "-",
+                "3": "(2.153.900.000)",
+                "4": "-",
+                "5": "-",
+                "6": "(2.153.900.000)"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "1.071.893.519.399",
+                "5": "-",
+                "6": "1.071.893.519.399"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "1.468.889.740.000",
+                "2": "36.717.698.286",
+                "3": "(2.454.294.500)",
+                "4": "977.630.195.800",
+                "5": "1.130.494.084",
+                "6": "2.481.913.833.670"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_21",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "25\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n19. VỐN CHỦ SỞ HỮU (tiếp theo)\n\n19.1 Tỉnh hình tăng giảm nguồn vốn chủ sở hữu (tiếp theo)\n\n(i) Vào ngày 15 tháng 6 năm 2015, Công ty đã phát hành 27.947.197 cổ phiếu thường mệnh giá là 10.000 VND/cổ phiếu với tổng giá trị là 279.471.970.000 VND từ lợi nhuận sau thuế chưa phân phối của Công ty cho các cổ đông hiện hữu của Công ty với tỷ lệ thực hiện là 4:1 (phát hành 1 cổ phiếu mới cho mỗi 4 cổ phiếu đang được cổ đông nắm giữ) theo Nghị quyết Đại hội đồng Cổ đông số 01_2015/NQĐHĐCD/TGĐĐ ngày 6 tháng 3 năm 2015.\n\nVào ngày 21 tháng 6 năm 2015, Công ty đã nhận được Giấy Chứng nhận Đăng ký Kinh doanh điều chỉnh được cấp bởi Sở Kế hoạch và Đầu tư Tỉnh Bình Dương cho lần phát hành cổ phiếu trên.\n\n(ii) Vào ngày 31 tháng 7 năm 2015, Công ty đã mua thêm 0,6% quyền sở hữu trong Công ty Cổ phần Thế Giới Di Đông (\"TGĐ\") từ các cổ đông không kiểm soát để nâng tỷ lệ sở hữu của Công ty trong TGĐ từ 99,35% lên 99,95% với tổng số tiền 72.239.580.000 VNĐ. Khoản chênh lệch giữa giá phí đầu tư thêm và giá trị ghi sổ cửa tài sản thuần của TGĐ tại ngày mua với số tiền 62.781.933.366 VNĐ được ghi nhận vào lợi nhuận lũy kế chưa phân phối theo quy định tại Thông tư 202.\n\n(iii) Vào ngày 11 tháng 12 năm 2015, Công ty đã phát hành 6.984.998 cổ phiếu thường theo chương trình lựa chọn cho người lao động (“ESOP”) trong Công ty và các công ty con mệnh giá là 10.000 VND/cổ phiếu với tổng giá trị là 69.849.980.000 VND từ lợi nhuận chưa phân phối của Công ty theo Nghị quyết Đại hội đồng Cổ đông số 01_2015/NQĐHĐCD/TGĐĐ ngày 6 tháng 3 năm 2015.\n\nVào ngày 25 tháng 12 năm 2015, Công ty đã nhận được các Giấy Chứng nhận Đăng ký Kinh doanh điều chỉnh được cấp bởi Sở Kế hoạch và Đầu tư Tĩnh Bình Dương cho lần phát hành cổ phiếu trên.\n\n19.2 Các giao dịch về vốn với các chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cổ phiếu"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "111.956.779"
+            },
+            {
+                "0": "Tăng vốn trong năm",
+                "1": "34.932.195"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "146.888.974"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_22",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "Các cổ đông nằm giữ cổ phiếu phổ thông của Công ty được quyền hưởng cổ tức do Công ty công bố. Mỗi cổ phiếu phổ thông với mệnh giá 10.000 VND thể hiện một quyền biểu quyết, không hạn chế.\n\n19.3 Cổ phiếu - cổ phiếu phổ thông",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm"
+            },
+            {
+                "0": "",
+                "1": "Số cổ phiếu",
+                "2": "Số cổ phiếu"
+            },
+            {
+                "0": "Số lượng cổ phiếu được phép phát hành",
+                "1": "146.888.974",
+                "2": "111.956.779"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã phát hành vàđược góp vốn đầy đủCổ phiếu phổ thông",
+                "1": "146.888.974",
+                "2": "111.956.779"
+            },
+            {
+                "0": "Số lượng cổ phiếu quỹCổ phiếu phổ thông",
+                "1": "(218.673)",
+                "2": "(3.283)"
+            },
+            {
+                "0": "Số lượng cổ phiếu đang lưu hànhCổ phiếu phổ thông",
+                "1": "146.670.301",
+                "2": "111.953.496"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_23",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "26\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvao ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n20. DOANH THU\n\n20.1 Doanh thu bán hàng và cung cấp dịch vụ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Tổng doanh thu",
+                "1": "25.388.072.018.730",
+                "2": "15.836.649.248.254"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Doanh thu bán hàng",
+                "1": "25.200.315.769.140",
+                "2": "15.758.848.880.442"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "187.756.249.590",
+                "2": "77.800.367.812"
+            },
+            {
+                "0": "Các khoản giảm trừ doanh thu",
+                "1": "(135.338.939.486)",
+                "2": "(79.923.391.578)"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Hàng bán bị trả lại",
+                "1": "(135.338.939.486)",
+                "2": "(79.923.391.578)"
+            },
+            {
+                "0": "Doanh thu thuần",
+                "1": "25.252.733.079.244",
+                "2": "15.756.725.856.676"
+            },
+            {
+                "0": "Chiết khấu thanh toán",
+                "1": "79.030.511.645",
+                "2": "64.497.775.036"
+            },
+            {
+                "0": "Lãi tiền gửi",
+                "1": "913.660.286",
+                "2": "6.723.644.862"
+            },
+            {
+                "0": "Lãi chênh lệch tỷ giá",
+                "1": "1.041.648.482",
+                "2": "113.894.304"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "80.985.820.413",
+                "2": "71.335.314.202"
+            },
+            {
+                "0": "Giá vốn hàng bán",
+                "1": "21.330.302.185.370",
+                "2": "13.360.606.457.365"
+            },
+            {
+                "0": "Chi phí nhân công",
+                "1": "1.385.875.600.882",
+                "2": "950.568.854.006"
+            },
+            {
+                "0": "Chi phí khấu hao và khấu trừ(Thuyết minh số 9, 10 và 13)",
+                "1": "197.056.011.824",
+                "2": "116.388.450.156"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "1.017.478.413.826",
+                "2": "522.887.033.646"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "23.930.712.211.902",
+                "2": "14.950.450.795.173"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "38.893.852.014",
+                "2": "21.261.415.761"
+            },
+            {
+                "0": "Lỗ chênh lệch tỷ giá",
+                "1": "1.772.241.742",
+                "2": "29.998.235"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "40.666.093.756",
+                "2": "21.291.413.996"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_24",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "27\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n23. THUÉ THU NHẬP DOANH NGHIỆP\n\nThuế thu nhập doanh nghiệp (\"TNDN\") áp dụng cho Nhóm Công ty là 22% thu nhập chịu thuế.\n\nCác báo cáo thuế của Nhóm Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các qui định về thuế có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính hợp nhất có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.\n\n23.1 Chi phí thuế TNDN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Chi phí thuế TNDN hiện hành",
+                "1": "312.610.960.322",
+                "2": "203.505.791.975"
+            },
+            {
+                "0": "Điều chỉnh thuế TNDN trích thiếu năm trước",
+                "1": "-",
+                "2": "293.440.680"
+            },
+            {
+                "0": "Thu nhập thuế TNDN hoãn lại",
+                "1": "2.598.402.071",
+                "2": "9.346.006.165"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "315.209.362.393",
+                "2": "213.145.238.820"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_25",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "23.2 Thuế TNDN hiện hành\n\nThuế TNDN hiện hành phải trả được xác định dựa trên thu nhập chịu thuế của năm hiện hành. Thu nhập chịu thuế của Nhóm Công ty khác với lợi nhuận kế toán được báo cáo trong báo cáo kết quả sản xuất kinh doanh hợp nhất vì thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được khấu trừ cho mục đích tính thuế trong các năm khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được khấu trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải trả của Nhóm Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc ký kế toán năm.\n\nDưới đây là đối chiếu giữa lợi nhuận kế toán trước thuế trên báo cáo kết quả hoạt động kinh doanh hợp nhất và thu nhập chịu thuế ước tính:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Lợi nhuận kế toán trước thuế",
+                "1": "1.385.783.787.694",
+                "2": "868.197.443.094"
+            },
+            {
+                "0": "Các điều chỉnh",
+                "1": "Các điều chỉnh",
+                "2": "Các điều chỉnh"
+            },
+            {
+                "0": "Chi phí không hợp lý, hợp lệ",
+                "1": "6.341.365.765",
+                "2": "6.812.120.518"
+            },
+            {
+                "0": "Phân bổ lợi thế thương mại",
+                "1": "10.020.688.564",
+                "2": "7.534.917.337"
+            },
+            {
+                "0": "Thay đổi dự phòng giảm giá hàng tồn kho",
+                "1": "18.813.068.529",
+                "2": "42.481.846.208"
+            },
+            {
+                "0": "Thu nhập chịu thuế ước tính trong năm",
+                "1": "1.420.958.910.552",
+                "2": "925.026.327.157"
+            },
+            {
+                "0": "Chi phí thuế TNDN ước tính",
+                "1": "312.610.960.322",
+                "2": "203.505.791.975"
+            },
+            {
+                "0": "Điều chỉnh thuế TNDN trích thiếu năm trước",
+                "1": "-",
+                "2": "293.440.680"
+            },
+            {
+                "0": "Chi phí thuế TNDN ước tính",
+                "1": "312.610.960.322",
+                "2": "203.799.232.655"
+            },
+            {
+                "0": "Thuế TNDN phải trả đầu năm",
+                "1": "56.194.555.201",
+                "2": "73.948.568.576"
+            },
+            {
+                "0": "Thuế TNDN đã trả trong năm",
+                "1": "(196.048.457.727)",
+                "2": "(221.553.246.030)"
+            },
+            {
+                "0": "Thuế TNDN phải trả cuối năm",
+                "1": "172.757.057.796",
+                "2": "56.194.555.201"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_26",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "28\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n23. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)\n\n23.3 Thuế thu nhập hoãn lại\n\nNhóm Công ty đã ghi nhận một số khoản tài sản thuế TNDN hoãn lại với các biến động trong năm báo cáo và năm trước như sau:\n\nVND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Bảng cân đối kế toán hợp nhất",
+                "2": "Bảng cân đối kế toán hợp nhất",
+                "3": "Lợi ích ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất",
+                "4": "Lợi ích ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "Dự phòng giảm giá hàng tồn kho",
+                "1": "15.404.730.066",
+                "2": "12.806.327.995",
+                "3": "2.598.402.071",
+                "4": "9.346.006.165"
+            },
+            {
+                "0": "Tài sản thuế thu nhập hoãn lại",
+                "1": "15.404.730.066",
+                "2": "12.806.327.995",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "Thu nhập thuế thu nhập hoãn lại",
+                "1": "",
+                "2": "",
+                "3": "2.598.402.071",
+                "4": "9.346.006.165"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_27",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "24. LÃI TRÊN CÓ PHIÉU\n\nNhóm Công ty sử dụng các thông tin sau để tính lãi cơ bản và lãi suy giảm trên cổ phiếu:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "Năm trước"
+            },
+            {
+                "0": "Lợi nhuận thuần phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty (VND)",
+                "1": "1.071.893.519.399",
+                "2": "668.106.031.832"
+            },
+            {
+                "0": "Số lượng cổ phiếu phổ thông lưu hành bình quân (*)",
+                "1": "146.734.234",
+                "2": "146.745.058"
+            },
+            {
+                "0": "Lãi cơ bản và lãi suy giảm trên mỗi cổ phiếu (VND/cổ phiếu)",
+                "1": "7.305",
+                "2": "4.553"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_28",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "(*) Tổng số cổ phiếu bình quân trong năm trước được điều chỉnh do việc phát hành cổ phiếu thường cho cổ đông hiện hữu và ESOP trong tháng 6 và tháng 12 năm 2015.\n\n25. GIAO DỊCH VỚI CÁC BÊN LIÊN QUAN\n\nThu nhập của các thành viên của Hội đồng Quản trị và Ban Giám đốc",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Lương và thường",
+                "1": "11.185.976.152",
+                "2": "14.759.382.380"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_29",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "29\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n26. CAM KẾT THUÊ HOẠT ĐỘNG\n\nNhóm Công ty hiện đang thuê văn phòng và các trung tâm phân phối theo hợp đồng thuê hoạt động. Vào ngày kết thúc ký kế toán năm, các khoản tiền thuê phải trả trong tương lai theo hợp đồng thuê hoạt động được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Đến 1 năm",
+                "1": "420.778.565.308",
+                "2": "239.610.921.245"
+            },
+            {
+                "0": "Từ 1 đến 5 năm",
+                "1": "1.239.689.659.921",
+                "2": "637.222.663.362"
+            },
+            {
+                "0": "Trên 5 năm",
+                "1": "675.222.437.710",
+                "2": "372.977.081.707"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "2.335.690.662.939",
+                "2": "1.249.810.666.314"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_30",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "27. MỤC ĐÍCH VÀ CHÍNH SÁCH QUẢN LÝ RÙI RO TÀI CHÍNH\n\nNợ phải trả tài chính của Nhóm Công ty chủ yếu bao gồm các khoản vay, các khoản phải trả người bán và các khoản phải trả khác. Mục đích chính của những khoản nợ phải trả tài chính này là nhằm huy động nguồn tài chính phục vụ các hoạt động của Nhóm Công ty.\n\nNhóm Công ty có các khoản phải thu khách hàng, các khoản phải thu khác, tiền mặt và tiền gửi ngắn hạn phát sinh trực tiếp từ hoạt động của Nhóm Công ty. Nhóm Công ty không nằm giữ hay phát hành công cụ tài chính phải sinh.\n\nNhóm Công ty có khả năng gặp các rủi ro tín dụng và rủi ro thanh khoản.\n\nRùi ro tín dụng\n\nKhách hàng không thực hiện các nghĩa vụ của mình, dẫn đến tổn thất về tài chính. Nhóm Công ty có rủi ro tín dụng từ các hoạt động sản xuất kinh doanh của mình (chủ yếu đối với các khoản phải thu khách hàng) và từ hoạt động tài chính của mình, bao gồm tiền gửi ngân hàng.\n\nPhải thu khách hàng\n\nNhóm Công ty quản lý rủi ro tín dụng khách hàng thông qua các chính sách, thủ tục và quy trình kiểm soát của Nhóm Công ty có liên quan đến việc quản lý rủi ro tín dụng khách hàng.\n\nNhóm Công ty thường xuyên theo dõi các khoản phải thu khách hàng chưa thu. Đối với các khách hàng lớn, Nhóm Công ty thực hiện xem xét sự suy giảm trong chất lượng tin dụng của từng khách hàng tại ngày lập báo cáo. Nhóm Công ty tìm cách duy trì kiểm soát chất chế đối với các khoản phải thu tổn động.\n\nTiền gửi ngân hàng\n\nNhóm Công ty chủ yếu duy trì số dư tiền gửi tại các ngân hàng được nhiều người biết đến Việt Nam. Rủi ro tín dụng đối với số dư tiền gửi tại các ngân hàng được quản lý bởi bộ phận ngân quỹ của Nhóm Công ty theo chính sách của Nhóm Công ty. Rủi ro tín dụng tối đa của Nhóm Công ty đối với các khoản mục trong bảng cân đối kế toán tại mỗi kỳ lập báo cáo chính là giả trị ghi sở như trình bày trong Thuyết minh số 4. Nhóm Công ty nhận thấy mức độ tập trung rủi ro tín dụng đối với tiền gửi ngân hàng là thấp.\n\nBan Giám đốc đánh giá rằng tất cả các tài sản tài chính đều trong hạn và không bị suy giảm vì các tài sản tài chính này đều liên quan đến các khách hàng có uy tín và có khả năng thanh toán vào ngày 31 tháng 12 năm 2015.\n\n30\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n27. MỤC ĐÍCH VÀ CHÍNH SÁCH QUẢN LÝ RỦI RO TÀI CHÍNH (tiếp theo)\n\nRùi ro thanh khoản\n\nRủi ro thanh khoản là rủi ro Nhóm Công ty gặp khó khăn khi thực hiện các nghĩa vụ tài chính do thiếu vốn. Rủi ro thanh khoản của Nhóm Công ty chủ yếu phát sinh từ việc các tài sản tài chính và nợ phải trả tài chính có các thời điểm đảo hạn lệch nhau.\n\nNhóm Công ty giám sát rủi ro thanh khoản thông qua việc duy trì một lượng tiền và các khoản tương đương tiền ở mức mà Ban Giám đốc cho là đủ để đáp ứng cho các hoạt động của Nhóm Công ty và để giảm thiểu ảnh hưởng của những biến động về lường tiền.\n\nBảng dưới đây tổng hợp thời hạn thanh toán của các khoản nợ phải trả tài chính của Nhóm Công ty dựa trên các khoản thanh toán dự kiến theo hợp đồng:\n\nVND\n\nBát kỳ thời điểm nào\n\nNgày 31 tháng 12 năm 2015",
+        "dataframe": [
+            {
+                "0": "Các khoản vay",
+                "1": "2.052.945.972.681"
+            },
+            {
+                "0": "Phải trả người bán",
+                "1": "1.971.271.636.818"
+            },
+            {
+                "0": "Khoản phải trả khác và chi phí phải trả",
+                "1": "482.585.882.795"
+            },
+            {
+                "0": "",
+                "1": "4.506.803.492.294"
+            },
+            {
+                "0": "Các khoản vay",
+                "1": "618.690.305.273"
+            },
+            {
+                "0": "Phải trả người bán",
+                "1": "981.794.284.232"
+            },
+            {
+                "0": "Khoản phải trả khác và chi phí phải trả",
+                "1": "240.290.404.494"
+            },
+            {
+                "0": "",
+                "1": "1.840.774.993.999"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_31",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "Nhóm Công ty cho ràng rủi ro đối với việc trả nợ là thấp.\n\nTài sản đảm bảo\n\nNhóm Công ty đã sử dụng hàng tồn kho làm tài sản thế chấp cho khoản vay ngắn hạn (Thuyết minh số 18).\n\nNhóm Công ty không nấm giữ tài sản đảm bảo của các bên khác vào ngày 31 tháng 12 năm 2015 và ngày 31 tháng 12 năm 2014.\n\n31\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Đông\n\nB09-DN/HN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n28. TÀI SẢN TÀI CHÍNH VÀ NỘ PHẢI TRẢ TÀI CHÍNH\n\nBảng dưới đây trình bày giá trị ghi số và giá trị hợp lý của các công cụ tài chính được trình bày trong báo cáo tài chính hợp nhất của Nhóm Công ty.\n\nVND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Giá trị ghi số",
+                "2": "Giá trị ghi số",
+                "3": "Giá trị ghi số",
+                "4": "Giá trị ghi số",
+                "5": "Giá trị hợp lý",
+                "6": "Giá trị hợp lý"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số cuối năm",
+                "3": "Số đầu năm",
+                "4": "Số đầu năm",
+                "5": "Số cuối năm",
+                "6": "Số đầu năm"
+            },
+            {
+                "0": "",
+                "1": "Nguyên giá",
+                "2": "Dự phòng",
+                "3": "Nguyên giá",
+                "4": "Dự phòng",
+                "5": "Số cuối năm",
+                "6": "Số đầu năm"
+            },
+            {
+                "0": "Tài sản tài chính",
+                "1": "Tài sản tài chính",
+                "2": "Tài sản tài chính",
+                "3": "Tài sản tài chính",
+                "4": "Tài sản tài chính",
+                "5": "Tài sản tài chính",
+                "6": "Tài sản tài chính"
+            },
+            {
+                "0": "Phải thu khách hàng",
+                "1": "76.906.740.739",
+                "2": "-",
+                "3": "44.481.521.771",
+                "4": "-",
+                "5": "76.906.740.739",
+                "6": "44.481.521.771"
+            },
+            {
+                "0": "Phải thu khác",
+                "1": "453.426.869.309",
+                "2": "-",
+                "3": "161.407.629.379",
+                "4": "-",
+                "5": "453.426.869.309",
+                "6": "161.407.629.379"
+            },
+            {
+                "0": "Tiền và tương đương tiền",
+                "1": "343.872.968.705",
+                "2": "-",
+                "3": "212.920.620.191",
+                "4": "-",
+                "5": "343.872.968.705",
+                "6": "212.920.620.191"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "874.206.578.753",
+                "2": "-",
+                "3": "418.809.771.341",
+                "4": "-",
+                "5": "874.206.578.753",
+                "6": "418.809.771.341"
+            },
+            {
+                "0": "Nợ phải trả tài chính",
+                "1": "Nợ phải trả tài chính",
+                "2": "Nợ phải trả tài chính",
+                "3": "Nợ phải trả tài chính",
+                "4": "Nợ phải trả tài chính",
+                "5": "Nợ phải trả tài chính",
+                "6": "Nợ phải trả tài chính"
+            },
+            {
+                "0": "Vay",
+                "1": "2.052.945.972.681",
+                "2": "-",
+                "3": "618.690.305.273",
+                "4": "-",
+                "5": "2.052.945.972.681",
+                "6": "618.690.305.273"
+            },
+            {
+                "0": "Phải trả người bán",
+                "1": "1.971.271.636.818",
+                "2": "-",
+                "3": "981.794.284.232",
+                "4": "-",
+                "5": "1.971.271.636.818",
+                "6": "981.794.284.232"
+            },
+            {
+                "0": "Khoản phải trả khác và chi phí phải trả",
+                "1": "482.585.882.795",
+                "2": "-",
+                "3": "240.290.404.494",
+                "4": "-",
+                "5": "482.585.882.795",
+                "6": "240.290.404.494"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "4.506.803.492.294",
+                "2": "-",
+                "3": "1.840.774.993.999",
+                "4": "-",
+                "5": "4.506.803.492.294",
+                "6": "1.840.774.993.999"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_32",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "Giá trị hợp lý của tài sản tài chính và nợ phải trả tài chính được đánh giá tương đương với giá trị ghi số của chúng vào ngày 31 tháng 12 năm 2015 do tính chất ngắn hạn của các công cụ tài chính này.\n\n32\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN/HN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\n29. SÓ LIỆU TƯƠNG ỨNG\n\nMột số khoản mục tương ứng trên bằng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2014 đã được phân loại lại cho phù hợp với cách trình bày của báo cáo tài chính hợp nhất của năm nay do việc áp dụng Thông tư 200. Chi tiết như sau:\n\nVND",
+        "dataframe": [
+            {
+                "0": "Ngày 31 tháng 12năm 2014(đã được trình bàytrước đây)",
+                "1": "Phân loại lại",
+                "2": "Ngày 31 tháng 12năm 2014(được phân loại lại)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2015_consolidated_table_33",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "MWG_financial_statements_2015_consolidated"
+        },
+        "context_text": "BÀNG CÂN ĐỐI KẾ TOÁN HỢP NHÁT",
+        "dataframe": [
+            {
+                "0": "Phải thu ngắn hạn khác",
+                "1": "161.407.629.379",
+                "2": "5.217.189.550",
+                "3": "166.624.818.929"
+            },
+            {
+                "0": "Tài sản ngắn hạn khác",
+                "1": "5.217.189.550",
+                "2": "(5.217.189.550)",
+                "3": "-"
+            },
+            {
+                "0": "Phải thu dài hạn khác",
+                "1": "-",
+                "2": "74.281.249.525",
+                "3": "74.281.249.525"
+            },
+            {
+                "0": "Tài sản dài hạn khác",
+                "1": "74.281.249.525",
+                "2": "(74.281.249.525)",
+                "3": "-"
+            }
+        ]
+    }
+]

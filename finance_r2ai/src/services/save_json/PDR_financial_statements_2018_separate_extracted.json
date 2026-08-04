@@ -1,0 +1,3407 @@
+[
+    {
+        "chunk_id": "PDR_2018_separate_table_1",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "Công ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nBáo cáo tài chính riêng\n\nCho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\nEY\n\nBuilding a better\nworking world\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nBáo cáo tài chính riêng\n\nCho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nMỤC LỤC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Trang"
+            },
+            {
+                "0": "Thông tin chung",
+                "1": "1"
+            },
+            {
+                "0": "Báo cáo của Ban Tổng Giám đốc",
+                "1": "2"
+            },
+            {
+                "0": "Báo cáo kiểm toán độc lập",
+                "1": "3 - 4"
+            },
+            {
+                "0": "Bàng cân đối kế toán riêng",
+                "1": "5 - 6"
+            },
+            {
+                "0": "Báo cáo kết quả hoạt động kinh doanh riêng",
+                "1": "7"
+            },
+            {
+                "0": "Báo cáo lưu chuyển tiền tệ riêng",
+                "1": "8 - 9"
+            },
+            {
+                "0": "Thuyết minh báo cáo tài chính riêng",
+                "1": "10 - 38"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_2",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "Công ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nTHÔNG TIN CHUNG\n\nCÔNG TY\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt (\"Công ty\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh số 4103002655 do Sở Kế hoạch và Đầu tư (\"Sở KH&ĐT\") Thành phố Hồ Chí Minh cấp ngày 13 tháng 9 năm 2004, và theo các Giấy Chứng nhận Đăng ký Kinh doanh/ Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh.\n\nVào ngày 5 tháng 6 năm 2018, Công ty đã nhận được Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh lần thứ 25 do Sở KH&ĐT Thành phố Hồ Chí Minh cấp, phê duyệt việc tăng vốn điều lệ từ 2.219.909.230.000 VND lên 2.663.890.070.000 VND.\n\nCổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (\"SGDCKHCM\") với mã PDR theo Giấy phép Niêm yết số 1207/SGDHCM-NY do SGDCKHCM cấp ngày 9 tháng 7 năm 2010.\n\nHoạt động chính trong năm hiện tại của Công ty là xây dựng và mua bán nhà ở; xây dựng các công trình dân dụng, công trình công nghiệp và cầu đường; cung cấp dịch vụ môi giới bất động sản, định giá bất động sản, sàn giao dịch bất động sản và quản lý bất động sản.\n\nCông ty có trụ sở chính đăng ký tại Số 422, Đường Đào Trí, Khu phố 1, Phường Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam.\n\nHỘI ĐỒNG QUẢN TRỊ\n\nCác thành viên Hội đồng Quản trị trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Nguyễn Văn Đạt",
+                "1": "Chủ tịch"
+            },
+            {
+                "0": "Ông Nguyễn Tấn Danh",
+                "1": "Phó Chủ tịch"
+            },
+            {
+                "0": "Bà Trần Thị Hương",
+                "1": "Phó Chủ tịch"
+            },
+            {
+                "0": "Ông Đoàn Việt Đại Tử",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Lê Quang Phúc",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Khương Văn Mười",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Trần Trọng Gia Vinh",
+                "1": "Thành viên"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_3",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "BAN KIÊM SOÁT\n\nCác thành viên Ban kiểm soát trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Bà Nguyễn Thị Thu Nguyệt",
+                "1": "Trường ban"
+            },
+            {
+                "0": "Bà Nguyễn Ái Linh",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Bà Võ Thị Minh Hằng",
+                "1": "Thành viên"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_4",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "BAN TỔNG GIÁM ĐỐC\n\nCác thành viên Ban Tổng Giám đốc trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Nguyễn Văn Đạt",
+                "1": "Tổng Giám đốc"
+            },
+            {
+                "0": "Ông Phạm Trọng Hòa",
+                "1": "Phó Tổng Giám đốc"
+            },
+            {
+                "0": "Ông Bùi Quang Anh Vũ",
+                "1": "Phó Tổng Giám đốc"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_5",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT\n\nNgười đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo này là Ông Nguyễn Văn Đạt.\n\nKIÊM TOÁN VIÊN\n\nCông ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.\n\n1\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC\n\nBan Tổng Giám đốc Công ty Cổ phần Phát triển Bất động sản Phát Đạt (\"Công ty\") trình bày báo cáo này và báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018.\n\nTRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH RIÊNG\n\nBan Tổng Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính riêng của Công ty cho từng năm tài chính phần ánh trung thực và hợp lý tỉnh hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng của Công ty trong năm. Trong quá trình lập báo cáo tài chính riêng này, Ban Tổng Giám đốc cần phải:\n\n- lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;\n\n- thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;\n\nnêu rõ các chuẩn mục kế toán áp dụng cho Công ty có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mục này đã được trình bày và giải thích trong báo cáo tài chính riêng; và\n\n- lập báo cáo tài chính riêng trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động.\n\nBan Tổng Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phần ánh tỉnh hình tài chính riêng của Công ty, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Tổng Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Công ty và do đó phải thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lập và những vi phạm khác.\n\nBan Tổng Giám đốc cam kết đã tuân thủ những yêu cầu nếu trên trong việc lập báo cáo tài chính riêng kèm theo.\n\nCÔNG BÓ CỦA BAN TỔNG GIÁM ĐỐC\n\nTheo ý kiến của Ban Tổng Giám đốc, báo cáo tài chính riêng kèm theo đã phần ánh trung thực và hợp lý tính hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2018, kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nCông ty có các công ty con như được trình bày tại Thuyết minh số 14.1. Công ty đã lập báo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 155/2015/TT-BTC - Hướng dẫn về việc công bố thông tin trên thị trường chứng khoán. Công theo quy định tại văn bản này, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con (\"Nhóm Công ty\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018 vào ngày 14 tháng 3 năm 2019.\n\nNgười sử dụng báo cáo tài chính riêng nên đọc báo cáo tài chính riêng này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty.\n\nThay mặt Ban Tổng Giám đốc:\n\nNguyễn Văn Đạt\n\nTổng Giám đốc\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 14 tháng 3 năm 2019\n\n2\n\n\n\nEY\nBuilding a better working world\n\nErnst & Young Vietnam Limited\n20th Floor, Bitexco Financial Tower\n2 Hai Trieu Street, District 1\nHo Chi Minh City, S.R. of Vietnam\n\nTel: +84 28 3824 5252\nFax: +84 28 3824 5250\ney.com\n\nSố tham chiếu: 60822566/20264303\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP\n\nKính gửi: Quý Cổ đông của Công ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nChứng tôi đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Phát triển Bất động sản Phát Đạt (\"Công ty\"), được lập ngày 14 tháng 3 năm 2019 và được trình bày từ trang 5 đến trang 38, bao gồm bằng cân đối kế toán riêng vào ngày 31 tháng 12 năm 2018, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày và các thuyết minh báo cáo tài chính riêng kèm theo.\n\nTrách nhiệm của Ban Tổng Giám đốc\n\nBan Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tối đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sốt trọng yếu trong báo cáo tài chính riêng do gian lận hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tình hình hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\nA member firm of Ernst & Young Global Limited\n\n3\n\n\n\nEY\nBuilding a better working world\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến của chúng tối, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu, tỉnh hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2018, cũng như kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nVấn đề cần nhân mạnh\n\nChúng tôi xin lưu ý đến Thuyết minh số 2.1 của báo cáo tài chính riêng. Công ty đã lập báo cáo tài chính hợp nhất của Công ty và công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018 theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất này và báo cáo kiểm toán độc lập của chúng tôi đề ngày 14 tháng 3 năm 2019 đã đưa ra ý kiến chấp nhận toàn phần.\n\nÝ kiến kiểm toán của chúng tôi không liên quan đến vấn đề cần nhân mạnh này.\n\nCông ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam\n\nPhó Tổng Giám đốc\n\nGiấy CNĐKHN kiểm toán\n\nSố: 1772-2018-004-1\n\nLương Kim Diên An\n\nKiểm toán viên\n\nGiấy CNDKHN kiểm toán\n\nSô: 2736-2019-004-1\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 14 tháng 3 năm 2019\n\nA member firm of Ernst & Young Global Limited\n\n4\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB01-DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG\n\nvào ngày 31 tháng 12 năm 2018\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "100",
+                "1": "A. TÀI SẢN NGẮN HẠN",
+                "2": "",
+                "3": "8.049.201.789.818",
+                "4": "7.859.954.917.478"
+            },
+            {
+                "0": "110",
+                "1": "I. Tiền",
+                "2": "4",
+                "3": "189.262.235.861",
+                "4": "144.048.505.164"
+            },
+            {
+                "0": "111",
+                "1": "1. Tiền",
+                "2": "",
+                "3": "189.262.235.861",
+                "4": "144.048.505.164"
+            },
+            {
+                "0": "130",
+                "1": "II. Các khoản phải thu ngắn hạn",
+                "2": "",
+                "3": "1.990.898.043.936",
+                "4": "1.578.902.718.849"
+            },
+            {
+                "0": "131",
+                "1": "1. Phải thu ngắn hạn của khách hàng",
+                "2": "5",
+                "3": "875.041.196.088",
+                "4": "236.287.708.511"
+            },
+            {
+                "0": "132",
+                "1": "2. Trả trước cho người bán ngắn hạn",
+                "2": "6",
+                "3": "757.480.588.629",
+                "4": "690.229.700.651"
+            },
+            {
+                "0": "136",
+                "1": "3. Phải thu ngắn hạn khác",
+                "2": "7",
+                "3": "362.189.342.093",
+                "4": "656.526.367.981"
+            },
+            {
+                "0": "137",
+                "1": "4. Dự phòng phải thu ngắn hạn khó đòi",
+                "2": "5",
+                "3": "(3.813.082.874)",
+                "4": "(4.141.058.294)"
+            },
+            {
+                "0": "140",
+                "1": "III. Hàng tồn kho",
+                "2": "8",
+                "3": "5.865.813.659.699",
+                "4": "6.089.786.830.966"
+            },
+            {
+                "0": "141",
+                "1": "1. Hàng tồn kho",
+                "2": "",
+                "3": "5.865.813.659.699",
+                "4": "6.089.786.830.966"
+            },
+            {
+                "0": "150",
+                "1": "IV. Tài sản ngắn hạn khác",
+                "2": "",
+                "3": "3.227.850.322",
+                "4": "47.216.862.499"
+            },
+            {
+                "0": "151",
+                "1": "1. Chi phí trả trước ngắn hạn",
+                "2": "9",
+                "3": "3.227.850.322",
+                "4": "2.355.117.576"
+            },
+            {
+                "0": "152",
+                "1": "2. Thuế giá trị gia tăng được khấu trừ",
+                "2": "18",
+                "3": "-",
+                "4": "35.800.350.006"
+            },
+            {
+                "0": "153",
+                "1": "3. Thuế và các khoản khác phải thu Nhà nước",
+                "2": "18",
+                "3": "-",
+                "4": "9.061.394.917"
+            },
+            {
+                "0": "200",
+                "1": "B. TÀI SẢN DÀI HẠN",
+                "2": "",
+                "3": "3.074.130.644.928",
+                "4": "2.222.095.852.075"
+            },
+            {
+                "0": "210",
+                "1": "I. Các khoản phải thu dài hạn",
+                "2": "",
+                "3": "1.221.107.626.916",
+                "4": "1.459.408.639.650"
+            },
+            {
+                "0": "211",
+                "1": "1. Phải thu dài hạn của khách hàng",
+                "2": "5",
+                "3": "136.493.450.000",
+                "4": "159.372.177.750"
+            },
+            {
+                "0": "216",
+                "1": "2. Phải thu dài hạn khác",
+                "2": "7",
+                "3": "1.084.614.176.916",
+                "4": "1.300.036.461.900"
+            },
+            {
+                "0": "220",
+                "1": "II. Tài sản cố định",
+                "2": "",
+                "3": "10.533.573.446",
+                "4": "8.058.761.804"
+            },
+            {
+                "0": "221",
+                "1": "1. Tài sản cố định hữu hình",
+                "2": "10",
+                "3": "8.670.954.220",
+                "4": "2.760.319.809"
+            },
+            {
+                "0": "222",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "16.207.907.380",
+                "4": "8.527.551.925"
+            },
+            {
+                "0": "223",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(7.536.953.160)",
+                "4": "(5.767.232.116)"
+            },
+            {
+                "0": "227",
+                "1": "2. Tài sản cố định vô hình",
+                "2": "11",
+                "3": "1.862.619.226",
+                "4": "5.298.441.995"
+            },
+            {
+                "0": "228",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "3.171.378.036",
+                "4": "7.028.037.476"
+            },
+            {
+                "0": "229",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "",
+                "3": "(1.308.758.810)",
+                "4": "(1.729.595.481)"
+            },
+            {
+                "0": "230",
+                "1": "III. Bất động sản đầu tư",
+                "2": "12",
+                "3": "81.803.718.760",
+                "4": "187.656.326.218"
+            },
+            {
+                "0": "231",
+                "1": "1. Nguyên giá",
+                "2": "",
+                "3": "85.069.855.272",
+                "4": "189.664.270.272"
+            },
+            {
+                "0": "232",
+                "1": "2. Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(3.266.136.512)",
+                "4": "(2.007.944.054)"
+            },
+            {
+                "0": "240",
+                "1": "IV. Tài sản dở dang dài hạn",
+                "2": "",
+                "3": "66.967.587.658",
+                "4": "66.911.660.005"
+            },
+            {
+                "0": "242",
+                "1": "1. Chi phí xây dựng cơ bản dở dang",
+                "2": "13",
+                "3": "66.967.587.658",
+                "4": "66.911.660.005"
+            },
+            {
+                "0": "250",
+                "1": "V. Đầu tư tài chính dài hạn",
+                "2": "14",
+                "3": "770.624.000.000",
+                "4": "478.480.000.000"
+            },
+            {
+                "0": "251",
+                "1": "1. Đầu tư vào công ty con",
+                "2": "14.1",
+                "3": "770.624.000.000",
+                "4": "131.000.000.000"
+            },
+            {
+                "0": "252",
+                "1": "2. Đầu tư vào công ty liên kết",
+                "2": "14.2",
+                "3": "-",
+                "4": "296.000.000.000"
+            },
+            {
+                "0": "253",
+                "1": "3. Đầu tư góp vốn vào đơn vị khác",
+                "2": "14.3",
+                "3": "-",
+                "4": "51.480.000.000"
+            },
+            {
+                "0": "260",
+                "1": "VI. Tài sản dài hạn khác",
+                "2": "",
+                "3": "923.094.138.148",
+                "4": "21.580.464.398"
+            },
+            {
+                "0": "261",
+                "1": "1. Chi phí trả trước dài hạn",
+                "2": "9",
+                "3": "922.649.934.252",
+                "4": "21.067.019.225"
+            },
+            {
+                "0": "262",
+                "1": "2. Tài sản thuế thu nhập hoãn lại",
+                "2": "27.3",
+                "3": "444.203.896",
+                "4": "513.445.173"
+            },
+            {
+                "0": "270",
+                "1": "TỔNG CỘNG TÀI SẢN",
+                "2": "",
+                "3": "11.123.332.434.746",
+                "4": "10.082.050.769.553"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_6",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "5\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB01-DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "300",
+                "1": "C. NỘ PHẢI TRẢ",
+                "2": "",
+                "3": "7.675.993.635.393",
+                "4": "7.252.963.655.093"
+            },
+            {
+                "0": "310",
+                "1": "I. Nợ ngắn hạn",
+                "2": "",
+                "3": "922.176.628.777",
+                "4": "1.211.831.341.631"
+            },
+            {
+                "0": "311",
+                "1": "1. Phải trả người bán ngắn hạn",
+                "2": "15",
+                "3": "312.319.669.073",
+                "4": "100.187.824.622"
+            },
+            {
+                "0": "312",
+                "1": "2. Người mua trả tiền trước ngắn hạn",
+                "2": "16",
+                "3": "10.173.673.983",
+                "4": "701.189.815.134"
+            },
+            {
+                "0": "313",
+                "1": "3. Thuế và các khoản phải nộp Nhà nước",
+                "2": "17",
+                "3": "106.082.031.346",
+                "4": "44.356.017.704"
+            },
+            {
+                "0": "314",
+                "1": "4. Phải trả người lao động",
+                "2": "",
+                "3": "4.617.329.661",
+                "4": "3.703.172.029"
+            },
+            {
+                "0": "315",
+                "1": "5. Chi phí phải trả ngắn hạn",
+                "2": "18",
+                "3": "78.204.554.568",
+                "4": "100.108.893.586"
+            },
+            {
+                "0": "319",
+                "1": "6. Phải trả ngắn hạn khác",
+                "2": "19",
+                "3": "397.495.838.379",
+                "4": "202.085.134.376"
+            },
+            {
+                "0": "320",
+                "1": "7. Vay ngắn hạn",
+                "2": "20",
+                "3": "-",
+                "4": "47.196.419.134"
+            },
+            {
+                "0": "322",
+                "1": "8. Quỹ khen thưởng, phúc lợi",
+                "2": "21",
+                "3": "13.283.531.767",
+                "4": "13.004.065.046"
+            },
+            {
+                "0": "330",
+                "1": "II. Nợ dài hạn",
+                "2": "",
+                "3": "6.753.817.006.616",
+                "4": "6.041.132.313.462"
+            },
+            {
+                "0": "337",
+                "1": "1. Phải trả dài hạn khác",
+                "2": "19",
+                "3": "6.753.817.006.616",
+                "4": "6.041.132.313.462"
+            },
+            {
+                "0": "400",
+                "1": "D. VỐN CHỦ SỞ HỮU",
+                "2": "22.1",
+                "3": "3.447.338.799.353",
+                "4": "2.829.087.114.460"
+            },
+            {
+                "0": "410",
+                "1": "I. Vốn chủ sở hữu",
+                "2": "",
+                "3": "3.447.338.799.353",
+                "4": "2.829.087.114.460"
+            },
+            {
+                "0": "411",
+                "1": "1. Vốn cổ phần",
+                "2": "",
+                "3": "2.663.890.070.000",
+                "4": "2.219.909.230.000"
+            },
+            {
+                "0": "411a",
+                "1": "- Cổ phiếu phổ thông có quyền biểu quyết",
+                "2": "",
+                "3": "2.663.890.070.000",
+                "4": "2.219.909.230.000"
+            },
+            {
+                "0": "412",
+                "1": "2. Thặng dư vốn cổ phần",
+                "2": "",
+                "3": "11.680.300.000",
+                "4": "11.680.300.000"
+            },
+            {
+                "0": "418",
+                "1": "3. Quỹ đầu tư phát triển",
+                "2": "",
+                "3": "124.713.584.076",
+                "4": "102.713.584.076"
+            },
+            {
+                "0": "421",
+                "1": "4. Lợi nhuận sau thuế chưa phân phối",
+                "2": "",
+                "3": "647.054.845.277",
+                "4": "494.784.000.384"
+            },
+            {
+                "0": "421a",
+                "1": "- Lợi nhuận sau thuế chưa phân phối đến cuối năm trước",
+                "2": "",
+                "3": "6.803.160.384",
+                "4": "56.087.250.353"
+            },
+            {
+                "0": "421b",
+                "1": "- Lợi nhuận sau thuế chưa phân phối năm nay",
+                "2": "",
+                "3": "640.251.684.893",
+                "4": "438.696.750.031"
+            },
+            {
+                "0": "440",
+                "1": "TỔNG CỘNG NGUỒN VỐN",
+                "2": "",
+                "3": "11.123.332.434.746",
+                "4": "10.082.050.769.553"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_7",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "Võ Văn Giáp\n\nNgười lập\n\nVũ Quỳnh Hoa\n\nKế toán trường\n\nNguyên Văn Đạt.\n\nTổng Giám đốc\n\nNgày 14 tháng 3 năm 2019\n\n6\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB02-DN\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIỀU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "01",
+                "1": "1. Doanh thu bán hàng và cung cấp dịch vụ",
+                "2": "23",
+                "3": "2.268.911.021.752",
+                "4": "1.542.032.394.877"
+            },
+            {
+                "0": "02",
+                "1": "2. Các khoản giảm trừ doanh thu",
+                "2": "23",
+                "3": "(121.037.201.884)",
+                "4": "(215.406.237.704)"
+            },
+            {
+                "0": "10",
+                "1": "3. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "23",
+                "3": "2.147.873.819.868",
+                "4": "1.326.626.157.173"
+            },
+            {
+                "0": "11",
+                "1": "4. Giá vốn hàng bán và dịch vụ cung cấp",
+                "2": "24",
+                "3": "(1.466.558.349.018)",
+                "4": "(807.580.163.076)"
+            },
+            {
+                "0": "20",
+                "1": "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "681.315.470.850",
+                "4": "519.045.994.097"
+            },
+            {
+                "0": "21",
+                "1": "6. Doanh thu hoạt động tài chính",
+                "2": "",
+                "3": "2.288.897.458",
+                "4": "3.695.324.038"
+            },
+            {
+                "0": "22",
+                "1": "7. Chi phí tài chính",
+                "2": "",
+                "3": "-",
+                "4": "(878.810.109)"
+            },
+            {
+                "0": "23",
+                "1": "- Trong đó: Chi phí lãi vay",
+                "2": "",
+                "3": "-",
+                "4": "(638.810.109)"
+            },
+            {
+                "0": "25",
+                "1": "8. Chi phí bán hàng",
+                "2": "25",
+                "3": "(41.308.040.594)",
+                "4": "(101.154.109.064)"
+            },
+            {
+                "0": "26",
+                "1": "9. Chi phí quản lý doanh nghiệp",
+                "2": "25",
+                "3": "(79.976.241.712)",
+                "4": "(57.964.039.047)"
+            },
+            {
+                "0": "30",
+                "1": "10. Lợi nhuận thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "562.320.086.002",
+                "4": "362.744.359.915"
+            },
+            {
+                "0": "31",
+                "1": "11. Thu nhập khác",
+                "2": "26",
+                "3": "198.454.186.937",
+                "4": "194.074.109.752"
+            },
+            {
+                "0": "32",
+                "1": "12. Chi phí khác",
+                "2": "26",
+                "3": "(3.680.806.041)",
+                "4": "(5.686.153.216)"
+            },
+            {
+                "0": "40",
+                "1": "13. Lợi nhuận khác",
+                "2": "26",
+                "3": "194.773.380.896",
+                "4": "188.387.956.536"
+            },
+            {
+                "0": "50",
+                "1": "14. Tổng lợi nhuận kế toán trước thuế",
+                "2": "",
+                "3": "757.093.466.898",
+                "4": "551.132.316.451"
+            },
+            {
+                "0": "51",
+                "1": "15. Chi phí thuế TNDN hiện hành",
+                "2": "27.1",
+                "3": "(114.724.540.728)",
+                "4": "(110.270.491.673)"
+            },
+            {
+                "0": "52",
+                "1": "16. Chi phí thuế TNDN hoãn lại",
+                "2": "27.3",
+                "3": "(69.241.277)",
+                "4": "(717.074.747)"
+            },
+            {
+                "0": "60",
+                "1": "17. Lợi nhuận sau thuế TNDN",
+                "2": "",
+                "3": "642.299.684.893",
+                "4": "440.144.750.031"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_8",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "Ngày 14 tháng 3 năm 2019\n\n7\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB03-DN\n\nBÁO CÁO LƯU CHUYỀN TIỀN TỆ RIÊNG\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "",
+                "1": "I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "01",
+                "1": "Lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản:",
+                "2": "",
+                "3": "757.093.466.898",
+                "4": "551.132.316.451"
+            },
+            {
+                "0": "02",
+                "1": "Khấu hao và hao mòn tài sản cố định và bất động sản đầu tư (Hoàn nhập dự phòng) dự phòng",
+                "2": "10, 11, 12",
+                "3": "3.912.036.535",
+                "4": "2.392.731.239"
+            },
+            {
+                "0": "03",
+                "1": "Khấu hao và hao mòn tài sản cố định và bất động sản đầu tư (Hoàn nhập dự phòng) dự phòng",
+                "2": "10, 11, 12",
+                "3": "(327.975.420)",
+                "4": "255.263.000"
+            },
+            {
+                "0": "05",
+                "1": "Lãi từ hoạt động đầu tư",
+                "2": "",
+                "3": "(2.288.897.458)",
+                "4": "(3.679.904.844)"
+            },
+            {
+                "0": "06",
+                "1": "Chi phí lãi vay",
+                "2": "",
+                "3": "-",
+                "4": "638.810.109"
+            },
+            {
+                "0": "08",
+                "1": "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+                "2": "",
+                "3": "758.388.630.555",
+                "4": "550.739.215.955"
+            },
+            {
+                "0": "09",
+                "1": "Giảm (tăng) các khoản phải thu",
+                "2": "",
+                "3": "864.703.517.444",
+                "4": "(1.335.317.878.403)"
+            },
+            {
+                "0": "10",
+                "1": "Tăng hàng tồn kho",
+                "2": "",
+                "3": "(708.091.347.875)",
+                "4": "(222.203.288.906)"
+            },
+            {
+                "0": "11",
+                "1": "Tăng các khoản phải trả",
+                "2": "",
+                "3": "485.391.636.691",
+                "4": "5.956.730.615.531"
+            },
+            {
+                "0": "12",
+                "1": "Tăng chi phí trả trước",
+                "2": "",
+                "3": "(902.455.647.773)",
+                "4": "(5.118.094.786)"
+            },
+            {
+                "0": "14",
+                "1": "Tiền lãi vay đã trả",
+                "2": "",
+                "3": "(70.549.175.311)",
+                "4": "(1.561.581.403.647)"
+            },
+            {
+                "0": "15",
+                "1": "Thuế thu nhập doanh nghiệp đã nộp",
+                "2": "",
+                "3": "(83.035.315.972)",
+                "4": "(118.810.894.203)"
+            },
+            {
+                "0": "17",
+                "1": "Tiền chi khác cho hoạt động kinh doanh",
+                "2": "21",
+                "3": "(21.720.533.279)",
+                "4": "(10.077.716.432)"
+            },
+            {
+                "0": "20",
+                "1": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "322.631.764.480",
+                "4": "3.254.360.555.109"
+            },
+            {
+                "0": "",
+                "1": "II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "21",
+                "1": "Tiền chi để mua sắm tài sản cố định",
+                "2": "",
+                "3": "(9.426.068.547)",
+                "4": "(4.945.421.449)"
+            },
+            {
+                "0": "22",
+                "1": "Tiền thu từ thanh lý, nhượng bán tài sản cố định",
+                "2": "",
+                "3": "119.059.556.440",
+                "4": "-"
+            },
+            {
+                "0": "25",
+                "1": "Tiền chi đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "(689.624.000.000)",
+                "4": "-"
+            },
+            {
+                "0": "26",
+                "1": "Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "347.480.000.000",
+                "4": "-"
+            },
+            {
+                "0": "27",
+                "1": "Thu lãi tiền gửi",
+                "2": "",
+                "3": "2.288.897.458",
+                "4": "3.679.904.844"
+            },
+            {
+                "0": "30",
+                "1": "Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tư",
+                "2": "",
+                "3": "(230.221.614.649)",
+                "4": "(1.265.516.605)"
+            },
+            {
+                "0": "",
+                "1": "III. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "33",
+                "1": "Tiền thu từ đi vay",
+                "2": "20",
+                "3": "1.056.991.706.980",
+                "4": "-"
+            },
+            {
+                "0": "34",
+                "1": "Tiền trả nợ gốc vay",
+                "2": "20",
+                "3": "(1.104.188.126.114)",
+                "4": "(3.258.349.398.407)"
+            },
+            {
+                "0": "36",
+                "1": "Cổ tức đã trả",
+                "2": "",
+                "3": "-",
+                "4": "(116.625.000)"
+            },
+            {
+                "0": "40",
+                "1": "Lưu chuyển tiền thuần sử dụng vào hoạt động tài chính",
+                "2": "",
+                "3": "(47.196.419.134)",
+                "4": "(3.258.466.023.407)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_9",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "8\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB03-DN\n\nBÁO CÁO LƯU CHUYÊN TIÊN TỆ RIÊNG (tiếp theo)\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "50",
+                "1": "Lưu chuyển tiền thuần trong năm",
+                "2": "",
+                "3": "45.213.730.697",
+                "4": "(5.370.984.903)"
+            },
+            {
+                "0": "60",
+                "1": "Tiền đầu năm",
+                "2": "",
+                "3": "144.048.505.164",
+                "4": "149.419.490.067"
+            },
+            {
+                "0": "70",
+                "1": "Tiền cuối năm",
+                "2": "4",
+                "3": "189.262.235.861",
+                "4": "144.048.505.164"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_10",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "Võ Văn Giáp\n\nNgười lập\n\nNgày 14 tháng 3 năm 2019\n\n9\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n1. THÔNG TIN VỀ CÔNG TY\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt (\"Công ty\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh số 4103002655 do Sở Kế hoạch và Đầu tư (\"Sở KH&DT\") Thành phố Hồ Chí Minh cấp ngày 13 tháng 9 năm 2004, và theo các Giấy Chứng nhận Đăng ký Kinh doanh/ Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh.\n\nVào ngày 5 tháng 6 năm 2018, Công ty đã nhận được Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh lần thứ 25 do Sở KH&ĐT Thành phố Hồ Chí Minh cấp, phê duyệt việc tăng vốn điều lệ từ 2.219.909.230.000 VND lên 2.663.890.070.000 VND.\n\nCổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (\"SGDCKHCM\") với mã PDR theo Giấy phép Niêm yết số 1207/SGDHCM-NY do SGDCKHCM cấp ngày 9 tháng 7 năm 2010.\n\nHoạt động chính trong năm hiện tại của Công ty là xây dựng và mua bán nhà ở; xây dựng các công trình dân dụng, công trình công nghiệp và cầu đường; cung cấp dịch vụ môi giới bất động sản, định giá bất động sản, sản giao dịch bất động sản và quản lý bất động sản.\n\nCông ty có trụ sở chính đăng ký tại Số 422, Đường Đào Trí, Khu phố 1, Phường Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam.\n\nSố lượng nhân viên của Công ty tại ngày 31 tháng 12 năm 2018 là 185 người (ngày 31 tháng 12 năm 2017: 168 người).\n\n2. CƠ SỞ TRÌNH BÀY\n\n2.1 Mục đích lập báo cáo tài chính riêng\n\nCông ty có các công ty con như được trình bày tại Thuyết minh số 14.1. Công ty đã lập báo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 155/2015/TT-BTC - Hướng dẫn về việc công bố thông tin trên thị trường chứng khoán. Cũng theo quy định tại văn bản này, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con (\"Nhóm Công ty\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018 vào ngày 14 tháng 3 năm 2019.\n\nNgười sử dụng báo cáo tài chính riêng nên đọc báo cáo tài chính riêng này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tính hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tính hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty.\n\n2.2 Chuẩn mực và chế độ kế toán áp dụng\n\nBáo cáo tài chính riêng của Công ty được trình bày bằng đồng Việt Nam (\"VND\") phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam do Bộ Tài chính ban hành theo:\n\n- Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);\n\n- Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);\n\n- Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mục kế toán Việt Nam (Đợt 3);\n\n- Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 4); và\n\n- Quyết định số 100/2005/QD-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).\n\n10\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n2. CƠ SỞ TRÌNH BÀY (tiếp theo)\n\n2.2 Chuẩn mực và chế độ kế toán áp dụng (tiếp theo)\n\nTheo đó, báo cáo tài chính riêng được trình bày kèm theo và việc sử dụng báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục, nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tỉnh hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.\n\n2.3 Hình thức số kế toán áp dụng\n\nHình thức số kế toán được áp dụng của Công ty là Nhật ký chung.\n\n2.4 Ký kế toán năm\n\nKỳ kế toán năm của Công ty áp dụng cho việc lập báo cáo tài chính riêng bắt đầu từ ngày 1 tháng 1 và kết thúc vào ngày 31 tháng 12.\n\n2.5 Đơn vị tiền tệ trong kế toán\n\nBáo cáo tài chính riêng được lập bằng đơn vị tiền tệ trong kế toán của Công ty là VND.\n\n3. TÓM TÁT CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU\n\n3.1 Tiền\n\nTiền bao gồm tiền mặt tại quỹ và tiền gửi ngân hàng.\n\n3.2 Hàng tồn kho\n\nHàng tồn kho được ghi nhận theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.\n\nGiá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.\n\nCông ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho với giá trị được xác định như sau:\n\nHàng hóa - chi phí mua theo phương pháp bình quân gia quyền.\n\nDự phòng giảm giá hàng tồn kho\n\nDự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị (do giảm giá, hư hỏng, kém phẩm chất, lỗi thời v.v.) có thể xảy ra đối với hàng hóa tồn kho thuộc quyền sở hữu của Công ty dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc ký kế toán năm.\n\nTăng hoặc giảm số dư tài khoản dự phòng giảm giá hàng tồn kho được hạch toán vào tài khoản giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh riêng.\n\nHàng hóa bất động sản\n\nBất động sản được mua hoặc được xây dựng để bán trong quá trình hoạt động kinh doanh bình thường của Công ty, không phải để cho thuê hoặc chờ tăng giá, được ghi nhận là hàng hóa bất động sản theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.\n\n11\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.2 Hàng tồn kho (tiếp theo)\n\nGiá thành của hàng hóa bất động sản bao gồm:\n\n▶ Chi phí tiền sử dụng đất và tiền thuê đất;\n\n▶ Chi phí xây dựng trả cho nhà thầu; và\n\n▶ Chi phí lãi vay, chi phí kế hoạch, thiết kế, chi phí san lắp, đến bù giải phóng mặt bằng, phí tư vấn, thuế chuyển nhượng đất, chi phí quản lý xây dựng chung, và các chi phí liên quan khác.\n\nGiá trị thuần có thể thực hiện được là giá bán ước tính của hàng hóa bất động sản trong điều kiện kinh doanh bình thường, dựa trên giá thị trường vào ngày kết thúc ký kế toán và chiết khấu cho giá trị thời gian của dòng tiền, nếu đáng kể, và trừ chỉ phí ước tính để hoàn thành và chỉ phí bán hàng ước tính.\n\nGiá vốn của bất động sản đã bán được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng dựa trên các chi phí trực tiếp tạo thành bất động sản đó và chi phí chung được phân bổ trên cơ sở diện tích tương ứng của bất động sản đó.\n\n3.3 Các khoản phải thu\n\nCác khoản phải thu được trình bày trên báo cáo tài chính riêng theo giá trị ghi số các khoản phải thu từ khách hàng và phải thu khác sau khi cản trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.\n\nDự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc ký kế toán năm. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào tài khoản chi phí quản lý doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.4 Tài sản cố định\n\nTài sản cố định hữu hình và tài sản cố định vô hình được thể hiện theo nguyên giá trừ đi giá trị khấu hao và hao mòn lũy kế.\n\nNguyên giá tài sản cố định bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào hoạt động như dự kiến.\n\nCác chi phí mua sắm, nâng cấp và đổi mới tài sản cố định được ghi tăng nguyên giá của tài sản và chi phí bảo trì, sửa chữa được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.\n\nKhi tài sản cố định được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.5 Khâu hao và hao mòn\n\nKhấu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:",
+        "dataframe": [
+            {
+                "0": "Máy móc, thiết bị",
+                "1": "3 – 7 năm"
+            },
+            {
+                "0": "Phương tiện vận tải",
+                "1": "3 – 6 năm"
+            },
+            {
+                "0": "Quyền sử dụng đất",
+                "1": "49 năm"
+            },
+            {
+                "0": "Phần mềm máy tính",
+                "1": "3 năm"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_11",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "12\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.6 Bát động sản đầu tư\n\nBất động sản đầu tư bao gồm quyền sử dụng đất, nhà cửa hoặc một phần nhà cửa hoặc cả hai và cơ sở hạ tầng được đầu tư nhằm mục đích thu tiền cho thuê hoặc tăng giá trị hoặc cả hai hơn là phục vụ cho mục đích sản xuất hoặc cung cấp hàng hóa, dịch vụ; nhằm mục đích hành chính hoặc kinh doanh trong quá trình hoạt động kinh doanh bình thường.\n\nBất động sản đầu tư được thể hiện theo nguyên giá bao gồm cả các chi phí giao dịch liên quan trừ đi giá trị hao mòn lũy kế.\n\nCác khoản chi phí liên quan đến bất động sản đầu tư phát sinh sau ghi nhận ban đầu được hạch toán vào giá trị còn lại của bất động sản đầu tư khi Công ty có khả năng thu được các lợi ích kinh tế trong tương lai nhiều hơn mức hoạt động được đánh giá ban đầu của bất động sản đầu tư đó.\n\nKhấu hao bất động sản đầu tư được trích theo phương pháp đường thẳng trong suốt thời gian hữu dụng ước tính của các bất động sản như sau:\n\nNhà cửa và vật kiến trúc\n\n25 – 45 năm\n\nBất động sản đầu tư không còn được trình bày trên bằng cân đối kế toán riêng sau khi đã bán hoặc sau khi bất động sản đầu tư đã không còn được sử dụng và xét thấy không thu được lợi ích kinh tế trong tương lai từ việc thanh lý bất động sản đầu tư đó. Chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của bất động sản đầu tư được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng.\n\nViệc chuyển từ bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho thành bất động sản đầu tư chỉ khi có sự thay đổi về mục đích sử dụng như trường hợp chủ sở hữu chấm dứt sử dụng tài sản đó và bất đầu cho bên khác thuê hoạt động hoặc khi kết thúc giai đoạn xây dựng. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hay hàng tồn kho chỉ khi có sự thay đổi về mục đích sử dụng như các trường hợp chủ sở hữu bất đầu sử dụng tài sản này hoặc bất đầu triển khai cho mục đích bán. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho không làm thay đổi nguyên giá hay giá trị còn lại của bất động sản tại ngày chuyển đổi.\n\n3.7 Chi phí xây dựng cơ bản dở dang\n\nChi phí xây dựng cơ bản dở dang bao gồm tài sản cố định đang xây dựng và được ghi nhận theo giá gốc. Chi phí này bao gồm các chi phí về xây dựng, lắp đặt máy móc thiết bị và các chi phí trực tiếp khác. Chi phí xây dựng cơ bản dở dang chỉ được tính khấu hao khi các tài sản này hoàn thành và đưa vào sử dụng.\n\n3.8 Chi phí di vay\n\nChi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Công ty và được hạch toán như chi phí phát sinh trong năm, ngoại trừ các khoản được vốn hóa như nội dung của đoạn tiếp theo.\n\nChỉ phí đi vay liên quan trực tiếp đến việc mua sắm, xây dựng hoặc hình thành một tài sản cụ thể cần có một thời gian đủ dài để có thể đưa vào sử dụng theo mục đích định trước hoặc để bán được vốn hóa vào nguyên giá của tài sản đó.\n\n3.9 Chi phí trả trước\n\nChi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bằng cân đối kế toán riêng và được phân bổ trong khoảng thời gian trả trước hoặc thời gian các lợi ích kinh tế tương ứng được tạo ra từ các chi phí này.\n\n13\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.10 Các khoản đầu tư\n\nCác khoản đầu tư vào công ty con\n\nCác khoản đầu tư vào các công ty con mà trong đó Công ty nằm quyền kiểm soát được trình bày theo phương pháp giá gốc.\n\nCác khoản phân phối lợi nhuận mà Công ty nhận được từ lợi nhuận sau thuế chưa phân phối của các công ty con phát sinh sau ngày Công ty nắm quyền kiểm soát được ghi vào báo cáo kết quả hoạt động kinh doanh riêng. Các khoản phân phối khác được xem như phân thu hồi của các khoản đầu tư và được trừ vào giá trị đầu tư.\n\nĐầu tư vào công ty liên kết\n\nCác khoản đầu tư vào các công ty liên kết mà trong đó Công ty có ảnh hưởng đáng kể được trình bày theo phương pháp giá gốc.\n\nCác khoản phân phối lợi nhuận từ lợi nhuận sau thuế chưa phân phối của các công ty liên kết phát sinh sau ngày Công ty có ảnh hưởng đáng kể được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng. Các khoản phân phối khác được xem như phần thu hồi các khoản đầu tư và được trừ vào giá trị đầu tư.\n\nĐầu tư góp vốn vào đơn vị khác\n\nĐầu tư góp vốn vào đơn vị khác được trình bày theo phương pháp giá gốc.\n\nDự phòng giảm giá trị các khoản đầu tư góp vốn\n\nDự phòng được lập cho việc giảm giá trị của các khoản đầu tư góp vốn vào ngày kết thúc kỳ kế toán được lập theo hướng dẫn của Thông tư số 228/2009/TT-BTC do Bộ Tài chính ban hành ngày 7 tháng 12 năm 2009 và Thông tư số 89/2013/TT-BTC do Bộ Tài chính ban hành ngày 28 tháng 6 năm 2013. Tăng hoặc giảm số dự tài khoản dự phòng được hạch toán vào tài khoản chi phí tài chính trên báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.11 Các khoản phải trả và chi phí trích trước\n\nCác khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được mà không phụ thuộc vào việc Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.\n\n3.12 Phân chia lợi nhuận\n\nLợi nhuận thuần sau thuế thu nhập doanh nghiệp có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam.\n\nCông ty trích lập các quỹ dự phòng sau đây từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Công ty theo đề nghị của Hội đồng Quản trị (\"HĐQT\") và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông thường niên.\n\nQuỹ đầu tư phát triển\n\nQuỹ này được trích lập nhằm phục vụ việc mở rộng hoạt động hoặc đầu tư chiều sâu của Công ty.\n\nQuỹ khen thưởng, phúc lợi\n\nQuỹ này được trích lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho công nhân viên, và được trình bày như một khoản phải trả trên bằng cân đối kế toán riêng.\n\nCổ tức\n\nCổ tức phải trả được đề nghị bởi HĐQT của Công ty và được phân loại như một sự phân phối của lợi nhuận chưa phân phối trong khoản mục vớn chủ sở hữu trên bằng cân đối kế toán riêng cho đến khi được các cổ đông thông qua tại Đại hội đồng cổ đông thường niên. Khi đó, cổ tức sẽ được ghi nhận như một khoản nợ phải trả trên bằng cân đối kế toán riêng.\n\n14\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.13 Ghi nhận doanh thu\n\nDoanh thu được ghi nhận khi Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng khi ghi nhận doanh thu:\n\nDoanh thu bán căn hộ\n\nĐối với các căn hộ mà Công ty bán sau khi đã hoàn tất việc xây dựng, doanh thu và giá vốn được được ghi nhận khi phần lớn rủi ro và lợi ích liên quan đến căn hộ đã được chuyển glao sang người mua, thường là trùng với việc bản giao căn hộ hoặc khi quá hạn 7 ngày kể từ ngày đến hạn trong thông báo bản giao căn hộ.\n\nDoanh thu bán lô đất và đất đã xây dựng cơ sở hạ tầng\n\nDoanh thu bán lô đất và đất đã xây dựng cơ sở hạ tầng được xác định là tổng số tiền được nhận khi đất và đất đã xây dựng cơ sở hạ tầng được bàn giao cho khách hàng.\n\nDoanh thu cho thuê\n\nCác khoản doanh thu tiền thuê phải thu dưới hình thức thuê hoạt động được ghi nhận theo phương pháp đường thẳng dựa trên thời hạn thuê, ngoại trừ các khoản thu nhập cho thuê bất thường được ghi nhận khi phát sinh.\n\nDoanh thu cung cấp dịch vụ\n\nDoanh thu được ghi nhận khi dịch vụ đã được cung cấp và hoàn thành.\n\nTiền lãi\n\nTiền lãi được ghi nhận khi tiền lãi phát sinh trên cơ sở đồn tích (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.\n\n3.14 Thuế\n\nThuế thu nhập hiện hành\n\nTài sản thuế thu nhập và thuế thu nhập phải nộp cho kỳ hiện hành và các kỳ trước được xác định bằng số tiền dự kiến được thu hồi từ hoặc phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc kỳ kế toán.\n\nThuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng, ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\nCông ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.\n\n15\n\nH.H.H\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.14 Thuế (tiếp theo)\n\nThuế thu nhập hoãn lại\n\nThuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của các khoản mục này trong báo cáo tài chính riêng.\n\nThuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế. Tài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các kỳ sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này.\n\nGiá trị ghi số của tài sản thuế thu nhập hoãn lại phải được xem xét lại vào ngày kết thúc kỳ kế toán và phải giảm giá trị ghi số của tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập hoãn lại chưa ghi nhận trước đây được xem xét lại vào ngày kết thúc kỳ kế toán và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.\n\nTài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ kế toán tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc kỳ kế toán.\n\nThuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng, ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\nCông ty chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải nộp khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải nộp liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế đối với cùng một đơn vị chịu thuế.\n\n3.15 Các bên liên quan\n\nCác bên được coi là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm các thành viên gia đình thân cận của các cá nhân được coi là liên quan.\n\n16\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n4. TIÊN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "112.809.853",
+                "2": "87.679.956"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "189.149.426.008",
+                "2": "143.960.825.208"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "189.262.235.861",
+                "2": "144.048.505.164"
+            },
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Giao dịch không bằng tiền ảnh hưởng đến báo cáo lưu chuyển tiền tệ:Các khoản phải thu được chuyển thành đầu tư góp vốn vào đơn vị khác",
+                "1": "103.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "875.041.196.088",
+                "2": "236.287.708.511"
+            },
+            {
+                "0": "Phải thu bên khác",
+                "1": "764.111.526.919",
+                "2": "175.235.626.934"
+            },
+            {
+                "0": "- Công ty Cổ phần Đầu tư Bất động sảnThiên Minh (\"Thién Minh\") (*)",
+                "1": "419.425.589.072",
+                "2": "-"
+            },
+            {
+                "0": "- Ông Phạm Thanh Điền",
+                "1": "71.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "- Công ty Cổ phần Kinh doanh Bất độngsản Minh Hoàng (\"Minh Hoàng\")",
+                "1": "25.135.776.394",
+                "2": "-"
+            },
+            {
+                "0": "- Công ty Cổ phần Đầu tư Phát triển Vĩnh Hội(hiện đã sáp nhập vào Công ty Cổ phầnĐầu tư Phú Mỹ Hưng) (\"Vĩnh Hội\")",
+                "1": "24.200.000.000",
+                "2": "26.400.000.000"
+            },
+            {
+                "0": "- Công ty TNHH Đầu tư Big Gain (\"Big Gain\")",
+                "1": "13.951.350.000",
+                "2": "-"
+            },
+            {
+                "0": "- Công ty Cổ phần Dịch vụ Quản lý ToànTâm (\"Toàn Tâm\")",
+                "1": "4.785.609.500",
+                "2": "48.744.884.500"
+            },
+            {
+                "0": "- Công ty TNHH Bất động sản Xuân Thành",
+                "1": "-",
+                "2": "37.899.663.000"
+            },
+            {
+                "0": "- Khác",
+                "1": "205.613.201.953",
+                "2": "62.191.079.434"
+            },
+            {
+                "0": "Phải thu bên liên quan (Thuyết minh số 28)",
+                "1": "110.929.669.169",
+                "2": "61.052.081.577"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "136.493.450.000",
+                "2": "159.372.177.750"
+            },
+            {
+                "0": "Phải thu bên liên quan (Thuyết minh số 28)",
+                "1": "117.000.000.000",
+                "2": "117.000.000.000"
+            },
+            {
+                "0": "Phải thu bên khác - Toàn Tâm",
+                "1": "19.493.450.000",
+                "2": "42.372.177.750"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "1.011.534.646.088",
+                "2": "395.659.886.261"
+            },
+            {
+                "0": "Dự phòng phải thu ngắn hạn khó đòi",
+                "1": "(3.813.082.874)",
+                "2": "(4.141.058.294)"
+            },
+            {
+                "0": "GIÁ TRỊ THUÀN",
+                "1": "1.007.721.563.214",
+                "2": "391.518.827.967"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_12",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "(*) Đây là khoản phải thu liên quan đến việc chuyển nhượng 194 căn hộ văn phòng của dự án Millennium tọa lạc tại Số 132, Đường Bến Văn Đồn, Phường 6, Quận 4, Thành phố Hồ Chí Minh (\"dự án Millennium\").\n\n17\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n5. PHẢI THU CỦA KHÁCH HÀNG (tiếp theo)\n\nChi tiết tỉnh hình tăng giảm dự phòng phải thu ngắn hạn khó đòi như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "4.141.058.294",
+                "2": "3.885.795.294"
+            },
+            {
+                "0": "Cộng: Dự phòng trích lập trong năm",
+                "1": "-",
+                "2": "255.493.000"
+            },
+            {
+                "0": "Trừ: Hoàn nhập dự phòng trong năm",
+                "1": "(327.975.420)",
+                "2": "(230.000)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "3.813.082.874",
+                "2": "4.141.058.294"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Tân Hoàng (*)",
+                "1": "223.000.000.000",
+                "2": "223.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Tam Bình (*)",
+                "1": "200.000.000.000",
+                "2": "200.000.000.000"
+            },
+            {
+                "0": "Tổng Công ty Cổ phần Đền bù Giải tỏa",
+                "1": "174.188.023.851",
+                "2": "174.340.420.229"
+            },
+            {
+                "0": "Công ty Cổ phần Đức Khải",
+                "1": "67.051.706.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Xây dựng Thương mại và Dịch vụ Toàn Thuận Phát",
+                "1": "62.576.147.735",
+                "2": "68.237.428.763"
+            },
+            {
+                "0": "Khác",
+                "1": "30.664.711.043",
+                "2": "24.651.851.659"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "757.480.588.629",
+                "2": "690.229.700.651"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_13",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "(*) Đây là các khoản ứng trước liên quan đến việc đầu tư và hợp tác xây dựng dự án Cảng trung chuyển ICD tại Phường Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam.\n\n18\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n7. PHẢI THU KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "362.189.342.093",
+                "2": "656.526.367.981"
+            },
+            {
+                "0": "Phải thu bên khác",
+                "1": "232.027.834.842",
+                "2": "48.617.982.678"
+            },
+            {
+                "0": "- Ký quỹ đấu giá dự án Nhon Hội – Bình Định",
+                "1": "132.400.000.000",
+                "2": "-"
+            },
+            {
+                "0": "- Minh Hoàng (ii)",
+                "1": "50.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "- Ký quỹ ký cược khác",
+                "1": "6.600.000.000",
+                "2": "6.000.000.000"
+            },
+            {
+                "0": "- Khác",
+                "1": "43.027.834.842",
+                "2": "42.617.982.678"
+            },
+            {
+                "0": "Phải thu bên liên quan (Thuyết minh số 28)",
+                "1": "130.161.507.251",
+                "2": "607.908.385.303"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "1.084.614.176.916",
+                "2": "1.300.036.461.900"
+            },
+            {
+                "0": "Phải thu bên khác",
+                "1": "818.647.214.016",
+                "2": "1.072.696.710.000"
+            },
+            {
+                "0": "- Công ty Cổ phần Đoàn Ánh Dương Phú Quốc (\"Đoàn Ánh Dương\") (i)",
+                "1": "446.000.000.000",
+                "2": "476.000.000.000"
+            },
+            {
+                "0": "- Minh Hoàng (ii)",
+                "1": "361.400.000.000",
+                "2": "500.000.000.000"
+            },
+            {
+                "0": "- Công ty Cổ phần Khu Du lịch và Khách sạn Phát Đạt - Quảng Ngãi",
+                "1": "9.000.000.000",
+                "2": "18.000.000.000"
+            },
+            {
+                "0": "- Khác",
+                "1": "2.247.214.016",
+                "2": "78.696.710.000"
+            },
+            {
+                "0": "Phải thu bên liên quan (Thuyết minh số 28)",
+                "1": "265.966.962.900",
+                "2": "227.339.751.900"
+            },
+            {
+                "0": "- Công ty Cổ phần Thương mại Vận tải biển Trường Phát Lộc (\"Trường Phát Lộc\") (iii)",
+                "1": "126.400.000.000",
+                "2": "126.400.000.000"
+            },
+            {
+                "0": "- Công ty Cổ phần Đầu tư Thương mại Dịch vụ T.A.M (\"T.A.M\") (iv)",
+                "1": "100.939.751.900",
+                "2": "100.939.751.900"
+            },
+            {
+                "0": "- Công ty Cổ phần ĐK Phú Quốc (\"ĐK Phú Quốc\")",
+                "1": "38.627.211.000",
+                "2": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "1.446.803.519.009",
+                "2": "1.956.562.829.881"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_14",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "(i) Vào ngày 18 tháng 12 năm 2017, Công ty đã ký kết Hợp đồng hợp tác đầu tư (\"HĐHTĐT\") số 01/2017/HĐHTĐT/ĐAD-PĐ với Đoàn Ánh Dương liên quan đến việc xây dựng, khai thác và kinh doanh dự án Khu du lịch sinh thái Vũng Bầu tọa lạc tại Xã Cửa Cạn, Huyện Phú Quốc, Tĩnh Kiên Giang với tổng giá trị là 1.727.000.000.000 VND. Theo đó, phần lợi nhuận sau thuế cửa dự án sẽ được phân chia theo tỷ lệ đóng góp tải chính của các bên nhưng không thấp hơn 20%/năm dựa trên phần vốn góp của Công ty vào dự án. Vào ngày 31 tháng 12 năm 2017, Công ty đã góp 476.000.000.000 VND. Trong năm 2018, Công ty đã thu hồi 30.000.000.000 VND.\n\n(ii) Vào ngày 8 tháng 12 năm 2017, Công ty đã ký kết Hợp đồng hợp tác kinh doanh (\"HĐHTKD\") số 01/2017/HĐHTKD/MH-PĐ với Minh Hoàng liên quan đến việc khai thác kinh doanh sản thương mại và căn hộ văn phòng của dự án Millennium với tổng giá trị là 628.822.606.040 VND và hưởng lợi nhuận sau thuế thực tế phát sinh từ việc kinh doanh nếu trên theo tỷ lệ vốn góp. Vào ngày 31 tháng 12 năm 2017, Công ty đã góp 500.000.000.000 VND. Trong năm 2018, Công ty đã góp thêm 14.000.000.000 VND. Vào ngày 12 tháng 6 năm 2018, Công ty đã thanh lý hợp đồng này, thu hồi 152.600.000.000 VND và hưởng lợi nhuận sau thuế được chia với số tiền là 65.000.000.000 VND. Vào ngày kết thúc ký kế toán năm, Công ty đã nhận 15.000.000.000 VND lợi nhuận được chia, còn phải thu 361.400.000.000 VND vốn góp và 50.000.000.000 VND lợi nhuận được chia.\n\n19\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n7. PHẢI THU KHÁC (tiếp theo)\n\n(iii) Vào ngày 10 tháng 11 năm 2015, Công ty đã ký kết HĐHTĐT với Trường Phát Lộc liên quan đến việc phát triển dự án Millennium thời hạn 3 năm với tổng giá trị là 883.000.000.000 VND. Theo đó, Công ty được hưởng lợi nhuận sau thuế thực tế phát sinh từ dự án nhưng không thấp hơn khoản đầu tư ban đầu. Vào ngày 31 tháng 12 năm 2017, Công ty đã góp 126.400.000.000 VND. Vào ngày 30 tháng 8 năm 2018, Công ty đã thanh lý hợp đồng này và hưởng lợi nhuận sau thuế được chia với số tiền là 125.000.000.000 VND. Vào ngày kết thúc ký kế toán năm, Công ty đã nhận 45.000.000.000 VND lợi nhuận được chia, còn phải thu 126.400.000.000 VND vốn góp và 80.000.000.000 VND lợi nhuận được chia.\n\n(iv) Vào ngày 12 tháng 4 năm 2016, Công ty đã ký kết HĐHTĐT số 01/HĐ-2016/PĐ-T.A.M với T.A.M liên quan đến việc phát triển dự án toạ lạc tại Số 239, Đường Cách Mạng Thắng Tám, Phương 4, Quận 3, Thành phố Hồ Chí Minh thời hạn 3 năm. Theo HĐHTĐT, Công ty đã góp 100.939.751.900 VND và sẽ nhận lợi nhuận sau thuế thực tế phát sinh từ dự án. Vào ngày 25 tháng 12 năm 2017, hai bên đã tiến hành thanh lý hợp đồng trước thời hạn. Theo đó, Công ty đã chuyển giao toàn bộ quyền phát triển dự án này cho T.A.M và thu lại phần vốn góp ban đầu cùng với phần lãi thỏa thuận với số tiền là 180.000.000.000 VND. Vào ngày kết thúc ký kế toán năm, Công ty đã thu hồi phần lãi thỏa thuận và phần vốn góp sẽ được thu hồi theo tiến độ thỏa thuận.\n\n8. HÀNG TÔN KHO",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Bất động sản (*)",
+                "1": "5.865.341.180.580",
+                "2": "6.089.306.979.559"
+            },
+            {
+                "0": "Hàng hóa",
+                "1": "472.479.119",
+                "2": "479.851.407"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "5.865.813.659.699",
+                "2": "6.089.786.830.966"
+            },
+            {
+                "0": "Dự án The EverRich 2 (i)",
+                "1": "3.593.255.243.078",
+                "2": "4.290.528.718.898"
+            },
+            {
+                "0": "Dự án The EverRich 3 (ii)",
+                "1": "2.051.827.016.256",
+                "2": "1.545.661.117.204"
+            },
+            {
+                "0": "Dự án Bầu Cả (iii)",
+                "1": "98.559.426.839",
+                "2": "19.845.061.918"
+            },
+            {
+                "0": "Dự án Phan Đình Phùng (iv)",
+                "1": "72.633.584.240",
+                "2": "40.568.907.458"
+            },
+            {
+                "0": "Dự án The EverRich Infinity (v)",
+                "1": "-",
+                "2": "143.905.122.710"
+            },
+            {
+                "0": "Các dự án khác",
+                "1": "49.065.910.167",
+                "2": "48.798.051.371"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "5.865.341.180.580",
+                "2": "6.089.306.979.559"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_15",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "Vào ngày 3 tháng 1 năm 2019, Công ty đã ký kết các hợp đồng thế chấp dự án The EverRich 2 và The EverRich 3 cùng toàn bộ quyền tài sản phát sinh từ các dự án này cho Ngân hàng Thương mại Cổ phần Việt Nam Thịnh Vượng (\"VPBank\") để bảo lãnh cho các khoản vay của các đối tác kinh doanh của Công ty.\n\nChi phí lãi vay phát sinh tài trợ cho việc đầu tư, phát triển các dự án đã được vốn hóa trong năm với số tiền là 70.549.175.311 VND (cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017: 253.791.707.190 VND).\n\n20\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n8. HÀNG TÔN KHO (tiếp theo)\n\n(i) Dự án The EverRich 2 (trước đây là dự án River City)\n\nDự án này tọa lạc tại Số 422, Đường Đào Trí, Khu phố 1, Phường Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam. Số dư cuối năm của dự án này yếu bao gồm tiền Gerri thường đất, chỉ phí lãi vay và chỉ phí xây dựng. Dự án này đã được xây dựng xong phần móng cọc cho khối nhà A, B, C, D.\n\nVào ngày 8 tháng 2 năm 2018, Công ty đã ký Biên bản Thanh lý các HĐHTKD với Công ty Cổ phần Tư vấn CRE & AGI (\"CRE & AGI\") và Công ty TNHH Đầu tư Bất động sản Phú Hưng (\"Phú Hưng\") liên quan đến việc hợp tác đầu tư để xây dựng và quản lý kinh doanh dự án The EverRich 2. Theo đó, Công ty có nghĩa vụ bồi thường cho CRE & AGI và Phú Hưng với số tiền lần lượt là 350.000.000.000 VND và 565.331.115.914 VND. Vào ngày kết thúc ký kế toán năm, Công ty đã hoàn thành các nghĩa vụ tài chính này và đang trong quả trình hoàn thiện các yêu cầu theo quy định của Nhà nước để đủ điều kiện chuyển nhượng dự án theo HĐHTĐT số 01/HĐHTĐT-E2/2017 ngày 26 tháng 12 năm 2017 và các phụ lục điều chỉnh (Thuyết minh số 19).\n\nVào ngày 24 tháng 12 năm 2018, Công ty đã ký kết hợp đồng và chuyển nhượng 297 căn thuộc khối nhà C cho Big Gain với tổng số tiền là 947.833.813.745 VND.\n\n(ii) Dự án The EverRich 3\n\nDự án này tọa lạc tại Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh. Số dư cuối năm của dự án này chủ yếu bao gồm tiền bởi thường đất, chi phí thiết kế, san lắp mặt bằng, chi phí lãi vay và chi phí xây dựng cơ sở hạ tầng. Vào ngày kết thúc kỳ kế toán năm, Công ty đang trong quá trình hoàn thiện các yêu cầu theo quy định của Nhà nước để đủ điều kiện chuyển nhượng dự án này theo HĐHTĐT số 01/HDHTĐT-E3/2017 ngày 26 tháng 12 năm 2017 và các phụ lục điều chỉnh (Thuyết minh số 19).\n\nVào ngày 21 tháng 2 năm 2019, HĐQT của Công ty đã thông qua Quyết định Số 02/2019/QĐ-HĐQT về việc chuyển nhượng một phần dự án The EverRich 3 (Lô B1 và Lô B4) có quy mô 29.060,8 m² theo Quyết định số 498/QĐ-UBND của Ủy ban Nhân dân Thành phố Hồ Chí Minh ngày 2 tháng 2 năm 2019 cho Công ty TNHH Dynamic Innovation (\"Dynamic\") với tổng số tiền là 1.162.432.000.000 VND.\n\n(iii) Dự án Bàu Cả\n\nDự án này tọa lạc tại Phường Lê Hồng Phong và Phường Trần Hưng Đạo, Thành phố Quảng Ngãi, Tĩnh Quảng Ngãi. Số dư cuối năm của dự án này chủ yếu bao gồm tiền bổi thường đất và chi phí xây dựng.\n\n(iv) Dự án Phan Đình Phùng\n\nDự án này tọa lạc tại Số 8, Đường Vỗ Văn Tần, Quận 3, Thành phố Hồ Chí Minh theo hình thức Hợp đồng Xây dựng – Chuyển giao. Vào ngày 2 tháng 1 năm 2018, Công ty đã được phê duyệt về việc lựa chọn nhà đầu tư liên danh theo Quyết định số 01/QĐ-UBND của Ủy ban nhân dân Thành phố Hồ Chí Minh. Số dư cuối năm của dự án này chủ yếu bao gồm phí tư vấn, khảo sát, quản lý và bảo lãnh thực hiện dự án.\n\n(v) Dụ án The EverRich Infinity\n\nDự án này tọa lạc tại Số 290, Đường An Dương Vương, Phương 4, Quận 5, Thành phố Hồ Chí Minh. Vào ngày kết thúc ký kế toán năm, dự án đã hoàn thành và Công ty đã bàn giao toàn bộ các căn hộ cho khách hàng theo các hợp đồng mua bán đã ký.\n\n21\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n9. CHI PHÍ TRÀ TRƯỚC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "3.227.850.322",
+                "2": "2.355.117.576"
+            },
+            {
+                "0": "Chi phí dịch vụ thuê ngoài",
+                "1": "1.782.577.621",
+                "2": "1.590.681.406"
+            },
+            {
+                "0": "Phí bảo hiểm",
+                "1": "522.160.041",
+                "2": "467.583.892"
+            },
+            {
+                "0": "Chi phí thuê",
+                "1": "368.836.791",
+                "2": "39.771.375"
+            },
+            {
+                "0": "Khác",
+                "1": "554.275.869",
+                "2": "257.080.903"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "922.649.934.252",
+                "2": "21.067.019.225"
+            },
+            {
+                "0": "Chi phí bồi thường dự án The EverRich 2(Thuyết minh số 8)",
+                "1": "915.331.115.914",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí quản lý căn hộ",
+                "1": "3.382.434.585",
+                "2": "11.711.809.547"
+            },
+            {
+                "0": "Chi phí thuê",
+                "1": "2.684.144.642",
+                "2": "4.871.306.448"
+            },
+            {
+                "0": "Chi phí hoa hồng môi giới",
+                "1": "-",
+                "2": "3.801.263.949"
+            },
+            {
+                "0": "Khác",
+                "1": "1.252.239.111",
+                "2": "682.639.281"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "925.877.784.574",
+                "2": "23.422.136.801"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_16",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "10. TÀI SẢN CÓ ĐỊNH HỮU HÌNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Máy móc và thiết bị",
+                "2": "Phương tiện vận tải",
+                "3": "VND Tổng cộng"
+            },
+            {
+                "0": "Nguyên giá:",
+                "1": "Nguyên giá:",
+                "2": "Nguyên giá:",
+                "3": "Nguyên giá:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "3.301.132.387",
+                "2": "5.226.419.538",
+                "3": "8.527.551.925"
+            },
+            {
+                "0": "Mua mới",
+                "1": "38.455.455",
+                "2": "7.641.900.000",
+                "3": "7.680.355.455"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "3.339.587.842",
+                "2": "12.868.319.538",
+                "3": "16.207.907.380"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:",
+                "3": "Trong đó:"
+            },
+            {
+                "0": "Đã khấu hao hết",
+                "1": "2.244.925.203",
+                "2": "3.066.637.720",
+                "3": "5.311.562.923"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế:",
+                "1": "Giá trị hao mòn lũy kế:",
+                "2": "Giá trị hao mòn lũy kế:",
+                "3": "Giá trị hao mòn lũy kế:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "(2.288.082.466)",
+                "2": "(3.479.149.650)",
+                "3": "(5.767.232.116)"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "(363.082.738)",
+                "2": "(1.406.638.306)",
+                "3": "(1.769.721.044)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "(2.651.165.204)",
+                "2": "(4.885.787.956)",
+                "3": "(7.536.953.160)"
+            },
+            {
+                "0": "Giá trị còn lại:",
+                "1": "Giá trị còn lại:",
+                "2": "Giá trị còn lại:",
+                "3": "Giá trị còn lại:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "1.013.049.921",
+                "2": "1.747.269.888",
+                "3": "2.760.319.809"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "688.422.638",
+                "2": "7.982.531.582",
+                "3": "8.670.954.220"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_17",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "22\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n11. TÀI SẢN CÓ ĐỊNH VỐ HÌNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Quyền sử dụng đất (*)",
+                "2": "Phần mềm máy tính",
+                "3": "VND Tổng cộng"
+            },
+            {
+                "0": "Nguyên giá:",
+                "1": "Nguyên giá:",
+                "2": "Nguyên giá:",
+                "3": "Nguyên giá:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "5.059.556.440",
+                "2": "1.968.481.036",
+                "3": "7.028.037.476"
+            },
+            {
+                "0": "Mua trong năm",
+                "1": "-",
+                "2": "1.202.897.000",
+                "3": "1.202.897.000"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "(5.059.556.440)",
+                "2": "-",
+                "3": "(5.059.556.440)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "-",
+                "2": "3.171.378.036",
+                "3": "3.171.378.036"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:",
+                "3": "Trong đó:"
+            },
+            {
+                "0": "Đã hao mòn hết",
+                "1": "-",
+                "2": "718.481.036",
+                "3": "718.481.036"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế:",
+                "1": "Giá trị hao mòn lũy kế:",
+                "2": "Giá trị hao mòn lũy kế:",
+                "3": "Giá trị hao mòn lũy kế:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "(837.503.335)",
+                "2": "(892.092.146)",
+                "3": "(1.729.595.481)"
+            },
+            {
+                "0": "Hao mòn trong năm",
+                "1": "(94.974.605)",
+                "2": "(416.666.664)",
+                "3": "(511.641.269)"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "932.477.940",
+                "2": "-",
+                "3": "932.477.940"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "-",
+                "2": "(1.308.758.810)",
+                "3": "(1.308.758.810)"
+            },
+            {
+                "0": "Giá trị còn lại:",
+                "1": "Giá trị còn lại:",
+                "2": "Giá trị còn lại:",
+                "3": "Giá trị còn lại:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "4.222.053.105",
+                "2": "1.076.388.890",
+                "3": "5.298.441.995"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "-",
+                "2": "1.862.619.226",
+                "3": "1.862.619.226"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_18",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "(*) Quyền sử dụng đất (\"QSĐ\") có thời hạn tới năm 2058 với giá trị 5.059.556.440 VND toạ lạc tại Phương Trần Phú, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi, Việt Nam. Vào ngày 26 tháng 12 năm 2018, Công ty đã chuyển nhượng QSĐB này cho Bà Đoàn Thị Tráng theo Hợp đồng Chuyển nhượng số 2621/HĐCNQSQSĐB/PĐ với giá trị chuyển nhượng là 42.774.404.040 VND (Thuyết minh số 28).\n\n23\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n12. BẮT ĐỘNG SẢN ĐẦU TƯ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Quyền sử dụng đất",
+                "2": "Nhà cửa và vật kiến trúc",
+                "3": "VND Tổng cộng"
+            },
+            {
+                "0": "Nguyên giá:",
+                "1": "Nguyên giá:",
+                "2": "Nguyên giá:",
+                "3": "Nguyên giá:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "120.446.972.991",
+                "2": "69.217.297.281",
+                "3": "189.664.270.272"
+            },
+            {
+                "0": "Dự án hoàn thành",
+                "1": "-",
+                "2": "9.405.585.000",
+                "3": "9.405.585.000"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "(113.140.000.000)",
+                "2": "(860.000.000)",
+                "3": "(114.000.000.000)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "7.306.972.991",
+                "2": "77.762.882.281",
+                "3": "85.069.855.272"
+            },
+            {
+                "0": "Giá trị khấu hao lũy kế:",
+                "1": "Giá trị khấu hao lũy kế:",
+                "2": "Giá trị khấu hao lũy kế:",
+                "3": "Giá trị khấu hao lũy kế:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "-",
+                "2": "(2.007.944.054)",
+                "3": "(2.007.944.054)"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "-",
+                "2": "(1.630.674.222)",
+                "3": "(1.630.674.222)"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "-",
+                "2": "372.481.764",
+                "3": "372.481.764"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "-",
+                "2": "(3.266.136.512)",
+                "3": "(3.266.136.512)"
+            },
+            {
+                "0": "Giá trị còn lại:",
+                "1": "Giá trị còn lại:",
+                "2": "Giá trị còn lại:",
+                "3": "Giá trị còn lại:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "120.446.972.991",
+                "2": "67.209.353.227",
+                "3": "187.656.326.218"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "7.306.972.991",
+                "2": "74.496.745.769",
+                "3": "81.803.718.760"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_19",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "Quyền sử dụng đất thể hiện quyền được sử dụng các khu đất của Công ty bao gồm:\n\ni) QSDD vô thời hạn với giá trị 113.140.000.000 VND tọa lạc tại Số 131, Đường Nguyễn Trải, Phường 2, Quận 5, Thành phố Hồ Chí Minh, Việt Nam. Vào ngày 1 tháng 11 năm 2018, Công ty đã chuyển nhượng QSDD này cho Ông Phạm Thanh Điền theo Hợp đồng Chuyển nhượng số 023970 với giá trị chuyển nhượng là 192.101.818.182 VND.\n\nii) QSDD vô thời hạn với giá trị 7.306.972.991 VND tương ứng với quyền sở hữu tầng hầm B1 và B2 tại dự án The EverRich 1, Số 968, Đường Ba Tháng Hai, Quận 11, Thành phố Hồ Chí Minh, Việt Nam.\n\nGiá trị hợp lý của bắt động sản đầu tư chưa được đánh giá và xác định một cách chính thức vào ngày 31 tháng 12 năm 2018. Tuy nhiên, dựa trên tỉnh hình cho thuê thực tế và giá thị trường của các khu đất liền kề, Ban Tổng Giám đốc của Công ty tin tưởng rằng giá trị thị trường của bắt động sản đầu tư lớn hơn giá trị còn lại tại ngày này.\n\n13. CHI PHÍ XÂY DỰNG CƠ BẢN DỒ DANG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Khách sạn và Khu nghĩ dưỡng năm sao",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Phú Quốc",
+                "1": "53.732.479.734",
+                "2": "53.732.479.734"
+            },
+            {
+                "0": "Bệnh viện chấn thương chính hình",
+                "1": "7.171.734.009",
+                "2": "6.214.296.380"
+            },
+            {
+                "0": "Khác",
+                "1": "6.063.373.915",
+                "2": "6.964.883.891"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "66.967.587.658",
+                "2": "66.911.660.005"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_20",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "Chỉ phí lãi vay phát sinh tài trợ cho việc đầu tư, phát triển các dự án đã được vốn hóa trong năm với số tiền là là 818.071.265 VND (cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017: 3.103.804.813 VND).\n\n24\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n14. ĐẦU TƯ TÀI CHÍNH ĐÀI HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Đầu tư vào công ty con (Thuyết minh số 14.1)",
+                "1": "770.624.000.000",
+                "2": "131.000.000.000"
+            },
+            {
+                "0": "Đầu tư vào công ty liên kết (Thuyết minh số 14.2)",
+                "1": "-",
+                "2": "296.000.000.000"
+            },
+            {
+                "0": "Đầu tư góp vốn vào đơn vị khác(Thuyết minh số 14.3)",
+                "1": "-",
+                "2": "51.480.000.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "770.624.000.000",
+                "2": "478.480.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_21",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "14.1 Đầu tư vào công ty con",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số cuối năm",
+                "3": "Số đầu năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "",
+                "1": "% sở hữu và quyền biểu quyết",
+                "2": "Số tiền VND",
+                "3": "% sở hữu và quyền biểu quyết",
+                "4": "Số tiền VND"
+            },
+            {
+                "0": "ĐK Phú Quốc (i)",
+                "1": "99",
+                "2": "393.624.000.000",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Xây dựng hạ tầng kỹ thuật Coinin (\"Coinin\") (ii)",
+                "1": "80",
+                "2": "246.000.000.000",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Công ty TNHH Một Thành viên Đầu tư Phát Đạt (\"Đầu tư Phát Đạt\") (iii)",
+                "1": "100",
+                "2": "131.000.000.000",
+                "3": "100",
+                "4": "131.000.000.000"
+            },
+            {
+                "0": "Phú Hưng (iv)",
+                "1": "100",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "770.624.000.000",
+                "3": "",
+                "4": "131.000.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_22",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "(i) Vào ngày 9 tháng 3 năm 2018, Công ty đã mua 99% quyền sở hữu trong ĐK Phú Quốc nhằm mục đích thực hiện dự án Cụm công nghiệp Hàm Ninh và Khu làng nghề - Trung tâm Xã Hàm Ninh tại Xã Hàm Ninh, Huyện Phú Quốc, Tĩnh Kiên Giang. ĐK Phú Quốc là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh Doanh (\"GCNDKKD\") số 1701522101 do Sở KH&ĐT Tĩnh Kiên Giang cấp ngày 22 tháng 4 năm 2011 và theo các GCNDKKD điều chỉnh. ĐK Phú Quốc có trụ sở chính đăng ký tại Tổ 17, Lô C, Khu tái định cư, Khu phố 5, Thị trấn Dương Đông, Huyện Phú Quốc, Tĩnh Kiên Giang, Việt Nam. Hoạt động chính của ĐK Phú Quốc là xây dựng nhà các loại, xây dựng chuyên dụng, xây dựng công trình công ích, kinh doanh và môi giới bất động sản.\n\n(ii) Vào ngày 19 tháng 3 năm 2018, Công ty đã mua 80% quyền sở hữu trong Coinin nhằm mục đích thực hiện dự án Xây dựng Hạ tầng Kỹ thuật Nội bộ Khu I trong khu công viên lịch sử văn hóa dân tộc tại Phường Long Bình, Quận 9, Thành phố Hồ Chí Minh theo hình thức Hợp đồng Xây dựng – Chuyển giao. Coinin là một công ty trách nhiệm hữu hạn có hai thành viên trở lên được thành lập theo Luật Doanh nghiệp của Việt Nam theo GCNDKKD số 0313662185 do Sở KH&ĐT Thành phố Hồ Chí Minh cấp ngày 25 tháng 2 năm 2016 và theo các GCNDKKD sửa đổi. Coinin có trụ sở chính đăng ký tại 276/16 Đường An Dương Vương, Phường 3, Quận 5, Thành phố Hồ Chí Minh, Việt Nam. Hoạt động chính của Coinin là kinh doanh bất động sản và xây dựng công trình.\n\n(iii) Đầu tư Phát Đạt là một công ty trách nhiệm hữu hạn một thành viên được thành lập theo Luật Doanh nghiệp của Việt Nam theo GCNĐKKD số 0313241765 do Sở KH&ĐT Thành phố Hồ Chí Minh cấp ngày 11 tháng 5 năm 2015 và theo các GCNĐKKD điều chỉnh. Đầu tư Phát Đạt có trụ sở chính đăng ký tại Số 422, Đường Đào Trí, Khu phố 1, Phường Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam. Hoạt động chính của Đầu tư Phát Đạt là kinh doanh bất động sản, quyền sử dụng đất thuê chủ sở hữu, chủ sử dụng hoặc đi thuê.\n\n25\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n14. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)\n\n14.1 Đầu tư vào công ty con (tiếp theo)\n\n(iv) Vào ngày 1 tháng 2 năm 2018, Công ty đã mua thêm 50,1% quyền sở hữu trong Phú Hưng với giá phí là 50.000.000.000 VND, nâng tỷ lệ sở hữu của Công ty trong Phú Hưng lên 100%. Theo đó, Phú Hưng từ công ty liên kết trở thành công ty con của Công ty. Phú Hưng trước đây là một công ty trách nhiệm hữu hạn có hai thành viên trở lên được thành lập theo luật Doanh nghiệp của Việt Nam theo GCNĐKKD số 0313558191 do Sở KH&DT Thành phố Hồ Chí Minh cấp ngày 1 tháng 12 năm 2015. Phú Hưng có trụ sở chính đăng ký tại Số 30, Đường Nguyễn Thị Diệu, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Việt Nam. Hoạt động chính của Phú Hưng là kinh doanh bất động sản. Vào ngày 26 tháng 4 năm 2018, Phú Hưng nhận được GCNĐKKD điều chỉnh lần thứ 2 do Sở KH&DT Thành phố Hồ Chí Minh cấp, phê duyệt việc chuyển đổi hình thức kinh doanh từ công ty trách nhiệm hữu hạn có hai thành viên trở lên thành công ty trách nhiệm hữu hạn một thành viên.\n\nVào ngày 6 tháng 11 năm 2018, Hội đồng Quản trị của Công ty đã quyết định giải thể Phú Hưng theo Quyết định số 21/2018/QĐ-HĐQT. Vào ngày kết thúc ký kế toán năm, các thủ tục pháp lý để giải thể Phú Hưng đang được thực hiện.\n\n14.2 Đầu tư vào công ty liên kết",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số cuối năm",
+                "3": "Số đầu năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "",
+                "1": "% sở hữu",
+                "2": "Số tiền VND",
+                "3": "% sở hữu",
+                "4": "Số tiền VND"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Xây dựng Công trình PDP (\"Công trình PDP\") (*)",
+                "1": "4900",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Công ty TNHH Bất động sản Điền Gia Khang (\"Điền Gia Khang\") (**)",
+                "1": "-",
+                "2": "-",
+                "3": "4900",
+                "4": "176.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH Bất động sản Điền Gia Khánh (\"Điền Gia Khánh\") (**)",
+                "1": "-",
+                "2": "-",
+                "3": "4900",
+                "4": "75.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Phát triển Bất động sản Phát Đạt Ánh Dương (\"Phát Đạt Ánh Dương\") (**)",
+                "1": "-",
+                "2": "-",
+                "3": "4800",
+                "4": "45.000.000.000"
+            },
+            {
+                "0": "Phú Hưng (Thuyết minh số 14.1)",
+                "1": "-",
+                "2": "-",
+                "3": "4990",
+                "4": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "-",
+                "3": "",
+                "4": "296.000.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_23",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "(*) Vào ngày 3 tháng 7 năm 2018, Công trình PDP nhận được Giấy Chứng nhận Đăng ký Doanh nghiệp lần đầu với vốn điều lệ là 300.000.000.000 VND, trong đó, Công ty sở hữu 49%, tương ứng 147.000.000.000 VND. Vào ngày kết thúc kỳ kế toán năm, Công ty chưa góp số vốn này.\n\n(**) Vào ngày kết thúc ký kế toán năm, Công ty đã thanh lý và thu hồi toàn bộ các khoản đầu tư vào các công ty này theo giá gốc.\n\n14.3 Đầu tư góp vốn vào đơn vị khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số cuối năm",
+                "3": "Số đầu năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "",
+                "1": "% sở hữu",
+                "2": "Số tiền VND",
+                "3": "% sở hữu",
+                "4": "Số tiền VND"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư Cầu Mỹ Lợi",
+                "1": "-",
+                "2": "-",
+                "3": "198",
+                "4": "51.480.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_24",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "Vào ngày kết thúc ký kế toán năm, Công ty đã thanh lý và thu hồi toàn bộ khoản đầu tư này theo giá gốc.\n\n26\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n15. PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Vĩnh Hội (*)",
+                "1": "264.925.416.441",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Xây dựng Đồng Khánh",
+                "1": "28.544.533.703",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Xây dựng Coteccons",
+                "1": "10.837.593.182",
+                "2": "86.545.894.373"
+            },
+            {
+                "0": "Công ty Cổ phần Thương mại Dịch vụ Đất Mới",
+                "1": "5.699.012.385",
+                "2": "4.565.155.125"
+            },
+            {
+                "0": "Khác",
+                "1": "2.313.113.362",
+                "2": "9.076.775.124"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "312.319.669.073",
+                "2": "100.187.824.622"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_25",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "(*) Đây là khoản phải trả liên quan đến việc nhận chuyển nhượng 194 căn hộ văn phòng của dự án Millennium.\n\n16. NGƯỜI MUA TRẢ TIỀN TRƯỚC NGÁN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Big Gain (*)",
+                "1": "-",
+                "2": "595.141.256.792"
+            },
+            {
+                "0": "Khác",
+                "1": "10.173.673.983",
+                "2": "106.048.558.342"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "10.173.673.983",
+                "2": "701.189.815.134"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_26",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "(*) Vào ngày kết thúc ký kế toán năm, Công ty đã chuyển nhượng 297 căn hộ thuộc khối nhà C của dự án The EverRich 2 cho Big Gain (Thuyết minh số 8).\n\n17. THUẾ VÀ CÁC KHOÀN PHẢI THU, PHẢI NỘP NHÀ NƯỚC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số đầu năm",
+                "2": "Tăng",
+                "3": "Giảm",
+                "4": "VND Số cuối năm"
+            },
+            {
+                "0": "Phải nộp",
+                "1": "Phải nộp",
+                "2": "Phải nộp",
+                "3": "Phải nộp",
+                "4": "Phải nộp"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp",
+                "1": "42.296.256.485",
+                "2": "114.724.540.728",
+                "3": "(91.889.892.728)",
+                "4": "65.130.904.485"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "2.042.522.396",
+                "2": "8.475.681.748",
+                "3": "(9.960.823.921)",
+                "4": "557.380.223"
+            },
+            {
+                "0": "Thuế giá trị gia tăng",
+                "1": "17.238.823",
+                "2": "127.516.338.710",
+                "3": "(87.139.830.895)",
+                "4": "40.393.746.638"
+            },
+            {
+                "0": "Khác",
+                "1": "-",
+                "2": "1.137.640.740",
+                "3": "(1.137.640.740)",
+                "4": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "44.356.017.704",
+                "2": "251.854.201.926",
+                "3": "(190.128.188.284)",
+                "4": "106.082.031.346"
+            },
+            {
+                "0": "Phải thu",
+                "1": "Phải thu",
+                "2": "Phải thu",
+                "3": "Phải thu",
+                "4": "Phải thu"
+            },
+            {
+                "0": "Thuế giá trị gia tăng",
+                "1": "35.800.350.006",
+                "2": "51.525.002.660",
+                "3": "(87.325.352.666)",
+                "4": "-"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp",
+                "1": "9.061.394.917",
+                "2": "516.139.804",
+                "3": "(9.577.534.721)",
+                "4": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "44.861.744.923",
+                "2": "52.041.142.464",
+                "3": "(96.902.887.387)",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_27",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "27\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n18. CHI PHÍ PHÁI TRẢ NGÁN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm"
+            },
+            {
+                "0": "Chi phí xây dựng",
+                "1": "65.969.868.741",
+                "2": "70.297.902.207"
+            },
+            {
+                "0": "Hoa hồng môi giới",
+                "1": "-",
+                "2": "20.297.566.999"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "7.032.367.645",
+                "2": "6.214.296.380"
+            },
+            {
+                "0": "Khác",
+                "1": "5.202.318.182",
+                "2": "3.299.128.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "78.204.554.568",
+                "2": "100.108.893.586"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "397.495.838.379",
+                "2": "202.085.134.376"
+            },
+            {
+                "0": "Phải trả bên liên quan (Thuyết minh số 29)",
+                "1": "131.000.000.000",
+                "2": "145.490.455.153"
+            },
+            {
+                "0": "Nhận tạm ứng từ CRE & AGI",
+                "1": "80.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Nhận ký quỹ",
+                "1": "129.993.679.000",
+                "2": "4.725.753.000"
+            },
+            {
+                "0": "Quỹ bảo trì",
+                "1": "48.866.690.401",
+                "2": "48.234.742.310"
+            },
+            {
+                "0": "Khác",
+                "1": "7.635.468.978",
+                "2": "3.634.183.913"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "6.753.817.006.616",
+                "2": "6.041.132.313.462"
+            },
+            {
+                "0": "Phải trả theo HĐHTĐT (*)",
+                "1": "6.723.817.006.616",
+                "2": "6.027.000.000.000"
+            },
+            {
+                "0": "Nhận góp vốn dự án Nhơn Hội - Bình Định (**)",
+                "1": "30.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Nhận ký quỹ",
+                "1": "-",
+                "2": "14.132.313.462"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "7.151.312.844.995",
+                "2": "6.243.217.447.838"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_28",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "(*) Vào ngày 26 tháng 12 năm 2017, Công ty đã ký kết HĐHTĐT số 01/HĐHTĐT-E2/2017 có thời hạn 5 năm với Big Gain liên quan đến việc phát triển một phần Dự án The EverRich 2 và HĐHTĐT số 01/HĐHTĐT-E3/2017 có thời hạn 5 năm với Dynamic liên quan đến việc phát triển phần chung cư cao tầng của Dự án The EverRich 3. Theo các HĐHTĐT này và các phụ lực điều chỉnh sau đó:\n\na. Big Gain/Dynamic có nghĩa vụ thanh toán các chi phí mà Công ty đã bổ ra liên quan đến phần dự án hợp tác.\n\nb. Các bên có thể nhận được phần lợi nhuận phát sinh từ dự án được phân chia theo tỷ lệ đóng góp tài chính của mỗi bên theo nội dung quyết toán được thống nhất.\n\nc. Sau khi Công ty được cấp Giấy chứng nhận Quyền sử dụng đất đối với khu đất của dự án, Big Gain/Dynamic có quyền chọn mua và Công ty có quyền chọn bán 99% lợi ích tham gia của Công ty trong hoạt động hợp tác đầu tư này với giá tương đương với 99% giá trị khoản đóng góp thỏa thuận của Công ty cộng thêm một khoản thẳng dư sẽ được các bên thỏa thuận.\n\nd. Khí các điều kiện pháp lý của dự án được đáp ứng theo luật định, Công ty có quyền chuyển nhượng phần dự án hợp tác này cho đối tác khác với điều kiện phải hoàn trả đầy đủ các khoản đóng góp của Big Gain/Dynamic cộng với một khoản tiền lãi do các bên thỏa thuận.\n\nVào ngày kết thúc ký kế toán năm, tổng số tiền Công ty đã nhận được từ Big Gain và Dynamic lần lượt là 4.571.317.006.616 VND và 2.152.500.000.000 VND.\n\nVào ngày 21 tháng 2 năm 2019, HĐQT đã thông qua Quyết định chuyển nhượng một phần dự án The EverRich 3 (Lô B1 và Lô B4) cho Dynamic với tổng số tiền là 1.162.432.000.000 VND (Thuyết minh số 8).\n\n(**) Vào ngày 6 tháng 11 năm 2018, Công ty đã ký Thỏa thuận góp vốn với Bà Lê Thị Vĩnh Phúc đề phát triển dự án Nhơn Hội – Bình Định.\n\n28\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n20. VAY NGÁN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số đầu năm",
+                "2": "Tăng trong năm",
+                "3": "Giảm trong năm",
+                "4": "VND Số cuối năm"
+            },
+            {
+                "0": "Vay ngân hàng",
+                "1": "-",
+                "2": "1.056.991.706.980",
+                "3": "(1.056.991.706.980)",
+                "4": "-"
+            },
+            {
+                "0": "Vay bên khác",
+                "1": "47.196.419.134",
+                "2": "-",
+                "3": "(47.196.419.134)",
+                "4": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "47.196.419.134",
+                "2": "1.056.991.706.980",
+                "3": "(1.104.188.126.114)",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_29",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "21. QUỸ KHEN THƯỜNG, PHÚC LỢI",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "13.004.065.046",
+                "2": "8.681.781.478"
+            },
+            {
+                "0": "Tăng",
+                "1": "22.000.000.000",
+                "2": "14.400.000.000"
+            },
+            {
+                "0": "Giảm",
+                "1": "(21.720.533.279)",
+                "2": "(10.077.716.432)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "13.283.531.767",
+                "2": "13.004.065.046"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_30",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "29\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n22. VỐN CHỦ SỞ HỮU\n\n22.1 Tỉnh hình thay đổi nguồn vốn chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn cổ phần",
+                "2": "Thặng dư vốn cổ phần",
+                "3": "Quỹ đầu tưphát triển",
+                "4": "Lợi nhuận sau thuếchưa phân phối",
+                "5": "VNDTổng cộng"
+            },
+            {
+                "0": "Năm trước",
+                "1": "Năm trước",
+                "2": "Năm trước",
+                "3": "Năm trước",
+                "4": "Năm trước",
+                "5": "Năm trước"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "2.018.099.710.000",
+                "2": "11.680.300.000",
+                "3": "85.413.584.076",
+                "4": "290.544.170.353",
+                "5": "2.405.737.764.429"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "440.144.750.031",
+                "5": "440.144.750.031"
+            },
+            {
+                "0": "Phân phối lợi nhuận",
+                "1": "-",
+                "2": "-",
+                "3": "17.300.000.000",
+                "4": "(17.300.000.000)",
+                "5": "-"
+            },
+            {
+                "0": "Trích lập quỹ khen thưởng, phúc lợi",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(14.400.000.000)",
+                "5": "(14.400.000.000)"
+            },
+            {
+                "0": "Chi cổ tức bằng cổ phiếu",
+                "1": "201.809.520.000",
+                "2": "-",
+                "3": "-",
+                "4": "(201.809.520.000)",
+                "5": "-"
+            },
+            {
+                "0": "Cổ tức công bố",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(287.400.000)",
+                "5": "(287.400.000)"
+            },
+            {
+                "0": "Thủ lao HĐQT",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(2.108.000.000)",
+                "5": "(2.108.000.000)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "2.219.909.230.000",
+                "2": "11.680.300.000",
+                "3": "102.713.584.076",
+                "4": "494.784.000.384",
+                "5": "2.829.087.114.460"
+            },
+            {
+                "0": "Năm nay",
+                "1": "Năm nay",
+                "2": "Năm nay",
+                "3": "Năm nay",
+                "4": "Năm nay",
+                "5": "Năm nay"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "2.219.909.230.000",
+                "2": "11.680.300.000",
+                "3": "102.713.584.076",
+                "4": "494.784.000.384",
+                "5": "2.829.087.114.460"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "642.299.684.893",
+                "5": "642.299.684.893"
+            },
+            {
+                "0": "Phân phối lợi nhuận",
+                "1": "-",
+                "2": "-",
+                "3": "22.000.000.000",
+                "4": "(22.000.000.000)",
+                "5": "-"
+            },
+            {
+                "0": "Trích lập quỹ khen thưởng, phúc lợi",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(22.000.000.000)",
+                "5": "(22.000.000.000)"
+            },
+            {
+                "0": "Chi cổ tức bằng cổ phiếu (*)",
+                "1": "443.980.840.000",
+                "2": "-",
+                "3": "-",
+                "4": "(443.980.840.000)",
+                "5": "-"
+            },
+            {
+                "0": "Thủ lao HĐQT",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(2.048.000.000)",
+                "5": "(2.048.000.000)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "2.663.890.070.000",
+                "2": "11.680.300.000",
+                "3": "124.713.584.076",
+                "4": "647.054.845.277",
+                "5": "3.447.338.799.353"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_31",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "(*) Vào ngày 2 tháng 5 năm 2018, Công ty đã phát hành 44.398.084 cổ phiếu thường để trả cổ tức bằng cổ phiếu với mức giá phát hành là 10.000 VND/cổ phiếu với tổng giá trị là 443.980.840.000 VND theo Nghị quyết Đại hội đồng cổ đông số 01/ĐHĐCĐ-NQ.2018 ngày 30 tháng 3 năm 2018 và Quyết định số 08/2018/QĐ-HĐQT ngày 4 tháng 4 năm 2018. Vào ngày 5 tháng 6 năm 2018, Công ty đã nhận được GCNĐKDN điều chỉnh lần thứ 25 do Sở KH&ĐT Thành phố Hồ Chí Minh cấp, chấp thuận việc tăng vốn điều lệ của Công ty từ 2.219.909.230.000 VND lên 2.663.890.070.000 VND.\n\n30\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n22. VỐN CHỦ SỞ HỮU (tiếp theo)\n\n22.2 Cổ phiếu phổ thông",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối nămCổ phiếu",
+                "2": "Số đầu nămCổ phiếu"
+            },
+            {
+                "0": "Số lượng cổ phiếu được phép phát hành",
+                "1": "266.389.007",
+                "2": "221.990.923"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã phát hành và được góp vốn đủ",
+                "1": "266.389.007",
+                "2": "221.990.923"
+            },
+            {
+                "0": "Cổ phiếu phổ thông",
+                "1": "266.389.007",
+                "2": "221.990.923"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_32",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "Mệnh giá mỗi cổ phiếu đang lưu hành: 10.000 VND (năm 2017: 10.000 VND).\n\n23. DOANH THU BÁN HÀNG VÀ CUNG CÁP DỊCH VỤ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Doanh thu",
+                "1": "2.268.911.021.752",
+                "2": "1.542.032.394.877"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Doanh thu bán căn hộ",
+                "1": "1.785.221.757.252",
+                "2": "1.458.081.614.417"
+            },
+            {
+                "0": "Doanh thu bán bất động sản khác",
+                "1": "407.213.263.593",
+                "2": "57.046.019.669"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "68.848.360.907",
+                "2": "20.522.095.795"
+            },
+            {
+                "0": "Doanh thu cho thuê bất động sản đầu tư",
+                "1": "7.627.640.000",
+                "2": "6.382.664.998"
+            },
+            {
+                "0": "Các khoản giảm trừ doanh thu:",
+                "1": "(121.037.201.884)",
+                "2": "(215.406.237.704)"
+            },
+            {
+                "0": "Hàng bán bị trả lại",
+                "1": "(120.895.496.884)",
+                "2": "(205.717.795.286)"
+            },
+            {
+                "0": "Giảm giá hàng bán",
+                "1": "(141.705.000)",
+                "2": "(9.688.442.418)"
+            },
+            {
+                "0": "DOANH THU THUẦN",
+                "1": "2.147.873.819.868",
+                "2": "1.326.626.157.173"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Doanh thu bán căn hộ",
+                "1": "1.664.184.555.366",
+                "2": "1.302.369.759.342"
+            },
+            {
+                "0": "Doanh thu bán bất động sản khác",
+                "1": "407.213.263.595",
+                "2": "(1.528.362.960)"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "68.848.360.907",
+                "2": "19.402.095.793"
+            },
+            {
+                "0": "Doanh thu cho thuê bất động sản đầu tư",
+                "1": "7.627.640.000",
+                "2": "6.382.664.998"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Doanh thu với bên khác",
+                "1": "2.084.122.006.833",
+                "2": "1.339.991.381.288"
+            },
+            {
+                "0": "Doanh thu với bên liên quan(Thuyết minh số 28)",
+                "1": "63.751.813.035",
+                "2": "(13.365.224.115)"
+            },
+            {
+                "0": "Giá vốn căn hộ đã bán",
+                "1": "1.253.596.040.062",
+                "2": "799.660.414.749"
+            },
+            {
+                "0": "Giá vốn bất động sản khác đã bán",
+                "1": "201.937.626.291",
+                "2": "4.795.613.069"
+            },
+            {
+                "0": "Giá vốn dịch vụ cung cấp",
+                "1": "9.498.288.563",
+                "2": "2.371.913.733"
+            },
+            {
+                "0": "Giá vốn kinh doanh bất động sản đầu tư",
+                "1": "1.526.394.102",
+                "2": "752.221.525"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "1.466.558.349.018",
+                "2": "807.580.163.076"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_33",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "31\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n25. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIỆP",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Chỉ phí bán hàng",
+                "1": "41.308.040.594",
+                "2": "101.154.109.064"
+            },
+            {
+                "0": "Chỉ phí quảng cáo",
+                "1": "18.265.951.374",
+                "2": "3.406.575.637"
+            },
+            {
+                "0": "Chỉ phí môi giới",
+                "1": "17.557.807.277",
+                "2": "79.671.870.745"
+            },
+            {
+                "0": "Chỉ phí lương nhân viên",
+                "1": "3.866.585.129",
+                "2": "2.752.214.966"
+            },
+            {
+                "0": "Chỉ phí hội nghị khách hàng",
+                "1": "195.058.480",
+                "2": "5.045.812.260"
+            },
+            {
+                "0": "Chỉ phí hỗ trợ lãi vay",
+                "1": "-",
+                "2": "8.601.168.387"
+            },
+            {
+                "0": "Khác",
+                "1": "1.422.638.334",
+                "2": "1.676.467.069"
+            },
+            {
+                "0": "Chỉ phí quản lý doanh nghiệp",
+                "1": "79.976.241.712",
+                "2": "57.964.039.047"
+            },
+            {
+                "0": "Chỉ phí lương nhân viên",
+                "1": "55.070.243.192",
+                "2": "37.924.494.201"
+            },
+            {
+                "0": "Chỉ phí dịch vụ mua ngoài",
+                "1": "15.386.009.825",
+                "2": "10.511.801.857"
+            },
+            {
+                "0": "Chỉ phí khấu hao và hao mòn",
+                "1": "1.534.758.866",
+                "2": "2.392.731.239"
+            },
+            {
+                "0": "Khác",
+                "1": "7.985.229.829",
+                "2": "7.135.011.750"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "121.284.282.306",
+                "2": "159.118.148.111"
+            },
+            {
+                "0": "Thu nhập khác",
+                "1": "198.454.186.937",
+                "2": "194.074.109.752"
+            },
+            {
+                "0": "Lãi được chia từ HĐHTĐT (Thuyết minh số 7)",
+                "1": "190.000.000.000",
+                "2": "180.000.000.000"
+            },
+            {
+                "0": "Khác",
+                "1": "8.454.186.937",
+                "2": "14.074.109.752"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "3.680.806.041",
+                "2": "5.686.153.216"
+            },
+            {
+                "0": "Hỗ trợ lãi suất",
+                "1": "1.925.578.534",
+                "2": "2.784.276.853"
+            },
+            {
+                "0": "Khác",
+                "1": "1.755.227.507",
+                "2": "2.901.876.363"
+            },
+            {
+                "0": "LỢI NHUẬN KHÁC",
+                "1": "194.773.380.896",
+                "2": "188.387.956.536"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_34",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "32\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n27. THUẾ THU NHẬP DOANH NGHIỆP\n\nThuế suất thuế thu nhập doanh nghiệp (\"TNDN\") áp dụng cho Công ty là 20% thu nhập chịu thuế.\n\nBáo cáo thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các qui định về thuế có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính riêng giữa niên độ có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.\n\n27.1 Chi phí thuế TNDN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Chi phí thuế TNDN hiện hành",
+                "1": "114.724.540.728",
+                "2": "109.756.961.359"
+            },
+            {
+                "0": "Chi phí thuế TNDN trích thiếu trong các năm trước",
+                "1": "-",
+                "2": "513.530.314"
+            },
+            {
+                "0": "Chi phí thuế TNDN hoãn lại",
+                "1": "69.241.277",
+                "2": "717.074.747"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "114.793.782.005",
+                "2": "110.987.566.420"
+            },
+            {
+                "0": "Tổng lợi nhuận kế toán trước thuế",
+                "1": "757.093.466.898",
+                "2": "551.132.316.451"
+            },
+            {
+                "0": "Thuế TNDN theo thuế suất 20%",
+                "1": "151.418.693.380",
+                "2": "110.226.463.291"
+            },
+            {
+                "0": "Các khoản điều chỉnh:",
+                "1": "Các khoản điều chỉnh:",
+                "2": "Các khoản điều chỉnh:"
+            },
+            {
+                "0": "Chi phí không được trừ",
+                "1": "1.375.088.625",
+                "2": "247.572.815"
+            },
+            {
+                "0": "Điều chỉnh thuế TNDN trích thiếu trong những năm trước",
+                "1": "-",
+                "2": "513.530.314"
+            },
+            {
+                "0": "Lợi nhuận sau thuế được chia theo HĐHTĐT",
+                "1": "(38.000.000.000)",
+                "2": "-"
+            },
+            {
+                "0": "Chỉ phí thuế TNDN",
+                "1": "114.793.782.005",
+                "2": "110.987.566.420"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_35",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "27.2 Thuế TNDN hiện hành\n\nThuế TNDN hiện hành phải nộp được xác định dựa trên thu nhập chịu thuế của năm tài chính hiện hành. Thu nhập chịu thuế của Công ty khác với tổng lợi nhuận kế toán trước thuế được trình bày trong báo cáo kết quả hoạt động kinh doanh riêng vi thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chí phí được trừ cho mục đích tính thuế trong các năm tài chính khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải nộp của Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc ký kế toán năm.\n\n33\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n27. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)\n\n27.3 Thuế TNDN hoãn lại\n\nCông ty đã ghi nhận tài sản thuế thu nhập hoãn lại và các biến động trong năm nay và năm trước như sau:\n\nVND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Bàng cân đối kế toán riêng",
+                "2": "Bàng cân đối kế toán riêng",
+                "3": "Báo cáo kết quả hoạt động kinh doanh riêng",
+                "4": "Báo cáo kết quả hoạt động kinh doanh riêng"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "Chi phí phải trả",
+                "1": "444.203.896",
+                "2": "513.445.173",
+                "3": "(69.241.277)",
+                "4": "(717.074.747)"
+            },
+            {
+                "0": "Tài sản thuế TNDN hoãn lại",
+                "1": "444.203.896",
+                "2": "513.445.173",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "Chi phí thuế TNDN hoãn lại",
+                "1": "",
+                "2": "",
+                "3": "(69.241.277)",
+                "4": "(717.074.747)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_36",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "28. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN\n\nCác nghiệp vụ với các công ty và cá nhân có liên quan bao gồm tất cả các nghiệp vụ được thực hiện với các công ty và cá nhân mà Công ty có mối liên kết thông qua quan hệ đầu tư, nhận đầu tư hoặc thông qua một nhà đầu tư chung và do đó sẽ là thành viên của cùng một công ty.\n\nCác nghiệp vụ bán hàng và mua hàng với các bên liên quan được thực hiện theo mức giá và các điều khoản niêm yết thông thường trên thị trường.\n\nSố dư các khoản phải thu và phải trả vào ngày kết thúc ký kế toán năm không cần bảo đảm và không chịu lãi suất.\n\nCác nghiệp vụ trọng yếu với các bên liên quan trong năm nay và năm trước như sau:",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Năm nay",
+                "4": "VNDNăm trước"
+            },
+            {
+                "0": "Ông Nguyễn Văn Đạt",
+                "1": "Tổng Giám đốc",
+                "2": "Mượn tiền Hoàn tiền mượn Tạm ứng và hoàn tạm ứng",
+                "3": "314.880.604.381 444.325.391.663 140.463.500.929",
+                "4": "460.077.012.570 445.586.557.417 305.586.711.215"
+            },
+            {
+                "0": "Công ty Cổ phần Tư vấn Quản lý BDSC",
+                "1": "Bên liên quan của thành viên HĐQT",
+                "2": "Dịch vụ tư vấn",
+                "3": "1.581.250.000",
+                "4": "1.222.250.000"
+            },
+            {
+                "0": "Trường Phát Lộc",
+                "1": "Bên liên quan của thành viên HĐQT",
+                "2": "Lãi được chia từ HĐHTĐT Thu lãi từ HĐHTĐT Cung cấp dịch vụ Cho thuê văn phòng Giám tiền thuê văn phòng Hàng bán trả lại",
+                "3": "125.000.000.000 45.000.000.000 267.781.817 108.000.000 -",
+                "4": "- 286.172.728 1.156.000.000 1.120.000.000 13.687.396.843"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_37",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "34\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n28. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nCác nghiệp vụ trọng yếu với các bên liên quan trong năm nay và năm trước như sau: (tiếp theo)\n\nVND",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "T.A.M",
+                "1": "Bên liên quan của thành viên HĐQT",
+                "2": "Thu lãi HĐHTĐT Lãi HĐHTĐT Hoàn tiền mượn Mua căn hộ văn phòng Thu tiền chuyển nhượng cổ phần",
+                "3": "90.000.000.000 - 31.520.000.000 20.437.149.451 5.000.000.000",
+                "4": "90.000.000.000 180.000.000.000 -"
+            },
+            {
+                "0": "ĐK Phú Quốc",
+                "1": "Công ty con",
+                "2": "Tạm ứng Cung cấp dịch vụ",
+                "3": "38.627.211.000 164.477.727",
+                "4": "-"
+            },
+            {
+                "0": "Coinin",
+                "1": "Công ty con",
+                "2": "Tạm ứng",
+                "3": "2.242.605.016",
+                "4": "-"
+            },
+            {
+                "0": "Điền Gia Khang",
+                "1": "Công ty liên kết",
+                "2": "Thu hồi vốn góp",
+                "3": "176.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Điền Gia Khánh",
+                "1": "Công ty liên kết",
+                "2": "Thu hồi vốn góp",
+                "3": "75.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Bà Đoàn Thị Tráng",
+                "1": "Bên liên quan của thành viên HĐQT",
+                "2": "Doanh thu chuyển nhượng bất động sản",
+                "3": "42.774.404.040",
+                "4": "-"
+            },
+            {
+                "0": "Phú Hưng",
+                "1": "Công ty con",
+                "2": "Bồi thường dự án The EverRich 2 Thu tiền tạm ứng Tạm ứng",
+                "3": "565.331.115.914 8.000.000.000 800.000.000",
+                "4": "- 1.031.000.000.000 1.548.908.385.303"
+            },
+            {
+                "0": "Phát Đạt Ánh Dương",
+                "1": "Công ty liên kết",
+                "2": "Thu hồi vốn góp",
+                "3": "45.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư Cầu Mỹ Lợi",
+                "1": "Công ty được đầu tư",
+                "2": "Thu hồi vốn góp",
+                "3": "51.480.000.000",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_38",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "35\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n28. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nVào ngày kết thúc ký kế toán năm, các khoản phải thu và phải trả với các bên liên quan được thể hiện như sau:\n\nVND",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "Phải thu ngắn hạn của khách hàng",
+                "1": "Phải thu ngắn hạn của khách hàng",
+                "2": "Phải thu ngắn hạn của khách hàng",
+                "3": "Phải thu ngắn hạn của khách hàng",
+                "4": "Phải thu ngắn hạn của khách hàng"
+            },
+            {
+                "0": "T.A.M",
+                "1": "Bên liên quan của thành viên HĐQT",
+                "2": "Chuyển nhượng cổ phần Mua căn hộ văn phòng",
+                "3": "55.000.000.00022.089.172.092",
+                "4": "60.000.000.000-"
+            },
+            {
+                "0": "Bà Đoàn Thị Tráng",
+                "1": "Bên liên quan của thành viên HĐQT",
+                "2": "Chuyển nhượng bất động sản",
+                "3": "32.648.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Trường Phát Lộc",
+                "1": "Bên liên quan của thành viên HĐQT",
+                "2": "Cho thuê văn phòng",
+                "3": "1.011.571.577",
+                "4": "1.052.081.577"
+            },
+            {
+                "0": "ĐK Phú Quốc",
+                "1": "Công ty con",
+                "2": "Cung cấp dịch vụ",
+                "3": "180.925.500",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "110.929.669.169",
+                "4": "61.052.081.577"
+            },
+            {
+                "0": "Phải thu dài hạn của khách hàng",
+                "1": "Phải thu dài hạn của khách hàng",
+                "2": "Phải thu dài hạn của khách hàng",
+                "3": "Phải thu dài hạn của khách hàng",
+                "4": "Phải thu dài hạn của khách hàng"
+            },
+            {
+                "0": "T.A.M",
+                "1": "Bên liên quan của thành viên HĐQT",
+                "2": "Chuyển nhượng cổ phần",
+                "3": "117.000.000.000",
+                "4": "117.000.000.000"
+            },
+            {
+                "0": "Phải thu ngắn hạn khác",
+                "1": "Phải thu ngắn hạn khác",
+                "2": "Phải thu ngắn hạn khác",
+                "3": "Phải thu ngắn hạn khác",
+                "4": "Phải thu ngắn hạn khác"
+            },
+            {
+                "0": "Phú Hưng",
+                "1": "Công ty con",
+                "2": "Tạm ứng",
+                "3": "9.287.082.235",
+                "4": "517.908.385.303"
+            },
+            {
+                "0": "T.A.M",
+                "1": "Bên liên quan của thành viên HĐQT",
+                "2": "Lãi HĐHTĐT",
+                "3": "-",
+                "4": "90.000.000.000"
+            },
+            {
+                "0": "ĐK Phú Quốc",
+                "1": "Công ty con",
+                "2": "Tạm ứng",
+                "3": "38.627.211.000",
+                "4": "-"
+            },
+            {
+                "0": "Coinin",
+                "1": "Công ty con",
+                "2": "Tạm ứng",
+                "3": "2.242.605.016",
+                "4": "-"
+            },
+            {
+                "0": "Công trình PDP",
+                "1": "Bên liên quan",
+                "2": "Tạm ứng",
+                "3": "4.609.000",
+                "4": "-"
+            },
+            {
+                "0": "Trường Phát Lộc",
+                "1": "Bên liên quan của thành viên HĐQT",
+                "2": "Lãi HĐHTĐT",
+                "3": "80.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "130.161.507.251",
+                "4": "607.908.385.303"
+            },
+            {
+                "0": "Phải thu dài hạn khác",
+                "1": "Phải thu dài hạn khác",
+                "2": "Phải thu dài hạn khác",
+                "3": "Phải thu dài hạn khác",
+                "4": "Phải thu dài hạn khác"
+            },
+            {
+                "0": "Trường Phát Lộc",
+                "1": "Bên liên quan của thành viên HĐQT",
+                "2": "Góp vốn HĐHTĐT",
+                "3": "126.400.000.000",
+                "4": "126.400.000.000"
+            },
+            {
+                "0": "T.A.M",
+                "1": "Bên liên quan của thành viên HĐQT",
+                "2": "Góp vốn HĐHTĐT",
+                "3": "100.939.751.900",
+                "4": "100.939.751.900"
+            },
+            {
+                "0": "ĐK Phú Quốc",
+                "1": "Công ty con",
+                "2": "Tạm ứng",
+                "3": "38.627.211.000",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "265.966.962.900",
+                "4": "227.339.751.900"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_39",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "36\n\n\n\nCông ty Cổ phần Phát triển Bất động sản Phát Đạt\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018 và cho năm tài chính kết thúc cùng ngày\n\n28. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nVào ngày kết thúc ký kế toán năm,. các khoản phải thu và phải trả với các bên liên quan được thể hiện như sau: (tiếp theo)\n\nVND",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "Phải trả ngắn hạn khác",
+                "1": "Phải trả ngắn hạn khác",
+                "2": "Phải trả ngắn hạn khác",
+                "3": "Phải trả ngắn hạn khác",
+                "4": "Phải trả ngắn hạn khác"
+            },
+            {
+                "0": "Đầu tư Phát Đạt",
+                "1": "Công ty con",
+                "2": "Mượn tiền",
+                "3": "131.000.000.000",
+                "4": "131.000.000.000"
+            },
+            {
+                "0": "Ông Nguyễn Văn Đạt",
+                "1": "Tổng Giám đốc",
+                "2": "Mượn tiền",
+                "3": "-",
+                "4": "14.490.455.153"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "131.000.000.000",
+                "4": "145.490.455.153"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_40",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "Thu nhập của các thành viên HĐQT và Ban Tổng Giám đốc trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "HDQTThù lao và thường",
+                "1": "2.048.000.000",
+                "2": "1.448.000.000"
+            },
+            {
+                "0": "Ban Tổng Giám đốcLương và thường",
+                "1": "10.539.570.769",
+                "2": "8.472.000.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "12.587.570.769",
+                "2": "9.920.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "PDR_2018_separate_table_41",
+        "metadata": {
+            "ticker": "PDR",
+            "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "PDR_financial_statements_2018_separate"
+        },
+        "context_text": "29. CÁC KHOÀN CAM KẾT\n\nChi tiết các khoản cam kết của Công ty như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Cam kết xây dựng các dự án",
+                "1": "97.067.244.677",
+                "2": "103.551.925.451"
+            },
+            {
+                "0": "Cam kết góp vốn",
+                "1": "1.180.376.000.000",
+                "2": "868.058.084.832"
+            },
+            {
+                "0": "Đầu tư Phát Đạt",
+                "1": "669.000.000.000",
+                "2": "669.000.000.000"
+            },
+            {
+                "0": "ĐK Phú Quốc",
+                "1": "316.376.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Công trình PDP",
+                "1": "147.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Coinin",
+                "1": "24.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Phú Hưng",
+                "1": "-",
+                "2": "49.900.000.000"
+            },
+            {
+                "0": "Đoàn Ánh Dương",
+                "1": "24.000.000.000",
+                "2": "24.000.000.000"
+            },
+            {
+                "0": "Phát Đạt Ánh Dương",
+                "1": "-",
+                "2": "113.400.000.000"
+            },
+            {
+                "0": "Điền Gia Khánh",
+                "1": "-",
+                "2": "8.300.000.000"
+            },
+            {
+                "0": "Minh Hoàng",
+                "1": "-",
+                "2": "3.058.084.832"
+            },
+            {
+                "0": "Điền Gia Khang",
+                "1": "-",
+                "2": "400.000.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "1.277.443.244.677",
+                "2": "971.610.010.283"
+            }
+        ]
+    }
+]

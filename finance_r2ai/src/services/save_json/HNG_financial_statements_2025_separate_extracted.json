@@ -1,0 +1,3672 @@
+[
+    {
+        "chunk_id": "HNG_2025_separate_table_1",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "Mẫu số 01-A\n\nCÔNG TY CỔ PHẦN NÔNG NGHIỆP\nQUỐC TẾ HOÀNG ANH GIA LAÏ\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\n\nSố: 03/26/CBTT - HAGL Agrico\n\nGia Lai, ngày 31 tháng 03 năm 2026\n\nCÔNG BỔ THÔNG TIN ĐỊNH KÝ BÁO CÁO TÀI CHÍNH\n\nKính gửi: Sở Giao dịch Chứng khoán Hà Nội\n\nThực hiện quy định tại Khoản 3 Điều 14 Thông tư số 96/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính hướng dẫn công bố thông tin trên thị trường chứng khoán, Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai thực hiện công bố thông tin báo cáo tài chính (BCTC) năm 2025 đã được kiểm toán với Sở Giao dịch Chứng khoán Hà Nội như sau:\n\n1. Tên tổ chức: Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\n• Mã chứng khoán: HNG\n\n- Địa chỉ: Số 15 Trường Chinh, Phường Pleiku, Tỉnh Gia Lai\n\n• Điện thoại liên hệ: 02696.567567\n\n• Email: haglagrico@thagrico.vn Website: https://haagrico.com\n\n2. Nội dung thông tin công bố\n\n• BCTC Năm 2025 đã được kiểm toán\n\n☒ BCTC riêng (ĐKGD không có công ty con và đơn vị kế toán cấp trên có đơn vị trực thuộc;\n\n☒ BCTC hợp nhất (TCNY có công ty con);\n\n□ BCTC tổng hợp (TCNY có đơn vị kế toán trực thuộc tổ chức bộ máy kế toán riêng).\n\n- Các trường hợp thuộc diện phải giải trình nguyên nhân:\n\n+ Tổ chức kiểm toán đưa ra ý kiến không phải là ý kiến chấp nhận toàn phần đối với BCTC.\n\n(đối với BCTC đã được soát xét/kiểm toán):\n\n□ Có\n\nKhông\n\nVăn bản giải trình trong trường hợp tích có:\n\n□ Có\n\nKhông\n\n+ Lợi nhuận sau thuế trong kỳ báo cáo có sự chênh lệch trước và sau kiểm toán từ 5% trở lên, chuyển từ lỗ sang lãi hoặc ngược lại (đối với BCTC được kiểm toán năm 2024):\n\n□ Có\n\nKhông\n\nVăn bản giải trình trong trường hợp tích có:\n\n□ Có\n\nKhông\n\n+ Lợi nhuận sau thuế thu nhập doanh nghiệp tại báo cáo kết quả kinh doanh của kỳ báo cáo thay đổi từ 10% trở lên so với báo cáo cùng kỳ năm trước:\n\n\n\nCó\n\n□ Không\n\nVăn bản giải trình trong trường hợp tích có:\n\nCó\n\n□ Không\n\nLợi nhuận sau thuế trong kỳ báo cáo bị lỗ, chuyển từ lãi ở báo cáo cùng kỳ năm trước sang lỗ ở kỳ này hoặc ngược lại:\n\nCó\n\n□ Không\n\nVăn bản giải trình trong trường hợp tích có:\n\nCó\n\n□ Không\n\nThông tin này đã được công bố trên trang thông tin điện tử của công ty vào ngày 31/03/2026 tại đường dẫn: https://www.haagrico.com/nha-dau-tu/cong-bo-thong-tin.\n\nTài liệu đính kèm:\n\n- BCTC năm 2025 đã được kiểm toán\n\n- Văn bản giải trình\n\nĐại diện tổ chức\n\nNgười đại diện theo pháp luật/Người UQCBTT (Ký, ghi rõ họ tên, chức vụ, đóng dấu)\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nBáo cáo tài chính riêng\n\nCho năm tài chính kết thúc ngày 31 tháng 12 năm 2025\n\nEY\n\nBuilding a better working world\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nMỤC LỤC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Trang"
+            },
+            {
+                "0": "Thông tin chung",
+                "1": "1"
+            },
+            {
+                "0": "Báo cáo của Ban Tổng Giám đốc",
+                "1": "2"
+            },
+            {
+                "0": "Báo cáo kiểm toán độc lập",
+                "1": "3 - 4"
+            },
+            {
+                "0": "Bàng cân đối kế toán riêng",
+                "1": "5 - 6"
+            },
+            {
+                "0": "Báo cáo kết quả hoạt động kinh doanh riêng",
+                "1": "7"
+            },
+            {
+                "0": "Báo cáo lưu chuyển tiền tệ riêng",
+                "1": "8 - 9"
+            },
+            {
+                "0": "Thuyết minh báo cáo tài chính riêng",
+                "1": "10 - 39"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_2",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nTHÔNG TIN CHUNG\n\nCÔNG TY\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai (\"Công ty\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Doanh nghiệp (\"GCNDKKD\") số 5900712753 do Sở Kế hoạch và Đầu tư Tĩnh Gia Lai cấp (nay là Sở Tài chính Tĩnh Gia Lai) vào ngày 26 tháng 5 năm 2010 và hai mươi một (21) GCNDKDN điều chỉnh sau đó.\n\nCổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (\"SGDCKHCM\") theo Quyết định số 278/QĐ-SGDHCM do SGDCKHCM cấp ngày 10 tháng 7 năm 2015 với mã giao dịch là \"HNG\". Công ty đã hủy niêm yết cổ phiếu trên SGDCKHCM theo Quyết định số 488/QĐ-SGDHCM ngày 9 tháng 8 năm 2024 do SGDCKHCM ban hành và chuyển sang giao dịch trên thị trường đăng ký giao dịch (\"UPCOM\") theo Quyết định số 4111/TB-SGDHN và Quyết định số 974/QĐ-SGDHN ngày 10 tháng 9 năm 2024 do Sở Giao dịch Chứng khoán Hà Nội (\"HNX\") ban hành.\n\nHoạt động chính trong năm hiện tại của Công ty là kinh doanh cao su, phân bón và các vật tư nông nghiệp.\n\nCông ty có trụ sở chính đăng ký tại Số 15, Đường Trường Chinh, Phương Pleiku, Tỉnh Gia Lai, Việt Nam.\n\nHỘI ĐỒNG QUẢN TRỊ\n\nCác thành viên Hội đồng Quản trị (\"HĐQT\") trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Trần Bá Dương",
+                "1": "Chủ tịch",
+                "2": ""
+            },
+            {
+                "0": "Ông Đoàn Nguyên Đức",
+                "1": "Phó Chủ tịch",
+                "2": "miễn nhiệm ngày 25 tháng 4 năm 2025"
+            },
+            {
+                "0": "Ông Trần Bảo Sơn",
+                "1": "Thành viên",
+                "2": ""
+            },
+            {
+                "0": "Bà Võ Thị Mỹ Hạnh",
+                "1": "Thành viên",
+                "2": "bổ nhiệm ngày 25 tháng 4 năm 2025"
+            },
+            {
+                "0": "",
+                "1": "không điều hành",
+                "2": ""
+            },
+            {
+                "0": "Ông Nguyễn Hoàng Phi",
+                "1": "Thành viên",
+                "2": "miễn nhiệm ngày 25 tháng 4 năm 2025"
+            },
+            {
+                "0": "Ông Nguyễn Phúc Thịnh",
+                "1": "Thành viên độc lập",
+                "2": "miễn nhiệm ngày 25 tháng 4 năm 2025"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_3",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "BAN KIÊM SOÁT\n\nCác thành viên Ban Kiểm soát (\"BKS\") trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Bùi Minh Khoa",
+                "1": "Trường ban"
+            },
+            {
+                "0": "Ông Đặng Công Trực",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Bà Bùi Thị Liễu",
+                "1": "Thành viên"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_4",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "BAN TỔNG GIÁM ĐỐC\n\nCác thành viên Ban Tổng Giám đốc trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Trần Bảo Sơn",
+                "1": "Tổng Giám đốc",
+                "2": ""
+            },
+            {
+                "0": "Ông Phan Bá Cường",
+                "1": "Phó Tổng Giám đốc",
+                "2": "bỗ nhiệm ngày 1 tháng 8 năm 2025"
+            },
+            {
+                "0": "Ông Nguyễn Hoàng Phi",
+                "1": "Phó Tổng Giám đốc",
+                "2": "miễn nhiệm ngày 1 tháng 8 năm 2025"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_5",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT\n\nNgười đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo này là Ông Trần Bảo Sơn.\n\nÔng Phan Bá Cường được Ông Trần Bảo Sơn ủy quyền để ký báo cáo tài chính riêng kèm theo cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025 theo Giấy Ủy quyền số 01/2026/GUQ-TGD/HAGL Agrico ngày 1 tháng 1 năm 2026.\n\nKIÊM TOÁN VIÊN\n\nCông ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.\n\n1\n\n11.01 □ ∞ . √12\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC\n\nBan Tổng Giám đốc Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai (\"Công ty\") trình bày báo cáo này và báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025.\n\nTRÁCH NHIÊM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BẢO CẢO TÀI CHÍNH RIÊNG\n\nBan Tổng Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính riêng cho từng năm tài chính phần ánh trung thực và hợp lý tỉnh hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng của Công ty trong năm. Trong quá trình lập báo cáo tài chính riêng này, Ban Tổng Giám đốc cần phải:\n\n▶ lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;\n\n▶ thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;\n\nnêu rõ các chuẩn mục kế toán áp dụng cho Công ty có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mục này đã được trình bày và giải thích trong báo cáo tải chính riêng; và\n\nlập báo cáo tài chính riêng trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho ràng Công ty sẽ tiếp tục hoạt động.\n\nBan Tổng Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phân ảnh tỉnh hình tài chính riêng của Công ty, với mức độ chính xác hợp lý, tại bắt ký thời điểm nào và đảm bảo rằng các số sách kế toán才华 thú với chế độ kế toán đã được áp dụng. Ban Tổng Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Công ty và do đó phải thực hiện các biện pháp thích hợp để ngăn chắn và phát hiện các hành vi gian lập và những vi phạm khác.\n\nBan Tổng Giám đốc cam kết đã tuân thủ những yêu cầu nêu trên trong việc lập báo cáo tài chính riêng kèm theo.\n\nCÔNG BÓ CỦA BAN TỔNG GIÁM ĐỐC\n\nTheo ý kiến của Ban Tổng Giám đốc, báo cáo tài chính riêng kèm theo phần ánh trung thực và hợp lý tính hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2025, kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mực kế toán Việt Nam, Chê độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nCông ty có các công ty con như được trình bày trong báo cáo tài chính riêng. Công ty đã lập bảo các tài chính riêng này theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng. Ngoài ra, Công ty đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con (\"Nhóm Công ty\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025 đề ngày 31 tháng 3 năm 2026 phù hợp với các quy định hiện hành trên áp dụng cho việc lập và trình bày báo cáo tài chính hợp nhất.\n\nNgười sử dụng báo cáo tài chính riêng cần đọc báo cáo tài chính riêng này cùng với báo cáo tài chính hợp nhất nói trên để có được đầy đủ thông tin về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty.\n\nTỉnh Gia Lai, Việt Nam\n\nNgày 31 tháng 3 năm 2026\n\n2\n\n1151.→二三\n\n\n\n[Non-Text]\n\nEY\n\nShape the future with confidence\n\nErnst & Young Vietnam Limited\n2 Hai Trieu Street, Sai Gon Ward\nHo Chi Minh City, Vietnam\n\nTel: +84 28 3824 5252\nEmail: eyhcmc@vn.ey.com\nWebsite (EN): ey.com/en_vn\nWebsite (VN): ey.com/vi_vn\n\nSố tham chiếu: 12827243/68613178/FN\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP\n\nKính gửi: Quý Cổ đông của Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nChúng tôi đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai (\"Công ty\"), được lập ngày 31 tháng 3 năm 2026 và được trình bày từ trang 5 đến trang 39, bao gồm bằng cân đối kế toán riêng vào ngày 31 tháng 12 năm 2025, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày và các thuyết minh báo cáo tài chính riêng kèm theo.\n\nTrách nhiệm của Ban Tổng Giám đốc\n\nBan Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty theo các Chuẩn lực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lập hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tối đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ các chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sốt trọng yếu trong báo cáo tài chính riêng do gian lập hoặc nhằm lẫn. Khì thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\nA member firm of Ernst & Young Global Limited\n\n3\n\n1103 78701-1\n\n\n\n-\n\nEY\n\nShape the future with confidence\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến của chúng tôi, báo cáo tài chính riêng đã phân ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu, tỉnh hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2025, cũng như kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nVấn đề cần nhân mạnh\n\nChúng tôi xin lưu ý đến Thuyết minh số 2.7 của báo cáo tài chính riêng, trình bày rằng Công ty đã phát sinh khoản lỗ thuần là 926.133.417 ngân VND cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025. Và cũng tại ngày này, Công ty có khoản lỗ lũy kế là 1.872.617.536 ngân VND. Các điều kiện này cho thấy sự tồn tại của yếu tố không chắc chắn trọng yếu có thể dẫn đến nghi ngờ đáng kể về khả năng hoạt động liên tục của Công ty.\n\nÝ kiến kiểm toán của chúng tôi không liên quan đến vấn đề cần nhân mạnh này.\n\nCông ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam\n\nHàng Nhật Quang\n\nPhó Tổng Giám đốc\n\nGiấy CNDKHN kiểm toán\n\nSố: 1772-2023-004-1\n\nDương Phúc Kiên\n\nKiểm toán viên\n\nGiấy CNDKHN kiểm toán\n\nSố: 4613-2023-004-1\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 31 tháng 3 năm 2026\n\nA member firm of Ernst & Young Global Limited\n\n4\n\n11 1 Z 2 3 4 5\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB01-DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG\n\nngày 31 tháng 12 năm 2025\n\nNgàn VND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "100",
+                "1": "A. TÀI SẢN NGẮN HẠN",
+                "2": "",
+                "3": "14.855.908.493",
+                "4": "13.514.680.218"
+            },
+            {
+                "0": "110",
+                "1": "I. Tiền",
+                "2": "4",
+                "3": "551.964",
+                "4": "13.058.472"
+            },
+            {
+                "0": "111",
+                "1": "1. Tiền",
+                "2": "",
+                "3": "551.964",
+                "4": "13.058.472"
+            },
+            {
+                "0": "130",
+                "1": "II. Các khoản phải thu ngắn hạn",
+                "2": "",
+                "3": "14.722.675.691",
+                "4": "13.366.861.487"
+            },
+            {
+                "0": "131",
+                "1": "1. Phải thu ngắn hạn của khách hàng",
+                "2": "5",
+                "3": "2.645.905.470",
+                "4": "2.113.055.433"
+            },
+            {
+                "0": "132",
+                "1": "2. Trả trước cho người bán ngắn hạn",
+                "2": "6",
+                "3": "1.431.522.620",
+                "4": "1.469.481.914"
+            },
+            {
+                "0": "135",
+                "1": "3. Phải thu về cho vay ngắn hạn",
+                "2": "7",
+                "3": "6.868.804.444",
+                "4": "6.589.299.033"
+            },
+            {
+                "0": "136",
+                "1": "4. Phải thu ngắn hạn khác",
+                "2": "8",
+                "3": "3.776.667.179",
+                "4": "3.238.797.279"
+            },
+            {
+                "0": "137",
+                "1": "5. Dự phòng phải thu ngắn hạn khó đòi",
+                "2": "9",
+                "3": "(224.022)",
+                "4": "(43.772.172)"
+            },
+            {
+                "0": "140",
+                "1": "III. Hàng tồn kho",
+                "2": "10",
+                "3": "17.871.860",
+                "4": "42.735.442"
+            },
+            {
+                "0": "141",
+                "1": "1. Hàng tồn kho",
+                "2": "",
+                "3": "28.224.992",
+                "4": "54.204.990"
+            },
+            {
+                "0": "149",
+                "1": "2. Dự phòng giảm giá hàng tồn kho",
+                "2": "",
+                "3": "(10.353.132)",
+                "4": "(11.469.548)"
+            },
+            {
+                "0": "150",
+                "1": "IV. Tài sản ngắn hạn khác",
+                "2": "",
+                "3": "114.808.978",
+                "4": "92.024.817"
+            },
+            {
+                "0": "152",
+                "1": "1. Thuế GTGT được khấu trừ",
+                "2": "11",
+                "3": "114.523.147",
+                "4": "91.738.986"
+            },
+            {
+                "0": "153",
+                "1": "2. Thuế và các khoản khác phải thu Nhà nước",
+                "2": "11",
+                "3": "285.831",
+                "4": "285.831"
+            },
+            {
+                "0": "200",
+                "1": "B. TÀI SẢN DÀI HẠN",
+                "2": "",
+                "3": "8.683.532.733",
+                "4": "9.625.959.373"
+            },
+            {
+                "0": "210",
+                "1": "I. Các khoản phải thu dài hạn",
+                "2": "",
+                "3": "5.587.156.175",
+                "4": "5.535.560.729"
+            },
+            {
+                "0": "215",
+                "1": "1. Phải thu về cho vay dài hạn",
+                "2": "7",
+                "3": "3.698.196.849",
+                "4": "3.798.605.398"
+            },
+            {
+                "0": "216",
+                "1": "2. Phải thu dài hạn khác",
+                "2": "8",
+                "3": "1.888.959.326",
+                "4": "1.736.955.331"
+            },
+            {
+                "0": "220",
+                "1": "II. Tài sản cố định",
+                "2": "",
+                "3": "5.809.841",
+                "4": "2.662.500"
+            },
+            {
+                "0": "221",
+                "1": "1. Tài sản cố định hữu hình",
+                "2": "12",
+                "3": "4.065.674",
+                "4": "170.833"
+            },
+            {
+                "0": "222",
+                "1": "",
+                "2": "",
+                "3": "13.218.006",
+                "4": "8.977.967"
+            },
+            {
+                "0": "223",
+                "1": "",
+                "2": "",
+                "3": "(9.152.332)",
+                "4": "(8.807.134)"
+            },
+            {
+                "0": "227",
+                "1": "2. Tài sản cố định vô hình",
+                "2": "13",
+                "3": "1.744.167",
+                "4": "2.491.667"
+            },
+            {
+                "0": "228",
+                "1": "",
+                "2": "",
+                "3": "5.980.000",
+                "4": "5.980.000"
+            },
+            {
+                "0": "229",
+                "1": "",
+                "2": "",
+                "3": "(4.235.833)",
+                "4": "(3.488.333)"
+            },
+            {
+                "0": "250",
+                "1": "III. Đầu tư tài chính dài hạn",
+                "2": "14",
+                "3": "3.090.526.946",
+                "4": "4.087.729.776"
+            },
+            {
+                "0": "251",
+                "1": "1. Đầu tư vào các công ty con",
+                "2": "",
+                "3": "4.954.817.803",
+                "4": "4.954.817.803"
+            },
+            {
+                "0": "252",
+                "1": "2. Đầu tư vào công ty liên kết",
+                "2": "",
+                "3": "286.004.636",
+                "4": "286.004.636"
+            },
+            {
+                "0": "253",
+                "1": "3. Đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "2.594.610",
+                "4": "2.594.610"
+            },
+            {
+                "0": "254",
+                "1": "4. Dự phòng đầu tư tài chính dài hạn",
+                "2": "",
+                "3": "(2.152.890.103)",
+                "4": "(1.155.687.273)"
+            },
+            {
+                "0": "260",
+                "1": "IV. Tài sản dài hạn khác",
+                "2": "",
+                "3": "39.771",
+                "4": "6.368"
+            },
+            {
+                "0": "261",
+                "1": "1. Chi phí trả trước dài hạn",
+                "2": "",
+                "3": "39.771",
+                "4": "6.368"
+            },
+            {
+                "0": "270",
+                "1": "TỔNG CỘNG TÀI SẢN",
+                "2": "",
+                "3": "23.539.441.226",
+                "4": "23.140.639.591"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_6",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "5\n\n1151 > 20 < / ≈\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB01-DN\n\nBÀNG CÂN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025\n\nNgàn VND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "300",
+                "1": "C. NỘ PHẢI TRẢ",
+                "2": "",
+                "3": "13.156.392.812",
+                "4": "11.831.331.760"
+            },
+            {
+                "0": "310",
+                "1": "I. Nợ ngắn hạn",
+                "2": "",
+                "3": "12.180.231.156",
+                "4": "11.778.732.885"
+            },
+            {
+                "0": "311",
+                "1": "1. Phải trả người bán ngắn hạn",
+                "2": "15",
+                "3": "132.334.491",
+                "4": "488.387.705"
+            },
+            {
+                "0": "312",
+                "1": "2. Người mua trả tiền trước ngắn hạn",
+                "2": "27",
+                "3": "440.043.118",
+                "4": "322.771.443"
+            },
+            {
+                "0": "313",
+                "1": "3. Thuế và các khoản phải nộp Nhà nước",
+                "2": "11",
+                "3": "156.007",
+                "4": "152.971"
+            },
+            {
+                "0": "314",
+                "1": "4. Phải trả người lao động",
+                "2": "",
+                "3": "1.143.000",
+                "4": "1.159.200"
+            },
+            {
+                "0": "315",
+                "1": "5. Chỉ phí phải trả ngắn hạn",
+                "2": "16",
+                "3": "1.871.283.382",
+                "4": "1.136.240.205"
+            },
+            {
+                "0": "319",
+                "1": "6. Phải trả ngắn hạn khác",
+                "2": "17",
+                "3": "170.396.570",
+                "4": "265.146.773"
+            },
+            {
+                "0": "320",
+                "1": "7. Vay ngắn hạn",
+                "2": "18",
+                "3": "9.564.874.588",
+                "4": "9.564.874.588"
+            },
+            {
+                "0": "330",
+                "1": "II. Nợ dài hạn",
+                "2": "",
+                "3": "976.161.656",
+                "4": "52.598.875"
+            },
+            {
+                "0": "331",
+                "1": "1. Phải trả người bán dài hạn",
+                "2": "27",
+                "3": "430.876.918",
+                "4": "-"
+            },
+            {
+                "0": "337",
+                "1": "2. Phải trả dài hạn khác",
+                "2": "17",
+                "3": "32.711.211",
+                "4": "52.598.875"
+            },
+            {
+                "0": "338",
+                "1": "3. Vay dài hạn",
+                "2": "18",
+                "3": "512.573.527",
+                "4": "-"
+            },
+            {
+                "0": "400",
+                "1": "D. VỐN CHỦ SỞ HỮU",
+                "2": "",
+                "3": "10.383.048.414",
+                "4": "11.309.307.831"
+            },
+            {
+                "0": "410",
+                "1": "I. Vốn chủ sở hữu",
+                "2": "19",
+                "3": "10.383.048.414",
+                "4": "11.309.307.831"
+            },
+            {
+                "0": "411",
+                "1": "1. Vốn cổ phần",
+                "2": "",
+                "3": "11.085.538.950",
+                "4": "11.085.538.950"
+            },
+            {
+                "0": "411a",
+                "1": "- Cổ phiếu phổ thông có quyền biểu quyết",
+                "2": "",
+                "3": "11.085.538.950",
+                "4": "11.085.538.950"
+            },
+            {
+                "0": "412",
+                "1": "2. Thặng dư vốn cổ phần",
+                "2": "",
+                "3": "1.170.127.000",
+                "4": "1.170.127.000"
+            },
+            {
+                "0": "421",
+                "1": "3. Lỗ lũy kế",
+                "2": "",
+                "3": "(1.872.617.536)",
+                "4": "(946.358.119)"
+            },
+            {
+                "0": "421a",
+                "1": "- Lỗ lũy kế đến cuối năm trước",
+                "2": "",
+                "3": "(946.484.119)",
+                "4": "(33.449.898)"
+            },
+            {
+                "0": "421b",
+                "1": "- Lỗ sau thuế năm nay",
+                "2": "",
+                "3": "(926.133.417)",
+                "4": "(912.908.221)"
+            },
+            {
+                "0": "440",
+                "1": "TỔNG CỘNG NGUỒN VỐN",
+                "2": "",
+                "3": "23.539.441.226",
+                "4": "23.140.639.591"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_7",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "Văn Thị Kim Tuyên\n\nNgười lập\n\nĐỗ Vũ Hải Hà\n\nKế toán trường\n\nPhan Bá Cường\n\nPhó Tổng Giám đốc\n\n6\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB02-DN\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2025\n\nNgàn VND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHÍ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "10",
+                "1": "1. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "20.1",
+                "3": "745.675.740",
+                "4": "589.310.336"
+            },
+            {
+                "0": "11",
+                "1": "2. Giá vốn hàng bán và dịch vụ cung cấp",
+                "2": "21",
+                "3": "(730.144.334)",
+                "4": "(579.623.447)"
+            },
+            {
+                "0": "20",
+                "1": "3. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "15.531.406",
+                "4": "9.686.889"
+            },
+            {
+                "0": "21",
+                "1": "4. Doanh thu hoạt động tài chính",
+                "2": "20.2",
+                "3": "842.858.811",
+                "4": "836.927.390"
+            },
+            {
+                "0": "22",
+                "1": "5. Chi phí tài chính",
+                "2": "22",
+                "3": "(1.778.509.111)",
+                "4": "(1.726.174.172)"
+            },
+            {
+                "0": "23",
+                "1": "Trong đó: Chi phí lãi vay",
+                "2": "",
+                "3": "(778.049.862)",
+                "4": "(567.116.337)"
+            },
+            {
+                "0": "25",
+                "1": "6. Chi phí bán hàng",
+                "2": "23",
+                "3": "(7.871.024)",
+                "4": "(7.643.844)"
+            },
+            {
+                "0": "26",
+                "1": "7. Chi phí quản lý doanh nghiệp",
+                "2": "23",
+                "3": "(17.104.149)",
+                "4": "(14.662.159)"
+            },
+            {
+                "0": "30",
+                "1": "8. Lỗ thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "(945.094.067)",
+                "4": "(901.865.896)"
+            },
+            {
+                "0": "31",
+                "1": "9. Thu nhập khác",
+                "2": "24",
+                "3": "21.013.656",
+                "4": "16.881.513"
+            },
+            {
+                "0": "32",
+                "1": "10. Chi phí khác",
+                "2": "24",
+                "3": "(2.053.006)",
+                "4": "(27.923.838)"
+            },
+            {
+                "0": "40",
+                "1": "11. Lợi nhuận (lỗ) khác",
+                "2": "24",
+                "3": "18.960.650",
+                "4": "(11.042.325)"
+            },
+            {
+                "0": "50",
+                "1": "12. Tổng lỗ kế toán trước thuế",
+                "2": "",
+                "3": "(926.133.417)",
+                "4": "(912.908.221)"
+            },
+            {
+                "0": "51",
+                "1": "13. Chi phí thuế TNDN hiện hành",
+                "2": "26.1",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "60",
+                "1": "14. Lỗ sau thuế TNDN",
+                "2": "",
+                "3": "(926.133.417)",
+                "4": "(912.908.221)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_8",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "7\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB03-DN\n\nBÁO CÁO LƯU CHUYÊN TIÊN TẾ RIÊNG\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2025\n\nNgàn VND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "",
+                "1": "I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "01",
+                "1": "Tổng lỗ kế toán trước thuế Điều chỉnh cho các khoản:",
+                "2": "",
+                "3": "(926.133.417)",
+                "4": "(912.908.221)"
+            },
+            {
+                "0": "02",
+                "1": "Khấu hao và hao mòn",
+                "2": "12, 13",
+                "3": "1.367.330",
+                "4": "1.290.453"
+            },
+            {
+                "0": "03",
+                "1": "Các khoản dự phòng",
+                "2": "",
+                "3": "952.538.264",
+                "4": "1.126.597.875"
+            },
+            {
+                "0": "04",
+                "1": "Lãi chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+                "2": "",
+                "3": "(233.514.934)",
+                "4": "(254.161.019)"
+            },
+            {
+                "0": "05",
+                "1": "Lãi từ hoạt động đầu tư",
+                "2": "",
+                "3": "(599.050.452)",
+                "4": "(573.257.689)"
+            },
+            {
+                "0": "06",
+                "1": "Chi phí lãi vay",
+                "2": "22",
+                "3": "778.049.862",
+                "4": "567.116.337"
+            },
+            {
+                "0": "08",
+                "1": "Lỗ từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+                "2": "",
+                "3": "(26.743.347)",
+                "4": "(45.322.264)"
+            },
+            {
+                "0": "09",
+                "1": "Tăng các khoản phải thu",
+                "2": "",
+                "3": "(570.466.138)",
+                "4": "(141.801.918)"
+            },
+            {
+                "0": "10",
+                "1": "Giảm (tăng) hàng tồn kho",
+                "2": "",
+                "3": "25.979.998",
+                "4": "(4.022.166)"
+            },
+            {
+                "0": "11",
+                "1": "Tăng (giảm) các khoản phải trả",
+                "2": "",
+                "3": "72.053.363",
+                "4": "(85.497.131)"
+            },
+            {
+                "0": "12",
+                "1": "(Tăng) giảm chi phí trả trước",
+                "2": "",
+                "3": "(33.403)",
+                "4": "131.965"
+            },
+            {
+                "0": "14",
+                "1": "Tiền lãi vay đã trả",
+                "2": "",
+                "3": "(42.020.613)",
+                "4": "(81.796.952)"
+            },
+            {
+                "0": "17",
+                "1": "Tiền chi khác cho hoạt động kinh doanh",
+                "2": "",
+                "3": "(144.000)",
+                "4": "(144.000)"
+            },
+            {
+                "0": "20",
+                "1": "Lưu chuyển tiền thuần sử dụng vào hoạt động kinh doanh",
+                "2": "",
+                "3": "(541.374.140)",
+                "4": "(358.452.466)"
+            },
+            {
+                "0": "",
+                "1": "II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "23",
+                "1": "Tiền chi cho vay",
+                "2": "",
+                "3": "(4.629.606)",
+                "4": "(1.996.647.006)"
+            },
+            {
+                "0": "25",
+                "1": "Tiền chi đầu tư góp vốn vào công ty con",
+                "2": "",
+                "3": "-",
+                "4": "(160.042.000)"
+            },
+            {
+                "0": "27",
+                "1": "Tiền thu lãi tiền gửi và cổ tức được nhận",
+                "2": "",
+                "3": "20.921.790",
+                "4": "26.184.612"
+            },
+            {
+                "0": "30",
+                "1": "Lưu chuyển tiền thuần từ (sử dụng vào) hoạt động đầu tư",
+                "2": "",
+                "3": "16.292.184",
+                "4": "(2.130.504.394)"
+            },
+            {
+                "0": "",
+                "1": "III. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "33",
+                "1": "Tiền thu từ đi vay",
+                "2": "18",
+                "3": "1.276.073.527",
+                "4": "4.525.920.000"
+            },
+            {
+                "0": "34",
+                "1": "Tiền trả nợ gốc vay",
+                "2": "18",
+                "3": "(763.500.000)",
+                "4": "(2.071.192.643)"
+            },
+            {
+                "0": "40",
+                "1": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                "2": "",
+                "3": "512.573.527",
+                "4": "2.454.727.357"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_9",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "8\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB03-DN\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ RIÊNG (tiếp theo)\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2025\n\nNgàn VND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "50",
+                "1": "Lưu chuyển tiền thuần trong năm",
+                "2": "",
+                "3": "(12.508.429)",
+                "4": "(34.229.503)"
+            },
+            {
+                "0": "60",
+                "1": "Tiền đầu năm",
+                "2": "",
+                "3": "13.058.472",
+                "4": "47.288.173"
+            },
+            {
+                "0": "61",
+                "1": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+                "2": "",
+                "3": "1.921",
+                "4": "(198)"
+            },
+            {
+                "0": "70",
+                "1": "Tiền cuối năm",
+                "2": "4",
+                "3": "551.964",
+                "4": "13.058.472"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_10",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "Tỉnh Gia Lai, Việt Nam\nNgày 31 tháng 3 năm 2026\n\nVăn Thị Kim Tuyên\nNgười lập\n\nĐỗ Vũ Hải Hà\nKế toán trường\n\nPhan Bá Cường\nPhó Tổng Giám đốc\n\n9\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n1. THÔNG TIN CÔNG TY\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai (\"Công ty\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo GCNDKDN số 5900712753 do Sở Kế hoạch và Đầu tư Tĩnh Gia Lai cấp (nay là Sở Tài chính Tĩnh Gia Lai) cấp vào ngày 26 tháng 5 năm 2010 và hai mươi mất (21) GCNDKDN điều chỉnh sau đó.\n\nCổ phiếu của Công ty được niêm yết tại SGDCKHCM theo Quyết định số 278/QĐ-SGDHCM do SGDCKHCM cấp ngày 10 tháng 7 năm 2015 với mã giao dịch là \"HNG\". Công ty đã bị hủy niêm yết cổ phiếu trên SGDCKHCM theo Quyết định số 488/QĐ-SGDHCM ngày 9 tháng 8 năm 2024 do SGDCKHCM ban hành và chuyển sang giao dịch trên UPCOM theo Quyết định số 4111/TB-SGDHN và Quyết định số 974/QĐ-SGDHN ngày 10 tháng 9 năm 2024 do HNX ban hành.\n\nHoạt động chính trong năm hiện tại của Công ty là kinh doanh cao su, phân bón và các loại vật tư nông nghiệp.\n\nCông ty có trụ sở chính đăng ký tại Số 15, Đường Trường Chinh, Phường Pleiku, Tĩnh Gia Lai, Việt Nam.\n\nSố lượng nhân viên của Công ty tại ngày 31 tháng 12 năm 2025 là 18 (tại ngày 31 tháng 12 năm 2024 là 19).\n\nVào ngày 31 tháng 12 năm 2025, Công ty có năm (5) công ty con trực tiếp, hai (2) công ty con gián tiếp, một (1) công ty liên kết. Chi tiết như sau:",
+        "dataframe": [
+            {
+                "0": "Tên công ty",
+                "1": "Trụ sở",
+                "2": "Tỷ lệ",
+                "3": "Tỷ lệ"
+            },
+            {
+                "0": "Tên công ty",
+                "1": "Trụ sở",
+                "2": "Tình trạng hoạt động",
+                "3": "sở hữu và biểu quyết(%)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_11",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "Công ty con",
+        "dataframe": [
+            {
+                "0": "(1)",
+                "1": "Công ty TNHH Phát triển Nông nghiệp Hoàng Anh Attapeu (\"HA Attapeu\")",
+                "2": "Attapeu, Lào",
+                "3": "Đang hoạt động",
+                "4": 10000
+            },
+            {
+                "0": "(2)",
+                "1": "Công ty TNHH Công nghiệp và Nông nghiệp Cao su Hoàng Anh - Quang Minh (\"HAQM Lào\")",
+                "2": "Sekong, Lào",
+                "3": "Đang hoạt động",
+                "4": 10000
+            },
+            {
+                "0": "(3)",
+                "1": "Công ty TNHH Hoàng Anh Rattanakiri (\"HA Rattanakiri\")",
+                "2": "Ratanakiri, Campuchia",
+                "3": "Đang hoạt động",
+                "4": 10000
+            },
+            {
+                "0": "(4)",
+                "1": "Công ty TNHH Heng Brothers (\"Heng Brothers\")",
+                "2": "Ratanakiri, Campuchia",
+                "3": "Đang hoạt động",
+                "4": 10000
+            },
+            {
+                "0": "(5)",
+                "1": "Công ty TNHH MTV Hoàng Anh Oyadav (\"HA Oyadav\")",
+                "2": "Ratanakiri, Campuchia",
+                "3": "Đang hoạt động",
+                "4": 10000
+            },
+            {
+                "0": "(6)",
+                "1": "Công ty TNHH CRD (\"CRD\")",
+                "2": "Ratanakiri, Campuchia",
+                "3": "Đang hoạt động",
+                "4": 10000
+            },
+            {
+                "0": "(7)",
+                "1": "Công ty TNHH MTV Đầu tư và Sản xuất Kinh doanh Nông nghiệp Nam Lào (\"Nam Lào\") (*)",
+                "2": "Attapeu, Lào",
+                "3": "Trước hoạt động",
+                "4": 10000
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_12",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "Công ty liên kết",
+        "dataframe": [
+            {
+                "0": "(1) Công ty Cổ phần Cao su Bidiphar (\"Bidiphar\")",
+                "1": "Gia Lai, Việt Nam",
+                "2": "Đang hoạt động",
+                "3": 4914
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_13",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "(*) Nam Lào được thành lập ngày 5 tháng 1 năm 2024 theo GCNDKKD số 0005/ĐKDN cấp bởi Cơ quan đăng ký doanh nghiệp, Sở Công nghiệp và Thương mại Tĩnh Attapeu, Lào và Giấy Chứng nhận Đầu tư số 062-2025/VPUBKKĐT cấp bởi Bộ Kế hoạch và Đầu tư Lào, đề thực hiện dự án đầu tư sản xuất trồng trọt cây ăn trái kết hợp chăn nuôi bờ quy mô lớn tại Tĩnh Attapeu và Tĩnh Sekong, Lào.\n\n10\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n2. CƠ SỞ TRÌNH BÀY\n\n2.1 Mục đích lập báo cáo tài chính riêng\n\nCông ty có các công ty con như được trình bày tại Thuyết minh (\"TM\") số 14.1. Công ty đã lập báo cáo tài chính riêng này theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng. Ngoài ra, Công ty đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con (\"Nhóm Công ty\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025 đề ngày 31 tháng 3 năm 2026 phù hợp với các quy định hiện hành trên áp dụng cho việc lập và trình bày báo cáo tài chính hợp nhất.\n\nNgười sử dụng báo cáo tài chính riêng nên đọc báo cáo này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty.\n\n2.2 Chuẩn mực và Chế độ kế toán áp dụng\n\nBáo cáo tài chính riêng của Công ty được trình bày bằng ngân đồng Việt Nam (\"ngàn VND\") phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam khác do Bộ Tài chính ban hành theo:\n\n- Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực Kế toán Việt Nam (Đợt 1);\n\n- Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực Kế toán Việt Nam (Đợt 2);\n\n- Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực Kế toán Việt Nam (Đợt 3);\n\n- Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực Kế toán Việt Nam (Đợt 4); và\n\n- Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực Kế toán Việt Nam (Đợt 5).\n\nTheo đó, báo cáo tài chính riêng được trình bày kèm theo và việc sử dụng báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về thủ tục, nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tính hình tài chính riêng, kết quả hoạt động kinh doanh riêng và lưu chuyển tiền tệ riêng theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.\n\n2.3 Hình thức số kế toán áp dụng\n\nHình thức số kế toán được áp dụng của Công ty là Nhật ký chung.\n\n2.4 Ký kế toán năm\n\nKỳ kế toán năm của Công ty áp dụng cho việc lập báo cáo tài chính riêng bắt đầu từ ngày 1 tháng 1 và kết thúc ngày 31 tháng 12.\n\n2.5 Đơn vị tiền tệ trong kế toán\n\nĐơn vị tiền tệ trong kế toán của Công ty là VND. Báo cáo tài chính riêng của Công ty được trình bày bằng ngân đồng Việt Nam (\"Ngàn VND\").\n\n11\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n2. CO' SÔ' TRÌNH BÀY (tiếp theo)\n\n2.6 Quy định kế toán mới đã ban hành nhưng chưa có hiệu lực\n\nNgày 27 tháng 10 năm 2025, Bộ Tài chính đã ban hành Thông tư số 99/2025/TT-BTC hướng dẫn Chế độ kế toán doanh nghiệp (\"Thông tư 99\"), thay thế Thông tư số 200/2014/TT BTC hướng dẫn Chế độ kế toán doanh nghiệp do Bộ Tài chính ban hành ngày 22 tháng 12 năm 2014 và một số quy định khác có liên quan. Thông tư 99 có hiệu lực từ ngày 1 tháng 1 năm 2026 và áp dụng cho các doanh nghiệp có năm tài chính bắt đầu từ hoặc sau ngày 1 tháng 1 năm 2026.\n\nCông ty đang trong quá trình đánh giá tác động của Thông tư 99 đối với việc lập và trình bày báo cáo tài chính riêng và sẽ áp dụng Thông tư 99 cho năm tài chính kết thúc ngày 31 tháng 12 năm 2026.\n\n2.7 Giá định hoạt động liên tục\n\nCông ty đã phát sinh khoản lỗ thuần là 926.133.417 ngàn VND cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025 và dòng tiền thuần từ hoạt động kinh doanh của Công ty âm 541.374.140 ngàn VND cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025. Vào ngày 31 tháng 12 năm 2025, Công ty có khoản lỗ lũy kế là 1.872.617.536 ngàn VND. Các điều kiện này cho thấy sự tồn tại của yếu tố không chắc chắn trọng yếu có thể dẫn đến nghi ngờ đáng kể về khả năng hoạt động liên tục của Công ty. Do đó, khả năng tiếp tục hoạt động trong tương lai của Công ty phụ thuộc vào khả năng tạo ra đủ vốn lưu động để đáp ứng nhu cầu vận hành và thanh toán các nghĩa vụ tài chính đến hạn trong tương lai gần, cùng với sự hỗ trợ tài chính tiếp tục của các cổ đông.\n\nTại ngày lập báo cáo tài chính riêng này, Ban Tổng Giám đốc Công ty đã lập kế hoạch kinh doanh và dự báo dòng tiền cho 12 tháng tiếp theo trên cơ sở kỳ vọng về (i) dòng tiền dự kiến sẽ được tạo ra từ việc triển khai các dự án nông nghiệp quy mô lớn, (ii) các khoản giải ngân nợ vay với các ngân hàng thương mại từ các hợp đồng tín dụng hiện tại và (iii) dòng tiền hỗ trợ tài chính từ cổ đông. Cụ thể, Công ty Cổ phần Tập đoàn Trường Hải (\"Thaco\"), cổ đông lớn của Công ty, đã cam kết sẽ hỗ trợ nguồn tài chính bổ sung cần thiết cũng nhu gia hạn các khoản công nợ với cổ đông khi đến hạn thanh toán để đảm bảo Công ty có thể hoạt động bình thương.\n\nTheo đó, Ban Tổng Giám đốc Công ty nhận định rằng Công ty sẽ có thể tiếp tục hoạt động và thanh toán các khoản nợ phải trả trong quá trình hoạt động kinh doanh bình thường trong 12 tháng tiếp theo kể từ ngày của báo cáo tài chính riêng này, và theo đó, sẽ có thể sử dụng các tài sản và thanh toán các nghĩa vụ đến hạn trong quá trình hoạt động bình thường của Công ty. Dựa trên cơ sở này, Ban Tổng Giám đốc cho rằng việc lập các báo cáo tài chính riêng của Công ty trên cơ sở hoạt động liên tục là phù hợp.\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU\n\n3.1 Tiền\n\nTiền bao gồm tiền mặt tại quý và tiền gửi ngân hàng.\n\n3.2 Các khoản phải thu\n\nCác khoản phải thu được trình bày trên bằng cân đối kế toán riêng theo giá trị ghi sổ của các khoản phải thu từ khách hàng và phải thu khác sau khi cán trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.\n\nDự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc ký kế toán. Tăng hoặc giảm số dự tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh riêng. Khi các khoản nợ phải thu khó đòi được xác định là không thể thu hồi được và kế toán thực hiện xóa nợ, các khoản chênh lệch phát sinh giữa số dự phòng nợ phải thu khó đòi và giá gốc nợ phải thu được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n12\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.3 Hàng tồn kho\n\nHàng tồn kho được tính theo giá gốc. Giá gốc hàng tồn kho bao gồm chỉ phí mua để có được hàng tồn kho ở địa điểm và trạng thái hiện tại.\n\nTrường hợp giá trị thuần có thể thực hiện được thấp hơn giá gốc thì phải tính theo giá trị thuần có thể thực hiện được.\n\nCông ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho với giá trị được xác định như sau:\n\nHàng hóa - Chi phí mua theo phương pháp bình quân gia quyền.\n\nDự phòng giảm giá hàng tồn kho\n\nDự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị (do giảm giá, kém phẩm chất, lỗi thời v.v.) có thể xây ra đối với hàng hóa và các loại hàng tồn kho khác thuộc quyền sở hữu của Công ty dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc năm tài chính.\n\nSố tăng hoặc giảm dự phòng giảm giá hàng tồn kho được hạch toán vào giá vốn hàng bán trong báo cáo kết quả hoạt động kinh doanh riêng. Khi hàng tồn kho bị hủy bỏ do hết hạn sử dụng, mất phẩm chất, hư hỏng, không còn giá trị sử dụng, các khoản chênh lệch phát sinh giữa số dự phòng giảm giá hàng tồn kho đã trích lập và giá gốc hàng tồn kho được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.4 Tài sản cố định hữu hình\n\nTài sản cố định hữu hình được thể hiện theo nguyên giá trừ giá trị khấu hao lũy kế.\n\nNguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sẵn sàng hoạt động như dự kiến và chi phí để tháo dỡ, di đời tài sản và khởi phục hiện trường tại địa điểm đặt tài sản, nếu có.\n\nCác chỉ phí mua sắm, nâng cấp và đổi mới tài sản cố định hữu hình được ghi tăng nguyên giá của tài sản và các chỉ phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.\n\nKhi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.5 Tài sản cố định vô hình\n\nTài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.\n\nNguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.\n\nCác chỉ phí mua sắm, nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chỉ phi khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.\n\nKhi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.6 Khấu hao và hao mòn\n\nKhấu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:",
+        "dataframe": [
+            {
+                "0": "Máy móc và thiết bị",
+                "1": "5 - 7 năm"
+            },
+            {
+                "0": "Phương tiện vận chuyển",
+                "1": "2 - 10 năm"
+            },
+            {
+                "0": "Thiết bị văn phòng",
+                "1": "4 - 5 năm"
+            },
+            {
+                "0": "Chương trình phần mềm",
+                "1": "5 - 8 năm"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_14",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "13\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.7 Chi phí đi vay\n\nChi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Công ty và được hạch toán như chi phí phát sinh trong năm.\n\n3.8 Chi phí trả trước\n\nChi phí trả trước bao gồm các chi phí trả trước ngắn hạn hay dài hạn trên bằng cân đối kế toán riêng và được phân bổ trong khoảng thời gian trả trước của chi phí tương ứng với các lợi ích kinh tế được tạo ra từ các chi phí này.\n\n3.9 Các khoản đầu tư\n\nĐầu tư vào các công ty con\n\nKhoản đầu tư vào các công ty con mà trong đó Công ty nấm quyền kiểm soát được trình bày theo phương pháp giá gốc.\n\nCác khoản phân phối lợi nhuận mà Công ty nhận được từ số lợi nhuận lũy kế của công ty con sau ngày Công ty nằm quyền kiểm soát được ghi nhận vào bảo cáo kết quả hoạt động kinh doanh riêng. Các khoản phân phối khác được xem như phần thu hồi của các khoản đầu tư và được trừ vào giá trị đầu tư.\n\nĐầu tư vào công ty liên kết\n\nKhoản đầu tư vào công ty liên kết mà trong đó Công ty có ảnh hưởng đáng kể được trình bày theo phương pháp giá gốc.\n\nCác khoản phân phối lợi nhuận từ số lợi nhuận thuần lũy kế của công ty liên kết sau ngày Công ty có ảnh hưởng đáng kể được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng. Các khoản phân phối khác được xem như phần thu hồi các khoản đầu tư và được trừ vào giá trị đầu tư.\n\nĐầu tư góp vốn vào đơn vị khác\n\nĐầu tư góp vốn vào đơn vị khác được ghi nhận theo giá gốc.\n\nDự phòng giảm giá trị các khoản đầu tư\n\nDự phòng cho việc giảm giá trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này vào ngày kết thúc năm tài chính. Tăng hoặc giảm số dư dự phòng được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.10 Các khoản phải trả và chi phí trích trước\n\nCác khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được mà không phụ thuộc vào việc Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.\n\n14\n\n11. 二分 012\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.11 Các nghiệp vụ bằng ngoại tệ\n\nCác nghiệp vụ phát sinh bằng các đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Công ty (VND) được hạch toán theo tỷ giá giao dịch thực tế vào ngày phát sinh nghiệp vụ theo nguyên tắc sau:\n\n- Nghiệp vụ làm phát sinh các khoản phải thu được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Công ty chỉ định khách hàng thanh toán; và\n\n- Nghiệp vụ làm phát sinh các khoản phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Công ty dự kiến giao dịch.\n\nTại ngày kết thúc ký kế toán năm, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế tại ngày của bằng cân đối kế toán riêng theo nguyên tắc sau:\n\n- Các khoản mục tiền tệ được phân loại là tài sản được đánh giá lại theo tỷ giá mua của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch; và\n\n- Các khoản mục tiền tệ được phân loại là nợ phải trả được đánh giá lại theo tỷ giá bán của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.\n\nTất cả các khoản chênh lệch tỷ giá phát sinh được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.12 Vốn chủ sở hữu\n\nCổ phiếu phổ thông\n\nCổ phiếu phổ thông được ghi nhận theo giá phát hành trừ đi các chi phí phát sinh liên quan trực tiếp đến việc phát hành cổ phiếu, sau khi trừ đi các ảnh hưởng thuế. Các chi phí này được ghi nhận là một khoản khấu trừ từ thặng dư vốn cổ phần.\n\nThặng dư vốn cổ phần\n\nThặng dư vốn cổ phần phần ánh khoản chênh lệch giữa mệnh giá và giá phát hành cổ phiếu trừ đi chi phí phát hành cổ phiếu thực tế phát sinh.\n\n3.13 Phân chia lợi nhuận\n\nLợi nhuận thuần sau thuế thu nhập doanh nghiệp có thể được chia cho các cổ đông sau khi được Đại Hội đồng Cổ đông phê duyệt và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam.\n\n3.14 Ghi nhận doanh thu\n\nDoanh thu được ghi nhận khi Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đầy cũng phải được đáp ứng khi ghi nhận doanh thu:\n\nDoanh thu bán hàng\n\nDoanh thu bán hàng được ghi nhận khi các rủi ro trọng yếu và các quyền sở hữu hàng hóa đã được chuyển sang người mua, thường là trùng với thời điểm chuyển giao hàng hóa.\n\nTiền lãi\n\nTiền lãi được ghi nhận trên cơ sở thời gian và lãi suất thực tế từng kỳ.\n\nCổ tức\n\nCổ tức được ghi nhận khi quyền được nhận khoản thanh toán cổ tức của Công ty được xác lập.\n\n15\n\nالله.\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.15 Thuế\n\nThuế thu nhập hiện hành\n\nTài sản thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến được thu hồi hoặc phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc năm tài chính.\n\nThuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\nCông ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khí Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.\n\nThuế thu nhập hoãn lại\n\nThuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của chúng cho mục đích lập báo cáo tài chính riêng.\n\nThuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế, ngoại trừ thuế thu nhập hoãn lại phải nộp phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lời nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và tất cả các chênh lệch tạm thời chịu thuế gắn liền với các khoản đầu tư vào các công ty con và công ty liên kết khi Công ty có khả năng kiểm soát thời gian hoàn nhập khoản chênh lệnh tạm thời và chắc chắn khoản chênh lệch tạm thời sẽ không được hoàn nhập trong tương lai có thể dự đoán.\n\nTài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ tài sản thuế hoãn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và đối với các chênh lệch tạm thời được khấu trừ phát sinh từ các khoản đầu tư vào các công ty con và công ty liên kết, tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn là chênh lệnh tạm thời sẽ được hoàn nhập trong tương lai có thể dự đoán được và có lợi nhuận chịu thuế để sử dụng được khoản chênh lệch tạm thời đó.\n\nGiá trị ghi số cửa tài sản thuế thu nhập doanh nghiệp hoãn lại được xem xét lại vào ngày kết thúc ký kể toán năm và phải ghi giảm giá trị ghi số cửa tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoãn lại chưa được ghi nhận trước đây được xem xét lại vào ngày kết thúc ký kể toán năm và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.\n\nTài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ kế toán năm khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc năm tài chính.\n\nThuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thắng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\n16\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.15 Thuế (tiếp theo)\n\nThuế thu nhập hoãn lại (tiếp theo)\n\nCông ty chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải nộp khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả này liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế đối với cùng một đơn vị chịu thuế hoặc Công ty dự định thanh toán thuế thu nhập hiện hành phải trả và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng kỳ tương lại khi các khoản trọng yếu của thuế thu nhập hoãn lại phải trả hoặc tài sản thuế thu nhập hoãn lại được thanh toán hoặc thu hồi.\n\n3.16 Bên liên quan\n\nCác bên được coi là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan nếu trên có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên mật thiết trong gia đình của họ.\n\n4. TIỀN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Ngàn VND Số đầu năm"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "-",
+                "2": "37.287"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "551.964",
+                "2": "13.021.185"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "551.964",
+                "2": "13.058.472"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_15",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "Các thông tin bổ sung về báo cáo lưu chuyển tiền tệ riêng:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Ngàn VND"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "Số đầu năm"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_16",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "Các giao dịch không bằng tiền ảnh hưởng đến báo cáo lưu chuyển tiền tệ riêng trong tương lai:",
+        "dataframe": [
+            {
+                "0": "Cân trừ phải trả khác với khoản phải thu khác từ hoạt động đầu tư",
+                "1": "-",
+                "2": "1.182.151.149"
+            },
+            {
+                "0": "Cân trừ phải thu khác với phải thu cho vay từ hoạt động đầu tư",
+                "1": "78.513.627",
+                "2": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_17",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "17\n\n||+1 . : や = 5 に ||\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n5. PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Ngàn VND Số đầu năm"
+            },
+            {
+                "0": "Phải thu từ các bên liên quan (TM số 27)",
+                "1": "2.645.701.480",
+                "2": "2.070.609.744"
+            },
+            {
+                "0": "Phải thu từ khách hàng",
+                "1": "203.990",
+                "2": "42.445.689"
+            },
+            {
+                "0": "- Zhengzhou Tai Wang Import and Export Trade Co., Ltd",
+                "1": "-",
+                "2": "22.065.328"
+            },
+            {
+                "0": "- Khác",
+                "1": "203.990",
+                "2": "20.380.361"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "2.645.905.470",
+                "2": "2.113.055.433"
+            },
+            {
+                "0": "Dự phòng phải thu ngắn hạn khó đòi (TM số 9)",
+                "1": "(100.929)",
+                "2": "(41.631.763)"
+            },
+            {
+                "0": "GIÁ TRỊ THUÀN",
+                "1": "2.645.804.541",
+                "2": "2.071.423.670"
+            },
+            {
+                "0": "Trả trước cho các bên liên quan (TM số 27)",
+                "1": "1.428.522.620",
+                "2": "1.464.341.504"
+            },
+            {
+                "0": "Trả trước cho người bán",
+                "1": "3.000.000",
+                "2": "5.140.410"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "1.431.522.620",
+                "2": "1.469.481.914"
+            },
+            {
+                "0": "Dự phòng trả trước ngắn hạn khó đòi (TM số 9)",
+                "1": "-",
+                "2": "(2.140.409)"
+            },
+            {
+                "0": "GIÁ TRỊ THUÀN",
+                "1": "1.431.522.620",
+                "2": "1.467.341.505"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "6.868.804.444",
+                "2": "6.589.299.033"
+            },
+            {
+                "0": "Cho vay bên liên quan (TM số 27)",
+                "1": "6.868.804.444",
+                "2": "6.589.299.033"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "3.698.196.849",
+                "2": "3.798.605.398"
+            },
+            {
+                "0": "Cho vay Chính phủ Lào (*)",
+                "1": "2.107.794.864",
+                "2": "2.034.606.180"
+            },
+            {
+                "0": "Cho vay bên liên quan (TM số 27)",
+                "1": "1.590.401.985",
+                "2": "1.763.999.218"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "10.567.001.293",
+                "2": "10.387.904.431"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_18",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "(*) Đây là khoản cho Chính phủ Lào vay không lãi suất nhằm hỗ trợ việc xây dựng Sân bay Quốc tế Nongkhang tại Tĩnh Huaphan và Sân bay Quốc tế Attapeu tại Tĩnh Attapeu, Cộng hòa Dân chủ Nhân dân Lào. Các khoản cho vay này sẽ được cản trừ với tiền thuế và các nghĩa vụ phải trả khác mà Công ty và các công ty con phải nộp cho Chính phủ Lào trong tương lai.\n\n18\n\n例 2-二“以”\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n8. PHÀI THU KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Ngàn VND Số đầu năm"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "3.776.667.179",
+                "2": "3.238.797.279"
+            },
+            {
+                "0": "Phải thu các bên liên quan từ việc cán trừ công nợ",
+                "1": "2.221.320.699",
+                "2": "2.096.923.128"
+            },
+            {
+                "0": "Phải thu lãi cho vay",
+                "1": "1.327.842.863",
+                "2": "946.736.873"
+            },
+            {
+                "0": "Chi hộ",
+                "1": "227.099.249",
+                "2": "194.598.910"
+            },
+            {
+                "0": "Khác",
+                "1": "404.368",
+                "2": "538.368"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "1.888.959.326",
+                "2": "1.736.955.331"
+            },
+            {
+                "0": "Phải thu lãi cho vay",
+                "1": "1.849.847.014",
+                "2": "1.736.955.331"
+            },
+            {
+                "0": "Cho mượn hàng hóa",
+                "1": "39.112.312",
+                "2": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "5.665.626.505",
+                "2": "4.975.752.610"
+            },
+            {
+                "0": "Dự phòng phải thu khác khó đòi (TM số 9)",
+                "1": "(123.093)",
+                "2": "-"
+            },
+            {
+                "0": "GIÁ TRỊ THUẦN",
+                "1": "5.665.503.412",
+                "2": "4.975.752.610"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Phải thu ngắn hạn khác các bên liên quan(TM số 27)",
+                "1": "3.776.262.811",
+                "2": "3.238.258.910"
+            },
+            {
+                "0": "Phải thu dài hạn khác các bên liên quan(TM số 27)",
+                "1": "1.888.959.327",
+                "2": "1.736.955.331"
+            },
+            {
+                "0": "Phải thu khác các bên thứ ba",
+                "1": "281.274",
+                "2": "538.369"
+            },
+            {
+                "0": "Dự phòng phải thu ngắn hạn khách hàng (TM số 5)",
+                "1": "100.929",
+                "2": "41.631.763"
+            },
+            {
+                "0": "Dự phòng phải thu khác ngắn hạn (TM số 8)",
+                "1": "123.093",
+                "2": "-"
+            },
+            {
+                "0": "Dự phòng trả trước người bán ngắn hạn (TM số 6)",
+                "1": "-",
+                "2": "2.140.409"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "224.022",
+                "2": "43.772.172"
+            },
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "Ngàn VNDNăm trước"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "43.772.172",
+                "2": "69.253.954"
+            },
+            {
+                "0": "Dự phòng trích lập trong năm",
+                "1": "1.139.793",
+                "2": "3.828.364"
+            },
+            {
+                "0": "Xóa số dự phòng trong năm",
+                "1": "(44.687.943)",
+                "2": "(29.310.146)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "224.022",
+                "2": "43.772.172"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_19",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "19\n\n107 25+45\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n10. HÀNG TÔN KHO",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Ngàn VND Số đầu năm"
+            },
+            {
+                "0": "Hàng hóa",
+                "1": "22.777.609",
+                "2": "54.204.990"
+            },
+            {
+                "0": "Hàng mua đang đi trên đường",
+                "1": "5.447.383",
+                "2": "-"
+            },
+            {
+                "0": "Dự phòng giảm giá hàng tồn kho",
+                "1": "(10.353.132)",
+                "2": "(11.469.548)"
+            },
+            {
+                "0": "GIÁ TRỊ THUÀN",
+                "1": "17.871.860",
+                "2": "42.735.442"
+            },
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "Ngân VNDNăm trước"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "11.469.548",
+                "2": "12.482.554"
+            },
+            {
+                "0": "Sử dụng dự phòng trong năm",
+                "1": "(37.571)",
+                "2": "-"
+            },
+            {
+                "0": "Xóa số dự phòng trong năm",
+                "1": "(1.078.845)",
+                "2": "(1.013.006)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "10.353.132",
+                "2": "11.469.548"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_20",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "11. THUẾ VÀ CÁC KHOÀN PHẢI THU, PHẢI NỘP NHÀ NƯỚC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số đầu năm",
+                "2": "Số tăng trong năm",
+                "3": "Số giảm trong năm",
+                "4": "Ngàn VND Số cuối năm"
+            },
+            {
+                "0": "Phải thu",
+                "1": "Phải thu",
+                "2": "Phải thu",
+                "3": "Phải thu",
+                "4": "Phải thu"
+            },
+            {
+                "0": "Thuế giá trị gia tăng được khấu trừ",
+                "1": "91.738.986",
+                "2": "34.850.946",
+                "3": "(12.066.785)",
+                "4": "114.523.147"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp (TM số 26.1)",
+                "1": "285.831",
+                "2": "-",
+                "3": "-",
+                "4": "285.831"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "92.024.817",
+                "2": "34.850.946",
+                "3": "(12.066.785)",
+                "4": "114.808.978"
+            },
+            {
+                "0": "Phải nộp",
+                "1": "Phải nộp",
+                "2": "Phải nộp",
+                "3": "Phải nộp",
+                "4": "Phải nộp"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "152.971",
+                "2": "298.707",
+                "3": "(295.671)",
+                "4": "156.007"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_21",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "20\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n12. TÀI SẢN CÓ ĐỊNH HỮU HÌNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Máy móc và thiết bị",
+                "2": "Phương tiện vận tải",
+                "3": "Thiết bị văn phòng",
+                "4": "Ngàn VND Tổng cộng"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá",
+                "3": "Nguyên giá",
+                "4": "Nguyên giá"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "310.655",
+                "2": "5.701.139",
+                "3": "2.966.173",
+                "4": "8.977.967"
+            },
+            {
+                "0": "Mua mới",
+                "1": "-",
+                "2": "4.514.671",
+                "3": "-",
+                "4": "4.514.671"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "-",
+                "2": "(274.632)",
+                "3": "-",
+                "4": "(274.632)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "310.655",
+                "2": "9.941.178",
+                "3": "2.966.173",
+                "4": "13.218.006"
+            },
+            {
+                "0": "Trong đó:Đã khấu hao hết",
+                "1": "310.655",
+                "2": "4.990.704",
+                "3": "2.929.213",
+                "4": "8.230.572"
+            },
+            {
+                "0": "Khấu hao lũy kế",
+                "1": "Khấu hao lũy kế",
+                "2": "Khấu hao lũy kế",
+                "3": "Khấu hao lũy kế",
+                "4": "Khấu hao lũy kế"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "(310.655)",
+                "2": "(5.540.779)",
+                "3": "(2.955.700)",
+                "4": "(8.807.134)"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "-",
+                "2": "(612.438)",
+                "3": "(7.392)",
+                "4": "(619.830)"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "-",
+                "2": "274.632",
+                "3": "-",
+                "4": "274.632"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "(310.655)",
+                "2": "(5.878.585)",
+                "3": "(2.963.092)",
+                "4": "(9.152.332)"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại",
+                "3": "Giá trị còn lại",
+                "4": "Giá trị còn lại"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "-",
+                "2": "160.360",
+                "3": "10.473",
+                "4": "170.833"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "-",
+                "2": "4.062.593",
+                "3": "3.081",
+                "4": "4.065.674"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_22",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "13. TÀI SẢN CÓ ĐỊNH VÔ HÌNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Ngàn VNDPhần mềm vi tính"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá"
+            },
+            {
+                "0": "Số đầu năm và số cuối năm",
+                "1": "5.980.000"
+            },
+            {
+                "0": "Hao mòn lũy kế",
+                "1": "Hao mòn lũy kế"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "(3.488.333)"
+            },
+            {
+                "0": "Hao mòn trong năm",
+                "1": "(747.500)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "(4.235.833)"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "2.491.667"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "1.744.167"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_23",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "21\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n14. ĐẦU TƯ TÀI CHÍNH DÀI HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Ngàn VND Số đầu năm"
+            },
+            {
+                "0": "Đầu tư vào các công ty con (TM số 14.1)",
+                "1": "4.954.817.803",
+                "2": "4.954.817.803"
+            },
+            {
+                "0": "Đầu tư vào công ty liên kết (TM số 14.2)",
+                "1": "286.004.636",
+                "2": "286.004.636"
+            },
+            {
+                "0": "Đầu tư góp vốn vào đơn vị khác (TM số 14.3)",
+                "1": "2.594.610",
+                "2": "2.594.610"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "5.243.417.049",
+                "2": "5.243.417.049"
+            },
+            {
+                "0": "Dự phòng đầu tư tài chính dài hạn",
+                "1": "(2.152.890.103)",
+                "2": "(1.155.687.273)"
+            },
+            {
+                "0": "GIÁ TRỊ THUẦN",
+                "1": "3.090.526.946",
+                "2": "4.087.729.776"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_24",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "22\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính và kết thúc cùng ngày\n\n14. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)\n\n14.1 Đầu tư vào công ty con\n\nChi tiết các khoản đầu tư vào các công ty con như sau:",
+        "dataframe": [
+            {
+                "0": "Tên công ty con",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Số cuối năm",
+                "3": "Số cuối năm",
+                "4": "Số cuối năm",
+                "5": "Số đầu năm",
+                "6": "Số đầu năm",
+                "7": "Số đầu năm"
+            },
+            {
+                "0": "Tên công ty con",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Tỷ lệ sở hữu và biểu quyết %",
+                "3": "Giá gốc đầu tư Ngân VND",
+                "4": "Dự phòng biểu quyết %",
+                "5": "Tỷ lệ sở hữu và biểu quyết %",
+                "6": "Giá gốc đầu tư Ngân VND",
+                "7": "Dự phòng Ngân VND"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Trồng cây công, nông nghiệp, chăn nuôi và xây dựng",
+                "2": "100",
+                "3": "2.101.029.560",
+                "4": "(2.101.029.560)",
+                "5": "100",
+                "6": "2.101.029.560",
+                "7": "(1.153.092.663)"
+            },
+            {
+                "0": "HAQM Lào",
+                "1": "Trồng cây công, nông nghiệp",
+                "2": "100",
+                "3": "1.081.159.132",
+                "4": "-",
+                "5": "100",
+                "6": "1.081.159.132",
+                "7": "-"
+            },
+            {
+                "0": "HA Rattanakiri",
+                "1": "Trồng cây công, nông nghiệp",
+                "2": "100",
+                "3": "943.987.719",
+                "4": "-",
+                "5": "100",
+                "6": "943.987.719",
+                "7": "-"
+            },
+            {
+                "0": "HA Oyadav",
+                "1": "Trồng cây công, nông nghiệp và chăn nuôi",
+                "2": "100",
+                "3": "828.641.392",
+                "4": "(49.265.933)",
+                "5": "100",
+                "6": "828.641.392",
+                "7": "-"
+            },
+            {
+                "0": "Nam Lào (TM số 28)",
+                "1": "Trồng cây công, nông nghiệp và chăn nuôi",
+                "2": "100",
+                "3": "-",
+                "4": "-",
+                "5": "100",
+                "6": "-",
+                "7": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "",
+                "3": "4.954.817.803",
+                "4": "(2.150.295.493)",
+                "5": "",
+                "6": "4.954.817.803",
+                "7": "(1.153.092.663)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_25",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "B09-DN\n\n23\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n14. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)\n\n14.2 Đầu tư vào công ty liên kết",
+        "dataframe": [
+            {
+                "0": "Tên công ty",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Số cuối năm",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm",
+                "5": "Số đầu năm"
+            },
+            {
+                "0": "Tên công ty",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Tỷ lệ sở hữu và biểu quyết %",
+                "3": "Giá trị đầu tư Ngàn VND",
+                "4": "Tỷ lệ sở hữu và biểu quyết %",
+                "5": "Giá trị đầu tư Ngàn VND"
+            },
+            {
+                "0": "Bidiphar",
+                "1": "Trồng, khai thác và chế biến các sản phẩm từ cây cao su",
+                "2": "4914",
+                "3": "286.004.636",
+                "4": "4914",
+                "5": "286.004.636"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_26",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "14.3 Đầu tư góp vốn vào đơn vị khác",
+        "dataframe": [
+            {
+                "0": "Tên công ty",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Số cuối năm",
+                "3": "Số cuối năm",
+                "4": "Số cuối năm",
+                "5": "Số đầu năm",
+                "6": "Số đầu năm",
+                "7": "Số đầu năm"
+            },
+            {
+                "0": "Tên công ty",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Tỷ lệ sở hữu và biểu quyết%",
+                "3": "Giá trị đầu tưNgàn VND",
+                "4": "Dự phòng",
+                "5": "Tỷ lệ sở hữu và biểu quyết%",
+                "6": "Giá trị đầu tưNgàn VND",
+                "7": "Dự phòng"
+            },
+            {
+                "0": "Công ty Cổ phần Nông Lâm nghiệp Cánh Đồng Vàng",
+                "1": "Kinh doanh cây ăn trái",
+                "2": "1500",
+                "3": "2.594.610",
+                "4": "(2.594.610)",
+                "5": "1500",
+                "6": "2.594.610",
+                "7": "(2.594.610)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_27",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "15. PHÀI TRÀ NGƯỜI BÁN NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Ngàn VND Số đầu năm"
+            },
+            {
+                "0": "Phải trả cho các bên liên quan (TM số 27)",
+                "1": "126.555.448",
+                "2": "474.855.047"
+            },
+            {
+                "0": "Phải trả cho người bán",
+                "1": "5.779.043",
+                "2": "13.532.658"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "132.334.491",
+                "2": "488.387.705"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "1.843.754.176",
+                "2": "1.107.237.979"
+            },
+            {
+                "0": "Chi phí hoạt động",
+                "1": "27.529.206",
+                "2": "29.002.226"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "1.871.283.382",
+                "2": "1.136.240.205"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Phải trả ngắn hạn bên liên quan (TM số 27)",
+                "1": "1.843.202.157",
+                "2": "1.106.975.725"
+            },
+            {
+                "0": "Phải trả các bên khác",
+                "1": "28.081.225",
+                "2": "29.264.480"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_28",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "24\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n17. PHÀI TRÀ KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Ngàn VND Số đầu năm"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "170.396.570",
+                "2": "265.146.773"
+            },
+            {
+                "0": "Phải trả các bên liên quan (TM số 27)",
+                "1": "162.625.964",
+                "2": "258.117.172"
+            },
+            {
+                "0": "Phải trả khác",
+                "1": "7.770.606",
+                "2": "7.029.601"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "32.711.211",
+                "2": "52.598.875"
+            },
+            {
+                "0": "Phải trả các bên liên quan (TM số 27)",
+                "1": "32.711.211",
+                "2": "31.686.854"
+            },
+            {
+                "0": "Phải trả khác",
+                "1": "-",
+                "2": "20.912.021"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "203.107.781",
+                "2": "317.745.648"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "9.564.874.588",
+                "2": "9.564.874.588"
+            },
+            {
+                "0": "Vay ngắn hạn bên liên quan (TM số 18.1 và TM số 27)",
+                "1": "3.932.160.518",
+                "2": "3.932.160.518"
+            },
+            {
+                "0": "Vay ngắn hạn ngân hàng (TM số 18.2)",
+                "1": "500.000.000",
+                "2": "500.000.000"
+            },
+            {
+                "0": "Vay dài hạn bên liên quan đến hạn phải trả (TM số 18.3 và TM số 27)",
+                "1": "5.132.714.070",
+                "2": "5.132.714.070"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "512.573.527",
+                "2": "-"
+            },
+            {
+                "0": "Vay dài hạn bên liên quan (TM số 18.3 và TM số 27)",
+                "1": "512.573.527",
+                "2": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "10.077.448.115",
+                "2": "9.564.874.588"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_29",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "Tình hình tăng/giảm các khoản vay như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vay ngắn hạn",
+                "2": "Vay dài hạn",
+                "3": "Ngàn VND Tổng cộng"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "9.564.874.588",
+                "2": "-",
+                "3": "9.564.874.588"
+            },
+            {
+                "0": "Tiền thu từ đi vay",
+                "1": "763.500.000",
+                "2": "512.573.527",
+                "3": "1.276.073.527"
+            },
+            {
+                "0": "Tiền trả nợ gốc vay",
+                "1": "(763.500.000)",
+                "2": "-",
+                "3": "(763.500.000)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "9.564.874.588",
+                "2": "512.573.527",
+                "3": "10.077.448.115"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_30",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "18.1 Vay ngắn hạn bên liên quan (TM số 27)\n\nCông ty vay tín chấp ngắn hạn từ bên liên quan nhằm mục đích bổ sung vốn lưu động, chi tiết như sau:",
+        "dataframe": [
+            {
+                "0": "Bên cho vay",
+                "1": "Số cuối nămNgàn VND",
+                "2": "Thời hạn thanh toán",
+                "3": "Lãi suất%/năm"
+            },
+            {
+                "0": "Công ty Cổ phần Nông nghiệpTrường Hải (\"THACO AGRI\")",
+                "1": "3.932.160.518",
+                "2": "Từ tháng 4 năm 2026đến tháng 12 năm 2026",
+                "3": "6,5 - 8,0"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_31",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "25\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n18. VAY (tiếp theo)\n\n18.2 Vay ngắn hạn ngân hàng\n\nCông ty vay ngắn hạn từ ngân hàng nhằm mục đích bổ sung vốn lưu động động cho hoạt động kinh doanh trái cây và cao su, chi tiết như sau:",
+        "dataframe": [
+            {
+                "0": "Bên cho vay",
+                "1": "Số cuối nămNgân VND",
+                "2": "Thời hạn thanh toán",
+                "3": "Lãi suất%/năm",
+                "4": "Tài sản đảm bảo"
+            },
+            {
+                "0": "Ngân hàng Thương mại Cổ phần Tiên Phong (\"TP Bank\") - Chi nhánh Hà Nội",
+                "1": "500.000.000",
+                "2": "Từ tháng 4 năm 2026 đến tháng 12 năm 2026",
+                "3": "Lãi suất cơ sở kỳ hạn 3 tháng của TP Bank + 2,35%/năm (2025: 5,5 - 9,3)",
+                "4": "- Tài sản của Công ty TNHH Cao su Eastern (Campuchia), công ty con của công ty có cùng thành viên HĐQT đã, đang và sẽ hình thành trên đất theo giấy chuyển nhượng quyền sở hữu đất tổ nhượng kinh tế tại Campuchia số Kor Ror 0185, có diện tích 925 ha tại Campuchia;- Quyền nhượng quyền kinh tế đất (ELC) và các quyền liên quan khác đối với quyền sử dụng đất; quyền khai thác và toàn bộ tài sản gắn liền với diện tích 3.128,72 ha tại Xã Talav và Xã Nhang, Huyện Andong Meas, Tĩnh Rattanaki, Campuchia, bao gồm các công trình xây dựng, kết cấu, hạ tầng kỹ thuật hiện có và sẽ hình thành trong tương lai, cùng toàn bộ thiết bị, máy móc, tháp, rào chắn, phụ tùng, bộ phận thay thế hoặc cải tiến trên hoặc liên quan đến đất; cũng như toàn bộ quyền và lợi ích phát sinh từ việc khai thác, sử dụng tài sản này, thuộc sở hữu của HA Oyadav."
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_32",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "26\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n18. VAY (tiếp theo)\n\n18.3 Vay dài hạn bên liên quan (TM số 27)\n\nCông ty vay tín chấp dài hạn từ bên liên quan nhằm mục đích bổ sung vốn lưu động, chỉ tiết như sau:",
+        "dataframe": [
+            {
+                "0": "Bên cho vay",
+                "1": "Số cuối nămNgàn VND",
+                "2": "Thời hạn thanh toán",
+                "3": "Lãi suất%/năm"
+            },
+            {
+                "0": "THACO AGRI",
+                "1": "5.645.287.597",
+                "2": "Từ tháng 5 năm 2026đến tháng 12 năm 2027",
+                "3": "7,70 - 8,50"
+            },
+            {
+                "0": "Trong đó:Vay dài hạn đến hạn trảVay dài hạn",
+                "1": "5.132.714.070512.573.527",
+                "2": "",
+                "3": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_33",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "19. VÓN CHỦ SỞ HỮU\n\n19.1 Tỉnh hình tăng, giảm nguồn vốn chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn cổ phần",
+                "2": "Thặng dư vốn cổ phần",
+                "3": "Lỗ lũy kế",
+                "4": "Ngàn VNDTổng cộng"
+            },
+            {
+                "0": "Năm trước",
+                "1": "Năm trước",
+                "2": "Năm trước",
+                "3": "Năm trước",
+                "4": "Năm trước"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "11.085.538.950",
+                "2": "1.170.127.000",
+                "3": "(33.305.898)",
+                "4": "12.222.360.052"
+            },
+            {
+                "0": "Chia thù lao choHDQT, BKS",
+                "1": "-",
+                "2": "-",
+                "3": "(144.000)",
+                "4": "(144.000)"
+            },
+            {
+                "0": "Lỗ thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "(912.908.221)",
+                "4": "(912.908.221)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "11.085.538.950",
+                "2": "1.170.127.000",
+                "3": "(946.358.119)",
+                "4": "11.309.307.831"
+            },
+            {
+                "0": "Năm nay",
+                "1": "Năm nay",
+                "2": "Năm nay",
+                "3": "Năm nay",
+                "4": "Năm nay"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "11.085.538.950",
+                "2": "1.170.127.000",
+                "3": "(946.358.119)",
+                "4": "11.309.307.831"
+            },
+            {
+                "0": "Chia thù lao choHDQT, BKS",
+                "1": "-",
+                "2": "-",
+                "3": "(126.000)",
+                "4": "(126.000)"
+            },
+            {
+                "0": "Lỗ thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "(926.133.417)",
+                "4": "(926.133.417)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "11.085.538.950",
+                "2": "1.170.127.000",
+                "3": "(1.872.617.536)",
+                "4": "10.383.048.414"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_34",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "19.2 Các giao dịch về vốn với các chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Ngân VND"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm"
+            },
+            {
+                "0": "Số đầu năm và số cuối năm",
+                "1": "11.085.538.950",
+                "2": "11.085.538.950"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_35",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "27\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n19. VỐN CHỦ SỞ HỮU (tiếp theo)\n\n19.2 Cổ phiếu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm"
+            },
+            {
+                "0": "Số lượng cổ phiếu được phép phát hành",
+                "1": "1.108.553.895",
+                "2": "1.108.553.895"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã phát hành và góp vốn đầy đủCổ phiếu phổ thông",
+                "1": "1.108.553.8951.108.553.895",
+                "2": "1.108.553.8951.108.553.895"
+            },
+            {
+                "0": "Số lượng cổ phiếu đang lưu hànhCổ phiếu phổ thông",
+                "1": "1.108.553.8951.108.553.895",
+                "2": "1.108.553.8951.108.553.895"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_36",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "Cổ phiếu phổ thông của Công ty đã được phát hành với mệnh giá 10.000 VND/cổ phiếu. Các cổ đông nằm giữ cổ phiếu phổ thông của Công ty được quyền hưởng cổ tức do Công ty công bố. Mỗi cổ phiếu phổ thông thể hiện một quyền biểu quyết, không hạn chế.\n\n20. DOANH THU\n\n20.1 Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "Ngân VNDNăm trước"
+            },
+            {
+                "0": "Doanh thu bán hàng hóa",
+                "1": "496.340.740",
+                "2": "405.869.609"
+            },
+            {
+                "0": "Doanh thu bán mũ cao su",
+                "1": "248.565.000",
+                "2": "183.440.727"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "770.000",
+                "2": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "745.675.740",
+                "2": "589.310.336"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Doanh thu thuần với các bên liên quan(TM số 27)",
+                "1": "745.675.740",
+                "2": "589.129.438"
+            },
+            {
+                "0": "Doanh thu thuần với các bên khác",
+                "1": "-",
+                "2": "180.898"
+            },
+            {
+                "0": "Lãi cho vay bên liên quan",
+                "1": "578.046.844",
+                "2": "547.073.077"
+            },
+            {
+                "0": "Lãi chênh lệch tỷ giá",
+                "1": "243.890.178",
+                "2": "263.669.701"
+            },
+            {
+                "0": "Cổ tức",
+                "1": "20.915.646",
+                "2": "26.144.558"
+            },
+            {
+                "0": "Lãi tiền gửi ngân hàng",
+                "1": "6.143",
+                "2": "40.054"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "842.858.811",
+                "2": "836.927.390"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_37",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "28\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n21. GIÁ VÔN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "Ngàn VNDNăm trước"
+            },
+            {
+                "0": "Giá vốn hàng hóa",
+                "1": "493.950.033",
+                "2": "401.568.655"
+            },
+            {
+                "0": "Giá vốn mũ cao su đã bán",
+                "1": "235.669.022",
+                "2": "178.054.792"
+            },
+            {
+                "0": "Giá vốn dịch vụ đã cung cấp",
+                "1": "525.279",
+                "2": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "730.144.334",
+                "2": "579.623.447"
+            },
+            {
+                "0": "Dự phòng tổn thất đầu tư tài chính",
+                "1": "997.202.830",
+                "2": "1.153.092.663"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "778.049.862",
+                "2": "567.116.337"
+            },
+            {
+                "0": "Lỗ chênh lệch tỷ giá",
+                "1": "1.580.194",
+                "2": "1.193.767"
+            },
+            {
+                "0": "Khác",
+                "1": "1.676.225",
+                "2": "4.771.405"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "1.778.509.111",
+                "2": "1.726.174.172"
+            },
+            {
+                "0": "Chi phí bán hàng",
+                "1": "7.871.024",
+                "2": "7.643.844"
+            },
+            {
+                "0": "Chi phí vận chuyển",
+                "1": "6.833.577",
+                "2": "6.526.520"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "1.018.147",
+                "2": "1.018.798"
+            },
+            {
+                "0": "Khác",
+                "1": "19.300",
+                "2": "98.526"
+            },
+            {
+                "0": "Chi phí quản lý doanh nghiệp",
+                "1": "17.104.149",
+                "2": "14.662.159"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "7.506.904",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "3.468.342",
+                "2": "4.442.474"
+            },
+            {
+                "0": "Dự phòng phải thu khó đòi",
+                "1": "1.139.793",
+                "2": "3.828.364"
+            },
+            {
+                "0": "Khấu hao và hao mòn",
+                "1": "842.400",
+                "2": "1.217.430"
+            },
+            {
+                "0": "Khác",
+                "1": "4.146.710",
+                "2": "5.173.891"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "24.975.173",
+                "2": "22.306.003"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_38",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "29\n\n1197 二五 0121\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYÊT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n24. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "Ngàn VNDNăm trước"
+            },
+            {
+                "0": "Thu nhập khác",
+                "1": "21.013.656",
+                "2": "16.881.513"
+            },
+            {
+                "0": "Thu nhập từ xóa sổ công nợ",
+                "1": "20.912.021",
+                "2": "16.831.947"
+            },
+            {
+                "0": "Khác",
+                "1": "101.635",
+                "2": "49.566"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "2.053.006",
+                "2": "27.923.838"
+            },
+            {
+                "0": "Thuế GTGT không được khấu trừ",
+                "1": "1.931.563",
+                "2": "27.593.790"
+            },
+            {
+                "0": "Khác",
+                "1": "121.443",
+                "2": "330.048"
+            },
+            {
+                "0": "LỢI NHUẬN (LỔ) THUẦN KHÁC",
+                "1": "18.960.650",
+                "2": "(11.042.325)"
+            },
+            {
+                "0": "Chi phí giá vốn hàng hóa",
+                "1": "728.777.004",
+                "2": "578.332.994"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "14.340.481",
+                "2": "11.180.532"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "4.486.490",
+                "2": "5.461.272"
+            },
+            {
+                "0": "Chi phí khấu hao và hao mòn (TM số 12 và 13)",
+                "1": "1.367.330",
+                "2": "1.290.453"
+            },
+            {
+                "0": "Dự phòng phải thu khó đòi",
+                "1": "1.139.793",
+                "2": "3.828.364"
+            },
+            {
+                "0": "Khác",
+                "1": "5.008.409",
+                "2": "1.835.835"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "755.119.507",
+                "2": "601.929.450"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_39",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "26. THUẾ THU NHẬP DOANH NGHIỆP\n\nCông ty có nghĩa vụ nộp thuế thu nhập doanh nghiệp (\"TNDN\") bằng 20% thu nhập chịu thuế. Các báo cáo thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với các loại nghiệp vụ khác nhau có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính riêng có thể sẽ thay đổi theo quyết định cuối cùng của cơ quan thuế.\n\n30\n\n||a! ·(2) → 01=11\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n26. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)\n\n26.1 Chi phí thuế TNDN\n\nDưới đây là đối chiếu giữa lỗ kế toán trước thuế theo báo cáo kết quả hoạt động kinh doanh riêng và lỗ tính thuế:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "Ngàn VNDNăm trước"
+            },
+            {
+                "0": "Lỗ kế toán trước thuế",
+                "1": "(926.133.417)",
+                "2": "(912.908.221)"
+            },
+            {
+                "0": "Các điều chỉnh:",
+                "1": "Các điều chỉnh:",
+                "2": "Các điều chỉnh:"
+            },
+            {
+                "0": "Chi phí không được trừ",
+                "1": "1.000.703.872",
+                "2": "1.165.605.764"
+            },
+            {
+                "0": "Cổ tức",
+                "1": "(20.915.646)",
+                "2": "(26.144.558)"
+            },
+            {
+                "0": "Chênh lệch tỷ giá hối đoái",
+                "1": "(233.695.887)",
+                "2": "(253.381.383)"
+            },
+            {
+                "0": "Chi phí lãi vay không được trừ theo Nghị định 20/2025/NĐ-CP (*)",
+                "1": "199.996.875",
+                "2": "20.003.206"
+            },
+            {
+                "0": "Các khoản khác",
+                "1": "(20.912.021)",
+                "2": "-"
+            },
+            {
+                "0": "Lỗ chịu thuế uốc tính",
+                "1": "(956.224)",
+                "2": "(6.825.192)"
+            },
+            {
+                "0": "Lỗ thuế chuyển sang năm sau chưa ghi nhận thuế hoãn lại",
+                "1": "956.224",
+                "2": "6.825.192"
+            },
+            {
+                "0": "Chi phí thuế TNDN hiện hành uốc tính",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Thuế TNDN trả trước đầu năm",
+                "1": "(285.831)",
+                "2": "(285.831)"
+            },
+            {
+                "0": "Thuế TNDN trả trước cuối năm",
+                "1": "(285.831)",
+                "2": "(285.831)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_40",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "(*) Theo Nghị định số 20/2025/NĐ-CP ngày 10 tháng 2 năm 2025 quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết do Chính phủ ban hành, Công ty đã ghi nhận điều chỉnh tăng khoản chi phí không được trừ khi xác định thu nhập chịu thuế TNDN trong năm với tổng giá trị là 199.996.875 ngân VND.\n\n26.2 Thuế TNDN hiện hành\n\nThuế TNDN hiện hành phải trả được xác định dựa trên thu nhập (lỗ) chịu thuế của năm hiện tại. Thu nhập chịu thuế (lỗ thuế) của Công ty khác với lợi nhuận (lỗ) được trình bày trong báo cáo kết quả hoạt động kinh doanh riêng vi thu nhập chịu thuế (lỗ thuế) không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được trừ cho mục đích tính thuế trong các kỳ khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải trả của Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc năm tài chính.\n\n31\n\n1191 H222に\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n26. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)\n\n26.3 Lỗ thuế chuyển sang các năm sau\n\nCông ty được phép chuyển các khoản lỗ thuế sang năm sau để bù trừ với thu nhập chịu thuế thu được trong vòng 5 năm kể từ sau năm phát sinh khoản lỗ đó. Tại ngày kết thúc năm tài chính, Công ty có khoản lỗ thuế lũy kế với tổng giá trị là 13.002.958 ngân VND (ngày 31 tháng 12 năm 2024 là 6.825.192 ngân VND) có thể sử dụng để bù trừ với lợi nhuận phát sinh trong tương lai. Chỉ tiết như sau:\n\nNgàn VND",
+        "dataframe": [
+            {
+                "0": "Năm phát sinh",
+                "1": "Có thể chuyển lỗ đến năm",
+                "2": "Lỗ thuế (*)",
+                "3": "Đã chuyển lỗ đến ngày 31 tháng 12 năm 2025",
+                "4": "Không được chuyển lỗ",
+                "5": "Chưa chuyển lỗ tại ngày 31 tháng 12 năm 2025"
+            },
+            {
+                "0": "2024",
+                "1": "2029",
+                "2": "6.825.192",
+                "3": "-",
+                "4": "-",
+                "5": "6.825.192"
+            },
+            {
+                "0": "2025",
+                "1": "2030",
+                "2": "956.224",
+                "3": "-",
+                "4": "-",
+                "5": "956.224"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "TỔNG CỘNG",
+                "2": "7.781.416",
+                "3": "-",
+                "4": "-",
+                "5": "7.781.416"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_41",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "(*) Lỗ thuế ước tính theo tờ khai thuế của Công ty chưa được cơ quan thuế địa phương quyết toán vào ngày lập báo cáo tài chính riêng này.\n\nCông ty chưa ghi nhận tài sản thuế thu nhập hoãn lại cho phần lỗ lũy kế nói trên do không thể dự tính được lợi nhuận chịu thuế trong tương lai tại thời điểm này.\n\n26.4 Chi phí lãi vay vượt ngưỡng quy định\n\nCông ty được phép chuyển các khoản chi phí lãi vay vượt ngưỡng quy định chưa được trừ khi tính thuế TNDN cho năm hiện tại (\"chi phí lãi vay chưa được trừ\") sang năm sau khi xác định tổng chi phí lãi vay được trừ của năm sau. Thời gian chuyển chi phí lãi vay sang năm sau được tính liên tục không quá 5 năm kể từ sau năm phát sinh khoản chi phí lãi vay chưa được trừ đó. Tại ngày kết thúc kỳ kế toán năm, Công ty có các khoản chi phí lãi vay chưa được trừ lũy kể có thể sử dụng trong tương lai như sau:\n\nNgàn VND",
+        "dataframe": [
+            {
+                "0": "Năm phát sinh",
+                "1": "Có thể được chuyển thành chi phí lãi vay được trừ thuế đến năm",
+                "2": "Chi phí lãi vay chưa được trừ thuế phát sinh (i)",
+                "3": "Chi phí lãi vay chưa được trừ đã chuyển sang năm sau tính đến ngày 31/12/2025",
+                "4": "Chi phí lãi vay chưa được trừ chưa chuyển sang năm sau tại ngày 31/12/2025"
+            },
+            {
+                "0": "2024",
+                "1": "2029",
+                "2": "20.003.206",
+                "3": "-",
+                "4": "20.003.206"
+            },
+            {
+                "0": "2025",
+                "1": "2030",
+                "2": "199.996.875",
+                "3": "-",
+                "4": "199.996.875"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "TỔNG CỘNG",
+                "2": "220.000.081",
+                "3": "-",
+                "4": "220.000.081"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_42",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "(i) Đây là các khoản chi phí lãi vay không được trừ thuế TNDN ước tính theo tờ khai thuế của Công ty chưa được cơ quan thuế địa phương quyết toán vào ngày lập báo cáo tài chính riêng này.\n\nCông ty chưa ghi nhận tài sản thuế thu nhập hoãn lại cho phần chi phí lãi vay không được khấu trừ nói trên do không thể dự tính được liệu chi phí lãi vay không được khấu trừ này có thể sẽ được sử dụng trong thời gian cho phép còn lại hay không.\n\n32\n\n||工| → ∞ 工 0 1-1\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n27. NGHIỆP VỤ VỚI BÊN LIÊN QUAN\n\nDanh sách các bên liên quan có quan hệ kiểm soát và giao dịch trọng yếu với Công ty tại ngày 31 tháng 12 năm 2025 như sau:\n\nBên liên quan\n\nMôi quan hệ\n\nÔng Trần Bá Dương\n\nChủ tịch HĐQT\n\nÔng Đoàn Nguyên Đức\n\nPhó Chủ tịch HĐQT\n\n(miễn nhiệm ngày 25 tháng 4 năm 2025)\n\nÔng Trần Bảo Sơn\n\nThành viên HĐQT kiểm Tổng Giám đốc\n\nÔng Phan Bá Cường\n\nPhó Tổng Giám đốc\n\n(bổ nhiệm ngày 1 tháng 8 năm 2025)\n\nÔng Nguyễn Hoàng Phi\n\nThành viên HĐQT kiểm Phó tổng Giám đốc\n\n(miễn nhiệm ngày 25 tháng 4 năm 2025)\n\nBà Võ Thị Mỹ Hạnh\n\nThành viên HĐQT\n\n(bổ nhiệm ngày 25 tháng 4 năm 2025)\n\nThành viên độc lập HĐQT\n\nÔng Nguyễn Phúc Thịnh\n\n(miễn nhiệm ngày 25 tháng 4 năm 2025)\n\nTHACO\n\nCổ đông lớn, công ty có cùng thành viên\n\nHDQT\n\nTHACO AGRI\n\nCông ty có cùng thành viên HĐQT\n\nHAG\n\nCông ty có cùng thành viên HĐQT\n\nHA Attapeu\n\nCông ty con\n\nHA Oyadav\n\nCông ty con\n\nHAQM Lào\n\nCông ty con\n\nHA Rattanakiri\n\nCông ty con\n\nCRD\n\nCông ty con\n\nHeng Brothers\n\nCông ty con\n\nNam Lào\n\nCông ty con\n\nCông ty TNHH Giao nhận Vận chuyển Quốc tế Trường Hải (\"Thilogi\")\n\nCông ty con của công ty có cùng thành viên HĐQT với Công ty\n\nCông ty TNHH Liên vận Đông Dương\n\nCông ty con của công ty có cùng thành viên HĐQT với Công ty\n\nThilogi(\"Đông Dương Thilogi\")\n\nCông ty con của công ty có cùng thành viên HĐQT với Công ty\n\nCông ty TNHH Phân phối Thaco Auto\n\nCông ty con của công ty có cùng thành viên HĐQT với Công ty\n\n(\"Phân phối Thaco Auto\")\n\nCông ty Cổ phần Đầu tư Địa óc Đại Quang\n\nCông ty con của công ty có cùng thành viên HĐQT với Công ty\n\nMinh (\"Đại Quang Minh\")\n\nCông ty liên kết\n\nCông ty TNHH MTV Chăn nuôi Bò Trung\n\nNguyên (\"Bò Trung Nguyên\")\n\nBidiphar\n\n33\n\n1101 521-121\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n27. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)\n\nCác giao dịch trọng yếu của Công ty với các bên liên quan trong năm được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Nội dung nghiệp vụ",
+                "2": "Năm nay",
+                "3": "Ngàn VNDNăm trước"
+            },
+            {
+                "0": "Thaco Agri",
+                "1": "Lãi vay",
+                "2": "736.381.867",
+                "3": "535.779.028"
+            },
+            {
+                "0": "Thaco Agri",
+                "1": "Vay",
+                "2": "512.573.527",
+                "3": "3.790.420.000"
+            },
+            {
+                "0": "Thaco Agri",
+                "1": "Mua hàng hóa",
+                "2": "481.274.447",
+                "3": "379.990.887"
+            },
+            {
+                "0": "Thaco Agri",
+                "1": "Bán hàng hóa",
+                "2": "249.035.940",
+                "3": "184.040.177"
+            },
+            {
+                "0": "Thaco Agri",
+                "1": "Mua dịch vụ",
+                "2": "7.506.904",
+                "3": "273.451"
+            },
+            {
+                "0": "Thaco Agri",
+                "1": "Cung cấp dịch vụ",
+                "2": "770.000",
+                "3": "-"
+            },
+            {
+                "0": "Thaco Agri",
+                "1": "Cấn trừ công nợ",
+                "2": "-",
+                "3": "395.947.547"
+            },
+            {
+                "0": "Thaco Agri",
+                "1": "Trả gốc vay",
+                "2": "-",
+                "3": "179.400.000"
+            },
+            {
+                "0": "HAG",
+                "1": "Trả gốc vay",
+                "2": "-",
+                "3": "984.698.038"
+            },
+            {
+                "0": "HAG",
+                "1": "Cấn trừ công nợ",
+                "2": "-",
+                "3": "149.232.759"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Lãi cho vay",
+                "2": "427.814.680",
+                "3": "396.764.885"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Bán hàng hóa",
+                "2": "221.411.621",
+                "3": "388.018.840"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Mua hàng hóa",
+                "2": "137.542.779",
+                "3": "99.287.666"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Cấn trừ nợ gốc vay",
+                "2": "59.393.846",
+                "3": "233.031.130"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Cho mượn hàng hóa",
+                "2": "29.110.644",
+                "3": "-"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Cho vay",
+                "2": "-",
+                "3": "454.370.088"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Cấn trừ công nợ",
+                "2": "-",
+                "3": "316.391.149"
+            },
+            {
+                "0": "HA Oyadav",
+                "1": "Lãi cho vay",
+                "2": "62.702.299",
+                "3": "63.537.513"
+            },
+            {
+                "0": "HA Oyadav",
+                "1": "Cấn trừ công nợ",
+                "2": "-",
+                "3": "394.332.017"
+            },
+            {
+                "0": "HA Oyadav",
+                "1": "Góp vốn",
+                "2": "-",
+                "3": "160.042.000"
+            },
+            {
+                "0": "HAQM Lào",
+                "1": "Mua hàng hóa",
+                "2": "88.647.135",
+                "3": "78.767.126"
+            },
+            {
+                "0": "HAQM Lào",
+                "1": "Lãi cho vay",
+                "2": "37.555.217",
+                "3": "37.658.108"
+            },
+            {
+                "0": "HAQM Lào",
+                "1": "Cấn trừ công nợ",
+                "2": "-",
+                "3": "167.435.978"
+            },
+            {
+                "0": "HA Rattanakiri",
+                "1": "Lãi cho vay",
+                "2": "48.978.380",
+                "3": "49.112.567"
+            },
+            {
+                "0": "Bidiphar",
+                "1": "Thu tiền cổ tức",
+                "2": "20.915.646",
+                "3": "26.144.558"
+            },
+            {
+                "0": "Bidiphar",
+                "1": "Cổ tức được chia",
+                "2": "20.915.646",
+                "3": "26.144.558"
+            },
+            {
+                "0": "Nam Lào",
+                "1": "Bán hàng hóa",
+                "2": "274.417.095",
+                "3": "26.087.917"
+            },
+            {
+                "0": "Nam Lào",
+                "1": "Cấn trừ nợ gốc vay",
+                "2": "19.119.781",
+                "3": "-"
+            },
+            {
+                "0": "Nam Lào",
+                "1": "Lãi cho vay",
+                "2": "996.272",
+                "3": "-"
+            },
+            {
+                "0": "Thaco Phân phối",
+                "1": "Mua hàng hóa",
+                "2": "6.394.444",
+                "3": "8.258.889"
+            },
+            {
+                "0": "Thilogi",
+                "1": "Mua dịch vụ",
+                "2": "571.290",
+                "3": "6.654.015"
+            },
+            {
+                "0": "Bò Trung Nguyên",
+                "1": "Bán hàng hóa",
+                "2": "41.084",
+                "3": "-"
+            },
+            {
+                "0": "Heng Brothers",
+                "1": "Cấn trừ công nợ",
+                "2": "-",
+                "3": "10.044.778"
+            },
+            {
+                "0": "CRD",
+                "1": "Cấn trừ công nợ",
+                "2": "-",
+                "3": "7.445.106"
+            },
+            {
+                "0": "Đại Quang Minh",
+                "1": "Mua dịch vụ",
+                "2": "-",
+                "3": "4.052.625"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_43",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "34\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n27. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)\n\nCác giao dịch trọng yếu của Công ty với các bên liên quan trong năm được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Nội dung nghiệp vụ",
+                "2": "Năm nay",
+                "3": "Ngàn VNDNăm trước"
+            },
+            {
+                "0": "THACO",
+                "1": "Mua TSCĐ",
+                "2": "4.390.909",
+                "3": "-"
+            },
+            {
+                "0": "Đông Dương Thilogi",
+                "1": "Mua dịch vụ",
+                "2": "6.421.910",
+                "3": "-"
+            },
+            {
+                "0": "Bên liên quan",
+                "1": "Nội dung nghiệp vụ",
+                "2": "Số cuối năm",
+                "3": "Ngàn VND"
+            },
+            {
+                "0": "Bên liên quan",
+                "1": "Nội dung nghiệp vụ",
+                "2": "Số cuối năm",
+                "3": "Số đầu năm"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Bán hàng hóa",
+                "2": "2.234.838.783",
+                "3": "1.942.422.475"
+            },
+            {
+                "0": "Nam Lào",
+                "1": "Bán hàng hóa",
+                "2": "308.406.115",
+                "3": "26.422.588"
+            },
+            {
+                "0": "HAQM Lào",
+                "1": "Bán hàng hóa",
+                "2": "50.203.100",
+                "3": "48.566.895"
+            },
+            {
+                "0": "HA Oyadav",
+                "1": "Bán hàng hóa",
+                "2": "39.775.808",
+                "3": "38.479.447"
+            },
+            {
+                "0": "CRD",
+                "1": "Bán hàng hóa",
+                "2": "12.477.674",
+                "3": "14.718.339"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "2.645.701.480",
+                "3": "2.070.609.744"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Mua hàng hóa",
+                "2": "799.719.387",
+                "3": "908.680.922"
+            },
+            {
+                "0": "HAQM Lào",
+                "1": "Mua hàng hóa",
+                "2": "628.803.233",
+                "3": "555.660.582"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "1.428.522.620",
+                "3": "1.464.341.504"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Cho vay",
+                "2": "4.851.032.056",
+                "3": "4.572.526.645"
+            },
+            {
+                "0": "HA Rattanakiri",
+                "1": "Cho vay",
+                "2": "805.908.354",
+                "3": "805.908.354"
+            },
+            {
+                "0": "HAQM Lào",
+                "1": "Cho vay",
+                "2": "620.432.694",
+                "3": "619.432.694"
+            },
+            {
+                "0": "HA Oyadav",
+                "1": "Cho vay",
+                "2": "591.431.340",
+                "3": "591.431.340"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "6.868.804.444",
+                "3": "6.589.299.033"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_44",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "(*) Đây là các khoản cho các bên liên quan vay tín chấp với thời hạn hoàn trả từ ngày 1 tháng 3 năm 2026 đến ngày 31 tháng 12 năm 2026, và với lãi suất trung bình từ 6,0%/năm đến 8,0%/năm.\n\n35\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n27. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)\n\nVào ngày kết thúc năm tài chính, số dư các khoản phải thu với các bên liên quan như sau: (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Nội dung nghiệp vụ",
+                "2": "Số cuối năm",
+                "3": "Ngàn VND Số đầu năm"
+            },
+            {
+                "0": "Phải thu về cho vay dài hạn (**)",
+                "1": "Phải thu về cho vay dài hạn (**)",
+                "2": "Phải thu về cho vay dài hạn (**)",
+                "3": "Phải thu về cho vay dài hạn (**)"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Cho vay",
+                "2": "1.308.827.599",
+                "3": "1.500.544.613"
+            },
+            {
+                "0": "HA Oyadav",
+                "1": "Cho vay",
+                "2": "262.454.605",
+                "3": "262.454.605"
+            },
+            {
+                "0": "Nam Lào",
+                "1": "Cho vay",
+                "2": "19.119.781",
+                "3": "-"
+            },
+            {
+                "0": "HAQM Lào",
+                "1": "Cho vay",
+                "2": "-",
+                "3": "1.000.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "1.590.401.985",
+                "3": "1.763.999.218"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_45",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "(**) Đây là các khoản cho các bên liên quan vay tín chấp dài hạn với thời hạn hoàn trả từ ngày 1 tháng 4 năm 2027 đến ngày 27 tháng 11 năm 2027 và với lãi suất trung bình từ 7,20%/năm đến 10,05%/năm.\n\nPhải thu ngắn hạn khác",
+        "dataframe": [
+            {
+                "0": "HA Attapeu",
+                "1": "Cán trừ công nợ",
+                "2": "2.045.276.071",
+                "3": "1.915.970.282"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Lãi cho vay",
+                "2": "1.126.643.044",
+                "3": "792.155.976"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Chi hộ",
+                "2": "178.344.427",
+                "3": "178.644.427"
+            },
+            {
+                "0": "HAQM Lào",
+                "1": "Lãi cho vay",
+                "2": "192.136.113",
+                "3": "154.580.896"
+            },
+            {
+                "0": "HAQM Lào",
+                "1": "Cán trừ công nợ",
+                "2": "22.531.508",
+                "3": "21.880.460"
+            },
+            {
+                "0": "HAQM Lào",
+                "1": "Chi hộ",
+                "2": "1.110.999",
+                "3": "1.110.999"
+            },
+            {
+                "0": "CRD",
+                "1": "Cán trừ công nợ",
+                "2": "90.196.071",
+                "3": "87.256.429"
+            },
+            {
+                "0": "THACO AGRI",
+                "1": "Cán trừ công nợ",
+                "2": "63.317.049",
+                "3": "71.815.957"
+            },
+            {
+                "0": "Nam Lào",
+                "1": "Chi hộ",
+                "2": "47.643823",
+                "3": "14.715.372"
+            },
+            {
+                "0": "HA Oyadav",
+                "1": "Lãi cho vay",
+                "2": "9.063.706",
+                "3": "-"
+            },
+            {
+                "0": "HA Oyadav",
+                "1": "Chi hộ",
+                "2": "-",
+                "3": "58.885"
+            },
+            {
+                "0": "HA Rattanakiri",
+                "1": "Chi hộ",
+                "2": "-",
+                "3": "69.227"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "3.776.262.811",
+                "3": "3.238.258.910"
+            },
+            {
+                "0": "Phải thu dài hạn khác",
+                "1": "Phải thu dài hạn khác",
+                "2": "Phải thu dài hạn khác",
+                "3": "Phải thu dài hạn khác"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Lãi cho vay",
+                "2": "1.768.048.888",
+                "3": "1.664.648.815"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Phải thu khác",
+                "2": "31.408.735",
+                "3": "-"
+            },
+            {
+                "0": "HAQM Lào",
+                "1": "Lãi cho vay",
+                "2": "72.306.516",
+                "3": "72.306.516"
+            },
+            {
+                "0": "HA Oyadav",
+                "1": "Lãi cho vay",
+                "2": "8.495.339",
+                "3": "-"
+            },
+            {
+                "0": "Nam Lào",
+                "1": "Phải thu khác",
+                "2": "7.703.577",
+                "3": "-"
+            },
+            {
+                "0": "Nam Lào",
+                "1": "Lãi cho vay",
+                "2": "996.272",
+                "3": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "1.888.959.327",
+                "3": "1.736.955.331"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_46",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "36\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n27. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)\n\nVào ngày kết thúc năm tài chính, số dư các khoản phải trả với các bên liên quan như sau:",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Nội dung nghiệp vụ",
+                "2": "Số cuối năm",
+                "3": "Ngàn VND Số đầu năm"
+            },
+            {
+                "0": "Phải trả người bán ngắn hạn",
+                "1": "Phải trả người bán ngắn hạn",
+                "2": "Phải trả người bán ngắn hạn",
+                "3": "Phải trả người bán ngắn hạn"
+            },
+            {
+                "0": "THACO AGRI",
+                "1": "Mua hàng hóa",
+                "2": "68.951.680",
+                "3": "430.876.918"
+            },
+            {
+                "0": "Phân phối Thaco Auto",
+                "1": "Mua hàng hóa",
+                "2": "46.163.000",
+                "3": "39.257.000"
+            },
+            {
+                "0": "THACO",
+                "1": "Mua tài sản cố định",
+                "2": "4.830.000",
+                "3": "-"
+            },
+            {
+                "0": "Đông Dương Thilogi",
+                "1": "Mua hàng hóa",
+                "2": "3.770.768",
+                "3": "-"
+            },
+            {
+                "0": "CRD",
+                "1": "Mua hàng hóa",
+                "2": "-",
+                "3": "2.668.429"
+            },
+            {
+                "0": "Bên liên quan khác",
+                "1": "Mua dịch vụ",
+                "2": "2.840.000",
+                "3": "2.052.700"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "126.555.448",
+                "3": "474.855.047"
+            },
+            {
+                "0": "Phải trả người bán dài hạn",
+                "1": "Phải trả người bán dài hạn",
+                "2": "Phải trả người bán dài hạn",
+                "3": "Phải trả người bán dài hạn"
+            },
+            {
+                "0": "THACO AGRI",
+                "1": "Mua hàng hóa",
+                "2": "430.876.918",
+                "3": "-"
+            },
+            {
+                "0": "Người mua trả tiền trước ngắn hạn",
+                "1": "Người mua trả tiền trước ngắn hạn",
+                "2": "Người mua trả tiền trước ngắn hạn",
+                "3": "Người mua trả tiền trước ngắn hạn"
+            },
+            {
+                "0": "THACO AGRI",
+                "1": "Mua hàng hóa",
+                "2": "440.043.118",
+                "3": "322.771.443"
+            },
+            {
+                "0": "Chi phí phải trả ngắn hạn",
+                "1": "Chi phí phải trả ngắn hạn",
+                "2": "Chi phí phải trả ngắn hạn",
+                "3": "Chi phí phải trả ngắn hạn"
+            },
+            {
+                "0": "THACO AGRI",
+                "1": "Lãi vay",
+                "2": "1.843.202.157",
+                "3": "1.106.819.725"
+            },
+            {
+                "0": "Thilogi",
+                "1": "Mua dịch vụ",
+                "2": "-",
+                "3": "156.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "1.843.202.157",
+                "3": "1.106.975.725"
+            },
+            {
+                "0": "Phải trả ngắn hạn khác",
+                "1": "Phải trả ngắn hạn khác",
+                "2": "Phải trả ngắn hạn khác",
+                "3": "Phải trả ngắn hạn khác"
+            },
+            {
+                "0": "HA Rattanakiri",
+                "1": "Cán trừ công nợ",
+                "2": "133.825.446",
+                "3": "183.414.078"
+            },
+            {
+                "0": "Heng Brothers",
+                "1": "Cán trừ công nợ",
+                "2": "10.676.947",
+                "3": "10.342.597"
+            },
+            {
+                "0": "THACO AGRI",
+                "1": "Mượn tiền",
+                "2": "10.475.371",
+                "3": "10.220.201"
+            },
+            {
+                "0": "HA Attapeu",
+                "1": "Thu hộ",
+                "2": "7.648.200",
+                "3": "7.648.200"
+            },
+            {
+                "0": "HA Oyadav",
+                "1": "Cán trừ công nợ",
+                "2": "-",
+                "3": "46.482.179"
+            },
+            {
+                "0": "Khác",
+                "1": "Khác",
+                "2": "-",
+                "3": "9.917"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "162.625.964",
+                "3": "258.117.172"
+            },
+            {
+                "0": "Phải trả dài hạn khác",
+                "1": "Phải trả dài hạn khác",
+                "2": "Phải trả dài hạn khác",
+                "3": "Phải trả dài hạn khác"
+            },
+            {
+                "0": "Heng Brothers",
+                "1": "Cán trừ công nợ",
+                "2": "32.711.211",
+                "3": "31.686.854"
+            },
+            {
+                "0": "Vay ngắn hạn",
+                "1": "Vay ngắn hạn",
+                "2": "Vay ngắn hạn",
+                "3": "Vay ngắn hạn"
+            },
+            {
+                "0": "THACO AGRI",
+                "1": "Vay",
+                "2": "9.064.874.588",
+                "3": "9.064.874.588"
+            },
+            {
+                "0": "Vay dài hạn",
+                "1": "Vay dài hạn",
+                "2": "Vay dài hạn",
+                "3": "Vay dài hạn"
+            },
+            {
+                "0": "THACO AGRI",
+                "1": "Vay",
+                "2": "512.573.527",
+                "3": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_47",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "37\n\n\n\nCông ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày\n\n27. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)\n\nGiao dịch với các bên liên quan khác\n\nLương, thường và thủ lao cho các thành viên HĐQT, BKS và Ban Tổng Giám đốc như sau:",
+        "dataframe": [
+            {
+                "0": "Tên",
+                "1": "Chức vụ",
+                "2": "Thu nhập",
+                "3": "Thu nhập"
+            },
+            {
+                "0": "Tên",
+                "1": "Chức vụ",
+                "2": "Năm nay",
+                "3": "Năm trước"
+            },
+            {
+                "0": "Hội đồng Quản trị và Ban Tổng Giám đốc",
+                "1": "Hội đồng Quản trị và Ban Tổng Giám đốc",
+                "2": "Hội đồng Quản trị và Ban Tổng Giám đốc",
+                "3": "Hội đồng Quản trị và Ban Tổng Giám đốc"
+            },
+            {
+                "0": "Ông Trần Bá Dương",
+                "1": "Chủ tịch",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Ông Đoàn Nguyên Đức",
+                "1": "Phó chủ tịch",
+                "2": "36.000",
+                "3": "144.000"
+            },
+            {
+                "0": "Ông Trần Bảo Sơn",
+                "1": "Thành viên/Tổng Giám đốc",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Bà Võ Thị Mỹ Hạnh",
+                "1": "Thành viên",
+                "2": "90.000",
+                "3": "-"
+            },
+            {
+                "0": "Ông Nguyễn Hoàng Phi",
+                "1": "Thành viên/Phó Tổng Giám đốc",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Ông Nguyễn Phúc Thịnh",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Ông Phan Bá Cường",
+                "1": "Phó Tổng Giám đốc",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Ban Kiểm soát",
+                "1": "Ban Kiểm soát",
+                "2": "Ban Kiểm soát",
+                "3": "Ban Kiểm soát"
+            },
+            {
+                "0": "Ông Bùi Minh Khoa",
+                "1": "Trường ban",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Ông Đặng Công Trực",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Bà Bùi Thị Liễu",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "126.000",
+                "3": "144.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HNG_2025_separate_table_48",
+        "metadata": {
+            "ticker": "HNG",
+            "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "HNG_financial_statements_2025_separate"
+        },
+        "context_text": "28. CAM KẾT GÓP VÔN\n\nVào ngày 31 tháng 12 năm 2025, Công ty có khoản cam kết với số tiền là 400.000.000 USD liên quan đến việc đầu tư góp vốn vào Nam Lào, nhằm thực hiện dự án đầu tư sản xuất trồng trọt cây ăn trái kết hợp chăn nuôi bò quy mô lớn tại tỉnh Attapeu và tỉnh Sekong, Lào.\n\n29. KHOÀN MỤC NGOÀI BÀNG CÂN ĐỐI KẾ TOÁN RIÊNG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm"
+            },
+            {
+                "0": "Ngoại tệ - USD",
+                "1": "2.124",
+                "2": "2.383"
+            },
+            {
+                "0": "Nợ khó đòi đã xóa sổ (Ngàn VND)",
+                "1": "44.687.943",
+                "2": "29.310.146"
+            }
+        ]
+    }
+]

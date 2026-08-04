@@ -1,0 +1,3145 @@
+[
+    {
+        "chunk_id": "NKG_2019_separate_table_1",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "CÔNG TY CÓ PHẦN THÉP NAM KIM\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2019\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2019\n\nNỘI DUNG\nTRANG\n\nThông tin về doanh nghiệp 1\n\nBáo cáo của Ban Giám đốc 2\n\nBáo cáo kiểm toán độc lập 3\n\nBảng cân đối kế toán riêng (Mẫu số B 01 - DN) 5\n\nBáo cáo kết quả hoạt động kinh doanh riêng (Mẫu số B 02 - DN) 8\n\nBáo cáo lưu chuyển tiền tệ riêng (Mẫu số B 03 - DN) 9\n\nThuyết minh báo cáo tài chính riêng (Mẫu số B 09 - DN) 10\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nTHÔNG TIN VỀ DOANH NGHIỆP\n\nGiấy chứng nhận đăng ký doanh nghiệp công ty cổ phần\n\nSố 3700477019 do Sở Kế hoạch và Đầu tư Tĩnh Bình Dương cấp ngày 23 tháng 12 năm 2002 và Giấy chứng nhận đăng ký doanh nghiệp công ty cổ phần điều chỉnh gần nhất lần thứ 25 ngày 25 tháng 7 năm 2019.",
+        "dataframe": [
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Ông Hồ Minh QuangÔng Phạm Mạnh HùngÔng Nguyễn Vinh AnÔng Võ Hoàng VũBà Nguyễn Ngọc Ý NhiBà Trần Uyển NhànÔng Lương Thanh Bình",
+                "2": "Chủ tịchThành viên(đến ngày 1 tháng 9 năm 2019)Thành viênThành viên(từ ngày 29 tháng 6 năm 2019)Thành viên(từ ngày 29 tháng 6 năm 2019)Thành viên(đến ngày 29 tháng 6 năm 2019)Thành viên(đến ngày 29 tháng 6 năm 2019)"
+            },
+            {
+                "0": "Ban kiểm soát",
+                "1": "Bà Võ Thị VuiÔng Vũ Đình HânÔng Lê Nhật TânBà Ngô Bảo Duyên",
+                "2": "Trường ban(từ ngày 8 tháng 8 năm 2019)Thành viên(đến ngày 8 tháng 8 năm 2019)Thành viên(từ ngày 8 tháng 8 năm 2019)Trường ban(đến ngày 8 tháng 8 năm 2019)Thành viên(từ ngày 29 tháng 6 năm 2019)Thành viên(đến ngày 29 tháng 6 năm 2019)"
+            },
+            {
+                "0": "Ban Giám đốc",
+                "1": "Ông Võ Hoàng VũÔng Phạm Mạnh HùngÔng Quảng Trọng LăngBà Nguyễn Thị Ngọc LiênÔng Nguyễn Quốc PhongÔng Nguyễn Vinh AnBà Trần Ngọc Diệu",
+                "2": "Tổng Giám đốc(từ ngày 10 tháng 7 năm 2019)Tổng Giám đốc(đến ngày 10 tháng 7 năm 2019)Phó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốc(đến ngày 5 tháng 8 năm 2019)Phó Tổng Giám đốcPhó Tổng Giám đốc"
+            },
+            {
+                "0": "Người đại diện theo pháp luật",
+                "1": "Ông Võ Hoàng VũÔng Phạm Mạnh Hùng",
+                "2": "Tổng Giám đốc(từ ngày 10 tháng 7 năm 2019)Tổng Giám đốc(đến ngày 10 tháng 7 năm 2019)"
+            },
+            {
+                "0": "Trụ sở chính",
+                "1": "Lô A1, Đường Đ2, Khu Công nghiệp Đồng An 2, Phường Hoà Phú, Thành phố Thủ Dầu Một, Tĩnh Bình Dương, Việt Nam",
+                "2": "Lô A1, Đường Đ2, Khu Công nghiệp Đồng An 2, Phường Hoà Phú, Thành phố Thủ Dầu Một, Tĩnh Bình Dương, Việt Nam"
+            },
+            {
+                "0": "Kiểm toán viên",
+                "1": "Công ty TNHH PwC (Việt Nam)",
+                "2": "Công ty TNHH PwC (Việt Nam)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_2",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "1\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nTRÁCH NHIỆM CỦA BAN GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH RIÊNG\n\nBan Giám đốc của Công ty Cổ phần Thép Nam Kim (\"Công ty\") chịu trách nhiệm lập báo cáo tài chính riêng thể hiện trung thực và hợp lý tình hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2019, cũng như kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày nếu trên. Trong việc lập báo cáo tài chính riêng này, Ban Giám đốc được yêu cầu phải:\n\n- chọn lựa các chính sách kế toán phù hợp và áp dụng một cách nhất quán;\n\n- thực hiện các xét đoán và ước tính một cách hợp lý và thận trọng; và\n\n- lập báo cáo tài chính riêng trên cơ sở Công ty hoạt động liên tục trừ khi giả định Công ty hoạt động liên tục là không phù hợp.\n\nBan Giám đốc của Công ty chịu trách nhiệm bảo đảm rằng các số sách kế toán đúng đản đã được thiết lập và duy trì để thể hiện tình hình tài chính riêng của Công ty với độ chính xác hợp lý tại mọi thời điểm và để làm cơ sở lập báo cáo tài chính riêng tuân thủ theo chế độ kế toán được trình bày ở Thuyết minh 2 của báo cáo tài chính riêng. Ban Giám đốc của Công ty cũng chịu trách nhiệm đối với việc bảo vệ các tài sản của Công ty và thực hiện các biện pháp hợp lý để ngăn ngừa và phát hiện các gian lận hoặc nhằm lẫn.\n\nPHÊ CHUẢN BÁO CÁO TÀI CHÍNH RIÊNG\n\nTheo đây, chúng tôi phê chuẩn báo cáo tài chính riêng đinh kèm từ trang 5 đến trang 40. Báo cáo tài chính riêng này phần ánh trung thực và hợp lý tình hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2019, cũng như kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày nếu trên phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nNgười sử dụng báo cáo tài chính riêng của Công ty nên đọc cùng với báo cáo tài chính hợp nhất của Công ty và các công ty con (gọi chung là “Tập đoàn”) cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 để có đủ thông tin về tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất của Tập đoàn.\n\nTỉnh Bình Dương, nước CHXHCN Việt Nam\n\nNgày 8 tháng 4 năm 2020\n\n2\n\n\n\npwc\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP GửI CÁC CỔ ĐÔNG CỦA\nCÔNG TY CỔ PHẦN THÉP NĂM KIM\n\nChúng tôi đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Thép Nam Kim (\"Công ty\") được lập ngày 31 tháng 12 năm 2019, và được Ban Giám đốc của Công ty phê chuẩn ngày 8 tháng 4 năm 2020. Báo cáo tài chính riêng này bao gồm: bằng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2019, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày nếu trên, và thuyết minh báo cáo tài chính riêng bao gồm các chính sách kế toán chủ yếu từ trang 5 đến trang 40.\n\nTrách nhiệm của Ban Giám đốc\n\nBan Giám đốc của Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng này dựa trên kết quả cuộc kiểm toán. Chúng tôi đã tiến hành kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính riêng do gian lận hoặc nhằm lấn. Khí thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\n3\n\nCông ty TNHH PwC (Việt Nam)\nSố 29, Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam\nĐT: +84 (28) 38230796, www.pwc.com/vn\n\n\n\npwc\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến của chúng tôi, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu tình hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2019, cũng như kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày nêu trên phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nThay mặt và đại diện cho Công ty TNHH PwC (Việt Nam)\n\nMai Việt Hùng Trân\n\nSố Giấy CN ĐKHN kiểm toán:\n\n0048-2018-006-1\n\nChữ ký được ủy quyền\n\nNguyễn Đăng Bảo\n\nSố Giấy CN ĐKHN kiểm toán:\n\n3891-2017-006-1\n\nSố hiệu báo cáo kiểm toán: HCM9538\n\nThành phố Hồ Chí Minh, ngày 8 tháng 4 năm 2020\n\n4\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 01 – DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "Tại ngày 31 tháng 12 năm",
+                "4": "Tại ngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "2019 VND",
+                "4": "2018 VND"
+            },
+            {
+                "0": "100",
+                "1": "TÀI SẢN NGẮN HẠN",
+                "2": "",
+                "3": "4.454.489.242.046",
+                "4": "4.053.709.229.244"
+            },
+            {
+                "0": "110",
+                "1": "Tiền và các khoản tương đương tiền",
+                "2": "3",
+                "3": "71.843.326.589",
+                "4": "453.394.419.252"
+            },
+            {
+                "0": "111",
+                "1": "Tiền",
+                "2": "",
+                "3": "59.468.123.932",
+                "4": "211.657.044.565"
+            },
+            {
+                "0": "112",
+                "1": "Các khoản tương đương tiền",
+                "2": "",
+                "3": "12.375.202.657",
+                "4": "241.737.374.687"
+            },
+            {
+                "0": "120",
+                "1": "Đầu tư tài chính ngắn hạn",
+                "2": "",
+                "3": "702.161.632.011",
+                "4": "197.635.323.046"
+            },
+            {
+                "0": "121",
+                "1": "Chứng khoán kinh doanh",
+                "2": "4(a)",
+                "3": "9.353.176",
+                "4": "9.353.176"
+            },
+            {
+                "0": "123",
+                "1": "Đầu tư nắm giữ đến ngày đáo hạn",
+                "2": "4(b)",
+                "3": "702.152.278.835",
+                "4": "197.625.969.870"
+            },
+            {
+                "0": "130",
+                "1": "Các khoản phải thu ngắn hạn",
+                "2": "",
+                "3": "1.118.658.604.675",
+                "4": "904.317.607.447"
+            },
+            {
+                "0": "131",
+                "1": "Phải thu ngắn hạn của khách hàng",
+                "2": "5",
+                "3": "934.849.276.742",
+                "4": "776.466.065.752"
+            },
+            {
+                "0": "132",
+                "1": "Trả trước cho người bán ngắn hạn",
+                "2": "6",
+                "3": "170.954.142.018",
+                "4": "126.918.926.769"
+            },
+            {
+                "0": "136",
+                "1": "Phải thu ngắn hạn khác",
+                "2": "7(a)",
+                "3": "15.213.537.341",
+                "4": "3.290.966.352"
+            },
+            {
+                "0": "137",
+                "1": "Dự phòng phải thu ngắn hạn khó đòi",
+                "2": "",
+                "3": "(2.358.351.426)",
+                "4": "(2.358.351.426)"
+            },
+            {
+                "0": "140",
+                "1": "Hàng tồn kho",
+                "2": "",
+                "3": "2.400.315.053.756",
+                "4": "2.253.767.654.082"
+            },
+            {
+                "0": "141",
+                "1": "Hàng tồn kho",
+                "2": "8",
+                "3": "2.400.315.053.756",
+                "4": "2.253.767.654.082"
+            },
+            {
+                "0": "150",
+                "1": "Tài sản ngắn hạn khác",
+                "2": "",
+                "3": "161.510.625.015",
+                "4": "244.594.225.417"
+            },
+            {
+                "0": "151",
+                "1": "Chi phí trả trước ngắn hạn",
+                "2": "9(a)",
+                "3": "26.024.553.310",
+                "4": "26.390.156.442"
+            },
+            {
+                "0": "152",
+                "1": "Thuế Giá trị Gia tăng (\"GTGT\") được khấu trừ",
+                "2": "13",
+                "3": "123.679.764.840",
+                "4": "216.316.497.837"
+            },
+            {
+                "0": "153",
+                "1": "Thuế và các khoản khác phải thu Nhà nước",
+                "2": "13",
+                "3": "11.806.306.865",
+                "4": "1.887.571.138"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_3",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Các thuyết minh từ trang 10 đến trang 40 là một phần cấu thành báo cáo tài chính riêng này.\n\n5\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 01 – DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG\n\n(tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN (tiếp theo)",
+                "2": "Thuyết minh",
+                "3": "Tại ngày 31 tháng 12 năm",
+                "4": "Tại ngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN (tiếp theo)",
+                "2": "Thuyết minh",
+                "3": "2019 VND",
+                "4": "2018 VND"
+            },
+            {
+                "0": "200",
+                "1": "TÀI SẢN DÀI HẠN",
+                "2": "",
+                "3": "3.522.139.504.503",
+                "4": "3.907.838.531.735"
+            },
+            {
+                "0": "210",
+                "1": "Các khoản phải thu dài hạn",
+                "2": "",
+                "3": "3.453.843.850",
+                "4": "3.435.857.850"
+            },
+            {
+                "0": "216",
+                "1": "Phải thu dài hạn khác",
+                "2": "7(b)",
+                "3": "3.453.843.850",
+                "4": "3.435.857.850"
+            },
+            {
+                "0": "220",
+                "1": "Tài sản cố định",
+                "2": "",
+                "3": "3.271.960.989.617",
+                "4": "3.333.800.241.198"
+            },
+            {
+                "0": "221",
+                "1": "Tài sản cố định hữu hình",
+                "2": "10(a)",
+                "3": "2.916.307.760.418",
+                "4": "3.128.025.133.461"
+            },
+            {
+                "0": "222",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "4.437.069.211.154",
+                "4": "4.424.723.404.177"
+            },
+            {
+                "0": "223",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(1.520.761.450.736)",
+                "4": "(1.296.698.270.716)"
+            },
+            {
+                "0": "224",
+                "1": "Tài sản cố định thuê tài chính",
+                "2": "10(b)",
+                "3": "161.933.804.303",
+                "4": "-"
+            },
+            {
+                "0": "225",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "169.433.832.365",
+                "4": "-"
+            },
+            {
+                "0": "226",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(7.500.028.062)",
+                "4": "-"
+            },
+            {
+                "0": "227",
+                "1": "Tài sản cố định vô hình",
+                "2": "10(c)",
+                "3": "193.719.424.896",
+                "4": "205.775.107.737"
+            },
+            {
+                "0": "228",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "213.345.869.808",
+                "4": "222.756.487.677"
+            },
+            {
+                "0": "229",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(19.626.444.912)",
+                "4": "(16.981.379.940)"
+            },
+            {
+                "0": "240",
+                "1": "Tài sản dở dang dài hạn",
+                "2": "",
+                "3": "49.070.606.991",
+                "4": "379.143.372.402"
+            },
+            {
+                "0": "242",
+                "1": "Chi phí xây dựng cơ bản dở dang",
+                "2": "11",
+                "3": "49.070.606.991",
+                "4": "379.143.372.402"
+            },
+            {
+                "0": "250",
+                "1": "Đầu tư tài chính dài hạn",
+                "2": "",
+                "3": "127.370.000.000",
+                "4": "160.190.000.000"
+            },
+            {
+                "0": "251",
+                "1": "Đầu tư vào công ty con",
+                "2": "4(c)",
+                "3": "79.000.000.000",
+                "4": "151.000.000.000"
+            },
+            {
+                "0": "255",
+                "1": "Đầu tư nắm giữ đến ngày đáo hạn",
+                "2": "4(b)",
+                "3": "48.370.000.000",
+                "4": "9.190.000.000"
+            },
+            {
+                "0": "260",
+                "1": "Tài sản dài hạn khác",
+                "2": "",
+                "3": "70.284.064.045",
+                "4": "31.269.060.285"
+            },
+            {
+                "0": "261",
+                "1": "Chi phí trả trước dài hạn",
+                "2": "9(b)",
+                "3": "70.284.064.045",
+                "4": "31.269.060.285"
+            },
+            {
+                "0": "270",
+                "1": "TỔNG TÀI SẢN",
+                "2": "",
+                "3": "7.976.628.746.549",
+                "4": "7.961.547.760.979"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_4",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Các thuyết minh từ trang 10 đến trang 40 là một phần cấu thành báo cáo tài chính riêng này.\n\n6\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 01 – DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG\n\n(tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "Tại ngày 31 tháng 12 năm",
+                "4": "Tại ngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "2019 VND",
+                "4": "2018 VND"
+            },
+            {
+                "0": "300",
+                "1": "NỘ PHẢI TRẢ",
+                "2": "",
+                "3": "4.956.186.377.506",
+                "4": "5.030.909.697.567"
+            },
+            {
+                "0": "310",
+                "1": "Nợ ngắn hạn",
+                "2": "",
+                "3": "4.306.624.925.443",
+                "4": "3.889.406.349.272"
+            },
+            {
+                "0": "311",
+                "1": "Phải trả người bán ngắn hạn",
+                "2": "12",
+                "3": "1.815.680.178.481",
+                "4": "546.047.315.924"
+            },
+            {
+                "0": "312",
+                "1": "Người mua trả tiền trước ngắn hạn",
+                "2": "",
+                "3": "46.003.223.702",
+                "4": "71.296.280.612"
+            },
+            {
+                "0": "313",
+                "1": "Thuế và các khoản phải nộp Nhà nước",
+                "2": "13",
+                "3": "758.814.883",
+                "4": "272.125.570"
+            },
+            {
+                "0": "314",
+                "1": "Phải trả người lao động",
+                "2": "",
+                "3": "15.484.184.104",
+                "4": "23.037.449.132"
+            },
+            {
+                "0": "315",
+                "1": "Chi phí phải trả ngắn hạn",
+                "2": "14",
+                "3": "10.509.320.038",
+                "4": "18.494.595.277"
+            },
+            {
+                "0": "319",
+                "1": "Phải trả ngắn hạn khác",
+                "2": "",
+                "3": "9.666.813.505",
+                "4": "10.683.320.899"
+            },
+            {
+                "0": "320",
+                "1": "Vay và nợ thuê tài chính ngắn hạn",
+                "2": "15(a)",
+                "3": "2.359.037.474.819",
+                "4": "3.171.148.881.666"
+            },
+            {
+                "0": "322",
+                "1": "Quỹ khen thưởng, phúc lợi",
+                "2": "16",
+                "3": "49.484.915.911",
+                "4": "48.426.380.192"
+            },
+            {
+                "0": "330",
+                "1": "Nợ dài hạn",
+                "2": "",
+                "3": "649.561.452.063",
+                "4": "1.141.503.348.295"
+            },
+            {
+                "0": "337",
+                "1": "Phải trả dài hạn khác",
+                "2": "",
+                "3": "900.000.000",
+                "4": "900.000.000"
+            },
+            {
+                "0": "338",
+                "1": "Vay và nợ thuê tài chính dài hạn",
+                "2": "15(b), (c)",
+                "3": "648.661.452.063",
+                "4": "1.140.603.348.295"
+            },
+            {
+                "0": "400",
+                "1": "VỐN CHỦ SỞ HỮU",
+                "2": "",
+                "3": "3.020.442.369.043",
+                "4": "2.930.638.063.412"
+            },
+            {
+                "0": "410",
+                "1": "Vốn chủ sở hữu",
+                "2": "",
+                "3": "3.020.442.369.043",
+                "4": "2.930.638.063.412"
+            },
+            {
+                "0": "411",
+                "1": "Vốn góp của chủ sở hữu",
+                "2": "17, 18",
+                "3": "1.819.998.680.000",
+                "4": "1.819.998.680.000"
+            },
+            {
+                "0": "411a",
+                "1": "- Cổ phiếu phổ thông có quyền biểu quyết",
+                "2": "",
+                "3": "1.819.998.680.000",
+                "4": "1.819.998.680.000"
+            },
+            {
+                "0": "412",
+                "1": "Thặng dư vốn cổ phần",
+                "2": "18",
+                "3": "766.255.590.000",
+                "4": "766.255.590.000"
+            },
+            {
+                "0": "418",
+                "1": "Quỹ đầu tư phát triển",
+                "2": "18",
+                "3": "38.504.256.821",
+                "4": "37.357.566.342"
+            },
+            {
+                "0": "420",
+                "1": "Quỹ khác thuộc vốn chủ sở hữu",
+                "2": "18",
+                "3": "35.734.612.915",
+                "4": "34.587.922.436"
+            },
+            {
+                "0": "421",
+                "1": "Lợi nhuận sau thuế (\"LNST\") chưa phân phối",
+                "2": "18",
+                "3": "359.949.229.307",
+                "4": "272.438.304.634"
+            },
+            {
+                "0": "421a",
+                "1": "- LNST chưa phân phối lũy kế của các năm trước",
+                "2": "",
+                "3": "268.424.887.957",
+                "4": "223.889.748.010"
+            },
+            {
+                "0": "421b",
+                "1": "- LNST chưa phân phối của năm nay",
+                "2": "",
+                "3": "91.524.341.350",
+                "4": "48.548.556.624"
+            },
+            {
+                "0": "440",
+                "1": "TỔNG NGUỒN VỐN",
+                "2": "",
+                "3": "7.976.628.746.549",
+                "4": "7.961.547.760.979"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_5",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Trần Minh Tiến\n\nNgười lập\n\nVũ Thị Huyền\n\nKế toán trường\n\nVõ Hoàng Vũ\n\nTổng Giám đốc\n\nNgày 8 tháng 4 năm 2020\n\nCác thuyết minh từ trang 10 đến trang 40 là một phần cấu thành báo cáo tài chính riêng này.\n\n7\n\n\n\nCÔNG TY CÓ PHẦN THÉP NAM KIM\n\nMẫu số B 02 – DN\n\nBÁO CÁO KẾT QUÀ HOẠT ĐỘNG KINH DOANH RIÊNG",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "",
+                "2": "Thuyết minh",
+                "3": "Năm tài chính kết thúc ngày 31 tháng 12 năm",
+                "4": "Năm tài chính kết thúc ngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mã số",
+                "1": "",
+                "2": "Thuyết minh",
+                "3": "2019 VND",
+                "4": "2018 VND"
+            },
+            {
+                "0": "01",
+                "1": "Doanh thu bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "12.221.693.610.446",
+                "4": "14.678.567.821.162"
+            },
+            {
+                "0": "02",
+                "1": "Các khoản giảm trừ doanh thu",
+                "2": "",
+                "3": "(44.285.595.670)",
+                "4": "(41.313.411.890)"
+            },
+            {
+                "0": "10",
+                "1": "Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "20",
+                "3": "12.177.408.014.776",
+                "4": "14.637.254.409.272"
+            },
+            {
+                "0": "11",
+                "1": "Giá vốn hàng bán và dịch vụ cung cấp",
+                "2": "21",
+                "3": "(11.806.161.013.737)",
+                "4": "(13.869.804.566.430)"
+            },
+            {
+                "0": "20",
+                "1": "Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "371.247.001.039",
+                "4": "767.449.842.842"
+            },
+            {
+                "0": "21",
+                "1": "Doanh thu hoạt động tài chính",
+                "2": "22",
+                "3": "106.983.072.434",
+                "4": "97.643.121.696"
+            },
+            {
+                "0": "22",
+                "1": "Chi phí tài chính",
+                "2": "23",
+                "3": "(266.219.022.848)",
+                "4": "(419.415.183.811)"
+            },
+            {
+                "0": "23",
+                "1": "- Trong đó: Chi phí lãi vay",
+                "2": "",
+                "3": "(228.239.228.698)",
+                "4": "(327.689.392.059)"
+            },
+            {
+                "0": "25",
+                "1": "Chi phí bán hàng",
+                "2": "24",
+                "3": "(210.156.849.457)",
+                "4": "(324.560.599.942)"
+            },
+            {
+                "0": "26",
+                "1": "Chi phí quản lý doanh nghiệp",
+                "2": "25",
+                "3": "(64.097.930.695)",
+                "4": "(73.394.742.953)"
+            },
+            {
+                "0": "30",
+                "1": "(Lỗ)/lợi nhuận thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "(62.243.729.527)",
+                "4": "47.722.437.832"
+            },
+            {
+                "0": "31",
+                "1": "Thu nhập khác",
+                "2": "",
+                "3": "197.605.002.037",
+                "4": "7.331.300.606"
+            },
+            {
+                "0": "32",
+                "1": "Chi phí khác",
+                "2": "",
+                "3": "(1.443.511.296)",
+                "4": "(2.364.822.934)"
+            },
+            {
+                "0": "40",
+                "1": "Lợi nhuận khác",
+                "2": "26",
+                "3": "196.161.490.741",
+                "4": "4.966.477.672"
+            },
+            {
+                "0": "50",
+                "1": "Tổng lợi nhuận kế toán trước thuế",
+                "2": "",
+                "3": "133.917.761.214",
+                "4": "52.688.915.504"
+            },
+            {
+                "0": "51",
+                "1": "Chi phí thuế thu nhập doanh nghiệp (“TNDN”) hiện hành",
+                "2": "27",
+                "3": "(42.393.419.864)",
+                "4": "(4.140.358.880)"
+            },
+            {
+                "0": "52",
+                "1": "Thuế TNDN hoãn lại",
+                "2": "27",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "60",
+                "1": "Lợi nhuận sau thuế TNDN",
+                "2": "",
+                "3": "91.524.341.350",
+                "4": "48.548.556.624"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_6",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Trần Minh Tiến\nNgười lập\n\nVũ Thị Huyền\nKế toán trường\n\nVõ Hoàng Vũ\nTổng Giám đốc\n\nNgày 8 tháng 4 năm 2020\n\nCác thuyết minh từ trang 10 đến trang 40 là một phần cấu thành báo cáo tài chính riêng này.\n\n8\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 03 – DN\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ RIÊNG\n\n(Theo phương pháp gián tiếp)",
+        "dataframe": [
+            {
+                "0": "Mãsố",
+                "1": "",
+                "2": "Thuyếtminh",
+                "3": "Năm tài chính kết thúcngày 31 tháng 12 năm",
+                "4": "Năm tài chính kết thúcngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mãsố",
+                "1": "",
+                "2": "Thuyếtminh",
+                "3": "2019VND",
+                "4": "2018VND"
+            },
+            {
+                "0": "",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "3": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "4": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH"
+            },
+            {
+                "0": "01",
+                "1": "Lợi nhuận kể toán trước thuếĐiều chỉnh cho các khoản:",
+                "2": "",
+                "3": "133.917.761.214",
+                "4": "52.688.915.504"
+            },
+            {
+                "0": "02",
+                "1": "Khẩu hao tài sản cố định (\"TSCĐ\")",
+                "2": "",
+                "3": "428.111.793.825",
+                "4": "407.669.125.144"
+            },
+            {
+                "0": "03",
+                "1": "Các khoản dự phòng",
+                "2": "",
+                "3": "-",
+                "4": "197.336.799"
+            },
+            {
+                "0": "04",
+                "1": "Lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiên tệ có gốc ngoại tệ",
+                "2": "",
+                "3": "6.255.238.305",
+                "4": "18.631.509.175"
+            },
+            {
+                "0": "05",
+                "1": "Lãi từ hoạt động đầu tư",
+                "2": "",
+                "3": "(258.576.150.964)",
+                "4": "(26.795.598.945)"
+            },
+            {
+                "0": "06",
+                "1": "Chi phí lãi vay",
+                "2": "",
+                "3": "228.239.228.698",
+                "4": "327.689.392.059"
+            },
+            {
+                "0": "08",
+                "1": "Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động",
+                "2": "",
+                "3": "537.947.871.078",
+                "4": "780.080.679.736"
+            },
+            {
+                "0": "09",
+                "1": "(Tăng)/giảm các khoản phải thu",
+                "2": "",
+                "3": "(142.373.583.346)",
+                "4": "587.763.642.976"
+            },
+            {
+                "0": "10",
+                "1": "(Tăng)/giảm hàng tồn kho",
+                "2": "",
+                "3": "(146.547.399.674)",
+                "4": "1.568.593.395.837"
+            },
+            {
+                "0": "11",
+                "1": "Tăng/(giảm) các khoản phải trả",
+                "2": "",
+                "3": "1.220.157.450.037",
+                "4": "(333.138.592.654)"
+            },
+            {
+                "0": "12",
+                "1": "(Tăng)/giảm chi phí trả trước",
+                "2": "",
+                "3": "(38.649.400.628)",
+                "4": "3.541.918.827"
+            },
+            {
+                "0": "14",
+                "1": "Tiền lãi vay đã trả",
+                "2": "",
+                "3": "(233.935.530.092)",
+                "4": "(317.489.760.507)"
+            },
+            {
+                "0": "15",
+                "1": "Thuế TNDN đã nộp",
+                "2": "",
+                "3": "(42.393.419.864)",
+                "4": "(50.263.783.803)"
+            },
+            {
+                "0": "17",
+                "1": "Tiền chi khác từ hoạt động kinh doanh",
+                "2": "",
+                "3": "(661.500.000)",
+                "4": "(4.853.473.007)"
+            },
+            {
+                "0": "20",
+                "1": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "1.153.544.487.511",
+                "4": "2.234.234.027.405"
+            },
+            {
+                "0": "",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐÀU TƯ",
+                "2": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐÀU TƯ",
+                "3": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐÀU TƯ",
+                "4": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐÀU TƯ"
+            },
+            {
+                "0": "21",
+                "1": "Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",
+                "2": "",
+                "3": "(94.892.045.798)",
+                "4": "(339.498.549.598)"
+            },
+            {
+                "0": "22",
+                "1": "Tiền thu từ thanh lý, nhượng bán TSCĐ",
+                "2": "",
+                "3": "252.399.306.332",
+                "4": "790.909.091"
+            },
+            {
+                "0": "23",
+                "1": "Tiền gửi có kỳ hạn tại ngân hàng",
+                "2": "",
+                "3": "(1.021.203.715.735)",
+                "4": "(84.790.000.000)"
+            },
+            {
+                "0": "24",
+                "1": "Tiền thu hồi tiên gửi có kỳ hạn tại ngân hàng",
+                "2": "",
+                "3": "509.503.385.049",
+                "4": "300.000.000.000"
+            },
+            {
+                "0": "25",
+                "1": "Tiền chi đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "-",
+                "4": "(22.521.400.000)"
+            },
+            {
+                "0": "26",
+                "1": "Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "105.136.740.000",
+                "4": "-"
+            },
+            {
+                "0": "27",
+                "1": "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+                "2": "",
+                "3": "20.366.301.096",
+                "4": "17.833.493.960"
+            },
+            {
+                "0": "30",
+                "1": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+                "2": "",
+                "3": "(228.690.029.056)",
+                "4": "(128.185.546.547)"
+            },
+            {
+                "0": "",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "3": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "4": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+            },
+            {
+                "0": "33",
+                "1": "Tiền thu đi vay",
+                "2": "",
+                "3": "8.961.750.010.468",
+                "4": "10.822.524.430.778"
+            },
+            {
+                "0": "34",
+                "1": "Tiền chi trả nợ gốc vay",
+                "2": "",
+                "3": "(10.246.608.681.568)",
+                "4": "(12.540.788.285.633)"
+            },
+            {
+                "0": "35",
+                "1": "Tiền chi trả nợ gốc thuê tài chính",
+                "2": "",
+                "3": "(21.551.624.950)",
+                "4": "(23.518.944.732)"
+            },
+            {
+                "0": "36",
+                "1": "Tiền cổ tức đã trả cho chủ sở hữu",
+                "2": "",
+                "3": "-",
+                "4": "(1.000.000.000)"
+            },
+            {
+                "0": "40",
+                "1": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                "2": "",
+                "3": "(1.306.410.296.050)",
+                "4": "(1.742.782.799.587)"
+            },
+            {
+                "0": "50",
+                "1": "Lưu chuyển tiền thuần trong năm",
+                "2": "",
+                "3": "(381.555.837.595)",
+                "4": "363.265.681.271"
+            },
+            {
+                "0": "60",
+                "1": "Tiền và tương đương tiền đầu năm",
+                "2": "3",
+                "3": "453.394.419.252",
+                "4": "90.861.349.808"
+            },
+            {
+                "0": "61",
+                "1": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+                "2": "",
+                "3": "4.744.932",
+                "4": "(732.611.827)"
+            },
+            {
+                "0": "70",
+                "1": "Tiền và tương đương tiền cuối năm",
+                "2": "3",
+                "3": "71.843.326.589",
+                "4": "453.394.419.252"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_7",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Các thông tin liên quan tới báo cáo lưu chuyển tiền tệ được được trình bày tai Thuyễn minh 29.\n\nTrần Minh Tiến\n\nNgười lập\n\nVũ Thị Huyền\n\nKế toán trường\n\nTổng Giám đốc\n\nNgày 8 tháng 4 năm 2020\n\nCác thuyết minh từ trang 10 đến trang 40 là một phần cấu thành báo cáo tài chính riêng này.\n\n9\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2019\n\n1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY\n\nCông ty Cổ phần Thép Nam Kim (\"Công ty\") là một công ty cổ phần được thành lập tại nước CHXHCN Việt Nam theo Giấy chứng nhận đăng ký doanh nghiệp công ty cổ phần số 3700477019 do Sở Kế hoạch và Đầu tư Tĩnh Bình Dương cấp lần đầu ngày 23 tháng 12 năm 2002.\n\nCổ phiếu của Công ty được niêm yết trên sở giao dịch chứng khoán Thành phố Hồ Chí Minh với mã chứng khoán là NKG vào ngày 14 tháng 1 năm 2011 theo Quyết định số 05/2011/QĐ-SGDHCM của Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh.\n\nHoạt động kinh doanh chính của Công ty bao gồm:\n\n- Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu, chi tiết sản xuất các loại tôn thép: tôn mạ kẽm, tôn mạ hợp kim nhóm kẽm (tôn lạnh), tôn mạ hợp kim nhôm kẽm phủ sơn, tôn mạ kẽm phủ sơn;\n\n- Sản xuất sắt, thép, gang, chi tiết: sản xuất thép ống, thép hộp, thép hình và các sản phẩm từ thép cuộn, thép cán người, thép mạ kẽm, bằng thép đen, bằng thép mạ kẽm:\n\n• Bán buôn kim loại và quăng kim loại, chi tiết: bán buôn sắt, thép các loại;\n\n- Gia công cơ khí, xử lý và tráng phủ kim loại (không gia công tại địa điểm trụ sở chính); và\n\n- Mua bán phế liệu (không chứa, phân loại, xử lý, tái chế tại trụ sở chính).\n\nChu kỳ sản xuất kinh doanh thông thường của Công ty là 12 tháng.\n\nTại ngày 31 tháng 12 năm 2019, Công ty có 2 công ty con và 1 đơn vị trực thuộc không có tự cách pháp nhân hạch toán phụ thuộc. Chi tiết như sau:",
+        "dataframe": [
+            {
+                "0": "Tên công ty/đơn vị trực thuộc",
+                "1": "Địa chỉ đăng ký hoạt động",
+                "2": "Ngành, nghề kinh doanh chính",
+                "3": "Tỷ lệ sở hữu và quyền biểu quyết",
+                "4": "Tỷ lệ sở hữu và quyền biểu quyết"
+            },
+            {
+                "0": "Tên công ty/đơn vị trực thuộc",
+                "1": "Địa chỉ đăng ký hoạt động",
+                "2": "Ngành, nghề kinh doanh chính",
+                "3": "2019",
+                "4": "2018"
+            },
+            {
+                "0": "Công ty con",
+                "1": "Công ty con",
+                "2": "Công ty con",
+                "3": "Công ty con",
+                "4": "Công ty con"
+            },
+            {
+                "0": "Công ty TNHH Một Thành Viên Ông thép Nam Kim",
+                "1": "Tỉnh Long An, Việt Nam",
+                "2": "Sản xuất các loại tôn thép: tôn mạ màu, tôn mạ kẽm; kinh doanh sắt thép các loại.",
+                "3": "100%",
+                "4": "100%"
+            },
+            {
+                "0": "Công ty TNHH Một Thành Viên Nam Kim Corea (*)",
+                "1": "Tỉnh Bình Dương, Việt Nam",
+                "2": "Sản xuất sắt, thép, gang; gia công cơ khí; tráng phủ kim loại.",
+                "3": "-",
+                "4": "100%"
+            },
+            {
+                "0": "Công ty TNHH MTV Ông thép Nam Kim Chu Lai (**)",
+                "1": "Tỉnh Quảng Nam, Việt Nam",
+                "2": "Sản xuất các loại tôn thép: tôn mạ màu, tôn mạ kẽm; kinh doanh sắt thép các loại.",
+                "3": "100%",
+                "4": "-"
+            },
+            {
+                "0": "Chi nhánh",
+                "1": "Chi nhánh",
+                "2": "Chi nhánh",
+                "3": "Chi nhánh",
+                "4": "Chi nhánh"
+            },
+            {
+                "0": "Chi nhánh Công ty Cổ phần Thép Nam Kim",
+                "1": "Tỉnh Bình Dương, Việt Nam",
+                "2": "",
+                "3": "",
+                "4": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_8",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "(*) Tháng 6 năm 2019, Công ty đã hoàn tất thủ tục chuyển nhượng toàn bộ vốn góp trong Công ty Cổ phần Nam Kim Corea cho Chinasia Texttile (Hongkong) Limited.\n\n10\n\n\n\nCÔNG TY CÓ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY (tiếp theo)\n\n(**) Tại ngày 13 tháng 12 năm 2019, Công ty TNHH MTV Ông thép Nam Kim Chu Lai được thành lập tại nước CHXHCN Việt Nam theo Giấy chứng nhận đăng ký doanh nghiệp công ty trách nhiệm hữu hạn một thành viên số 4001197204 do Ủy ban Nhân dân Tĩnh Quảng Nam cấp với vốn điều lệ 68 tỷ đồng, trong đó, Công ty sở hữu 100% vốn điều lệ. Tuy nhiên, tại ngày 31 tháng 12 năm 2019, Công ty chưa thực hiện bắt kỳ khoản góp vốn nào (Thuyết minh 31(b)).\n\nTại ngày 31 tháng 12 năm 2019, Công ty có 1.174 nhân viên (tại ngày 31 tháng 12 năm 2018: 1.296 nhân viên).\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU\n\n2.1 Cơ sở của việc lập báo cáo tài chính riêng\n\nBáo cáo tài chính riêng đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng. Báo cáo tài chính riêng được lập theo nguyên tắc giá gốc.\n\nBáo cáo tài chính riêng kèm theo không nhằm mục đích trình bày tình hình tài chính riêng, kết quả kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng theo các nguyên tắc và thông lệ kế toán thường được chấp nhận ở các nước và các thể chế khác ngoài nước Việt Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại nước Việt Nam có thể khác với các nguyên tắc và thông lệ kế toán tại các nước và các thể chế khác.\n\nNgoài ra, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con (gọi chung là “Tập đoàn”) theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Trong báo cáo tài chính hợp nhất, công ty con là những công ty mà Tập đoàn kiểm soát các chính sách hoạt động và tài chính, đã được hợp nhất đầy đủ.\n\nNgười sử dụng báo cáo tài chính riêng của Công ty nên đọc cùng với các báo cáo tài chính hợp nhất của Tập đoàn cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 để có đủ thông tin về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Tập đoàn.\n\n2.2 Năm tài chính\n\nNăm tài chính của Công ty bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12.\n\n2.3 Đơn vị tiền tệ sử dụng trong kế toán\n\nĐơn vị sử dụng trong kế toán và được trình bày trên báo cáo tài chính riêng là Đồng Việt Nam (\"VND\" hoặc \"đồng\"). Công ty xác định đơn vị tiền tệ sử dụng trong kế toán dựa vào đơn vị tiền tệ chủ yếu sử dụng trong các giao dịch bán hàng, cung cấp dịch vụ, có ảnh hưởng lớn đến giá bán hàng hóa, cung cấp dịch vụ; đơn vị tiền tệ dùng để niêm yết giá bán và nhận thanh toán; đơn vị tiền tệ sử dụng chủ yếu trong việc mua hàng hóa, dịch vụ; có ảnh hưởng lớn đến chi phí nhân công, nguyên vật liệu và các chi phí sản xuất, kinh doanh khác, và thông thường dùng để thanh toán cho các chi phí đó.\n\n11\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)\n\n2.4 Các loại tỷ giá hối đoái áp dụng trong kế toán\n\nCác nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá giao dịch thực tế áp dụng tại ngày phát sinh nghiệp vụ. Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi nhận là thu nhập hoặc chỉ phí trong báo cáo kết quả hoạt động kinh doanh riêng.\n\nTài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày của bằng cân đối kế toán riêng lần lượt được quy đổi theo tỷ giá mua và tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch áp dụng tại ngày bằng cân đối kế toán riêng. Các khoản ngoại tệ gửi ngân hàng tại ngày của bằng cân đối kế toán riêng được quy đổi theo tỷ giá mua của chính ngân hàng nơi Công ty mở tài khoản ngoại tệ. Chênh lệch tỷ giá phát sinh từ việc quy đổi này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh riêng.\n\n2.5 Tiền và các khoản tương đương tiền\n\nTiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, tiền gửi không kỳ hạn và các khoản đầu tư ngắn hạn khác có thời hạn đáo hạn ban đầu không quá ba tháng.\n\n2.6 Các khoản phải thu\n\nCác khoản phải thu thể hiện giá trị ghi sổ cửa các khoản phải thu khách hàng gồm các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch bán hàng hóa, cung cấp dịch vụ; và các khoản phải thu khác không có tính thương mại, không liên quan đến giao dịch bán hàng hóa và cung cấp dịch vụ. Dự phòng các khoản phải thu khó đòi được lập cho từng khoản phải thu căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên), hoặc căn cứ vào mức tổn thất dự kiến có thể xây ra. Các khoản nợ phải thu được xác định là không thể thu hồi sẽ được xóa sổ.\n\nCác khoản nợ phải thu được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản phải trả tại ngày của bằng cân đối kế toán riêng.\n\n2.7 Hàng tồn kho\n\nHàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được xác định trên cơ sở bình quân gia quyền và bao gồm tất cả các chi phí mua, chi phí chế biến và các chi phí khác có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Đối với các sản phẩm được sản xuất, giá gốc bao gồm tất cả các chi phí trực tiếp và chi phí sản xuất chung dựa trên mức độ hoạt động bình thường. Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong kỳ kinh doanh bình thường trừ chi phí ước tính để hoàn thành sản phẩm và chi phí ước tính cần thiết cho việc tiêu thụ.\n\nCông ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.\n\nDự phòng được lập cho hàng tồn kho bị lỗi thời, chậm lưu chuyển và bị hồng. Chênh lệch giữa khoản dự phòng phải lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm giá vốn hàng bán trong năm.\n\n12\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)\n\n2.8 Các khoản đầu tư\n\n(a) Chứng khoán kinh doanh\n\nChứng khoán kinh doanh là chứng khoán do Công ty nấm giữ cho mục đích kinh doanh, mua bán để kiểm lời.\n\nChứng khoán kinh doanh được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí liên quan trực tiếp đến việc mua chứng khoán kinh doanh. Sau đó, Ban Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm kế toán. Dự phòng giảm giả đầu tư chứng khoán kinh doanh được lập khi giá gốc cao hơn giá trị thị trường của các khoản chứng khoán kinh doanh này. Chênh lệch giữa khoản dự phòng lập ở cuối năm kế toán này và khoản dự phòng đã lập ở cuối năm kế toán trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.\n\nThời điểm ghi nhận chứng khoán kinh doanh là thời điểm Công ty có quyền sở hữu, cụ thể như sau:\n\n- Chứng khoán niêm yết được ghi nhận tại thời điểm khớp lệnh; và\n\n- Chứng khoán chưa niêm yết được ghi nhận tại thời điểm chính thức có quyền sở hữu theo quy định của pháp luật.\n\nLãi hoặc lỗ từ việc thanh lý, nhượng bán chứng khoán kinh doanh được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng. Giá vốn được xác định theo phương pháp bình quân gia quyền di động.\n\n(b) Đầu tư nằm giữ đến ngày đáo hạn\n\nCác khoản đầu tư nắm giữ đến ngày đáo hạn là các khoản đầu tư mà Ban Giám đốc có ý định và có khả năng giữ đến ngày đáo hạn.\n\nCác khoản đầu tư nằm giữ đến ngày đáo hạn bao gồm các khoản tiền gửi ngân hàng có kỳ hạn và trái phiếu mà bên phát hành bắt buộc phải mua lại tại một thời điểm nhất định trong tương lai. Các khoản đầu tư này ban đầu được ghi nhận theo giá gốc. Sau đó, Ban Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm kế toán.\n\nDự phòng giảm giá đầu tư nắm giữ đến ngày đáo hạn được lập khi có bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được.\n\n(c) Đầu tư vào công ty con\n\nCông ty con là những doanh nghiệp mà Công ty có quyền chi phối các chính sách tài chính và hoạt động của doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó, thường đi kèm là việc nằm giữ hơn một nửa quyền biểu quyết. Sự tồn tại và tính hữu hiệu của quyền biểu quyết tiềm tàng đang được thực thi hoặc được chuyển đổi sẽ được xem xét khi đánh giá liệu Công ty có quyền kiểm soát doanh nghiệp hay không.\n\nĐầu tư vào công ty con được ghi nhận ban đầu theo giá gốc, bao gồm giá trị góp vốn cộng các chi phí liên quan trực tiếp đến việc đầu tư. Sau đó, Ban Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm kế toán.\n\n13\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)\n\n2.9 Tài sản cố định (\"TSCĐ\")\n\nTSCĐ hữu hình và TSCĐ vô hình\n\nTSCĐ được phần ánh theo nguyên giá trừ khấu hao lũy kế. Nguyên giá bao gồm các chi phí liên quan trực tiếp đến việc có được TSCĐ ở trạng thái sẵn sàng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên giá TSCĐ nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí sản xuất kinh doanh trong năm.\n\nKhâu hao\n\nTSCĐ được khấu hao theo phương pháp đường thẳng để giảm dàn nguyên giá tài sản trong suốt thời gian hữu dụng ước tính. Thời gian hữu dụng ước tính của các loại tài sản như sau:",
+        "dataframe": [
+            {
+                "0": "Nhà cửa, vật kiến trúc",
+                "1": "5 – 50 năm"
+            },
+            {
+                "0": "Máy móc, thiết bị",
+                "1": "2 – 20 năm"
+            },
+            {
+                "0": "Phương tiện vận tải",
+                "1": "6 – 30 năm"
+            },
+            {
+                "0": "Thiết bị văn phòng",
+                "1": "3 – 10 năm"
+            },
+            {
+                "0": "Phần mềm vi tính",
+                "1": "5 năm"
+            },
+            {
+                "0": "TSCĐ khác",
+                "1": "5 – 40 năm"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_9",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Quyền sử dụng đất không thời hạn được ghi nhận theo giá gốc và không khấu hao.\n\nQuyền sử dụng đất có thời hạn được ghi nhận căn cứ trên Giấy chứng nhận quyền sử dụng đất được khấu hao theo phương pháp đường thẳng trong 44 năm đến 49 năm.\n\nThanh lý\n\nLãi hoặc lỗ phát sinh do thanh lý nhượng bán TSCĐ được xác định bằng số chênh lệch giữa số tiền thu thuần do thanh lý với giá trị còn lại của TSCĐ và được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh riêng.\n\nChi phí xây dựng cơ bản dở dang\n\nChi phí xây dựng cơ bản đồ đang thể hiện giá trị của các tài sản trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê hoặc quản trị, hoặc cho bắt kì mục đích nào khác, được ghi nhận theo giả gốc, bao gồm toàn bộ chi phí cần thiết để xây dựng mới hoặc sửa chữa, cải tạo, mở rộng hay trang bị lại kỹ thuật công trình như chi phí xây dựng; chi phí thiết bị; chi phí quản lý dự án; và chi phí vay được vốn hóa đối với tài sản đủ điều kiện phù hợp với chính sách kế toán của Công ty. Khẩu hao của những tài sản này, cũng giống như các loại TSCĐ khác, sẽ bắt đầu được trích khi tài sản đã sẵn sàng cho mục đích sử dụng.\n\n14\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)\n\n2.10 Thuê tài sản\n\nViệc thuê tài sản mà bên cho thuê chuyển giao quyền sở hữu vào cuối thời hạn thuê và chuyển giao phần lớn rủi ro và lợi ích gắn với quyền sở hữu tài sản cho bên thuê thì được hạch toán là thuê tài chính. Thuê tài chính được ghi nhận là tài sản tại thời điểm khởi đầu việc thuê tài sản với giá trị thấp hơn giữa giá trị hợp lý của tài sản cho thuê và giá trị hiện tại thuần của các khoản thanh toán tiền thuê tối thiểu. Khoản thanh toán tiền thuê tài chính được chia ra thành chi phí tài chính và khoản phải trả nợ gốc để duy trì một tỷ lệ lãi suất cố định trên số dư nợ thuê tài chính. Khoản phải trả nợ gốc không bao gồm chỉ phí tài chính, được hạch toán là nợ dài hạn. Chi phí tài chính được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng trong suốt thời hạn của hợp đồng thuê. TSCĐ thuê tài chính được khấu hao trong thời gian ngắn hơn giữa thời gian sử dụng ước tính của tài sản và thời gian thuê. Tuy nhiên nếu có sự chắc chắn hợp lý rằng bên thuê sẽ có quyền sở hữu ở cuối thời hạn thuê thì khấu hao sẽ được dựa trên thời gian sử dụng ước tính của tài sản.\n\nThuê hoạt động là loại hình thuê TSCĐ mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.\n\n2.11 Chi phí trả trước\n\nChi phí trả trước bao gồm các chi phí trả trước ngắn hạn và chi phí trả trước dài hạn trên bằng cân đối kế toán riêng. Các khoản chi phí trả trước được hạch toán theo giá gốc và phân bổ theo phương pháp đường thẳng dựa trên thời hạn hữu dụng ước tính.\n\n2.12 Nợ phải trả\n\nCác khoản nợ phải trả được phân loại dựa vào tính chất bao gồm:\n\n- Phải trả người bán gồm các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa và dịch vụ: và\n\n- Phải trả khác gồm các khoản phải trả không có tính thương mại, không liên quan đến giao dịch mua hàng hóa và dịch vụ.\n\nCác khoản nợ phải trả được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản phải trả tại ngày của bằng cân đối kế toán riêng.\n\n2.13 Vay và nợ thuê tài chính\n\nVay và nợ thuê tài chính bao gồm các khoản tiền vay và nợ thuê tài chính từ các ngân hàng và công ty tài chính.\n\nCác khoản vay và nợ thuê tài chính được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản vay và nợ thuê tài chính tại ngày của bằng cân đối kế toán riêng.\n\n15\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n2.13 Vay và nợ thuê tài chính (tiếp theo)\n\nChi phí đi vay liên quan trực tiếp đối với hoạt động xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn sẽ được vốn hóa trong thời gian mà các tài sản này được hoàn thành và chuẩn bị đưa vào sử dụng. Đối với các khoản vay chung trong đó có sử dụng vốn cho mục đích đầu tư xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn thì Công ty xác định chi phí đi vay được vốn hóa theo tỷ lệ vốn hóa đối với chi phí lũy kế bình quân gia quyền phát sinh cho việc đầu tư xây dựng cơ bản hoặc sản xuất tài sản đủ tiêu chuẩn đó. Tỷ lệ vốn hóa được tính theo tỷ lệ lãi suất bình quân gia quyền của các khoản vay chưa trả trong năm, trừ các khoản vay riêng biệt phục vụ cho mục đích hình thành một tài sản cụ thể. Chi phí đi vay khác được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.\n\n2.14 Chi phí phải trả\n\nBao gồm các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán trong kỳ báo cáo nhưng thực tế chưa chỉ trả do chưa có hóa đơn hoặc chưa dữ hồ sơ, tài liệu kế toán, được ghi nhận vào chi phí sản xuất kinh doanh của kỳ báo cáo.\n\n2.15 Các khoản dự phòng\n\nCác khoản dự phòng được ghi nhận khi Công ty có nghĩa vụ nợ hiện tại, pháp lý hoặc liên đói, phát sinh từ các sự kiện đã xảy ra; việc thanh toán nghĩa vụ nợ có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh tế và giá trị của nghĩa vụ nợ đó được ước tính một cách đáng tin cây. Dự phòng không được ghi nhận cho các khoản lỗ hoạt động trong tương lai.\n\nDự phòng được tính trên cơ sở các khoản chi phí dự tính phải thanh toán nghĩa vụ nợ. Nếu ảnh hưởng về giá trị thời gian của tiền là trọng yếu thì dự phòng được tính trên cơ sở giá trị hiện tại với tỷ lệ chiết khấu trước thuế và phân ảnh những đánh giá trên thị trường hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó. Giá trị tăng lên do ảnh hưởng của yếu tố thời gian được ghi nhận là chi phí tài chính. Chênh lệch giữa khoản dự phải trả phải lập ở cuối kỳ kế toán này và khoản dự phòng phải trả đã lập chưa sử dụng ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chi phí sản xuất kinh doanh trong năm.\n\n2.16 Dự phòng trợ cấp thời việc\n\nTheo Luật Lao động Việt Nam, người lao động của Công ty đã làm việc thường xuyên đủ 12 tháng trở lên được hưởng khoản trợ cấp thời việc. Thời gian làm việc để tính trợ cấp thời việc là tổng thời gian người lao động đã làm việc thực tế cho Công ty trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và thời gian làm việc đã được Công ty chỉ trả trợ cấp thời việc.\n\n16\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)\n\n2.16 Dự phòng trợ cấp thời việc (tiếp theo)\n\nTrợ cấp thời việc của người lao động được trích trước cuối mỗi kỳ báo cáo theo tỷ lệ bằng một nữa mức lương bình quân tháng cho mỗi năm làm việc. Mức lương bình quân tháng để tính trợ cấp thời việc dựa trên mức lương bình quân của sáu tháng gần nhất tính đến trước ngày lập bảng cân đối kế toán riêng này.\n\nKhoản trích trước này được sử dụng để trả một lần khi người lao động chấm dứt hợp đồng lao động theo quy định hiện hành.\n\n2.17 Vốn chủ sở hữu\n\nVốn góp chủ sở hữu được ghi nhận theo số thực tế góp của các cổ đông và được phần ánh theo mệnh giá của cổ phiếu.\n\nThặng dư vốn cổ phần là khoản chênh lệch giữa vốn góp theo mệnh giá cổ phiếu với giá thực tế phát hành cổ phiếu; chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tái phát hành cổ phiếu quỹ.\n\nLNST chưa phân phối phần ánh kết quả kinh doanh (lãi hoặc lỗ) sau thuế TNDN tại thời điểm báo cáo.\n\n2.18 Phân chia lợi nhuận\n\nCổ tức của Công ty được ghi nhận là một khoản phải trả trong các báo cáo tài chính riêng của kỳ kế toán mà cổ tức được thông qua tại Đại hội đồng Cổ đông.\n\nLNST TNDN có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt và sau khi đã trích lập các quỹ theo điều lệ của Công ty và các quy định của pháp luật Việt Nam.\n\nCông ty trích lập các quỹ sau:\n\n(a) Quỹ khen thưởng, phúc lợi\n\nQuỹ khen thưởng, phúc lợi được trích lập từ LNST của Công ty và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông thường niên. Quỹ được trình bày là một khoản phải trả trên bằng cân đối kế toán riêng. Quỹ này được sử dụng để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho nhân viên.\n\n(b) Quỹ đầu tư phát triển\n\nQuý đầu tư phát triển được trích lập từ LNST của Công ty và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông thường niên. Quý được sử dụng để phục vụ việc mở rộng hoạt động hoặc đầu tư chiều sâu của Công ty.\n\n(c) Quỹ khác thuộc vốn chủ sở hữu\n\nQuý khác thuộc chủ sở hữu được trích lập từ LNST của Công ty và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông thường niên. Quý này được sử dụng để bổ sung vốn điều lệ.\n\n17\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YÉU (tiếp theo)\n\n2.19 Ghi nhận doanh thu\n\n(a) Doanh thu bán hàng\n\nDoanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:\n\n- Công ty đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;\n\n- Công ty không còn nằm giữ quyền quản lý sản phẩm hoặc hàng hóa như người sở hữu sản phẩm hoặc hàng hóa hoặc quyền kiểm soát sản phẩm hoặc hàng hóa;\n\n- Doanh thu được xác định tương đối chắc chắn;\n\n• Công ty sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và\n\n• Xác định được chi phí liên quan đến giao dịch bán hàng.\n\nDoanh thu không được ghi nhận khi có yếu tố không chắc chắn mang tính trọng yếu về khả năng thu được tiền bán hàng hoặc khả năng hàng bán bị trả lại.\n\nDoanh thu được ghi nhận phù hợp với bản chất hơn hình thức và được phân bổ theo nghĩa vụ cung ứng hàng hóa. Trường hợp Công ty dùng sản phẩm, hàng hóa để khuyến mãi cho khách hàng kèm theo điều kiện mua hàng của Công ty thì Công ty phân bổ số tiền thu được để tính doanh thu cho cả hàng khuyến mãi và giá trị hàng khuyến mãi được tính vào giá vốn hàng bán.\n\n(b) Doanh thu cung cấp dịch vụ\n\nDoanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi dịch vụ đã được cung cấp, bằng cách tính mức độ hoàn thành của từng giao dịch, dựa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung cấp so với tổng khối lượng dịch vụ phải cung cấp. Doanh thu cung cấp dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn (4) điều kiện sau:\n\n- Doanh thu được xác định tương đối chắc chắn;\n\n• Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;\n\n- Xác định được phần công việc đã hoàn thành tại ngày của bằng cân đối kế toán riêng; và\n\n- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.\n\n(c) Thu nhập lãi\n\nThu nhập lãi được ghi nhận khi được hưởng.\n\n(d) Thu nhập từ cổ tức/lợi nhuận\n\nThu nhập từ cổ tức/lợi nhuận được ghi nhận khi Công ty xác lập quyền nhận cổ tức/lợi nhuận từ các đơn vị đầu tư.\n\n18\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU (tiếp theo)\n\n2.20 Các khoản giảm trừ doanh thu\n\nCác khoản giảm trừ doanh thu bao gồm chiết khấu thương mại, hàng bán bị trả lại và giảm giá hàng bán. Các khoản giảm trừ doanh thu phát sinh cùng kỳ tiêu thụ sản phẩm, hàng hóa, dịch vụ được ghi nhận điều chỉnh giảm doanh thu kỳ phát sinh.\n\nCác khoản giảm trừ doanh thu đối với sản phẩm, hàng hóa và dịch vụ tiêu thụ trong năm, phát sinh sau ngày của bằng cân đối kế toán riêng nhưng trước thời điểm phát hành báo cáo tài chính riêng được ghi nhận điều chỉnh giảm doanh thu của năm lập báo cáo.\n\n2.21 Giá vốn hàng bán và dịch vụ cung cấp\n\nGiá vốn hàng bán và dịch vụ cung cấp là tổng chi phí phát sinh của thành phẩm, hàng hóa, vật tư xuất bán và dịch vụ cung cấp cho khách hàng trong năm, được ghi nhận theo nguyên tắc phù hợp với doanh thu và nguyên tắc thận trọng.\n\n2.22 Chi phí tài chính\n\nChi phí tài chính phần ánh những khoản chi phí hoạt động tài chính phát sinh trong năm chủ yếu bao gồm chi phí lãi vay và lỗ chênh lệch tỷ giá hối đoái.\n\n2.23 Chi phí bán hàng\n\nChi phí bán hàng phần ánh các chi phí thực tế phát sinh trong quá trình bán sản phẩm, hàng hóa và cung cấp dịch vụ, chủ yếu bao gồm chi phí nhân viên, chi phí dịch vụ mua ngoài; chi phí khấu hao TSCĐ; và chi phí nguyên vật liệu.\n\n2.24 Chi phí quản lý doanh nghiệp\n\nChi phí quản lý doanh nghiệp phần ánh các chi phí quản lý chung của Công ty chủ yếu bao gồm chi phí nhân viên; chi phí dịch vụ mua ngoài và chi phí khấu hao TSCĐ.\n\n2.25 Thuế TNDN hiện hành và thuế TNDN hoãn lại\n\nThuế TNDN bao gồm toàn bộ số thuế TNDN tính trên thu nhập chịu thuế TNDN, kể cả các khoản thu nhập nhận được từ hoạt động sản xuất, kinh doanh hàng hóa dịch vụ tại nước ngoài mà Việt Nam chưa ký hiệp định về tránh đánh thuế hai lần. Chi phí thuế TNDN bao gồm chi phí thuế TNDN hiện hành và chi phí thuế TNDN hoãn lại.\n\nThuế TNDN hiện hành là số thuế TNDN doanh nghiệp phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế tại thuế suất thuế TNDN của năm hiện hành. Thuế TNDN hiện hành và thuế thu nhập hoãn lại được ghi nhận là thu nhập hay chi phí khi xác định lợi nhuận hoặc lỗ cửa kỳ phát sinh, ngoại trừ trường hợp thuế thu nhập phát sinh từ một giao dịch hoặc sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng kỳ hay một kỳ khác.\n\n19\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n2.25 Thuế TNDN hiện hành và thuế TNDN hoãn lại (tiếp theo)\n\nThuế TNDN hoãn lại được tính đầy đủ, sử dụng phương thức công nợ, tính trên các khoản chênh lệch tạm thời giữa giá trị ghi số của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính riêng và cơ sở tính thuế TNDN của các khoản mục này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch mà giao dịch này không phải là giao dịch sáp nhập doanh nghiệp, không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tính thuế thu nhập tại thời điểm phát sinh giao dịch. Thuế TNDN hoãn lại được tính theo thuế suất dự tính được áp dụng trong niên độ mà tài sản được thu hồi hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu lực tại ngày của bằng cân đối kế toán riêng.\n\nTài sản thuế thu nhập hoãn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế TNDN trong tương lai để sử dụng những chênh lệch tạm thời được khấu trừ.\n\n2.26 Các bên liên quan\n\nCác doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Công ty hoặc chịu sự kiểm soát của Công ty, hoặc cùng chung sự kiểm soát với Công ty, bao gồm cả công ty mẹ, công ty con và công ty liên kết là các bên liên quan. Các bên liên kết, các cá nhân trực tiếp hoặc gián tiếp nằm quyền biểu quyết của Công ty mà có ảnh hưởng đáng kể đối với Công ty, những cá nhân quản lý chủ chất bao gồm Giám đốc Công ty, những thành viên mật thiết trong gia đình của các cá nhân này hoặc các bên liên kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan.\n\nTrong việc xem xét từng mối quan hệ của các bên liên quan, Công ty căn cứ vào bản chất của mối quan hệ chú không chỉ hình thức pháp lý của các quan hệ đó.\n\n2.27 U'óc tính kê toán\n\nViệc lập báo cáo tài chính riêng tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định hiện hành khác có liên quan đến lập và trình bày báo cáo tài chính riêng yêu cầu Ban Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày kết thúc niên độ kế toán cũng như các số liệu về doanh thu và chi phí trong suốt năm tài chính.\n\nCác ước tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính bao gồm:\n\n• Thời gian hữu dụng ước tính của TSCĐ (Thuyết minh 2.9);\n\n• Dự phòng phải thu khó đòi (Thuyết minh 2.6);\n\n• Dự phòng giảm giá hàng tồn kho (Thuyết minh 2.7);\n\n- Dự phòng giảm giá chứng khoán kinh doanh và dự phòng đầu tư tài chính dài hạn (Thuyết minh 2.8); và\n\n• Chi phí phải trả và các khoản dự phòng (Thuyết minh 2.14, 2.15, 2.16).\n\nCác ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khứ và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính riêng của Công ty và được Ban Giám đốc đánh giá là hợp lý.\n\n20\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n3 TIỀN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIỀN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VND",
+                "2": "2018VND"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "1.010.267.195",
+                "2": "1.229.864.034"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "58.457.856.737",
+                "2": "210.427.180.531"
+            },
+            {
+                "0": "Các khoản tương đương tiền (*)",
+                "1": "12.375.202.657",
+                "2": "241.737.374.687"
+            },
+            {
+                "0": "",
+                "1": "71.843.326.589",
+                "2": "453.394.419.252"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_10",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "(*) Các khoản tương đương tiền bao gồm tiền gửi ngân hàng có kỳ hạn đáo hạn ban đầu không quá 3 tháng.\n\n4 ĐẦU TƯ TÀI CHÍNH\n\n(a) Chứng khoán kinh doanh",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019",
+                "2": "2019",
+                "3": "2018",
+                "4": "2018"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc VND",
+                "2": "Giá trị hợp lý VND",
+                "3": "Giá gốc VND",
+                "4": "Giá trị hợp lý VND"
+            },
+            {
+                "0": "Cổ phiếu",
+                "1": "9.353.176",
+                "2": "43.104.100",
+                "3": "9.353.176",
+                "4": "32.129.600"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc VND",
+                "2": "Giá trị ghi số VND",
+                "3": "Giá gốc VND",
+                "4": "Giá trị ghi số VND"
+            },
+            {
+                "0": "i. Ngắn hạn",
+                "1": "i. Ngắn hạn",
+                "2": "i. Ngắn hạn",
+                "3": "i. Ngắn hạn",
+                "4": "i. Ngắn hạn"
+            },
+            {
+                "0": "Tiền gửi có kỳ hạn (*)",
+                "1": "401.737.991.164",
+                "2": "401.737.991.164",
+                "3": "197.625.969.870",
+                "4": "197.625.969.870"
+            },
+            {
+                "0": "Trái phiếu (***)",
+                "1": "300.414.287.671",
+                "2": "300.414.287.671",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "702.152.278.835",
+                "2": "702.152.278.835",
+                "3": "197.625.969.870",
+                "4": "197.625.969.870"
+            },
+            {
+                "0": "ii.Dài hạn",
+                "1": "ii.Dài hạn",
+                "2": "ii.Dài hạn",
+                "3": "ii.Dài hạn",
+                "4": "ii.Dài hạn"
+            },
+            {
+                "0": "Tiền gửi có kỳ hạn (**)",
+                "1": "1.000.000.000",
+                "2": "1.000.000.000",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Trái phiếu (***)",
+                "1": "47.370.000.000",
+                "2": "47.370.000.000",
+                "3": "9.190.000.000",
+                "4": "9.190.000.000"
+            },
+            {
+                "0": "",
+                "1": "48.370.000.000",
+                "2": "48.370.000.000",
+                "3": "9.190.000.000",
+                "4": "9.190.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_11",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "(*) Các khoản tiền gửi ngân hàng có kỳ hạn là các khoản tiền gửi có kỳ hạn trên 3 tháng và không quá 12 tháng và hưởng lãi suất cố định bằng Đồng Việt Nam.\n\n(**) Các khoản tiền gửi ngân hàng có kỳ hạn là các khoản tiền gửi có kỳ hạn còn lại trên 12 tháng và hướng lãi suất cố định bằng Đồng Việt Nam.\n\n(***) Số dư thể hiện trái phiếu được phát hành bởi các ngân hàng thương mại ở Việt Nam và hưởng lãi suất từ 6,84% đến 8,20%/năm.\n\n21\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n4 ĐẦU TƯ TÀI CHÍNH (tiếp theo)\n\n(c) Đầu tư vào công ty con",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019",
+                "2": "2019",
+                "3": "2018",
+                "4": "2018"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc VND",
+                "2": "Dự phòng VND",
+                "3": "Giá gốc VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Công ty TNHH Một Thành Viên Óng thép Nam Kim",
+                "1": "79.000.000.000",
+                "2": "-",
+                "3": "79.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty TNHH Một Thành Viên Nam Kim Corea",
+                "1": "-",
+                "2": "-",
+                "3": "72.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "79.000.000.000",
+                "2": "-",
+                "3": "151.000.000.000",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_12",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2019 và ngày 31 tháng 12 năm 2018, Công ty chưa xác định được giá trị hợp lý cửa các khoản đầu tư tài chính này để thuyết minh trên báo cáo tài chính riêng vì các khoản đầu tư này không có giá niêm yết trên thị trường.\n\n5 PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VND",
+                "2": "2018VND"
+            },
+            {
+                "0": "Bên thứ ba",
+                "1": "588.905.584.559",
+                "2": "535.971.560.947"
+            },
+            {
+                "0": "PT. Cahaya",
+                "1": "112.040.691.498",
+                "2": "-"
+            },
+            {
+                "0": "Khác",
+                "1": "476.864.893.061",
+                "2": "535.971.560.947"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 30(b))",
+                "1": "345.943.692.183",
+                "2": "240.494.504.805"
+            },
+            {
+                "0": "",
+                "1": "934.849.276.742",
+                "2": "776.466.065.752"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_13",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2019 và ngày 31 tháng 12 năm 2018, số dư các khoản phải thu ngắn hạn của khách hàng đã quá hạn thanh toán là 2.358.351.426 đồng, đã được lập dự phòng toàn bộ.\n\n6 TRÀ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VND",
+                "2": "2018VND"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư Xây dựng Giải trí Đại Dương",
+                "1": "164.778.814.382",
+                "2": "119.183.058.032"
+            },
+            {
+                "0": "Khác",
+                "1": "6.175.327.636",
+                "2": "7.735.868.737"
+            },
+            {
+                "0": "",
+                "1": "170.954.142.018",
+                "2": "126.918.926.769"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_14",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "22\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n7 PHẢI THU KHÁC\n\n(a) Ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2019VNĐ",
+                "3": "2018VNĐ"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "2019VNĐ",
+                "3": "2018VNĐ"
+            },
+            {
+                "0": "Lãi tiền gửi và trái phiếu",
+                "1": "Lãi tiền gửi và trái phiếu",
+                "2": "9.611.141.786",
+                "3": "-"
+            },
+            {
+                "0": "Tạm ứng",
+                "1": "Tạm ứng",
+                "2": "3.283.099.110",
+                "3": "1.036.772.941"
+            },
+            {
+                "0": "Ký quỹ, ký cược",
+                "1": "Ký quỹ, ký cược",
+                "2": "465.200.000",
+                "3": "466.000.000"
+            },
+            {
+                "0": "Khác",
+                "1": "Khác",
+                "2": "1.854.096.445",
+                "3": "1.788.193.411"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "15.213.537.341",
+                "3": "3.290.966.352"
+            },
+            {
+                "0": "(b)",
+                "1": "Dài hạn",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "2019VNĐ",
+                "3": "2018VNĐ"
+            },
+            {
+                "0": "",
+                "1": "Ký quỹ, ký cược",
+                "2": "3.453.843.850",
+                "3": "3.435.857.850"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_15",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2019 và ngày 31 tháng 12 năm 2018, Công ty không có khoản phải thu khác nào quá hạn hoặc chưa quá hạn nhưng khó có khả năng thu hồi.\n\n8 HÀNG TÔN KHO",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019",
+                "2": "2019",
+                "3": "2018",
+                "4": "2018"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc VND",
+                "2": "Dự phòng VND",
+                "3": "Giá gốc VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Hàng mua đang đi trên đường",
+                "1": "508.987.546.243",
+                "2": "-",
+                "3": "1.516.683.536",
+                "4": "-"
+            },
+            {
+                "0": "Nguyên vật liệu",
+                "1": "699.789.457.074",
+                "2": "-",
+                "3": "708.341.674.265",
+                "4": "-"
+            },
+            {
+                "0": "Công cụ, dụng cụ",
+                "1": "135.129.936.121",
+                "2": "-",
+                "3": "119.798.774.298",
+                "4": "-"
+            },
+            {
+                "0": "Chi phí sản xuất kinh doanh dở dang",
+                "1": "8.046.782.820",
+                "2": "-",
+                "3": "7.878.203.180",
+                "4": "-"
+            },
+            {
+                "0": "Thành phẩm",
+                "1": "1.048.205.862.205",
+                "2": "-",
+                "3": "1.416.074.625.937",
+                "4": "-"
+            },
+            {
+                "0": "Hàng hóa",
+                "1": "155.469.293",
+                "2": "-",
+                "3": "157.692.866",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "2.400.315.053.756",
+                "2": "-",
+                "3": "2.253.767.654.082",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_16",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "23\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n9 CHI PHÍ TRÀ TRƯỚC\n\n(a) Ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VNĐ",
+                "2": "2018VNĐ"
+            },
+            {
+                "0": "Công cụ, dụng cụ xuất dùng",
+                "1": "23.042.849.494",
+                "2": "22.237.924.457"
+            },
+            {
+                "0": "Chi phí quảng cáo",
+                "1": "880.610.192",
+                "2": "2.623.590.880"
+            },
+            {
+                "0": "Chi phí bảo hiểm",
+                "1": "2.101.093.624",
+                "2": "1.528.641.105"
+            },
+            {
+                "0": "",
+                "1": "26.024.553.310",
+                "2": "26.390.156.442"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "26.390.156.442",
+                "2": "36.201.052.007"
+            },
+            {
+                "0": "Tăng",
+                "1": "62.981.353.902",
+                "2": "57.636.419.754"
+            },
+            {
+                "0": "Phân bổ",
+                "1": "(63.346.957.034)",
+                "2": "(67.447.315.319)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "26.024.553.310",
+                "2": "26.390.156.442"
+            },
+            {
+                "0": "Công cụ, dụng cụ xuất dùng",
+                "1": "33.530.455.364",
+                "2": "27.430.710.101"
+            },
+            {
+                "0": "Chi phí quảng cáo",
+                "1": "6.024.584.830",
+                "2": "3.095.784.166"
+            },
+            {
+                "0": "Chi phí sửa chữa, đại tu nhà xưởng",
+                "1": "30.729.023.851",
+                "2": "742.566.018"
+            },
+            {
+                "0": "",
+                "1": "70.284.064.045",
+                "2": "31.269.060.285"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "31.269.060.285",
+                "2": "25.000.083.547"
+            },
+            {
+                "0": "Tăng",
+                "1": "65.707.937.809",
+                "2": "25.265.762.873"
+            },
+            {
+                "0": "Phân bổ trong năm",
+                "1": "(26.692.934.049)",
+                "2": "(18.996.786.135)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "70.284.064.045",
+                "2": "31.269.060.285"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_17",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "24\n\n\n\nCÔNG TY CỔ PHẦN THẾP NAM KIM",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nhà cửa,vật kiến trúcVND",
+                "2": "Máy móc,thiết bịVND",
+                "3": "Phương tiệnvận tảiVND",
+                "4": "Thiết bịquản lýVND",
+                "5": "TSCĐ khácVND",
+                "6": "Tổng cộngVND"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá",
+                "3": "Nguyên giá",
+                "4": "Nguyên giá",
+                "5": "Nguyên giá",
+                "6": "Nguyên giá"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2019",
+                "1": "639.179.001.549",
+                "2": "3.531.594.079.260",
+                "3": "246.002.627.432",
+                "4": "6.962.606.336",
+                "5": "985.089.600",
+                "6": "4.424.723.404.177"
+            },
+            {
+                "0": "Mua trong năm",
+                "1": "-",
+                "2": "3.350.844.700",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "3.350.844.700"
+            },
+            {
+                "0": "Chuyển từ chi phí xây dựng cơ bảnđở dang",
+                "1": "43.385.554.106",
+                "2": "199.411.422.054",
+                "3": "615.000.000",
+                "4": "8.768.157.984",
+                "5": "-",
+                "6": "252.180.134.144"
+            },
+            {
+                "0": "Thanh lý, nhượng bán",
+                "1": "(52.223.037.860)",
+                "2": "(187.275.106.293)",
+                "3": "(2.117.370.945)",
+                "4": "(1.310.320.649)",
+                "5": "(259.336.120)",
+                "6": "(243.185.171.867)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2019",
+                "1": "630.341.517.795",
+                "2": "3.547.081.239.721",
+                "3": "244.500.256.487",
+                "4": "14.420.443.671",
+                "5": "725.753.480",
+                "6": "4.437.069.211.154"
+            },
+            {
+                "0": "Giá trị khấu hao lũy kế",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "Giá trị khấu hao lũy kế",
+                "3": "Giá trị khấu hao lũy kế",
+                "4": "Giá trị khấu hao lũy kế",
+                "5": "Giá trị khấu hao lũy kế",
+                "6": "Giá trị khấu hao lũy kế"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2019",
+                "1": "171.981.338.483",
+                "2": "1.062.314.893.032",
+                "3": "57.139.536.487",
+                "4": "4.700.810.851",
+                "5": "561.691.863",
+                "6": "1.296.698.270.716"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "50.301.119.533",
+                "2": "346.110.730.230",
+                "3": "17.526.934.032",
+                "4": "1.192.937.708",
+                "5": "50.204.640",
+                "6": "415.181.926.143"
+            },
+            {
+                "0": "Thanh lý, nhượng bán",
+                "1": "(25.247.427.937)",
+                "2": "(162.731.159.638)",
+                "3": "(1.570.501.779)",
+                "4": "(1.310.320.649)",
+                "5": "(259.336.120)",
+                "6": "(191.118.746.123)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2019",
+                "1": "197.035.030.079",
+                "2": "1.245.694.463.624",
+                "3": "73.095.968.740",
+                "4": "4.583.427.910",
+                "5": "352.560.383",
+                "6": "1.520.761.450.736"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại",
+                "3": "Giá trị còn lại",
+                "4": "Giá trị còn lại",
+                "5": "Giá trị còn lại",
+                "6": "Giá trị còn lại"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2019",
+                "1": "467.197.663.066",
+                "2": "2.469.279.186.228",
+                "3": "188.863.090.945",
+                "4": "2.261.795.485",
+                "5": "423.397.737",
+                "6": "3.128.025.133.461"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2019",
+                "1": "433.306.487.716",
+                "2": "2.301.386.776.097",
+                "3": "171.404.287.747",
+                "4": "9.837.015.761",
+                "5": "373.193.097",
+                "6": "2.916.307.760.418"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_18",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "25\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n10 TSCĐ (tiếp theo)\n\n(a) TSCĐ hữu hình (tiếp theo)\n\nTại ngày 31 tháng 12 năm 2019, TSCĐ hữu hình của Công ty với tổng giá trị còn lại là 2.573 tỷ đồng (tại ngày 31 tháng 12 năm 2018: 3.088 tỷ đồng) đã được dùng để làm tài sản thế chấp cho các khoản vay từ các ngân hàng (Thuyết minh 15).\n\nNguyên giá TSCĐ hữu hình của Công ty đã khấu hao hết nhưng còn sử dụng tại ngày 31 tháng 12 năm 2019 là 8,7 tỷ đồng (tại ngày 31 tháng 12 năm 2018: 142 tỷ đồng).\n\n(b) TSCĐ thuê tài chính\n\nMáy móc\n\nthiết bị\n\nVND\n\nNguyên giá\n\nTại ngày 1 tháng 1 năm 2019\n\nChuyển từ chi phí xây dựng cơ bản đồ dang\n\n169.433.832.365\n\nTại ngày 31 tháng 12 năm 2019\n\n169.433.832.365\n\nKhâu hao lũy ké\n\nTại ngày 1 tháng 1 năm 2019\n\nKhâu hao trong năm\n\n7.500.028.062\n\nTại ngày 31 tháng 12 năm 2019\n\n7.500.028.062\n\nGiá trị còn lại\n\nTại ngày 1 tháng 1 năm 2019\n\nTại ngày 31 tháng 12 năm 2019\n\n161.933.804.303\n\nTại ngày 31 tháng 12 năm 2019, tài sản cố định thuê tài chính của Công ty với tổng giá trị còn lại là 161,9 tỷ đồng đã được dùng để làm tài sản thế chấp cho nợ thuê tài chính từ Công ty Trách nhiệm Hữu hạn Một Thành viên Cho thuê Tài chính Ngân hàng TMCP Ngoại thương Việt Nam (Thuyết minh 15).\n\n26\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n10 TSCĐ (tiếp theo)\n\n(c) TSCĐ vô hình",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Quyền sử dụng đất VND",
+                "2": "Phần mềm vi tính VND",
+                "3": "Tổng cộng VND"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá",
+                "3": "Nguyên giá"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2019",
+                "1": "222.620.887.677",
+                "2": "135.600.000",
+                "3": "222.756.487.677"
+            },
+            {
+                "0": "Thanh lý, nhượng bán",
+                "1": "(9.410.617.869)",
+                "2": "-",
+                "3": "(9.410.617.869)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2019",
+                "1": "213.210.269.808",
+                "2": "135.600.000",
+                "3": "213.345.869.808"
+            },
+            {
+                "0": "Khấu hao lũy kế",
+                "1": "Khấu hao lũy kế",
+                "2": "Khấu hao lũy kế",
+                "3": "Khấu hao lũy kế"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2019",
+                "1": "16.845.779.940",
+                "2": "135.600.000",
+                "3": "16.981.379.940"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "5.429.839.620",
+                "2": "-",
+                "3": "5.429.839.620"
+            },
+            {
+                "0": "Thanh lý, nhượng bán",
+                "1": "(2.784.774.648)",
+                "2": "-",
+                "3": "(2.784.774.648)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2019",
+                "1": "19.490.844.912",
+                "2": "135.600.000",
+                "3": "19.626.444.912"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại",
+                "3": "Giá trị còn lại"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2019",
+                "1": "205.775.107.737",
+                "2": "-",
+                "3": "205.775.107.737"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2019",
+                "1": "193.719.424.896",
+                "2": "-",
+                "3": "193.719.424.896"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_19",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2019, TSCĐ vô hình của Công ty với tổng giá trị còn lại là 193 tỷ đồng (tại ngày 31 tháng 12 năm 2018: 205 tỷ đồng) đã được dùng để làm tài sản thế chấp cho các khoản Công ty vay tại các ngân hàng (Thuyết minh 15).\n\nNguyên giá TSCĐ vô hình của Công ty đã khấu hao hết nhưng còn sử dụng tại ngày 31 tháng 12 năm 2019 và ngày 31 tháng 12 năm 2018 là 135.600.000 đồng.\n\n11 CHI PHÍ XÂY DỰNG CO' BẢN DỒ' DANG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VNĐ",
+                "2": "2018VNĐ"
+            },
+            {
+                "0": "Mua sắm tài sản cố định",
+                "1": "14.402.142.001",
+                "2": "12.140.471.001"
+            },
+            {
+                "0": "Xây dựng nhà máy thép Nam Kim 3",
+                "1": "34.668.464.990",
+                "2": "367.002.901.401"
+            },
+            {
+                "0": "",
+                "1": "49.070.606.991",
+                "2": "379.143.372.402"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_20",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "27\n\n\n\nCÔNG TY CÓ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n11 CHI PHÍ XÂY DỰNG CO' BẢN DỒ' DANG (tiếp theo)\n\nBiến động chi phí xây dựng cơ bản đồ dang trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VNĐ",
+                "2": "2018VNĐ"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "379.143.372.402",
+                "2": "132.468.728.199"
+            },
+            {
+                "0": "Mua sắm",
+                "1": "91.541.201.098",
+                "2": "287.276.506.389"
+            },
+            {
+                "0": "Chuyển sang TSCĐ (Thuyết minh 10)",
+                "1": "(421.613.966.509)",
+                "2": "(40.601.862.186)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "49.070.606.991",
+                "2": "379.143.372.402"
+            },
+            {
+                "0": "Công ty TNHH Gang Thép Hưng Nghiệp Formosa Hà Tĩnh",
+                "1": "672.481.052.760",
+                "2": "176.658.719.655"
+            },
+            {
+                "0": "Arcelormittal Singapore Private Limited",
+                "1": "346.586.512.398",
+                "2": "-"
+            },
+            {
+                "0": "Nippon Steel Trading Co., Ltd.",
+                "1": "314.368.737.405",
+                "2": "-"
+            },
+            {
+                "0": "Rich Fortune Int'L Industrial Limited",
+                "1": "-",
+                "2": "139.629.252.616"
+            },
+            {
+                "0": "Khác",
+                "1": "482.243.875.918",
+                "2": "229.759.343.653"
+            },
+            {
+                "0": "",
+                "1": "1.815.680.178.481",
+                "2": "546.047.315.924"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_21",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2019 và 31 tháng 12 năm 2018, Công ty không có khoản phải trả người bán ngắn hạn nào bị quá hạn thanh toán.\n\n28\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n13 THUẾ VÀ CÁC KHOÀN PHÀI PHÀI NỘP NHÀ NƯỚC\n\nBiến động về thuế và các khoản phải nộp Nhà nước như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày 1.1.2019",
+                "2": "Tại ngày 1.1.2019",
+                "3": "Phải nộp trong năm VND",
+                "4": "Số đã thực nộp trong năm VND",
+                "5": "Tại ngày 31.12.2019",
+                "6": "Tại ngày 31.12.2019"
+            },
+            {
+                "0": "",
+                "1": "Phải thu VND",
+                "2": "Phải nộp",
+                "3": "Phải nộp trong năm VND",
+                "4": "Số đã thực nộp trong năm VND",
+                "5": "Phải thu",
+                "6": "Phải nộp VND"
+            },
+            {
+                "0": "Thuế GTGT hàng nhập khẩu",
+                "1": "20.843.612",
+                "2": "-",
+                "3": "565.701.807.018",
+                "4": "555.783.071.291",
+                "5": "9.939.579.339",
+                "6": "-"
+            },
+            {
+                "0": "Thuế xuất, nhập khẩu",
+                "1": "-",
+                "2": "-",
+                "3": "4.310.971.958",
+                "4": "4.310.971.958",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Thuế TNDN",
+                "1": "1.866.727.526",
+                "2": "-",
+                "3": "42.393.419.864",
+                "4": "42.393.419.864",
+                "5": "1.866.727.526",
+                "6": "-"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "-",
+                "2": "272.125.570",
+                "3": "4.821.199.817",
+                "4": "5.307.889.130",
+                "5": "-",
+                "6": "758.814.883"
+            },
+            {
+                "0": "Các loại thuế khác",
+                "1": "-",
+                "2": "-",
+                "3": "711.472.458",
+                "4": "711.472.458",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "",
+                "1": "1.887.571.138",
+                "2": "272.125.570",
+                "3": "617.938.871.115",
+                "4": "608.506.824.701",
+                "5": "11.806.306.865",
+                "6": "758.814.883"
+            },
+            {
+                "0": "14 CHI PHÍ PHẢI TRẢ NGÁN HẠN",
+                "1": "14 CHI PHÍ PHẢI TRẢ NGÁN HẠN",
+                "2": "14 CHI PHÍ PHẢI TRẢ NGÁN HẠN",
+                "3": "14 CHI PHÍ PHẢI TRẢ NGÁN HẠN",
+                "4": "14 CHI PHÍ PHẢI TRẢ NGÁN HẠN",
+                "5": "14 CHI PHÍ PHẢI TRẢ NGÁN HẠN",
+                "6": "14 CHI PHÍ PHẢI TRẢ NGÁN HẠN"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "2019VND",
+                "6": "2018VND"
+            },
+            {
+                "0": "Chi phí quảng cáo",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "2.826.874.200",
+                "6": "3.910.532.600"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "6.602.484.747",
+                "6": "12.298.786.141"
+            },
+            {
+                "0": "Khác",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "1.079.961.091",
+                "6": "2.285.276.536"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "10.509.320.038",
+                "6": "18.494.595.277"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_22",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "29\n\n151\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n15 VAY VÀ NỘ THUÊ TÀI CHÍNH\n\n(a) Ngắn hạn",
+        "dataframe": [
+            {
+                "0": "Tại ngày1.1.2019VND",
+                "1": "TăngVND",
+                "2": "GiảmVND",
+                "3": "Nợ dài hạnđến hạn trảVND",
+                "4": "Tại ngày31.12.2019VND"
+            },
+            {
+                "0": "3.149.689.338.222",
+                "1": "8.963.696.822.169",
+                "2": "(9.908.008.681.568)",
+                "3": "132.100.000.000",
+                "4": "2.337.477.478.823"
+            },
+            {
+                "0": "21.459.543.444",
+                "1": "-",
+                "2": "(21.551.624.950)",
+                "3": "21.652.077.502",
+                "4": "21.559.995.996"
+            },
+            {
+                "0": "3.171.148.881.666",
+                "1": "8.963.696.822.169",
+                "2": "(9.929.560.306.518)",
+                "3": "153.752.077.502",
+                "4": "2.359.037.474.819"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_23",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Vay ngân hàng (*)\n\nNợ thuê tài chính\n\n(Thuyết minh 15(c))\n\n(*) Chi tiết các khoản vay ngân hàng tại ngày 31 tháng 12 năm 2019 như sau:",
+        "dataframe": [
+            {
+                "0": "Ngân hàng",
+                "1": "Giá trị (VND)",
+                "2": "Tiền tệ gốc",
+                "3": "Đáo hạn",
+                "4": "Hình thức đảm bảo"
+            },
+            {
+                "0": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+                "1": "257.884.479.438",
+                "2": "USD",
+                "3": "từ tháng 3 đến tháng 4 năm 2020",
+                "4": "Nhà cửa, vật kiến trúc; máy móc, thiết bị; phương tiện vận tải; dụng cụ quản lý; và tín chấp"
+            },
+            {
+                "0": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+                "1": "1.379.587.545.296",
+                "2": "VND",
+                "3": "từ tháng 2 đến tháng 6 năm 2020",
+                "4": "Nhà cửa, vật kiến trúc; máy móc, thiết bị; phương tiện vận tải; dụng cụ quản lý; và tín chấp"
+            },
+            {
+                "0": "Ngân hàng Thương mại Cổ phần Công thương Việt Nam",
+                "1": "388.149.475.777",
+                "2": "USD",
+                "3": "từ tháng 1 đến tháng 6 năm 2020",
+                "4": "Hàng tồn kho luân chuyển; và tín chấp"
+            },
+            {
+                "0": "Nợ dài hạn đến hạn trả VND",
+                "1": "9.889.818.337",
+                "2": "VND",
+                "3": "tháng 3 năm 2020",
+                "4": "Tín chấp"
+            },
+            {
+                "0": "Nợ dài hạn đến hạn trả VND",
+                "1": "700.000.000",
+                "2": "VND",
+                "3": "từ tháng 3 đến tháng 12 năm 2020",
+                "4": "Tín chấp"
+            },
+            {
+                "0": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+                "1": "47.254.819.096",
+                "2": "USD",
+                "3": "từ tháng 2 đến tháng 6 năm 2020",
+                "4": "Máy móc thiết bị; và tín chấp"
+            },
+            {
+                "0": "Ngân hàng Trách nhiệm Hữu hạn Một Thành Viên HSBC (Việt Nam)",
+                "1": "156.053.168.355",
+                "2": "VND",
+                "3": "tháng 6 năm 2020",
+                "4": ""
+            },
+            {
+                "0": "Ngân hàng Trách nhiệm Hữu hạn Một Thành Viên HSBC (Việt Nam)",
+                "1": "97.958.172.524",
+                "2": "VND",
+                "3": "từ tháng 2 đến tháng 3 năm 2020",
+                "4": "Nguyên vật liệu; và thành phẩm"
+            },
+            {
+                "0": "",
+                "1": "2.337.477.478.823",
+                "2": "",
+                "3": "",
+                "4": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_24",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Lãi suất cho các khoản vay VND và USD từ 4,20%/năm đến 6,00%/năm và từ 2,80%/năm đến 3,95%/năm.\n\n30\n\n\n\nCÔNG TY CÓ PHÀN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n15 VAY VÀ NỘ THUÊ TÀI CHÍNH (tiếp theo)\n(b) Dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày1.1.2019VNĐ",
+                "2": "TăngVNĐ",
+                "3": "GiảmVNĐ",
+                "4": "Nợ dai hạnđến hạn trảVNĐ",
+                "5": "Tại ngày31.12.2019VNĐ"
+            },
+            {
+                "0": "Vay ngân hàng (*)",
+                "1": "1.072.648.127.416",
+                "2": "-",
+                "3": "(338.600.000.000)",
+                "4": "(132.100.000.000)",
+                "5": "601.948.127.416"
+            },
+            {
+                "0": "Nợ thuê tài chính(Thuyết minh 15(c))",
+                "1": "67.955.220.879",
+                "2": "410.181.270",
+                "3": "-",
+                "4": "(21.652.077.502)",
+                "5": "46.713.324.647"
+            },
+            {
+                "0": "",
+                "1": "1.140.603.348.295",
+                "2": "410.181.270",
+                "3": "(338.600.000.000)",
+                "4": "(153.752.077.502)",
+                "5": "648.661.452.063"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_25",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "31\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN",
+        "dataframe": [
+            {
+                "0": "15",
+                "1": "VAY VÀ NỘ THUÊ TÀI CHÍNH (tiếp theo)"
+            },
+            {
+                "0": "(c)",
+                "1": "Nợ thuê tài chính"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_26",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019",
+                "2": "2019",
+                "3": "2019",
+                "4": "2018",
+                "5": "2018",
+                "6": "2018"
+            },
+            {
+                "0": "",
+                "1": "Tổng nợ thuê tài chính VND",
+                "2": "Chi phí lãi thuê VND",
+                "3": "Nợ gốc VND",
+                "4": "Tổng nợ thuê tài chính VND",
+                "5": "Chi phí lãi thuê VND",
+                "6": "Nợ gốc VND"
+            },
+            {
+                "0": "Trong vòng 1 năm",
+                "1": "27.306.494.134",
+                "2": "5.746.498.138",
+                "3": "21.559.995.996",
+                "4": "31.047.587.972",
+                "5": "9.588.044.528",
+                "6": "21.459.543.444"
+            },
+            {
+                "0": "Từ 1 - 5 năm",
+                "1": "51.843.541.453",
+                "2": "5.130.216.806",
+                "3": "46.713.324.647",
+                "4": "78.271.280.413",
+                "5": "10.316.059.534",
+                "6": "67.955.220.879"
+            },
+            {
+                "0": "",
+                "1": "79.150.035.587",
+                "2": "10.876.714.944",
+                "3": "68.273.320.643",
+                "4": "109.318.868.385",
+                "5": "19.904.104.062",
+                "6": "89.414.764.323"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_27",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "32\n\n\n\nCÔNG TY CÓ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n16 QUỸ KHEN THƯỜNG, PHÚC LỢI\n\nBiến động quỹ khen thưởng, phúc lợi trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VNĐ",
+                "2": "2018VNĐ"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "48.426.380.192",
+                "2": "27.904.290.610"
+            },
+            {
+                "0": "Trích quỹ",
+                "1": "1.720.035.719",
+                "2": "21.225.369.582"
+            },
+            {
+                "0": "Chi quỹ",
+                "1": "(661.500.000)",
+                "2": "(703.280.000)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "49.484.915.911",
+                "2": "48.426.380.192"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_28",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "17 VÓN GÓP CỦA CHỦ SỞ HỮU\n\n(a) Số lượng cổ phiếu phổ thông",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019",
+                "2": "2018"
+            },
+            {
+                "0": "Số lượng cổ phiếu đăng ký",
+                "1": "181.999.868",
+                "2": "181.999.868"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã phát hành",
+                "1": "181.999.868",
+                "2": "181.999.868"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã mua lại",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Số lượng cổ phiếu đang lưu hành",
+                "1": "181.999.868",
+                "2": "181.999.868"
+            },
+            {
+                "0": "",
+                "1": "Cổ phiếu phổ thông",
+                "2": "Cổ phiếu phổ thông"
+            },
+            {
+                "0": "",
+                "1": "Số cổ phiếu",
+                "2": "VND"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2018",
+                "1": "130.000.000",
+                "2": "1.300.000.000.000"
+            },
+            {
+                "0": "Cổ phiếu mới phát hành",
+                "1": "51.999.868",
+                "2": "519.998.680.000"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2018",
+                "1": "181.999.868",
+                "2": "1.819.998.680.000"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2019",
+                "1": "181.999.868",
+                "2": "1.819.998.680.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_29",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "Mệnh giá cổ phiếu: 10.000 đồng trên một cổ phiếu.\n\n33\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n18 TÌNH HÌNH TĂNG GIÀM VỐN CHỦ SỞ HỮU",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn góp của chủ sở hữu VND",
+                "2": "Thặng dư vốn cổ phần VND",
+                "3": "Quỹ đầu tư phát triển VND",
+                "4": "Quỹ khác thuộc vốn chủ sở hữu VND",
+                "5": "LNST chưa phân phối VND",
+                "6": "Tổng cộng VND"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2018",
+                "1": "1.300.000.000.000",
+                "2": "766.255.590.000",
+                "3": "23.207.319.954",
+                "4": "20.437.676.048",
+                "5": "798.789.988.060",
+                "6": "2.908.690.574.062"
+            },
+            {
+                "0": "Vốn tăng trong năm",
+                "1": "519.998.680.000",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(519.998.680.000)",
+                "6": "-"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "48.548.556.624",
+                "6": "48.548.556.624"
+            },
+            {
+                "0": "Trích quỹ khen thưởng, phúc lợi",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(21.225.369.582)",
+                "6": "(21.225.369.582)"
+            },
+            {
+                "0": "Trích quỹ đầu tư phát triển",
+                "1": "-",
+                "2": "-",
+                "3": "14.150.246.388",
+                "4": "-",
+                "5": "(14.150.246.388)",
+                "6": "-"
+            },
+            {
+                "0": "Trích quỹ khác thuộc vốn chủ sở hữu",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "14.150.246.388",
+                "5": "(14.150.246.388)",
+                "6": "-"
+            },
+            {
+                "0": "Trích thưởng vượt kế hoạch 2017",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(5.375.697.692)",
+                "6": "(5.375.697.692)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2018",
+                "1": "1.819.998.680.000",
+                "2": "766.255.590.000",
+                "3": "37.357.566.342",
+                "4": "34.587.922.436",
+                "5": "272.438.304.634",
+                "6": "2.930.638.063.412"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "91.524.341.350",
+                "6": "91.524.341.350"
+            },
+            {
+                "0": "Trích quỹ khen thưởng, phúc lợi (*)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(1.720.035.719)",
+                "6": "(1.720.035.719)"
+            },
+            {
+                "0": "Trích quỹ đầu tư phát triển (*)",
+                "1": "-",
+                "2": "-",
+                "3": "1.146.690.479",
+                "4": "-",
+                "5": "(1.146.690.479)",
+                "6": "-"
+            },
+            {
+                "0": "Trích quỹ khác thuộc vốn chủ sở hữu (*)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "1.146.690.479",
+                "5": "(1.146.690.479)",
+                "6": "-"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2019",
+                "1": "1.819.998.680.000",
+                "2": "766.255.590.000",
+                "3": "38.504.256.821",
+                "4": "35.734.612.915",
+                "5": "359.949.229.307",
+                "6": "3.020.442.369.043"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_30",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "(*) Theo Nghị quyết Đại hội đồng Cổ đông thường niên ngày 29 tháng 6 năm 2019, Công ty đã trích lập quỹ khen thường, phúc lợi, quỹ khác thuộc vốn chủ sở hữu và quỹ đầu tư phát triển lần lượt theo tỷ lệ 3%, 2% và 2% từ nguồn LNST chưa phân phối năm 2018.\n\n34\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n19 CÁC KHOÀN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG\n\n(a) Cam kết thuê hoạt động\n\nTổng số tiền thuê tối thiểu trong tương lai của hợp đồng thuê hoạt động tài sản không hủy ngang được trình bày tại Thuyết minh 31.\n\n(b) Ngoại tệ các loại\n\nKhoản mục tiền và các khoản tương đương tiền đã bao gồm số ngoại tệ 1.590.929,17 Đô la Mỹ (tại ngày 31 tháng 12 năm 2018: 5.659.244,27 Đô la Mỹ).\n\n20 DOANH THU THUẦN VỀ BÁN HÀNG VÀ CUNG CẤP ĐỊCH VỤ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VNĐ",
+                "2": "2018VNĐ"
+            },
+            {
+                "0": "Doanh thu",
+                "1": "Doanh thu",
+                "2": "Doanh thu"
+            },
+            {
+                "0": "Doanh thu bán thành phẩm",
+                "1": "12.183.049.407.306",
+                "2": "14.646.478.602.267"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "38.644.203.140",
+                "2": "32.089.218.895"
+            },
+            {
+                "0": "",
+                "1": "12.221.693.610.446",
+                "2": "14.678.567.821.162"
+            },
+            {
+                "0": "Các khoản giảm trừ",
+                "1": "Các khoản giảm trừ",
+                "2": "Các khoản giảm trừ"
+            },
+            {
+                "0": "Chiết khấu thương mại",
+                "1": "(25.824.901.494)",
+                "2": "(16.026.314.383)"
+            },
+            {
+                "0": "Giảm giá hàng bán",
+                "1": "(4.399.085.943)",
+                "2": "(5.497.225.495)"
+            },
+            {
+                "0": "Hàng bán bị trả lại",
+                "1": "(14.061.608.233)",
+                "2": "(19.789.872.012)"
+            },
+            {
+                "0": "",
+                "1": "(44.285.595.670)",
+                "2": "(41.313.411.890)"
+            },
+            {
+                "0": "Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "1": "Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "Doanh thu thuần về bán hàng và cung cấp dịch vụ"
+            },
+            {
+                "0": "Doanh thu thuần về bán thành phẩm",
+                "1": "12.138.763.811.636",
+                "2": "14.605.165.190.377"
+            },
+            {
+                "0": "Doanh thu thuần về cung cấp dịch vụ",
+                "1": "38.644.203.140",
+                "2": "32.089.218.895"
+            },
+            {
+                "0": "",
+                "1": "12.177.408.014.776",
+                "2": "14.637.254.409.272"
+            },
+            {
+                "0": "Giá vốn của thành phẩm đã bán",
+                "1": "11.764.030.977.617",
+                "2": "13.835.048.779.729"
+            },
+            {
+                "0": "Giá vốn của dịch vụ đã cung cấp",
+                "1": "42.130.036.120",
+                "2": "34.755.786.701"
+            },
+            {
+                "0": "",
+                "1": "11.806.161.013.737",
+                "2": "13.869.804.566.430"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_31",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "35\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n22 DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VNĐ",
+                "2": "2018VNĐ"
+            },
+            {
+                "0": "Lãi tiền gửi",
+                "1": "30.156.525.411",
+                "2": "27.008.546.463"
+            },
+            {
+                "0": "Lãi chênh lệch tỷ giá hối đoái đã thực hiện",
+                "1": "38.596.918.483",
+                "2": "66.886.295.428"
+            },
+            {
+                "0": "Lãi bán các khoản đầu tư",
+                "1": "33.066.740.000",
+                "2": "-"
+            },
+            {
+                "0": "Khác",
+                "1": "5.162.888.540",
+                "2": "3.748.279.805"
+            },
+            {
+                "0": "",
+                "1": "106.983.072.434",
+                "2": "97.643.121.696"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "228.239.228.698",
+                "2": "327.689.392.059"
+            },
+            {
+                "0": "Lỗ chênh lệch tỷ giá hối đoái đã thực hiện",
+                "1": "31.724.552.294",
+                "2": "73.094.278.030"
+            },
+            {
+                "0": "Lỗ thuần do đánh giá lại các khoản có gốc ngoại tệ cuối năm",
+                "1": "6.255.238.305",
+                "2": "18.631.509.175"
+            },
+            {
+                "0": "Khác",
+                "1": "3.551",
+                "2": "4.547"
+            },
+            {
+                "0": "",
+                "1": "266.219.022.848",
+                "2": "419.415.183.811"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "15.374.993.888",
+                "2": "17.855.129.984"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "6.547.784.833",
+                "2": "36.595.861.218"
+            },
+            {
+                "0": "Chi phí khấu hao TSCĐ",
+                "1": "5.523.628.818",
+                "2": "9.606.420.688"
+            },
+            {
+                "0": "Chi phí nguyên vật liệu",
+                "1": "2.668.122.387",
+                "2": "4.201.589.738"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "180.042.319.531",
+                "2": "256.301.598.314"
+            },
+            {
+                "0": "",
+                "1": "210.156.849.457",
+                "2": "324.560.599.942"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "33.279.075.217",
+                "2": "40.941.315.384"
+            },
+            {
+                "0": "Chi phí khấu hao TSCĐ",
+                "1": "7.015.112.200",
+                "2": "5.765.179.251"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "23.090.885.660",
+                "2": "25.630.164.728"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "712.857.618",
+                "2": "1.058.083.590"
+            },
+            {
+                "0": "",
+                "1": "64.097.930.695",
+                "2": "73.394.742.953"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_32",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "36\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n26 THU NHẬP VÀ CHI PHÍ KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VNĐ",
+                "2": "2018VNĐ"
+            },
+            {
+                "0": "Thu nhập khác",
+                "1": "Thu nhập khác",
+                "2": "Thu nhập khác"
+            },
+            {
+                "0": "Lãi thuần do thanh lý, nhượng bán TSCĐ (*)",
+                "1": "191.207.037.367",
+                "2": "-"
+            },
+            {
+                "0": "Khác",
+                "1": "6.397.964.670",
+                "2": "7.331.300.606"
+            },
+            {
+                "0": "",
+                "1": "197.605.002.037",
+                "2": "7.331.300.606"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "Chi phí khác",
+                "2": "Chi phí khác"
+            },
+            {
+                "0": "Lỗ thuần do thanh lý, nhượng bán TSCĐ",
+                "1": "-",
+                "2": "(212.947.518)"
+            },
+            {
+                "0": "Khác",
+                "1": "(1.443.511.296)",
+                "2": "(2.151.875.416)"
+            },
+            {
+                "0": "",
+                "1": "(1.443.511.296)",
+                "2": "(2.364.822.934)"
+            },
+            {
+                "0": "Lợi nhuận khác",
+                "1": "196.161.490.741",
+                "2": "4.966.477.672"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_33",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "(*) Bao gồm trong lãi thuần do thanh lý, nhượng bán TSCĐ là lãi thuần từ bán nhà máy thép Nam Kim 1 cho một khách hàng bên thứ ba.\n\n27 THUÉ TNDN\n\nTheo Thông tư số 96/2015/TT-BTC ngày 22 tháng 6 năm 2015 của Bộ Tài chính, Công ty được hưởng thuế ưu đãi cho phần đầu tư mở rộng như sau:\n\n(a) Đối với dự án nhà máy thép Nam Kim 2:\n\nCông ty được miễn thuế TNDN 2 năm kể từ khi có thu nhập chịu thuế (2015 – 2016) và giảm 50% số thuế TNDN phải nộp trong 4 năm tiếp theo (2017 – 2020) đối với thu nhập thực hiện từ dự án.\n\n(b) Đối với dự án nhà máy thép Nam Kim 3:\n\nCông ty được miễn thuế TNDN 2 năm kể từ khi có thu nhập chịu thuế (2017 – 2018) và giảm 50% số thuế TNDN phải nộp trong 4 năm tiếp theo (2019 – 2022) đối với thu nhập thực hiện từ dự án.\n\nCác hoạt động khác áp dụng mức thuế suất thuế TNDN phổ thông là 20%.\n\n37\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n27 THUẾ TNDN (tiếp theo)\n\nSố thuế TNDN trên lợi nhuận trước thuế của Công ty khác với số thuế khi được tính theo thuế suất phổ thông áp dụng 20% như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VND",
+                "2": "2018VND"
+            },
+            {
+                "0": "Lợi nhuận kế toán trước thuế",
+                "1": "133.917.761.214",
+                "2": "52.688.915.504"
+            },
+            {
+                "0": "Thuế tính ở thuế suất 20%Điều chỉnh:",
+                "1": "26.783.552.243",
+                "2": "10.537.783.101"
+            },
+            {
+                "0": "Chi phí không được khấu trừ",
+                "1": "282.701.587",
+                "2": "241.759.895"
+            },
+            {
+                "0": "Lỗ từ dự án nhà máy thép mà không ghi nhận tài sản thuế thu nhập hoãn lại",
+                "1": "15.327.166.034",
+                "2": "-"
+            },
+            {
+                "0": "U'u đãi thuế",
+                "1": "-",
+                "2": "(6.564.274.306)"
+            },
+            {
+                "0": "Dự phòng thừa của năm trước",
+                "1": "-",
+                "2": "(74.909.810)"
+            },
+            {
+                "0": "Chi phí thuế TNDN",
+                "1": "42.393.419.864",
+                "2": "4.140.358.880"
+            },
+            {
+                "0": "Chi phí thuế TNDN ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng:",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Thuế TNDN - hiện hành (*)",
+                "1": "42.393.419.864",
+                "2": "4.140.358.880"
+            },
+            {
+                "0": "Thuế thu TNDN - hoãn lại",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "",
+                "1": "42.393.419.864",
+                "2": "4.140.358.880"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_34",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "(*) Chi phí thuế TNDN hiện hành cho năm tài chính được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh tùy thuộc vào sự kiểm tra của cơ quan thuế.\n\n28 CHI PHÍ SẢN XUẤT KINH DOANH THEO YẾU TÓ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VNĐ",
+                "2": "2018VNĐ"
+            },
+            {
+                "0": "Chi phí nguyên vật liệu",
+                "1": "13.150.852.038.764",
+                "2": "14.556.548.650.599"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "193.028.041.200",
+                "2": "210.094.941.853"
+            },
+            {
+                "0": "Chi phí khấu hao TSCĐ",
+                "1": "428.111.793.825",
+                "2": "407.669.125.144"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "77.336.963.037",
+                "2": "107.786.101.227"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "484.854.611.145",
+                "2": "554.254.486.339"
+            },
+            {
+                "0": "",
+                "1": "14.334.183.447.971",
+                "2": "15.836.353.305.162"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_35",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "38\n\n\n\nCÔNG TY CỔ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n29 THUYẾT MINH CHO CÁC KHOÀN MỤC TRÊN BÁO CÁO LƯU CHUYỂN TIỀN TỆ RIÊNG\n\n(a) Số tiền đi vay thực thu trong năm",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VNĐ",
+                "2": "2018VNĐ"
+            },
+            {
+                "0": "Vay theo khế ước thông thường",
+                "1": "8.961.750.010.468",
+                "2": "10.822.524.430.778"
+            },
+            {
+                "0": "Tiền trả nợ gốc vay theo khế ước thông thường",
+                "1": "10.246.608.681.568",
+                "2": "12.540.788.285.633"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_36",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "30 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN\n\n(a) Giao dịch với các bên liên quan\n\nTrong năm, các giao dịch trọng yếu sau đây được thực hiện với các bên liên quan:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VNĐ",
+                "2": "2018VNĐ"
+            },
+            {
+                "0": "i) Doanh thu bán hàng và cung cấp dịch vụ",
+                "1": "i) Doanh thu bán hàng và cung cấp dịch vụ",
+                "2": "i) Doanh thu bán hàng và cung cấp dịch vụ"
+            },
+            {
+                "0": "Công ty TNHH Một Thành Viên Óng thép Nam Kim",
+                "1": "1.430.263.981.670",
+                "2": "1.036.631.464.834"
+            },
+            {
+                "0": "ii) Góp vốn",
+                "1": "ii) Góp vốn",
+                "2": "ii) Góp vốn"
+            },
+            {
+                "0": "Công ty TNHH Một Thành Viên Nam Kim Corea",
+                "1": "-",
+                "2": "48.000.000.000"
+            },
+            {
+                "0": "iii) Các khoản chi cho các nhân sự quản lý chủ chốt",
+                "1": "iii) Các khoản chi cho các nhân sự quản lý chủ chốt",
+                "2": "iii) Các khoản chi cho các nhân sự quản lý chủ chốt"
+            },
+            {
+                "0": "Lương và các quyền lợi gộp khác",
+                "1": "8.996.886.446",
+                "2": "13.253.629.610"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_37",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "39\n\n\n\nCÔNG TÝ CÓ PHẦN THÉP NAM KIM\n\nMẫu số B 09 – DN\n\n30 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (tiếp theo)\n\n(b) Số dư cuối năm với các bên liên quan",
+        "dataframe": [
+            {
+                "0": "2019",
+                "1": "2018"
+            },
+            {
+                "0": "VND",
+                "1": "VND"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_38",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "i) Phải thu ngắn hạn của khách hàng (Thuyết minh 5)\n\nCông ty TNHH Một Thành Viên Óng thép Nam Kim",
+        "dataframe": [
+            {
+                "0": "345.943.692.183",
+                "1": "240.494.504.805"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_39",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "ii) Phải trả ngắn hạn khác\n\nÔng Hồ Minh Quang - Chủ tịch Hội đồng Quản trị",
+        "dataframe": [
+            {
+                "0": "8.100.000.000",
+                "1": "8.100.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "NKG_2019_separate_table_40",
+        "metadata": {
+            "ticker": "NKG",
+            "company_name": "CTCP Thép Nam Kim",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "NKG_financial_statements_2019_separate"
+        },
+        "context_text": "31 CÁC CAM KẾT\n\n(a) Thuê hoạt động\n\nCông ty phải trả mức tối thiểu cho các hợp đồng thuê hoạt động không hủy ngang trong tương lai như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019VNĐ",
+                "2": "2018VNĐ"
+            },
+            {
+                "0": "Trong vòng 1 năm",
+                "1": "130.900.000",
+                "2": "1.876.160.000"
+            },
+            {
+                "0": "Từ 1 đến 5 năm",
+                "1": "-",
+                "2": "130.900.000"
+            },
+            {
+                "0": "Tổng cộng các khoản thanh toán tối thiểu",
+                "1": "130.900.000",
+                "2": "2.007.060.000"
+            }
+        ]
+    }
+]

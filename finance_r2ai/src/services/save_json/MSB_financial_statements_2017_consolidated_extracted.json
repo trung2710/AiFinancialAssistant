@@ -1,0 +1,1116 @@
+[
+    {
+        "chunk_id": "MSB_2017_consolidated_table_1",
+        "metadata": {
+            "ticker": "MSB",
+            "company_name": "Ngân hàng TMCP Hàng hải Việt Nam",
+            "year": "2017",
+            "report_type": "consolidated",
+            "original_folder": "MSB_financial_statements_2017_consolidated"
+        },
+        "context_text": "KPMG\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN HÀNG HÃI\nVIỆT NAM\n\nBáo cáo tài chính hợp nhất cho năm\n\nkết thúc ngày 31 tháng 12 năm 2017\n\n\n\n100\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN HÀNG HẢI VIỆT NAM\n\nThông tin về Ngân hàng\n\nGiấy phép Hoạt động số\n\n0001/NH-GP\n\nNgày 8 tháng 6 năm 1991\n\nGiấy phép hoạt động Ngân hàng do Ngân hàng Nhà nước Việt Nam cấp và có thời hạn 99 năm kể từ ngày cấp và được sửa đổi gần nhất là Giấy phép số 1502/QĐ-NHNN ngày 17 tháng 7 năm 2017.\n\nGiấy Chứng nhận\n\nĐăng ký Kinh doanh số\n\n0200124891\n\nNgày 1 tháng 7 năm 2005\n\nGiấy Chứng nhận Đăng ký Kinh doanh đã được điều chỉnh nhiều lần và lần điều chỉnh gần đây nhất là ngày 7 tháng 4 năm 2017.\n\nHội đồng Quản trị",
+        "dataframe": [
+            {
+                "0": "Ông Trần Anh Tuấn",
+                "1": "Chủ tịch"
+            },
+            {
+                "0": "Ông Trần Xuân Quảng",
+                "1": "Phó Chủ tịch thường trực"
+            },
+            {
+                "0": "Ông Vũ Đức Nhuận",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Huỳnh Bửu Quang",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Nguyễn Đức Hoàn",
+                "1": "Thành viên độc lập"
+            },
+            {
+                "0": "Bà Dương Hồng Loan",
+                "1": "Thành viên độc lập (đến ngày 26/5/2017)"
+            },
+            {
+                "0": "Bà Phạm Thị Thành",
+                "1": "Trường ban"
+            },
+            {
+                "0": "Bà Chu Thị Đàm",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Bà Lê Thanh Hà",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Huỳnh Bửu QuangBà Đặng Tuyết DungÔng Lê Đăng KhoaÔng Nguyễn Thế Minh",
+                "1": "Tổng Giám đốcPhó Tổng Giám đốc – Tổng Giám đốc Ngân hàng Bán lẻQuyền Tổng giám đốc Ngân hàng doanh nghiệpPhó Tổng Giám đốc –Tổng Giám đốc Ngân hàng Doanh nghiệp lớn"
+            },
+            {
+                "0": "Bà Nguyễn Hương LoanÔng Nguyễn Hoàng AnÔng Lê Quang VuÔng Nguyễn Phi HùngÔng Nguyễn Hoàng Linh",
+                "1": "Phó Tổng Giám đốc –Tổng Giám đốc Ngân hàng Định chế tài chínhPhó Tổng Giám đốcTổng Giám đốc Ngân hàng cộng đồng (từ ngày 02/04/2018)Phó Tổng Giám đốc – Giám đốc Khối Vận hànhPhó Tổng Giám đốc – Giám đốc Khối Chiến lược(từ ngày 10/7/2017)"
+            },
+            {
+                "0": "Ông Bede Joseph PohlenÔng Nilesh Ratilal BanglorewalaBà Đình Thị Tổ UyênÔng Bùi Thanh Lam",
+                "1": "Giám đốc Khối Quản lý rủi roGiám đốc Khối Quản lý tài chínhGiám đốc Khối Marketing và Truyền thôngGiám đốc Khối Pháp chế & Giám sát Tuân thủ(từ ngày 15/12/2017)"
+            },
+            {
+                "0": "Bà Ngô Xuân HòaBà Nguyễn Thu TrangÔng Bùi Quốc KhánhÔng Sai Prasad Tummapudi",
+                "1": "Giám đốc Khối Quản lý Khách hàng Chiến lược(từ ngày 19/11/2017)Giám đốc Nhân sựGiám đốc Khối Công nghệ (đến ngày 1/3/2018)Giám đốc Khối Công nghệ (từ ngày 1/3/2018)"
+            },
+            {
+                "0": "Ông Huỳnh Bửu Quang",
+                "1": "Tổng Giám đốc"
+            },
+            {
+                "0": "Trụ sở đăng ký",
+                "1": "54A Nguyễn Chí Thanh, Phường Láng Thượng, Quận Đống Đa, Thành phố Hà Nội, Việt Nam"
+            },
+            {
+                "0": "Công ty kiểm toán",
+                "1": "Công ty TNHH KPMG Việt Nam"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSB_2017_consolidated_table_2",
+        "metadata": {
+            "ticker": "MSB",
+            "company_name": "Ngân hàng TMCP Hàng hải Việt Nam",
+            "year": "2017",
+            "report_type": "consolidated",
+            "original_folder": "MSB_financial_statements_2017_consolidated"
+        },
+        "context_text": "1\n\n\n\n1\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN HÀNG HẢI VIỆT NAM\nBáo cáo của Ban Điều hành\n\nBan Điều hành Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam (“Ngân hàng”) trình bày báo cáo này và báo cáo tài chính hợp nhất đính kèm của Ngân hàng và các công ty con (gọi chung là “MSB”) cho năm kết thúc ngày 31 tháng 12 năm 2017.\n\nBan Điều hành Ngân hàng chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam áp dụng cho các Tổ chức tín dụng do Ngân hàng Nhà nước Việt Nam ban hành và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Theo ý kiến của Ban Điều hành Ngân hàng:\n\n(a) báo cáo tài chính hợp nhất được trình bày từ trang 5 đến trang 75 đã phần ánh trung thực và hợp lý tình hình tài chính hợp nhất của MSB tại ngày 31 tháng 12 năm 2017, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất của MSB cho năm kết thúc cùng ngày, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam áp dụng chợ các Tổ chức tín dụng do Ngân hàng Nhà nước Việt Nam ban hành và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính; và\n\n(b) tại ngày lập báo cáo này, không có lý do gì để Ban Điều hành Ngân hàng cho rằng MSB sẽ không thể thanh toán các khoản nợ phải trả khi đến hạn.\n\nTại ngày lập báo cáo này, Ban Điều hành Ngân hàng đã phê duyệt phát hành báo cáo tài chính hợp nhất đính kèm.\n\nHà Nội, ngày 18 tháng 5 năm 2018\n\n2\n\n\\( \\left\\{  {1,2,3}\\right\\}   = \\left\\{  {1,2,3}\\right\\}   = \\left\\{  {1,2,3}\\right\\}   = \\)\n\n\n\nKPMG\n\nKPMG Limited\n\n46 \\( ^{™} \\) Floor, Keangnam Landmark 72\n\nE6 Pham Hung Road, Me Tri Ward\n\nSouth Tu Liem District, Hanoi, Vietnam\n\n+84 (24) 3946 1600 | kpmg.com.vn\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP\n\nKính gửi các Cổ đông\n\nNgân hàng Thương mại Cổ phần Hàng Hải Việt Nam\n\nChúng tôi đã kiểm toán báo cáo tài chính hợp nhất đính kèm của Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam (\"Ngân hàng\") và các công ty con (goi chung là \"MSB\"), bao gồm bằng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2017, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất liên quan cho nằm kết thúc cùng ngày và các thuyết minh kèm theo được Ban Điều hành Ngân hàng phê duyệt phát hành ngày 18 tháng 5 năm 2018, được trình bày từ trang 5 đến trang 75.\n\nTrách nhiệm của Ban Điều hành\n\nBan Điều hành Ngân hàng chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất này theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam áp dụng cho các Tổ chức tín dụng do Ngân hàng Nhà nước Việt Nam ban hành và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính, và chịu trách nhiệm về kiểm soát nội bộ mà Ban Điều hành xác định là cần thiết để đảm bảo việc lập báo cáo tài chính hợp nhất không có sai sốt trọng yếu do gian lận hay nhằm lẫn.\n\nTrách nhiệm của kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả kiểm toán của chúng tôi. Chứng tôi đã thực hiện công việc kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm việc thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và các thuyết minh trong báo cáo tài chính. Các thủ tục được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính do gian lận hoặc nhằm lẫn. Khi thực hiện các đánh giá rủi ro này, kiểm toán viên xem xét kiểm soát nội bộ của MSB liên quan tới việc lập và trình bày báo cáo tài chính trung thức và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của MSB. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Điều hành Ngân hàng, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính.\n\nChúng tôi tin rằng các bằng chứng kiểm toán mà chúng tôi thu được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\nKPMG Limited, a Vietnamese one member limited liability company and a member firm of the KPMG network of independent member firms affiliated with KPMG International Cooperative (\"KPMG International\"), a Swiss entity.\n\n3\n\n[NO TEXT]\n\n1\n\n\\( \\frac{1}{2}x^{2}+\\frac{1}{2}y^{2}=0. \\)\n\n\n\nKPMG\n\nÝ kiến của kiểm toán viên\n\nTheo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phần ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu tình hình tài chính hợp nhất tại ngày 31 tháng 12 năm 2017, kết quả hoạt động kính doanh hợp nhất và lưu chuyển tiền tệ hợp nhất cho năm kết thúc cùng ngày của Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam và các công ty con, phù hợp với các Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán Việt Nam áp dụng cho các Tổ chức tín dụng do Ngân hàng Nhà nước Việt Nam ban hành và các quý định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.\n\nVấn đề cần nhân mạnh\n\nChứng tôi lưu ý đến Thuyết minh số 3(f)(v) của báo cáo tài chính hợp nhất đính kèm, trong năm 2017, Ngân hàng thực hiện trích lập dự phòng cụ thể cho các trái phiếu đặc biệt do Công ty Trách nhiệm Hữu hạn Một thành viên Quản lý tài sản của các tổ chức tín dụng Việt Nam (\"VAMC\") phát hành trong năm 2015 và 2016 theo Thông tư số 08/2016/TT-NHNN do Ngân hàng Nhà nước Việt Nam ban hành ngày 16 tháng 6 năm 2016 và Công văn chấp thuận số 9924/NHNN do Ngân hàng Nhà nước Việt Nam ban hành ngày 28 tháng 12 năm 2016.\n\nChúng tôi cũng lưu ý đến Thuyết minh số 9(ii) và Thuyết minh số 11(ii) của báo cáo tài chính hợp nhất định kèm, Ngân hàng đã gửi văn bản số 890/2018/CV-TGB ngày 21 tháng 3 năm 2018 về việc đề xuất thực hiện phương án tái cơ cấu, trong đó Ngân hàng đề xuất phương án trích lập dự phòng cho một số khoản cho vay khách hàng và trái phiếu đặc biệt do VAMC phát hành và đã được Cơ quan Thanh tra, giám sát ngân hàng Nhà nước Việt Nam thẩm định và trình Ban Lãnh đạo Ngân hàng Nhà nước Việt Nam phê duyệt. Tài ngày phát hành báo cáo tài chính này, Ngân hàng chưa nhận được công văn phê duyệt từ Ngân hàng Nhà nước Việt Nam. Tuy vậy, cho mục đích lập báo cáo tài chính hợp nhất năm 2017, Ngân hàng đã thực hiện trích lập dự phòng cho một số khoản cho vay khách hàng và trái phiếu đặc biệt theo phương án được đề xuất trong phương án tái cơ cấu.\n\nCác vấn đề này không ảnh hưởng tới ý kiến kiểm toán của chúng tôi.\n\nCông ty TNHH KPMG\n\nWang Toon Kim\n\nGiấy Chứng nhận đăng ký hành nghề\n\nKiểm toán số: số 0557-2018-007-1\n\nPhó Tổng Giám đốc\n\nHà Nội, ngày 18 tháng 5 năm 2018\n\nTrần Đình Vinh\n\nGiấy Chứng nhận đăng ký hành nghề\n\nKiểm toán số: 0339-2018-007-1\n\n4\n\n\n\n12 23 34 45 56 67 78 89 90 101 112 123 134 145 156 167 178 189 190 201 212 223 234 245 256 267 278 289 290 301 312 323 334 345 356 367 378 389 390 401 412 423 434 445 456 467 478 489 490 501 512 523 534 545 556 567 578 589 590\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN HÀNG HẢI VIỆT NAM\nBảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2017\n\nMẫu B02/TCTD-HN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "Thuyết minh",
+                "3": "31/12/2017 Triệu VND",
+                "4": "31/12/2016 Triệu VND"
+            },
+            {
+                "0": "A",
+                "1": "TÀI SẢN",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "I",
+                "1": "Tiền mặt và vàng",
+                "2": "4",
+                "3": "1.996.872",
+                "4": "1.868.269"
+            },
+            {
+                "0": "II",
+                "1": "Tiền gửi tại Ngân hàng Nhà nước",
+                "2": "5",
+                "3": "3.448.104",
+                "4": "1.545.647"
+            },
+            {
+                "0": "III",
+                "1": "Tiền gửi và cho vay các tổ chức tín dụng (\"TCTD\") khác",
+                "2": "6",
+                "3": "8.602.306",
+                "4": "7.562.696"
+            },
+            {
+                "0": "1",
+                "1": "Tiền gửi tại các TCTD khác",
+                "2": "",
+                "3": "7.631.132",
+                "4": "4.054.740"
+            },
+            {
+                "0": "2",
+                "1": "Cho vay các TCTD khác",
+                "2": "",
+                "3": "1.082.257",
+                "4": "3.618.251"
+            },
+            {
+                "0": "3",
+                "1": "Dự phòng rủi ro",
+                "2": "",
+                "3": "(111.083)",
+                "4": "(110.295)"
+            },
+            {
+                "0": "IV",
+                "1": "Chứng khoán kinh doanh",
+                "2": "7",
+                "3": "65.995",
+                "4": "97.043"
+            },
+            {
+                "0": "1",
+                "1": "Chứng khoán kinh doanh",
+                "2": "",
+                "3": "127.927",
+                "4": "164.014"
+            },
+            {
+                "0": "2",
+                "1": "Dự phòng giảm giá chứng khoán kinh doanh",
+                "2": "",
+                "3": "(61.932)",
+                "4": "(66.971)"
+            },
+            {
+                "0": "V",
+                "1": "Cho vay khách hàng",
+                "2": "",
+                "3": "35.783.876",
+                "4": "34.666.848"
+            },
+            {
+                "0": "1",
+                "1": "Cho vay khách hàng",
+                "2": "8",
+                "3": "36.212.703",
+                "4": "35.118.872"
+            },
+            {
+                "0": "2",
+                "1": "Dự phòng rủi ro cho vay khách hàng",
+                "2": "9",
+                "3": "(428.827)",
+                "4": "(452.024)"
+            },
+            {
+                "0": "VI",
+                "1": "Hoạt động mua nợ",
+                "2": "10",
+                "3": "32.857",
+                "4": "43.893"
+            },
+            {
+                "0": "1",
+                "1": "Mua nợ",
+                "2": "",
+                "3": "41.046",
+                "4": "44.616"
+            },
+            {
+                "0": "2",
+                "1": "Dự phòng rủi ro hoạt động mua nợ",
+                "2": "",
+                "3": "(8.189)",
+                "4": "(723)"
+            },
+            {
+                "0": "VII",
+                "1": "Chứng khoán đầu tư",
+                "2": "11",
+                "3": "44.901.863",
+                "4": "32.501.854"
+            },
+            {
+                "0": "1",
+                "1": "Chứng khoán đầu tư sẵn sàng để bán",
+                "2": "",
+                "3": "36.941.181",
+                "4": "24.558.953"
+            },
+            {
+                "0": "2",
+                "1": "Chứng khoán đầu tư giữ đến ngày đáo hạn",
+                "2": "",
+                "3": "9.319.142",
+                "4": "8.873.669"
+            },
+            {
+                "0": "3",
+                "1": "Dự phòng rủi ro chứng khoán đầu tư",
+                "2": "",
+                "3": "(1.358.460)",
+                "4": "(930.768)"
+            },
+            {
+                "0": "VIII",
+                "1": "Góp vốn, đầu tư dài hạn",
+                "2": "12",
+                "3": "9.251",
+                "4": "9.251"
+            },
+            {
+                "0": "1",
+                "1": "Đầu tư dài hạn khác",
+                "2": "",
+                "3": "9.251",
+                "4": "9.251"
+            },
+            {
+                "0": "IX",
+                "1": "Tài sản cố định",
+                "2": "",
+                "3": "572.458",
+                "4": "648.564"
+            },
+            {
+                "0": "1",
+                "1": "Tài sản cố định hữu hình",
+                "2": "13",
+                "3": "127.512",
+                "4": "142.592"
+            },
+            {
+                "0": "a",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "622.232",
+                "4": "595.551"
+            },
+            {
+                "0": "b",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "",
+                "3": "(494.720)",
+                "4": "(452.959)"
+            },
+            {
+                "0": "2",
+                "1": "Tài sản cố định thuê tài chính",
+                "2": "14",
+                "3": "263.282",
+                "4": "269.913"
+            },
+            {
+                "0": "a",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "312.780",
+                "4": "312.780"
+            },
+            {
+                "0": "b",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "",
+                "3": "(49.498)",
+                "4": "(42.867)"
+            },
+            {
+                "0": "3",
+                "1": "Tài sản cố định vô hình",
+                "2": "15",
+                "3": "181.664",
+                "4": "236.059"
+            },
+            {
+                "0": "a",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "420.827",
+                "4": "445.597"
+            },
+            {
+                "0": "b",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "",
+                "3": "(239.163)",
+                "4": "(209.538)"
+            },
+            {
+                "0": "X",
+                "1": "Bất động sản đầu tư",
+                "2": "16",
+                "3": "859.030",
+                "4": "895.442"
+            },
+            {
+                "0": "a",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "998.650",
+                "4": "1.018.285"
+            },
+            {
+                "0": "b",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "",
+                "3": "(139.620)",
+                "4": "(122.843)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSB_2017_consolidated_table_3",
+        "metadata": {
+            "ticker": "MSB",
+            "company_name": "Ngân hàng TMCP Hàng hải Việt Nam",
+            "year": "2017",
+            "report_type": "consolidated",
+            "original_folder": "MSB_financial_statements_2017_consolidated"
+        },
+        "context_text": "Các thuyết minh đính kèm là bộ phận hợp thành báo cáo tài chính hợp nhất này\n\n5\n\n[NO TEXT]\n\n\\( \\therefore {a}_{1} = {a}_{2} + {a}_{3} - 1 \\)\n\n\n\nThe image contains a series of identical, stylized, 3D-rendered, oval shapes arranged in a row. There are no text, mathematical formulas, tables, or symbols present in the image. Therefore, the correct OCR output is an empty string.\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN HÀNG HẢI VIỆT NAM\nMẫu B02/TCTD-HN\nBăng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2017\n(tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "Thuyết minh",
+                "3": "31/12/2017 Triệu VND",
+                "4": "31/12/2016 Triệu VND"
+            },
+            {
+                "0": "XI",
+                "1": "Tài sản Có khác",
+                "2": "17",
+                "3": "15.966.366",
+                "4": "12.766.355"
+            },
+            {
+                "0": "1",
+                "1": "Các khoản phải thu",
+                "2": "",
+                "3": "7.790.470",
+                "4": "6.339.832"
+            },
+            {
+                "0": "2",
+                "1": "Các khoản lãi, phí phải thu",
+                "2": "",
+                "3": "3.376.869",
+                "4": "2.774.998"
+            },
+            {
+                "0": "3",
+                "1": "Tài sản Có khác",
+                "2": "",
+                "3": "5.401.531",
+                "4": "3.934.361"
+            },
+            {
+                "0": "",
+                "1": "Trong đó: Lợi thế thương mại",
+                "2": "",
+                "3": "75.018",
+                "4": "85.000"
+            },
+            {
+                "0": "4",
+                "1": "Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác",
+                "2": "",
+                "3": "(602.504)",
+                "4": "(282.836)"
+            },
+            {
+                "0": "",
+                "1": "TỔNG TÀI SẢN",
+                "2": "",
+                "3": "112.238.978",
+                "4": "92.605.862"
+            },
+            {
+                "0": "B",
+                "1": "NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "",
+                "1": "NỘ PHẢI TRẢ",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "I",
+                "1": "Các khoản nợ Chính phủ và Ngân hàng Nhà nước",
+                "2": "18",
+                "3": "2.019.657",
+                "4": "4.386.050"
+            },
+            {
+                "0": "II",
+                "1": "Tiền gửi và vay các TCTD khác",
+                "2": "19",
+                "3": "29.534.151",
+                "4": "10.536.234"
+            },
+            {
+                "0": "1",
+                "1": "Tiền gửi của các TCTD khác",
+                "2": "",
+                "3": "12.864.957",
+                "4": "3.703.065"
+            },
+            {
+                "0": "2",
+                "1": "Vay các TCTD khác",
+                "2": "",
+                "3": "16.669.194",
+                "4": "6.833.169"
+            },
+            {
+                "0": "III",
+                "1": "Tiền gửi của khách hàng",
+                "2": "20",
+                "3": "56.848.515",
+                "4": "57.586.806"
+            },
+            {
+                "0": "IV",
+                "1": "Các công cụ tài chính phải sinh và nợ phải trả tài chính khác",
+                "2": "21",
+                "3": "52.724",
+                "4": "51.505"
+            },
+            {
+                "0": "V",
+                "1": "Phát hành giấy tờ có giá",
+                "2": "22",
+                "3": "7.348.899",
+                "4": "4.218.047"
+            },
+            {
+                "0": "VI",
+                "1": "Các khoản nợ khác",
+                "2": "23",
+                "3": "2.713.090",
+                "4": "2.227.234"
+            },
+            {
+                "0": "1",
+                "1": "Các khoản lãi, phí phải trả",
+                "2": "",
+                "3": "1.427.292",
+                "4": "1.362.260"
+            },
+            {
+                "0": "2",
+                "1": "Các khoản phải trả và công nợ khác",
+                "2": "",
+                "3": "1.285.798",
+                "4": "864.974"
+            },
+            {
+                "0": "",
+                "1": "TỔNG NỘ PHẢI TRẢ",
+                "2": "",
+                "3": "98.517.036",
+                "4": "79.005.876"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSB_2017_consolidated_table_4",
+        "metadata": {
+            "ticker": "MSB",
+            "company_name": "Ngân hàng TMCP Hàng hải Việt Nam",
+            "year": "2017",
+            "report_type": "consolidated",
+            "original_folder": "MSB_financial_statements_2017_consolidated"
+        },
+        "context_text": "Các thuyết minh đính kèm là bộ phận hợp thành báo cáo tài chính hợp nhất này\n\n6\n\n\n\n100\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN HÀNG HẢI VIỆT NAM\nBăng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2017\n(tiếp theo)\n\nMẫu B02/TCTD-HN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "Thuyết minh",
+                "3": "31/12/2017Triệu VND",
+                "4": "31/12/2016Triệu VND"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Thuyết minh",
+                "3": "31/12/2017Triệu VND",
+                "4": "31/12/2016Triệu VND"
+            },
+            {
+                "0": "VỐN CHỦ SỞ HỮU",
+                "1": "VỐN CHỦ SỞ HỮU",
+                "2": "VỐN CHỦ SỞ HỮU",
+                "3": "VỐN CHỦ SỞ HỮU",
+                "4": "VỐN CHỦ SỞ HỮU"
+            },
+            {
+                "0": "VII",
+                "1": "Vốn và các quỹ",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "1",
+                "1": "Vốn của TCTD",
+                "2": "24",
+                "3": "11.879.878",
+                "4": "11.879.878"
+            },
+            {
+                "0": "a",
+                "1": "Vốn điều lệ",
+                "2": "",
+                "3": "11.750.000",
+                "4": "11.750.000"
+            },
+            {
+                "0": "b",
+                "1": "Vốn đầu tư xây dựng cơ bản",
+                "2": "",
+                "3": "608",
+                "4": "608"
+            },
+            {
+                "0": "c",
+                "1": "Thặng dư vốn cổ phần",
+                "2": "",
+                "3": "400.000",
+                "4": "400.000"
+            },
+            {
+                "0": "d",
+                "1": "Cổ phiếu quỹ",
+                "2": "",
+                "3": "(270.730)",
+                "4": "(270.730)"
+            },
+            {
+                "0": "2",
+                "1": "Quỹ của TCTD",
+                "2": "24",
+                "3": "684.054",
+                "4": "661.963"
+            },
+            {
+                "0": "3",
+                "1": "Lợi nhuận chưa phân phối",
+                "2": "24",
+                "3": "1.158.010",
+                "4": "1.058.145"
+            },
+            {
+                "0": "",
+                "1": "TỔNG VỐN CHỦ SỞ HỮU",
+                "2": "24",
+                "3": "13.721.942",
+                "4": "13.599.986"
+            },
+            {
+                "0": "",
+                "1": "TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU",
+                "2": "",
+                "3": "112.238.978",
+                "4": "92.605.862"
+            },
+            {
+                "0": "I",
+                "1": "NGHĨA VỤ NỘ TIỂM ĂN VÀ CÁC CAM KẾT KHÁC",
+                "2": 39.0,
+                "3": "114.628.966",
+                "4": "48.770.149"
+            },
+            {
+                "0": "1",
+                "1": "Bảo lãnh vay vốn",
+                "2": "",
+                "3": "10.000",
+                "4": "-"
+            },
+            {
+                "0": "2",
+                "1": "Cam kết giao dịch hối đoái",
+                "2": "",
+                "3": "105.159.681",
+                "4": "42.658.611"
+            },
+            {
+                "0": "",
+                "1": "Cam kết mua ngoại tệ",
+                "2": "",
+                "3": "4.129.576",
+                "4": "1.229.609"
+            },
+            {
+                "0": "",
+                "1": "Cam kết bán ngoại tệ",
+                "2": "",
+                "3": "4.127.063",
+                "4": "1.218.606"
+            },
+            {
+                "0": "",
+                "1": "Cam kết giao dịch hoán đổi",
+                "2": "",
+                "3": "96.903.042",
+                "4": "40.210.396"
+            },
+            {
+                "0": "3",
+                "1": "Cam kết trong nghiệp vụ L/C",
+                "2": "",
+                "3": "1.866.640",
+                "4": "869.142"
+            },
+            {
+                "0": "4",
+                "1": "Bảo lãnh khác",
+                "2": "",
+                "3": "2.630.656",
+                "4": "2.931.000"
+            },
+            {
+                "0": "5",
+                "1": "Các cam kết khác",
+                "2": "",
+                "3": "4.961.989",
+                "4": "2.311.396"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSB_2017_consolidated_table_5",
+        "metadata": {
+            "ticker": "MSB",
+            "company_name": "Ngân hàng TMCP Hàng hải Việt Nam",
+            "year": "2017",
+            "report_type": "consolidated",
+            "original_folder": "MSB_financial_statements_2017_consolidated"
+        },
+        "context_text": "Người lập\n\nNguyễn Thị Tuyết Nhung\nKế toán viên\n\nNgười soát xét\n\nNilesh Ratilal Banglorewala\nKế toán trường\n\nphê duyệt\n\nluynh Bùu Quang\nTổng Giám đốc\n\nNgày 18 tháng 5 năm 2018\n\nCác thuyết minh đinh kèm là bộ phận hợp thành báo cáo tài chính hợp nhất này\n\n7\n\n\n\n1\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN HÀNG HẢI VIỆT NAM\n\nBáo cáo kết quả hoạt động kinh doanh hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2017\n\nMẫu B03/TCTD-HN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "Thuyết minh",
+                "3": "2017 Triệu VND",
+                "4": "2016 Triệu VND"
+            },
+            {
+                "0": "1",
+                "1": "Thu nhập lãi và các khoản thu nhập tương tự",
+                "2": "25",
+                "3": "6.123.339",
+                "4": "6.347.548"
+            },
+            {
+                "0": "2",
+                "1": "Chi phí lãi và các chi phí tương tự",
+                "2": "25",
+                "3": "(4.521.262)",
+                "4": "(4.094.906)"
+            },
+            {
+                "0": "I",
+                "1": "Thu nhập lãi thuần",
+                "2": "25",
+                "3": "1.602.077",
+                "4": "2.252.642"
+            },
+            {
+                "0": "3",
+                "1": "Thu nhập từ hoạt động dịch vụ",
+                "2": "26",
+                "3": "324.356",
+                "4": "247.272"
+            },
+            {
+                "0": "4",
+                "1": "Chi phí hoạt động dịch vụ",
+                "2": "26",
+                "3": "(187.833)",
+                "4": "(154.237)"
+            },
+            {
+                "0": "II",
+                "1": "Lãi thuần từ hoạt động dịch vụ",
+                "2": "26",
+                "3": "136.523",
+                "4": "93.035"
+            },
+            {
+                "0": "III",
+                "1": "Lãi thuần từ hoạt động kinh doanh ngoại hối",
+                "2": "27",
+                "3": "65.208",
+                "4": "13.492"
+            },
+            {
+                "0": "IV",
+                "1": "Lãi/(lỗ) thuần từ mua bán chứng khoán kinh doanh",
+                "2": "28",
+                "3": "32.367",
+                "4": "(5.575)"
+            },
+            {
+                "0": "V",
+                "1": "Lãi thuần từ mua bán chứng khoán đầu tư",
+                "2": "29",
+                "3": "1.029.818",
+                "4": "602.609"
+            },
+            {
+                "0": "5",
+                "1": "Thu nhập từ hoạt động khác",
+                "2": "",
+                "3": "463.501",
+                "4": "1.021.400"
+            },
+            {
+                "0": "6",
+                "1": "Chi phí hoạt động khác",
+                "2": "",
+                "3": "(82.118)",
+                "4": "(223.768)"
+            },
+            {
+                "0": "VI",
+                "1": "Lãi thuần từ hoạt động khác",
+                "2": "30",
+                "3": "381.383",
+                "4": "797.632"
+            },
+            {
+                "0": "VII",
+                "1": "Thu nhập từ góp vốn, mua cổ phần",
+                "2": "",
+                "3": "274",
+                "4": "50.718"
+            },
+            {
+                "0": "VIII",
+                "1": "Chi phí hoạt động",
+                "2": "31",
+                "3": "(2.065.862)",
+                "4": "(1.897.097)"
+            },
+            {
+                "0": "IX",
+                "1": "Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng",
+                "2": "",
+                "3": "1.181.788",
+                "4": "1.907.456"
+            },
+            {
+                "0": "X",
+                "1": "Chi phí dự phòng rủi ro tín dụng",
+                "2": "32",
+                "3": "(1.017.359)",
+                "4": "(1.743.425)"
+            },
+            {
+                "0": "XI",
+                "1": "Tổng lợi nhuận trước thuế",
+                "2": "",
+                "3": "164.429",
+                "4": "164.031"
+            },
+            {
+                "0": "7",
+                "1": "Chi phí thuế thu nhập doanh nghiệp hiện hành",
+                "2": "33",
+                "3": "(42.397)",
+                "4": "(24.027)"
+            },
+            {
+                "0": "XII",
+                "1": "Chi phí thuế thu nhập doanh nghiệp",
+                "2": "33",
+                "3": "(42.397)",
+                "4": "(24.027)"
+            },
+            {
+                "0": "XIII",
+                "1": "Lợi nhuận sau thuế",
+                "2": "",
+                "3": "122.032",
+                "4": "140.004"
+            },
+            {
+                "0": "XIV",
+                "1": "Lãi cơ bản trên cổ phiếu (VND/cổ phiếu)",
+                "2": "34",
+                "3": "107",
+                "4": "122"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSB_2017_consolidated_table_6",
+        "metadata": {
+            "ticker": "MSB",
+            "company_name": "Ngân hàng TMCP Hàng hải Việt Nam",
+            "year": "2017",
+            "report_type": "consolidated",
+            "original_folder": "MSB_financial_statements_2017_consolidated"
+        },
+        "context_text": "Người lập\n\nNguyễn Thị Tuyết Nhung\nKế toán viên\n\nNgười soát xét\n\nNilesh Ratilal Banglorewala\nKế toán trường\n\nNgày 18 tháng 5 năm 2018\n\nCác thuyết minh đính kèm là bộ phận hợp thành báo cáo tài chính hợp nhất này\n\n8\n\n\n\n1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. 82. 83. 84. 85. 86. 87. 88. 89. 90.\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN HÀNG HẢI VIỆT NAM\nBáo cáo lưu chuyển tiền tệ hợp nhất cho năm kết thúc\nngày 31 tháng 12 năm 2017 (Phương pháp trực tiếp)\n\nMẫu B04/TCTD-HN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2017Triệu VND",
+                "3": "2016Triệu VND"
+            },
+            {
+                "0": "LUÙ CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "1": "LUÙ CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "LUÙ CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "3": "LUÙ CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH"
+            },
+            {
+                "0": "01",
+                "1": "Thu nhập lãi và các khoản thu nhập tương tự nhận được",
+                "2": "5.521.468",
+                "3": "6.642.501"
+            },
+            {
+                "0": "02",
+                "1": "Chi phí lãi và các chi phí tương tự đã trả",
+                "2": "(4.456.230)",
+                "3": "(3.979.851)"
+            },
+            {
+                "0": "03",
+                "1": "Thu nhập thuần từ hoạt động dịch vụ nhận được",
+                "2": "136.523",
+                "3": "93.035"
+            },
+            {
+                "0": "04",
+                "1": "Thu nhập thuần từ hoạt động kinh doanh ngoại tệ, vàng và chứng khoán",
+                "2": "854.223",
+                "3": "1.054.125"
+            },
+            {
+                "0": "05",
+                "1": "Chi phí khác",
+                "2": "(216.041)",
+                "3": "(272.811)"
+            },
+            {
+                "0": "06",
+                "1": "Tiền thu các khoản nợ đã được xử lý xóa, bù đắp bằng nguồn rủi ro",
+                "2": "64.644",
+                "3": "586.697"
+            },
+            {
+                "0": "07",
+                "1": "Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ",
+                "2": "(1.570.217)",
+                "3": "(1.379.260)"
+            },
+            {
+                "0": "08",
+                "1": "Tiền thuế thu nhập doanh nghiệp thực nộp trong năm",
+                "2": "(2.357)",
+                "3": "(27.700)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động kinh doanh trước những thay đổi về tài sản và nợ hoạt động",
+                "1": "Lưu chuyển tiền thuần từ hoạt động kinh doanh trước những thay đổi về tài sản và nợ hoạt động",
+                "2": "332.013",
+                "3": "2.716.736"
+            },
+            {
+                "0": "Những thay đổi về tài sản hoạt động",
+                "1": "Những thay đổi về tài sản hoạt động",
+                "2": "(14.286.881)",
+                "3": "9.228.965"
+            },
+            {
+                "0": "09",
+                "1": "Giảm tiền gửi và cho vay các TCTD khác",
+                "2": "2.534.664",
+                "3": "4.465.614"
+            },
+            {
+                "0": "10",
+                "1": "(Tăng)/giảm các khoản về kinh doanh chứng khoán",
+                "2": "(13.941.541)",
+                "3": "15.975.910"
+            },
+            {
+                "0": "11",
+                "1": "Tăng các khoản cho vay khách hàng",
+                "2": "(1.090.261)",
+                "3": "(7.022.307)"
+            },
+            {
+                "0": "12",
+                "1": "Giảm nguồn dự phòng để bù đắp tổn thất các khoản tín dụng, chứng khoán, đầu tư",
+                "2": "(315.775)",
+                "3": "(1.847.412)"
+            },
+            {
+                "0": "13",
+                "1": "Tăng về tài sản hoạt động khác",
+                "2": "(1.473.968)",
+                "3": "(2.342.840)"
+            },
+            {
+                "0": "Những thay đổi về nợ hoạt động",
+                "1": "Những thay đổi về nợ hoạt động",
+                "2": "19.381.706",
+                "3": "(11.829.997)"
+            },
+            {
+                "0": "14",
+                "1": "Giảm các khoản nợ Chính phủ và NHNN",
+                "2": "(2.366.392)",
+                "3": "(641.421)"
+            },
+            {
+                "0": "15",
+                "1": "Tăng/(giảm) tiền gửi và vay từ các TCTD khác",
+                "2": "18.997.917",
+                "3": "(6.863.148)"
+            },
+            {
+                "0": "16",
+                "1": "Giảm tiền gửi của khách hàng",
+                "2": "(738.290)",
+                "3": "(5.028.883)"
+            },
+            {
+                "0": "17",
+                "1": "Tăng phát hành giấy tờ có giá",
+                "2": "3.130.851",
+                "3": "920.716"
+            },
+            {
+                "0": "18",
+                "1": "Giảm vốn tài trợ, ủy thác đầu tư, cho vay mà tổ chức tín dụng chịu rủi ro",
+                "2": "-",
+                "3": "(137.000)"
+            },
+            {
+                "0": "19",
+                "1": "Tăng/(giảm) các công cụ tài chính phải sinh và các khoản nợ tài chính khác",
+                "2": "1.219",
+                "3": "(112.394)"
+            },
+            {
+                "0": "20",
+                "1": "Tăng khác về nợ hoạt động",
+                "2": "356.477",
+                "3": "32.651"
+            },
+            {
+                "0": "21",
+                "1": "Chi từ các quỹ của TCTD",
+                "2": "(76)",
+                "3": "(518)"
+            },
+            {
+                "0": "I",
+                "1": "LUÙ CHUYÊN TIÊN THUÀN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "5.426.838",
+                "3": "115.704"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSB_2017_consolidated_table_7",
+        "metadata": {
+            "ticker": "MSB",
+            "company_name": "Ngân hàng TMCP Hàng hải Việt Nam",
+            "year": "2017",
+            "report_type": "consolidated",
+            "original_folder": "MSB_financial_statements_2017_consolidated"
+        },
+        "context_text": "Các thuyết minh đính kèm là bộ phận hợp thành báo cáo tài chính hợp nhất này\n\n9\n\n\\( x_{2} \\)\n\n\n\nThe image contains a series of identical, stylized, oval shapes arranged in a row. There are no text, numbers, or symbols present in the image. Therefore, the correct OCR output is an empty string.\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN HÀNG HẢI VIỆT NAM\nBáo cáo lưu chuyển tiền tệ hợp nhất cho năm kết thúc\nngày 31 tháng 12 năm 2017 (Phương pháp trực tiếp) (tiếp theo)\n\nMẫu B04/TCTD-HN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2017Triệu VND",
+                "3": "2016Triệu VND"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "3": ""
+            },
+            {
+                "0": "01",
+                "1": "Mua sắm tài sản cố định",
+                "2": "(97.972)",
+                "3": "(19.894)"
+            },
+            {
+                "0": "02",
+                "1": "Tiền thu từ thanh lý, nhượng bán tài sản cố định",
+                "2": "257.366",
+                "3": "215.212"
+            },
+            {
+                "0": "03",
+                "1": "Tiền chi mua sắm bất động sản đầu tư",
+                "2": "19.635",
+                "3": "(1.236)"
+            },
+            {
+                "0": "04",
+                "1": "Tiền thu từ bán, thanh lý bất động sản đầu tư",
+                "2": "-",
+                "3": "40.900"
+            },
+            {
+                "0": "05",
+                "1": "Tiền thu cổ tức và lợi nhuận được chia từ các khoảnđâu tư, góp vốn dài hạn",
+                "2": "274",
+                "3": "50.718"
+            },
+            {
+                "0": "II",
+                "1": "LU'U CHUYÊN TIÊN THUÀN TỪ HOẠT ĐỘNGĐẦU TƯ",
+                "2": "179.303",
+                "3": "285.700"
+            },
+            {
+                "0": "II",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "01",
+                "1": "Cổ tức trả cho cổ đông, lợi nhuận đã chia",
+                "2": "(20)",
+                "3": "(38)"
+            },
+            {
+                "0": "02",
+                "1": "Tiền chi ra mua cổ phiếu quỹ",
+                "2": "-",
+                "3": "(155.750)"
+            },
+            {
+                "0": "III",
+                "1": "LU'U CHUYÊN TIÊN THUÀN TỪ HOẠT ĐỘNGTÀI CHÍNH",
+                "2": "(20)",
+                "3": "(155.788)"
+            },
+            {
+                "0": "IV",
+                "1": "LU'U CHUYÊN TIÊN THUÀN TRONG NĂM",
+                "2": "5.606.121",
+                "3": "245.616"
+            },
+            {
+                "0": "V",
+                "1": "TIÊN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIẾNTẠI THỜI ĐIỂM ĐẦU NĂM",
+                "2": "7.247.862",
+                "3": "7.002.246"
+            },
+            {
+                "0": "VI",
+                "1": "TIÊN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIẾNTẠI THỜI ĐIỂM CUỐI NĂM (Thuyết minh 35)",
+                "2": "12.853.983",
+                "3": "7.247.862"
+            }
+        ]
+    }
+]

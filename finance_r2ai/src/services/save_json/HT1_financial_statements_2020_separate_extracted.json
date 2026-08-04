@@ -1,0 +1,3612 @@
+[
+    {
+        "chunk_id": "HT1_2020_separate_table_1",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "Công ty Cổ phần Xi măng Hà Tiên 1\n\nBáo cáo tài chính riêng\n\nCho năm tài chính kết thúc ngày 31 tháng 12 năm 2020\n\nEY\n\nBuilding a better working world\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nMỤC LỤC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Trang"
+            },
+            {
+                "0": "Thông tin chung",
+                "1": "1 - 2"
+            },
+            {
+                "0": "Báo cáo của Ban Tổng Giám đốc",
+                "1": "3"
+            },
+            {
+                "0": "Báo cáo kiểm toán độc lập",
+                "1": "4 - 5"
+            },
+            {
+                "0": "Bằng cân đối kế toán riêng",
+                "1": "6 - 8"
+            },
+            {
+                "0": "Báo cáo kết quả hoạt động kinh doanh riêng",
+                "1": "9"
+            },
+            {
+                "0": "Báo cáo lưu chuyển tiền tệ riêng",
+                "1": "10 - 11"
+            },
+            {
+                "0": "Thuyết minh báo cáo tài chính riêng",
+                "1": "12 - 40"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_2",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "Công ty Cổ phần Xi măng Hà Tiên 1\n\nTHÔNG TIN CHUNG\n\nCÔNG TY\n\nCông ty Cổ phần Xi măng Hà Tiên 1 (\"Công ty\"), trước đây là Công ty Xi măng Hà Tiên 1, tiền thân là một doanh nghiệp Nhà nước được thành lập tại Việt Nam theo Quyết định Thành lập số 441/BXD-TCLD do Bộ Xây dựng cấp ngày 30 tháng 9 năm 1993. Giấy Chứng nhận Đăng ký Kinh doanh (\"GCNDKKD\") đầu tiên của Công ty số 102955 được Ban Trọng tài Kinh tế cấp ngày 9 tháng 10 năm 1993 và sau đó được sửa đổi bằng GCNDKKD số 4106000289 do Sở Kế hoạch và Đầu tư (\"SKHĐT\") Thành phố Hồ Chí Minh cấp ngày 6 tháng 9 năm 2006.\n\nVào ngày 22 tháng 12 năm 2006, Công ty được cổ phần hóa theo Quyết định số 1774/QĐ-BXD do Bộ Xây dựng cấp. Việc cổ phần hóa đã được Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh phê duyệt thống qua việc cấp GCNĐKKD số 4103005941 vào ngày 18 tháng 1 năm 2007, và theo các GCNĐKKD/Giấy Chứng nhận Đằng ký Doanh nghiệp (\"GCNĐKDN\") điều chỉnh như sau:\n\nGCNĐKKD/GCNĐKDN điều chỉnh số:\n\nTừ điều chỉnh lần thứ nhất đến điều chỉnh\nlần thứ mười một\n\n0301446422 - Điều chỉnh lần thứ mười hai\n\n0301446422 - Điều chỉnh lần thứ mười ba\n\n0301446422 - Điều chỉnh lần thứ mươi bốn\n\n0301446422 - Điều chỉnh lần thứ mươi lăm\n\nNgày:\n\nTừ ngày 2 tháng 4 năm 2007\n\nđến ngày 20 tháng 11 năm 2013\n\nNgày 12 tháng 2 năm 2014\n\nNgày 29 tháng 4 năm 2014\n\nNgày 8 tháng 12 năm 2016\n\nNgày 4 tháng 5 năm 2018\n\nVào ngày 30 tháng 4 năm 2010, Công ty Cổ phần Xi măng Hà Tiên 2, một công ty cổ phần được thành lập tại Việt Nam theo GCNĐKKD lần đầu số 5603000124 ngày 1 tháng 2 năm 2008 và GCNĐKKD điều chỉnh lần thứ hai số 1710101407 ngày 18 tháng 11 năm 2008 do Sở Kế hoạch và Đầu tư Tĩnh Kiên Giang cấp, đã được sáp nhập vào Công ty. Việc sáp nhập này đã được Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp GCNĐKKD điều chỉnh lần thứ sáu ngày 25 tháng 6 năm 2010.\n\nCổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh theo Quyết định số 136/QĐ-SGDCK do Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh cấp ngày 31 tháng 10 năm 2007.\n\nHoạt động chính của Công ty trong năm hiện tại là sản xuất và mua bán xi măng và các sản phẩm từ xi măng, vật liệu xây dựng (gạch, ngói, vừa xây tõ, bè tông), clinker, nguyên vật liệu, vật tư xây dựng; xây dựng dân dụng; kinh doanh bất động sản (cho thuê văn phòng); khai thác đá, cát, sôi, và đất sét; và thu gom, xử lý rác thải, tái chế phép liệu.\n\nCông ty có trụ sở chính tại số 360 Bến Chương Dương, Phường Cầu Kho, Quận 1, Thành phố Hồ Chí Minh, Việt Nam và các chi nhánh của Công ty như sau:\n\n- Xí nghiệp Tiêu thụ tại Quận 1, Thành phố Hồ Chí Minh;\n\n- Trạm nghiên Phú Hữu tại Thành phố Thủ Đức, Thành phố Hồ Chí Minh;\n\n- Trạm nghiền Thủ Đức tại Thành phố Thủ Đức, Thành phố Hồ Chí Minh;\n\n- Nhà máy Xi măng Bình Phước tại Thị xã Bình Long, Tỉnh Bình Phước;\n\n- Trạm nghiền Long An tại Huyện Bến Lức, Tỉnh Long An;\n\n- Nhà máy Xi măng Kiên Lương tại Thị trấn Kiên Lương, Tĩnh Kiên Giang;\n\n- Trạm nghiền Cam Ranh tại Thành phố Cam Ranh, Tỉnh Khánh Hòa; và\n\n- Xí nghiệp Quản lý đường B.O.T Phú Hữu tại Thành phố Thủ Đức, Thành phố Hồ Chí Minh.\n\n1\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nTHÔNG TIN CHUNG (tiếp theo)\n\nHỘI ĐỒNG QUẢN TRỊ\n\nCác thành viên của Hội đồng Quản trị trong kỳ và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Đình Quang Dũng",
+                "1": "Chủ tịch",
+                "2": ""
+            },
+            {
+                "0": "Ông Lưu Đình Cường",
+                "1": "Thành viên",
+                "2": ""
+            },
+            {
+                "0": "Ông Nguyễn Quốc Thắng",
+                "1": "Thành viên",
+                "2": ""
+            },
+            {
+                "0": "Ông Nguyễn Văn Lập",
+                "1": "Thành viên",
+                "2": ""
+            },
+            {
+                "0": "Ông Bùi Nguyên Quỳnh",
+                "1": "Thành viên",
+                "2": ""
+            },
+            {
+                "0": "Ông Nguyễn Văn Chuyền",
+                "1": "Thành viên độc lập",
+                "2": ""
+            },
+            {
+                "0": "Ông Phan Xuân Hiệu",
+                "1": "Thành viên độc lập",
+                "2": "bổ nhiệm ngày 20 tháng 11 năm 2020"
+            },
+            {
+                "0": "Ông Trương Phú Cường",
+                "1": "Thành viên độc lập",
+                "2": "từ nhiệm ngày 20 tháng 11 năm 2020"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_3",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "BAN KIÊM SOÁT\n\nCác thành viên của Ban kiểm soát trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Bà Trung Thị Tâm Thanh",
+                "1": "Trường ban"
+            },
+            {
+                "0": "Bà Lê Thị Thu Thủy",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Bà Trần Thị Bích Thủy",
+                "1": "Thành viên"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_4",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "BAN TỔNG GIÁM ĐỐC\n\nCác thành viên của Ban Tổng Giám đốc trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Lưu Đình Cường",
+                "1": "Tổng Giám đốc",
+                "2": ""
+            },
+            {
+                "0": "Ông Phạm Đình Nhật Cường",
+                "1": "Phó Tổng Giám đốc",
+                "2": ""
+            },
+            {
+                "0": "Ông Nguyễn Thanh Phúc",
+                "1": "Phó Tổng Giám đốc",
+                "2": ""
+            },
+            {
+                "0": "Ông Phạm Kiến Phương",
+                "1": "Phó Tổng Giám đốc",
+                "2": "bổ nhiệm ngày 10 tháng 3 năm 2021"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_5",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT\n\nNgười đại diện theo pháp luật của Công ty trong kỳ và vào ngày lập báo cáo này là Ông Lưu Đình Cường.\n\nKIÊM TOÁN VIÊN\n\nCông ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.\n\n2\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC\n\nBan Tổng Giám đốc Công ty Cổ phần Xi măng Hà Tiên 1 (\"Công ty\") trình bày báo cáo này và báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020.\n\nTRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BẢO CÁO TÀI CHÍNH RIÊNG\n\nBan Tổng Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính riêng của Công ty cho từng năm tài chính phần ảnh trung thực và hợp lý tính hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiền tệ riêng của Công ty trong năm. Trong quá trình lập báo cáo tài chính riêng này, Ban Tổng Giám đốc cần phải:\n\n▶ lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;\n\n- thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;\n\nnêu rõ các chuẩn mục kế toán áp dụng cho Công ty có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mục này đã được trình bày và giải thích trong báo cáo tài chính riêng; và\n\nlập báo cáo tài chính riêng trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động.\n\nBan Tổng Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phần ánh tỉnh hình tài chính riêng của Công ty, với mức độ chính xác hợp lý, tại bắt kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Tổng Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Công ty và do đó phải thực hiện các biện pháp thích hợp để ngăn chắn và phát hiện các hành vi gian lập và những vi phạm khác.\n\nBan Tổng Giám đốc cam kết đã tuân thủ những yêu cầu nếu trên trong việc lập báo cáo tài chính riêng kèm theo.\n\nCÔNG BỐ CỦA BAN TỔNG GIÁM ĐỐC\n\nTheo ý kiến của Ban Tổng Giám đốc, báo cáo tài chính riêng kèm theo đã phần ánh trung thực và hợp lý tính hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2020, kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mực kể toán Việt Nam, Chế độ kể toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nCông ty có công ty con như được trình bày trong báo cáo tài chính riêng. Công ty đã lập báo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 155/2015/TT-BTC - Hướng dẫn về việc công bố thông tin trên thị trường chứng khoán. Cứng theo quy định tại văn bản này, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 đề ngày 29 tháng 3 năm 2021.\n\nNgười sử dụng báo cáo tài chính riêng cần đọc báo cáo tài chính riêng này cùng với báo cáo tài chính hợp nhất nói trên để có được đầy đủ thông tin về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Công ty và công ty con.\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 29 tháng 3 năm 2021\n\n3\n\n\n\nEY\nBuilding a better working world\n\nErnst & Young Vietnam Limited\n20th Floor, Bitexco Financial Tower\n2 Hai Trieu Street, District 1\nHo Chi Minh City, S.R. of Vietnam\n\nTel: +84 28 3824 5252\nFax: +84 28 3824 5250\ney.com\n\nSố tham chiếu: 60933836/22104393\n\nBÁO CÁO KIÊM TOÁN ĐỘC LẬP\n\nKính gửi: Quý Cổ đông của Công ty Cổ phần Xi măng Hà Tiên 1\n\nChúng tôi đã kiểm toán báo cáo tài chính riêng đính kèm của Công ty Cổ phần Xi măng Hà Tiên 1 (\"Công ty\") được lập ngày 29 tháng 3 năm 2021 và được trình bày từ trang 6 đến trang 40, bao gồm bằng cân đối kế toán riêng vào ngày 31 tháng 12 năm 2020, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cũng ngày và các thuyết minh báo cáo tài chính riêng kèm theo.\n\nTrách nhiệm của Ban Tổng Giám đốc\n\nBan Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty theo các Chuẩn mực kể toán Việt Nam, Chế độ kể toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chứng tối là đưa ra ý kiến về báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chủng tối đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chứng tối tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính riêng do gian lân hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\nA member firm of Ernst & Young Global Limited\n\n4\n\n(六) 三元元\n\n\n\n-\n\nEY\n\nBuilding a better working world\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến của chúng tối, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khóa cạnh trong yếu, tỉnh hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2020, cũng như kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nCông ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam\n\nTràn Nam Dùng\n\nPhó Tổng Giám đốc\n\nGiấy CNĐKHN kiểm toán\n\nSố: 3021-2019-004-1\n\nNguyễn Thùy Trang\n\nKiểm toán viên\n\nGiấy CNDKHN kiểm toán\n\nSố: 3213-2020-004-1\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 29 tháng 3 năm 2021\n\nA member firm of Ernst & Young Global Limited\n\n5\n\n11\nNO\nHIEM\nT&\nTH\nPH\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB01-DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG\n\nvào ngày 31 tháng 12 năm 2020\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "100",
+                "1": "A. TÀI SẢN NGẮN HẠN",
+                "2": "",
+                "3": "2.307.771.045.917",
+                "4": "2.049.885.084.587"
+            },
+            {
+                "0": "110",
+                "1": "I. Tiền và các khoản tương đương tiền",
+                "2": "4",
+                "3": "1.077.739.666.905",
+                "4": "816.926.189.637"
+            },
+            {
+                "0": "111",
+                "1": "1. Tiền",
+                "2": "",
+                "3": "677.739.666.905",
+                "4": "541.926.189.637"
+            },
+            {
+                "0": "112",
+                "1": "2. Các khoản tương đương tiền",
+                "2": "",
+                "3": "400.000.000.000",
+                "4": "275.000.000.000"
+            },
+            {
+                "0": "120",
+                "1": "II. Đầu tư tài chính ngắn hạn",
+                "2": "",
+                "3": "804.151",
+                "4": "804.151"
+            },
+            {
+                "0": "121",
+                "1": "1. Chứng khoán kinh doanh",
+                "2": "5.1",
+                "3": "804.151",
+                "4": "804.151"
+            },
+            {
+                "0": "130",
+                "1": "III. Các khoản phải thu ngắn hạn",
+                "2": "",
+                "3": "488.234.013.131",
+                "4": "498.287.092.916"
+            },
+            {
+                "0": "131",
+                "1": "1. Phải thu ngắn hạn của khách hàng",
+                "2": "6.1",
+                "3": "351.469.765.608",
+                "4": "375.595.830.993"
+            },
+            {
+                "0": "132",
+                "1": "2. Trả trước cho người bán ngắn hạn",
+                "2": "6.2",
+                "3": "19.049.605.144",
+                "4": "33.292.250.192"
+            },
+            {
+                "0": "136",
+                "1": "3. Phải thu ngắn hạn khác",
+                "2": "7",
+                "3": "117.653.457.317",
+                "4": "89.399.011.731"
+            },
+            {
+                "0": "139",
+                "1": "4. Tài sản thiếu chờ xử lý",
+                "2": "",
+                "3": "61.185.062",
+                "4": "-"
+            },
+            {
+                "0": "140",
+                "1": "IV. Hàng tồn kho",
+                "2": "",
+                "3": "708.407.652.537",
+                "4": "720.476.498.001"
+            },
+            {
+                "0": "141",
+                "1": "1. Hàng tồn kho",
+                "2": "8",
+                "3": "754.263.374.369",
+                "4": "750.459.213.372"
+            },
+            {
+                "0": "149",
+                "1": "2. Dự phòng giảm giá hàng tồn kho",
+                "2": "8",
+                "3": "(45.855.721.832)",
+                "4": "(29.982.715.371)"
+            },
+            {
+                "0": "150",
+                "1": "V. Tài sản ngắn hạn khác",
+                "2": "",
+                "3": "33.388.909.193",
+                "4": "14.194.499.882"
+            },
+            {
+                "0": "151",
+                "1": "1. Chi phí trả trước ngắn hạn",
+                "2": "9",
+                "3": "3.995.817.866",
+                "4": "2.333.150.250"
+            },
+            {
+                "0": "152",
+                "1": "2. Thuế GTGT được khấu trừ",
+                "2": "",
+                "3": "21.874.759.319",
+                "4": "11.786.202.624"
+            },
+            {
+                "0": "153",
+                "1": "3. Thuế và các khoản khác phải thu Nhà nước",
+                "2": "",
+                "3": "7.518.332.008",
+                "4": "75.147.008"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_6",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "6\n\n5\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB01-DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "200",
+                "1": "B. TÀI SẢN DÀI HẠN",
+                "2": "",
+                "3": "7.726.932.199.488",
+                "4": "8.233.616.418.710"
+            },
+            {
+                "0": "210",
+                "1": "I. Phải thu dài hạn",
+                "2": "",
+                "3": "16.992.215.835",
+                "4": "12.441.761.361"
+            },
+            {
+                "0": "216",
+                "1": "1. Phải thu dài hạn khác",
+                "2": "7",
+                "3": "16.992.215.835",
+                "4": "12.441.761.361"
+            },
+            {
+                "0": "220",
+                "1": "II. Tài sản cố định",
+                "2": "",
+                "3": "6.334.247.096.345",
+                "4": "6.859.092.965.728"
+            },
+            {
+                "0": "221",
+                "1": "1. Tài sản cố định hữu hình",
+                "2": "10",
+                "3": "6.239.092.026.311",
+                "4": "6.760.638.072.814"
+            },
+            {
+                "0": "222",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "13.590.856.258.959",
+                "4": "13.535.483.075.182"
+            },
+            {
+                "0": "223",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "",
+                "3": "(7.351.764.232.648)",
+                "4": "(6.774.845.002.368)"
+            },
+            {
+                "0": "227",
+                "1": "2. Tài sản cố định vô hình",
+                "2": "11",
+                "3": "95.155.070.034",
+                "4": "98.454.892.914"
+            },
+            {
+                "0": "228",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "131.475.796.263",
+                "4": "131.640.796.263"
+            },
+            {
+                "0": "229",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "",
+                "3": "(36.320.726.229)",
+                "4": "(33.185.903.349)"
+            },
+            {
+                "0": "240",
+                "1": "III. Tài sản dở dang dài hạn",
+                "2": "",
+                "3": "934.830.994.841",
+                "4": "974.045.526.770"
+            },
+            {
+                "0": "242",
+                "1": "1. Chi phí xây dựng cơ bản dở dang",
+                "2": "12",
+                "3": "934.830.994.841",
+                "4": "974.045.526.770"
+            },
+            {
+                "0": "250",
+                "1": "IV. Đầu tư tài chính dài hạn",
+                "2": "5.2",
+                "3": "50.958.000.000",
+                "4": "45.673.000.000"
+            },
+            {
+                "0": "251",
+                "1": "1. Đầu tư vào công ty con",
+                "2": "",
+                "3": "19.500.000.000",
+                "4": "19.500.000.000"
+            },
+            {
+                "0": "253",
+                "1": "2. Đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "56.000.000.000",
+                "4": "56.000.000.000"
+            },
+            {
+                "0": "254",
+                "1": "3. Dự phòng đầu tư tài chính dài hạn",
+                "2": "",
+                "3": "(24.542.000.000)",
+                "4": "(29.827.000.000)"
+            },
+            {
+                "0": "260",
+                "1": "V. Tài sản dài hạn khác",
+                "2": "",
+                "3": "389.903.892.467",
+                "4": "342.363.164.851"
+            },
+            {
+                "0": "261",
+                "1": "1. Chi phí trả trước dài hạn",
+                "2": "9",
+                "3": "257.026.380.855",
+                "4": "223.114.210.030"
+            },
+            {
+                "0": "262",
+                "1": "2. Tài sản thuế thu nhập hoãn lại",
+                "2": "28.3",
+                "3": "8.582.185.951",
+                "4": "7.824.114.066"
+            },
+            {
+                "0": "263",
+                "1": "3. Thiết bị vật tư, phụ tùng thay thế dài hạn",
+                "2": "",
+                "3": "124.295.325.661",
+                "4": "111.424.840.755"
+            },
+            {
+                "0": "270",
+                "1": "TỔNG CỘNG TÀI SẢN",
+                "2": "",
+                "3": "10.034.703.245.405",
+                "4": "10.283.501.503.297"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_7",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "7\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB01-DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "300",
+                "1": "C. NỘ PHẢI TRẢ",
+                "2": "",
+                "3": "4.648.054.809.831",
+                "4": "4.923.987.629.380"
+            },
+            {
+                "0": "310",
+                "1": "I. Nợ ngắn hạn",
+                "2": "",
+                "3": "4.628.599.746.466",
+                "4": "4.101.746.139.131"
+            },
+            {
+                "0": "311",
+                "1": "1. Phải trả người bán ngắn hạn",
+                "2": "13.1",
+                "3": "1.367.654.722.815",
+                "4": "1.270.725.405.831"
+            },
+            {
+                "0": "312",
+                "1": "2. Người mua trả tiền trước ngắn hạn",
+                "2": "13.2",
+                "3": "63.658.086.465",
+                "4": "45.318.459.416"
+            },
+            {
+                "0": "313",
+                "1": "3. Thuế và các khoản phải nộp Nhà nước",
+                "2": "14",
+                "3": "51.633.909.851",
+                "4": "57.264.667.163"
+            },
+            {
+                "0": "314",
+                "1": "4. Phải trả người lao động",
+                "2": "",
+                "3": "147.960.435.760",
+                "4": "119.048.225.444"
+            },
+            {
+                "0": "315",
+                "1": "5. Chi phí phải trả ngắn hạn",
+                "2": "15",
+                "3": "33.544.390.426",
+                "4": "48.909.103.605"
+            },
+            {
+                "0": "318",
+                "1": "6. Doanh thu chưa thực hiện ngắn hạn",
+                "2": "16",
+                "3": "103.319.361.971",
+                "4": "109.375.837.940"
+            },
+            {
+                "0": "319",
+                "1": "7. Phải trả ngắn hạn khác",
+                "2": "17",
+                "3": "384.688.787.493",
+                "4": "18.711.546.569"
+            },
+            {
+                "0": "320",
+                "1": "8. Vay ngắn hạn",
+                "2": "18",
+                "3": "2.376.947.182.563",
+                "4": "2.374.628.430.111"
+            },
+            {
+                "0": "322",
+                "1": "9. Quỹ khen thưởng, phúc lợi",
+                "2": "19",
+                "3": "99.192.869.122",
+                "4": "57.764.463.052"
+            },
+            {
+                "0": "330",
+                "1": "II. Nợ dài hạn",
+                "2": "",
+                "3": "19.455.063.365",
+                "4": "822.241.490.249"
+            },
+            {
+                "0": "338",
+                "1": "1. Vay dài hạn",
+                "2": "18",
+                "3": "-",
+                "4": "807.534.679.021"
+            },
+            {
+                "0": "342",
+                "1": "2. Dự phòng phải trả dài hạn",
+                "2": "20",
+                "3": "14.422.063.365",
+                "4": "13.329.071.395"
+            },
+            {
+                "0": "343",
+                "1": "3. Quỹ phát triển khoa học và công nghệ",
+                "2": "",
+                "3": "5.033.000.000",
+                "4": "1.377.739.833"
+            },
+            {
+                "0": "400",
+                "1": "D. VỐN CHỦ SỞ HỮU",
+                "2": "21",
+                "3": "5.386.648.435.574",
+                "4": "5.359.513.873.917"
+            },
+            {
+                "0": "410",
+                "1": "I. Vốn chủ sở hữu",
+                "2": "",
+                "3": "5.386.648.435.574",
+                "4": "5.359.513.873.917"
+            },
+            {
+                "0": "411",
+                "1": "1. Vốn cổ phần",
+                "2": "",
+                "3": "3.815.899.110.000",
+                "4": "3.815.899.110.000"
+            },
+            {
+                "0": "411a",
+                "1": "- Cổ phiếu phổ thông có quyền biểu quyết",
+                "2": "",
+                "3": "3.815.899.110.000",
+                "4": "3.815.899.110.000"
+            },
+            {
+                "0": "412",
+                "1": "2. Thặng dư vốn cổ phần",
+                "2": "",
+                "3": "70.790.410.045",
+                "4": "70.790.410.045"
+            },
+            {
+                "0": "415",
+                "1": "3. Cổ phiếu quỹ",
+                "2": "",
+                "3": "(902.752.100)",
+                "4": "(902.752.100)"
+            },
+            {
+                "0": "418",
+                "1": "4. Quỹ đầu tư phát triển",
+                "2": "",
+                "3": "770.212.709.128",
+                "4": "615.884.709.128"
+            },
+            {
+                "0": "421",
+                "1": "5. Lợi nhuận sau thuế chưa phân phối",
+                "2": "",
+                "3": "730.648.958.501",
+                "4": "857.842.396.844"
+            },
+            {
+                "0": "421a",
+                "1": "- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước",
+                "2": "",
+                "3": "123.409.103.644",
+                "4": "117.903.535.519"
+            },
+            {
+                "0": "421b",
+                "1": "- Lợi nhuận sau thuế chưa phân phối năm nay",
+                "2": "",
+                "3": "607.239.854.857",
+                "4": "739.938.861.325"
+            },
+            {
+                "0": "440",
+                "1": "TỔNG CỘNG NGUỒN VỐN",
+                "2": "",
+                "3": "10.034.703.245.405",
+                "4": "10.283.501.503.297"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_8",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "Nguyễn Thị Loan\n\nNgười lập\n\nBùi Nguyên Quỳnh\n\nKế toán trường\n\nLưu Đình Cường\n\nTổng Giám đốc\n\nNgày 29 tháng 3 năm 2021\n\n8\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB02-DN\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2020\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHÍ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "01",
+                "1": "1. Doanh thu bán hàng và cung cấp dịch vụ",
+                "2": "22.1",
+                "3": "8.440.110.589.235",
+                "4": "9.311.261.949.710"
+            },
+            {
+                "0": "02",
+                "1": "2. Các khoản giảm trừ doanh thu",
+                "2": "22.1",
+                "3": "(477.481.551.385)",
+                "4": "(472.636.955.295)"
+            },
+            {
+                "0": "10",
+                "1": "3. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "22.1",
+                "3": "7.962.629.037.850",
+                "4": "8.838.624.994.415"
+            },
+            {
+                "0": "11",
+                "1": "4. Giá vốn hàng bán và dịch vụ cung cấp",
+                "2": "23",
+                "3": "(6.607.041.535.736)",
+                "4": "(7.277.551.225.731)"
+            },
+            {
+                "0": "20",
+                "1": "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "1.355.587.502.114",
+                "4": "1.561.073.768.684"
+            },
+            {
+                "0": "21",
+                "1": "6. Doanh thu hoạt động tài chính",
+                "2": "22.2",
+                "3": "10.842.104.936",
+                "4": "25.902.029.152"
+            },
+            {
+                "0": "22",
+                "1": "7. Chi phí tài chính Trong đó: Chi phí lãi vay",
+                "2": "25",
+                "3": "(222.634.224.822) (181.090.596.247)",
+                "4": "(272.068.535.647) (238.355.497.769)"
+            },
+            {
+                "0": "23",
+                "1": "7. Chi phí tài chính Trong đó: Chi phí lãi vay",
+                "2": "25",
+                "3": "(222.634.224.822) (181.090.596.247)",
+                "4": "(272.068.535.647) (238.355.497.769)"
+            },
+            {
+                "0": "25",
+                "1": "8. Chi phí bán hàng",
+                "2": "24",
+                "3": "(150.250.619.058)",
+                "4": "(159.933.838.538)"
+            },
+            {
+                "0": "26",
+                "1": "9. Chi phí quản lý doanh nghiệp",
+                "2": "24",
+                "3": "(200.515.968.144)",
+                "4": "(214.576.964.523)"
+            },
+            {
+                "0": "30",
+                "1": "10. Lợi nhuận thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "793.028.795.026",
+                "4": "940.396.459.128"
+            },
+            {
+                "0": "31",
+                "1": "11. Thu nhập khác",
+                "2": "26",
+                "3": "1.721.731.434",
+                "4": "3.473.821.039"
+            },
+            {
+                "0": "32",
+                "1": "12. Chi phí khác",
+                "2": "26",
+                "3": "(27.825.712.839)",
+                "4": "(16.583.616.013)"
+            },
+            {
+                "0": "40",
+                "1": "13. Lỗ khác",
+                "2": "",
+                "3": "(26.103.981.405)",
+                "4": "(13.109.794.974)"
+            },
+            {
+                "0": "50",
+                "1": "14. Tổng lợi nhuận kế toán trước thuế",
+                "2": "",
+                "3": "766.924.813.621",
+                "4": "927.286.664.154"
+            },
+            {
+                "0": "51",
+                "1": "15. Chi phí thuế TNDN hiện hành",
+                "2": "28.1",
+                "3": "(160.443.030.649)",
+                "4": "(190.059.148.853)"
+            },
+            {
+                "0": "52",
+                "1": "16. Thu nhập thuế TNDN hoãn lại",
+                "2": "28.1",
+                "3": "758.071.885",
+                "4": "2.711.346.024"
+            },
+            {
+                "0": "60",
+                "1": "17. Lợi nhuận sau thuế TNDN",
+                "2": "",
+                "3": "607.239.854.857",
+                "4": "739.938.861.325"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_9",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "Nguyễn Thị Loan\n\nNgười lập\n\nBùi Nguyên Quỳnh\n\nKế toán trường\n\n7.P Lùu Đình Cường\n\nTổng Giám đốc\n\nNgày 29 tháng 3 năm 2021\n\n9\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB03-DN\n\nBÁO CÁO LƯU CHUYỀN TIỀN TỆ RIÊNG\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2020\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "",
+                "1": "I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "01",
+                "1": "Tổng lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản:",
+                "2": "",
+                "3": "766.924.813.621",
+                "4": "927.286.664.154"
+            },
+            {
+                "0": "02",
+                "1": "Khấu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình",
+                "2": "",
+                "3": "656.585.167.865",
+                "4": "708.479.715.218"
+            },
+            {
+                "0": "03",
+                "1": "Các khoản dự phòng",
+                "2": "",
+                "3": "11.680.998.431",
+                "4": "5.661.166.042"
+            },
+            {
+                "0": "04",
+                "1": "Lỗ (lãi) chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+                "2": "",
+                "3": "6.960.509.931",
+                "4": "(2.551.120.300)"
+            },
+            {
+                "0": "05",
+                "1": "Lãi từ hoạt động đầu tư",
+                "2": "",
+                "3": "(9.028.909.238)",
+                "4": "(11.021.699.715)"
+            },
+            {
+                "0": "06",
+                "1": "Chi phí lãi vay",
+                "2": "25",
+                "3": "181.090.596.247",
+                "4": "238.355.497.769"
+            },
+            {
+                "0": "07",
+                "1": "Các khoản điều chỉnh khác",
+                "2": "",
+                "3": "5.033.000.000",
+                "4": "-"
+            },
+            {
+                "0": "08",
+                "1": "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+                "2": "",
+                "3": "1.619.246.176.857",
+                "4": "1.866.210.223.168"
+            },
+            {
+                "0": "09",
+                "1": "Tăng các khoản phải thu",
+                "2": "",
+                "3": "(19.528.714.150)",
+                "4": "(25.059.764.995)"
+            },
+            {
+                "0": "10",
+                "1": "Tăng hàng tồn kho",
+                "2": "",
+                "3": "(16.674.645.903)",
+                "4": "(76.311.015.956)"
+            },
+            {
+                "0": "11",
+                "1": "Tăng các khoản phải trả",
+                "2": "",
+                "3": "148.044.028.159",
+                "4": "109.878.467.439"
+            },
+            {
+                "0": "12",
+                "1": "Tăng chi phí trả trước",
+                "2": "",
+                "3": "(35.574.838.441)",
+                "4": "(132.074.359.939)"
+            },
+            {
+                "0": "14",
+                "1": "Tiền lãi vay đã trả",
+                "2": "",
+                "3": "(196.783.669.822)",
+                "4": "(246.233.213.179)"
+            },
+            {
+                "0": "15",
+                "1": "Thuế thu nhập doanh nghiệp đã nộp",
+                "2": "14",
+                "3": "(174.927.117.168)",
+                "4": "(214.932.091.398)"
+            },
+            {
+                "0": "17",
+                "1": "Tiền chi khác cho hoạt động kinh doanh",
+                "2": "",
+                "3": "(74.671.662.808)",
+                "4": "(72.154.406.140)"
+            },
+            {
+                "0": "20",
+                "1": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "1.249.129.556.724",
+                "4": "1.209.323.839.000"
+            },
+            {
+                "0": "",
+                "1": "II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "21",
+                "1": "Tiền chỉ để mua sắm và xây dựng tài sản cố định",
+                "2": "",
+                "3": "(93.349.740.905)",
+                "4": "(76.111.648.620)"
+            },
+            {
+                "0": "22",
+                "1": "Tiền thu do thanh lý tài sản cố định",
+                "2": "",
+                "3": "1.884.075.637",
+                "4": "3.065.472.302"
+            },
+            {
+                "0": "27",
+                "1": "Tiền thu lãi và cố tức được chia",
+                "2": "",
+                "3": "7.754.684.124",
+                "4": "9.482.628.144"
+            },
+            {
+                "0": "30",
+                "1": "Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tư",
+                "2": "",
+                "3": "(83.710.981.144)",
+                "4": "(63.563.548.174)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_10",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "10\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB03-DN\n\nBÁO CÁO LƯU CHUYỀN TIỀN TỆ RIÊNG (tiếp theo)\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2020\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIỀU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "",
+                "1": "III. LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "33",
+                "1": "Tiền thu từ đi vay",
+                "2": "18",
+                "3": "3.672.041.124.218",
+                "4": "3.804.301.368.540"
+            },
+            {
+                "0": "34",
+                "1": "Tiền trả nợ gốc vay",
+                "2": "18",
+                "3": "(4.484.136.034.260)",
+                "4": "(4.449.382.036.536)"
+            },
+            {
+                "0": "36",
+                "1": "Cổ tức đã trả cho chủ sở hữu",
+                "2": "21.2",
+                "3": "(92.486.856.280)",
+                "4": "(457.227.313.395)"
+            },
+            {
+                "0": "40",
+                "1": "Lưu chuyển tiền thuần sử dụng vào hoạt động tài chính",
+                "2": "",
+                "3": "(904.581.766.322)",
+                "4": "(1.102.307.981.391)"
+            },
+            {
+                "0": "50",
+                "1": "Lưu chuyển tiền thuần trong năm",
+                "2": "",
+                "3": "260.836.809.258",
+                "4": "43.452.309.435"
+            },
+            {
+                "0": "60",
+                "1": "Tiền và tương đương tiền đầu năm",
+                "2": "",
+                "3": "816.926.189.637",
+                "4": "773.484.450.538"
+            },
+            {
+                "0": "61",
+                "1": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+                "2": "",
+                "3": "(23.331.990)",
+                "4": "(10.570.336)"
+            },
+            {
+                "0": "70",
+                "1": "Tiền và tương đương tiền cuối năm",
+                "2": "4",
+                "3": "1.077.739.666.905",
+                "4": "816.926.189.637"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_11",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "Nguyễn Thị Loan\n\nNgười lập\n\nBùi Nguyên Quỳnh\nKế toán trưởng\n\nNgày 29 tháng 3 năm 2021\n\n11\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n1. THÔNG TIN DOANH NGHIỆP\n\nCông ty Cổ phần Xi măng Hà Tiên 1 (\"Công ty\"), trước đây là Công ty Xi măng Hà Tiên 1, tiền thân là một doanh nghiệp Nhà nước được thành lập tại Việt Nam theo Quyết định Thành lập số 441/BXD-TCLD do Bộ Xây dựng cấp ngày 30 tháng 9 năm 1993. Giấy Chứng nhận Đăng ký Kinh doanh (\"GCNĐKKD\") đầu tiên của Công ty số 102955 được Ban Trọng tài Kinh tế cấp ngày 9 tháng 10 năm 1993 và sau đó được sửa đổi bằng GCNĐKKD số 4106000289 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 6 tháng 9 năm 2006.\n\nVào ngày 22 tháng 12 năm 2006, Công ty được cổ phần hóa theo Quyết định số 1774/QĐ-BXD do Bộ Xây dựng cấp. Việc cổ phần hóa đã được Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh phê duyệt thông qua việc cấp GCNĐKKD số 4103005941 vào ngày 18 tháng 1 năm 2007, và theo các GCNĐKKD, Giấy Chứng nhận Đăng ký Doanh nghiệp (\"GCNĐKDN\") điều chỉnh như sau:\n\nGCNĐKKD/GCNĐKDN điều chỉnh số:\n\nNgày:\n\nTừ điều chỉnh lần thứ nhất đến điều chỉnh\nlần thứ mười một\n0301446422 - Điều chỉnh lần thứ mười hai\n0301446422 - Điều chỉnh lần thứ mười ba\n0301446422 - Điều chỉnh lần thứ mười bốn\n0301446422 - Điều chỉnh lần thứ mười lăm\n\nTừ ngày 2 tháng 4 năm 2007\nđến ngày 20 tháng 11 năm 2013\nNgày 12 tháng 2 năm 2014\nNgày 29 tháng 4 năm 2014\nNgày 8 tháng 12 năm 2016\nNgày 4 tháng 5 năm 2018\n\nVào ngày 30 tháng 4 năm 2010, Công ty Cổ phần Xi măng Hà Tiên 2, một công ty cổ phần được thành lập tại Việt Nam theo GCNĐKKD lần đầu số 5603000124 ngày 1 tháng 2 năm 2008 và GCNĐKKD điều chỉnh lần thứ hai số 1710101407 ngày 18 tháng 11 năm 2008 do Sở Kế hoạch và Đầu tư Tĩnh Kiên Giang cấp, được sáp nhập vào Công ty. Việc sáp nhập này đã được Sở Kế hoạch và Đầu tư (\"SKHĐT\") Thành phố Hồ Chí Minh cấp GCNĐKKD điều chỉnh lần thứ sâu ngày 25 tháng 6 năm 2010.\n\nCổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh theo Quyết định số 136/QĐ-SGDCK do Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh cấp ngày 31 tháng 10 năm 2007.\n\nHoạt động chính của Công ty trong năm hiện tại là sản xuất và mua bán xi măng và các sản phẩm từ xi măng, vật liệu xây dựng (gạch, ngói, vừa xây tờ, bê tông), clinker, nguyên vật liệu, vật tư xây dựng; xây dựng dân dụng; kinh doanh bất động sản (cho thuê văn phòng); khai thác đá, cát, sỏi, và đất sét; và thu gom, xử lý rác thải, tái chế phê liệu.\n\nCông ty có trụ sở chính tại số 360 Bến Chương Dương, Phường Cầu Kho, Quận 1, Thành phố Hồ Chí Minh, Việt Nam và các chi nhánh của Công ty như sau:\n\n- Xí nghiệp Tiêu thụ và Dịch vụ tại Quận 1, Thành phố Hồ Chí Minh;\n\n- Trạm nghiên Phú Hữu tại Thành phố Thủ Đức, Thành phố Hồ Chí Minh;\n\n- Trạm nghiền Thủ Đức tại Thành phố Thủ Đức, Thành phố Hồ Chí Minh ;\n\n- Nhà máy Xi măng Bình Phước tại Thị xã Bình Long, Tỉnh Bình Phước;\n\n- Trạm nghiền Long An tại Huyện Bến Lức, Tỉnh Long An;\n\n- Nhà máy Xi măng Kiên Lương tại Thị trấn Kiên Lương, Tỉnh Kiên Giang;\n\n- Trạm nghiền Cam Ranh tại Thành phố Cam Ranh, Tỉnh Khánh Hòa; và\n\n- Xí nghiệp Quản lý đường B.O.T Phú Hữu tại Thành phố Thủ Đức, Thành phố Hồ Chí Minh.\n\nVào ngày 31 tháng 12 năm 2020, hoạt động sản xuất tại Trạm nghiền Thủ Đức đã được ngừng và Công ty đang thực hiện việc di dồi theo yêu cầu của các cơ quan chức năng.\n\nSố lượng công nhân viên của Công ty vào ngày 31 tháng 12 năm 2020 là 2.435 (31 tháng 12 năm 2019: 2.468).\n\n12\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n1. THÔNG TIN DOANH NGHIỆP (tiếp theo)\n\nĐại dịch Covid-19\n\nĐại dịch Covid-19 đang dẫn đến sự suy thoái kinh tế và ảnh hưởng tiêu cực đến hầu hết các doanh nghiệp và ngành nghề. Tỉnh hình này dẫn đến các yếu tố không chắc chắn và có thể tác động đến môi trường mà Công ty đang hoạt động. Ban Giám đốc Công ty vẫn đang tiếp tục theo dõi các diễn biến của tỉnh hình, cũng như đánh giá các ảnh hưởng tài chính liên quan đến việc đánh giá tài sản, các khoản dự phòng và công nợ tiềm tàng, đồng thời sử dụng các ước tỉnh và xét đoán đối với các vấn đề khác nhau, dựa trên các thông tin tin cậy nhất có được đến ngày của báo cáo tài chính này.\n\n2. CO' SÔ' TRÌNH BÀY\n\n2.1 Mục đích lập báo cáo tài chính riêng\n\nCông ty có một công ty con như được trình bày tại Thuyết minh số 5.2. Công ty đã lập báo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 155/2015/TT-BTC - Hướng dẫn về việc công bố thông tin trên thị trường chứng khoán. Công theo quy định tại văn bản này, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và công ty con (\"Nhóm Công ty\") cho nằm tài chính kết thúc ngày 31 tháng 12 năm 2020 đề ngày 29 tháng 3 năm 2021.\n\nNgười sử dụng báo cáo tài chính riêng nên đọc báo cáo này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty.\n\n2.2 Chuẩn mực và Chế độ kế toán áp dụng\n\nBáo cáo tài chính riêng của Công ty được trình bày bằng đồng Việt Nam (\"VND\") phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam khác do Bộ Tài chính ban hành theo:\n\nQuyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);\n\nQuyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 2);\n\n▶ Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 3);\n\n▶ Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 4); và\n\nQuyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).\n\nTheo đó, báo cáo tài chính riêng được trình bày kèm theo và việc sử dụng báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tình hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng của Công ty theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.\n\n2.3 Hình thức số kế toán áp dụng\n\nHình thức số kế toán được áp dụng của Công ty là hình thức kế toán trên máy vi tính.\n\n2.4 Ký kế toán năm\n\nKỳ kế toán năm của Công ty áp dụng cho việc lập báo cáo tài chính riêng bắt đầu từ ngày 1 tháng 1 và kết thúc ngày 31 tháng 12.\n\n2.5 Đơn vị tiền tệ trong kế toán\n\nBáo cáo tài chính riêng được lập bằng đơn vị tiền tệ trong kế toán của Công ty là VND.\n\n13\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU\n\n3.1 Tiền và các khoản tương đương tiền\n\nTiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng và các khoản đầu tư ngắn hạn có thời hạn gốc không quá ba tháng, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.\n\n3.2 Hàng tồn kho\n\nHàng tồn kho được ghi nhận theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.\n\nGiá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.\n\nCông ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho với giá trị được xác định như sau:\n\nNguyên vật liệu - chi phí mua theo phương pháp bình quân gia quyền.\n\nThành phẩm và sản phẩm dở dang - giá vốn nguyên vật liệu và lao động trực tiếp cộng chi phí sản xuất chung có liên quan được phân bổ dựa trên mức độ hoạt động bình thường theo phương pháp bình quân gia quyền.\n\nDự phòng giảm giá hàng tồn kho\n\nDự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị (do giảm giá, hư hỏng, kém phẩm chất, lỗi thời v.v.) có thể xảy ra đối với nguyên vật liệu, thành phẩm, hàng hóa tồn kho thuộc quyền sở hữu của Công ty dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc kỳ kế toán năm.\n\nSố tăng hoặc giảm khoản dự phòng giảm giá hàng tồn kho được hạch toán vào tài khoản giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.3 Các khoản phải thu\n\nCác khoản phải thu được trình bày trên báo cáo tài chính riêng theo giá trị ghi số các khoản phải thu từ khách hàng và phải thu khác sau khi cấn trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.\n\nDự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc kỳ kế toán năm. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào tài khoản chi phí quản lý doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.4 Tài sản cố định hữu hình\n\nTài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế.\n\nNguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào hoạt động như dự kiến.\n\nCác chỉ phí mua sắm, nâng cấp và đổi mới tài sản cố định hữu hình được ghi tăng nguyên giá của tài sản và chỉ phí bảo trì, sửa chữa được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.\n\nKhi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n14\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.5 Tài sản cố định vô hình\n\nTài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.\n\nNguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.\n\nCác chỉ phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chỉ phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.\n\nKhi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.\n\nQuyền sử dụng đất\n\nQuyền sử dụng đất được ghi nhận như tài sản cố định vô hình thể hiện giá trị của quyền sử dụng đất được mua hoặc thuê bởi Công ty. Thời gian hữu dụng của các quyền sử dụng đất được xác định là có thời hạn hoặc vô thời hạn. Theo đó, các quyền sử dụng đất với thời gian sử dụng có thời hạn, chủ yếu bao gồm tiền thuê đất được phân bổ theo thời gian thuê, trong khi các quyền sử dụng đất với thời gian sử dụng vô thời hạn thì không được phân bổ.\n\n3.6 Khâu hao và hao mòn\n\nKhấu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp đường thẳng trong thời gian hữu dụng ước tính của các tài sản như sau:",
+        "dataframe": [
+            {
+                "0": "Nhà cửa và vật kiến trúc",
+                "1": "5 - 50 năm"
+            },
+            {
+                "0": "Máy móc và thiết bị",
+                "1": "4 - 20 năm"
+            },
+            {
+                "0": "Phương tiện vận tải",
+                "1": "6 - 30 năm"
+            },
+            {
+                "0": "Thiết bị văn phòng",
+                "1": "3 - 8 năm"
+            },
+            {
+                "0": "Chương trình phần mềm",
+                "1": "3 - 8 năm"
+            },
+            {
+                "0": "Bản quyền",
+                "1": "3 - 8 năm"
+            },
+            {
+                "0": "Tài sản khác",
+                "1": "5 - 25 năm"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_12",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "3.7 Chi phí di vay\n\nChi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Công ty.\n\nChi phí đi vay được hạch toán như chi phí trong năm khi phát sinh ngoại trừ các khoản được vốn hóa như theo nội dung của đoạn tiếp theo.\n\nChi phí đi vay liên quan trực tiếp đến việc mua sắm, xây dựng, hoặc hình thành một tài sản cụ thể cần có một thời gian đủ dài để có thể đưa vào sử dụng theo mục dịch định trước hoặc để bán được vốn hóa vào nguyên giá của tài sản đó.\n\n3.8 Chi phí trả trước\n\nChi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bằng cân đối kế toán riêng và được phân bổ trong khoảng thời gian trả trước hoặc thời gian các lợi ích kinh tế tương ứng được tạo ra từ các chi phí này.\n\nCác loại chi phí sau đây được hạch toán vào chi phí trả trước dài hạn để phân bổ dần vào báo cáo kết quả hoạt động kinh doanh riêng:\n\n▶ Chi phí giải phóng mặt bằng được phân bổ trong suốt thời gian đi thuê;\n\n▶ Chi phí sửa chữa lớn với giá trị lớn và được sử dụng trên hai năm; và\n\n▶ Chi phí bóc tầng phủ.\n\n15\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.9 Các khoản đầu tư\n\nĐầu tư vào công ty con\n\nKhoản đầu tư vào công ty con mà trong đó Công ty nấm quyền kiểm soát được trình bày theo phương pháp giá gốc.\n\nCác khoản phân phối lợi nhuận mà Công ty nhận được từ số lợi nhuận lũy kế của công ty con sau ngày Công ty nằm quyền kiểm soát được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng của Công ty. Các khoản phân phối khác được xem như phần thu hồi của các khoản đầu tư và được trừ vào giá trị đầu tư.\n\nChứng khoán kinh doanh và đầu tư góp vốn vào đơn vị khác\n\nChứng khoán kinh doanh và đầu tư góp vốn vào đơn vị khác được ghi nhận theo giá mua thực tế.\n\nDự phòng giảm giá trị các khoản chứng khoán kinh doanh và các khoản đầu tư góp vốn\n\nDự phòng cho việc giảm giá trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này vào ngày kết thúc ký kế toán năm. Tăng hoặc giảm số dự tài khoản dự phòng được hạch toán vào tài khoản chi phí tài chính trên báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.10 Các khoản phải trả và chi phí trích trước\n\nCác khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được mà không phụ thuộc vào việc Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.\n\n3.11 Dự phòng\n\nCông ty ghi nhận dự phòng khi có nghĩa vụ nợ hiện tại (nghĩa vụ pháp lý hoặc nghĩa vụ liên đối) là kết quả của một sự kiện đã xảy ra trong quá khử. Việc thanh toán nghĩa vụ nợ này có thể sẽ đến đến sự giảm sút về những lợi ích kinh tế và Công ty có thể đưa ra được một ước tính đáng tin cậy về giá trị của nghĩa vụ nợ đó.\n\nKhi Công ty cho rằng một phần hoặc toàn bộ chi phí để thanh toán một khoản dự phòng sẽ được hoàn lại, ví dụ như thông qua hợp đồng bảo hiểm, khoản bởi hoàn này chỉ được ghi nhận là một tài sản riêng biết khi việc nhận được bởi hoàn là gần như chắc chắn. Chi phí liên quan đến các khoản được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng sau khi đã trừ đi các khoản bởi hoàn.\n\nNếu ảnh hưởng về giá trị thời gian của tiền là trọng yếu thì giá trị của một khoản dự phòng cần được chiết khấu về giá trị hiện tại, sử dụng tỷ lệ chiết khấu là tỷ lệ trước thuế và phần ảnh rõ những rủi ro cụ thể của khoản nợ đó. Khi giá trị của khoản dự phòng được chiết khấu, phần tăng lên theo thời gian của khoản dự phòng được ghi nhận là chỉ phí tài chính.\n\n16\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.12 Các nghiệp vụ bằng ngoại tệ\n\nCác nghiệp vụ phát sinh bằng các đơn vị tiền tệ khác với đơn vị tiền tệ trong kế toán của Công ty (VND) được hạch toán theo tỷ giá giao dịch thực tế vào ngày phát sinh nghiệp vụ theo nguyên tắc sau:\n\n- Nghiệp vụ làm phát sinh các khoản phải thu được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Công ty chỉ định khách hàng thanh toán;\n\n- Nghiệp vụ làm phát sinh các khoản phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Công ty dự kiến giao dịch; và\n\n- Giao dịch mua sắm tài sản hoặc các khoản chi phí được thanh toán ngay bằng ngoại tệ (không qua các tài khoản phải trả) được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Công ty thực hiện thanh toán.\n\nTại ngày kết thúc ký kế toán năm, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế tại ngày của bằng cân đối kế toán theo nguyên tắc sau:\n\n- Các khoản mục tiền tệ được phân loại là tài sản được đánh giá lại theo tỷ giá mua của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch; và\n\n- Các khoản mục tiền tệ được phân loại là nợ phải trả được đánh giá lại theo tỷ giá bán của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.\n\nTất cả các khoản chênh lệch tỷ giá thực tế phát sinh trong năm và chênh lệch do đánh giá lại số dư tiền tệ có gốc ngoại tệ cuối năm được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.13 Cổ phiếu quỹ\n\nCác công cụ vốn chủ sở hữu được Công ty mua lại (cổ phiếu quỹ) được ghi nhận theo nguyên giá và trừ vào vốn chủ sở hữu. Công ty không ghi nhận các khoản lãi (lỗ) vào báo cáo kết quả hoạt động kinh doanh riêng khi mua, bán, phát hành hoặc hủy các công cụ vốn chủ sở hữu của mình.\n\n3.14 Phân chia lợi nhuận\n\nLợi nhuận thuần sau thuế thu nhập doanh nghiệp có thể được chia cho các cổ đông sau khi được Đại hội đồng cổ đông phê duyệt và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam. Công ty trích lập các quỹ dự phòng sau đây từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Công ty theo đề nghị của Hội đồng Quản trị và được các cổ đông phê duyệt tại Đại hội đồng cổ đông thường niên.\n\nQuỹ đầu tư phát triển\n\nQuỹ này được trích lập nhằm phục vụ việc mở rộng hoạt động hoặc đầu tư chiều sâu của Công ty.\n\nQuỹ khen thưởng và phúc lợi\n\nQuỹ này được trích lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho công nhân viên, và được trình bày như một khoản nợ phải trả trên bằng cân đối kế toán riêng.\n\n17\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.15 Ghi nhận doanh thu\n\nDoanh thu được ghi nhận khi Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng trước khi ghi nhận doanh thu:\n\nDoanh thu bán hàng\n\nDoanh thu bán hàng được ghi nhận khi các rủi ro trọng yếu và các quyền sở hữu hàng hóa đã được chuyển sang người mua, thường là trùng với thời điểm chuyển giao hàng hóa.\n\nDoanh thu đối với giao dịch bán hàng theo chương trình dành cho khách hàng truyền thống\n\nDoanh thu được ghi nhận là tổng số tiền phải thu hoặc đã thu trừ đi giá trị hợp lý của hàng hóa phải cung cấp miễn phí hoặc số phải chiết khấu, giảm giá cho người mua. Giá trị hợp lý của hàng hóa phải cung cấp miễn phí hoặc số phải chiết khấu, giảm giá cho người mua được ghi nhận là doanh thu chưa thực hiện. Khoản doanh thu chưa thực hiện được kết chuyển vào doanh thu bán hàng khi:\n\n- Đến hết thời hạn của chương trình mà người mua không đạt đủ điều kiện theo quy định của chương trình và không được hưởng hàng hóa miễn phí hoặc chiết khấu giảm giá; hoặc\n\n- Người mua đạt được đủ điều kiện theo quy định của chương trình và Công ty đã thực hiện xong nghĩa vụ.\n\nDoanh thu cung cấp dịch vụ\n\nDoanh thu cung cấp dịch vụ được ghi nhận khi dịch vụ đã được cung cấp và hoàn thành.\n\nTiền lãi\n\nDoanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở dồn tích (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.\n\nCổ tức\n\nDoanh thu được ghi nhận khi quyền được nhận khoản thanh toán cổ tức của Công ty được xác lập.\n\n3.16 Thuế\n\nThuế thu nhập doanh nghiệp (\"TNDN\") hiện hành\n\nTài sản thuế TNDN và thuế TNDN phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến phải nộp cho (hoặc được thu hồi từ) cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc ký kế toán năm.\n\nThuế TNDN hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng, ngoại trừ trường hợp thuế TNDN phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế TNDN hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\nCông ty chỉ được bù trừ các tài sản thuế TNDN hiện hành và thuế TNDN hiện hành phải nộp khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế TNDN hiện hành với thuế TNDN hiện hành phải nộp và Công ty dự định thanh toán thuế TNDN hiện hành phải nộp và tài sản thuế TNDN hiện hành trên cơ sở thuần.\n\nThuế thu nhập hoãn lại\n\nThuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của chúng cho mục đích lập báo cáo tài chính riêng.\n\nThuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế, ngoại trừ thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch.\n\n18\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.16 Thuế (tiếp theo)\n\nThuế thu nhập hoãn lại (tiếp theo)\n\nTài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các kỳ sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương laí sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ tài sản thuế thu nhập hoãn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch.\n\nGiá trị ghi sổ cửa tài sản thuế thu nhập hoãn lại phải được xem xét lại vào ngày kết thúc kỳ kế toán năm và phải giảm giá trị ghi sổ cửa tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập hoãn lại chưa được ghi nhận trước đây được xem xét lại vào ngày kết thúc kỳ kế toán năm và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.\n\nTài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho ký kế toán năm khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc ký kế toán năm.\n\nThuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng, ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\nCông ty chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập được quản lý bởi cùng một cơ quan thuế đổi với cùng một đơn vị chịu thuế; hoặc Công ty dự định thanh toán thuế thu nhập hiện hành phải trả và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng kỳ trong tương lai khi các khoản trọng yếu của thuế thu nhập hoãn lại phải trả hoặc tài sản thuế thu nhập hoãn lại được thanh toán hoặc thu hồi.\n\n3.17 Các bên liên quan\n\nCác bên được coi là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm các thành viên mật thiết trong gia đình của họ.\n\n4. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "683.644.356",
+                "2": "464.992.536"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "677.056.022.549",
+                "2": "541.461.197.101"
+            },
+            {
+                "0": "Các khoản tương đương tiền (*)",
+                "1": "400.000.000.000",
+                "2": "275.000.000.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "1.077.739.666.905",
+                "2": "816.926.189.637"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_13",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "(*) Các khoản tương đương tiền thể hiện các khoản tiền gửi tại ngân hàng thương mại với kỳ hạn gốc dưới ba (3) tháng và hưởng lãi suất áp dụng.\n\n19\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n5. CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH\n\n5.1 Chứng khoán kinh doanh\n\nChứng khoán kinh doanh thể hiện các khoản đầu tư vào cổ phiếu của các công ty niêm yết. Chi tiết như sau:\n\nVND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số cuối năm",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm",
+                "5": "Số đầu năm",
+                "6": "Số đầu năm"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Dự phòng",
+                "3": "Giá trị hợp lý",
+                "4": "Giá gốc",
+                "5": "Dự phòng",
+                "6": "Giá trị hợp lý"
+            },
+            {
+                "0": "Ngân hàng Thương mại Cổ phần",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            },
+            {
+                "0": "Ngoại thương Việt Nam",
+                "1": "388.299",
+                "2": "-",
+                "3": "388.299",
+                "4": "388.299",
+                "5": "-",
+                "6": "388.299"
+            },
+            {
+                "0": "Các khoản đầu tư khác",
+                "1": "415.852",
+                "2": "-",
+                "3": "415.852",
+                "4": "415.852",
+                "5": "-",
+                "6": "415.852"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "804.151",
+                "2": "-",
+                "3": "804.151",
+                "4": "804.151",
+                "5": "-",
+                "6": "804.151"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_14",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "5.2. Đầu tư tài chính dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số cuối năm",
+                "3": "Số đầu năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "",
+                "1": "Số lượng cổ phiếu/ Tỷ lệ sở hữu",
+                "2": "Giá trị VND",
+                "3": "Số lượng cổ phiếu/ Tỷ lệ sở hữu",
+                "4": "Giá trị VND"
+            },
+            {
+                "0": "Đầu tư vào công ty con",
+                "1": "",
+                "2": "19.500.000.000",
+                "3": "",
+                "4": "19.500.000.000"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Phát triển Bất Đông sản Trường Thọ (*)",
+                "1": "65,00%",
+                "2": "19.500.000.000",
+                "3": "65,00%",
+                "4": "19.500.000.000"
+            },
+            {
+                "0": "Đầu tư góp vốn vào đơn vị khác",
+                "1": "3.010.000",
+                "2": "31.458.000.000",
+                "3": "3.010.000",
+                "4": "26.173.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Cao su Bến Thành",
+                "1": "2.310.000",
+                "2": "42.000.000.000",
+                "3": "2.310.000",
+                "4": "42.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Vicem Thạch cao Xi măng",
+                "1": "700.000",
+                "2": "14.000.000.000",
+                "3": "700.000",
+                "4": "14.000.000.000"
+            },
+            {
+                "0": "Dự phòng giảm giá đầu tư vào công ty khác",
+                "1": "",
+                "2": "(24.542.000.000)",
+                "3": "",
+                "4": "(29.827.000.000)"
+            },
+            {
+                "0": "TỔNG CÔNG",
+                "1": "",
+                "2": "50.958.000.000",
+                "3": "",
+                "4": "45.673.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_15",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "(*) Công ty TNHH Đầu tư Phát triển Bất động sản Trường Thọ (\"Trường Thọ\") là một công ty trách nhiệm hữu hạn hai thành viên trở lên được thành lập theo GCNĐKKD số 0313888915 do SKHĐT Thành phố Hồ Chí Minh cấp ngày 30 tháng 6 năm 2016 và các điều chỉnh sau đó. Hoạt động kinh doanh được đăng ký của Trường Thọ là kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê; hoạt động hỗ trợ dịch vụ tài chính chưa được phân vào đầu; hoạt động tư vấn quản lý; quảng cáo; tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất; xây dựng nhà các loại; xây dựng công trình kỹ thuật dân dụng khác; phá đỡ; chuẩn bị mặt bằng; hoàn thiện công trình xây dựng; và hoạt động xây dựng chuyên dụng khác. Trường Thọ có trụ sở chính được đăng ký tại Lầu 5, Tòa nhà Landmark, Số 5B Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh.\n\n20\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n6. PHẢI THU KHÁCH HÀNG VÀ TRẢ TRƯỚC CHO NGƯỜI BÁN\n\n6.1 Phải thu ngắn hạn của khách hàng",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Phải thu từ khách hàng- Văn phòng điều phối Chương trình Mục tiêu Quốc Gia Xây dựng Nông thôn mới Tĩnh Bình Phước- Công ty Cổ phần Siêu thị Vật liệu Xây dựng Thế giới Nhà- Công ty TNHH Hòa Thành Tiến- Khách hàng khácPhải thu từ bên liên quan (Thuyết minh số 29)",
+                "1": "349.928.984.086116.987.562.50093.302.980.67027.049.053.887112.589.387.0291.540.781.522",
+                "2": "375.345.855.99367.138.750.000113.310.059.84630.381.360.135164.515.686.012249.975.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "351.469.765.608",
+                "2": "375.595.830.993"
+            },
+            {
+                "0": "Trả trước cho người bán",
+                "1": "18.899.770.144",
+                "2": "32.778.304.192"
+            },
+            {
+                "0": "- Công ty Cổ phần Xuất nhập khẩu Thiết bị và Công nghệ",
+                "1": "2.966.040.000",
+                "2": "8.529.431.130"
+            },
+            {
+                "0": "- Công ty Cổ phần Kỹ thuật Môi trường Việt An",
+                "1": "2.190.563.880",
+                "2": "-"
+            },
+            {
+                "0": "- Công ty Cổ phần Thiết bị và Công nghệ Nam Thành",
+                "1": "-",
+                "2": "7.089.344.442"
+            },
+            {
+                "0": "- Người bán khác",
+                "1": "13.743.166.264",
+                "2": "17.159.528.620"
+            },
+            {
+                "0": "Trả trước cho bên liên quan (Thuyết minh số 29)",
+                "1": "149.835.000",
+                "2": "513.946.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "19.049.605.144",
+                "2": "33.292.250.192"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_16",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "21\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYÊT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n7. CÁC KHOÀN PHẢI THU KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "117.653.457.317",
+                "2": "89.399.011.731"
+            },
+            {
+                "0": "Tiền chỉ hỗ trợ người lao động nghĩ việc (*)",
+                "1": "53.574.127.500",
+                "2": "53.446.314.500"
+            },
+            {
+                "0": "Trao đổi nguyên vật liệu với bên liên quan (Thuyết minh số 29)",
+                "1": "30.909.405.088",
+                "2": "-"
+            },
+            {
+                "0": "Phải thu khác",
+                "1": "33.169.924.729",
+                "2": "35.952.697.231"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "16.992.215.835",
+                "2": "12.441.761.361"
+            },
+            {
+                "0": "Ký quỹ, ký cược",
+                "1": "16.992.215.835",
+                "2": "12.441.761.361"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "134.645.673.152",
+                "2": "101.840.773.092"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_17",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "(*) Đây là khoản tạm ứng nguồn kinh phí hỗ trợ người lao động nghĩ việc do di đời Trạm nghiền Thủ Đức theo Quyết định Thủ tướng Chính phủ số 86/2010/QD-TTg (\"Quyết định 86\") ngày 22 tháng 12 năm 2010 về việc ban hành quy chế tài chính phục vụ di đời các cơ sở gây ô nhiễm môi trường và các cơ sở phải di đời theo quy hoạch xây dựng đô thị và sẽ được hoàn trả lại từ nguồn vốn tạo ra từ vị trí sau khi di đời theo quy định tại Quyết định 86. Sau đó, Quyết định 86 đã được thay thế bằng Nghị định số 167/2017/NĐ-CP về quy định việc sắp xếp lại, xử lý tài sản công do Chính phủ ban hành ngày 31 tháng 12 năm 2017.\n\n8. HÀNG TỔN KHO",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số cuối năm",
+                "3": "Số đầu năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Dự phòng",
+                "3": "Giá gốc",
+                "4": "Dự phòng"
+            },
+            {
+                "0": "Thành phẩm",
+                "1": "276.373.338.592",
+                "2": "-",
+                "3": "321.592.809.786",
+                "4": "-"
+            },
+            {
+                "0": "Nguyên vật liệu",
+                "1": "462.068.755.920",
+                "2": "(45.855.721.832)",
+                "3": "411.950.655.663",
+                "4": "(29.982.715.371)"
+            },
+            {
+                "0": "Hàng muađang đi đường",
+                "1": "4.072.548.061",
+                "2": "-",
+                "3": "6.389.492.879",
+                "4": "-"
+            },
+            {
+                "0": "Chi phí sản xuấtkinh doanhđở dang",
+                "1": "7.324.850.273",
+                "2": "-",
+                "3": "5.757.789.588",
+                "4": "-"
+            },
+            {
+                "0": "Công cụ,đụng cụ",
+                "1": "4.423.881.523",
+                "2": "-",
+                "3": "4.184.933.456",
+                "4": "-"
+            },
+            {
+                "0": "Hàng hóa",
+                "1": "-",
+                "2": "-",
+                "3": "583.532.000",
+                "4": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "754.263.374.369",
+                "2": "(45.855.721.832)",
+                "3": "750.459.213.372",
+                "4": "(29.982.715.371)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_18",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "Tình hình giảm dự phòng giảm giá hàng tồn kho",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "(29.982.715.371)",
+                "2": "(30.511.711.938)"
+            },
+            {
+                "0": "Trích lập dự phòng trong năm",
+                "1": "(16.117.679.380)",
+                "2": "-"
+            },
+            {
+                "0": "Sử dụng và hoàn nhập dự phòng trong năm",
+                "1": "244.672.919",
+                "2": "528.996.567"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "(45.855.721.832)",
+                "2": "(29.982.715.371)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_19",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "22\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n9. CHI PHÍ TRÀ TRƯỚC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "3.995.817.866",
+                "2": "2.333.150.250"
+            },
+            {
+                "0": "Chi phí bảo hiểm trả trước",
+                "1": "2.162.871.200",
+                "2": "1.836.141.915"
+            },
+            {
+                "0": "Khác",
+                "1": "1.832.946.666",
+                "2": "497.008.335"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "257.026.380.855",
+                "2": "223.114.210.030"
+            },
+            {
+                "0": "Chi phí giải phóng mặt bằng (*)",
+                "1": "130.928.039.147",
+                "2": "134.786.148.515"
+            },
+            {
+                "0": "Chi phí sửa chữa lớn",
+                "1": "40.711.244.932",
+                "2": "44.381.793.254"
+            },
+            {
+                "0": "Chi phí bóc tầng phủ, hố thu, hố lắng",
+                "1": "81.301.200.801",
+                "2": "38.466.505.613"
+            },
+            {
+                "0": "Khác",
+                "1": "4.085.895.975",
+                "2": "5.479.762.648"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "261.022.198.721",
+                "2": "225.447.360.280"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_20",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "(*) Đã được Công ty thể chấp để đảm bảo cho các khoản vay của Công ty (Thuyết minh số 18).\n\n23\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n10. TÀI SẢN CÓ ĐỊNH HỮU HÌNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nhà cửa và vật kiến trúc",
+                "2": "Máy móc và thiết bị",
+                "3": "Phương tiện vận tải",
+                "4": "Thiết bị văn phòng",
+                "5": "Tài sản khác",
+                "6": "VND Tổng cộng"
+            },
+            {
+                "0": "Nguyên giá:",
+                "1": "Nguyên giá:",
+                "2": "Nguyên giá:",
+                "3": "Nguyên giá:",
+                "4": "Nguyên giá:",
+                "5": "Nguyên giá:",
+                "6": "Nguyên giá:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "3.478.102.809.603",
+                "2": "8.972.656.478.840",
+                "3": "344.588.786.561",
+                "4": "42.675.636.012",
+                "5": "697.459.364.166",
+                "6": "13.535.483.075.182"
+            },
+            {
+                "0": "Mua mới trong năm",
+                "1": "12.850.372.632",
+                "2": "57.490.850.944",
+                "3": "5.423.096.363",
+                "4": "3.159.599.456",
+                "5": "-",
+                "6": "78.923.919.395"
+            },
+            {
+                "0": "Đầu tư xây dựng cơ bản hoàn thành",
+                "1": "30.169.456.929",
+                "2": "23.290.186.556",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "53.459.643.485"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "(8.860.523.902)",
+                "2": "(41.487.849.427)",
+                "3": "(25.245.841.850)",
+                "4": "(1.416.163.924)",
+                "5": "-",
+                "6": "(77.010.379.103)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "3.512.262.115.262",
+                "2": "9.011.949.666.913",
+                "3": "324.766.041.074",
+                "4": "44.419.071.544",
+                "5": "697.459.364.166",
+                "6": "13.590.856.258.959"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:",
+                "3": "Trong đó:",
+                "4": "Trong đó:",
+                "5": "Trong đó:",
+                "6": "Trong đó:"
+            },
+            {
+                "0": "Đã khấu hao hết",
+                "1": "250.053.288.037",
+                "2": "1.391.426.280.659",
+                "3": "226.070.167.853",
+                "4": "33.371.468.600",
+                "5": "41.567.634.470",
+                "6": "1.942.488.839.619"
+            },
+            {
+                "0": "Chở thanh lý",
+                "1": "2.927.773.739",
+                "2": "21.302.476.602",
+                "3": "762.735.620",
+                "4": "77.680.000",
+                "5": "-",
+                "6": "25.070.665.961"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế:",
+                "1": "Giá trị hao mòn lũy kế:",
+                "2": "Giá trị hao mòn lũy kế:",
+                "3": "Giá trị hao mòn lũy kế:",
+                "4": "Giá trị hao mòn lũy kế:",
+                "5": "Giá trị hao mòn lũy kế:",
+                "6": "Giá trị hao mòn lũy kế:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "1.461.519.393.064",
+                "2": "4.681.617.923.238",
+                "3": "288.258.377.487",
+                "4": "36.729.579.106",
+                "5": "306.719.729.473",
+                "6": "6.774.845.002.368"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "122.087.264.595",
+                "2": "478.022.742.110",
+                "3": "25.850.531.100",
+                "4": "3.211.857.159",
+                "5": "24.289.563.896",
+                "6": "653.461.958.860"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "(8.392.873.379)",
+                "2": "(41.487.849.427)",
+                "3": "(25.245.841.850)",
+                "4": "(1.416.163.924)",
+                "5": "-",
+                "6": "(76.542.728.580)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "1.575.213.784.280",
+                "2": "5.118.152.815.921",
+                "3": "288.863.066.737",
+                "4": "38.525.272.341",
+                "5": "331.009.293.369",
+                "6": "7.351.764.232.648"
+            },
+            {
+                "0": "Giá trị còn lại:",
+                "1": "Giá trị còn lại:",
+                "2": "Giá trị còn lại:",
+                "3": "Giá trị còn lại:",
+                "4": "Giá trị còn lại:",
+                "5": "Giá trị còn lại:",
+                "6": "Giá trị còn lại:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "2.016.583.416.539",
+                "2": "4.291.038.555.602",
+                "3": "56.330.409.074",
+                "4": "5.946.056.906",
+                "5": "390.739.634.693",
+                "6": "6.760.638.072.814"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "1.937.048.330.982",
+                "2": "3.893.796.850.992",
+                "3": "35.902.974.337",
+                "4": "5.893.799.203",
+                "5": "366.450.070.797",
+                "6": "6.239.092.026.311"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:",
+                "3": "Trong đó:",
+                "4": "Trong đó:",
+                "5": "Trong đó:",
+                "6": "Trong đó:"
+            },
+            {
+                "0": "Tạm thời không sử dụng",
+                "1": "-",
+                "2": "14.441.494",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "14.441.494"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_21",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "Công ty đã thế chấp một số tài sản cố định hữu hình cho các khoản vay ngắn hạn và dài hạn (Thuyết minh số 18).\n\n24\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n11. TÀI SẢN CÓ ĐỊNH VÔ HÌNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Quyền sử dụng đất",
+                "2": "Bản quyền",
+                "3": "Chương trình phần mềm",
+                "4": "VND Tổng công"
+            },
+            {
+                "0": "Nguyên giá:",
+                "1": "Nguyên giá:",
+                "2": "Nguyên giá:",
+                "3": "Nguyên giá:",
+                "4": "Nguyên giá:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "102.202.954.505",
+                "2": "3.247.354.120",
+                "3": "26.190.487.638",
+                "4": "131.640.796.263"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "-",
+                "2": "-",
+                "3": "(165.000.000)",
+                "4": "(165.000.000)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "102.202.954.505",
+                "2": "3.247.354.120",
+                "3": "26.025.487.638",
+                "4": "131.475.796.263"
+            },
+            {
+                "0": "Trong đó:Đã hao mòn hết",
+                "1": "1.789.508.560",
+                "2": "3.247.354.120",
+                "3": "24.662.187.638",
+                "4": "29.699.050.318"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế:",
+                "1": "Giá trị hao mòn lũy kế:",
+                "2": "Giá trị hao mòn lũy kế:",
+                "3": "Giá trị hao mòn lũy kế:",
+                "4": "Giá trị hao mòn lũy kế:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "7.117.226.640",
+                "2": "3.247.354.120",
+                "3": "22.821.322.589",
+                "4": "33.185.903.349"
+            },
+            {
+                "0": "Hao mòn trong năm",
+                "1": "519.964.395",
+                "2": "-",
+                "3": "2.779.858.485",
+                "4": "3.299.822.880"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "-",
+                "2": "-",
+                "3": "(165.000.000)",
+                "4": "(165.000.000)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "7.637.191.035",
+                "2": "3.247.354.120",
+                "3": "25.436.181.074",
+                "4": "36.320.726.229"
+            },
+            {
+                "0": "Giá trị còn lại:",
+                "1": "Giá trị còn lại:",
+                "2": "Giá trị còn lại:",
+                "3": "Giá trị còn lại:",
+                "4": "Giá trị còn lại:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "95.085.727.865",
+                "2": "-",
+                "3": "3.369.165.049",
+                "4": "98.454.892.914"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "94.565.763.470",
+                "2": "-",
+                "3": "589.306.564",
+                "4": "95.155.070.034"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_22",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "25\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n12. CHI PHÍ XÂY DỰNG CƠ BẢN DỒ DANG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Dự án đường bộ B.O.T Phú Hữu (*)",
+                "1": "548.379.812.948",
+                "2": "547.595.247.745"
+            },
+            {
+                "0": "Các dự án tại Bình Phước",
+                "1": "264.754.878.171",
+                "2": "302.758.068.933"
+            },
+            {
+                "0": "Các dự án tại Kiên Lương",
+                "1": "119.218.561.726",
+                "2": "83.455.609.084"
+            },
+            {
+                "0": "Khác",
+                "1": "2.477.741.996",
+                "2": "40.236.601.008"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "934.830.994.841",
+                "2": "974.045.526.770"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_23",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "(*) Công ty đã thế chấp một phần chi phí dự án cho các khoản vay dài hạn (Thuyết minh số 18).\n\nChi phí lãi vay phát sinh trong năm tài chính kết thúc ngày 31 tháng 12 năm 2020:785.587.202 VND (cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019:5.402.663.777 VND).\n\n13. PHẢI TRẢ NGƯỜI BÁN VÀ NGƯỜI MUA TRẢ TIỀN TRƯỚC\n\n13.1 Phải trả người bán ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số cuối năm",
+                "3": "Số đầu năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "",
+                "1": "Giá trị",
+                "2": "Số có khả năng trả nợ",
+                "3": "Giá trị",
+                "4": "Số có khả năng trả nợ"
+            },
+            {
+                "0": "Phải trả cho người bán",
+                "1": "1.017.206.862.338",
+                "2": "1.017.206.862.338",
+                "3": "1.058.346.681.467",
+                "4": "1.058.346.681.467"
+            },
+            {
+                "0": "Phải trả cho bên liên quan(Thuyết minh số 29)",
+                "1": "350.447.860.477",
+                "2": "350.447.860.477",
+                "3": "212.378.724.364",
+                "4": "212.378.724.364"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "1.367.654.722.815",
+                "2": "1.367.654.722.815",
+                "3": "1.270.725.405.831",
+                "4": "1.270.725.405.831"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_24",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "13.2 Người mua trả tiền trước ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Công ty TNHH Sản xuất Vôi Thương mại",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Dịch vụ Thống Nhất",
+                "1": "12.705.938.504",
+                "2": "11.413.854.721"
+            },
+            {
+                "0": "Every Bright Rich Trading Company Ltd",
+                "1": "157.012.000",
+                "2": "5.340.720.000"
+            },
+            {
+                "0": "Người bán khác",
+                "1": "50.795.135.961",
+                "2": "28.563.884.695"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "63.658.086.465",
+                "2": "45.318.459.416"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_25",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "26\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n14. THUẾ VÀ CÁC KHOÀN PHẢI NỘP NHÀ NƯỚC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số đầu năm",
+                "2": "Số tăng trong năm",
+                "3": "Số giảm trong năm",
+                "4": "VND Số cuối năm"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp (\"TNDN\")",
+                "1": "45.773.629.823",
+                "2": "160.443.030.649",
+                "3": "(174.927.117.168)",
+                "4": "31.289.543.304"
+            },
+            {
+                "0": "Thuế giá trị gia tăng",
+                "1": "825.069.378",
+                "2": "249.936.460.982",
+                "3": "(250.330.968.926)",
+                "4": "430.561.434"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "5.162.994.427",
+                "2": "16.148.748.302",
+                "3": "(16.288.519.168)",
+                "4": "5.023.223.561"
+            },
+            {
+                "0": "Thuế tài nguyên",
+                "1": "3.907.078.029",
+                "2": "53.270.201.058",
+                "3": "(52.799.515.977)",
+                "4": "4.377.763.110"
+            },
+            {
+                "0": "Thuế xuất, nhập khẩu",
+                "1": "-",
+                "2": "221.293.305",
+                "3": "(221.293.305)",
+                "4": "-"
+            },
+            {
+                "0": "Thuế, phí khác",
+                "1": "1.595.895.506",
+                "2": "93.852.533.448",
+                "3": "(84.935.610.512)",
+                "4": "10.512.818.442"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "57.264.667.163",
+                "2": "573.872.267.744",
+                "3": "(579.503.025.056)",
+                "4": "51.633.909.851"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_26",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "15. CHI PHÍ PHẢI TRẢ NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "29.845.236.048",
+                "2": "45.576.819.577"
+            },
+            {
+                "0": "Khác",
+                "1": "3.699.154.378",
+                "2": "3.332.284.028"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "33.544.390.426",
+                "2": "48.909.103.605"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_27",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "16. DOANH THU CHU'A THỰC HIỆN NGẤN HẠN\n\nDoanh thu chưa thực hiện ngắn hạn chủ yếu thể hiện khoản doanh thu chưa thực hiện phát sinh từ chương trình khách hàng truyền thống.\n\n17. PHẢI TRẢ NGẮN HẠN KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Cổ tức phải trả",
+                "1": "371.860.557.900",
+                "2": "6.497.120.980"
+            },
+            {
+                "0": "Tạm ứng bồi thường bảo hiểm",
+                "1": "4.338.000.000",
+                "2": "4.338.000.000"
+            },
+            {
+                "0": "Kinh phí công đoàn phải nộp",
+                "1": "1.442.721.532",
+                "2": "1.453.722.080"
+            },
+            {
+                "0": "Khác",
+                "1": "7.047.508.061",
+                "2": "6.422.703.509"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "384.688.787.493",
+                "2": "18.711.546.569"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_28",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "27\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n18. VAY",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Vay ngắn hạn",
+                "1": "2.376.947.182.563",
+                "2": "2.374.628.430.111"
+            },
+            {
+                "0": "Vay ngắn hạn ngân hàng (Thuyết minh số 18.1)",
+                "1": "1.562.959.465.352",
+                "2": "1.543.889.304.072"
+            },
+            {
+                "0": "Vay dài hạn ngân hàng đến hạn trả(Thuyết minh số 18.2)",
+                "1": "813.987.717.211",
+                "2": "830.739.126.039"
+            },
+            {
+                "0": "Vay dài hạn",
+                "1": "-",
+                "2": "807.534.679.021"
+            },
+            {
+                "0": "Vay dài hạn ngân hàng (Thuyết minh số 18.2)",
+                "1": "-",
+                "2": "807.534.679.021"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "2.376.947.182.563",
+                "2": "3.182.163.109.132"
+            },
+            {
+                "0": "",
+                "1": "Vay ngắn hạn",
+                "2": "VNDVay dài hạn"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "2.374.628.430.111",
+                "2": "807.534.679.021"
+            },
+            {
+                "0": "Tiền thu từ đi vay",
+                "1": "3.672.041.124.218",
+                "2": "-"
+            },
+            {
+                "0": "Kết chuyển vay dài hạn đến hạn trả",
+                "1": "807.534.679.021",
+                "2": "(807.534.679.021)"
+            },
+            {
+                "0": "Tiền chi trả nợ gốc vay",
+                "1": "(4.484.136.034.260)",
+                "2": "-"
+            },
+            {
+                "0": "Chênh lệch tỷ giá hối đoái do đánh giá lại số dư cuối năm có gốc ngoại tệ",
+                "1": "6.878.983.473",
+                "2": "-"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "2.376.947.182.563",
+                "2": "-"
+            },
+            {
+                "0": "Số có khả năng trả nợ",
+                "1": "2.376.947.182.563",
+                "2": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_29",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "18.1 Vay ngắn hạn ngân hàng\n\nCác khoản vay ngắn hạn ngân hàng của Công ty nhằm mục đích bổ sung nhu cầu vốn lưu động. Các khoản vay này có thời hạn từ một (1) đến sâu (6) tháng kể từ ngày giải ngân và chịu lãi suất theo lãi suất thỏa thuận. Chi tiết các khoản vay ngắn hạn được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "VND Số cuối năm"
+            },
+            {
+                "0": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam (\"Vietcombank\") – Chi nhánh Thành phố Hồ Chí Minh (*)",
+                "1": "586.994.803.272"
+            },
+            {
+                "0": "Ngân hàng Thương mại Cổ phần Công thương Việt Nam (\"Vietinbank\") – Chi nhánh Thành phố Hồ Chí Minh (**)",
+                "1": "530.367.173.303"
+            },
+            {
+                "0": "Ngân hàng Malayan Banking Berhad (\"Maybank\") – Chi nhánh Thành phố Hồ Chí Minh (**)",
+                "1": "215.570.334.513"
+            },
+            {
+                "0": "Ngân hàng Thương mại Cổ phần Công thương Việt Nam (\"Vietinbank\") – Chi nhánh Kiên Giang (*)",
+                "1": "149.820.872.310"
+            },
+            {
+                "0": "Ngân Hàng TNHH MTV Shinhan Việt Nam (**)",
+                "1": "58.412.557.734"
+            },
+            {
+                "0": "Ngân hàng Thương mại Cổ phần Á Châu (\"\"ACB\") – Chi nhánh Phan Đình Phùng (*)",
+                "1": "21.793.724.220"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "1.562.959.465.352"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_30",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "(*) Các khoản vay ngắn hạn này có cùng tài sản thế chấp với các khoản vay dài hạn (Thuyết minh số 18.2);\n\n(**) Đây là các khoản vay ngắn hạn tín chấp.\n\n28\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n18. VAY (tiếp theo)\n\n18.2 Vay dài hạn ngân hàng\n\nChi tiết các khoản vay dài hạn ngân hàng được trình bày như sau:\n\nSố cuối năm\n\nNgày đáo hạn\n\nVND\n\nBIDV – Chi nhánh Sở Giao dịch II (i)",
+        "dataframe": [
+            {
+                "0": "Khoản vay số 3",
+                "1": "29.400.000.000",
+                "2": "Ngày 26 tháng 11 năm 2021"
+            },
+            {
+                "0": "Vay hợp vốn của 9 chỉ nhánh ngân hàng thương mại do BIDV - Sở Giao dịch Il làm đầu mối (ii)",
+                "1": "714.233.888.973",
+                "2": "Ngày 26 tháng 12 năm 2021"
+            },
+            {
+                "0": "Khoản vay số 1",
+                "1": "53.341.081.650",
+                "2": "Ngày 30 tháng 6 năm 2021"
+            },
+            {
+                "0": "Khoản vay số 2",
+                "1": "17.012.746.588",
+                "2": "Ngày 30 tháng 6 năm 2021"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_31",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "TỔNG CỘNG 813.987.717.211",
+        "dataframe": [
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:"
+            },
+            {
+                "0": "Vay dài hạn đến hạn trả",
+                "1": "813.987.717.211"
+            },
+            {
+                "0": "Vay dài hạn",
+                "1": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_32",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "(i) Mục đích của khoản vay nhằm tài trợ việc xây dựng Trạm nghiền Phú Hữu tọa lạc tại Thành phố Thủ Đức. Dự án này là tài sản thế chấp cho khoản vay. Thời gian vay là 18 năm với lãi suất thỏa thuận.\n\n(ii) Mục đích của khoản vay này nhằm tài trợ việc xây dựng Nhà máy Xi măng Bình Phước và Trạm nghiền Phú Hữu, tọa lạc lần lượt tại Thị xã Bình Long, Tỉnh Bình Phước và tại Thành phố Thủ Đức. Dư án này cũng là tài sản thể chấp cho khoản vay. Thời gian vay là 18 năm với lãi suất thỏa thuận.\n\n(iii) Mục đích của các khoản vay này nhằm tài trợ việc xây dựng Dự án Hà Tiên 2.2. Các khoản vay này được bảo lãnh bởi Bộ Tài chính. Thời hạn vay là 13 năm với lãi suất EURIBOR 6 tháng cộng lãi suất biên.\n\n19. QUỸ KHEN THƯỜNG, PHÚC LỢI\n\nVND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "Năm trước"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "57.764.463.052",
+                "2": "36.234.906.990"
+            },
+            {
+                "0": "Trích lập quỹ",
+                "1": "122.255.000.000",
+                "2": "95.040.000.000"
+            },
+            {
+                "0": "Đã tạm ứng",
+                "1": "(7.500.000.000)",
+                "2": "-"
+            },
+            {
+                "0": "Sử dụng quỹ",
+                "1": "(73.326.593.930)",
+                "2": "(73.510.443.938)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "99.192.869.122",
+                "2": "57.764.463.052"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_33",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "20. DỰ PHÒNG PHẢI TRẢ DÀI HẠN\n\nVND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm"
+            },
+            {
+                "0": "Phí phục hồi môi trường",
+                "1": "14.422.063.365",
+                "2": "13.329.071.395"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_34",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "29\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n21. VÓN CHỦ SỞ HỮU\n\n21.1 Tỉnh hình tăng giảm nguồn vốn chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn cổ phần",
+                "2": "Thặng dư vốn cổ phần",
+                "3": "Cổ phiếu quỹ",
+                "4": "Quỹ đầu tư phát triển",
+                "5": "Lợi nhuận sau thuế chưa phân phối",
+                "6": "VND Tổng cộng"
+            },
+            {
+                "0": "Năm trước",
+                "1": "Năm trước",
+                "2": "Năm trước",
+                "3": "Năm trước",
+                "4": "Năm trước",
+                "5": "Năm trước",
+                "6": "Năm trước"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "3.815.899.110.000",
+                "2": "70.790.410.045",
+                "3": "(902.752.100)",
+                "4": "519.682.709.128",
+                "5": "759.495.828.719",
+                "6": "5.164.965.305.792"
+            },
+            {
+                "0": "Cổ tức công bố",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(457.850.293.200)",
+                "6": "(457.850.293.200)"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "739.938.861.325",
+                "6": "739.938.861.325"
+            },
+            {
+                "0": "Phân phối lợi nhuận",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "96.202.000.000",
+                "5": "(183.742.000.000)",
+                "6": "(87.540.000.000)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "3.815.899.110.000",
+                "2": "70.790.410.045",
+                "3": "(902.752.100)",
+                "4": "615.884.709.128",
+                "5": "857.842.396.844",
+                "6": "5.359.513.873.917"
+            },
+            {
+                "0": "Năm nay",
+                "1": "Năm nay",
+                "2": "Năm nay",
+                "3": "Năm nay",
+                "4": "Năm nay",
+                "5": "Năm nay",
+                "6": "Năm nay"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "3.815.899.110.000",
+                "2": "70.790.410.045",
+                "3": "(902.752.100)",
+                "4": "615.884.709.128",
+                "5": "857.842.396.844",
+                "6": "5.359.513.873.917"
+            },
+            {
+                "0": "Cổ tức công bố (*)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(457.850.293.200)",
+                "6": "(457.850.293.200)"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "607.239.854.857",
+                "6": "607.239.854.857"
+            },
+            {
+                "0": "Phân phối lợi nhuận (**)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "154.328.000.000",
+                "5": "(276.583.000.000)",
+                "6": "(122.255.000.000)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "3.815.899.110.000",
+                "2": "70.790.410.045",
+                "3": "(902.752.100)",
+                "4": "770.212.709.128",
+                "5": "730.648.958.501",
+                "6": "5.386.648.435.574"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_35",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "(*) Theo Nghị quyết của Đại hội đồng cổ đông ngày 12 tháng 6 năm 2020 và Quyết Nghị số 05/11/QN-HĐQT của Hội đồng Quản trị ngày 9 tháng 11 năm 2020 về việc lựa chọn ngày chốt danh sách cổ đông và ngày thực hiện chi trả cổ tức năm 2019 bằng tiền mặt cho các cổ đông hiện hữu, Hội đồng Quản trị công bố chi trả cổ tức bằng tiền mặt với tỷ lệ là 12%/cổ phiếu và ngày chốt danh sách cổ đông là 30 tháng 11 năm 2020.\n\n(**) Theo Nghị quyết Đại Hội đồng Cổ đông ngày 12 tháng 6 năm 2020, các cổ đông của Công ty đã thông qua mức trích lập quỹ đầu tư phát triển và quỹ khen thưởng phúc lợi lần lượt là 154.328.000.000 VND và 122.255.000.000 VND.\n\n30\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n21. VỐN CHỦ SỞ HỮU (tiếp theo)\n\n21.2 Các giao dịch về vốn với các chủ sở hữu và phân phối cổ tức",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Vốn cổ phần đã góp",
+                "1": "Vốn cổ phần đã góp",
+                "2": "Vốn cổ phần đã góp"
+            },
+            {
+                "0": "Vốn góp đầu năm và cuối năm",
+                "1": "3.815.899.110.000",
+                "2": "3.815.899.110.000"
+            },
+            {
+                "0": "Cổ tức bằng tiền đã công bố",
+                "1": "457.850.293.200",
+                "2": "457.850.293.200"
+            },
+            {
+                "0": "Cổ tức đã thực trả bằng tiền mặt",
+                "1": "92.486.856.280",
+                "2": "457.227.313.395"
+            },
+            {
+                "0": "",
+                "1": "Số lượng cổ phiếu",
+                "2": "Số lượng cổ phiếu"
+            },
+            {
+                "0": "",
+                "1": "Tại ngày 31 tháng 12 năm 2020",
+                "2": "Tại ngày 31 tháng 12 năm 2019"
+            },
+            {
+                "0": "Cổ phiếu được phép phát hành",
+                "1": "381.589.911",
+                "2": "381.589.911"
+            },
+            {
+                "0": "Cổ phiếu đã phát hành và góp vốn đầy đủ Cổ phiếu phổ thông",
+                "1": "381.589.911",
+                "2": "381.589.911"
+            },
+            {
+                "0": "Cổ phiếu quỹ Cổ phiếu phổ thông",
+                "1": "48.000",
+                "2": "48.000"
+            },
+            {
+                "0": "Cổ phiếu đang lưu hành Cổ phiếu phổ thông",
+                "1": "381.541.911",
+                "2": "381.541.911"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_36",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "Mệnh giá cổ phiếu đang lưu hành: 10.000 VND/cổ phiếu (31 tháng 12 năm 2019: 10.000 VND/cổ phiếu). Các cổ đông nắm giữ cổ phần phổ thông của Công ty được hưởng cổ tức do Công ty công bố. Mỗi cổ phần phổ thông thể hiện một quyền biểu quyết, không hạn chế.\n\n22. DOANH THU\n\n22.1 Doanh thu bán hàng và cung cấp dịch vụ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Tổng doanh thu",
+                "1": "8.440.110.589.235",
+                "2": "9.311.261.949.710"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Xỉ măng, clinker",
+                "1": "8.417.423.164.765",
+                "2": "9.279.878.283.089"
+            },
+            {
+                "0": "Cát, vật liệu phụ và các dịch vụ",
+                "1": "22.687.424.470",
+                "2": "31.383.666.621"
+            },
+            {
+                "0": "Các khoản giảm trừ doanh thu",
+                "1": "(477.481.551.385)",
+                "2": "(472.636.955.295)"
+            },
+            {
+                "0": "Chiết khấu thương mại",
+                "1": "(477.481.551.385)",
+                "2": "(472.636.955.295)"
+            },
+            {
+                "0": "Doanh thu thuần",
+                "1": "7.962.629.037.850",
+                "2": "8.838.624.994.415"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Xỉ măng, clinker",
+                "1": "7.939.941.613.380",
+                "2": "8.807.241.327.794"
+            },
+            {
+                "0": "Cát, vật liệu phụ và các dịch vụ",
+                "1": "22.687.424.470",
+                "2": "31.383.666.621"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Doanh thu với bên khác",
+                "1": "7.933.200.199.683",
+                "2": "8.825.530.765.792"
+            },
+            {
+                "0": "Doanh thu với bên liên quan",
+                "1": "29.428.838.167",
+                "2": "13.094.228.623"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_37",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "31\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n22. DOANH THU (tiếp theo)\n\n22.2 Doanh thu hoạt động tài chính",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Lãi tiền gửi ngân hàng",
+                "1": "5.339.676.324",
+                "2": "7.092.262.944"
+            },
+            {
+                "0": "Lãi chênh lệch tỷ giá hối đoái",
+                "1": "2.982.685.632",
+                "2": "15.227.098.161"
+            },
+            {
+                "0": "Thu nhập từ cổ tức",
+                "1": "2.415.007.800",
+                "2": "2.310.001.200"
+            },
+            {
+                "0": "Chiết khấu thanh toán được hưởng",
+                "1": "104.735.180",
+                "2": "987.230.530"
+            },
+            {
+                "0": "Khác",
+                "1": "-",
+                "2": "285.436.317"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "10.842.104.936",
+                "2": "25.902.029.152"
+            },
+            {
+                "0": "Giá vốn của xi măng, clinker",
+                "1": "6.590.161.583.763",
+                "2": "7.260.869.145.479"
+            },
+            {
+                "0": "Giá vốn của cát, vật liệu phụ và các dịch vụ",
+                "1": "16.879.951.973",
+                "2": "16.682.080.252"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "6.607.041.535.736",
+                "2": "7.277.551.225.731"
+            },
+            {
+                "0": "Chi phí bán hàng",
+                "1": "150.250.619.058",
+                "2": "159.933.838.538"
+            },
+            {
+                "0": "Chi phí dịch vụ thuê ngoài",
+                "1": "52.005.552.604",
+                "2": "72.055.166.902"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "51.831.572.372",
+                "2": "47.612.255.648"
+            },
+            {
+                "0": "Khác",
+                "1": "46.413.494.082",
+                "2": "40.266.415.988"
+            },
+            {
+                "0": "Chi phí quản lý doanh nghiệp",
+                "1": "200.515.968.144",
+                "2": "214.576.964.523"
+            },
+            {
+                "0": "Chi phí dịch vụ thuê ngoài",
+                "1": "62.316.618.108",
+                "2": "81.015.159.599"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "75.552.702.000",
+                "2": "71.850.008.376"
+            },
+            {
+                "0": "Khác",
+                "1": "62.646.648.036",
+                "2": "61.711.796.548"
+            },
+            {
+                "0": "TỔNG CỔNG",
+                "1": "350.766.587.202",
+                "2": "374.510.803.061"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "181.090.596.247",
+                "2": "238.355.497.769"
+            },
+            {
+                "0": "Chiết khấu thanh toán",
+                "1": "34.673.287.617",
+                "2": "33.168.446.000"
+            },
+            {
+                "0": "Lỗ chênh lệch tỷ giá hối đoái",
+                "1": "12.155.340.958",
+                "2": "73.491.878"
+            },
+            {
+                "0": "(Hoàn nhập) dự phòng giảm giá chứng khoán kinh doanh và các khoản đầu tư góp vốn",
+                "1": "(5.285.000.000)",
+                "2": "471.100.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "222.634.224.822",
+                "2": "272.068.535.647"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_38",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "32\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n26. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Thu nhập khác",
+                "1": "1.721.731.434",
+                "2": "3.473.821.039"
+            },
+            {
+                "0": "Thu nhập từ thanh lý tài sản",
+                "1": "1.274.225.114",
+                "2": "1.619.435.571"
+            },
+            {
+                "0": "Khác",
+                "1": "447.506.320",
+                "2": "1.854.385.468"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "(27.825.712.839)",
+                "2": "(16.583.616.013)"
+            },
+            {
+                "0": "Chi phí tài trợ",
+                "1": "(14.069.933.636)",
+                "2": "(15.385.587.000)"
+            },
+            {
+                "0": "Khác",
+                "1": "(13.755.779.203)",
+                "2": "(1.198.029.013)"
+            },
+            {
+                "0": "Lỗ KHÁC",
+                "1": "(26.103.981.405)",
+                "2": "(13.109.794.974)"
+            },
+            {
+                "0": "Chi phí nguyên liệu, vật liệu",
+                "1": "4.479.779.017.353",
+                "2": "5.308.040.471.236"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài và chi phí khác",
+                "1": "1.152.746.720.651",
+                "2": "1.079.657.103.108"
+            },
+            {
+                "0": "Chi phí khấu hao và hao mòn tài sản cố định",
+                "1": "656.546.668.569",
+                "2": "708.276.208.957"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "625.083.305.857",
+                "2": "595.680.935.451"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "6.914.155.712.430",
+                "2": "7.691.654.718.752"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_39",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "28. THUẾ THU NHẬP DOANH NGHIỆP\n\nThuế suất thuế TNDN áp dụng cho Công ty trong năm hiện hành là 20% thu nhập chịu thuế.\n\nCác báo cáo thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với các loại nghiệp vụ khác nhau có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính riêng có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.\n\n28.1 Chi phí thuế TNDN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Chi phí thuế TNDN hiện hành",
+                "1": "160.443.030.649",
+                "2": "190.059.148.853"
+            },
+            {
+                "0": "Thu nhập thuế thu nhập hoãn lại",
+                "1": "(758.071.885)",
+                "2": "(2.711.346.024)"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "159.684.958.764",
+                "2": "187.347.802.829"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_40",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "33\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n28. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)\n\n28.1 Chi phí thuế TNDN (tiếp theo)\n\nDưới đây là bằng đối chiếu giữa chi phí thuế TNDN và kết quả của tổng lợi nhuận kế toán trước thuế nhân với thuế suất thuế TNDN:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Tổng lợi nhuận kế toán trước thuế",
+                "1": "766.924.813.621",
+                "2": "927.286.664.154"
+            },
+            {
+                "0": "Thuế TNDN theo thuế suất áp dụng cho Công ty",
+                "1": "153.384.962.724",
+                "2": "185.457.332.831"
+            },
+            {
+                "0": "Các khoản điều chỉnh:",
+                "1": "Các khoản điều chỉnh:",
+                "2": "Các khoản điều chỉnh:"
+            },
+            {
+                "0": "Chi phí không được trừ",
+                "1": "6.015.958.786",
+                "2": "3.993.371.084"
+            },
+            {
+                "0": "Chi phí khấu hao của tài sản không sử dụng",
+                "1": "1.108.489.876",
+                "2": "(1.824.156.740)"
+            },
+            {
+                "0": "Điều chỉnh thuế nộp thừa",
+                "1": "(702.092.662)",
+                "2": "-"
+            },
+            {
+                "0": "Thu nhập cổ tức",
+                "1": "(483.001.560)",
+                "2": "(462.000.240)"
+            },
+            {
+                "0": "Khác",
+                "1": "360.641.600",
+                "2": "183.255.894"
+            },
+            {
+                "0": "Chi phí thuế TNDN",
+                "1": "159.684.958.764",
+                "2": "187.347.802.829"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_41",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "28.2 Thuế TNDN hiện hành\n\nThuế TNDN hiện hành phải trả được xác định dựa trên thu nhập chịu thuế của năm hiện tại. Thu nhập chịu thuế của Công ty khác với thu nhập được trình bày trong báo cáo kết quả hoạt động kinh doanh riêng vì thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được trừ cho mục đích tính thuế trong các kỳ kể toán khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được trừ cho mục đích tính thuế.\n\nThuế TNDN hiện hành phải trả của Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc kỳ kế toán năm.\n\n28.3 Thuế thu nhập hoãn lại\n\nCông ty đã ghi nhận tải sản thuế thu nhập hoãn lại, cùng với các biến động trong năm nay và nằm trước như sau:\n\nVND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Bảng cân đối kế toán riêng",
+                "2": "Bảng cân đối kế toán riêng",
+                "3": "Báo cáo kết quả hoạt động kinh doanh riêng",
+                "4": "Báo cáo kết quả hoạt động kinh doanh riêng"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "Chi phí phải trảChênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+                "1": "8.577.600.000",
+                "2": "7.821.999.999",
+                "3": "755.600.001",
+                "4": "2.776.009.708"
+            },
+            {
+                "0": "Chi phí phải trảChênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+                "1": "4.585.951",
+                "2": "2.114.067",
+                "3": "2.471.884",
+                "4": "(64.663.684)"
+            },
+            {
+                "0": "Tài sản thuế thu nhập hoãn lại thuần",
+                "1": "8.582.185.951",
+                "2": "7.824.114.066",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "Thu nhập thuế thu nhập hoãn lại",
+                "1": "",
+                "2": "",
+                "3": "758.071.885",
+                "4": "2.711.346.024"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_42",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "34\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n29. NGHIỆP VỤ VỚI BÊN LIÊN QUAN\n\nCác điều kiện và điều khoản của các giao dịch với bên liên quan\n\nCác nghiệp vụ với các công ty có liên quan bao gồm tất cả các nghiệp vụ được thực hiện với các công ty mà Công ty có mối liên kết thông qua quan hệ đầu tư, nhận đầu tư hoặc thông qua một nhà đầu tư chung và do đó sẽ là thành viên của cùng một công ty. Các nghiệp vụ bán hàng và mua hàng với bên liên quan được thực hiện dựa trên các điều khoản đã được thỏa thuận trong hợp đồng.\n\nBên liên quan của Công ty phần lớn là các đơn vị thành viên trong cùng Tổng Công ty Xi măng Việt Nam.\n\nCác nghiệp vụ trọng yếu của Công ty với bên liên quan trong năm được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Năm nay",
+                "4": "VND Năm trước"
+            },
+            {
+                "0": "Công ty TNHH MTV Xi Măng Hạ Long",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Phí gia công xi măng Bán cát",
+                "3": "302.490.201.121-",
+                "4": "508.136.888.682 181.800.000"
+            },
+            {
+                "0": "Tổng Công ty Xi măng Việt Nam",
+                "1": "Công ty mẹ",
+                "2": "Chi phí tư vấn Chi phí lãi vay",
+                "3": "95.392.364.234-",
+                "4": "132.030.134.930 384.101.965"
+            },
+            {
+                "0": "Công ty Cổ phần Logistics Vicem",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Chi phí vận chuyển Mua nguyên vật liệu",
+                "3": "128.307.119.075 13.475.680.552",
+                "4": "124.305.614.620 17.845.085.851"
+            },
+            {
+                "0": "Chi nhánh Công ty TNHH Một thành viên Xi măng Vicem Hoàng Thạch – Xí nghiệp Tiêu thụ",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Mua clinker",
+                "3": "-",
+                "4": "63.997.400.200"
+            },
+            {
+                "0": "Công ty Cổ phần Xi măng Vicem Hải Vân",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Mua clinker",
+                "3": "-",
+                "4": "22.463.789.454"
+            },
+            {
+                "0": "Công ty Cổ phần Vicem Vật liệu Xây dựng Đà Nẵng",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Mua vỏ bao",
+                "3": "11.467.500.170",
+                "4": "15.811.404.300"
+            },
+            {
+                "0": "Công ty Cổ phần Xi măng Vicem Hoàng Mai",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Mua clinker Doanh thu gia công Bán cát",
+                "3": "139.248.317.183 12.360.162.183 285.646.364",
+                "4": "13.953.178.902 11.192.066.350 164.985.227"
+            },
+            {
+                "0": "Công ty Cổ phần Bao bì Hà Tiên",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Mua nguyên vật liệu",
+                "3": "5.678.554.680",
+                "4": "12.167.394.800"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_43",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "35\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n29. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)\n\nCác nghiệp vụ trọng yếu của Công ty với bên liên quan trong năm được trình bày như sau: (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Năm nay",
+                "4": "VNDNăm trước"
+            },
+            {
+                "0": "Công ty Cổ phần Thương mại Dịch vụ Vận tải Xi măng Hải Phòng",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Chi phí vận chuyển Cung cấp dịch vụ",
+                "3": "9.540.436.71920.431.816",
+                "4": "7.906.468.06019.168.183"
+            },
+            {
+                "0": "Công ty Tư vấn Đầu tư Phát triển Xi măng",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Phí tư vấn",
+                "3": "3.808.659.264",
+                "4": "2.447.129.431"
+            },
+            {
+                "0": "Công ty Cổ phần Vicem Bao bì Bút Sơn",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Mua vò bao",
+                "3": "-",
+                "4": "657.197.770"
+            },
+            {
+                "0": "Công ty Cổ phần Xi măng Vicem Bút Sơn",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Bán cát",
+                "3": "-",
+                "4": "282.978.409"
+            },
+            {
+                "0": "Công ty TNHH Siam City Cement Việt Nam",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Bán cát",
+                "3": "555.500.000",
+                "4": "545.400.000"
+            },
+            {
+                "0": "Công ty TNHH Một thành viên Xi măng Vicem Tam Điệp",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Bán cát",
+                "3": "-",
+                "4": "442.620.454"
+            },
+            {
+                "0": "Công ty TNHH Xi Măng Siam City Nhơn Trạch",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Bán cát",
+                "3": "151.500.000",
+                "4": "202.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Xi Măng Hạ Long",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Trao đổi clinkerBán clinkerMua clinker",
+                "3": "129.003.742.24715.123.779.62213.874.569.147",
+                "4": "-63.210.000-"
+            },
+            {
+                "0": "Viện Công nghệ Xi măng Vicem",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Phí đào tạo",
+                "3": "-",
+                "4": "57.020.000"
+            },
+            {
+                "0": "Trường Trung cấp Nghề Kỹ thuật Xi măng",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Phí đào tạo",
+                "3": "36.000.000",
+                "4": "24.400.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_44",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "36\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n29. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)\n\nCác nghiệp vụ trọng yếu của Công ty với bên liên quan trong năm được trình bày như sau: (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Năm nay",
+                "4": "VNDNăm trước"
+            },
+            {
+                "0": "Công ty Cổ phần Vicem Thạch cao Xi măng",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Mua thạch caoThu nhập cổ tức",
+                "3": "16.162.029.760105.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty TNHH MTV Xi măng Vicem Hải Phòng",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Doanh thu gia công xi măng",
+                "3": "931.818.182",
+                "4": "-"
+            },
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Số cuối năm",
+                "4": "VND Số đầu năm"
+            },
+            {
+                "0": "Phải thu ngắn hạn của khách hàng",
+                "1": "Phải thu ngắn hạn của khách hàng",
+                "2": "Phải thu ngắn hạn của khách hàng",
+                "3": "Phải thu ngắn hạn của khách hàng",
+                "4": "Phải thu ngắn hạn của khách hàng"
+            },
+            {
+                "0": "Công ty Cổ phần Xi Măng Hạ Long",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Bán clinker",
+                "3": "1.374.131.522",
+                "4": "-"
+            },
+            {
+                "0": "Công ty TNHH Siam City Cement Việt Nam",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Bán cát",
+                "3": "166.650.000",
+                "4": "249.975.000"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "1.540.781.522",
+                "4": "249.975.000"
+            },
+            {
+                "0": "Phải thu ngắn hạn khác",
+                "1": "Phải thu ngắn hạn khác",
+                "2": "Phải thu ngắn hạn khác",
+                "3": "Phải thu ngắn hạn khác",
+                "4": "Phải thu ngắn hạn khác"
+            },
+            {
+                "0": "Công ty Cổ phần Xi Măng Hạ Long",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Trao đổi clinker",
+                "3": "30.909.405.088",
+                "4": "-"
+            },
+            {
+                "0": "Trả trước cho người bán ngắn hạn",
+                "1": "Trả trước cho người bán ngắn hạn",
+                "2": "Trả trước cho người bán ngắn hạn",
+                "3": "Trả trước cho người bán ngắn hạn",
+                "4": "Trả trước cho người bán ngắn hạn"
+            },
+            {
+                "0": "Công ty Tư vấn Đầu tư Phát triển Xi măng",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Phí tư vấn",
+                "3": "149.835.000",
+                "4": "513.946.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_45",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "37\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n29. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)\n\nVào ngày kết thúc kỳ kế toán năm, các khoản phải thu và phải trả với bên liên quan như sau: (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Số cuối năm",
+                "4": "VND Số đầu năm"
+            },
+            {
+                "0": "Phải trả người bán ngắn hạn",
+                "1": "Phải trả người bán ngắn hạn",
+                "2": "Phải trả người bán ngắn hạn",
+                "3": "Phải trả người bán ngắn hạn",
+                "4": "Phải trả người bán ngắn hạn"
+            },
+            {
+                "0": "Công ty Cổ phần Xi Măng Vicem Hoàng Mai",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Mua clinker",
+                "3": "(95.084.005.486)",
+                "4": "(3.037.223.794)"
+            },
+            {
+                "0": "Công ty Cổ phần Logistics Vicem",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Chi phí vận chuyển",
+                "3": "(95.689.799.234)",
+                "4": "(108.881.047.143)"
+            },
+            {
+                "0": "Tổng Công ty Xi măng Việt Nam",
+                "1": "Công ty mẹ",
+                "2": "Phí tư vấn",
+                "3": "(75.943.265.206)",
+                "4": "(74.136.376.902)"
+            },
+            {
+                "0": "Công ty TNHH MTV Xi măng Hạ Long",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Phí gia công",
+                "3": "(63.131.968.500)",
+                "4": "(14.789.403.915)"
+            },
+            {
+                "0": "Công ty Cổ phần Vicem Thạch cao Xi măng",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Mua thạch cao",
+                "3": "(11.668.677.504)",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Bao bì Hà Tiên",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Mua nguyên vật liệu",
+                "3": "(3.480.604.600)",
+                "4": "(4.783.572.845)"
+            },
+            {
+                "0": "Công ty Cổ phần Vicem Vật liệu xây dựng Đà Nẵng",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Mua võ bao",
+                "3": "(3.330.016.690)",
+                "4": "(4.618.611.756)"
+            },
+            {
+                "0": "Công ty Cổ phần Thương mại Dịch vụ Vận tải Xi măng Hải Phòng",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Chi phí vận chuyển",
+                "3": "(1.130.943.468)",
+                "4": "(2.092.522.509)"
+            },
+            {
+                "0": "Công ty Tư vấn Đầu tư Phát triển Xi măng",
+                "1": "Đơn vị thành viên trong cùng Tổng Công ty",
+                "2": "Phí tư vấn",
+                "3": "(988.579.789)",
+                "4": "(39.965.500)"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "(350.447.860.477)",
+                "4": "(212.378.724.364)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_46",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "38\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n29. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)\n\nCác giao dịch với bên liên quan khác\n\nThu nhập của các thành viên Hội đồng Quản trị và Ban Tổng Giám đốc trong năm được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "Tên",
+                "1": "Chức vụ",
+                "2": "Thu nhập",
+                "3": "Thu nhập"
+            },
+            {
+                "0": "Tên",
+                "1": "Chức vụ",
+                "2": "Năm nay",
+                "3": "Năm trước"
+            },
+            {
+                "0": "Ông Đình Quang Dũng",
+                "1": "Chủ tịch",
+                "2": "96.000.000",
+                "3": "104.000.000"
+            },
+            {
+                "0": "Ông Nguyễn Văn Chuyền",
+                "1": "Thành viên",
+                "2": "72.000.000",
+                "3": "108.000.000"
+            },
+            {
+                "0": "Ông Bùi Nguyên Quỳnh",
+                "1": "Thành viên",
+                "2": "1.102.893.775",
+                "3": "1.255.090.650"
+            },
+            {
+                "0": "Ông Nguyễn Quốc Thắng",
+                "1": "Thành viên",
+                "2": "1.110.436.633",
+                "3": "1.231.351.780"
+            },
+            {
+                "0": "Ông Nguyễn Văn Lập",
+                "1": "Thành viên",
+                "2": "866.490.072",
+                "3": "964.630.472"
+            },
+            {
+                "0": "Ông Phan Xuân Hiệu",
+                "1": "Thành viên",
+                "2": "6.000.000",
+                "3": "-"
+            },
+            {
+                "0": "Ông Trương Phú Cường",
+                "1": "Thành viên",
+                "2": "66.000.000",
+                "3": "78.000.000"
+            },
+            {
+                "0": "Ông Lưu Đình Cường",
+                "1": "Tổng Giám đốc",
+                "2": "1.595.147.297",
+                "3": "1.556.505.680"
+            },
+            {
+                "0": "Ông Phạm Đình Nhật Cường",
+                "1": "Phó Tổng Giám đốc",
+                "2": "1.056.706.201",
+                "3": "1.182.175.039"
+            },
+            {
+                "0": "Ông Nguyễn Thanh Phúc",
+                "1": "Phó Tổng Giám đốc",
+                "2": "1.109.864.232",
+                "3": "-"
+            },
+            {
+                "0": "Ông Mai Văn Yên",
+                "1": "Phó Tổng Giám đốc",
+                "2": "-",
+                "3": "464.524.694"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "7.081.538.210",
+                "3": "6.944.278.315"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_47",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "30. CAM KẾT THUÊ\n\nCam kết cho thuê hoạt động\n\nCông ty hiện đang thuê đất và nhà kho theo các hợp đồng thuê hoạt động. Vào ngày kết thúc ký kế toán năm, các khoản tiền thuê tối thiểu phải trả trong tương lai theo các hợp đồng thuê hoạt động này được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Đến 1 năm",
+                "1": "20.123.569.120",
+                "2": "21.305.267.649"
+            },
+            {
+                "0": "Từ 1 đến 5 năm",
+                "1": "39.823.742.056",
+                "2": "47.355.496.190"
+            },
+            {
+                "0": "Trên 5 năm",
+                "1": "237.507.651.415",
+                "2": "247.160.555.420"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "297.454.962.591",
+                "2": "315.821.319.259"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HT1_2020_separate_table_48",
+        "metadata": {
+            "ticker": "HT1",
+            "company_name": "CTCP Xi Măng Vicem Hà Tiên",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "HT1_financial_statements_2020_separate"
+        },
+        "context_text": "39\n\n\n\nCông ty Cổ phần Xi măng Hà Tiên 1\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n31. TÀI KHOÀN NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "Số cuối năm",
+                "3": "Số đầu năm"
+            },
+            {
+                "0": 1.0,
+                "1": "Nợ khó đòi đã xử lý (VND)",
+                "2": "1.395.687.412",
+                "3": "1.395.687.412"
+            },
+            {
+                "0": 2.0,
+                "1": "Ngoại tệ các loại:",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "",
+                "1": "- Đô la Mỹ (USD)",
+                "2": "570.018",
+                "3": "1.072.391"
+            },
+            {
+                "0": "",
+                "1": "- Euro (EUR)",
+                "2": "100",
+                "3": "111"
+            }
+        ]
+    }
+]

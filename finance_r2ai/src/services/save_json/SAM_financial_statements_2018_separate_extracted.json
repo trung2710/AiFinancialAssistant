@@ -1,0 +1,3712 @@
+[
+    {
+        "chunk_id": "SAM_2018_separate_table_1",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "Công ty Cổ phần SAM Holdings\n\nBáo cáo tài chính riêng\n\nCho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n\n\nCông ty Cổ phần SAM Holdings\n\nMỤC LỤC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Trang"
+            },
+            {
+                "0": "Thông tin chung",
+                "1": "1"
+            },
+            {
+                "0": "Báo cáo của Ban Tổng Giám đốc",
+                "1": "2"
+            },
+            {
+                "0": "Báo cáo kiểm toán độc lập",
+                "1": "3 - 4"
+            },
+            {
+                "0": "Bảng cân đối kế toán riêng",
+                "1": "5 - 7"
+            },
+            {
+                "0": "Báo cáo kết quả hoạt động kinh doanh riêng",
+                "1": "8"
+            },
+            {
+                "0": "Báo cáo lưu chuyển tiền tệ riêng",
+                "1": "9 - 10"
+            },
+            {
+                "0": "Thuyết minh báo cáo tài chính riêng",
+                "1": "11 - 41"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_2",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "Công ty Cổ phần SAM Holdings\n\nTHÔNG TIN CHUNG\n\nCÔNG TY\n\nCông ty Cổ phần SAM Holdings (\"Công ty\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh (\"GCNDKKD\") số 059162 do Sở Kế hoạch và Đầu tư Tĩnh Đồng Nai cấp ngày 30 tháng 3 năm 1998, và các GCNDKKD điều chỉnh.\n\nCông ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (\"HOSE\") theo Quyết định số 02/GPPH do Chủ tịch Ủy ban Chứng khoán Nhà nước ký ngày 2 tháng 6 năm 2000.\n\nHoạt động kinh doanh đăng ký trong năm hiện tại của Công ty là sản xuất, mua bán các loại cấp, vật liệu viễn thông, vật liệu dân dụng; bobin gỗ (trục gỗ dùng quản đây cấp); xuất nhập khẩu nguyên vật liệu, sản phẩm cấp chuyên ngành viễn thông và vật liệu điện dân dụng phục vụ cho hoạt động sản xuất kinh doanh của đơn vị; sản xuất và kinh doanh sản phẩm đây động, sản phẩm ống nhựa các loại; cho thuê văn phòng; đầu tư phát triển kinh doanh nhà, công trình hạ tầng kỹ thuật đô thị; kinh doanh bất động sản; kinh doanh sân golf; dịch vụ lưu trú, dịch vụ du lịch.\n\nCông ty có trụ sở chính đăng ký tại Số 152/11B Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam.\n\nHỘI ĐỒNG QUẢN TRỊ\n\nCác thành viên Hội đồng Quản trị trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Nguyễn Hải Dương",
+                "1": "Chủ tịch",
+                "2": ""
+            },
+            {
+                "0": "Ông Hoàng Trí Cường",
+                "1": "Phó Chủ tịch",
+                "2": ""
+            },
+            {
+                "0": "Ông Đào Ngọc Thanh",
+                "1": "Phó Chủ tịch",
+                "2": "từ nhiệm ngày 8 tháng 10 năm 2018"
+            },
+            {
+                "0": "Ông Nguyễn Hồng Hải",
+                "1": "Thành viên",
+                "2": ""
+            },
+            {
+                "0": "Ông Trần Hải Quang",
+                "1": "Thành viên",
+                "2": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_3",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "BAN KIỂM SOÁT\n\nCác thành viên Ban kiểm soát trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Nguyễn Văn NguyênBà Vũ Thị Thanh ThủyBà Chung Thị Kiều NgânÔng Nguyễn Minh Hà",
+                "1": "Trường BanThành viênThành viênThành viên",
+                "2": "từ nhiệm ngày 8 tháng 3 năm 2019bỗ nhiệm ngày 17 tháng 4 năm 2018từ nhiệm ngày 12 tháng 2 năm 2018"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_4",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "BAN TỔNG GIÁM ĐỐC\n\nCác thành viên Ban Tổng Giám đốc trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Trần Việt Anh",
+                "1": "Tổng Giám đốc",
+                "2": "bổ nhiệm ngày 31 tháng 8 năm 2018"
+            },
+            {
+                "0": "Ông Trần Anh Vương",
+                "1": "Tổng Giám đốc",
+                "2": "từ nhiệm ngày 31 tháng 8 năm 2018"
+            },
+            {
+                "0": "Ông Phương Thành Long",
+                "1": "Phó Tổng Giám đốc",
+                "2": "bổ nhiệm ngày 12 tháng 3 năm 2018"
+            },
+            {
+                "0": "Ông Phạm Ngọc Tùng",
+                "1": "Phó Tổng Giám đốc",
+                "2": "từ nhiệm ngày 31 tháng 1 năm 2019"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "bổ nhiệm ngày 19 tháng 5 năm 2018"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "từ nhiệm ngày 12 tháng 3 năm 2018"
+            },
+            {
+                "0": "Ông Hà Hoàng Thế Quang",
+                "1": "Phó Tổng Giám đốc",
+                "2": "từ nhiệm ngày 12 tháng 3 năm 2018"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_5",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT\n\nNgười đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Trần Việt Anh",
+                "1": "bố nhiệm ngày 31 tháng 8 năm 2018"
+            },
+            {
+                "0": "Ông Trần Anh Vương",
+                "1": "từ nhiệm ngày 31 tháng 8 năm 2018"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_6",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "KIÊM TOÁN VIÊN\n\nCông ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.\n\n1\n\n\n\nCông ty Cổ phần SAM Holdings\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC\n\nBan Tổng Giám đốc Công ty Cổ phần SAM Holdings (\"Công ty\") trình bày báo cáo này và báo cáo tài chính riêng của Công ty cho nằm tài chính kết thúc ngày 31 tháng 12 năm 2018.\n\nTRÁCH NHIÊM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH RIÊNG\n\nBan Tổng Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính riêng cho từng năm tài chính phần ánh trung thực và hợp lý tình hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng của Công ty trong năm. Trong quá trình lập báo cáo tài chính riêng này, Ban Tổng Giám đốc cần phải:\n\n- lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;\n\n- thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;\n\n- nếu rõ các chuẩn mục kế toán áp dụng cho Công ty có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mục này đã được trình bày và giải thích trong báo cáo tài chính riêng; và\n\n- lập báo cáo tài chính riêng trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động.\n\nBan Tổng Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phần ánh tỉnh hình tài chính riêng của Công ty, với mức độ chính xác hợp lý, tại bắt kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Tổng Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Công ty và do đó phải thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lập và những vi phạm khác.\n\nBan Tổng Giám đốc cam kết đã tuân thủ những yêu cầu nếu trên trong việc lập báo cáo tài chính riêng kèm theo.\n\nCÔNG BÓ CỦA BAN TỔNG GIÁM ĐỐC\n\nTheo ý kiến của Ban Tổng Giám đốc, báo cáo tài chính riêng kèm theo phân ánh trung thực và hợp lý tính hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2018, kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nCông ty có các công ty con như được trình bày trong báo cáo tài chính riêng. Công ty đã lập báo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 155/2015/TT-BTC - Hướng dẫn về việc công bố thông tin trên thị trường chứng khoán. Cứng theo quy định tại các văn bản này, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con (\"Nhóm Công ty\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018 đề ngày 11 tháng 3 năm 2019.\n\nNgười sử dụng báo cáo tài chính riêng nên đọc báo cáo này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty.\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 11 tháng 3 năm 2019\n\n2\n\n\n\nEY\nBuilding a better working world\n\nErnst & Young Vietnam Limited Tel: +84 28 3824 5252\n20th Floor, Bitexco Financial Tower Fax: +84 28 3824 5250\n2 Hai Trieu Street, District 1 ey.com\nHo Chi Minh City, S.R. of Vietnam\n\nSố tham chiếu: 61354714/20329393\n\nBÁO CÁO KIỀM TOÁN ĐỘC LẬP\n\nKính gửi: Quý Cổ đông của Công ty Cổ phần SAM Holdings\n\nChứng tôi đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần SAM Holdings (\"Công ty\") được lập ngày 11 tháng 3 năm 2019 và được trình bày từ trang 5 đến trang 41, bao gồm bằng cân đối kế toán riêng vào ngày 31 tháng 12 năm 2018, báo cáo kết quả hoạt động kinh doanh riêng, và báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày và các thuyết minh báo cáo tài chính riêng kèm theo.\n\nTrách nhiệm của Ban Tổng Giám đốc\n\nBan Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty theo các Chuẩn mục kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các Chuẩn mục kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính riêng do gian lập hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến của chúng tôi, báo cáo tài chính riêng đã phản ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu, tỉnh hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2018, cũng như kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nA member firm of Ernst & Young Global Limited\n\n3\n\n\n\n-\n\nEY\n\nBuilding a better working world\n\nVấn đề cần nhân mạnh\n\nChứng tối xin lưu ý đến Thuyết minh số 2.1 của báo cáo tài chính riêng. Công ty đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con (\"Nhóm Công ty\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018 theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Chứng tối đã kiểm toán báo cáo tài chính hợp nhất này và báo cáo kiểm toán của chúng tối đề ngày 11 tháng 3 năm 2019 đã đưa ra ý kiến chấp nhận toàn phần. Người sử dụng báo cáo tài chính riêng nên đọc báo cáo này cùng với báo cáo tài chính hợp nhất đã đề cập trên đề có được các thông tin đầy đủ về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty.\n\nÝ kiến kiểm toán của chúng tôi không liên quan đến vấn đề cần nhân mạnh này.\n\nCông ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam\n\nLê Quang Minh\n\nPhó Tổng Giám đốc\n\nGiấy CNDKHN kiểm toán\n\nSố: 0426-2018-004-1\n\nDương Thị Nữ\n\nKiểm toán viên\n\nGiấy CNDKHN kiểm toán\n\nSố: 3796-2016-004-1\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 11 tháng 3 năm 2019\n\nA member firm of Ernst & Young Global Limited\n\n4\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB01-DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG\n\nvào ngày 31 tháng 12 năm 2018\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "100",
+                "1": "A. TÀI SẢN NGẮN HẠN",
+                "2": "",
+                "3": "682.152.011.560",
+                "4": "939.799.415.178"
+            },
+            {
+                "0": "110",
+                "1": "I. Tiền",
+                "2": "4",
+                "3": "9.882.861.607",
+                "4": "3.434.471.549"
+            },
+            {
+                "0": "111",
+                "1": "1. Tiền",
+                "2": "",
+                "3": "9.882.861.607",
+                "4": "3.434.471.549"
+            },
+            {
+                "0": "120",
+                "1": "II. Đầu tư tài chính ngắn hạn",
+                "2": "5",
+                "3": "304.990.313.434",
+                "4": "541.431.482.512"
+            },
+            {
+                "0": "121",
+                "1": "1. Chứng khoán kinh doanh",
+                "2": "",
+                "3": "391.118.428.057",
+                "4": "581.735.572.135"
+            },
+            {
+                "0": "122",
+                "1": "2. Dự phòng giảm giá chứng khoán kinh doanh",
+                "2": "",
+                "3": "(86.128.114.623)",
+                "4": "(40.304.089.623)"
+            },
+            {
+                "0": "130",
+                "1": "III. Các khoản phải thu ngắn hạn",
+                "2": "",
+                "3": "366.653.895.357",
+                "4": "382.898.665.785"
+            },
+            {
+                "0": "131",
+                "1": "1. Phải thu ngắn hạn của khách hàng",
+                "2": "",
+                "3": "-",
+                "4": "401.488.090"
+            },
+            {
+                "0": "132",
+                "1": "2. Trả trước cho người bán ngắn hạn",
+                "2": "",
+                "3": "818.400.000",
+                "4": "318.423.350"
+            },
+            {
+                "0": "135",
+                "1": "3. Phải thu về cho vay ngắn hạn",
+                "2": "6",
+                "3": "7.600.000.000",
+                "4": "11.700.000.000"
+            },
+            {
+                "0": "136",
+                "1": "4. Phải thu ngắn hạn khác",
+                "2": "7",
+                "3": "358.235.495.357",
+                "4": "370.478.754.345"
+            },
+            {
+                "0": "140",
+                "1": "IV. Hàng tồn kho",
+                "2": "",
+                "3": "-",
+                "4": "5.523.039.839"
+            },
+            {
+                "0": "141",
+                "1": "1. Hàng tồn kho",
+                "2": "",
+                "3": "-",
+                "4": "5.523.039.839"
+            },
+            {
+                "0": "150",
+                "1": "V. Tài sản ngắn hạn khác",
+                "2": "",
+                "3": "624.941.162",
+                "4": "6.511.755.493"
+            },
+            {
+                "0": "151",
+                "1": "1. Chỉ phí trả trước ngắn hạn",
+                "2": "",
+                "3": "126.378.205",
+                "4": "956.530.116"
+            },
+            {
+                "0": "152",
+                "1": "2. Thuế GTGT được khấu trừ",
+                "2": "",
+                "3": "94.209.823",
+                "4": "4.012.518.919"
+            },
+            {
+                "0": "153",
+                "1": "3. Thuế và các khoản khác phải thu Nhà nước",
+                "2": "12",
+                "3": "404.353.134",
+                "4": "1.542.706.458"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_7",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "5\n\n\\( \\therefore {a}_{1} = 0 < 3/{a}_{2} \\)\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB01-DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "200",
+                "1": "B. TÀI SẢN DÀI HẠN",
+                "2": "",
+                "3": "2.877.933.694.789",
+                "4": "2.458.544.933.370"
+            },
+            {
+                "0": "210",
+                "1": "I. Các khoản phải thu dài hạn",
+                "2": "",
+                "3": "71.266.978.880",
+                "4": "126.800.000.000"
+            },
+            {
+                "0": "211",
+                "1": "1. Phải thu dài hạn của khách hàng",
+                "2": "",
+                "3": "-",
+                "4": "6.800.000.000"
+            },
+            {
+                "0": "216",
+                "1": "2. Phải thu dài hạn khác",
+                "2": "7",
+                "3": "71.266.978.880",
+                "4": "120.000.000.000"
+            },
+            {
+                "0": "220",
+                "1": "II. Tài sản cố định",
+                "2": "",
+                "3": "304.764.681",
+                "4": "564.232.677"
+            },
+            {
+                "0": "221",
+                "1": "1. Tài sản cố định hữu hình",
+                "2": "8",
+                "3": "72.154.685",
+                "4": "99.012.677"
+            },
+            {
+                "0": "222",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "16.064.884.550",
+                "4": "16.064.884.550"
+            },
+            {
+                "0": "223",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(15.992.729.865)",
+                "4": "(15.965.871.873)"
+            },
+            {
+                "0": "227",
+                "1": "2. Tài sản cố định vô hình",
+                "2": "",
+                "3": "232.609.996",
+                "4": "465.220.000"
+            },
+            {
+                "0": "228",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "697.830.000",
+                "4": "697.830.000"
+            },
+            {
+                "0": "229",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "",
+                "3": "(465.220.004)",
+                "4": "(232.610.000)"
+            },
+            {
+                "0": "230",
+                "1": "III. Bất động sản đầu tư",
+                "2": "9",
+                "3": "-",
+                "4": "24.351.472.557"
+            },
+            {
+                "0": "231",
+                "1": "1. Nguyên giá",
+                "2": "",
+                "3": "-",
+                "4": "29.827.371.443"
+            },
+            {
+                "0": "232",
+                "1": "2. Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "-",
+                "4": "(5.475.898.886)"
+            },
+            {
+                "0": "250",
+                "1": "IV. Đầu tư tài chính dài hạn",
+                "2": "10",
+                "3": "2.805.526.534.172",
+                "4": "2.304.059.373.287"
+            },
+            {
+                "0": "251",
+                "1": "1. Đầu tư vào công ty con",
+                "2": "",
+                "3": "1.867.888.892.000",
+                "4": "1.814.800.000.000"
+            },
+            {
+                "0": "252",
+                "1": "2. Đầu tư vào công ty liên kết",
+                "2": "",
+                "3": "696.200.970.000",
+                "4": "617.442.966.000"
+            },
+            {
+                "0": "253",
+                "1": "3. Đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "415.400.000.000",
+                "4": "16.500.000.000"
+            },
+            {
+                "0": "254",
+                "1": "4. Dự phòng đầu tư tài chính dài hạn",
+                "2": "",
+                "3": "(173.963.327.828)",
+                "4": "(144.683.592.713)"
+            },
+            {
+                "0": "260",
+                "1": "V. Tài sản dài hạn khác",
+                "2": "",
+                "3": "835.417.056",
+                "4": "2.769.854.849"
+            },
+            {
+                "0": "261",
+                "1": "1. Chi phí trả trước dài hạn",
+                "2": "",
+                "3": "835.417.056",
+                "4": "2.381.874.560"
+            },
+            {
+                "0": "262",
+                "1": "2. Tài sản thuế thu nhập hoãn lại",
+                "2": "21.3",
+                "3": "-",
+                "4": "387.980.289"
+            },
+            {
+                "0": "270",
+                "1": "TỔNG CỘNG TÀI SẢN",
+                "2": "",
+                "3": "3.560.085.706.349",
+                "4": "3.398.344.348.548"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_8",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "6\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB01-DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2018\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "300",
+                "1": "C. NỘ PHẢI TRÀ",
+                "2": "",
+                "3": "1.037.570.600.321",
+                "4": "926.976.659.029"
+            },
+            {
+                "0": "310",
+                "1": "I. Nợ ngắn hạn",
+                "2": "",
+                "3": "403.916.200.321",
+                "4": "214.095.855.179"
+            },
+            {
+                "0": "311",
+                "1": "1. Phải trả người bán ngắn hạn",
+                "2": "11",
+                "3": "176.442.264",
+                "4": "10.897.072.879"
+            },
+            {
+                "0": "313",
+                "1": "2. Thuế và các khoản phải nộp Nhà nước",
+                "2": "12",
+                "3": "88.192.241",
+                "4": "306.901.417"
+            },
+            {
+                "0": "314",
+                "1": "3. Phải trả người lao động",
+                "2": "",
+                "3": "593.112.882",
+                "4": "597.530.563"
+            },
+            {
+                "0": "315",
+                "1": "4. Chi phí phải trả ngắn hạn",
+                "2": "13",
+                "3": "17.911.692.287",
+                "4": "12.102.109.289"
+            },
+            {
+                "0": "319",
+                "1": "5. Phải trả ngắn hạn khác",
+                "2": "14",
+                "3": "94.303.825.869",
+                "4": "19.324.879.831"
+            },
+            {
+                "0": "320",
+                "1": "6. Vay ngắn hạn",
+                "2": "15",
+                "3": "289.983.522.914",
+                "4": "170.452.651.078"
+            },
+            {
+                "0": "322",
+                "1": "7. Quỹ khen thưởng, phúc lợi",
+                "2": "",
+                "3": "859.411.864",
+                "4": "414.710.122"
+            },
+            {
+                "0": "330",
+                "1": "II. Nợ dài hạn",
+                "2": "",
+                "3": "633.654.400.000",
+                "4": "712.880.803.850"
+            },
+            {
+                "0": "337",
+                "1": "1. Phải trả dài hạn khác",
+                "2": "",
+                "3": "60.000.000",
+                "4": "780.803.850"
+            },
+            {
+                "0": "338",
+                "1": "2. Vay dài hạn",
+                "2": "15",
+                "3": "633.594.400.000",
+                "4": "712.100.000.000"
+            },
+            {
+                "0": "400",
+                "1": "D. VỐN CHỦ SỞ HỮU",
+                "2": "",
+                "3": "2.522.515.106.028",
+                "4": "2.471.367.689.519"
+            },
+            {
+                "0": "410",
+                "1": "I. Vốn chủ sở hữu",
+                "2": "16",
+                "3": "2.522.515.106.028",
+                "4": "2.471.367.689.519"
+            },
+            {
+                "0": "411",
+                "1": "1. Vốn cổ phần",
+                "2": "",
+                "3": "2.490.362.630.000",
+                "4": "2.417.857.030.000"
+            },
+            {
+                "0": "411a",
+                "1": "- Cổ phiếu phổ thông có quyền biểu quyết",
+                "2": "",
+                "3": "2.490.362.630.000",
+                "4": "2.417.857.030.000"
+            },
+            {
+                "0": "418",
+                "1": "2. Quỹ đầu tư phát triển",
+                "2": "",
+                "3": "142.970.000",
+                "4": "142.970.000"
+            },
+            {
+                "0": "421",
+                "1": "3. Lợi nhuận sau thuế chưa phân phối",
+                "2": "",
+                "3": "32.009.506.028",
+                "4": "53.367.689.519"
+            },
+            {
+                "0": "421a",
+                "1": "- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước",
+                "2": "",
+                "3": "-",
+                "4": "23.385.721.684"
+            },
+            {
+                "0": "421b",
+                "1": "- Lợi nhuận sau thuế chưa phân phối năm nay",
+                "2": "",
+                "3": "32.009.506.028",
+                "4": "29.981.967.835"
+            },
+            {
+                "0": "440",
+                "1": "TỔNG CỘNG NGUỒN VỐN",
+                "2": "",
+                "3": "3.560.085.706.349",
+                "4": "3.398.344.348.548"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_9",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "Võ Ý Thảo\n\nNgười lập\n\nNgày 11 tháng 3 năm 2019\n\n7\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB02-DN\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "10",
+                "1": "1. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "17.1",
+                "3": "175.751.595.508",
+                "4": "16.660.481.520"
+            },
+            {
+                "0": "11",
+                "1": "2. Giá vốn hàng bán và dịch vụ cung cấp",
+                "2": "18",
+                "3": "(64.266.324.260)",
+                "4": "(11.230.722.129)"
+            },
+            {
+                "0": "20",
+                "1": "3. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "111.485.271.248",
+                "4": "5.429.759.391"
+            },
+            {
+                "0": "21",
+                "1": "4. Doanh thu hoạt động tài chính",
+                "2": "17.2",
+                "3": "200.221.640.580",
+                "4": "255.110.872.527"
+            },
+            {
+                "0": "22",
+                "1": "5. Chi phí tài chính",
+                "2": "19",
+                "3": "(202.973.770.913)",
+                "4": "(202.572.748.514)"
+            },
+            {
+                "0": "23",
+                "1": "Trong đó: Chi phí lãi vay",
+                "2": "",
+                "3": "(94.997.534.226)",
+                "4": "(87.643.819.372)"
+            },
+            {
+                "0": "25",
+                "1": "6. Chi phí bán hàng",
+                "2": "20",
+                "3": "(13.206.379.636)",
+                "4": "-"
+            },
+            {
+                "0": "26",
+                "1": "7. Chi phí quản lý doanh nghiệp",
+                "2": "20",
+                "3": "(24.541.302.518)",
+                "4": "(28.972.506.969)"
+            },
+            {
+                "0": "30",
+                "1": "8. Lợi nhuận thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "70.985.458.761",
+                "4": "28.995.376.435"
+            },
+            {
+                "0": "31",
+                "1": "9. Thu nhập khác",
+                "2": "",
+                "3": "84.000.000",
+                "4": "598.611.111"
+            },
+            {
+                "0": "40",
+                "1": "10. Lợi nhuận khác",
+                "2": "",
+                "3": "84.000.000",
+                "4": "598.611.111"
+            },
+            {
+                "0": "50",
+                "1": "11. Tổng lợi nhuận kế toán trước thuế",
+                "2": "",
+                "3": "71.069.458.761",
+                "4": "29.593.987.546"
+            },
+            {
+                "0": "51",
+                "1": "12. Chi phí thuế TNDN hiện hành",
+                "2": "21.1",
+                "3": "(17.347.247.005)",
+                "4": "-"
+            },
+            {
+                "0": "52",
+                "1": "13. (Chi phí) thu nhập thuế TNDN hoãn lại",
+                "2": "21.3",
+                "3": "(387.980.289)",
+                "4": "387.980.289"
+            },
+            {
+                "0": "60",
+                "1": "14. Lợi nhuận sau thuế TNDN",
+                "2": "",
+                "3": "53.334.231.467",
+                "4": "29.981.967.835"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_10",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "Võ Ý Thảo\n\nNgười lập\n\nNgày 11 tháng 3 năm 2019\n\n8\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB03-DN\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ RIÊNG\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "",
+                "1": "I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "01",
+                "1": "Tổng lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản:",
+                "2": "",
+                "3": "71.069.458.761",
+                "4": "29.593.987.546"
+            },
+            {
+                "0": "02",
+                "1": "Khẩu hao và hao mòn tài sản cố định",
+                "2": "",
+                "3": "971.570.124",
+                "4": "1.683.672.248"
+            },
+            {
+                "0": "03",
+                "1": "Các khoản dự phòng",
+                "2": "",
+                "3": "75.103.760.115",
+                "4": "102.586.396.854"
+            },
+            {
+                "0": "05",
+                "1": "Lãi từ hoạt động đầu tư",
+                "2": "",
+                "3": "(146.863.256.188)",
+                "4": "(131.693.103.095)"
+            },
+            {
+                "0": "06",
+                "1": "Chi phí lãi vay",
+                "2": "19",
+                "3": "94.997.534.226",
+                "4": "87.643.819.372"
+            },
+            {
+                "0": "08",
+                "1": "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+                "2": "",
+                "3": "95.279.067.038",
+                "4": "89.814.772.925"
+            },
+            {
+                "0": "09",
+                "1": "Giảm các khoản phải thu",
+                "2": "",
+                "3": "60.943.663.225",
+                "4": "20.964.316.161"
+            },
+            {
+                "0": "10",
+                "1": "Giảm hàng tồn kho",
+                "2": "",
+                "3": "5.523.039.839",
+                "4": "-"
+            },
+            {
+                "0": "11",
+                "1": "Tăng (giảm) các khoản phải trả",
+                "2": "",
+                "3": "29.600.843.834",
+                "4": "(12.761.932.113)"
+            },
+            {
+                "0": "12",
+                "1": "Giảm (tăng) chi phí trả trước",
+                "2": "",
+                "3": "2.376.609.415",
+                "4": "(1.636.404.427)"
+            },
+            {
+                "0": "13",
+                "1": "Giảm (tăng) chứng khoán kinh doanh",
+                "2": "",
+                "3": "190.617.144.078",
+                "4": "(364.085.411.885)"
+            },
+            {
+                "0": "14",
+                "1": "Tiền lãi vay đã trả",
+                "2": "",
+                "3": "(95.474.410.346)",
+                "4": "(85.683.118.594)"
+            },
+            {
+                "0": "15",
+                "1": "Thuế thu nhập doanh nghiệp đã nộp",
+                "2": "",
+                "3": "(16.208.893.681)",
+                "4": "-"
+            },
+            {
+                "0": "17",
+                "1": "Tiền chi khác cho hoạt động kinh doanh",
+                "2": "",
+                "3": "(1.742.113.216)",
+                "4": "(349.050.000)"
+            },
+            {
+                "0": "20",
+                "1": "Lưu chuyển tiền thuần từ (sử dụng vào) hoạt động kinh doanh",
+                "2": "",
+                "3": "270.914.950.186",
+                "4": "(353.736.827.933)"
+            },
+            {
+                "0": "",
+                "1": "II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "22",
+                "1": "Tiền thu do nhượng bán bất động sản đầu tư",
+                "2": "",
+                "3": "101.679.760.000",
+                "4": "-"
+            },
+            {
+                "0": "23",
+                "1": "Tiền chi cho vay",
+                "2": "",
+                "3": "(41.800.000.000)",
+                "4": "(300.000.000)"
+            },
+            {
+                "0": "24",
+                "1": "Tiền thu hồi cho vay",
+                "2": "",
+                "3": "5.600.000.000",
+                "4": "400.000.000"
+            },
+            {
+                "0": "25",
+                "1": "Tiền chi đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "(555.779.315.412)",
+                "4": "(204.148.000.000)"
+            },
+            {
+                "0": "26",
+                "1": "Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "111.414.885.800",
+                "4": "240.364.652.500"
+            },
+            {
+                "0": "27",
+                "1": "Tiền thu lãi cho vay, cổ tức được chia",
+                "2": "",
+                "3": "73.392.837.648",
+                "4": "76.399.496.902"
+            },
+            {
+                "0": "30",
+                "1": "Lưu chuyển tiền thuần (sử dụng vào) từ hoạt động đầu tư",
+                "2": "",
+                "3": "(305.491.831.964)",
+                "4": "112.716.149.402"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_11",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "9\n\n★Mo\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB03-DN\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ RIÊNG (tiếp theo)\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "",
+                "1": "III. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "33",
+                "1": "Tiền thu từ đi vay",
+                "2": "15",
+                "3": "463.703.261.651",
+                "4": "1.251.338.399.297"
+            },
+            {
+                "0": "34",
+                "1": "Tiền trả nợ gốc vay",
+                "2": "15",
+                "3": "(422.677.989.815)",
+                "4": "(1.056.901.905.590)"
+            },
+            {
+                "0": "36",
+                "1": "Cổ tức đã trả cho chủ sở hữu",
+                "2": "16.2",
+                "3": "-",
+                "4": "(8.184.155)"
+            },
+            {
+                "0": "40",
+                "1": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                "2": "",
+                "3": "41.025.271.836",
+                "4": "194.428.309.552"
+            },
+            {
+                "0": "50",
+                "1": "Lưu chuyển tiền thuần trong năm",
+                "2": "",
+                "3": "6.448.390.058",
+                "4": "(46.592.368.979)"
+            },
+            {
+                "0": "60",
+                "1": "Tiền đầu năm",
+                "2": "",
+                "3": "3.434.471.549",
+                "4": "50.026.840.528"
+            },
+            {
+                "0": "70",
+                "1": "Tiền cuối năm",
+                "2": "4",
+                "3": "9.882.861.607",
+                "4": "3.434.471.549"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_12",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "Võ Ý Thảo\n\nNgười lập\n\nNguyễn Thanh Xuân\nKế toán trưởng\n\nNgày 11 tháng 3 năm 2019\n\n10\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n1. THÔNG TIN VỀ CÔNG TY\n\nCông ty Cổ phần SAM Holdings (\"Công ty\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh (\"GCNDKKD\") số 059162 do Sở Kế hoạch và Đầu tư Tĩnh Đồng Nai cấp ngày 30 tháng 3 năm 1998, và các GCNDKKD điều chỉnh.\n\nCông ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (\"HOSE\") theo Quyết định số 02/GPPH do Chủ tịch Ủy ban Chứng khoán Nhà nước ký ngày 2 tháng 6 năm 2000.\n\nHoạt động kinh doanh đăng ký trong năm hiện tại của Công ty là sản xuất, mua bán các loại cấp, vật liệu viễn thông, vật liệu dân dụng; bobin gỗ (trục gỗ dùng quản dây cấp); xuất nhập khẩu nguyên vật liệu, sản phẩm cấp chuyên ngành viễn thông và vật liệu điện dân dụng phục vụ cho hoạt động sản xuất kinh doanh của đơn vị; sản xuất và kinh doanh sản phẩm dây đồng, sản phẩm ống nhựa các loại; cho thuê văn phòng; đầu tư phát triển kinh doanh nhà, công trình hạ tầng kỹ thuật đô thị; kinh doanh bất động sản; kinh doanh sân golf; dịch vụ lưu trú, dịch vụ du lịch.\n\nCông ty có trụ sở chính đăng ký tại Số 152/11B Điện Biên Phủ, Phương 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam.\n\nSố lượng nhân viên của Công ty tại ngày 31 tháng 12 năm 2018 là 28 (ngày 31 tháng 12 năm 2017: 23).\n\n2. CƠ SỞ TRÌNH BÀY\n\n2.1 Mục đích lập báo cáo tài chính riêng\n\nCông ty có các công ty con như được trình bày tại Thuyết minh số 10.1. Công ty đã lập báo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 155/2015/TT-BTC - Hướng dẫn về việc công bố thông tin trên thị trường chứng khoản. Công theo quy định tại các văn bản này, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con (\"Nhóm Công ty\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018 đề ngày 11 tháng 3 năm 2019.\n\nNgười sử dụng báo cáo tài chính riêng nên đọc báo cáo này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty.\n\n2.2 Chuẩn mực và Chế độ kế toán áp dụng\n\nBáo cáo tài chính riêng của Công ty được trình bày bằng đồng Việt Nam (\"VND\") phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam khác do Bộ Tài chính ban hành theo:\n\nQuyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);\n\nQuyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 2);\n\nQuyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 3);\n\nQuyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mục kế toán Việt Nam (Đợt 4); và\n\nQuyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mục kế toán Việt Nam (Đợt 5).\n\n11\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n2. CƠ SỞ TRÌNH BÀY (tiếp theo)\n\n2.2 Chuẩn mực và Chế độ kế toán áp dụng (tiếp theo)\n\nTheo đó, báo cáo tài chính riêng được trình bày kèm theo và việc sử dụng các báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tỉnh hình tài chính riêng, kết quả hoạt động kinh doanh riêng và lưu chuyển tiền tệ riêng theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.\n\n2.3 Hình thức số kế toán áp dụng\n\nHình thức số kế toán được áp dụng của Công ty là Nhật ký chung.\n\n2.4 Ký kế toán năm\n\nKỳ kế toán năm của Công ty áp dụng cho việc lập báo cáo tài chính riêng bắt đầu từ ngày 1 tháng 1 và kết thúc vào ngày 31 tháng 12.\n\n2.5 Đơn vị tiền tệ trong kế toán\n\nBáo cáo tài chính riêng được lập bằng đơn vị tiền tệ trong kế toán của Công ty là VND.\n\n3. TÓM TÁT CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU\n\n3.1 Tiền\n\nTiền bao gồm tiền mặt và tiền gửi ngân hàng.\n\n3.2 Các khoản phải thu\n\nCác khoản phải thu được trình bày trên báo cáo tài chính riêng theo giá trị ghi sổ các khoản phải thu khách hàng và phải thu khác sau khi cán trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.\n\nDự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc ký kế toán năm. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trong báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.3 Tài sản cố định hữu hình\n\nTài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị khấu hao lũy kế.\n\nNguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào hoạt động như dự kiến.\n\nCác chỉ phí mua sắm, nâng cấp và đổi mới tài sản cố định được ghi tăng nguyên giá của tài sản và chỉ phí bảo trì, sửa chữa được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.\n\nKhi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n12\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.4 Tài sản cố định vô hình\n\nTài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.\n\nNguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.\n\nCác chỉ phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chỉ phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.\n\nKhi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.5 Khấu hao và hao mòn\n\nKhấu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp khấu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:",
+        "dataframe": [
+            {
+                "0": "Nhà cửa, vật kiến trúc",
+                "1": "5 – 10 năm"
+            },
+            {
+                "0": "Máy móc và thiết bị",
+                "1": "6 năm"
+            },
+            {
+                "0": "Phương tiện vận tải, truyền dẫn",
+                "1": "8 năm"
+            },
+            {
+                "0": "Thiết bị văn phòng",
+                "1": "3 năm"
+            },
+            {
+                "0": "Thương hiệu",
+                "1": "3 năm"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_13",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "3.6 Bát động sản đầu tư\n\nBất động sản đầu tư được thể hiện theo nguyên giá bao gồm cả các chi phí giao dịch liên quan trừ đi giá trị hao mòn lũy kế. Đối với bất động sản đầu tư nắm giữ chờ tăng giá, Công ty không trích khấu hao mà xác định tổn thất do giảm giá trị.\n\nCác khoản chi phí liên quan đến bất động sản đầu tư phát sinh sau ghi nhận ban đầu được hạch toán vào giá trị còn lại của bất động sản đầu tư khi Công ty có khả năng thu được các lợi ích kinh tế trong tương lai nhiều hơn mức hoạt động được đánh giá ban đầu của bất động sản đầu tư đó.\n\nKhấu hao bất động sản đầu tư được trích theo phương pháp khấu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các bất động sản như sau:",
+        "dataframe": [
+            {
+                "0": "Nhà cửa và vật kiến trúc",
+                "1": "10 năm"
+            },
+            {
+                "0": "Máy móc và thiết bị",
+                "1": "6 năm"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_14",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "Bắt động sản đầu tư không còn được trình bày trong bằng cân đối kế toán riêng sau khi đã bán hoặc sau khi bất động sản đầu tư đã không còn được sử dụng và xét thấy không thu được lợi ích kinh tế trong tương lai từ việc thanh lý bất động sản đầu tư đó. Chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lai của bất động sản đầu tư được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng trong năm thanh lý.\n\nViệc chuyển từ bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho thành bất động sản đầu tư chỉ khi có sự thay đổi về mục đích sử dụng như trường hợp chủ sở hữu chấm dứt sử dụng tài sản đó và bất đầu cho bên khác thuê hoạt động hoặc khi kết thúc giai đoạn xây dựng. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hay hàng tồn kho chỉ khi có sự thay đổi về mục đích sử dụng như các trường hợp chủ sở hữu bất đầu sử dụng tài sản này hoặc bất đầu triển khai cho mục đích bán. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho không làm thay đổi nguyên giá hay giá trị còn lại của bất động sản tại ngày chuyển đổi.\n\n13\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYÊT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.7 Chi phí đi vay\n\nChi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Công ty.\n\n3.8 Chi phí trả trước\n\nChi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bằng cân đối kế toán riêng và được phân bổ trong khoảng thời gian trả trước hoặc thời gian các lợi ích kinh tế tương ứng được tạo ra từ các chi phí này.\n\n3.9 Các khoản đầu tư\n\nĐầu tư vào các công ty con\n\nCác khoản đầu tư vào công ty con mà trong đó Công ty nấm quyền kiểm soát được trình bày theo phương pháp giá gốc.\n\nCác khoản phân phối mà Công ty nhận được từ số lợi nhuận thuần lũy kế của công ty con sau ngày Công ty nằm quyền kiểm soát được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng của Công ty. Các khoản phân phối khác được xem như phần thu hồi của các khoản đầu tư và được trừ vào giá trị đầu tư.\n\nĐầu tư vào các công ty liên kết\n\nCác khoản đầu tư vào công ty liên kết mà trong đó Công ty có ảnh hưởng đáng kể được trình bày theo phương pháp giá gốc.\n\nCác khoản phân phối từ lợi nhuận thuần lũy kế của công ty liên kết sau ngày Công ty có ảnh hưởng đáng kể được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng của Công ty. Các khoản phân phối khác được xem như phần thu hồi các khoản đầu tư và được trừ vào giá trị đầu tư.\n\nChứng khoán kinh doanh và đầu tư góp vốn vào đơn vị khác\n\nChứng khoán kinh doanh và đầu tư góp vốn vào đơn vị khác được ghi nhận theo giá gốc.\n\nDự phòng giảm giá trị các khoản chứng khoán kinh doanh và các khoản đầu tư góp vốn\n\nDự phòng được lập cho việc giảm giá trị của các khoản chứng khoán kinh doanh và các khoản đầu tư góp vốn vào ngày kết thúc năm tài chính theo hướng dẫn của Thông tư số 228/2009/TT-BTC do Bộ Tài chính ban hành ngày 7 tháng 12 năm 2009 và Thông tư số 89/2013/TT-BTC do Bộ Tài chính ban hành ngày 28 tháng 6 năm 2013. Tăng hoặc giảm số dự phòng được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.10 Các khoản phải trả và chi phí trích trước\n\nCác khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.\n\n14\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.11 Phân chia lợi nhuận\n\nLợi nhuận thuần sau thuế thu nhập doanh nghiệp (không bao gồm lãi từ giao dịch mua giá rè) có thể được chia cho các cổ đông sau khi được Đại hội đồng cổ đông phê duyệt và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam.\n\nCông ty trích lập các quỹ dự phòng sau từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Công ty theo đề nghị của Hội đồng Quản trị và được các cổ đông phê duyệt tại Đại hội đồng cổ đông thường niên:\n\nQuỹ đầu tư phát triển\n\nQuỹ này được trích lập nhằm phục vụ việc mở rộng hoạt động hoặc đầu tư chiều sâu của Công ty.\n\nQuỹ khen thưởng, phúc lợi\n\nQuỹ này được trích lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho công nhân viên, và được trình bày như một khoản phải trả trên bằng cân đối kế toán riêng.\n\n3.12 Ghi nhận doanh thu\n\nDoanh thu được ghi nhận khi Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng khi ghi nhận doanh thu:\n\nDoanh thu bán hàng\n\nDoanh thu bán hàng được ghi nhận khi các rủi ro trọng yếu và các quyền sở hữu hàng hóa đã được chuyển sang người mua, thường là trùng với thời điểm chuyển giao hàng hóa.\n\nDoanh thu cung cấp dịch vụ\n\nDoanh thu được ghi nhận khi hoàn thành việc cung cấp dịch vụ.\n\nTiền lãi\n\nDoanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở dồn tích (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.\n\nCổ tức\n\nDoanh thu được ghi nhận khi quyền được nhận khoản thanh toán cổ tức của Công ty được xác lập.\n\nTiền cho thuê\n\nThu nhập từ tiền cho thuê tài sản theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng trong suốt thời gian cho thuê.\n\n15\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.13 Thuế\n\nThuế thu nhập hiện hành\n\nTài sản thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến được thu hồi từ hoặc phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc ký kế toán năm.\n\nThuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\nCông ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.\n\nThuế thu nhập hoãn lại\n\nThuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc năm tài chính giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của các khoản mục này trong báo cáo tài chính riêng.\n\nThuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế.\n\nTài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế đề sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này.\n\nGiá trị ghi sổ cửa tài sản thuế thu nhập doanh nghiệp hoãn lại phải được xem xét lại vào ngày kết thúc kỳ kế toán năm và phải giảm giá trị ghi sổ cửa tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập hoãn lại chưa được ghi nhận trước đầy được xem xét lại vào ngày kết thúc kỳ kế toán năm và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.\n\nTài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ kế toán năm khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc kỳ kế toán năm.\n\nThuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thắng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\nCông ty chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả này liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế đối với cùng một đơn vị chịu thuế hoặc Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng kỳ tương lại khi các khoản trọng yếu của thuế thu nhập hoãn lại phải trả hoặc tài sản thuế thu nhập hoãn lại được thanh toán hoặc thu hồi.\n\n16\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.14 Các bên liên quan\n\nCác bên được coi là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm các thành viên gia đình thân cận của các cá nhân được coi là liên quan.\n\n4. TIỀN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "-",
+                "2": "21.500.000"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "9.882.861.607",
+                "2": "3.412.971.549"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "9.882.861.607",
+                "2": "3.434.471.549"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_15",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "17\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n5. ĐẦU TƯ TÀI CHÍNH NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Mã cổ phiếu",
+                "2": "Số cuối năm",
+                "3": "Số cuối năm",
+                "4": "Số cuối năm",
+                "5": "Số đầu năm",
+                "6": "Số đầu năm",
+                "7": "Số đầu năm"
+            },
+            {
+                "0": "",
+                "1": "Mã cổ phiếu",
+                "2": "Giá gốc",
+                "3": "Giá trị hợp lý",
+                "4": "Dự phòng",
+                "5": "Giá gốc",
+                "6": "Giá trị hợp lý",
+                "7": "Dự phòng"
+            },
+            {
+                "0": "Chứng khoán kinh doanh:",
+                "1": "Chứng khoán kinh doanh:",
+                "2": "Chứng khoán kinh doanh:",
+                "3": "Chứng khoán kinh doanh:",
+                "4": "Chứng khoán kinh doanh:",
+                "5": "Chứng khoán kinh doanh:",
+                "6": "Chứng khoán kinh doanh:",
+                "7": "Chứng khoán kinh doanh:"
+            },
+            {
+                "0": "- Tổng Công ty Dược Việt Nam – CTCP (*)",
+                "1": "DVN",
+                "2": "283.624.800.000",
+                "3": "203.196.000.000",
+                "4": "(80.428.800.000)",
+                "5": "283.624.800.000",
+                "6": "248.862.000.000",
+                "7": "(34.762.800.000)"
+            },
+            {
+                "0": "- Công ty Cổ phần Nhựa Đồng Nai (*)",
+                "1": "DNP",
+                "2": "97.995.673.350",
+                "3": "107.971.200.000",
+                "4": "-",
+                "5": "-",
+                "6": "-",
+                "7": "-"
+            },
+            {
+                "0": "- Công ty Cổ phần Alphanam",
+                "1": "ALP",
+                "2": "7.243.518.147",
+                "3": "1.772.604.084",
+                "4": "(5.470.914.063)",
+                "5": "7.243.518.147",
+                "6": "1.772.604.084",
+                "7": "(5.470.914.063)"
+            },
+            {
+                "0": "- Công ty Cổ phần Phân lân Nung chảy Văn Điển",
+                "1": "VAF",
+                "2": "1.762.360.000",
+                "3": "2.565.987.200",
+                "4": "-",
+                "5": "1.762.360.000",
+                "6": "2.291.060.000",
+                "7": "-"
+            },
+            {
+                "0": "- Tổng Công ty Cổ phần Khoan và Dịch vụ Khoan dầu khí",
+                "1": "PVD",
+                "2": "492.076.560",
+                "3": "263.676.000",
+                "4": "(228.400.560)",
+                "5": "492.076.560",
+                "6": "421.701.000",
+                "7": "(70.375.560)"
+            },
+            {
+                "0": "- Công ty Cổ phần Tập đoàn Kỹ nghệ Gỗ Trường Thành",
+                "1": "TTF",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "147.060.363.199",
+                "6": "153.760.700.100",
+                "7": "-"
+            },
+            {
+                "0": "- Công ty Cổ phần Tập đoàn Đất Xanh",
+                "1": "DXG",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "141.552.410.600",
+                "6": "159.908.995.050",
+                "7": "-"
+            },
+            {
+                "0": "- Công ty Cổ phần Quốc tế Sơn Hà",
+                "1": "SHI",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "43.629",
+                "6": "43.629",
+                "7": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "391.118.428.057",
+                "3": "315.769.467.284",
+                "4": "(86.128.114.623)",
+                "5": "581.735.572.135",
+                "6": "567.017.103.863",
+                "7": "(40.304.089.623)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_16",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "B09-DN\n\n18\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n5. ĐẦU TƯ TÀI CHÍNH NGẮN HẠN (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Mã cổ phiếu",
+                "2": "Số đầu năm",
+                "3": "Mua trong năm",
+                "4": "Bán trong năm",
+                "5": "Số cuối năm"
+            },
+            {
+                "0": "Lý do thay đổi các khoản đầu tư như sau:",
+                "1": "Lý do thay đổi các khoản đầu tư như sau:",
+                "2": "Lý do thay đổi các khoản đầu tư như sau:",
+                "3": "Lý do thay đổi các khoản đầu tư như sau:",
+                "4": "Lý do thay đổi các khoản đầu tư như sau:",
+                "5": "Lý do thay đổi các khoản đầu tư như sau:"
+            },
+            {
+                "0": "Công ty Cổ phần Nhựa Đồng Nai",
+                "1": "DNP",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "- Về số lượng",
+                "1": "",
+                "2": "-",
+                "3": "6.748.200",
+                "4": "-",
+                "5": "6.748.200"
+            },
+            {
+                "0": "- Về giá trị",
+                "1": "",
+                "2": "-",
+                "3": "97.995.673.350",
+                "4": "-",
+                "5": "97.995.673.350"
+            },
+            {
+                "0": "Công ty Cổ phần Tập đoàn Kỹ nghệ Gỗ Trường Thành",
+                "1": "TTF",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "- Về số lượng",
+                "1": "",
+                "2": "20.806.590",
+                "3": "-",
+                "4": "(20.806.590)",
+                "5": "-"
+            },
+            {
+                "0": "- Về giá trị",
+                "1": "",
+                "2": "147.060.363.199",
+                "3": "-",
+                "4": "(147.060.363.199)",
+                "5": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Tập đoàn Đất Xanh",
+                "1": "DXG",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "- Về số lượng",
+                "1": "",
+                "2": "7.420.371",
+                "3": "-",
+                "4": "(7.420.371)",
+                "5": "-"
+            },
+            {
+                "0": "- Về giá trị",
+                "1": "",
+                "2": "141.552.410.600",
+                "3": "-",
+                "4": "(141.552.410.600)",
+                "5": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Quốc tế Sơn Hà",
+                "1": "SHI",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "- Về số lượng",
+                "1": "",
+                "2": "5",
+                "3": "-",
+                "4": "(5)",
+                "5": "-"
+            },
+            {
+                "0": "- Về giá trị",
+                "1": "",
+                "2": "43.629",
+                "3": "-",
+                "4": "(43.629)",
+                "5": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_17",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "19\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n6. PHẢI THU VỀ CHO VAY NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "Số cuối năm",
+                "3": "VND Số đầu năm"
+            },
+            {
+                "0": "Cho vay các bên liên quan (Thuyết minh số 22)",
+                "1": "(i)",
+                "2": "7.600.000.000",
+                "3": "11.400.000.000"
+            },
+            {
+                "0": "Cho vay bên khác",
+                "1": "",
+                "2": "-",
+                "3": "300.000.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "7.600.000.000",
+                "3": "11.700.000.000"
+            },
+            {
+                "0": "Bên vay",
+                "1": "Số cuối năm VND",
+                "2": "Lãi suất cho vay (%/năm)",
+                "3": "Hình thức đảm bảo"
+            },
+            {
+                "0": "Khoản cho vay 1",
+                "1": "6.500.000.000",
+                "2": "9,5%",
+                "3": "Tín chấp"
+            },
+            {
+                "0": "Công ty Cổ phần Sam Nông nghiệp Công nghệ cao",
+                "1": "Công ty Cổ phần Sam Nông nghiệp Công nghệ cao",
+                "2": "Công ty Cổ phần Sam Nông nghiệp Công nghệ cao",
+                "3": "Công ty Cổ phần Sam Nông nghiệp Công nghệ cao"
+            },
+            {
+                "0": "Khoản cho vay 2",
+                "1": "1.100.000.000",
+                "2": "11,5%",
+                "3": "Tín chấp"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "7.600.000.000",
+                "2": "",
+                "3": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_18",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "Đây là các khoản cho vay ngắn hạn có kỳ hạn trả gốc từ ba (3) đến mười hai (12) tháng.\n\n20\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n7. PHẢI THU KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "358.235.495.357",
+                "2": "370.478.754.345"
+            },
+            {
+                "0": "Đặt cọc nhận chuyển nhượng cổ phần",
+                "1": "123.122.423.412",
+                "2": "185.000.000.000"
+            },
+            {
+                "0": "- Mua cổ phần của doanh nghiệp trong lĩnh vực bất động sản",
+                "1": "123.122.423.412",
+                "2": "-"
+            },
+            {
+                "0": "- Mua cổ phần của Công ty Cổ phần Dịch vụ Du lịch Phú Thọ",
+                "1": "-",
+                "2": "112.000.000.000"
+            },
+            {
+                "0": "- Mua cổ phần khác",
+                "1": "-",
+                "2": "73.000.000.000"
+            },
+            {
+                "0": "Vốn góp hợp đồng hợp tác đầu tư (\"HĐHTĐT\") (i)",
+                "1": "127.850.000.000",
+                "2": "50.000.000.000"
+            },
+            {
+                "0": "Phải thu từ chuyển nhượng vốn",
+                "1": "105.780.149.500",
+                "2": "106.935.347.500"
+            },
+            {
+                "0": "Tạm ứng nhân viên",
+                "1": "20.255.000",
+                "2": "2.468.066.059"
+            },
+            {
+                "0": "Cổ tức phải thu",
+                "1": "-",
+                "2": "24.975.000.000"
+            },
+            {
+                "0": "Khác",
+                "1": "1.462.667.445",
+                "2": "1.100.340.786"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "71.266.978.880",
+                "2": "120.000.000.000"
+            },
+            {
+                "0": "Vốn góp HĐHTĐT (ii)",
+                "1": "71.000.000.000",
+                "2": "120.000.000.000"
+            },
+            {
+                "0": "Đặt cọc",
+                "1": "266.978.880",
+                "2": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "429.502.474.237",
+                "2": "490.478.754.345"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Phải thu các bên khác",
+                "1": "408.080.619.464",
+                "2": "412.116.493.246"
+            },
+            {
+                "0": "Phải thu các bên liên quan (Thuyết minh số 22)",
+                "1": "21.421.854.773",
+                "2": "78.362.261.099"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_19",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "(i) Chi tiết khoản vốn góp HĐHTĐT ngắn hạn như sau:\n\n- Khoản vốn góp HĐHTĐT trị giá 127.850.000.000 VND với các cá nhân trong năm 2018 liên quan đến việc ủy thác đầu tư để mua cổ phần doanh nghiệp, chứng khoán kinh doanh.\n\n(ii) Chi tiết các khoản vốn góp HĐHTĐT dài hạn như sau:\n\n- Khoản vốn góp HĐHTĐT trị giá 70.000.000.000 VND với Công ty Cổ phần Nhựa Đồng Nai (\"Nhựa Đồng Nai\") trong năm 2016 liên quan đến việc mua cổ phiếu của Công ty TNHH Nhà nước MTV Xây dựng và Cấp nước Thừa Thiên Huế (\"Huewaco\") để Nhựa Đồng Nai trở thành cổ đông chiến lược của Huewaco. Hàng năm, Công ty sẽ nhận được cổ tức hoặc lỗ tương ứng với tỷ lệ giá trị đầu tư.\n\n- Khoản vốn góp trị giá 1.000.000.000 VND góp vốn trong HĐHTĐT với cá nhân theo hợp đồng số 12/2018/HĐHT/SAM-VA ngày 25 tháng 7 năm 2018.\n\n21\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n8. TÀI SẢN CÓ ĐỊNH HỮU HÌNH\n\nB09-DN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nhà cửa,vật kiến trúc",
+                "2": "Máy mócvà thiết bị",
+                "3": "Phương tiệnvận tải",
+                "4": "Thiết bịvăn phòng",
+                "5": "VNDTổng cộng"
+            },
+            {
+                "0": "Nguyên giá:",
+                "1": "Nguyên giá:",
+                "2": "Nguyên giá:",
+                "3": "Nguyên giá:",
+                "4": "Nguyên giá:",
+                "5": "Nguyên giá:"
+            },
+            {
+                "0": "Số đầu năm và số cuối năm",
+                "1": "11.906.769.352",
+                "2": "134.290.000",
+                "3": "2.654.682.718",
+                "4": "1.369.142.480",
+                "5": "16.064.884.550"
+            },
+            {
+                "0": "Trong đó:Dã khấu hao hết",
+                "1": "11.906.769.352",
+                "2": "-",
+                "3": "2.654.682.718",
+                "4": "1.369.142.480",
+                "5": "15.930.594.550"
+            },
+            {
+                "0": "Giá trị khấu hao lũy kế:",
+                "1": "Giá trị khấu hao lũy kế:",
+                "2": "Giá trị khấu hao lũy kế:",
+                "3": "Giá trị khấu hao lũy kế:",
+                "4": "Giá trị khấu hao lũy kế:",
+                "5": "Giá trị khấu hao lũy kế:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "(11.906.769.352)",
+                "2": "(35.277.323)",
+                "3": "(2.654.682.718)",
+                "4": "(1.369.142.480)",
+                "5": "(15.965.871.873)"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "-",
+                "2": "(26.857.992)",
+                "3": "-",
+                "4": "-",
+                "5": "(26.857.992)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "(11.906.769.352)",
+                "2": "(62.135.315)",
+                "3": "(2.654.682.718)",
+                "4": "(1.369.142.480)",
+                "5": "(15.992.729.865)"
+            },
+            {
+                "0": "Giá trị còn lại:",
+                "1": "Giá trị còn lại:",
+                "2": "Giá trị còn lại:",
+                "3": "Giá trị còn lại:",
+                "4": "Giá trị còn lại:",
+                "5": "Giá trị còn lại:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "-",
+                "2": "99.012.677",
+                "3": "-",
+                "4": "-",
+                "5": "99.012.677"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "-",
+                "2": "72.154.685",
+                "3": "-",
+                "4": "-",
+                "5": "72.154.685"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_20",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "22\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n9. BÁT ĐỘNG SẢN ĐẦU TƯ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Bất động sản đầu tư cho thuê(Thuyết minh số 9.1)",
+                "1": "-",
+                "2": "13.139.650.738"
+            },
+            {
+                "0": "Bất động sản đầu tư nằm giữ chờ tăng giá",
+                "1": "-",
+                "2": "11.211.821.819"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "-",
+                "2": "24.351.472.557"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_21",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "9.1 Bất động sản đầu tư cho thuê",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nhà cửa,vật kiến trúc",
+                "2": "Máy mócvà thiết bị",
+                "3": "VNDTổng cộng"
+            },
+            {
+                "0": "Nguyên giá:",
+                "1": "Nguyên giá:",
+                "2": "Nguyên giá:",
+                "3": "Nguyên giá:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "17.665.549.624",
+                "2": "950.000.000",
+                "3": "18.615.549.624"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "(17.665.549.624)",
+                "2": "(950.000.000)",
+                "3": "(18.615.549.624)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "-",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Giá trị khấu hao lũy kế:",
+                "1": "Giá trị khấu hao lũy kế:",
+                "2": "Giá trị khấu hao lũy kế:",
+                "3": "Giá trị khấu hao lũy kế:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "(5.159.232.228)",
+                "2": "(316.666.658)",
+                "3": "(5.475.898.886)"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "(632.935.464)",
+                "2": "(79.166.664)",
+                "3": "(712.102.128)"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "5.792.167.692",
+                "2": "395.833.322",
+                "3": "6.188.001.014"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "-",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Giá trị còn lại:",
+                "1": "Giá trị còn lại:",
+                "2": "Giá trị còn lại:",
+                "3": "Giá trị còn lại:"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "12.506.317.396",
+                "2": "633.333.342",
+                "3": "13.139.650.738"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "-",
+                "2": "-",
+                "3": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_22",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "10. ĐẦU TƯ TÀI CHÍNH DÀI HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Đầu tư vào công ty con (Thuyết minh số 10.1)",
+                "1": "1.867.888.892.000",
+                "2": "1.814.800.000.000"
+            },
+            {
+                "0": "Đầu tư vào công ty liên kết(Thuyết minh số 10.2)",
+                "1": "696.200.970.000",
+                "2": "617.442.966.000"
+            },
+            {
+                "0": "Đầu tư góp vốn vào đơn vị khác(Thuyết minh số 10.3)",
+                "1": "415.400.000.000",
+                "2": "16.500.000.000"
+            },
+            {
+                "0": "Dự phòng đầu tư tài chính dài hạn",
+                "1": "(173.963.327.828)",
+                "2": "(144.683.592.713)"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "2.805.526.534.172",
+                "2": "2.304.059.373.287"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_23",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "23\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n10. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)\n\n10.1 Đầu tư vào công ty con\n\nChi tiết khoản đầu tư vào các công ty con như sau:",
+        "dataframe": [
+            {
+                "0": "Tên công ty con",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Số cuối năm",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm",
+                "5": "Số đầu năm"
+            },
+            {
+                "0": "Tên công ty con",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Tỷ lệ sở hữu (%)",
+                "3": "Giá gốc đầu tư VND",
+                "4": "Tỷ lệ sở hữu (%)",
+                "5": "Giá gốc đầu tư VND"
+            },
+            {
+                "0": "Công ty Cổ phần Sacom - Tuyên Lâm",
+                "1": "Kinh doanh khu du lịch, sân golf",
+                "2": "99,75%",
+                "3": "897.300.000.000",
+                "4": "99,75%",
+                "5": "897.300.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Dây và Cáp Sacom",
+                "1": "Sản xuất dây cấp",
+                "2": "99,92%",
+                "3": "499.600.000.000",
+                "4": "99,90%",
+                "5": "499.500.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom (i)",
+                "1": "Kinh doanh bất động sản",
+                "2": "74,99%",
+                "3": "301.988.892.000",
+                "4": "74,58%",
+                "5": "300.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH Sacom Chíp Sáng",
+                "1": "Kinh doanh dịch vụ cho thuê văn phòng",
+                "2": "73,75%",
+                "3": "118.000.000.000",
+                "4": "73,75%",
+                "5": "118.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Sam Nông nghiệp Công nghệ cao (ii)",
+                "1": "Trồng trọt, chăn nuôi, chế biến và kinh doanh nông sản",
+                "2": "51,00%",
+                "3": "51.000.000.000",
+                "4": "-",
+                "5": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "",
+                "3": "1.867.888.892.000",
+                "4": "",
+                "5": "1.814.800.000.000"
+            },
+            {
+                "0": "Dự phòng đầu tư tài chính dài hạn",
+                "1": "",
+                "2": "",
+                "3": "(150.353.003.338)",
+                "4": "",
+                "5": "(125.648.413.547)"
+            },
+            {
+                "0": "GIÁ TRỊ THUÀN",
+                "1": "",
+                "2": "",
+                "3": "1.717.535.888.662",
+                "4": "",
+                "5": "1.689.151.586.453"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_24",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "(i) Cổ phiếu Công ty Cổ phần Địa ốc Sacom được dùng làm tài sản thể chấp cho khoản vay dài hạn của Công ty (Thuyết minh số 15.4).\n\n(ii) Vào ngày 30 tháng 6 năm 2018, Công ty đã hoàn tất việc nhận chuyển nhượng 300.000 cổ phần Công ty Cổ phần Sam Nông nghiệp Công nghệ cao (\"SAT\") từ các cổ đông sáng lập khác với tổng giá trị nhận chuyển nhượng là 3.000.000.000 VND theo Nghị quyết số 24/2018/NQ-HĐQT ngày 11 tháng 5 năm 2018. Theo đó, tỷ lệ sở hữu của Công ty tăng từ 48% lên 51% và SAT chuyển từ công ty liên kết thành công ty con của Công ty. Ngoài ra, Công ty có thực hiện việc góp vốn thêm vào SAT trị giá 32.000.000.000 VND theo các thông báo góp vốn trong năm.\n\nB09-DN\n\n24\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n10. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)\n\n10.2 Đầu tư vào công ty liên kết\n\nChi tiết khoản đầu tư vào các công ty liên kết như sau:",
+        "dataframe": [
+            {
+                "0": "Tên công ty liên kết",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Số cuối năm",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm",
+                "5": "Số đầu năm"
+            },
+            {
+                "0": "Tên công ty liên kết",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Tỷ lệ sở hữu (%)",
+                "3": "Giá gốc đầu tư VND",
+                "4": "Tỷ lệ sở hữu (%)",
+                "5": "Giá gốc đầu tư VND"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Du lịch Phú Thọ (i)",
+                "1": "Kinh doanh dịch vụ du lịch",
+                "2": "34,96%",
+                "3": "537.552.970.000",
+                "4": "29,06%",
+                "5": "425.384.970.000"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Phát triển Hạ tầng An Việt",
+                "1": "Phát triển hạ tầng",
+                "2": "45%",
+                "3": "155.500.000.000",
+                "4": "45%",
+                "5": "155.500.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Capella Việt Nam",
+                "1": "Tổ chức sự kiện và quảng cáo",
+                "2": "31,48%",
+                "3": "3.148.000.000",
+                "4": "31,48%",
+                "5": "3.148.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Vật liệu điện và Viễn thông Sam Cường",
+                "1": "Sản xuất thiết bị, vật liệu điện, viễn thông",
+                "2": "-",
+                "3": "-",
+                "4": "33,74%",
+                "5": "17.409.996.000"
+            },
+            {
+                "0": "Công ty Cổ phần Sam Nông nghiệp Công nghệ cao",
+                "1": "Trồng trọt, chăn nuôi, chế biến và kinh doanh nông sản",
+                "2": "-",
+                "3": "-",
+                "4": "48,00%",
+                "5": "16.000.000.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "",
+                "3": "696.200.970.000",
+                "4": "",
+                "5": "617.442.966.000"
+            },
+            {
+                "0": "Dự phòng đầu tư tài chính dài hạn",
+                "1": "",
+                "2": "",
+                "3": "(10.110.324.490)",
+                "4": "",
+                "5": "(5.535.179.166)"
+            },
+            {
+                "0": "GIÁ TRỊ THUÀN",
+                "1": "",
+                "2": "",
+                "3": "686.090.645.510",
+                "4": "",
+                "5": "611.907.786.834"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_25",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "(i) Cổ phiếu Công ty Cổ phần Dịch vụ Du lịch Phú Thọ được dùng làm tài sản thế chấp để phát hành trái phiếu (Thuyết minh số 15.2) và khoản vay dài hạn của Công ty (Thuyết minh số 15.4).\n\nVào ngày 18 tháng 12 năm 2018, Công ty đã hoàn tất việc nhận chuyển nhượng 7.000.000 cổ phần Công ty Cổ phần Dịch vụ Du lịch Phú Thọ trên sản giao dịch chứng khoán. Theo đó, tỷ lệ sở hữu của Công ty tăng từ 29,06% lên 34,96%.\n\nB09-DN\n\n25\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n10. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)\n\n10.3 Đầu tư góp vốn vào đơn vị khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Tổng Công ty Sản xuất – Xuất nhập khẩuBình Dương - Công ty Cổ phần (*)",
+                "1": "398.400.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Xây dựngHạ tầng Alphanam",
+                "1": "13.500.000.000",
+                "2": "13.500.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Du lịch Bưu Điện",
+                "1": "3.000.000.000",
+                "2": "3.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Vietferm",
+                "1": "500.000.000",
+                "2": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "415.400.000.000",
+                "2": "16.500.000.000"
+            },
+            {
+                "0": "Dự phòng đầu tư tài chính dài hạn",
+                "1": "(13.500.000.000)",
+                "2": "(13.500.000.000)"
+            },
+            {
+                "0": "GIÁ TRỊ THUÀN",
+                "1": "401.900.000.000",
+                "2": "3.000.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_26",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "(*) Vào ngày 1 tháng 11 năm 2018, Công ty đã hoàn tất việc nhận chuyển nhượng 24.000.000 cổ phiếu, tương đương 8%, của Tổng Công ty Sản xuất – Xuất nhập khẩu Bình Dương – Công ty Cổ phần theo Nghị quyết số 12/2018/NQ-HĐQT ngày 6 tháng 4 năm 2018.\n\n11. PHẢI TRẢ NGƯỜI BÁN NGÁN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Phải trả cho các bên khác",
+                "1": "176.442.264",
+                "2": "655.735.279"
+            },
+            {
+                "0": "- Công ty TNHH Thương mạiDịch vụ Lạc Viên",
+                "1": "62.150.000",
+                "2": "25.344.000"
+            },
+            {
+                "0": "- Công ty TNHH Thương mại Dịch vụDu lịch Thanh Hiền",
+                "1": "39.565.000",
+                "2": "66.343.000"
+            },
+            {
+                "0": "- Công ty TNHH Thiết kế Quảng cáoTáo Xanh",
+                "1": "34.353.000",
+                "2": "-"
+            },
+            {
+                "0": "- Công ty Cổ phần Quảng cáo Việt Mai",
+                "1": "-",
+                "2": "260.187.400"
+            },
+            {
+                "0": "- Công ty Cổ phần Đầu tư Xây dựng Bcons",
+                "1": "-",
+                "2": "250.000.000"
+            },
+            {
+                "0": "- Phải trả đối tượng khác",
+                "1": "40.374.264",
+                "2": "53.860.879"
+            },
+            {
+                "0": "Phải trả cho các bên liên quan(Thuyết minh số 22)",
+                "1": "-",
+                "2": "10.241.337.600"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "176.442.264",
+                "2": "10.897.072.879"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_27",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "26\n\nM.S.\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n12. THUẾ VÀ CÁC KHOÀN PHẢI NỘP NHÀ NƯỚC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số đầu năm",
+                "2": "Tăng trong năm",
+                "3": "Giảm trong năm",
+                "4": "VND Số cuối năm"
+            },
+            {
+                "0": "Phải thu",
+                "1": "Phải thu",
+                "2": "Phải thu",
+                "3": "Phải thu",
+                "4": "Phải thu"
+            },
+            {
+                "0": "Thuế TNDN",
+                "1": "1.542.706.458",
+                "2": "16.208.893.681",
+                "3": "(17.347.247.005)",
+                "4": "404.353.134"
+            },
+            {
+                "0": "Phải nộp",
+                "1": "Phải nộp",
+                "2": "Phải nộp",
+                "3": "Phải nộp",
+                "4": "Phải nộp"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "306.901.417",
+                "2": "1.852.819.808",
+                "3": "(2.071.528.984)",
+                "4": "88.192.241"
+            },
+            {
+                "0": "Thuế GTGT",
+                "1": "-",
+                "2": "6.009.931.519",
+                "3": "(6.009.931.519)",
+                "4": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "306.901.417",
+                "2": "7.862.751.327",
+                "3": "(8.081.460.503)",
+                "4": "88.192.241"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_28",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "13. CHI PHÍ PHẢI TRÀ NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "16.723.611.167",
+                "2": "11.855.359.293"
+            },
+            {
+                "0": "Khác",
+                "1": "1.188.081.120",
+                "2": "246.749.996"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "17.911.692.287",
+                "2": "12.102.109.289"
+            },
+            {
+                "0": "Nhận vốn góp Hợp đồng hợp tác đầu tư (\"HĐHTĐT\") (*)",
+                "1": "80.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "7.046.811.547",
+                "2": "12.391.939.541"
+            },
+            {
+                "0": "Ký quỹ đề chuyển nhượng khoản đầu tư",
+                "1": "5.000.000.000",
+                "2": "5.000.000.000"
+            },
+            {
+                "0": "Cổ tức",
+                "1": "1.373.514.169",
+                "2": "1.373.514.169"
+            },
+            {
+                "0": "Khác",
+                "1": "883.500.153",
+                "2": "559.426.121"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "94.303.825.869",
+                "2": "19.324.879.831"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Phải trả các bên khác",
+                "1": "88.064.119.217",
+                "2": "6.697.212.891"
+            },
+            {
+                "0": "Phải trả các bên liên quan (Thuyết minh số 22)",
+                "1": "6.239.706.652",
+                "2": "12.627.666.940"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_29",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "(*) Chi tiết các khoản nhận vốn góp HĐHTĐT ngắn hạn như sau:\n\nKhoản nhận vốn góp HĐHTĐT trị giá 60.000.000.000 VND thời hạn 12 tháng từ ngày 14 tháng 9 năm 2018 với Công ty Cổ phần Xây dựng Đầu tư và Phát triển Lĩnh Phong - C.O.N.I.C liên quan đến việc ủy thác đầu tư. Công ty cam kết mức lợi nhuận tương đương với lãi suất là 10%/năm trên tổng giá trị vốn nhận góp trong HĐHTĐT.\n\n- Khoản nhận vốn góp HĐHTĐT trị giá 20.000.000.000 VND thời hạn 12 tháng từ ngày 11 tháng 10 năm 2018 với Công ty Cổ phần Phú Hữu Gia liên quan đến việc ủy thác đầu tư để đầu tư phát triển dự án bất động sản hoặc hoạt động tài chính khác. Công ty cam kết mức lợi nhuận tối thiểu là 8%/năm trên tổng giá trị vốn nhận góp trong HĐHTĐT.\n\n27\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n15. VAY",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số đầu năm",
+                "2": "Tăng trong năm",
+                "3": "Giảm trong năm",
+                "4": "Phân loại lại",
+                "5": "VND Số cuối năm"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "170.452.651.078",
+                "2": "463.703.261.651",
+                "3": "(418.677.989.815)",
+                "4": "74.505.600.000",
+                "5": "289.983.522.914"
+            },
+            {
+                "0": "Vay từ các bên liên quan(Thuyết minh số 15.1, 15.5 và 22)",
+                "1": "112.000.000.000",
+                "2": "165.500.000.000",
+                "3": "(182.000.000.000)",
+                "4": "27.713.500.000",
+                "5": "123.213.500.000"
+            },
+            {
+                "0": "Trải phiếu (Thuyết minh số 15.2)",
+                "1": "-",
+                "2": "100.000.000.000",
+                "3": "-",
+                "4": "-",
+                "5": "100.000.000.000"
+            },
+            {
+                "0": "Vay dài hạn ngân hàng đến hạn trả(Thuyết minh số 15.4)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "46.792.100.000",
+                "5": "46.792.100.000"
+            },
+            {
+                "0": "Vay từ Công ty chứng khoán(Thuyết minh số 15.3)",
+                "1": "58.452.651.078",
+                "2": "198.203.261.651",
+                "3": "(236.677.989.815)",
+                "4": "-",
+                "5": "19.977.922.914"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "712.100.000.000",
+                "2": "-",
+                "3": "(4.000.000.000)",
+                "4": "(74.505.600.000)",
+                "5": "633.594.400.000"
+            },
+            {
+                "0": "Vay từ ngân hàng(Thuyết minh số 15.4)",
+                "1": "467.921.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "(46.792.100.000)",
+                "5": "421.128.900.000"
+            },
+            {
+                "0": "Vay từ bên liên quan(Thuyết minh số 15.5 và 22)",
+                "1": "244.179.000.000",
+                "2": "-",
+                "3": "(4.000.000.000)",
+                "4": "(27.713.500.000)",
+                "5": "212.465.500.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "882.552.651.078",
+                "2": "463.703.261.651",
+                "3": "(422.677.989.815)",
+                "4": "-",
+                "5": "923.577.922.914"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_30",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "B09-DN\n\n28\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n15. VAY (tiếp theo)\n\n15.1 Các khoản vay ngắn hạn từ bên liên quan\n\nChi tiết các khoản vay ngắn hạn từ các bên liên quan để bổ sung vốn lưu động được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "Bên cho vay",
+                "1": "Số cuối năm(VND)",
+                "2": "Kỳ hạn trả gốc",
+                "3": "Kỳ hạn trả gốc",
+                "4": "Lãi suất(%/năm)",
+                "5": "Hình thức bảo đảm"
+            },
+            {
+                "0": "Công ty Cổ phần Dây và Cáp Sacom",
+                "1": "Công ty Cổ phần Dây và Cáp Sacom",
+                "2": "Công ty Cổ phần Dây và Cáp Sacom",
+                "3": "Công ty Cổ phần Dây và Cáp Sacom",
+                "4": "Công ty Cổ phần Dây và Cáp Sacom",
+                "5": "Công ty Cổ phần Dây và Cáp Sacom"
+            },
+            {
+                "0": "Hợp đồng vay số 02/2018/SDC-SACOM/HĐVV",
+                "1": "25.000.000.000",
+                "2": "Ngày 24 tháng 6 năm 2019",
+                "3": "Ngày 24 tháng 6 năm 2019",
+                "4": "6%",
+                "5": "Tín chấp"
+            },
+            {
+                "0": "Hợp đồng vay số 01/2018/SDC-SACOM/HĐVV",
+                "1": "8.500.000.000",
+                "2": "Ngày 11 tháng 4 năm 2019",
+                "3": "Ngày 11 tháng 4 năm 2019",
+                "4": "6%",
+                "5": "Tín chấp"
+            },
+            {
+                "0": "",
+                "1": "33.500.000.000",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty Cổ phần Địa ốc Sacom",
+                "2": "Công ty Cổ phần Địa ốc Sacom",
+                "3": "Công ty Cổ phần Địa ốc Sacom",
+                "4": "Công ty Cổ phần Địa ốc Sacom",
+                "5": "Công ty Cổ phần Địa ốc Sacom"
+            },
+            {
+                "0": "Hợp đồng vay số 03/2018/SAM-SAMLAND/HĐVV",
+                "1": "5.000.000.000",
+                "2": "Ngày 11 tháng 1 năm 2019",
+                "3": "Ngày 11 tháng 1 năm 2019",
+                "4": "9,6%",
+                "5": "Tín chấp"
+            },
+            {
+                "0": "Công ty Cổ phần Phú Hữu Gia",
+                "1": "Công ty Cổ phần Phú Hữu Gia",
+                "2": "Công ty Cổ phần Phú Hữu Gia",
+                "3": "Công ty Cổ phần Phú Hữu Gia",
+                "4": "Công ty Cổ phần Phú Hữu Gia",
+                "5": "Công ty Cổ phần Phú Hữu Gia"
+            },
+            {
+                "0": "Hợp đồng vay số 23/2018/HĐVV-SAM",
+                "1": "57.000.000.000",
+                "2": "Ngày 19 tháng 10 năm 2019",
+                "3": "Ngày 19 tháng 10 năm 2019",
+                "4": "8%",
+                "5": "Tín chấp"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "95.500.000.000",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "15.2 Trái phiếu",
+                "1": "15.2 Trái phiếu",
+                "2": "15.2 Trái phiếu",
+                "3": "15.2 Trái phiếu",
+                "4": "15.2 Trái phiếu",
+                "5": "15.2 Trái phiếu"
+            },
+            {
+                "0": "Chi tiết khoản trái phiếu đề bổ sung vốn lưu động được trình bày như sau:",
+                "1": "Chi tiết khoản trái phiếu đề bổ sung vốn lưu động được trình bày như sau:",
+                "2": "Chi tiết khoản trái phiếu đề bổ sung vốn lưu động được trình bày như sau:",
+                "3": "Chi tiết khoản trái phiếu đề bổ sung vốn lưu động được trình bày như sau:",
+                "4": "Chi tiết khoản trái phiếu đề bổ sung vốn lưu động được trình bày như sau:",
+                "5": "Chi tiết khoản trái phiếu đề bổ sung vốn lưu động được trình bày như sau:"
+            },
+            {
+                "0": "Tổ chức thu xếp phát hành",
+                "1": "Số cuối năm(VND)",
+                "2": "Kỳ hạn",
+                "3": "Lãi suất(%/năm)",
+                "4": "",
+                "5": "Hình thức bảo đảm"
+            },
+            {
+                "0": "Công ty Cổ phần Chứng khoán Agribank",
+                "1": "Công ty Cổ phần Chứng khoán Agribank",
+                "2": "Công ty Cổ phần Chứng khoán Agribank",
+                "3": "Công ty Cổ phần Chứng khoán Agribank",
+                "4": "Công ty Cổ phần Chứng khoán Agribank",
+                "5": "Công ty Cổ phần Chứng khoán Agribank"
+            },
+            {
+                "0": "Phát hành ngày 9 tháng 7 năm 2018",
+                "1": "100.000.000.000",
+                "2": "1 năm",
+                "3": "9,9%",
+                "4": "11.800.000 cổ phiếu phổ thông Tổng Công ty Dược Việt Nam - CTCP; và 6.227.805 cổ phiếu phổ thông Công ty Cổ phần Dịch vụ Du lịch Phú Thọ",
+                "5": "11.800.000 cổ phiếu phổ thông Tổng Công ty Dược Việt Nam - CTCP; và 6.227.805 cổ phiếu phổ thông Công ty Cổ phần Dịch vụ Du lịch Phú Thọ"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_31",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "29\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n15. VAY (tiếp theo)\n\n15.3 Vay ngắn hạn từ Công ty Chứng khoán\n\nChi tiết khoản vay ngắn hạn từ Công ty Chứng khoán đề mua chứng khoán kinh doanh được trình bày như sau:\n\nHình thức bảo đảm\n\nKỳ hạn trả gốc Lãi suất\n\nSố cuối năm\n\nBên cho vay\n\nBên cho vay\n\n(VND)\n\n[Non-Text]\n\nCông ty Cổ phần Chứng khoán Sài Gòn Hà Nội\n\n6.748.200 cổ phiếu phổ thông\n\nNgày 26 tháng 2 năm 2019 13%-13,5%\n\n19.977.922.914\n\nHợp đồng số 28651/2018/SHS-GDKQ\n\n15.4 Vay dài hạn từ ngân hàng\n\nChi tiết khoản vay dài hạn từ ngân hàng để bổ sung vốn đầu tư Dự án Sacom Resort Tuyên Lâm - Đà Lạt được trình bày như sau:\n\nHình thức bảo đảm\n\nLãi suất\n\nKỳ hạn trả gốc\n\nSố cuối năm\n\nBên cho vay\n\nNgân hàng Thương mại Cổ phần Việt Á - Chi nhánh Thành phố Hồ Chí Minh\n\n11,5% 20.000.000 cổ phần của Công ty\n\nTừ ngày 12 tháng 7 năm 2019\n\n467.921.000.000\n\nHợp đồng số 020-042/17/VAB/HĐTDTDH\n\nTrong đó:\n\n- Vay dài hạn đến hạn trả\n\n- Vay dài hạn\n\nB09-DN\n\n30\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n15. VAY (tiếp theo)\n\n15.5 Vay dài hạn từ bên liên quan\n\nChi tiết khoản vay dài hạn từ bên liên quan để bổ sung vốn lưu động được trình bày như sau:\n\nHình thức bảo đảm\n\nLãi suất\n\n(%/năm)\n\nKỳ hạn trả gốc\n\nSố cuối năm\n\n(VND)\n\nBên cho vay\n\nBên cho vay\n\nCông ty Cổ phần Sacom - Tuyên Lâm\n\nHợp đồng số 01/2017/SAM-STL/HĐVV\n\nTrong đó:\n\n- Vay dài hạn đến hạn trả\n\n- Vay dài hạn\n\n27.713.500.000\n212.465.500.000\n\n27.713.500.000\n212.465.500.000\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n14 tháng 7 năm 2019 đến ngày 14 tháng 4 năm 2024\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n16. VÓN CHỦ SỞ HỮU\n\n16.1 Tỉnh hình tăng giảm nguồn vốn chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn cổ phần",
+                "2": "Thăng dư vốn cổ phần",
+                "3": "Quỹ đầu tư phát triển",
+                "4": "Lợi nhuận sau thuế chưa phân phối",
+                "5": "VND Tổng cộng"
+            },
+            {
+                "0": "Năm trước",
+                "1": "Năm trước",
+                "2": "Năm trước",
+                "3": "Năm trước",
+                "4": "Năm trước",
+                "5": "Năm trước"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "1.802.353.360.000",
+                "2": "406.943.449.943",
+                "3": "150.829.313.956",
+                "4": "82.006.037.785",
+                "5": "2.442.132.161.684"
+            },
+            {
+                "0": "Tăng vốn cổ phần",
+                "1": "615.503.670.000",
+                "2": "(406.943.449.943)",
+                "3": "(150.686.343.956)",
+                "4": "(57.873.876.101)",
+                "5": "-"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "29.981.967.835",
+                "5": "29.981.967.835"
+            },
+            {
+                "0": "Trích quỹ khen thưởng, phúc lợi",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(746.440.000)",
+                "5": "(746.440.000)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "2.417.857.030.000",
+                "2": "-",
+                "3": "142.970.000",
+                "4": "53.367.689.519",
+                "5": "2.471.367.689.519"
+            },
+            {
+                "0": "Năm nay",
+                "1": "Năm nay",
+                "2": "Năm nay",
+                "3": "Năm nay",
+                "4": "Năm nay",
+                "5": "Năm nay"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "2.417.857.030.000",
+                "2": "-",
+                "3": "142.970.000",
+                "4": "53.367.689.519",
+                "5": "2.471.367.689.519"
+            },
+            {
+                "0": "Cổ tức bằng cổ phiếu (*)",
+                "1": "72.505.600.000",
+                "2": "-",
+                "3": "-",
+                "4": "(72.505.600.000)",
+                "5": "-"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "53.334.231.467",
+                "5": "53.334.231.467"
+            },
+            {
+                "0": "Trích quỹ khen thưởng, phúc lợi",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(2.186.814.958)",
+                "5": "(2.186.814.958)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "2.490.362.630.000",
+                "2": "-",
+                "3": "142.970.000",
+                "4": "32.009.506.028",
+                "5": "2.522.515.106.028"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_32",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "B09-DN\n\n32\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n16. VỐN CHỦ SỞ HỮU (tiếp theo)\n\n16.2 Các giao dịch về vốn với các chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Vốn đầu tư đã góp của chủ sở hữu",
+                "1": "Vốn đầu tư đã góp của chủ sở hữu",
+                "2": "Vốn đầu tư đã góp của chủ sở hữu"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "2.417.857.030.000",
+                "2": "1.802.353.360.000"
+            },
+            {
+                "0": "Cổ tức bằng cổ phiếu cho năm 2017",
+                "1": "72.505.600.000",
+                "2": "-"
+            },
+            {
+                "0": "Tăng vốn trong năm",
+                "1": "-",
+                "2": "615.503.670.000"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "2.490.362.630.000",
+                "2": "2.417.857.030.000"
+            },
+            {
+                "0": "Cổ tức đã trả trong năm",
+                "1": "Cổ tức đã trả trong năm",
+                "2": "Cổ tức đã trả trong năm"
+            },
+            {
+                "0": "Cổ tức đã trả",
+                "1": "-",
+                "2": "8.184.155"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm"
+            },
+            {
+                "0": "",
+                "1": "Số cổ phiếu",
+                "2": "Số cổ phiếu"
+            },
+            {
+                "0": "Cổ phiếu được phép phát hành",
+                "1": "249.036.263",
+                "2": "241.785.703"
+            },
+            {
+                "0": "Cổ phiếu đã phát hành và góp vốn đầy đủCổ phiếu phổ thông",
+                "1": "249.036.263",
+                "2": "241.785.703"
+            },
+            {
+                "0": "Cổ phiếu đang lưu hànhCổ phiếu phổ thông",
+                "1": "249.036.263",
+                "2": "241.785.703"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_33",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "17. DOANH THU\n\n17.1 Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Doanh thu bán bất động sản đầu tư",
+                "1": "101.679.760.000",
+                "2": "-"
+            },
+            {
+                "0": "Doanh thu bán hàng hóa bất động sản",
+                "1": "70.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Doanh thu cho thuê văn phòng",
+                "1": "4.071.835.508",
+                "2": "5.062.836.720"
+            },
+            {
+                "0": "Doanh thu bán hàng hóa",
+                "1": "-",
+                "2": "11.597.644.800"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "175.751.595.508",
+                "2": "16.660.481.520"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Doanh thu với các bên khác",
+                "1": "105.049.328.562",
+                "2": "15.565.422.177"
+            },
+            {
+                "0": "Doanh thu với các bên liên quan(Thuyết minh số 22)",
+                "1": "70.702.266.946",
+                "2": "1.095.059.343"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_34",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "33\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYÊT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n17. DOANH THU (tiếp theo)\n\n17.2 Doanh thu hoạt động tài chính",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Lãi từ kinh doanh chứng khoán",
+                "1": "131.398.773.963",
+                "2": "122.285.732.437"
+            },
+            {
+                "0": "Cổ tức nhận được",
+                "1": "46.287.056.800",
+                "2": "62.702.956.361"
+            },
+            {
+                "0": "Lãi từ thanh lý khoản đầu tư",
+                "1": "19.849.691.800",
+                "2": "66.115.000.000"
+            },
+            {
+                "0": "Thu nhập từ lãi cho vay, lãi tiền gửi",
+                "1": "2.686.118.017",
+                "2": "4.007.183.729"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "200.221.640.580",
+                "2": "255.110.872.527"
+            },
+            {
+                "0": "Giá vốn hàng hóa bất động sản",
+                "1": "39.300.643.439",
+                "2": "-"
+            },
+            {
+                "0": "Giá vốn bất động sản đầu tư",
+                "1": "24.389.469.462",
+                "2": "-"
+            },
+            {
+                "0": "Giá vốn dịch vụ cho thuê văn phòng",
+                "1": "576.211.359",
+                "2": "997.506.129"
+            },
+            {
+                "0": "Giá vốn hàng bán",
+                "1": "-",
+                "2": "10.233.216.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "64.266.324.260",
+                "2": "11.230.722.129"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "94.997.534.226",
+                "2": "87.643.819.372"
+            },
+            {
+                "0": "Dự phòng các khoản đầu tư",
+                "1": "75.103.760.115",
+                "2": "102.586.396.854"
+            },
+            {
+                "0": "Lỗ từ kinh doanh chứng khoán",
+                "1": "32.038.254.528",
+                "2": "2.537.972.451"
+            },
+            {
+                "0": "Phí môi giới thanh lý khoản đầu tư",
+                "1": "-",
+                "2": "7.222.222.222"
+            },
+            {
+                "0": "Lỗ từ thanh lý khoản đầu tư",
+                "1": "-",
+                "2": "1.132.036.995"
+            },
+            {
+                "0": "Khác",
+                "1": "834.222.044",
+                "2": "1.450.300.620"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "202.973.770.913",
+                "2": "202.572.748.514"
+            },
+            {
+                "0": "Chi phí bán hàng",
+                "1": "13.206.379.636",
+                "2": "-"
+            },
+            {
+                "0": "- Chi phí môi giới",
+                "1": "13.206.379.636",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí quản lý doanh nghiệp",
+                "1": "24.541.302.518",
+                "2": "28.972.506.969"
+            },
+            {
+                "0": "- Chi phí lương",
+                "1": "12.419.146.189",
+                "2": "10.735.369.401"
+            },
+            {
+                "0": "- Chi phí dịch vụ mua ngoài",
+                "1": "5.457.122.059",
+                "2": "4.679.181.228"
+            },
+            {
+                "0": "- Chi phí khấu hao và hao mòn",
+                "1": "674.913.322",
+                "2": "1.065.047.122"
+            },
+            {
+                "0": "- Chi phí khác",
+                "1": "5.990.120.948",
+                "2": "12.492.909.218"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "37.747.682.154",
+                "2": "28.972.506.969"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_35",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "34\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n21. THUẾ THU NHẬP DOANH NGHIỆP\n\nThuế suất thuế thu nhập doanh nghiệp (\"thuế TNDN\") áp dụng cho Công ty là 20% thu nhập chịu thuế.\n\nCác báo cáo thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính riêng có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.\n\n21.1 Chi phí thuế TNDN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Chi phí thuế TNDN hiện hành",
+                "1": "17.347.247.005",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí (thu nhập) thuế TNDN hoãn lại",
+                "1": "387.980.289",
+                "2": "(387.980.289)"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "17.735.227.294",
+                "2": "(387.980.289)"
+            },
+            {
+                "0": "Tổng lợi nhuận kế toán trước thuế",
+                "1": "71.069.458.761",
+                "2": "29.593.987.546"
+            },
+            {
+                "0": "Thuế TNDN theo thuế suất 20% áp dụng cho Công ty",
+                "1": "14.213.891.752",
+                "2": "5.918.797.509"
+            },
+            {
+                "0": "Các khoản điều chỉnh:",
+                "1": "Các khoản điều chỉnh:",
+                "2": "Các khoản điều chỉnh:"
+            },
+            {
+                "0": "Chi phí không được trừ",
+                "1": "12.754.802.457",
+                "2": "13.322.281.519"
+            },
+            {
+                "0": "Cổ tức nhận được",
+                "1": "(9.257.411.360)",
+                "2": "(12.540.591.272)"
+            },
+            {
+                "0": "Lỗ năm trước chuyển sang",
+                "1": "(364.035.844)",
+                "2": "(7.088.468.045)"
+            },
+            {
+                "0": "Khác",
+                "1": "387.980.289",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí thuế TNDN",
+                "1": "17.735.227.294",
+                "2": "(387.980.289)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_36",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "21.2 Thuế TNDN hiện hành\n\nThuế TNDN hiện hành phải nộp được xác định dựa trên thu nhập chịu thuế của năm hiện tại. Thu nhập chịu thuế của Công ty khác với thu nhập được báo cáo trong báo cáo kết quả hoạt động kinh doanh riêng vi thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được khấu trừ cho mục đích tính thuế trong các năm khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải nộp của Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc ký kế toán năm.\n\n21.3 Thuế TNDN hoãn lại\n\nCông ty đã ghi nhận khoản tài sản thuế TNDN hoãn lại với các biến động trong năm nay và năm trước như sau:\n\nVND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Bàng cân đối kế toán riêng",
+                "2": "Bàng cân đối kế toán riêng",
+                "3": "Báo cáo kết quả hoạt động kinh doanh riêng",
+                "4": "Báo cáo kết quả hoạt động kinh doanh riêng"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "Lỗ thuế chuyển sang các năm sau",
+                "1": "-",
+                "2": "387.980.289",
+                "3": "(387.980.289)",
+                "4": "387.980.289"
+            },
+            {
+                "0": "Tài sản thuế thu nhập hoãn lại",
+                "1": "-",
+                "2": "387.980.289",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "(Chi phí) thu nhập thuế thu nhập hoãn lại",
+                "1": "(Chi phí) thu nhập thuế thu nhập hoãn lại",
+                "2": "(Chi phí) thu nhập thuế thu nhập hoãn lại",
+                "3": "(387.980.289)",
+                "4": "387.980.289"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_37",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "35\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN\n\nNhững giao dịch trọng yếu của Công ty với các bên liên quan trong năm nay và năm trước bao gồm:",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Năm nay",
+                "4": "VNDNăm trước"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Doanh thu từ việc chuyển nhượng dự án",
+                "3": "70.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Cho vay",
+                "3": "40.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Vay",
+                "3": "25.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Cổ tức",
+                "3": "14.916.000.000",
+                "4": "22.496.501.061"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Phí môi giới",
+                "3": "11.985.360.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Chi phí lãi vay",
+                "3": "1.649.014.023",
+                "4": "12.580.150.472"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Chi phí dịch vụ",
+                "3": "346.129.033",
+                "4": "1.108.483.587"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Lãi cho vay",
+                "3": "105.555.556",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Chi hộ",
+                "3": "18.059.327",
+                "4": "228.039.839"
+            },
+            {
+                "0": "Công ty Cổ phần Dây và Cáp Sacom",
+                "1": "Công ty con",
+                "2": "Vay",
+                "3": "33.500.000.000",
+                "4": "235.700.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Dây và Cáp Sacom",
+                "1": "Công ty con",
+                "2": "Cổ tức",
+                "3": "7.492.500.000",
+                "4": "24.975.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Dây và Cáp Sacom",
+                "1": "Công ty con",
+                "2": "Chi phí lãi vay",
+                "3": "607.267.260",
+                "4": "2.791.594.231"
+            },
+            {
+                "0": "Công ty Cổ phần Dây và Cáp Sacom",
+                "1": "Công ty con",
+                "2": "Doanh thu cho thuê",
+                "3": "356.032.180",
+                "4": "830.464.432"
+            },
+            {
+                "0": "Công ty Cổ phần Dây và Cáp Sacom",
+                "1": "Công ty con",
+                "2": "Mua thành phẩm",
+                "3": "-",
+                "4": "10.233.216.000"
+            },
+            {
+                "0": "Công ty Cổ phần Sam Nông nghiệp Công nghệ cao",
+                "1": "Công ty con",
+                "2": "Góp vốn",
+                "3": "32.000.000.000",
+                "4": "16.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Sam Nông nghiệp Công nghệ cao",
+                "1": "Công ty con",
+                "2": "Cho vay",
+                "3": "1.100.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Sam Nông nghiệp Công nghệ cao",
+                "1": "Công ty con",
+                "2": "Chi phí dịch vụ",
+                "3": "30.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Sam Nông nghiệp Công nghệ cao",
+                "1": "Công ty con",
+                "2": "Lãi cho vay",
+                "3": "14.556.164",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_38",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "B09-DN\n\n36\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nNhững giao dịch trọng yếu của Công ty với các bên liên quan trong năm nay và năm trước bao gồm: (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Năm nay",
+                "4": "VND Năm trước"
+            },
+            {
+                "0": "Công ty Cổ phần Phú Hữu Gia",
+                "1": "Bên liên quan",
+                "2": "Vay",
+                "3": "57.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Phú Hữu Gia",
+                "1": "Bên liên quan",
+                "2": "Góp vốn HĐHTĐT",
+                "3": "20.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Phú Hữu Gia",
+                "1": "Bên liên quan",
+                "2": "Lãi vay",
+                "3": "924.493.151",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Phú Hữu Gia",
+                "1": "Bên liên quan",
+                "2": "Cho vay",
+                "3": "700.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Phú Hữu Gia",
+                "1": "Bên liên quan",
+                "2": "Lãi cho vay",
+                "3": "631.944",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Sacom - Tuyên Lâm",
+                "1": "Công ty con",
+                "2": "Chi phí lãi vay",
+                "3": "27.775.598.699",
+                "4": "31.709.636.103"
+            },
+            {
+                "0": "Công ty Cổ phần Sacom - Tuyên Lâm",
+                "1": "Công ty con",
+                "2": "Doanh thu cho thuê",
+                "3": "346.234.766",
+                "4": "264.594.911"
+            },
+            {
+                "0": "Công ty Cổ phần Sacom - Tuyên Lâm",
+                "1": "Công ty con",
+                "2": "Chi phí dịch vụ",
+                "3": "70.039.399",
+                "4": "762.637.076"
+            },
+            {
+                "0": "Công ty Cổ phần Sacom - Tuyên Lâm",
+                "1": "Công ty con",
+                "2": "Vay",
+                "3": "-",
+                "4": "249.279.000.000"
+            },
+            {
+                "0": "Ông Phương Thành Long",
+                "1": "Phó Tổng Giám đốc",
+                "2": "Góp vốn HĐHTĐT",
+                "3": "19.150.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Ông Phương Thành Long",
+                "1": "Phó Tổng Giám đốc",
+                "2": "Tạm ứng",
+                "3": "900.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Ông Trần Việt Anh",
+                "1": "Tổng Giám đốc",
+                "2": "Góp vốn HĐHTĐT",
+                "3": "1.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Ông Trần Việt Anh",
+                "1": "Tổng Giám đốc",
+                "2": "Tạm ứng",
+                "3": "2.295.670.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Phát triển Hạ tầng An Việt",
+                "1": "Công ty liên kết",
+                "2": "Lãi cho vay",
+                "3": "626.076.387",
+                "4": "631.222.222"
+            },
+            {
+                "0": "Công ty TNHH Sacom Chíp Sáng",
+                "1": "Công ty con",
+                "2": "Lãi cho vay",
+                "3": "183.616.666",
+                "4": "473.518.888"
+            },
+            {
+                "0": "Công ty TNHH Sacom Chíp Sáng",
+                "1": "Công ty con",
+                "2": "Chi phí dịch vụ",
+                "3": "18.800.000",
+                "4": "49.269.000"
+            },
+            {
+                "0": "Công ty Cổ phần Capella Việt Nam",
+                "1": "Công ty liên kết",
+                "2": "Góp vốn",
+                "3": "-",
+                "4": "3.148.000.000"
+            },
+            {
+                "0": "Ông Trần Anh Vương",
+                "1": "Tổng Giám đốc",
+                "2": "Tạm ứng",
+                "3": "-",
+                "4": "2.991.861.059"
+            },
+            {
+                "0": "Ông Hà Hoàng Thế Quang",
+                "1": "Phó Tổng Giám đốc",
+                "2": "Tạm ứng",
+                "3": "-",
+                "4": "282.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_39",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "B09-DN\n\n37\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nVào ngày kết thúc ký kế toán năm, các khoản phải thu và phải trả các bên liên quan như sau:",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Số cuối năm",
+                "4": "VND Số đầu năm"
+            },
+            {
+                "0": "Phải thu khách hàng ngắn hạn",
+                "1": "Phải thu khách hàng ngắn hạn",
+                "2": "Phải thu khách hàng ngắn hạn",
+                "3": "Phải thu khách hàng ngắn hạn",
+                "4": "Phải thu khách hàng ngắn hạn"
+            },
+            {
+                "0": "Công ty Cổ phần Dây và Cáp Sacom",
+                "1": "Công ty con",
+                "2": "Dịch vụ cho thuê",
+                "3": "-",
+                "4": "229.701.240"
+            },
+            {
+                "0": "Công ty Cổ phần Sacom - Tuyền Lâm",
+                "1": "Công ty con",
+                "2": "Dịch vụ cho thuê",
+                "3": "-",
+                "4": "37.400.400"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "-",
+                "4": "267.101.640"
+            },
+            {
+                "0": "Phải thu khách hàng dài hạn",
+                "1": "Phải thu khách hàng dài hạn",
+                "2": "Phải thu khách hàng dài hạn",
+                "3": "Phải thu khách hàng dài hạn",
+                "4": "Phải thu khách hàng dài hạn"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Chuyển nhượng dự án Giai Việt",
+                "3": "-",
+                "4": "6.800.000.000"
+            },
+            {
+                "0": "Phải thu cho vay ngắn hạn",
+                "1": "Phải thu cho vay ngắn hạn",
+                "2": "Phải thu cho vay ngắn hạn",
+                "3": "Phải thu cho vay ngắn hạn",
+                "4": "Phải thu cho vay ngắn hạn"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Phát triển Hạ tầng An Việt",
+                "1": "Công ty liên kết",
+                "2": "Cho vay",
+                "3": "6.500.000.000",
+                "4": "6.500.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Sam Nông nghiệp Công nghệ cao",
+                "1": "Công ty con",
+                "2": "Cho vay",
+                "3": "1.100.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty TNHH Sacom Chỉp Sáng",
+                "1": "Công ty con",
+                "2": "Cho vay",
+                "3": "-",
+                "4": "4.900.000.000"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "7.600.000.000",
+                "4": "11.400.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_40",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "38\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nVào ngày kết thúc ký kế toán năm, các khoản phải thu và phải trả các bên liên quan như sau: (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Số cuối năm",
+                "4": "VND Số đầu năm"
+            },
+            {
+                "0": "Phải thu ngắn hạn khác",
+                "1": "Phải thu ngắn hạn khác",
+                "2": "Phải thu ngắn hạn khác",
+                "3": "Phải thu ngắn hạn khác",
+                "4": "Phải thu ngắn hạn khác"
+            },
+            {
+                "0": "Ông Phương Thành Long",
+                "1": "Phó Tổng Giám đốc",
+                "2": "Góp vốn HĐHTĐT",
+                "3": "19.150.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Phát triển Hạ tầng An Việt",
+                "1": "Công ty liên kết",
+                "2": "Lãi cho vay",
+                "3": "1.257.298.609",
+                "4": "631.222.222"
+            },
+            {
+                "0": "Công ty Cổ phần Sam Nông nghiệp Công nghệ cao",
+                "1": "Công ty con",
+                "2": "Lãi cho vay",
+                "3": "14.556.164",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Sam Nông nghiệp Công nghệ cao",
+                "1": "Công ty con",
+                "2": "Chi hộ",
+                "3": "-",
+                "4": "210.748.930"
+            },
+            {
+                "0": "Công ty Cổ phần Dây và Cáp Sacom",
+                "1": "Công ty con",
+                "2": "Cổ tức",
+                "3": "-",
+                "4": "24.975.000.000"
+            },
+            {
+                "0": "Ông Trần Anh Vương",
+                "1": "Tổng Giám đốc",
+                "2": "Tạm ứng",
+                "3": "-",
+                "4": "2.427.811.059"
+            },
+            {
+                "0": "Công ty TNHH Sacom Chíp Sáng",
+                "1": "Công ty con",
+                "2": "Lãi cho vay",
+                "3": "-",
+                "4": "117.478.888"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "20.421.854.773",
+                "4": "28.362.261.099"
+            },
+            {
+                "0": "Phải thu dài hạn khác",
+                "1": "Phải thu dài hạn khác",
+                "2": "Phải thu dài hạn khác",
+                "3": "Phải thu dài hạn khác",
+                "4": "Phải thu dài hạn khác"
+            },
+            {
+                "0": "Ông Trần Việt Anh",
+                "1": "Tổng Giám đốc",
+                "2": "Góp vốn HĐHTĐT",
+                "3": "1.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Góp vốn HĐHTĐT",
+                "3": "-",
+                "4": "50.000.000.000"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "1.000.000.000",
+                "4": "50.000.000.000"
+            },
+            {
+                "0": "Phải trả người bán ngắn hạn",
+                "1": "Phải trả người bán ngắn hạn",
+                "2": "Phải trả người bán ngắn hạn",
+                "3": "Phải trả người bán ngắn hạn",
+                "4": "Phải trả người bán ngắn hạn"
+            },
+            {
+                "0": "Công ty Cổ phần Dây và Cáp Sacom",
+                "1": "Công ty con",
+                "2": "Mua thành phẩm",
+                "3": "-",
+                "4": "10.241.337.600"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_41",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "B09-DN\n\n39\n\n\n\nCông ty Cổ phần SAM Holdings\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nVào ngày kết thúc ký kế toán năm, các khoản phải thu và phải trả các bên liên quan như sau: (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Số cuối năm",
+                "4": "VND Số đầu năm"
+            },
+            {
+                "0": "Phải trả ngắn hạn khác",
+                "1": "Phải trả ngắn hạn khác",
+                "2": "Phải trả ngắn hạn khác",
+                "3": "Phải trả ngắn hạn khác",
+                "4": "Phải trả ngắn hạn khác"
+            },
+            {
+                "0": "Công ty Cổ phần Sacom - Tuyên Lâm",
+                "1": "Công ty con",
+                "2": "Lãi vay",
+                "3": "5.978.154.013",
+                "4": "6.687.872.760"
+            },
+            {
+                "0": "Công ty Cổ phần Dây và Cáp Sacom",
+                "1": "Công ty con",
+                "2": "Lãi vay",
+                "3": "144.164.383",
+                "4": "467.191.781"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Thu hộ",
+                "3": "105.555.556",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Lãi vay",
+                "3": "-",
+                "4": "5.236.875.000"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Chi hộ",
+                "3": "-",
+                "4": "235.727.399"
+            },
+            {
+                "0": "Ông Trần Việt Anh",
+                "1": "Tổng Giám đốc",
+                "2": "Khác",
+                "3": "11.832.700",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "6.239.706.652",
+                "4": "12.627.666.940"
+            },
+            {
+                "0": "Vay ngắn hạn",
+                "1": "Vay ngắn hạn",
+                "2": "Vay ngắn hạn",
+                "3": "Vay ngắn hạn",
+                "4": "Vay ngắn hạn"
+            },
+            {
+                "0": "Công ty Cổ phần Dây và Cáp Sacom",
+                "1": "Công ty con",
+                "2": "Vay",
+                "3": "33.500.000.000",
+                "4": "31.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Sacom - Tuyên Lâm",
+                "1": "Công ty con",
+                "2": "Vay",
+                "3": "27.713.500.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Sacom",
+                "1": "Công ty con",
+                "2": "Vay",
+                "3": "5.000.000.000",
+                "4": "81.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Phú Hữu Gia",
+                "1": "Bên liên quan",
+                "2": "Vay",
+                "3": "57.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "123.213.500.000",
+                "4": "112.000.000.000"
+            },
+            {
+                "0": "Vay dài hạn",
+                "1": "Vay dài hạn",
+                "2": "Vay dài hạn",
+                "3": "Vay dài hạn",
+                "4": "Vay dài hạn"
+            },
+            {
+                "0": "Công ty Cổ phần Sacom - Tuyên Lâm",
+                "1": "Công ty con",
+                "2": "Vay",
+                "3": "212.465.500.000",
+                "4": "244.179.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SAM_2018_separate_table_42",
+        "metadata": {
+            "ticker": "SAM",
+            "company_name": "CTCP SAM Holdings",
+            "year": "2018",
+            "report_type": "separate",
+            "original_folder": "SAM_financial_statements_2018_separate"
+        },
+        "context_text": "B09-DN\n\n40\n\n\n\nCông ty Cổ phần SAM Holdings\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nCác giao dịch với các bên liên quan khác\n\nThu nhập và thủ lao của các thành viên Hội đồng Quản trị, Ban kiểm soát và Ban Tổng Giám đốc:\n\nVND\n\nNăm nay    Năm trước\n\nLương và thường 5.996.926.639 7.124.736.495\n\n23. PHÂN LOẠI LẠI SỐ LIỆU TƯƠNG ỨNG\n\nMột số dữ liệu tương ứng trong bằng cân đối kế toán riêng vào ngày 31 tháng 12 năm 2017 đã được phân loại lại cho phù hợp với cách trình bày của báo cáo tài chính riêng của năm nay. Chi tiết như sau:\n\nVND\n\nSố liệu theo    Phân loại    Số liệu\nbáo cáo trước đây    sau phân loại lại\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG",
+        "dataframe": [
+            {
+                "0": "Hàng tồn kho",
+                "1": "-",
+                "2": "5.523.039.839",
+                "3": "5.523.039.839"
+            },
+            {
+                "0": "Chi phí xây dựng cơ bảnđở dang",
+                "1": "5.523.039.839",
+                "2": "(5.523.039.839)",
+                "3": "-"
+            },
+            {
+                "0": "Tài sản cố định hữu hình",
+                "1": "10.859.313.415",
+                "2": "(10.760.300.738)",
+                "3": "99.012.677"
+            },
+            {
+                "0": "Tài sản cố định vô hình",
+                "1": "2.844.570.000",
+                "2": "(2.379.350.000)",
+                "3": "465.220.000"
+            },
+            {
+                "0": "Bất động sản đầu tư",
+                "1": "11.211.821.819",
+                "2": "13.139.650.738",
+                "3": "24.351.472.557"
+            }
+        ]
+    }
+]

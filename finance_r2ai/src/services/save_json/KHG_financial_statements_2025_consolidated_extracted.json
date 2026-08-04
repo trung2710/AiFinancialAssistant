@@ -1,0 +1,3354 @@
+[
+    {
+        "chunk_id": "KHG_2025_consolidated_table_1",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "CÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nBÁO CÁO TÀI CHÍNH HỢP NHẤT ĐÃ ĐƯỢC KIỂM TOÁN\n\nCho năm tài chính kết thúc ngày 31/12/2025\n\nTP. Hồ Chí Minh, tháng 03 năm 2026\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nMỤC LỤC",
+        "dataframe": [
+            {
+                "0": "NÔI DUNG",
+                "1": "TRANG"
+            },
+            {
+                "0": "BẢO CẢO CỦA BAN TỔNG GIÁM ĐỐC",
+                "1": "2 - 3"
+            },
+            {
+                "0": "BẢO CẢO KIỂM TOÁN ĐỌC LẬP",
+                "1": "4 - 5"
+            },
+            {
+                "0": "BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT",
+                "1": "6 - 7"
+            },
+            {
+                "0": "BẢO CẢO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT",
+                "1": "8"
+            },
+            {
+                "0": "BẢO CẢO LU'U CHUYỀN TIÊN TỆ HỢP NHẤT",
+                "1": "9"
+            },
+            {
+                "0": "THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT",
+                "1": "10 - 34"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_2",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "1\n\nN:03 C C T KHI 4NHF\n\n20\nRAC\nK\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC\n\nBan Tổng Giám đốc Công ty Cổ phần Tập đoàn Khải Hoàn Land (gọi tất là “Công ty”) trình bày báo cáo này cùng với Báo cáo tài chính hợp nhất của Công ty cho năm tài chính kết thúc ngày 31/12/2025.\n\nHỘI ĐỒNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐC\n\nCác thành viên của Hội đồng Quản trị và Ban Tổng Giám đốc đã điều hành Công ty trong năm tài chính kết thúc ngày 31/12/2025 và đến ngày lập báo cáo này gồm:\n\nHội đồng Quản trị",
+        "dataframe": [
+            {
+                "0": "Ông Nguyễn Khải Hoàn",
+                "1": "Chủ tịch"
+            },
+            {
+                "0": "Bà Đình Thị Nhật Hạnh",
+                "1": "Phó chủ tịch"
+            },
+            {
+                "0": "Bà Phạm Thị Minh Phụ",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Trần Mạnh Toàn",
+                "1": "Thành viên độc lập"
+            },
+            {
+                "0": "Bà Phạm Thị Hòa",
+                "1": "Thành viên độc lập"
+            },
+            {
+                "0": "Bà Đình Thị Nhật Hạnh",
+                "1": "Tổng Giám đốc"
+            },
+            {
+                "0": "Bà Phạm Thị Minh Phụ",
+                "1": "Phó Tổng Giám đốc"
+            },
+            {
+                "0": "Ông Trần Văn Đường",
+                "1": "Phó Tổng Giám đốc"
+            },
+            {
+                "0": "Ông Hoàng Phương",
+                "1": "Trường ban Kiểm soát"
+            },
+            {
+                "0": "Bà Nguyễn Thu Trang",
+                "1": "Thành viên Ban kiểm soát"
+            },
+            {
+                "0": "Ông Lê Văn Kiều",
+                "1": "Thành viên Ban kiểm soát"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_3",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC\n\nBan Tổng Giám đốc Công ty có trách nhiệm lập báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31/12/2025, phần ánh trung thực và hợp lý tính hình tài chính hợp nhất cũng như kết quả hoạt động kinh doanh và tính hình lưu chuyển tiền tệ hợp nhất của Công ty trong năm tài chính. Trong việc lập báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc được yêu cầu phải:\n\n- Tuân thủ chuẩn mục kế toán Việt Nam, chế độ kế toán doanh nghiệp và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất;\n\n- Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách đó một cách nhất quán;\n\n• Đưa ra các xét đoán và ước tính một cách hợp lý và thận trọng;\n\n- Nếu rõ các nguyên tắc kế toán thích hợp có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu cần được công bố và giải thích trong báo cáo tài chính hợp nhất hay không;\n\n- Thiết lập và thực hiện kiểm soát nội bộ một cách hữu hiệu cho mục đích lập và trình bày báo cáo tài chính hợp nhất hợp lý nhằm hạn chế rủi ro và gian lân; và\n\n- Lập báo cáo tài chính hợp nhất trên cơ sở hoạt động liên tục trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động kinh doanh.\n\nBan Tổng Giám đốc Công ty chịu trách nhiệm đảm bảo rằng số kế toán được ghi chép một cách phù hợp để phần ánh hợp lý tính hình tài chính của Công ty ở bất kỳ thời điểm nào và đảm bảo rằng báo cáo tài chính hợp nhất được lập và trình bày tuân thủ Chuẩn mục kế toán Việt Nam, Chế độ kế toán doanh nghiệp và các quy định pháp lý có liên quan tới việc lập và trình bày báo cáo tài chính hợp nhất. Ban Tổng Giám đốc cũng chịu trách nhiệm đảm bảo an toàn cho tài sân của Công ty và thực hiện các biện pháp thích hợp để ngăn chắn và phát hiện các hành vi gian lận và sai phạm khác.\n\n2\n\n110/ Zongang 1911\n\n1151 2000\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nBan Tổng Giám đốc xác nhận rằng Công ty đã tuân thủ các yêu cầu nêu trên trong việc lập và trình bày báo cáo tài chính hợp nhất.\n\nĐinh Thị Nhật Hạnh\n\nTổng Giám đốc\n\nTP. Hồ Chí Minh, ngày 24 tháng 03 năm 2026\n\n3\n\n15.\nIG\nEM\nIT\nVI\nNC\n\n\n\n[Non-Text]\n\nanviet\n\nCertified Public Accountants\n\nCông ty TNHH Kiểm toán An Việt\n\nTâng 12, toa nhà 167 Bùi Thị Xuân, Phường Hai Bà Trung, Hà Nội\n\nT(84-24) 6278 2904 E anviet@anvietcpa.com Wanvietcpa.com\n\nSố: 88 /2026/BCKT-AVI-TC1\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP\n\nKính gửi:\n\nCác cổ đông,\n\nHội đồng Quản trị và Ban Tổng Giám đốc\n\nCông ty Cổ phần Tập đoàn Khải Hoàn Land\n\nChúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Tập đoàn Khải Hoàn Land và các công ty con (goi tất là \"Công ty\"), được lập ngày 24 tháng 03 năm 2026, từ trang 06 đến trang 34, bao gồm Bằng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2025, Báo cáo kết quả hoạt động kinh doanh hợp nhất, Báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và Bàn thuyết minh báo cáo tài chính hợp nhất.\n\nTrách nhiệm của Ban Tổng Giám đốc\n\nBan Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý Báo cáo tài chính hợp nhất của Công ty theo Chuẩn myc kế toán Việt Nam, Chế độ kế toán doanh nghiệp và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về Báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi phải tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu Báo cáo tài chính hợp nhất của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên Báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày Báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của đơn vị. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý cửa các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể Báo cáo tài chính hợp nhất.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\nÝ kiến của kiểm toán viên\n\nTheo ý kiến của chúng tôi, Báo cáo tài chính hợp nhất kèm theo đã phần ánh trung thực và hợp lý, xét trên các khía cạnh trọng yếu, tỉnh hình tài chính hợp nhất của Công ty Cổ phần Tập đoàn Khải Hoàn Land và các công ty con tại ngày 31 tháng 12 năm 2025, cũng như kết quả hoạt động kinh doanh và tỉnh hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.\n\n4\n\nPartnering for Success\n\nMINI\n\n115/7.20.20.20.20.20.20.20.20.20.20.20.20.20.\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nVấn đề cần nhân mạnh\n\nNhư đã nếu tại thuyết minh số 10.3 trong Bản Thuyết minh báo cáo tài chính hợp nhất: Tại ngày 31/12/2025, trong số dư khoản phải thu dài hạn khác có số tiền khoảng 4.581 tỷ đồng (chiếm 65,5% tổng tài sản) là giá trị của các hợp đồng hợp tác kinh doanh của Công ty với các đối tác để thực hiện đầu tư, phát triển, môi giới và phân phối các sản phẩm bất động sản. Đến thời điểm hiện tại, một số dự án đầu tư, phát triển, môi giới, phân phối các sản phẩm bất động sản đang được Công ty và các đối tác triển khai, thực hiện với chủ đầu tư, các bên tham gia hợp đồng hợp tác kinh doanh chưa xác định kết quả hợp tác kinh doanh cuối cùng làm cơ sở phân chia tài chính; một số dự án đang tiếp tục trong quá trình hoàn thiện các thủ tục pháp lý cần thiết để trình các cơ quan quản lý nhà nước phê duyệt trước khi triển khai công việc đầu tư xây dựng; theo đó, các bên tiếp tục thống nhất chia lợi nhuận tạm tính và thực hiện quyết toán tài chính khi kết thúc và thanh lý đối với một số hợp đồng hợp tác kinh doanh. Hội đồng quản trị và Ban Tổng Giám đốc đánh giá các hợp đồng hợp tác kinh doanh này đã được thiết lập tuân thủ các quy định của pháp luật, việc ghi nhận lợi nhuận tạm tính và quyết toán khi kết thúc hợp đồng là phù hợp với đặc điểm đầu tư của dự án. Hội đồng quản trị và Ban Tổng Giám đốc Công ty cam kết chịu trách nhiệm về tính an toàn của các khoản tiến đầu tư, theo đó sẽ tăng cường quản trị việc thực hiện các nội dung, mục đích trong việc sử dụng khoản vốn góp của Công ty trong các hợp đồng hợp tác kinh doanh này và có biện pháp phòng ngựa tổn thất phát sinh (nếu có). Theo đó, Hội đồng quản trị và Ban Tổng Giám đốc Công ty đánh giá không có bất ký tổn thất nào phát sinh cần phải trích lập dự phòng liên quan đến các hợp đồng hợp tác kinh doanh trên báo cáo tài chính hợp nhất năm 2025.\n\nVân đề khác\n\nMột số chỉ tiêu so sánh trên báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31/12/2025 đã được Công ty điều chỉnh hồi tố/ phân loại lại để phù hợp với nguyên tắc ghi nhận doanh thu, chi phí của hợp đồng hợp tác kinh doanh và các thỏa thuận bổ sung với các đối tác.\n\nNguyên Thương\n\nPhó Tổng Giám đốc\n\nGiấy CN ĐKHN Kiểm toán số 0308-2023-055-1\n\nThay mặt và đại diện cho\n\nCÔNG TY TNHH KIỂM TOÁN AN VIỆT\n\nHà Nội, ngày 24 tháng 03 năm 2026\n\nTạ Thị Thẩm\n\nKiểm toán viên\n\nGiấy CN ĐKHN Kiểm toán số 3676-2026-055-1\n\n5\n\nHAN\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN BẮT ĐỘNG SẢN KHẢI HOÀN LAND\n\nBÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT\n\nTại ngày 31 tháng 12 năm 2025\n\nMÃU SÓ B01 - DN/HN\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "CHỈ TIỀU",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "31/12/2025",
+                "4": "01/01/2025"
+            },
+            {
+                "0": "A - TÀI SẢN NGÁN HẠN",
+                "1": "100",
+                "2": "",
+                "3": "1.959.232.813.454",
+                "4": "1.665.762.405.239"
+            },
+            {
+                "0": "I. Tiền và các khoản tương đương tiền",
+                "1": "110",
+                "2": "",
+                "3": "94.700.606.775",
+                "4": "106.983.017.179"
+            },
+            {
+                "0": "1. Tiền",
+                "1": "111",
+                "2": "5",
+                "3": "94.700.606.775",
+                "4": "106.983.017.179"
+            },
+            {
+                "0": "II. Đầu tư tài chính ngắn hạn",
+                "1": "120",
+                "2": "",
+                "3": "20.251.851.946",
+                "4": "21.143.123.288"
+            },
+            {
+                "0": "1. Đầu tư nắm giữ đến ngày đáo hạn",
+                "1": "123",
+                "2": "6",
+                "3": "20.251.851.946",
+                "4": "21.143.123.288"
+            },
+            {
+                "0": "III. Các khoản phải thu ngắn hạn",
+                "1": "130",
+                "2": "",
+                "3": "1.726.445.195.198",
+                "4": "1.396.169.834.453"
+            },
+            {
+                "0": "1. Phải thu ngắn hạn của khách hàng",
+                "1": "131",
+                "2": "7",
+                "3": "95.730.584.907",
+                "4": "202.613.227.368"
+            },
+            {
+                "0": "2. Trả trước cho người bán ngắn hạn",
+                "1": "132",
+                "2": "8",
+                "3": "369.386.247.218",
+                "4": "297.975.537.324"
+            },
+            {
+                "0": "3. Phải thu về cho vay ngắn hạn",
+                "1": "135",
+                "2": "9",
+                "3": "234.500.000.000",
+                "4": "-"
+            },
+            {
+                "0": "4. Phải thu ngắn hạn khác",
+                "1": "136",
+                "2": "10",
+                "3": "1.026.828.363.073",
+                "4": "895.581.069.761"
+            },
+            {
+                "0": "IV. Hàng tồn kho",
+                "1": "140",
+                "2": "11",
+                "3": "113.848.088.635",
+                "4": "124.917.035.965"
+            },
+            {
+                "0": "1. Hàng tồn kho",
+                "1": "141",
+                "2": "",
+                "3": "113.848.088.635",
+                "4": "124.917.035.965"
+            },
+            {
+                "0": "V. Tài sản ngắn hạn khác",
+                "1": "150",
+                "2": "",
+                "3": "3.987.070.900",
+                "4": "16.549.394.354"
+            },
+            {
+                "0": "1. Chi phí trả trước ngắn hạn",
+                "1": "151",
+                "2": "12",
+                "3": "1.789.878.931",
+                "4": "6.014.859.094"
+            },
+            {
+                "0": "2. Thuế GTGT được khấu trừ",
+                "1": "152",
+                "2": "",
+                "3": "2.197.191.969",
+                "4": "9.322.959.640"
+            },
+            {
+                "0": "3. Thuế và các khoản khác phải thu Nhà nước",
+                "1": "153",
+                "2": "16",
+                "3": "-",
+                "4": "1.211.575.620"
+            },
+            {
+                "0": "B - TÀI SẢN DÀI HẠN",
+                "1": "200",
+                "2": "",
+                "3": "5.035.250.960.277",
+                "4": "4.926.785.037.665"
+            },
+            {
+                "0": "I. Các khoản phải thu dài hạn",
+                "1": "210",
+                "2": "",
+                "3": "4.624.420.104.107",
+                "4": "4.601.866.329.350"
+            },
+            {
+                "0": "1. Phải thu dài hạn khác",
+                "1": "216",
+                "2": "10",
+                "3": "4.624.420.104.107",
+                "4": "4.601.866.329.350"
+            },
+            {
+                "0": "II. Tài sản cố định",
+                "1": "220",
+                "2": "",
+                "3": "201.058.636",
+                "4": "556.263.875"
+            },
+            {
+                "0": "1. Tài sản cố định hữu hình",
+                "1": "221",
+                "2": "13",
+                "3": "201.058.636",
+                "4": "491.548.723"
+            },
+            {
+                "0": "- Nguyên giá",
+                "1": "222",
+                "2": "",
+                "3": "4.447.928.026",
+                "4": "4.550.328.026"
+            },
+            {
+                "0": "- Giá trị hao mòn luỹ kế",
+                "1": "223",
+                "2": "",
+                "3": "(4.246.869.390)",
+                "4": "(4.058.779.303)"
+            },
+            {
+                "0": "2. Tài sản cố định vô hình",
+                "1": "227",
+                "2": "",
+                "3": "-",
+                "4": "64.715.152"
+            },
+            {
+                "0": "- Nguyên giá",
+                "1": "228",
+                "2": "",
+                "3": "575.365.500",
+                "4": "575.365.500"
+            },
+            {
+                "0": "- Giá trị hao mòn luỹ kế",
+                "1": "229",
+                "2": "",
+                "3": "(575.365.500)",
+                "4": "(510.650.348)"
+            },
+            {
+                "0": "III. Tài sản dở dang dài hạn",
+                "1": "240",
+                "2": "",
+                "3": "218.361.237.126",
+                "4": "215.065.483.849"
+            },
+            {
+                "0": "1. Chi phí sản xuất, kinh doanh dở dang",
+                "1": "241",
+                "2": "",
+                "3": "4.526.237.126",
+                "4": "2.115.483.849"
+            },
+            {
+                "0": "2. Chi phí xây dựng cơ bản dở dang",
+                "1": "242",
+                "2": "14",
+                "3": "213.835.000.000",
+                "4": "212.950.000.000"
+            },
+            {
+                "0": "IV. Tài sản dài hạn khác",
+                "1": "260",
+                "2": "",
+                "3": "192.268.560.408",
+                "4": "109.296.960.591"
+            },
+            {
+                "0": "1. Chi phí trả trước dài hạn",
+                "1": "261",
+                "2": "12",
+                "3": "192.268.560.408",
+                "4": "109.296.960.591"
+            },
+            {
+                "0": "TỔNG CỘNG TÀI SẢN",
+                "1": "270",
+                "2": "",
+                "3": "6.994.483.773.731",
+                "4": "6.592.547.442.904"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_4",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "6\n\n\\( \\left\\| {A}^{\\prime }\\right\\|  = \\frac{1}{2}\\left( {{A}^{\\prime }{C}_{0},{C}_{0}^{\\prime }}\\right)  \\geq  \\left\\| {A}^{\\prime }\\right\\| \\)\n\nNOI ★ H'H'N\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN BẮT ĐỘNG SẢN KHÀI HOÀN LAND\n\nBÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (Tiếp theo)\n\nTại ngày 31 tháng 12 năm 2025\n\nMÃU SÓ B01 - DN/HN\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "CHÌ TIÊU",
+                "1": "CHÌ TIÊU",
+                "2": "Mã số",
+                "3": "Thuyết minh",
+                "4": "31/12/2025",
+                "5": "01/01/2025"
+            },
+            {
+                "0": "C - NỘ PHẢI TRẢ",
+                "1": "C - NỘ PHẢI TRẢ",
+                "2": "300",
+                "3": "",
+                "4": "1.704.852.058.511",
+                "5": "1.371.624.330.029"
+            },
+            {
+                "0": "I.",
+                "1": "Nợ ngắn hạn",
+                "2": "310",
+                "3": "",
+                "4": "908.776.058.511",
+                "5": "780.692.330.029"
+            },
+            {
+                "0": "1.",
+                "1": "Phải trả người bán ngắn hạn",
+                "2": "311",
+                "3": "15",
+                "4": "7.505.045.706",
+                "5": "22.120.418.259"
+            },
+            {
+                "0": "2.",
+                "1": "Người mua trả tiền trước ngắn hạn",
+                "2": "312",
+                "3": "",
+                "4": "1.574.909.091",
+                "5": "274.909.091"
+            },
+            {
+                "0": "3.",
+                "1": "Thuế và các khoản phải nộp Nhà nước",
+                "2": "313",
+                "3": "16",
+                "4": "21.915.681.020",
+                "5": "16.683.345.542"
+            },
+            {
+                "0": "4.",
+                "1": "Phải trả người lao động",
+                "2": "314",
+                "3": "",
+                "4": "8.952.339.329",
+                "5": "10.565.848.186"
+            },
+            {
+                "0": "5.",
+                "1": "Chi phí phải trả ngắn hạn",
+                "2": "315",
+                "3": "17",
+                "4": "33.532.799.187",
+                "5": "34.134.056.580"
+            },
+            {
+                "0": "6.",
+                "1": "Phải trả ngắn hạn khác",
+                "2": "319",
+                "3": "18",
+                "4": "307.033.859.655",
+                "5": "254.356.045.867"
+            },
+            {
+                "0": "7.",
+                "1": "Vay và nợ thuê tài chính ngắn hạn",
+                "2": "320",
+                "3": "19",
+                "4": "528.261.424.523",
+                "5": "442.557.706.504"
+            },
+            {
+                "0": "II.",
+                "1": "Nợ dài hạn",
+                "2": "330",
+                "3": "",
+                "4": "796.076.000.000",
+                "5": "590.932.000.000"
+            },
+            {
+                "0": "1.",
+                "1": "Phải trả dài hạn khác",
+                "2": "337",
+                "3": "18",
+                "4": "476.000.000",
+                "5": "475.000.000"
+            },
+            {
+                "0": "2.",
+                "1": "Vay và nợ thuê tài chính dài hạn",
+                "2": "338",
+                "3": "19",
+                "4": "795.600.000.000",
+                "5": "590.457.000.000"
+            },
+            {
+                "0": "D - VỐN CHỦ SỞ HỮU",
+                "1": "D - VỐN CHỦ SỞ HỮU",
+                "2": "400",
+                "3": "",
+                "4": "5.289.631.715.220",
+                "5": "5.220.923.112.875"
+            },
+            {
+                "0": "I.",
+                "1": "Vốn chủ sở hữu",
+                "2": "410",
+                "3": "20",
+                "4": "5.289.631.715.220",
+                "5": "5.220.923.112.875"
+            },
+            {
+                "0": "1.",
+                "1": "Vốn góp của chủ sở hữu",
+                "2": "411",
+                "3": "",
+                "4": "4.494.352.050.000",
+                "5": "4.494.352.050.000"
+            },
+            {
+                "0": "1.",
+                "1": "- Cổ phiếu phổ thông có quyền biểu quyết",
+                "2": "411a",
+                "3": "",
+                "4": "4.494.352.050.000",
+                "5": "4.494.352.050.000"
+            },
+            {
+                "0": "2.",
+                "1": "Thặng dư vốn cổ phần",
+                "2": "412",
+                "3": "",
+                "4": "13.054.455.000",
+                "5": "13.054.455.000"
+            },
+            {
+                "0": "3.",
+                "1": "Lợi nhuận sau thuế chưa phân phối",
+                "2": "421",
+                "3": "",
+                "4": "782.225.210.220",
+                "5": "713.516.607.875"
+            },
+            {
+                "0": "3.",
+                "1": "- LNST chưa phân phối lũy kế đến cuối năm trước",
+                "2": "421a",
+                "3": "",
+                "4": "713.516.607.875",
+                "5": "657.801.507.287"
+            },
+            {
+                "0": "3.",
+                "1": "- LNST chưa phân phối năm nay",
+                "2": "421b",
+                "3": "",
+                "4": "68.708.602.345",
+                "5": "55.715.100.588"
+            },
+            {
+                "0": "TỔNG CỘNG NGUỒN VỐN",
+                "1": "TỔNG CỘNG NGUỒN VỐN",
+                "2": "440",
+                "3": "",
+                "4": "6.994.483.773.731",
+                "5": "6.592.547.442.904"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_5",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "TP. Hồ Chí Minh, ngày 24 tháng 03 năm 2026\n\n7\n\n11의 류, 24.2.1-11\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN BẮT ĐỘNG SẢN KHẢI HOÀN LAND\n\nBÁO CÁO KẾT QUÀ HOẠT ĐỘNG KINH DOANH HỢP NHẤT\n\nCho năm tài chính kết thúc ngày 31/12/2025\n\nMÃU SÓ B02 - DN/HN\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "Năm 2025",
+                "4": "Năm 2024"
+            },
+            {
+                "0": "1. Doanh thu bán hàng và cung cấp dịch vụ",
+                "1": "01",
+                "2": "21",
+                "3": "601.301.820.586",
+                "4": "309.842.135.613"
+            },
+            {
+                "0": "2. Các khoản giảm trừ doanh thu",
+                "1": "02",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "3. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "1": "10",
+                "2": "",
+                "3": "601.301.820.586",
+                "4": "309.842.135.613"
+            },
+            {
+                "0": "4. Giá vốn hàng bán",
+                "1": "11",
+                "2": "22",
+                "3": "487.777.933.925",
+                "4": "264.434.263.115"
+            },
+            {
+                "0": "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "1": "20",
+                "2": "",
+                "3": "113.523.886.661",
+                "4": "45.407.872.498"
+            },
+            {
+                "0": "6. Doanh thu hoạt động tài chính",
+                "1": "21",
+                "2": "23",
+                "3": "160.369.487.776",
+                "4": "192.077.065.396"
+            },
+            {
+                "0": "7. Chi phí tài chính",
+                "1": "22",
+                "2": "24",
+                "3": "80.410.688.295",
+                "4": "72.023.315.911"
+            },
+            {
+                "0": "- Trong đó: Chi phí lãi vay",
+                "1": "23",
+                "2": "",
+                "3": "70.087.258.627",
+                "4": "71.126.813.011"
+            },
+            {
+                "0": "8. Chi phí bán hàng",
+                "1": "25",
+                "2": "25",
+                "3": "64.926.509.430",
+                "4": "53.656.506.562"
+            },
+            {
+                "0": "9. Chi phí quản lý doanh nghiệp",
+                "1": "26",
+                "2": "26",
+                "3": "37.601.373.851",
+                "4": "32.421.515.923"
+            },
+            {
+                "0": "10. Lợi nhuận thuần từ hoạt động kinh doanh",
+                "1": "30",
+                "2": "",
+                "3": "90.954.802.861",
+                "4": "79.383.599.498"
+            },
+            {
+                "0": "11. Thu nhập khác",
+                "1": "31",
+                "2": "",
+                "3": "1.985.130.718",
+                "4": "2.792.247.381"
+            },
+            {
+                "0": "12. Chi phí khác",
+                "1": "32",
+                "2": "27",
+                "3": "5.543.328.810",
+                "4": "10.692.137.409"
+            },
+            {
+                "0": "13. Lợi nhuận khác",
+                "1": "40",
+                "2": "",
+                "3": "(3.558.198.092)",
+                "4": "(7.899.890.028)"
+            },
+            {
+                "0": "14. Tổng lợi nhuận kế toán trước thuế",
+                "1": "50",
+                "2": "",
+                "3": "87.396.604.769",
+                "4": "71.483.709.470"
+            },
+            {
+                "0": "15. Chi phí thuế TNDN hiện hành",
+                "1": "51",
+                "2": "28",
+                "3": "18.688.002.424",
+                "4": "15.768.608.882"
+            },
+            {
+                "0": "16. Chi phí thuế TNDN hoãn lại",
+                "1": "52",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+                "1": "60",
+                "2": "",
+                "3": "68.708.602.345",
+                "4": "55.715.100.588"
+            },
+            {
+                "0": "18. Lợi nhuận sau thuế của công ty mẹ",
+                "1": "61",
+                "2": "",
+                "3": "68.708.602.345",
+                "4": "55.715.100.588"
+            },
+            {
+                "0": "19. Lợi nhuận sau thuế của cổ đông không kiểm soát",
+                "1": "62",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "20. Lãi cơ bản trên cổ phiếu",
+                "1": "70",
+                "2": "30",
+                "3": "153",
+                "4": "124"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_6",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "TP. Hồ Chí Minh, ngày 24 tháng 03 năm 2026\n\nNgười lập\n\nNguyễn Thị Thùy\n\nKế toán trường\n\nKhu Việt Nghĩa\n\nĐinh Thị Nhật Hạnh\n\n8\n\n1101 = 51 - 15\n\n118% × 50 - 50\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CỔ PHẦN BẮT ĐỘNG SẢN KHẢI HOÀN LAND\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT\n\n(Theo phương pháp gián tiếp)\n\nCho năm tài chính kết thúc ngày 31/12/2025\n\nMĂU SÓ B03 - DN/HN\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Mã số",
+                "2": "Năm 2025",
+                "3": "Năm 2024"
+            },
+            {
+                "0": "I. Lưu chuyển tiền tử hoạt động kinh doanh",
+                "1": "I. Lưu chuyển tiền tử hoạt động kinh doanh",
+                "2": "I. Lưu chuyển tiền tử hoạt động kinh doanh",
+                "3": "I. Lưu chuyển tiền tử hoạt động kinh doanh"
+            },
+            {
+                "0": "1. Lợi nhuận trước thuế",
+                "1": "01",
+                "2": "87.396.604.769",
+                "3": "71.483.709.470"
+            },
+            {
+                "0": "2. Điều chỉnh cho các khoản",
+                "1": "2. Điều chỉnh cho các khoản",
+                "2": "2. Điều chỉnh cho các khoản",
+                "3": "2. Điều chỉnh cho các khoản"
+            },
+            {
+                "0": "- Khấu hao TSCĐ",
+                "1": "02",
+                "2": "266.201.653",
+                "3": "545.019.825"
+            },
+            {
+                "0": "- Lãi, lỗ từ hoạt động đầu tư",
+                "1": "05",
+                "2": "(160.369.487.776)",
+                "3": "(192.077.065.396)"
+            },
+            {
+                "0": "- Chi phí lãi vay",
+                "1": "06",
+                "2": "70.087.258.627",
+                "3": "72.023.315.911"
+            },
+            {
+                "0": "3. Lợi nhuận tử hoạt động kinh doanh trước thay đổi vốn lưu động",
+                "1": "08",
+                "2": "(2.619.422.727)",
+                "3": "(48.025.020.190)"
+            },
+            {
+                "0": "- Tăng các khoản phải thu",
+                "1": "09",
+                "2": "(323.054.205.516)",
+                "3": "(42.622.258.730)"
+            },
+            {
+                "0": "- Tăng, giảm hàng tồn kho",
+                "1": "10",
+                "2": "8.658.194.053",
+                "3": "84.416.801.757"
+            },
+            {
+                "0": "- Tăng, giảm khoản phải trả (không kể lãi vay phải trả, thuế TNDN phải nộp)",
+                "1": "11",
+                "2": "43.182.560.851",
+                "3": "108.967.320.242"
+            },
+            {
+                "0": "- Tăng, giảm chi phí trả trước",
+                "1": "12",
+                "2": "(78.746.619.654)",
+                "3": "(85.140.572.515)"
+            },
+            {
+                "0": "- Tiền lãi vay đã trả",
+                "1": "14",
+                "2": "(72.641.023.944)",
+                "3": "(73.163.893.439)"
+            },
+            {
+                "0": "- Thuế thu nhập doanh nghiệp đã nộp",
+                "1": "15",
+                "2": "(17.226.783.909)",
+                "3": "(5.512.125.491)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần tử hoạt động kinh doanh",
+                "1": "20",
+                "2": "(442.447.300.846)",
+                "3": "(61.079.748.366)"
+            },
+            {
+                "0": "II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "1": "II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "2": "II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "3": "II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+            },
+            {
+                "0": "1. Tiền chi mua sắm, xây dựng TSCĐ và các TSDH khác",
+                "1": "21",
+                "2": "(505.000.000)",
+                "3": "(1.402.312.963)"
+            },
+            {
+                "0": "2. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",
+                "1": "23",
+                "2": "(1.664.741.000.000)",
+                "3": "(317.243.123.288)"
+            },
+            {
+                "0": "3. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",
+                "1": "24",
+                "2": "1.637.743.000.000",
+                "3": "189.000.000.000"
+            },
+            {
+                "0": "4. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+                "1": "27",
+                "2": "166.821.172.423",
+                "3": "219.550.865.550"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần tử hoạt động đầu tư",
+                "1": "30",
+                "2": "139.318.172.423",
+                "3": "89.905.429.299"
+            },
+            {
+                "0": "III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "1": "III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "3": "III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+            },
+            {
+                "0": "1. Tiền thu từ đi vay",
+                "1": "33",
+                "2": "874.217.424.523",
+                "3": "443.245.000.000"
+            },
+            {
+                "0": "2. Tiền trả nợ gốc vay",
+                "1": "34",
+                "2": "(583.370.706.504)",
+                "3": "(415.230.293.496)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần tử hoạt động tài chính",
+                "1": "40",
+                "2": "290.846.718.019",
+                "3": "28.014.706.504"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần trong năm",
+                "1": "50",
+                "2": "(12.282.410.404)",
+                "3": "56.840.387.437"
+            },
+            {
+                "0": "Tiền và tương đương tiền đầu năm",
+                "1": "60",
+                "2": "106.983.017.179",
+                "3": "50.142.629.742"
+            },
+            {
+                "0": "Tiền và tương đương tiền cuối năm",
+                "1": "70",
+                "2": "94.700.606.775",
+                "3": "106.983.017.179"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_7",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "TP. Hồ Chí Minh, ngày 24 tháng 03 năm 2026\n\nĐinh Thị Nhật Hạnh\n\n9\n\n11/1\n\n| | |\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n1. ĐẶC ĐIỂM HOẠT ĐỘNG CỦA DOANH NGHIỆP\n\nHình thức sở hữu vốn\n\nCông ty Cổ phần Tập đoàn Khải Hoàn Land (trước đây là Công ty Cổ phần Bất động sản Khải Hoàn Land) (goi tất là \"Công ty\") là công ty cổ phần được thành lập theo Giấy chứng nhận đăng ký doanh nghiệp số 0309139261 do Sở kế hoạch và Đầu tư thành phố Hồ Chí Minh cấp lần đầu ngày 24/07/2009 và đăng ký thay đổi lần thứ 28 ngày 21/10/2025 do Sở Tài chính thành phố Hồ Chí Minh cấp.\n\nVốn điều lệ của Công ty là 4.494.352.050.000 đồng, tương ứng với 449.435.205 cổ phần, mệnh giá một cổ phần là 10.000 đồng.\n\nCổ phiếu của Công ty đang giao dịch trên thị trường chứng khoán tại Sở giao dịch chứng khoán TP. Hồ Chí Minh với mã chứng khoán là KHG.\n\nTrụ sở chính của Công ty đặt tại số 5-7-9-11 Đường Nội khu Hưng Gia 4, Khu đô thị Phú Mỹ Hưng, phường Tân Hưng, thành phố Hồ Chí Minh.\n\nTổng số nhân viên của Công ty tại ngày 31/12/2025 là 245 người ký hợp đồng lao động (tại ngày 31/12/2024 tổng là 152 người), chưa bao gồm cộng tác viên và nhân viên môi giới khoảng 5.268 người.\n\nNgành nghề kinh doanh chính và hoạt động chính\n\nNgành nghề kinh doanh của Công ty là tư vấn, môi giới, đấu giá bắt động sản, đấu giá quyền sử dụng đất; xây dựng nhà các loại; chuẩn bị mặt bằng; dịch vụ khách sạn đạt tiêu chuẩn trên ba sao (không hoạt động tại trụ sở); tổ chức giới thiệu và xúc tiến thương mại; xây dựng công trình kỹ thuật dân dụng khác; nhà hàng và các dịch vụ ăn uống phục vụ lưu động; kinh doanh bắt động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê; bán lẻ hàng hóa khác mới trong các cửa hàng chuyên doanh; hoạt động thiết kế dân dụng; dịch vụ chăm sóc và duy trì cảnh quan; bán buôn đồ dùng khác cho gia đình; giáo dục nghề nghiệp; hoạt động vui chơi giải trí khác chưa được phân vào đầu.\n\nHoạt động chính của Công ty trong năm là tư vấn, môi giới và kinh doanh bất động sản.\n\nChu kỳ sản xuất, kinh doanh thông thường:\n\nChu kỳ sản xuất, kinh doanh thông thường của Công ty được thực hiện trong thời gian không quá 12 tháng.\n\nCấu trúc doanh nghiệp\n\nTại ngày 31 tháng 12 năm 2025, Công ty đang đầu tư trực tiếp vào hai (02) công ty con. Thông tin chi tiết về các công ty được đầu tư này như sau:",
+        "dataframe": [
+            {
+                "0": "Tên công ty",
+                "1": "Thành lập và hoạt động",
+                "2": "Tỷ lệ sở hữu",
+                "3": "Quyền biểu quyết",
+                "4": "Hoạt động chính"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Phát triển Địa ốc An Pha",
+                "1": "Thành phố Hồ Chí Minh",
+                "2": "100%",
+                "3": "100%",
+                "4": "Kinh doanh, môi giới bắt động sản"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Kinh doanh Địa ốc An Thịnh Phát",
+                "1": "Thành phố Hồ Chí Minh",
+                "2": "100%",
+                "3": "100%",
+                "4": "Kinh doanh, môi giới bắt động sản"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_8",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "10\n\n1151 10.3MTC HD 1911\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n2. NIÊN ĐỘ KẾ TOÁN, ĐƠN VỊ TIỀN TỆ SÙ DỤNG TRONG KẾ TOÁN\n\nNiên độ kế toán\n\nNiên độ kế toán của Công ty bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 năm dương lịch.\n\nĐơn vị tiền tệ sử dụng trong kế toán: Đồng Việt Nam (VND)\n\n3. CHUẢN MỤC VÀ CHẾ ĐỘ KÉ TOÁN ÁP DỤNG\n\nBáo cáo tài chính hợp nhất được trình bày bằng Đồng Việt Nam (VND), được lập dựa trên các nguyên tắc kế toán phù hợp với quy định của Chế độ kế toán doanh nghiệp ban hành tại Thông tư số 200/2014/TT-BTC ngày 22/12/2014, Thông tư số 53/2016/TT-BTC ngày 21/3/2016 của Bộ Tài chính hướng dẫn Chế độ kế toán doanh nghiệp; Thông tư số 202/2014/TT- BTC ngày 22/12/2014 của Bộ Tài chính hướng dẫn phương pháp lập và trình bày Báo cáo tài chính hợp nhất, Chuẩn mực kế toán Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.\n\nThông tin về thay đổi Chế độ kế toán doanh nghiệp:\n\nNgày 27/10/2025, Bộ Tài chính đã ban hành Thông tư số 99/2025/TT-BTC (\"Thông tư 99\") hướng dẫn Chế độ kế toán doanh nghiệp, thay thế Thông tư số 200/2014/TT-BTC ngày 22/12/2014, Thông tư số 53/2016/TT-BTC ngày 21/03/2016 của Bộ Tài chính và một số thông tư liên quan khác. Thông tư 99 có hiệu lực thì hành từ ngày 01/01/2026 và áp dụng cho năm tài chính bắt đầu từ hoặc sau ngày 01/01/2026. Báo cáo tài chính năm 2025 được Công ty lập và trình bày theo Chế độ kế toán doanh nghiệp ban hành tại Thông tư số 200/2014/TT-BTC ngày 22/12/2014, Thông tư số 53/2016/TT-BTC ngày 21/03/2016 của Bộ Tài chính, Chuẩn mực kế toán Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Ănh hưởng của việc áp dụng Chế độ kế toán doanh nghiệp theo hướng dẫn tại Thông tư 99 đối với số liệu số kế toán và số liệu Báo cáo tài chính của Công ty tại ngày 01/01/2026 được thực hiện theo hướng dẫn chuyển đổi số dư trên số kế toán và điều khoản chuyển tiếp quy định tại Thông tư 99 và Chuẩn mực kế toán Việt Nam số 29 - \"Thay đổi chính sách kế toán, ước tính kế toán và các sai sót\".\n\n4. TÓM TẮT CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU\n\n4.1. Cơ sở lập báo cáo tài chính hợp nhất\n\nBáo cáo tài chính hợp nhất bao gồm báo cáo tài chính của Công ty và báo cáo tài chính của các công ty con do Công ty kiểm soát được lập cho năm tài chính kết thúc ngày 31/12/2025. Việc kiểm soát này đạt được khi Công ty có khả năng kiểm soát các chính sách tài chính và hoạt động của các công ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của các công ty này.\n\nKết quả kinh doanh của các công ty con được mua lại hoặc bán đi trong kỳ được trình bày trong Báo cáo kết quả hoạt động kinh doanh hợp nhất từ ngày mua hoặc cho đến ngày bán khoản đầu tư ở công ty con đó.\n\nTất cả các nghiệp vụ và số dư giữa Công ty với các công ty con và giữa các công ty con được loại bổ khi hợp nhất báo cáo tài chính.\n\nTrong trường hợp cần thiết, Báo cáo tài chính của các công ty con được điều chỉnh để các chính sách kể toán được áp dụng tại công ty mẹ và các công ty con khác là giống nhau.\n\nLợi ích cổ đông không kiểm soát trong tài sản thuần của công ty con hợp nhất được xác định là một chỉ tiêu riêng biết tách khởi phần vốn chủ sở hữu của cổ đông của Công ty. Lợi ích của cổ đông không kiểm soát bao gồm giá trị các lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu và phần lợi ích của cổ đông không kiểm soát trong sự biển động của tổng vốn chủ sở hữu kể từ ngày hợp nhất kinh doanh.\n\n4.2. Uốc tính kê toán\n\nViệc lập báo cáo tài chính hợp nhất tuân thủ các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp\n\n11\n\nTHANY * M.S.D.N.O.\n\n// 5/3\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\nnhất yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày lập báo cáo tài chính hợp nhất cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt năm tài chính. Kết quả hoạt động kinh doanh thực tế có thể khác với các ước tính, giả định đặt ra.\n\n4.3. Tiền và các khoản tương đương tiền\n\nTiền phân ánh toàn bộ số tiền hiện có của Công ty tại ngày kết thúc niên độ kế toán, bao gồm tiền mặt, tiền gửi ngân hàng không kỳ hạn và tiền đang chuyển.\n\nCác khoản tương đương tiền phần ánh các khoản đầu tư ngắn hạn có thời hạn thu hồi không quá 03 tháng kể từ ngày đầu tư có khả năng chuyển đổi dễ dàng thành một lượng tiền xác định và không có rủi ro trong việc chuyển đổi thành tiền tại thời điểm báo cáo, được ghi nhận phù hợp với quy định của Chuẩn mực kế toán Việt Nam số 24 - Báo cáo lưu chuyển tiền tệ.\n\n4.4. Các khoản cho vay\n\nCác khoản cho vay được xác định theo giá gốc trừ đi các khoản dự phòng phải thu khó đòi. Dự phòng phải thu khó đòi các khoản cho vay của Công ty được trích lập theo các quy định kế toán hiện hành.\n\nCông ty căn cứ kỳ hạn còn lại kể từ thời điểm báo cáo của các khoản cho vay để phân loại là dài hạn hoặc ngắn hạn.\n\n4.5. Các hợp đồng hợp tác kinh.doanh (BCC)\n\nBCC là thỏa thuận bằng hợp đồng của hai hoặc nhiều bên đề cùng thực hiện hoạt động kinh tế nhưng không hình thành pháp nhân độc lập. Hoạt động này có thể được đồng kiểm soát bởi các bên góp vốn theo thỏa thuận liên doanh hoặc kiểm soát bởi một trong số các bên tham gia. BCC có thể được thực hiện dưới hình thức cùng nhau xây dựng tài sản hoặc hợp tác trong một số hoạt động kinh doanh. Các bên tham gia trong BCC có thể thỏa thuận chia doanh thu, chia sản phẩm hoặc chia lợi nhuận sau thuế. Trong mọi trường hợp, khi nhận tiền, tài sản của các bên khác đóng góp cho hoạt động BCC, bên nhận hạch toán là nợ phải trả.\n\nĐối với trường hợp BCC chia lợi nhuận sau thuế, các bên phải cử ra một bên để kế toán toàn bộ các giao dịch của BCC, ghi nhận doanh thu, chi phí, theo dõi riêng kết quả kinh doanh của BCC và quyết toán thuế.\n\n4.6. Các khoản phải thu và dự phòng phải thu khó đòi\n\nCác khoản phải thu được theo dõi chi tiết theo kỳ hạn gốc, kỳ hạn còn lại tại thời điểm báo cáo, đối tượng phải thu, loại nguyên tệ phải thu và các yếu tố khác theo nhu cầu quản lý của Công ty. Việc phân loại các khoản phải thu là phải thu khách hàng, phải thu khác được thực hiện theo nguyên tắc:\n\n- Phải thu của khách hàng gồm các khoản phải thu mang tính thương mại phát sinh từ giao dịch có tính chất mua - bán, bao gồm cả các khoản phải thu về tiền bán hàng, xuất khẩu ủy thác cho đơn vị khác;\n\n- Phải thu khác gồm các khoản phải thu không có tính thương mại, không liên quan đến giao dịch mua - bán, bao gồm: Phải thu về lãi cho vay, lãi tiền gửi; các khoản đã chi hộ; các khoản bên nhận ủy thác xuất khẩu phải thu hộ cho bên giao ủy thác; phải thu về tiền phạt, bồi thường; các khoản tạm ứng; cầm cố, ký cược, ký quỹ, cho mượn tài sản...\n\nCông ty căn cứ kỳ hạn còn lại tại thời điểm báo cáo của các khoản phải thu để phân loại là phải thu dài hạn hoặc ngắn hạn.\n\nCác khoản phải thu được ghi nhận không vượt quá giá trị có thể thu hồi. Dự phòng phải thu khó đòi được trích lập cho những khoản phải thu đã quá hạn thanh toán từ trên sâu tháng trở lên, hoặc các khoản phải thu mà người nợ khó có khả năng thanh toán do bị giải thể, phá sản hay các khó khăn tương tự phù hợp với Chế độ kế toán doanh nghiệp hiện hành.\n\n12\n\n\\( ^{1} \\)0913\n\\( ^{2} \\)ONG\nCOPI\nTAPD\nHOL\nPHO\n\n\\( \\frac{1}{2} \\)\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n4.7. Hàng tồn kho\n\nHàng hóa bất động sản\n\nBất động sản được mua để bán hoặc cho thuê dài hạn đáp ứng được điều kiện ghi nhận doanh thu một lần trong quá trình hoạt động bình thường của Công ty, không phải để cho thuê hoặc chờ tăng giá, được ghi nhận là hàng tồn kho theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được.\n\nGiá gốc của hàng hóa bất động sản bao gồm giá mua và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường, dựa trên giá trị thị trường vào ngày báo cáo và trừ đi chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.\n\nDự phòng giảm giá hàng tồn kho là số chênh lệch giữa giá gốc của hàng tồn kho lớn hơn giá trị thuần có thể thực hiện được của chúng tại ngày kết thúc ký kế toán năm, được trích lập phù hợp với quy định của Chế độ kế toán doanh nghiệp hiện hành.\n\n4.8. Tài sản cố định hữu hình và khấu hao\n\nTài sản cố định hữu hình được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế. Nguyên giá tài sản cố định hữu hình bao gồm giá mua và toàn bộ các chi phí khác liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng. Nguyên giá tài sản cố định hữu hình do tự làm, tự xây dựng bao gồm chi phí xây dựng, chi phí sản xuất thực tế phát sinh cộng chi phí lắp đặt và chạy thử.\n\nCác chỉ phí phát sinh sau ghi nhận ban đầu được ghi tăng nguyên giá của tài sản nếu chúng thực sự cải thiện trạng thái hiện tại so với trạng thái tiêu chuẩn ban đầu của tài sản đó, như:\n\nThay đổi bộ phận của tài sản cố định hữu hình làm tăng thời gian sử dụng hữu ích, hoặc làm tăng công suất sử dụng của chúng; hoặc\n\n- Cải tiến bộ phận của tài sản cố định hữu hình làm tăng đáng kể chất lượng sản phẩm sản xuất ra; hoặc\n\n- Áp dụng quy trình công nghệ sản xuất mới làm giảm chỉ phí hoạt động của tài sản so với trước.\n\nCác chi phí phát sinh để sửa chữa, bảo dưỡng nhằm mục đích khởi phục hoặc duy trì khả năng đem lại lợi ích kinh tế của tài sản theo trạng thái hoạt động tiêu chuẩn ban đầu, không thỏa mãn một trong các điều kiện trên, được ghi nhận vào chi phí sản xuất, kinh doanh trong kỳ.\n\nTài sản cố định được khấu hao theo phương pháp đường thẳng dựa trên thời gian sử dụng ước tính của tài sản phù hợp với khung khấu hao quy định tại Thông tư số 45/2013/TT-BTC ngày 25/4/2013 của Bộ Tài chính. Thời gian khấu hao cụ thể của các loại tài sản cố định như sau:\n\nSố năm\n\nThiết bị, dụng cụ quản lý\n\n03 - 04\n\n4.9. Tài sản cố định vô hình và khấu hao\n\nTài sản cố định vô hình được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế. Tài sản cố định vô hình của Công ty là giá trị của phần mềm máy tính, được khấu hao theo phương pháp đường thẳng trong vòng 3 năm.\n\n4.10. Thuê hoạt động\n\nMột khoản thuê được xem là thuê hoạt động khi bên cho thuê vẫn được hưởng phần lớn các quyền lợi và phải chịu rủi ro về quyền sở hữu tài sản. Chi phí thuê hoạt động được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suốt thời gian thuê. Các khoản tiền nhận được hoặc phải thu nhằm tạo điều kiện ký kết hợp đồng thuê hoạt động cũng được ghi nhận theo phương pháp đường thẳng trong suốt thời gian thuê.\n\n13\n\nCHLAND JAN TY 261\n\nH.O * M.S.D.A.\n\nY★HH\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n4.11. Chi phí xây dựng cơ bản dở dang\n\nChi phí xây dựng cơ bản dở dang được ghi nhận theo giá gốc, phần ánh các chi phí liên quan trực tiếp (bao gồm cả chi phí lãi vay có liên quan phù hợp với chính sách kế toán của Công ty) đến các tài sản đang trong quá trình xây dựng, máy móc thiết bị đang lắp đặt để phục vụ cho mục đích sản xuất, cho thuê và quản lý cũng như chi phí liên quan đến việc sửa chữa tài sản cố định đang thực hiện. Việc khấu hao các tài sản này được áp dụng giống như với các tài sản khác, bắt đầu từ khi tài sản ở vào trạng thái sẵn sàng sử dụng.\n\n4.12. Các khoản trả trước\n\nChi phí trả trước bao gồm các chi phí thực tế đã phát sinh nhưng có liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều kỳ kế toán. Các khoản chi phí trả trước của Công ty bao gồm giá trị công cụ, dụng cụ, linh kiện loại nhỏ đã xuất dùng, ... và được coi là có khả năng đem lại lợi ích kinh tế trong tương lai cho Công ty. Các chi phí này được vốn hóa dưới hình thức các khoản trả trước và được phân bổ vào Báo cáo kết quả hoạt động kinh doanh, sử dụng phương pháp đường thẳng theo các quy định kế toán hiện hành.\n\n4.13. Các khoản phải trả\n\nCác khoản nợ phải trả được theo dõi chi tiết theo kỳ hạn gốc, kỳ hạn còn lại tại thời điểm báo cáo, đối tượng phải trả, loại nguyên tệ phải trả và các yếu tố khác theo nhu cầu quản lý của Công ty. Việc phân loại các khoản phải trả là phải trả người bán, phải trả khác được thực hiện theo nguyên tắc:\n\n- Phải trả người bán gồm các khoản phải trả mang tính thương mại phát sinh từ giao dịch có tính chất mua-bán;\n\n- Phải trả khác gồm các khoản phải trả không có tính thương mại, không liên quan đến giao dịch mua, bán, cung cấp hàng hóa dịch vụ, bao gồm: Phải trả về lãi vay; cổ tức và lợi nhuận phải trả; chi phí hoạt động đầu tư tài chính phải trả; các khoản phải trả do bên thứ ba chi hộ; mượn tài sản; phải trả về tiền phạt, bổi thường; tài sản phát hiện thừa chưa rõ nguyên nhân; phải trả về các khoản bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, kinh phí công đoàn; các khoản nhận ký cược, ký quý...\n\nCông ty căn cứ kỳ hạn còn lại tại thời điểm báo cáo của các khoản nợ phải trả để phân loại là dài hạn hoặc ngắn hạn.\n\nCác khoản nợ phải trả được ghi nhận không thấp hơn nghĩa vụ phải thanh toán. Khi có các bằng chứng cho thấy một khoản tổn thất có khả năng xảy ra, Công ty ghi nhận ngay một khoản phải trả theo nguyên tắc thận trọng.\n\n4.14. Vay và nợ thuê tài chính\n\nVay và nợ thuê tài chính của Công ty bao gồm các khoản đi vay và vay vốn theo phương thức phát hành trái phiếu thường (không có quyền chuyển đổi).\n\nCác khoản đi vay và nợ thuê tài chính được theo dõi chi tiết theo từng đối tượng cho vay, cho nợ; từng khế ước vay, nợ và từng loại tài sản vay, nợ; theo kỳ hạn phải trả của các khoản vay, nợ thuê tài chính. Các khoản vay và nợ thuê tài chính có thời gian trả nợ còn lại trên 12 tháng kể từ thời điểm báo cáo được trình bày là \"Vay và nợ thuê tài chính dài hạn\". Các khoản vay và nợ đến hạn trả trong vòng 12 tháng tiếp theo kể từ thời điểm báo cáo được trình bày là \"Vay và nợ thuê tài chính ngắn hạn\".\n\nCông ty vay vốn bằng phát hành trái phiếu thường bao gồm: trái phiếu ngang giá (phát hành trái phiếu với giá đúng bằng mệnh giá của trái phiếu), trái phiếu có chiết khấu (phát hành trái phiếu với giá nhỏ hơn mệnh giá của trái phiếu) và trải phiếu có phụ trội (phát hành trái phiếu với giá lớn hơn mệnh giá của trái phiếu). Công ty theo dõi chi tiết chiết khấu và phụ trội cho từng loại trái phiếu phát hành và theo thời hạn phát hành trái phiếu. Chiết khấu và phụ trội trái phiếu được xác định và ghi nhận ngay tại thời điểm phát hành trái phiếu. Công ty phân bổ khoản chiết khấu hoặc phụ trội vào chi phí đi vay hoặc để giảm trừ chi phí đi vay theo phương pháp lãi suất thực tế hoặc phương pháp đường thẳng.\n\nTrường hợp chi phí lãi vay của trái phiếu đủ điều kiện để vốn hóa, khoản phân bổ chiết khấu hoặc phụ trội được vốn hóa tương ứng từng kỳ.\n\n14\n\nC.1.C.P* HMIN\n\n\\( \\left\\| \\frac{1}{2} \\times \\frac{1}{2} \\right\\| / 2^{4} \\)\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n4.15. Chi phí đi vay\n\nChi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay.\n\nChi phí đi vay được ghi nhận vào chi phí sản xuất, kinh doanh trong kỳ khi phát sinh, ngoại trừ chi phí đi vay liên quan trực tiếp đến việc đầu tư, xây dựng hoặc sản xuất tài sản đồ dang cần có một thời gian đủ dài (trên 12 tháng), để có thể đưa vào sử dụng theo mục đích định trước hoặc bán, được tính vào giá trị của tài sản đó (được vốn hóa) khi có đủ các điều kiện quy định của Chuẩn mực kế toán Việt Nam số 16 - Chi phí đi vay. Đối với khoản vay riêng phục vụ việc xây dựng tài sản cố định, lãi vay được vốn hóa kể cả khi thời gian xây dựng từ 12 tháng trở xuống.\n\nĐối với các khoản vốn vay chung, trong đó có sử dụng cho mục đích đầu tư xây dựng hoặc sản xuất tài sản save dang thì số chỉ phí đi vay được vốn hóa được xác định theo tỷ lệ vốn hóa đối với chi phí lũy kế bình quân gia quyền phát sinh cho việc đầu tư xây dựng hoặc sản xuất tài sản đó. Tỷ lệ vốn hóa được tính theo tỷ lệ lãi suất bình quân gia quyền của các khoản vay chưa trả trong kỳ, ngoại trừ các khoản vay riêng biệt phục vụ cho mục đích hình thành một tài sản cụ thể.\n\n4.16. Chi phí phải trả\n\nChi phí phải trả được ghi nhận dựa trên các ước tính hợp lý về các khoản chi phí thực tế phải trả, số tiền phải trả cho các dịch vụ đã sử dụng trong năm do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán.\n\n4.17. Ghi nhận vốn chủ sở hữu\n\nVốn chủ sở hữu được ghi nhận theo số vốn thực góp của các cổ đông.\n\nLợi nhuận sau thuế chưa phân phối được ghi nhận theo số lợi nhuận (hoặc lỗ) từ kết quả hoạt động kinh doanh của Công ty trừ (-) chi phí thuế thu nhập doanh nghiệp của kỳ hiện hành và các khoản điều chỉnh do áp dụng hồi tố thay đổi chính sách kế toán và điều chỉnh hồi tố sai sót trọng yếu của các năm trước.\n\nCác khoản dự trữ, các quỹ từ lợi nhuận sau thuế được trích lập căn cứ vào điều lệ của Công ty và quyết định của Đại hội đồng cổ đông.\n\n4.18. Ghi nhận doanh thu\n\nDoanh thu của giao dịch về cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch đó được xác định một cách đăng tin cây. Trường hợp giao dịch về cung cấp dịch vụ liên quan đến nhiều kỳ thì doanh thu được ghi nhận trong kỳ theo kết quả phần công việc đã hoàn thành tại ngày của Bảng cân đối kế toán của kỳ đó. Kết quả của giao dịch cung cấp dịch vụ được xác định khi thỏa mãn tất cả bốn (4) điều kiện sau:\n\n- Doanh thu được xác định tương đối chắc chắn;\n\n- Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;\n\n- Xác định được phần công việc đã hoàn thành vào thời điểm báo cáo; và\n\n- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.\n\nDoanh thu chuyển nhượng hợp đồng mua bán bất động sản được ghi nhận khi đồng thời thỏa mãn các điều kiện sau:\n\n- Công ty đã chuyển giao rủi ro và lợi ích theo các điều khoản của hợp đồng cho người mua;\n\n- Doanh thu được xác định tương đối chắc chắn;\n\n- Công ty đã thu được hoặc sẽ thu được lợi ích kinh tế từ giao dịch;\n\n- Xác định được chi phí liên quan đến giao dịch.\n\nDoanh thu hoạt động tài chính bao gồm: lãi tiền gửi; lãi cho vay, lãi bán hàng trả chậm, chiết khấu thanh toán; cổ tức, lợi nhuận được chia; lãi chênh lệch tỷ giá...\n\n15\n\n★M.S.D\n\n例 6. 立节名/题\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n- Tiền lãi được xác định tương đối chắc chắn trên cơ sở số dư tiền gửi và lãi suất thực tế từng kỳ.\n\n- Chênh lệch tỷ giá phần ánh các khoản lãi chênh lệch tỷ giá hối đoái thực tế phát sinh trong năm của các nghiệp vụ phát sinh có gốc ngoại tệ và lãi chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm báo cáo.\n\n4.19. Thuế\n\nThuế thu nhập doanh nghiệp thể hiện tổng giá trị của số thuế phải trả hiện tại và số thuế hoãn lại.\n\nSố thuế phải trả hiện tại được tính dựa trên thu nhập chịu thuế trong năm. Thu nhập chịu thuế khác với lợi nhuận thuần được trình bày trên báo cáo kết quả hoạt động kinh doanh vì thu nhập chịu thuế không bao gồm các khoản thu nhập hay chi phí tính thuế hoặc được khấu trừ trong các năm khác (bao gồm cả lỗ mang sang, nếu có) và ngoài ra không bao gồm các chỉ tiêu không chịu thuế hoặc không được khấu trừ.\n\nThuế thu nhập hoãn lại được tính trên các khoản chênh lệch giữa giá trị ghi sổ và cơ sở tính thuế thu nhập của các khoản mục tài sản hoặc công nợ trên báo cáo tài chính và được ghi nhận theo phương pháp số dư. Thuế thu nhập hoãn lại phải trả phải được ghi nhận cho tất cả các khoản chênh lệch tạm thời còn tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để khấu trừ các khoản chênh lệch tạm thời.\n\nThuế thu nhập hoãn lại được xác định theo thuế suất dự tính sẽ áp dụng cho năm tài sản được thu hồi hay nợ phải trả được thanh toán. Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh và chỉ ghi vào vốn chủ sở hữu khi khoản thuế đó có liên quan đến các khoản mục được ghi thẳng vào vốn chủ sở hữu.\n\nTài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả được bù trừ khi Công ty có quyền hợp pháp đề bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và khi các tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế và Công ty có dự định thanh toán thuế thu nhập hiện hành trên cơ sở thuần.\n\nViệc xác định thuế thu nhập của Công ty căn cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm tra của cơ quan thuế có thẩm quyền.\n\nCác loại thuế khác được áp dụng theo các luật thuế hiện hành tại Việt Nam.\n\n4.20. Công cụ tài chính\n\nGhi nhận ban đầu\n\nTài sàn tài chính\n\nTheo Thông tư số 210/2009/TT-BTC ngày 06/11/2009 của Bộ Tài chính, tài sản tài chính được phân loại một cách phù hợp, cho mục đích thuyết minh trong các báo cáo tài chính, thành tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua báo cáo kết quả hoạt động kinh doanh, các khoản cho vay và phải thu, các khoản đầu tư nắm giữ đến ngày đáo hạn và tài sản tài chính sản sàng để bán. Công ty xác định phân loại các tài sản tài chính này tại thời điểm ghi nhận lần đầu.\n\nTại thời điểm ghi nhận lần đầu, tài sản tài chính được xác định theo giá gốc cộng với các chi phí giao dịch trực tiếp liên quan đến việc mua sắm tài sản tài chính đó. Các tài sản tài chính của Công ty bao gồm tiền và các khoản tương đương tiền, chứng khoán kinh doanh, đầu tư nắm giữ đến ngày đáo hạn, phải thu khách hàng, phải thu về cho vay và phải thu khác.\n\nNợ phải trả tài chính\n\nTheo Thông tư số 210/2009/TT-BTC ngày 06/11/2009 của Bộ Tài chính, nợ phải trả tài chính được phân loại một cách phù hợp, cho mục đích thuyết minh trong các báo cáo tài chính, thành nợ phải trả tài chính được ghi nhận theo giá trị hợp lý thông qua báo cáo kết quả hoạt động kinh doanh và\n\n16\n\nJAN\n\n5\nG\nEMI\nTO\nVII\nNG\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\nnợ phải trả tài chính được xác định theo giá trị phân bổ. Công ty xác định phân loại các nợ phải trả tài chính này tại thời điểm ghi nhận lần đầu.\n\nTại thời điểm ghi nhận lần đầu, nợ phải trả tài chính được xác định theo giá gốc cộng với các chi phí giao dịch trực tiếp liên quan đến việc phát hành nợ phải trả tài chính đó. Nợ phải trả tài chính của Công ty bao gồm phải trả người bán, chỉ phí phải trả, phải trả khác, vay và nợ thuê tài chính.\n\nGiá trị sau ghi nhận ban đầu\n\nGiá trị sau ghi nhận ban đầu của các công cụ tài chính được phần ánh theo giá trị hợp lý. Trường hợp chưa có quy định về việc xác định lại giá trị hợp lý của các công cụ tài chính thì trình bày theo giá trị ghi sổ.\n\nBù trừ các công cụ tài chính\n\nCác tài sản tài chính và nợ phải trả tài chính được bù trừ và giá trị thuần sẽ được trình bày trên bằng cân đối kế toán, nếu và chỉ nếu, Công ty có quyền hợp pháp thực hiện việc bù trừ các giá trị đã được ghi nhận này và có ý định bù trừ trên cơ sở thuần, hoặc thu được các tài sản và thanh toán nợ phải trả đồng thời.\n\nCông ty chưa trình bày các thuyết minh liên quan đến công cụ tài chính tại ngày kết thúc kỳ kế toán do Thông tư 210 cũng như các quy định hiện hành chưa có hướng dẫn cụ thể về việc xác định giá trị hợp lý của các tài sản tài chính và công nợ tài chính.\n\n4.21. Các bên liên quan\n\nCác bên được coi là bên liên quan với Công ty nếu có khả năng kiểm soát hoặc có ảnh hưởng đáng kể đối với Công ty trong việc ra quyết định các chính sách tài chính và hoạt động hoặc có chung các thành viên quản lý chủ chất hoặc cùng chịu sự chi phối của một công ty khác.\n\nCác cá nhân có quyền trực tiếp hoặc gián tiếp biểu quyết dẫn đến có ảnh hưởng đáng kể tới Công ty, kể cả các thành viên mật thiết trong gia đình của các cá nhân này (bố, mẹ, vợ, chồng, con, anh, chỉ em ruột).\n\nCác nhân viên quản lý chủ chốt có quyền và trách nhiệm về việc lập kế hoạch, quản lý và kiểm soát các hoạt động của Công ty: những người lãnh đạo, các nhân viên quản lý của Công ty và các thành viên mật thiết trong gia đình của các cá nhân này.\n\nCác doanh nghiệp do các cá nhân được nêu ở trên nằm trực tiếp hoặc gián tiếp phần quan trọng quyền biểu quyết hoặc thông qua việc này người đó có thể có ảnh hưởng đáng kể tới Công ty, bao gồm những doanh nghiệp được sở hữu bởi những người lãnh đạo hoặc các cổ đông chính của Công ty và những doanh nghiệp có chung một thành viên quản lý chủ chất với Công ty.\n\n5. TIỀN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "56.917.887",
+                "2": "48.886.372"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "94.643.688.888",
+                "2": "106.934.130.807"
+            },
+            {
+                "0": "Cộng",
+                "1": "94.700.606.775",
+                "2": "106.983.017.179"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_9",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "6. ĐẦU TƯ NÁM GIỮ ĐẾN NGÀY ĐÁO HẠN NGÂN HẠN\n\nLà các khoản tiền gửi có kỳ hạn 12 tháng tại Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh - Chi nhánh Long An.\n\n17\n\nPHO TAP CO\\( _{2} \\) 309\n\n11% 2.35%\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMÃU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n7. PHÀI THU NGĂN HẠN CỦA KHÁCH HÀNG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Phát triển Solution",
+                "1": "21.382.647.008",
+                "2": "136.928.130.436"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Khải Minh Land",
+                "1": "62.518.756.559",
+                "2": "55.793.212.320"
+            },
+            {
+                "0": "Công ty Cổ phần Tập đoàn Bất động sản T&T",
+                "1": "363.048.443",
+                "2": "1.950.967.982"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản T&T Homes",
+                "1": "2.946.648.812",
+                "2": "6.290.190.675"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư và Môi giới Khải Minh Land",
+                "1": "4.532.614.906",
+                "2": "1.301.687.242"
+            },
+            {
+                "0": "Phải thu các khách hàng khác",
+                "1": "3.986.869.179",
+                "2": "349.038.713"
+            },
+            {
+                "0": "Cộng",
+                "1": "95.730.584.907",
+                "2": "202.613.227.368"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Công ty TNHH Xây dựng Topazcons (*)",
+                "1": "285.500.000.000",
+                "2": "296.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH Quân Kiên",
+                "1": "41.435.196.553",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Duy Kim",
+                "1": "17.318.731.993",
+                "2": "-"
+            },
+            {
+                "0": "Các đối tượng khác",
+                "1": "25.132.318.672",
+                "2": "1.975.537.324"
+            },
+            {
+                "0": "Cộng",
+                "1": "369.386.247.218",
+                "2": "297.975.537.324"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_10",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "(*) Khoản ứng trước cho Công ty TNHH Xây dựng Topazcons (Trước kia là Công ty TNHH Xây dựng Việt Nhật Daiki) theo Hợp đồng tổng thầu dự án \"Khu du lịch sinh thái tại bãi Ông Lang, xã Cửa Dương, huyện Phú Quốc\" (hay còn gọi là \"Dự án Helios Coastal City\"). Theo đó, Công ty TNHH Xây dựng Topazcons sẽ thực hiện các công việc: tư vấn khảo sát, thực hiện báo cáo nghiên cứu khả khi, tư vấn thiết kế và thi công xây dựng cơ sở hạ tầng của Dự án này. Dự án triển khai trên diện tích khoảng 51,84 ha với tổng mức đầu tư dự kiến khoảng 3.000 tỷ đồng. Dự án đã nhận được Quyết định phê duyệt Đồ án quy hoạch chi tiết xây dựng tỷ lệ 1/500 của Ban Quản lý Khu kinh tế Phú Quốc - tỉnh Kiên Giang. Hiện nay, Công ty đang thực hiện công tác đăng ký kế hoạch sử dụng đất, hoàn thiện thủ tục chuyển đổi tính chất dự án từ du lịch sinh thái sang đất đô thị hỗn hợp (có thành phần đất ở) mục đích tăng hiệu quả đầu tư dự án, đồng thời hoàn thiện thủ tục cập nhật vào quy hoạch chung của đặc khu kinh tế Phú Quốc.\n\n9. PHẢI THU VỀ CHO VAY NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Công ty TNHH Đầu Tư Nhân Quang",
+                "1": "106.500.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Duy Kim",
+                "1": "85.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Quân Kiên",
+                "1": "43.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "234.500.000.000",
+                "2": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_11",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "Các khoản cho đối tác vay với thời gian dưới 12 tháng, lãi suất 12%/năm (các đơn vị này đều là nhà cung cấp của Công ty). Đến thời điểm phát hành báo cáo tài chính này, Công ty đã làm việc với các đơn vị này để thống nhất thời gian thu hồi công nợ, theo đó, các khoản vay này sẽ được thu hồi trước ngày 30/06/2026.\n\n18\n\n139°\nHÔC\nJAN LIL\nPHA\nDOA\nG T\n\n\\( \\frac{H}{A}N\\frac{1}{2} \\)\n\n\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\nMÃU SỐ B09 - DN/HN\n\n10. PHẢI THU KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "31/12/2025",
+                "3": "01/01/2025",
+                "4": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "Giá trị",
+                "2": "Dự phòng",
+                "3": "Giá trị",
+                "4": "Dự phòng"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "1.026.828.363.073",
+                "2": "-",
+                "3": "895.581.069.761",
+                "4": "-"
+            },
+            {
+                "0": "Tạm ứng",
+                "1": "4.933.129.070",
+                "2": "-",
+                "3": "3.886.871.463",
+                "4": "-"
+            },
+            {
+                "0": "Ký cược, ký quỹ (10.1)",
+                "1": "920.875.599.860",
+                "2": "-",
+                "3": "523.282.173.779",
+                "4": "-"
+            },
+            {
+                "0": "Lãi ngân hàng dự thu",
+                "1": "830.939.035",
+                "2": "-",
+                "3": "747.552.903",
+                "4": "-"
+            },
+            {
+                "0": "Phải thu lãi hợp đồng hợp tác kinh doanh, lãi cho vay (10.2)",
+                "1": "39.155.580.730",
+                "2": "-",
+                "3": "45.690.651.509",
+                "4": "-"
+            },
+            {
+                "0": "Khoản chi hộ Công ty TNHH Giao Hường Xanh (*)",
+                "1": "60.598.404.304",
+                "2": "-",
+                "3": "60.598.404.304",
+                "4": "-"
+            },
+            {
+                "0": "Phải thu liên quan đến hợp đồng hợp tác kinh doanh (10.3)",
+                "1": "-",
+                "2": "-",
+                "3": "256.500.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Các khoản phải thu khác",
+                "1": "434.710.074",
+                "2": "-",
+                "3": "4.875.415.803",
+                "4": "-"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "4.624.420.104.107",
+                "2": "-",
+                "3": "4.601.866.329.350",
+                "4": "-"
+            },
+            {
+                "0": "Ký cược, ký quỹ (10.1)",
+                "1": "43.289.104.107",
+                "2": "-",
+                "3": "71.766.329.350",
+                "4": "-"
+            },
+            {
+                "0": "Phải thu liên quan đến hợp đồng hợp tác kinh doanh (10.3)",
+                "1": "4.581.131.000.000",
+                "2": "-",
+                "3": "4.530.100.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "5.651.248.467.180",
+                "2": "-",
+                "3": "5.497.447.399.111",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_12",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "(*) Khoản phải thu Công ty TNHH Giao Huống Xanh bao gồm các khoản chi hộ như sau:\n\n- Khoản tiền 38.000.000.000 đồng theo thỏa thuận số 02/BBTT/GHX-KHL ngày 02/03/2020 giữa Công ty Cổ phần Tập đoàn Khải Hoàn Land và Công ty TNHH Giao Hường Xanh. Theo đó Công ty Cổ phần Tập đoàn Khải Hoàn Land thay mặt Giao Hường Xanh chuyển tiền cho bên Công ty TNHH Xây dựng - Thương mại Thuận Việt số tiền tạm ứng cho Hợp đồng số 01/2020/GHX-TV ngày 02/03/2020 về việc thiết kế, giám sát,这时 công và cung cấp lắp đặt thiết bị dự án ký giữa Công ty TNHH Giao Hường Xanh (Chủ đầu tư) và Công ty TNHH Xây dựng và Thương Mại Thuận Việt (Nhà thầu chính).\n\n- Khoản phải thu Công ty TNHH Giao Hường Xanh số tiền 22.598.404.304 đồng theo Hợp đồng nguyên tắc số 01/HĐNT-DV-GHX-KHL-KML ngày 02/01/2020 giữa 3 bên gồm Giao Hường Xanh- Khải Minh Land - Khải Hoàn Land về nghĩa vụ chuyển tiền đầu tư dự án Khải Hoàn Prime.\n\n19\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SỐ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n10.1. Ký cược, ký quỹ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "920.875.599.860",
+                "2": "523.282.173.779"
+            },
+            {
+                "0": "Ký quỹ thực hiện các dự án môi giới bắt động sản",
+                "1": "920.875.599.860",
+                "2": "523.282.173.779"
+            },
+            {
+                "0": "- Công ty Cổ phần Bất động sản Khải Minh Land",
+                "1": "184.000.000.000",
+                "2": "293.350.000.000"
+            },
+            {
+                "0": "- Công ty TNHH Đầu tư Phát triển Solution",
+                "1": "244.035.599.860",
+                "2": "174.662.173.779"
+            },
+            {
+                "0": "- Công ty TNHH Đầu tư và Môi giới Khải Minh Land",
+                "1": "191.600.000.000",
+                "2": "-"
+            },
+            {
+                "0": "- Công ty TNHH Giao Hường Xanh",
+                "1": "291.420.000.000",
+                "2": "-"
+            },
+            {
+                "0": "- Các đối tượng khác",
+                "1": "9.820.000.000",
+                "2": "55.270.000.000"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "43.289.104.107",
+                "2": "71.766.329.350"
+            },
+            {
+                "0": "Ký quỹ thực hiện dự án đầu tư",
+                "1": "21.500.000.000",
+                "2": "21.500.000.000"
+            },
+            {
+                "0": "Ký quỹ thực hiện các dự án môi giới bắt động sản",
+                "1": "19.065.409.107",
+                "2": "48.143.918.350"
+            },
+            {
+                "0": "Ký quỹ thuê văn phòng",
+                "1": "2.589.695.000",
+                "2": "2.069.695.000"
+            },
+            {
+                "0": "Các khoản ký quỹ khác",
+                "1": "134.000.000",
+                "2": "52.716.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "964.164.703.967",
+                "2": "595.048.503.129"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Công ty TNHH Tập đoàn Khải Hoàn - Vũng Tàu",
+                "1": "-",
+                "2": "4.550.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Khải Minh Land",
+                "1": "24.261.553.334",
+                "2": "23.961.484.843"
+            },
+            {
+                "0": "Công ty TNHH Cộng đồng Môi giới",
+                "1": "-",
+                "2": "8.459.166.666"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Phát triển Solution",
+                "1": "12.135.835.615",
+                "2": "8.720.000.000"
+            },
+            {
+                "0": "Các đối tượng khác",
+                "1": "2.758.191.781",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "39.155.580.730",
+                "2": "45.690.651.509"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_13",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "Đây là các khoản tiền lãi phải thu liên quan đến các hợp đồng hợp tác kinh doanh (Chỉ tiết tại 10.3).\n\n10.3. Phải thu liên quan đến hợp đồng hợp tác kinh doanh",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "-",
+                "2": "256.500.000.000"
+            },
+            {
+                "0": "Công ty TNHH Cộng đồng Môi giới",
+                "1": "-",
+                "2": "256.500.000.000"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "4.581.131.000.000",
+                "2": "4.530.100.000.000"
+            },
+            {
+                "0": "Công ty TNHH Giao Hường Xanh (1)",
+                "1": "1.153.481.000.000",
+                "2": "632.500.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Khải Minh Land (2)",
+                "1": "1.335.600.000.000",
+                "2": "1.847.600.000.000"
+            },
+            {
+                "0": "- Dự án Tân Quới",
+                "1": "1.087.600.000.000",
+                "2": "1.387.600.000.000"
+            },
+            {
+                "0": "- Dự án tại Công ty Hoàng Thảo My",
+                "1": "248.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "- Dự án T&T Phố Nói",
+                "1": "-",
+                "2": "460.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Phát triển Solution (3)",
+                "1": "1.025.000.000.000",
+                "2": "940.000.000.000"
+            },
+            {
+                "0": "- Dự án T&T Long Hậu",
+                "1": "620.000.000.000",
+                "2": "940.000.000.000"
+            },
+            {
+                "0": "- Dự án tại Công ty Hồng Trâm Phát",
+                "1": "405.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Tập đoàn Khải Hoàn - Vũng Tàu (4)",
+                "1": "824.550.000.000",
+                "2": "1.110.000.000.000"
+            },
+            {
+                "0": "Công Ty TNHH Đầu tư Nhân Quang (5)",
+                "1": "242.500.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "4.581.131.000.000",
+                "2": "4.786.600.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_14",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "(1) Khoản phải thu Công ty TNHH Giao hưởng xanh theo hợp đồng hợp tác kinh doanh số HD01/2023/HĐHT/GHX-KHG ngày 01/08/2025 và các phụ lực kèm theo để thực hiện dự án Cao ốc căn hộ tại xã Nhơn Đức, huyện Nhà Bè, thành phố Hồ Chí Minh do Công ty TNHH Giao hưởng\n\n20\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\nxanh làm chủ đầu tư. Tổng giá trị hợp tác Công ty sẽ góp vào dự án là 1.437,5 tỷ đồng tương ứng khoảng 50% tổng vốn góp của hợp đồng hợp tác và đến ngày 31/12/2025 Công ty đã góp 1.153,481 tỷ đồng. Thời gian hợp tác đầu tư: 60 tháng. Các bên thống nhất phân chia lợi nhuận trước thuế của dự án theo tỷ lệ góp vốn hợp tác đầu tư. Dự án đã hoàn thiện các thủ tục pháp lý, đã có Giấy phép xây dựng. Hiện nay, dự án đã đủ điều kiện kỹ hợp đồng mua bán với khách hàng và đang tiếp tục xây dựng hoàn thiện phần thân, dự kiến cắt nóc vào cuối quý II/2026.\n\n(2) Khoản phải thu Công ty Cổ phần Bất động sản Khải Minh Land theo các hợp đồng hợp tác kinh doanh sau:\n\nHợp đồng hợp tác kinh doanh số 01/HDHTKD/KHL-KML ngày 30/03/2021 để thực hiện dự án Khu đô thị mới và tổ hợp vui chơi, nghĩ dưỡng Tân Quới, xã Tân Quới, tỉnh Vĩnh Long. Tổng giá trị hợp tác Công ty sẽ góp vốn khoảng 1.500 tỷ đồng tương ứng với 25% tổng vốn đầu tư vào dự án và đến ngày 31/12/2025, Công ty đã góp 1.087 tỷ đồng (đã thu hồi một phần vốn góp trong năm). Các bên thống nhất phân chia sản phẩm của dự án theo tỷ lệ góp vốn đồng thời Công ty sẽ là đơn vị phát triển, phân phối độc quyền toàn bộ sản phẩm của dự án. Thời hạn của hợp đồng được gia hạn đến hết ngày 29/03/2031. Trường khi xác định lợi nhuận của dự án, Công ty Cổ phần Tập đoàn Khải Hoàn Land sẽ tạm thời nhận được một khoản lãi tạm tính theo thỏa thuận và được áp dụng cho từng giai đoạn. Đến thời điểm phát hành báo cáo này, dự án đã có phê duyệt điều chỉnh nhiệm vụ quy hoạch chi tiết tỷ lệ 1/500 và đã được phê duyệt đồ án quy hoạch chi tiết tỷ lệ 1/500. Kế hoạch tiếp theo: dự án tiếp tục hoàn thiện thủ tục báo cáo nghiên cứu tiên khả thi đồng thời triển khai hoàn thiện hồ sơ trình thẩm định phê duyệt chấp thuận chủ trương đầu tư cho dự án và hoàn thiện các thủ tục rà soát hiện trạng phục vụ công tác chuẩn bị đầu tư xây dựng.\n\nHợp đồng hợp tác kinh doanh số 04/2025/HĐHTKD/KHL-KML ngày 10/12/2025 để tham gia hợp tác đầu tư nhận chuyển nhượng toàn bộ phần vốn góp trong Công ty TNHH Thương mại Dịch vụ Hoàng Thảo My để tiếp tục đầu tư, phát triển, kinh doanh dự án Xây dựng khu chung cư Hoàng Thảo My tại phương Thuận Giao, thành phố Hồ Chí Minh. Công ty sẽ góp vốn với số tiền là 440 tỷ đồng tương ứng 80% tổng vốn kinh doanh và đến ngày 31/12/2025, Công ty đã góp 248 tỷ đồng. Thời gian thực hiện trong vòng 3 năm kể từ ngày ký hợp đồng. Lợi nhuận thu được từ dự án sẽ được phân chia theo tỷ lệ góp vốn. Hiện nay, dự án Xây dựng khu chung cư Hoàng Thảo My tại phương Thuận Giao, thành phố Hồ Chí Minh đã được phê duyệt chủ đầu tư, phê duyệt đồ án quy hoạch chi tiết tỷ lệ 1/500 và phê duyệt quyết định điều chỉnh quyết định giao đất, đồng thời Công ty cũng đang triển khai các thủ tục liên quan đến việc hoàn thiện thủ tục Báo cáo nghiên cứu khả thi đầu tư xây dựng và xác định nghĩa vụ tài chính về việc tính tiền sử dụng đất theo quy định pháp luật.\n\n(3) Khoản phải thu Công ty TNHH Đầu tư phát triển Solution theo các hợp đồng hợp tác kinh doanh sau:\n\nHợp đồng hợp tác kinh doanh số 12A/HĐHTKD/KHL-SLT; 12B/HĐHTKD/KHL-SLT; 12C/HĐHTKD/KHL-SLT ký tháng 11/2021 để thực hiện đầu tư, phát triển, phân phối và môi giới bắt động sản thuộc dự án Khu thương mại, biệt thư và chung cư cao cấp tại xã Cần Giước, tỉnh Tây Ninh (do Công ty Cổ phần Thái Sơn Long An làm chủ đầu tư) các giai đoạn 1 - 3. Tổng số vốn Công ty sẽ góp theo các hợp đồng này là 820 tỷ đồng tương ứng với 70% tổng vốn góp và đến ngày 31/12/2025, Công ty đã góp 620 tỷ đồng (đã thu hồi một phần vốn góp trong năm). Lợi nhuận thu được từ hoạt động đầu tư dự án sẽ được các bên phân chia trên cơ sở vốn đóng góp. Trong quá trình thực hiện hợp đồng và trước khi xác định lợi nhuận cuối cùng được phân chia, Công ty Cổ phần Tập đoàn Khải Hoàn Land sẽ tạm thời nhận khoản lãi tạm tính theo thỏa thuận và thực hiện quyết toán tài chính khi kết thúc hợp đồng hợp tác. Thời gian thực hiện hợp đồng được kéo dài đến năm 2028. Đến thời điểm phát hành báo cáo này, dự án môi giới bắt động sản thuộc dự án Long Hậu tiếp tục đang triển khai.\n\nHợp đồng hợp tác kinh doanh số 03/2025/HĐHTKD/KHL-SOL ngày 10/12/2025 để tham gia hợp tác đầu tư nhận chuyển nhượng toàn bộ cổ phần trong Công ty Cổ phần Bất động sản Hồng Trâm Phát để tiếp tục đầu tư, phát triển, kinh doanh dự án Khu chung cư cao tầng kết hợp thương mại dịch vụ Thuận Giao tại phường Thuận Giao, thành phố Hồ Chí Minh. Công ty sẽ góp vốn với số tiền là 480 tỷ đồng tương ứng với 80% tổng vốn kinh doanh và đến ngày 31/12/2025 Công ty đã góp 405 tỷ đồng. Thời gian thực hiện trong vòng 3 năm kể từ ngày ký hợp đồng. Lợi nhuận thu được từ dự án sẽ được phân chia theo tỷ lệ góp vốn. Hiện nay, dự án Khu chung cư cao tầng kết hợp thương mại dịch vụ Thuận Giao đã được phê duyệt chấp thuận chủ trương chủ đầu tư đồng thời là nhà đầu tư, bên cạnh đó dự án đã hoàn tất thủ tục phê duyệt quy hoạch tổng mặt bằng 1/500, đã được cấp quyết định cho phép chuyển mục đích sử dụng đất, hoàn thiện các thủ tục dấu\n\n21\n\n\\( \\left( {{pH}{N}_{2}^{ - }}\\right) \\) \\( {NH}_{3}{}^{ + } \\) Tl C C \\( {}^{\\left( 4,{03}\\right) } \\)\n\n||g| 25 | g\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\nnói, thủ tục về môi trường. Theo kế hoạch, quý II/2026 dự án sẽ hoàn tất các thủ tục liên quan đến việc báo cáo nghiên cứu khả thi đầu tư xây dựng và hoàn thiện thủ tục xác định nghĩa vụ tài chính về việc tính tiền sử dụng đất theo quy định pháp luật.\n\n(4) Khoản phải thu Công ty TNHH Tập đoàn Khải Hoàn - Vũng Tàu theo hợp đồng hợp tác kinh doanh số 06/2023/HĐHTKD/KHVT-KHL ngày 06/10/2023 để cũng thực hiện dự án Tiểu khu 1 nằm trong Giai đoạn 1 Đảo Gò Găng thuộc dự án Khu đồ thị mới Gò Găng tại đào Gò Găng và đảo Long Sơn, xã Long Sơn, thành phố Hồ Chí Minh. Công ty sẽ góp 1.110 tỷ đồng tương ứng với 3,8% tổng vốn đầu tư của Tiểu khu 1 - Giai đoạn 1 của Dư án, đến ngày 31/12/2025 Công ty đã góp 824,55 tỷ đồng. Trước khi xác định lợi nhuận của dự án, Công ty Cổ phần Tập đoàn Khải Hoàn Land sẽ tạm thời nhận được một khoản lãi tạm tính theo thỏa thuận và được áp dụng cho từng giai đoạn. Đến thời điểm phát hành báo cáo này, dự án đã được phê duyệt đó án Điều chỉnh quy hoạch phân khu tỷ lệ 1/2000 Đảo Gò Găng và Đảo Long Sơn, xã Long Sơn, thành phố Hồ Chí Minh. Công ty và Khải Hoàn - Vũng Tàu thống nhất sẽ chia lợi nhuận của hợp đồng hợp tác kinh doanh theo tỷ lệ góp vốn dựa trên lợi nhuận của BCC đồng thời miễn lãi tạm chia trong năm 2024 và 2025 để tạo nguồn lực triển khai dự án trong giai đoạn tiếp theo. Ngoài ra, Công ty đã tìm được đối tác để cũng các bên triển khai dự án này, hiện tại, Công ty và đối tác mới đã gửi văn bản đến cơ quan nhà nước để đề xuất các công việc tiếp theo cho dự án cụ thể là cập nhật chương trình phát triển đô thị; chương trình, kế hoạch phát triển nhà ở của Thành phố Hồ Chí Minh (mói), đồng thời hoàn thiện các thủ tục cần thiết để lập Hồ sơ để xuất chấp thuận chủ trương đầu tư cho dự án.\n\n(5) Khoản phải thu Công ty TNHH Đầu tư Nhân Quang theo hợp đồng hợp tác kinh doanh số 02/2025/HĐHTKD/KHL-NQ ngày 02/06/2025 để cùng thực hiện dự án khu đô thị thông minh tại xã Mỹ Hạnh, tỉnh Tây Ninh. Công ty sẽ góp vốn với số tiền là 320 tỷ đồng tương ứng với 80% tổng vốn kinh doanh và đến ngày 31/12/2025 Công ty đã góp 242,5 tỷ đồng. Thời gian thực hiện trong vòng 3 năm kể từ ngày kỹ hợp đồng. Lợi nhuận thu được tử dự án sẽ được phân chia theo tỷ lệ góp vốn. Hiện tại dự án đang làm các thủ tục pháp lý để hoàn thiện các thủ tục phê duyệt đầu tư.\n\nTại ngày 31/12/2025, số dự khoản phải thu dài hạn khác liên quan đến các hợp đồng hợp tác kinh doanh của Công ty với các đối tác với tổng số tiền khoảng 4.581 tỷ đồng (chiểm 65,5% tổng tài sản) để thực hiện các dự án đầu tư bất động sản và phát triển, môi giới, phân phối các sản phẩm bất động sản. Đến thời điểm hiện tại, dự án phát triển, môi giới, phân phối các sản phẩm bất động sản đang được Công ty và đối tác triển khai, thực hiện với chủ đầu tư, các bên tham gia hợp đồng hợp tác đầu tư chưa xác định kết quả hợp tác kinh doanh cuối cùng làm cơ sở phân chia tài chính; một số dự án đang tiếp tục trong quá trình hoàn thiện các thủ tục pháp lý cần thiết để trình các cơ quan quản lý nhà nước phê duyệt để triển khai các công việc đầu tư xây dựng; theo đó, các bên tiếp tục thống nhất chia lợi nhuận tạm tính và thực hiện quyết toán tài chính khi kết thúc và thanh lý hợp đồng hợp tác (trình bày tại thuyết minh số 23). Hội đồng quản trị và Ban Tổng Giám đốc đánh giá các hợp đồng hợp tác đầu tư này đã được thiết lập tuân thủ các quy định của pháp luật, việc ghi nhận lợi nhuận tạm tính và quyết toán khi kết thúc hợp đồng là phù hợp với đặc điểm đầu tư của dự án. Hội đồng quản trị và Ban Tổng Giám đốc Công ty cam kết chịu trách nhiệm giám sát việc thực hiện các nội dung, mục đích và tính an toàn trong việc sử dụng các khoản vốn góp của các hợp đồng hợp tác đầu tư này và có biện pháp phòng ngừa tổn thất phát sinh (nếu có). Theo đó, Hội đồng quản trị và Ban Giám đốc Công ty đánh giá không có bất kỳ tổn thất nào phát sinh cần phải trích lập dự phòng liên quan đến các hợp đồng hợp tác kinh doanh trên báo cáo tài chính hợp nhất năm 2025.\n\n11. HÀNG TÔN KHO",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "31/12/2025",
+                "3": "01/01/2025",
+                "4": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc VND",
+                "2": "Dự phòng VND",
+                "3": "Giá gốc VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Hàng hoá bất động sản (*)",
+                "1": "113.848.088.635",
+                "2": "-",
+                "3": "124.917.035.965",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "113.848.088.635",
+                "2": "-",
+                "3": "124.917.035.965",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_15",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "(*) Là giá trị hàng hóa bắt động sản thuộc các dự án Cao ốc căn hộ tại Xã Hiệp Phước, thành phố Hồ Chí Minh và Dự án Khu hỗn hợp văn phòng thương mại và nhà ở tại Phường Mỹ Hào, tỉnh Hưng Yên.\n\n22\n\n1151 2009101\n\n1155 | 11NG | VH TC JG T | 155\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMÃU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n12. CHI PHÍ TRÀ TRƯỚC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "1.789.878.931",
+                "2": "6.014.859.094"
+            },
+            {
+                "0": "Công cụ dụng cụ",
+                "1": "205.801.073",
+                "2": "161.293.794"
+            },
+            {
+                "0": "Chi phí sửa chữa văn phòng",
+                "1": "365.712.446",
+                "2": "56.603.383"
+            },
+            {
+                "0": "Phí đại lý lưu ký và quản lý tài khoản trái phiếu",
+                "1": "-",
+                "2": "2.128.042.556"
+            },
+            {
+                "0": "Chi phí bảo hiểm",
+                "1": "3.333.326",
+                "2": "632.916.666"
+            },
+            {
+                "0": "Các chi phí trả trước ngắn hạn khác",
+                "1": "1.215.032.086",
+                "2": "3.036.002.695"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "192.268.560.408",
+                "2": "109.296.960.591"
+            },
+            {
+                "0": "Công cụ, dụng cụ",
+                "1": "1.128.905.155",
+                "2": "304.501.642"
+            },
+            {
+                "0": "Chi phí sửa chữa văn phòng",
+                "1": "-",
+                "2": "18.045.902"
+            },
+            {
+                "0": "Chi phí liên quan đến hợp đồng hợp tác kinh doanh (*)",
+                "1": "189.326.331.238",
+                "2": "108.968.367.580"
+            },
+            {
+                "0": "Chi phí trả trước khác",
+                "1": "1.813.324.015",
+                "2": "6.045.467"
+            },
+            {
+                "0": "Cộng",
+                "1": "194.058.439.339",
+                "2": "115.311.819.685"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_16",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "(*) Khoản chi phí mà Công ty bổ ra để thực hiện hợp đồng hợp tác kinh doanh với Công ty TNHH Giao hợp xanh trong giai đoạn hợp đồng hợp tác kinh doanh chưa phân chia lợi nhuận sẽ được tổng hợp và phân bổ vào chi phí tại thời điểm Công ty được phân chia kết quả kinh doanh từ hoạt động của BCC.\n\n13. TÀI SẢN CÓ ĐỊNH HỮU HÌNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Thiết bịvăn phòng",
+                "2": "Cộng"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "NGUYÊN GIÁ",
+                "1": "NGUYÊN GIÁ",
+                "2": "NGUYÊN GIÁ"
+            },
+            {
+                "0": "Tại ngày 01/01/2025",
+                "1": "4.550.328.026",
+                "2": "4.550.328.026"
+            },
+            {
+                "0": "Giảm khác",
+                "1": "(102.400.000)",
+                "2": "(102.400.000,0)"
+            },
+            {
+                "0": "Tại ngày 31/12/2025",
+                "1": "4.447.928.026",
+                "2": "4.447.928.026"
+            },
+            {
+                "0": "GIÁ TRỊ HAO MÒN LỦY KẾ",
+                "1": "GIÁ TRỊ HAO MÒN LỦY KẾ",
+                "2": "GIÁ TRỊ HAO MÒN LỦY KẾ"
+            },
+            {
+                "0": "Tại ngày 01/01/2025",
+                "1": "4.058.779.303",
+                "2": "4.058.779.303"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "201.486.501",
+                "2": "201.486.501"
+            },
+            {
+                "0": "Giảm khác",
+                "1": "(13.396.414)",
+                "2": "(13.396.414)"
+            },
+            {
+                "0": "Tại ngày 31/12/2025",
+                "1": "4.246.869.390",
+                "2": "4.246.869.390"
+            },
+            {
+                "0": "GIÁ TRỊ CÒN LẠI",
+                "1": "GIÁ TRỊ CÒN LẠI",
+                "2": "GIÁ TRỊ CÒN LẠI"
+            },
+            {
+                "0": "Tại ngày 01/01/2025",
+                "1": "491.548.723",
+                "2": "491.548.723"
+            },
+            {
+                "0": "Tại ngày 31/12/2025",
+                "1": "201.058.636",
+                "2": "201.058.636"
+            },
+            {
+                "0": "Nguyên giá TSCĐ hết khấu hao còn sử dụng",
+                "1": "4.033.375.065",
+                "2": "4.033.375.065"
+            },
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Chi phí chuyển nhượng quyền sử dụng đất (*)",
+                "1": "212.000.000.000",
+                "2": "212.000.000.000"
+            },
+            {
+                "0": "Các dự án khác",
+                "1": "1.835.000.000",
+                "2": "950.000.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "213.835.000.000",
+                "2": "212.950.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_17",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "(*) Là khoản chi phí phát sinh cho việc nhận chuyển nhượng các lô đất tại Tĩnh Bình Thuận (nay là tính Lâm Đồng) và tại Tĩnh Long An (nay là tĩnh Tây Ninh) với tổng giá trị chuyển nhượng là 212 tỷ đồng. Hiện các lô đất này đang đúng tên Bà Trần Thị Thu Hương (bên liên quan) và Bà Đinh Thị Nhật Hạnh (Tổng Giám đốc) theo ủy quyền của Hội đồng quản trị các công ty con. Đây là khoản Công ty mẹ đầu tư vào hai công ty con để tạo quỹ đất phục vụ mục đích đầu tư, phát triển kinh doanh các dự án bất động sản. Các công ty con đều trong giai đoạn hoàn thiện các thủ tục pháp lý liên quan đến cấp quyền sử dụng đất và công tác chuẩn bị đầu tư dự án.\n\n23\n\nHOLI MOLQ.HA.GT 39\n\n//G/，H=Z≠F\n\n\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMÃU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n15. PHẢI TRẢ NGƯỜI BÁN NGÁN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "31/12/2025",
+                "3": "01/01/2025",
+                "4": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "Giá trị",
+                "2": "Số có khả năng trả nợ",
+                "3": "Giá trị",
+                "4": "Số có khả năng trả nợ"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "Công ty Cổ phần Thái Sơn - Long An",
+                "1": "-",
+                "2": "-",
+                "3": "5.171.625.074",
+                "4": "5.171.625.074"
+            },
+            {
+                "0": "Công ty TNHH Phát Triển Công Nghệ và Đô Thị T&T",
+                "1": "-",
+                "2": "-",
+                "3": "3.343.541.863",
+                "4": "3.343.541.863"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Nhân Quang",
+                "1": "-",
+                "2": "-",
+                "3": "6.334.000.000",
+                "4": "6.334.000.000"
+            },
+            {
+                "0": "Công ty TNHH Xây dựng và Phát triển Ngọc Tân",
+                "1": "2.346.730.000",
+                "2": "2.346.730.000",
+                "3": "2.501.730.000",
+                "4": "2.501.730.000"
+            },
+            {
+                "0": "Các nhà cung cấp khác",
+                "1": "5.158.315.706",
+                "2": "5.158.315.706",
+                "3": "4.769.521.322",
+                "4": "4.769.521.322"
+            },
+            {
+                "0": "Cộng",
+                "1": "7.505.045.706",
+                "2": "7.505.045.706",
+                "3": "22.120.418.259",
+                "4": "22.120.418.259"
+            },
+            {
+                "0": "",
+                "1": "01/01/2025",
+                "2": "Số phải nộp trong năm",
+                "3": "Số đã nộp trong năm",
+                "4": "31/12/2025"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "Thuế giá trị gia tăng",
+                "1": "(1.211.575.620)",
+                "2": "14.555.427.928",
+                "3": "12.644.696.262",
+                "4": "699.156.046"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp",
+                "1": "13.049.574.716",
+                "2": "18.688.002.424",
+                "3": "17.226.783.909",
+                "4": "14.510.793.231"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "3.633.770.826",
+                "2": "20.341.017.397",
+                "3": "17.269.056.480",
+                "4": "6.705.731.743"
+            },
+            {
+                "0": "Các khoản thuế, phí khác",
+                "1": "-",
+                "2": "5.082.898.195",
+                "3": "5.082.898.195",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "15.471.769.922",
+                "2": "58.667.345.944",
+                "3": "52.223.434.846",
+                "4": "21.915.681.020"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_18",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "Trong đó:\n\n- Thuế và các khoản phải thu Nhà nước\n\n- Thuế và các khoản phải nộp Nhà nước\n\n1.211.575.620\n\n16.683.345.542\n\n21.915.681.020\n\n24\n\n\\( ^{1} \\) A N \\( \\dot{O} \\)  \\( \\times \\)  U'H'N'I'\n\n\\( \\therefore z^{2} < a^{2} \\)\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n17. CHI PHÍ PHẢI TRẢ NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Chi phí môi giới bắt động sản",
+                "1": "19.457.654.788",
+                "2": "20.695.116.122"
+            },
+            {
+                "0": "Trích trước lãi vay",
+                "1": "13.512.188.839",
+                "2": "12.888.940.458"
+            },
+            {
+                "0": "Chi phí phải trả khác",
+                "1": "562.955.560",
+                "2": "550.000.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "33.532.799.187",
+                "2": "34.134.056.580"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "307.033.859.655",
+                "2": "254.356.045.867"
+            },
+            {
+                "0": "Kinh phí công đoàn và các khoản bảo hiểm",
+                "1": "58.331.640",
+                "2": "41.426.080"
+            },
+            {
+                "0": "Thu hộ tiền đặt cọc từ người mua bất động sản",
+                "1": "279.486.191.808",
+                "2": "182.371.764.800"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Khải Minh Land (1)",
+                "1": "23.800.354.559",
+                "2": "23.800.354.559"
+            },
+            {
+                "0": "Khách hàng thanh toán theo tiến độ",
+                "1": "1.720.851.819",
+                "2": "45.515.561.928"
+            },
+            {
+                "0": "Nhận ký cược, ký quỹ",
+                "1": "100.000.000",
+                "2": "100.000.000"
+            },
+            {
+                "0": "Phải trả ngắn hạn khác",
+                "1": "1.868.129.829",
+                "2": "2.526.938.500"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "476.000.000",
+                "2": "475.000.000"
+            },
+            {
+                "0": "Nhận ký cược, ký quỹ dài hạn",
+                "1": "476.000.000",
+                "2": "475.000.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "307.509.859.655",
+                "2": "254.831.045.867"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_19",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "(1) Số tiền Công ty Cổ phần Bất Đông Sản Khải Minh Land chuyển về Công ty Cổ phần Tập đoàn Khải Hoàn Land quản lý theo Hợp đồng nguyên tắc về việc phát triển dự án và dịch vụ phân phối độc quyền dự án Khải Hoàn Prime số 01/HĐNT-DV/GHX-KHL-KML ký ngày 02/01/2020 giữa Công ty TNHH Giao Hường Xanh, Công ty Cổ phần Bất động sản Khải Minh Land và Công ty Cổ phần Tập đoàn Khải Hoàn Land.\n\n19. VAY VÀ NỘ' THUÊ TÀI CHÍNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "528.261.424.523",
+                "2": "442.557.706.504"
+            },
+            {
+                "0": "- Trái phiếu thường đến hạn trả (19.1)",
+                "1": "-",
+                "2": "240.001.000.000"
+            },
+            {
+                "0": "- Các khoản vay ngắn hạn (19.2)",
+                "1": "528.261.424.523",
+                "2": "202.556.706.504"
+            },
+            {
+                "0": "Dải hạn",
+                "1": "795.600.000.000",
+                "2": "590.457.000.000"
+            },
+            {
+                "0": "- Trái phiếu thường (19.1)",
+                "1": "650.000.000.000",
+                "2": "490.000.000.000"
+            },
+            {
+                "0": "- Các khoản vay dài hạn (19.2)",
+                "1": "145.600.000.000",
+                "2": "100.457.000.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.323.861.424.523",
+                "2": "1.033.014.706.504"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_20",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "25\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMÃU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n19.1. Trái phiếu phát hành",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "31/12/2025",
+                "3": "01/01/2025",
+                "4": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "Giá trị",
+                "2": "Kỳ hạn",
+                "3": "Giá trị",
+                "4": "Kỳ hạn"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "Năm",
+                "3": "VND",
+                "4": "Năm"
+            },
+            {
+                "0": "Trái phiếu dài hạn đến hạn trả",
+                "1": "-",
+                "2": "",
+                "3": "240.001.000.000",
+                "4": ""
+            },
+            {
+                "0": "Trái phiếu KHGH2123001",
+                "1": "-",
+                "2": "-",
+                "3": "240.001.000.000",
+                "4": "35"
+            },
+            {
+                "0": "Trái phiếu dài hạn",
+                "1": "650.000.000.000",
+                "2": "",
+                "3": "490.000.000.000",
+                "4": ""
+            },
+            {
+                "0": "Trái phiếu KHGH2328001",
+                "1": "240.000.000.000",
+                "2": "50",
+                "3": "240.000.000.000",
+                "4": "50"
+            },
+            {
+                "0": "Trái phiếu KHGH2429001",
+                "1": "250.000.000.000",
+                "2": "50",
+                "3": "250.000.000.000",
+                "4": "50"
+            },
+            {
+                "0": "Trái phiếu KHG12501",
+                "1": "80.000.000.000",
+                "2": "50",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Trái phiếu KHG12502",
+                "1": "80.000.000.000",
+                "2": "50",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "650.000.000.000",
+                "2": "",
+                "3": "730.001.000.000",
+                "4": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_21",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "Chi tiết trái phiếu đã phát hành và còn số dư tại ngày 31 tháng 12 năm 2025 của Công ty như sau:",
+        "dataframe": [
+            {
+                "0": "Trái phiếu",
+                "1": "Loại trái phiếu",
+                "2": "Số lượng trái phiếu",
+                "3": "Mệnh giá",
+                "4": "Lãi suất",
+                "5": "Thời hạn và thanh toán",
+                "6": "Mục đích phát hành",
+                "7": "Tài sản đảm bảo"
+            },
+            {
+                "0": "KHGH2328001 ngày 29/09/2023",
+                "1": "Trái phiếu doanh nghiệp không có quyền chuyển đổi",
+                "2": "2.400",
+                "3": "100 triệu đồng",
+                "4": "13,5%/năm (12 tháng đầu tiên). Các kỳ tiếp theo lãi suất sẽ thay đổi theo quy định.",
+                "5": "Trái phiếu có kỳ hạn 60 tháng và thanh toán lãi 6 tháng/lần.",
+                "6": "Thực hiện các chương trình, dự án của Công ty. Cụ thể: Hợp tác đầu tư vào Dự án Cao ốc căn hộ tại xã Nhơn Đức, huyện Nhà Bè, Thành phố Hồ Chí Minh do Công ty TNHH Giao Hường Xanh làm chủ đầu tư theo hợp đồng hợp tác đầu tư số HD01/2023/HDHT/GHX-KHG ngày 01/08/2023.",
+                "7": "Có bảo lãnh thanh toán của tổ chức tín dụng"
+            },
+            {
+                "0": "KHGH2429001 ngày 20/06/2024",
+                "1": "Trái phiếu doanh nghiệp không có quyền chuyển đổi",
+                "2": "2.500",
+                "3": "100 triệu đồng",
+                "4": "12,5%/năm đối với kỳ tính lãi đầu tiên. Các kỳ tiếp theo lãi suất sẽ thay đổi theo quy định.",
+                "5": "Trái phiếu có kỳ hạn 60 tháng và thanh toán lãi 6 tháng/lần.",
+                "6": "Thực hiện các chương trình, dự án của Công ty. Cụ thể: Hợp tác đầu tư vào Dự án Cao ốc căn hộ tại xã Nhơn Đức, huyện Nhà Bè, Thành phố Hồ Chí Minh do Công ty TNHH Giao Hường Xanh làm chủ đầu tư theo hợp đồng hợp tác đầu tư số HD01/2023/HDHT/GHX-KHG ngày 01/08/2023.",
+                "7": "Có bảo lãnh thanh toán của tổ chức tín dụng"
+            },
+            {
+                "0": "KHG12501 ngày 02/10/2025",
+                "1": "Trái phiếu doanh nghiệp không có quyền chuyển đổi",
+                "2": "800",
+                "3": "100 triệu đồng",
+                "4": "13,5%/năm đối với hai kỳ tính lãi đầu tiên. Các kỳ tiếp theo lãi suất sẽ thay đổi theo quy định.",
+                "5": "Trái phiếu có kỳ hạn 60 tháng và thanh toán lãi 6 tháng/lần.",
+                "6": "Thực hiện các chương trình, dự án của Công ty. Cụ thể: Hợp tác đầu tư vào Dự án Cao ốc căn hộ tại xã Nhơn Đức, huyện Nhà Bè, Thành phố Hồ Chí Minh do Công ty TNHH Giao Hường Xanh làm chủ đầu tư theo hợp đồng hợp tác đầu tư số HD01/2023/HDHT/GHX-KHG ngày 01/08/2023.",
+                "7": "Có bảo lãnh thanh toán của tổ chức tín dụng"
+            },
+            {
+                "0": "KHG12502 ngày 03/12/2025",
+                "1": "Trái phiếu doanh nghiệp không có quyền chuyển đổi",
+                "2": "800",
+                "3": "100 triệu đồng",
+                "4": "13,5%/năm đối với hai kỳ tính lãi đầu tiên. Các kỳ tiếp theo lãi suất sẽ thay đổi theo quy định.",
+                "5": "Trái phiếu có kỳ hạn 60 tháng và thanh toán lãi 6 tháng/lần.",
+                "6": "Thực hiện các chương trình, dự án của Công ty. Cụ thể: Hợp tác đầu tư vào Dự án Cao ốc căn hộ tại xã Nhơn Đức, huyện Nhà Bè, Thành phố Hồ Chí Minh do Công ty TNHH Giao Hường Xanh làm chủ đầu tư theo hợp đồng hợp tác đầu tư số HD01/2023/HDHT/GHX-KHG ngày 01/08/2023.",
+                "7": "Có bảo lãnh thanh toán của tổ chức tín dụng"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_22",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "26\n\n\\( \\left\\| \\frac{1}{7R} \\right\\|_{AN}^{2} \\) \\( \\left. \\frac{KIE}{CN} \\right|_{CO}^{3} \\) \\( \\left| \\frac{305}{H} \\right| \\) \\( \\left\\| \\frac{1}{H^{2}} \\right\\|_{H}^{2} + C_{6}^{2} \\) \\( \\left\\| \\frac{1}{305} \\right\\|_{3} \\)\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMÃU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n19.2. Các khoản vay",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "01/01/2025",
+                "2": "01/01/2025",
+                "3": "Trong năm",
+                "4": "Trong năm",
+                "5": "31/12/2025",
+                "6": "31/12/2025"
+            },
+            {
+                "0": "",
+                "1": "Giá trị",
+                "2": "Số có khả năng trả nợ",
+                "3": "Tăng",
+                "4": "Giảm",
+                "5": "Giá trị",
+                "6": "Số có khả năng trả nợ"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND",
+                "5": "VND",
+                "6": "VND"
+            },
+            {
+                "0": "Vay ngắn hạn",
+                "1": "202.556.706.504",
+                "2": "202.556.706.504",
+                "3": "669.074.424.523",
+                "4": "343.369.706.504",
+                "5": "528.261.424.523",
+                "6": "528.261.424.523"
+            },
+            {
+                "0": "Ngân hàng TMCP Sài Gòn - Hà Nội - Chi nhánh Đông Đô",
+                "1": "117.768.706.504",
+                "2": "117.768.706.504",
+                "3": "-",
+                "4": "117.768.706.504",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Ngân hàng TMCP Ngoại thương Việt Nam - Chi Nhánh Phú Nhuận",
+                "1": "-",
+                "2": "-",
+                "3": "15.000.000.000",
+                "4": "-",
+                "5": "15.000.000.000",
+                "6": "15.000.000.000"
+            },
+            {
+                "0": "Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh - Chi nhánh Long An",
+                "1": "-",
+                "2": "-",
+                "3": "266.312.424.523",
+                "4": "136.313.000.000",
+                "5": "129.999.424.523",
+                "6": "129.999.424.523"
+            },
+            {
+                "0": "Vay cá nhân và tổ chức khác",
+                "1": "84.788.000.000",
+                "2": "84.788.000.000",
+                "3": "387.762.000.000",
+                "4": "89.288.000.000",
+                "5": "383.262.000.000",
+                "6": "383.262.000.000"
+            },
+            {
+                "0": "Vay dài hạn",
+                "1": "100.457.000.000",
+                "2": "100.457.000.000",
+                "3": "45.143.000.000",
+                "4": "-",
+                "5": "145.600.000.000",
+                "6": "145.600.000.000"
+            },
+            {
+                "0": "Vay cá nhân và tổ chức khác",
+                "1": "100.457.000.000",
+                "2": "100.457.000.000",
+                "3": "45.143.000.000",
+                "4": "-",
+                "5": "145.600.000.000",
+                "6": "145.600.000.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "303.013.706.504",
+                "2": "303.013.706.504",
+                "3": "714.217.424.523",
+                "4": "343.369.706.504",
+                "5": "673.861.424.523",
+                "6": "673.861.424.523"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_23",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "Chi tiết các hợp đồng vay ngắn hạn, dài hạn như sau:",
+        "dataframe": [
+            {
+                "0": "Hợp đồng",
+                "1": "Hạn mức",
+                "2": "Số dự tại ngày 31/12/2025",
+                "3": "Thời hạn và mục đích vay",
+                "4": "Tài sản đảm bảo"
+            },
+            {
+                "0": "Ngân hàng TMCP Ngoại thương Việt Nam - Chi Nhánh Phú Nhuận",
+                "1": "Ngân hàng TMCP Ngoại thương Việt Nam - Chi Nhánh Phú Nhuận",
+                "2": "Ngân hàng TMCP Ngoại thương Việt Nam - Chi Nhánh Phú Nhuận",
+                "3": "Ngân hàng TMCP Ngoại thương Việt Nam - Chi Nhánh Phú Nhuận",
+                "4": "Ngân hàng TMCP Ngoại thương Việt Nam - Chi Nhánh Phú Nhuận"
+            },
+            {
+                "0": "Hợp đồng số 035/PNH-PKH/KBB-24TD ngày 08/01/2025",
+                "1": "15 tỷ đồng",
+                "2": "15 tỷ đồng",
+                "3": "- Thời gian duy trì hạn mức: 12 tháng kể từ ngày ký- Mục đích: Bổ sung vốn lưu động.",
+                "4": "- Quyền sử dụng đất và tài sản gắn liền với đất tại thừa đất số 218, tờ bản đồ số 20, phường Tân Hưng, TP. Hồ Chí Minh- Quyền đời nợ luân chuyển phát sinh trong quá trình kinh doanh với giả trị 15 tỷ đồng"
+            },
+            {
+                "0": "Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh - Chi nhánh Long An",
+                "1": "Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh - Chi nhánh Long An",
+                "2": "Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh - Chi nhánh Long An",
+                "3": "Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh - Chi nhánh Long An",
+                "4": "Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh - Chi nhánh Long An"
+            },
+            {
+                "0": "Hợp đồng số 14477/25MN/HĐTD ngày 26/05/2025",
+                "1": "130 tỷ đồng",
+                "2": "129.999.424.523 đồng",
+                "3": "- Thời gian cấp hạn mức: 36 tháng kể từ ngày ký Hợp đồng tín dụng.- Mục đích: Bổ sung vốn lưu động phục vụ cho hoạt động môi giới bất động sản.",
+                "4": "Tài sản đảm bảo của bên thứ ba bao gồm cổ phiếu của Công ty Cổ phần Tập đoàn Khải Hoàn Land và Quyền tài sản phát sinh từ hợp đồng chuyển nhượng quyền sử dụng một số lô đất tại Khu phố Hưng Gia, phường Tân Hưng, TP. Hồ Chí Minh"
+            },
+            {
+                "0": "Cá nhân và tổ chức khác",
+                "1": "Cá nhân và tổ chức khác",
+                "2": "Cá nhân và tổ chức khác",
+                "3": "Cá nhân và tổ chức khác",
+                "4": "Cá nhân và tổ chức khác"
+            },
+            {
+                "0": "Hợp đồng ký với các cá nhân và tổ chức",
+                "1": "-",
+                "2": "528.862.000.000 đồng",
+                "3": "Thời hạn vay từ 6 tháng - 28 tháng.Mục đích: bổ sung vốn lưu động.Lãi suất: từ 9,4% - 11,5%/năm",
+                "4": "Không có tài sản đảm bảo"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_24",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "27\n\n\\( \\left\\| \\frac{1}{2} \\right|_{1}^{2} \\)  VIE TO -EMH IG-T 155 \\( \\left\\| \\frac{1}{2} \\right|_{2}^{2} \\)  HOH \\( \\left\\| \\frac{1}{2} \\right|_{1}^{2} \\)\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMÃU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n20. VÓN CHỦ SỞ HỮU\n\nBàng biến động vốn chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn góp của chủ sở hữu",
+                "2": "Thặng dư vốn cổ phần",
+                "3": "Lợi nhuận sau thuế chưa phân phối",
+                "4": "Cộng"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "Tại ngày 01/01/2024",
+                "1": "4.494.352.050.000",
+                "2": "13.054.455.000",
+                "3": "657.801.507.287",
+                "4": "5.165.208.012.287"
+            },
+            {
+                "0": "Lãi trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "55.715.100.588",
+                "4": "55.715.100.588"
+            },
+            {
+                "0": "Tại ngày 01/01/2025",
+                "1": "4.494.352.050.000",
+                "2": "13.054.455.000",
+                "3": "713.516.607.875",
+                "4": "5.220.923.112.875"
+            },
+            {
+                "0": "Lãi trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "68.708.602.345",
+                "4": "68.708.602.345"
+            },
+            {
+                "0": "Tại ngày 31/12/2025",
+                "1": "4.494.352.050.000",
+                "2": "13.054.455.000",
+                "3": "782.225.210.220",
+                "4": "5.289.631.715.220"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_25",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "Theo Nghị quyết Đại hội đồng cổ đông thường niên số 01/2025/NQ-ĐHĐCD ngày 15/04/2025 thống nhất chưa thực hiện phân phối lợi nhuận năm 2024 cũng như chưa thực hiện phương án phát hành cổ phiếu cho người lao động (ESOP) theo Nghị quyết Đại hội đồng cổ đông thường niên năm 2024.\n\nChi tiết vốn góp chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "31/12/2025",
+                "3": "01/01/2025",
+                "4": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "Giá trị",
+                "2": "Tỷ lệ sở hữu",
+                "3": "Giá trị",
+                "4": "Tỷ lệ sở hữu"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "Ông Nguyễn Khải Hoàn",
+                "1": "1.372.483.000.000",
+                "2": "30,54%",
+                "3": "1.436.640.000.000",
+                "4": "31,97%"
+            },
+            {
+                "0": "Bà Trần Thị Thu Hương",
+                "1": "445.000.000.000",
+                "2": "9,90%",
+                "3": "580.843.000.000",
+                "4": "12,92%"
+            },
+            {
+                "0": "Cổ đông khác",
+                "1": "2.676.869.050.000",
+                "2": "59,56%",
+                "3": "2.476.869.050.000",
+                "4": "55,11%"
+            },
+            {
+                "0": "Cộng",
+                "1": "4.494.352.050.000",
+                "2": "100%",
+                "3": "4.494.352.050.000",
+                "4": "100%"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_26",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "28\n\n\\( \\left\\| \\frac{1}{2} \\times \\frac{1}{2} \\right\\|_{L^{\\prime}} = \\frac{1}{2} \\)\n\n\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\nCác giao dịch về vốn với các chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2025",
+                "2": "Năm 2024"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Vốn đầu tư của chủ sở hữu",
+                "1": "Vốn đầu tư của chủ sở hữu",
+                "2": "Vốn đầu tư của chủ sở hữu"
+            },
+            {
+                "0": "Vốn góp đầu năm",
+                "1": "4.494.352.050.000",
+                "2": "4.494.352.050.000"
+            },
+            {
+                "0": "Vốn góp tăng trong năm",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Vốn góp giảm trong năm",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Vốn góp cuối năm",
+                "1": "4.494.352.050.000",
+                "2": "4.494.352.050.000"
+            },
+            {
+                "0": "Cổ tức, lợi nhuận đã chia",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "01/01/2025"
+            },
+            {
+                "0": "Số lượng cổ phiếu đăng ký phát hành",
+                "1": "449.435.205",
+                "2": "449.435.205"
+            },
+            {
+                "0": "- Cổ phiếu phổ thông",
+                "1": "449.435.205",
+                "2": "449.435.205"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã mua lại (cổ phiếu quỹ)",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Số lượng cổ phiếu đang lưu hành",
+                "1": "449.435.205",
+                "2": "449.435.205"
+            },
+            {
+                "0": "- Cổ phiếu phổ thông",
+                "1": "449.435.205",
+                "2": "449.435.205"
+            },
+            {
+                "0": "Mệnh giá cổ phiếu đang lưu hành (đồng/CP)",
+                "1": "10.000",
+                "2": "10.000"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Doanh thu dịch vụ môi giới bất động sản",
+                "1": "479.740.111.026",
+                "2": "143.816.900.576"
+            },
+            {
+                "0": "Doanh thu chuyển nhượng hợp đồng mua bán bất động sản",
+                "1": "121.561.709.560",
+                "2": "166.025.235.037"
+            },
+            {
+                "0": "Cộng",
+                "1": "601.301.820.586",
+                "2": "309.842.135.613"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Khải Minh Land",
+                "1": "Không còn là bên liên quan",
+                "2": "78.013.939.986"
+            },
+            {
+                "0": "Cộng",
+                "1": "-",
+                "2": "78.013.939.986"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Giá vốn dịch vụ môi giới bất động sản",
+                "1": "368.126.715.595",
+                "2": "101.233.331.373"
+            },
+            {
+                "0": "Giá vốn chuyển nhượng hợp đồng mua bán bất động sản",
+                "1": "119.651.218.330",
+                "2": "163.200.931.742"
+            },
+            {
+                "0": "Cộng",
+                "1": "487.777.933.925",
+                "2": "264.434.263.115"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_27",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "29\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n23. DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2025",
+                "2": "Năm 2024"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Lãi tiền gửi",
+                "1": "2.240.391.889",
+                "2": "2.253.565.396"
+            },
+            {
+                "0": "Lãi từ hợp tác đầu tư, cho vay",
+                "1": "158.129.095.887",
+                "2": "189.823.500.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "160.369.487.776",
+                "2": "192.077.065.396"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Công ty TNHH Tập đoàn Khải Hoàn - Vũng Tàu",
+                "1": "-",
+                "2": "4.950.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Bát động sản Khải Minh Land",
+                "1": "Không còn là bên liên quan",
+                "2": "101.528.000.000"
+            },
+            {
+                "0": "Công ty TNHH Cộng đồng Môi giới",
+                "1": "Không còn là bên liên quan",
+                "2": "4.455.000.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "-",
+                "2": "110.933.000.000"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Chi phí lãi vay, lãi trái phiếu",
+                "1": "70.087.258.627",
+                "2": "71.126.813.011"
+            },
+            {
+                "0": "Chiết khấu thanh toán",
+                "1": "8.125.929.668",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí tài chính khác",
+                "1": "2.197.500.000",
+                "2": "896.502.900"
+            },
+            {
+                "0": "Cộng",
+                "1": "80.410.688.295",
+                "2": "72.023.315.911"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "45.197.360.734",
+                "2": "30.401.762.633"
+            },
+            {
+                "0": "Chi phí dụng cụ, đồ dùng",
+                "1": "61.353.302",
+                "2": "193.641.193"
+            },
+            {
+                "0": "Chi phí khấu hao tài sản cố định",
+                "1": "17.224.994",
+                "2": "122.499.984"
+            },
+            {
+                "0": "Chi phí thuê nhà, thuê văn phòng",
+                "1": "10.621.718.156",
+                "2": "10.429.193.045"
+            },
+            {
+                "0": "Chi phí hỗ trợ lãi suất",
+                "1": "-",
+                "2": "629.522.276"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "8.814.714.797",
+                "2": "10.252.720.641"
+            },
+            {
+                "0": "Chi phí bằng tiền khác",
+                "1": "214.137.447",
+                "2": "1.627.166.790"
+            },
+            {
+                "0": "Cộng",
+                "1": "64.926.509.430",
+                "2": "53.656.506.562"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_28",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "30\n\n\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n26. CHI PHÍ QUẢN LÝ DOANH NGHIỆP",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2025",
+                "2": "Năm 2024"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Chi phí nhân viên quản lý",
+                "1": "27.204.577.046",
+                "2": "24.225.594.426"
+            },
+            {
+                "0": "Chi phí vật liệu quản lý",
+                "1": "368.787.217",
+                "2": "233.020.977"
+            },
+            {
+                "0": "Chi phí khấu hao tài sản cố định",
+                "1": "248.976.659",
+                "2": "422.519.841"
+            },
+            {
+                "0": "Thuế, phí và lệ phí",
+                "1": "374.848.982",
+                "2": "38.000.000"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "9.146.846.943",
+                "2": "7.404.079.379"
+            },
+            {
+                "0": "Chi phí khác bằng tiền",
+                "1": "257.337.004",
+                "2": "98.301.300"
+            },
+            {
+                "0": "Cộng",
+                "1": "37.601.373.851",
+                "2": "32.421.515.923"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Chi phí phạt hành chính",
+                "1": "5.043.327.935",
+                "2": "6.370.043.519"
+            },
+            {
+                "0": "Chi phí phạt vi phạm hợp đồng",
+                "1": "500.000.000",
+                "2": "4.272.445.913"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "875",
+                "2": "49.647.977"
+            },
+            {
+                "0": "Cộng",
+                "1": "5.543.328.810",
+                "2": "10.692.137.409"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Công ty Cổ phần Tập đoàn Khải Hoàn Land",
+                "1": "18.625.105.914",
+                "2": "15.757.807.857"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Phát triển Địa ốc An Pha",
+                "1": "2.767.643",
+                "2": "5.400.451"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Kinh doanh Địa ốc An Thịnh Phát",
+                "1": "60.128.867",
+                "2": "5.400.574"
+            },
+            {
+                "0": "Tổng chi phí thuế TNDN hiện hành",
+                "1": "18.688.002.424",
+                "2": "15.768.608.882"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Chi phí nguyên liệu, vật liệu, hàng hóa",
+                "1": "430.140.519",
+                "2": "426.662.170"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "153.103.181.465",
+                "2": "98.805.609.309"
+            },
+            {
+                "0": "Chi phí khấu hao tài sản cố định",
+                "1": "266.201.653",
+                "2": "545.019.825"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "316.008.751.806",
+                "2": "85.141.072.188"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "846.323.433",
+                "2": "2.392.990.366"
+            },
+            {
+                "0": "Cộng",
+                "1": "470.654.598.876",
+                "2": "187.311.353.858"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Lợi nhuận phân bổ cho cổ đông sở hữu cổ phiếu phổ thông",
+                "1": "68.708.602.345",
+                "2": "55.715.100.588"
+            },
+            {
+                "0": "Trích quý khen thưởng phúc lợi",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Lợi nhuận để tính lãi cơ bản trên cổ phiếu",
+                "1": "68.708.602.345",
+                "2": "55.715.100.588"
+            },
+            {
+                "0": "Cổ phiếu phổ thông lưu hành bình quân trong năm",
+                "1": "449.435.205",
+                "2": "449.435.205"
+            },
+            {
+                "0": "Lãi cơ bản trên cổ phiếu",
+                "1": "153",
+                "2": "124"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_29",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "31\n\nKHAI TAF CO\\( _{2} \\) N:0309\n\n\\( \\left( \\frac{A}{R} \\right)^{2} \\)  AN KIE: ACHN CO 2005\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\nTại thời điểm 31/12/2025, Công ty chưa phân phối lợi nhuận năm 2025, theo đó lãi cơ bản trên cổ phiếu năm 2025 có thể được điều chỉnh, phụ thuộc vào việc trích các quỹ của Công ty từ lợi nhuận sau thuế thu nhập doanh nghiệp sau khi được thông qua tại Đại hội cổ đông thường niên.\n\n31. CAM KẾT THUÊ HOẠT ĐỘNG\n\nTại ngày 31/12/2025, Công ty có các khoản cam kết thuê hoạt động không hủy ngang với lịch thanh toán như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "01/01/2025"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Trong vòng một năm",
+                "1": "10.023.264.799",
+                "2": "9.473.777.750"
+            },
+            {
+                "0": "Từ năm thứ hai đến năm thứ năm",
+                "1": "12.515.852.814",
+                "2": "8.860.707.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "22.539.117.613",
+                "2": "18.334.484.750"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_30",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "32. GIAO DỊCH VỚI CÁC BÊN LIÊN QUAN\n\nCông ty có các bên liên quan như sau:",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ"
+            },
+            {
+                "0": "Công ty TNHH Tập đoàn Khải Hoàn",
+                "1": "Thành viên góp vốn lớn của công ty này là chủ tịch HĐQT của Khải Hoàn Land"
+            },
+            {
+                "0": "Công ty TNHH Tập đoàn Khải Hoàn - Vũng Tàu",
+                "1": "Công ty con của Công ty TNHH Tập đoàn Khải Hoàn"
+            },
+            {
+                "0": "Công ty TNHH Giao Hường Xanh",
+                "1": "Ông Đình Hoàng Tâm là thành viên góp vốn của công ty này (Không còn là bên liên quan kể từ ngày 13/01/2026)"
+            },
+            {
+                "0": "Công ty TNHH KH Invest",
+                "1": "Ông Nguyễn Khải Hoàn là thành viên HĐTV của công ty này"
+            },
+            {
+                "0": "Ông Nguyễn Khải Hoàn",
+                "1": "Cổ đông lớn, Chủ tịch HĐQT"
+            },
+            {
+                "0": "Bà Trần Thị Thu Hương",
+                "1": "Cổ đông lớn, Vợ ông Nguyễn Khải Hoàn"
+            },
+            {
+                "0": "Bà Nguyễn Thị Lệ Thúy",
+                "1": "Chị gái ông Nguyễn Khải Hoàn"
+            },
+            {
+                "0": "Ông Đình Hoàng Tâm",
+                "1": "Anh trai bà Đình Thị Nhật Hạnh"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_31",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "Ngoài các giao dịch và số dư với các bên liên quan được trình bày tại các thuyết minh khác của Báo cáo tài chính này, trong năm Công ty có giao dịch và số dư với các bên liên quan như sau:\n\nGiao dịch với các bên liên quan",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2025",
+                "2": "Năm 2024"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Khải Minh Land",
+                "1": "Công ty Cổ phần Bất động sản Khải Minh Land",
+                "2": "Công ty Cổ phần Bất động sản Khải Minh Land"
+            },
+            {
+                "0": "- Chuyển tiền hợp tác kinh doanh",
+                "1": "Không còn là bên liên quan",
+                "2": "3.600.000.000"
+            },
+            {
+                "0": "- Thu lãi hợp đồng hợp tác kinh doanh",
+                "1": "Không còn là bên liên quan",
+                "2": "105.161.181.824"
+            },
+            {
+                "0": "Công ty TNHH Tập đoàn Khải Hoàn - Vũng Tàu",
+                "1": "Công ty TNHH Tập đoàn Khải Hoàn - Vũng Tàu",
+                "2": "Công ty TNHH Tập đoàn Khải Hoàn - Vũng Tàu"
+            },
+            {
+                "0": "- Thu lãi hợp đồng hợp tác kinh doanh",
+                "1": "4.550.000.000",
+                "2": "30.300.000.000"
+            },
+            {
+                "0": "- Đầu tư hợp tác kinh doanh",
+                "1": "285.450.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Giao Hường Xanh",
+                "1": "Công ty TNHH Giao Hường Xanh",
+                "2": "Công ty TNHH Giao Hường Xanh"
+            },
+            {
+                "0": "- Chuyển tiền hợp tác kinh doanh",
+                "1": "520.981.000.000",
+                "2": "312.500.000.000"
+            },
+            {
+                "0": "- Chuyển tiền đặt cọc",
+                "1": "291.420.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Cộng đồng Môi giới",
+                "1": "Công ty TNHH Cộng đồng Môi giới",
+                "2": "Công ty TNHH Cộng đồng Môi giới"
+            },
+            {
+                "0": "- Nhận lại tiền hợp đồng hợp tác kinh doanh",
+                "1": "Không còn là bên liên quan",
+                "2": "4.455.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_32",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "32\n\n1392\nVG T' PHAI DOA GAN LA\n\n\\( \\left\\| \\begin{array}{c} \\text { NO } : \\\\ \\text { VIE } : \\text { TO } : \\\\ \\text { IG T } : \\text { EM H } : \\text { 1155 } \\end{array} \\right\\| \\)\n\n\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\nSố dư với các bên liên quan",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025VND",
+                "2": "01/01/2025VND"
+            },
+            {
+                "0": "Phải thu khác",
+                "1": "Phải thu khác",
+                "2": "Phải thu khác"
+            },
+            {
+                "0": "- Bà Nguyễn Thị Lệ Thúy",
+                "1": "-",
+                "2": "185.013.121"
+            },
+            {
+                "0": "Công ty TNHH Tập đoàn Khải Hoàn - Vũng Tàu",
+                "1": "Công ty TNHH Tập đoàn Khải Hoàn - Vũng Tàu",
+                "2": "Công ty TNHH Tập đoàn Khải Hoàn - Vũng Tàu"
+            },
+            {
+                "0": "- Phải thu khác ngắn hạn về lãi vay",
+                "1": "-",
+                "2": "4.550.000.000"
+            },
+            {
+                "0": "- Phải thu về hợp đồng hợp tác kinh doanh",
+                "1": "824.550.000.000",
+                "2": "1.110.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH Giao Hường Xanh",
+                "1": "Công ty TNHH Giao Hường Xanh",
+                "2": "Công ty TNHH Giao Hường Xanh"
+            },
+            {
+                "0": "- Phải thu khác ngắn hạn về tiền chi hộ dự án",
+                "1": "60.598.404.304",
+                "2": "60.598.404.304"
+            },
+            {
+                "0": "- Phải thu dài hạn về hợp đồng hợp tác kinh doanh",
+                "1": "1.153.481.000.000",
+                "2": "632.500.000.000"
+            },
+            {
+                "0": "- Đặt cọc",
+                "1": "291.420.000.000",
+                "2": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_33",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "Thu nhập của của Hội đồng quản trị, Ban Tổng Giám đốc và Ban Kiểm soát:",
+        "dataframe": [
+            {
+                "0": "Họ và tên",
+                "1": "Chức danh",
+                "2": "Năm 2025",
+                "3": "Năm 2024"
+            },
+            {
+                "0": "Họ và tên",
+                "1": "Chức danh",
+                "2": "VND",
+                "3": "VND"
+            },
+            {
+                "0": "Ông Nguyễn Khải Hoàn",
+                "1": "Chủ tịch HĐQT",
+                "2": "240.000.000",
+                "3": "240.000.000"
+            },
+            {
+                "0": "Bà Đình Thị Nhật Hạnh",
+                "1": "Phó chủ tịch HĐQT Tổng Giám đốc",
+                "2": "610.800.000",
+                "3": "583.300.000"
+            },
+            {
+                "0": "Ông Trần Văn Đường",
+                "1": "Phó Tổng giám đốc",
+                "2": "1.200.690.909",
+                "3": "65.150.000"
+            },
+            {
+                "0": "Ông Phùng Quang Hải",
+                "1": "Thành viên HĐQT (miễn nhiệm ngày 15/04/2024); Phó Tổng Giám đốc (miễn nhiệm ngày 15/03/2024)",
+                "2": "-",
+                "3": "145.323.810"
+            },
+            {
+                "0": "Bà Phạm Thị Minh Phụ",
+                "1": "Thành viên HĐQT Phó Tổng Giám đốc",
+                "2": "323.086.127",
+                "3": "486.121.717"
+            },
+            {
+                "0": "Ông Trần Mạnh Toàn",
+                "1": "Thành viên HĐQT độc lập",
+                "2": "120.000.000",
+                "3": "120.000.000"
+            },
+            {
+                "0": "Bà Phạm Thị Hòa",
+                "1": "Thành viên HĐQT độc lập",
+                "2": "120.000.000",
+                "3": "120.000.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "",
+                "2": "2.614.577.036",
+                "3": "1.759.895.527"
+            },
+            {
+                "0": "Họ và tên",
+                "1": "Chức danh",
+                "2": "VND",
+                "3": "VND"
+            },
+            {
+                "0": "Ông Hoàng Phương",
+                "1": "Trường Ban kiểm soát",
+                "2": "96.000.000",
+                "3": "96.000.000"
+            },
+            {
+                "0": "Bà Nguyễn Thu Trang",
+                "1": "Thành viên",
+                "2": "567.248.445",
+                "3": "323.513.900"
+            },
+            {
+                "0": "Ông Lê Văn Kiều",
+                "1": "Thành viên",
+                "2": "60.000.000",
+                "3": "42.500.000"
+            },
+            {
+                "0": "Ông Nguyễn Minh Hiếu",
+                "1": "Thành viên (miễn nhiệm ngày 15/04/2024)",
+                "2": "-",
+                "3": "50.000.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "",
+                "2": "723.248.445",
+                "3": "512.013.900"
+            }
+        ]
+    },
+    {
+        "chunk_id": "KHG_2025_consolidated_table_34",
+        "metadata": {
+            "ticker": "KHG",
+            "company_name": "CTCP Tập đoàn Khải Hoàn Land",
+            "year": "2025",
+            "report_type": "consolidated",
+            "original_folder": "KHG_financial_statements_2025_consolidated"
+        },
+        "context_text": "33. CÁC SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THỨC NIÊN ĐỘ KẾ TOÁN\n\nKhông có sự kiện bất thường nào khác xảy ra sau ngày kết thúc niên độ kế toán làm ảnh hưởng đến tỉnh hình tài chính và hoạt động của Công ty cần thiết phải điều chỉnh hoặc trình bày trên Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31/12/2025.\n\n33\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CÓ PHẦN TẬP ĐOÀN KHẢI HOÀN LAND\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nMĂU SÓ B09 - DN/HN\n\nCác thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo\n\n34. SỐ LIỆU SO SÁNH\n\nSố liệu so sánh là số liệu trên Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31/12/2024 đã được kiểm toán. Một số chỉ tiêu trên báo cáo tài chính hợp nhất năm 2024 đã được điều chỉnh lại cho phù hợp với việc ghi nhận doanh thu, chi phí của hợp đồng hợp tác kinh doanh khi được chia và thỏa thuận miễn lãi cho đối tác, chi tiết điều chỉnh như sau:",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Mãsố",
+                "2": "31/12/2024",
+                "3": "01/01/2025Trình bày lại",
+                "4": "Chênh lệch"
+            },
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Mãsố",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "BẢNG CẦN ĐỐI KẾ TOÁN",
+                "1": "BẢNG CẦN ĐỐI KẾ TOÁN",
+                "2": "BẢNG CẦN ĐỐI KẾ TOÁN",
+                "3": "BẢNG CẦN ĐỐI KẾ TOÁN",
+                "4": "BẢNG CẦN ĐỐI KẾ TOÁN"
+            },
+            {
+                "0": "Phải thu ngắn hạn khác",
+                "1": "136",
+                "2": "956.031.069.761",
+                "3": "895.581.069.761",
+                "4": "(60.450.000.000)"
+            },
+            {
+                "0": "Chi phí trả trước dài hạn",
+                "1": "261",
+                "2": "47.485.902.386",
+                "3": "109.296.960.591",
+                "4": "61.811.058.205"
+            },
+            {
+                "0": "TỔNG CỘNG TÀI SẢN",
+                "1": "",
+                "2": "6.590.402.453.093",
+                "3": "6.591.763.511.298",
+                "4": "1.361.058.205"
+            },
+            {
+                "0": "Thuế và các khoản phải nộp Nhà nước",
+                "1": "313",
+                "2": "16.411.133.901",
+                "3": "16.683.345.542",
+                "4": "272.211.641"
+            },
+            {
+                "0": "LNST chưa phân phối năm nay",
+                "1": "421b",
+                "2": "54.626.254.024",
+                "3": "55.715.100.588",
+                "4": "1.088.846.564"
+            },
+            {
+                "0": "TỔNG CỘNG NGUỒN VỐN",
+                "1": "",
+                "2": "6.590.402.453.093",
+                "3": "6.591.763.511.298",
+                "4": "1.361.058.205"
+            },
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Mãsố",
+                "2": "Năm 2024",
+                "3": "Năm 2024Trình bày lại",
+                "4": "Chênh lệch"
+            },
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Mãsố",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "BẢO CẢO KẾT QUẢ KINH DOANH",
+                "1": "BẢO CẢO KẾT QUẢ KINH DOANH",
+                "2": "BẢO CẢO KẾT QUẢ KINH DOANH",
+                "3": "BẢO CẢO KẾT QUẢ KINH DOANH",
+                "4": "BẢO CẢO KẾT QUẢ KINH DOANH"
+            },
+            {
+                "0": "Doanh thu hoạt động tài chính",
+                "1": "21",
+                "2": "252.527.065.396",
+                "3": "192.077.065.396",
+                "4": "(60.450.000.000)"
+            },
+            {
+                "0": "Chi phí tài chính",
+                "1": "22",
+                "2": "133.834.374.116",
+                "3": "72.023.315.911",
+                "4": "(61.811.058.205)"
+            },
+            {
+                "0": "Tổng lợi nhuận kế toán trước thuế",
+                "1": "50",
+                "2": "70.122.651.265",
+                "3": "71.483.709.470",
+                "4": "1.361.058.205"
+            },
+            {
+                "0": "Chi phí thuế TNDN hiện hành",
+                "1": "51",
+                "2": "15.496.397.241",
+                "3": "15.768.608.882",
+                "4": "272.211.641"
+            },
+            {
+                "0": "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+                "1": "60",
+                "2": "54.626.254.024",
+                "3": "55.715.100.588",
+                "4": "1.088.846.564"
+            },
+            {
+                "0": "BẢO CẢO LƯU CHUYÊN TIỀN TỆ",
+                "1": "BẢO CẢO LƯU CHUYÊN TIỀN TỆ",
+                "2": "BẢO CẢO LƯU CHUYÊN TIỀN TỆ",
+                "3": "BẢO CẢO LƯU CHUYÊN TIỀN TỆ",
+                "4": "BẢO CẢO LƯU CHUYÊN TIỀN TỆ"
+            },
+            {
+                "0": "Lợi nhuận trước thuế",
+                "1": "01",
+                "2": "70.122.651.265",
+                "3": "71.483.709.470",
+                "4": "1.361.058.205"
+            },
+            {
+                "0": "Lãi, lỗ từ hoạt động đầu tư",
+                "1": "05",
+                "2": "(252.527.065.396)",
+                "3": "(192.077.065.396)",
+                "4": "60.450.000.000"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "06",
+                "2": "133.834.374.116",
+                "3": "72.023.315.911",
+                "4": "(61.811.058.205)"
+            },
+            {
+                "0": "Tăng, giảm các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",
+                "1": "11",
+                "2": "94.416.334.843",
+                "3": "108.967.320.242",
+                "4": "14.550.985.399"
+            },
+            {
+                "0": "Tăng, giảm chi phí trả trước",
+                "1": "12",
+                "2": "(23.329.514.310)",
+                "3": "(85.140.572.515)",
+                "4": "(61.811.058.205)"
+            },
+            {
+                "0": "Tiền lãi vay đã trả",
+                "1": "14",
+                "2": "(120.423.966.245)",
+                "3": "(73.163.893.439)",
+                "4": "47.260.072.806"
+            }
+        ]
+    }
+]

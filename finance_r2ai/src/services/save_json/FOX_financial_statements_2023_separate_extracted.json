@@ -1,0 +1,4178 @@
+[
+    {
+        "chunk_id": "FOX_2023_separate_table_1",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "CÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\nNỘI DUNG\n\nTRANG\n\nThông tin về doanh nghiệp 1\n\nBáo cáo của Ban Tổng Giám đốc 2\n\nBáo cáo kiểm toán độc lập 3\n\nBảng cân đối kế toán riêng (Mẫu số B 01 - DN) 5\n\nBáo cáo kết quả hoạt động kinh doanh riêng (Mẫu số B 02 - DN) 7\n\nBáo cáo lưu chuyển tiền tệ riêng (Mẫu số B 03 - DN) 8\n\nThuyết minh báo cáo tài chính riêng (Mẫu số B 09 - DN) 9\n\n\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nTHÔNG TIN VỀ DOANH NGHIỆP\n\nGiấy Chứng nhận\n\nĐăng ký Doanh nghiệp\n\nSố 0101778163 ngày 28 tháng 7 năm 2005\n\nGiấy Chứng nhận Đăng ký Doanh nghiệp và các thay đổi Giấy Chứng nhận Đăng ký Doanh nghiệp do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp ngày 28 tháng 7 năm 2005. Giấy Chứng nhận Đăng ký Doanh nghiệp thay đổi gần nhất (lần thứ 32) được cấp ngày 21 tháng 12 năm 2023.",
+        "dataframe": [
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Ông Hoàng Việt Anh",
+                "2": "Chủ tịch(từ ngày 25 tháng 4 năm 2023)"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Ông Hoàng Nam Tiến",
+                "2": "Chủ tịch(đến ngày 25 tháng 4 năm 2023)"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Ông Trương Gia Bình",
+                "2": "Thành viên"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Ông Nguyễn Văn Khoa",
+                "2": "Thành viên"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Bà Chu Thị Thanh Hà",
+                "2": "Thành viên"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Bà Trần Thị Hồng Lĩnh",
+                "2": "Thành viên(từ ngày 25 tháng 4 năm 2023)"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Ông Phan Thế Thành",
+                "2": "Thành viên(từ ngày 25 tháng 4 năm 2023)"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Bà Lê Ngọc Diệp",
+                "2": "Thành viên(đến ngày 25 tháng 4 năm 2023)"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Ông Nguyễn Hoàng Quyền",
+                "2": "Thành viên(đến ngày 25 tháng 4 năm 2023)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_2",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Ban Kiểm soát",
+        "dataframe": [
+            {
+                "0": "Ông Trần Khương",
+                "1": "Trường ban"
+            },
+            {
+                "0": "Ông Đỗ Xuân Phúc",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Phạm Xuân Hoàn",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Nguyễn Hoàng Linh",
+                "1": "Tổng Giám đốc(từ ngày 25 tháng 4 năm 2023)"
+            },
+            {
+                "0": "Ông Hoàng Việt Anh",
+                "1": "Tổng Giám đốc(đến ngày 25 tháng 4 năm 2023)"
+            },
+            {
+                "0": "Bà Vũ Thị Mai Hương",
+                "1": "Phó Tổng Giám đốc"
+            },
+            {
+                "0": "Ông Chu Hùng Thắng",
+                "1": "Phó Tổng Giám đốc"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_3",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Người đại diện theo\npháp luật",
+        "dataframe": [
+            {
+                "0": "Ông Hoàng Việt Anh",
+                "1": "Chủ tịch"
+            },
+            {
+                "0": "Ông Nguyễn Hoàng Linh",
+                "1": "Tổng Giám đốc(từ ngày 18 tháng 5 năm 2023)"
+            },
+            {
+                "0": "Ông Hoàng Nam Tiến",
+                "1": "Chủ tịch(đến ngày 25 tháng 4 năm 2023)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_4",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Trụ sở chính\n\nTầng 2, Tòa nhà FPT Cầu Giấy, Số 17 Phố Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội\n\nCông ty kiểm toán\n\nCông ty TNHH PwC (Việt Nam)\n\n1\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC\n\nTRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC CỦA CÔNG TY ĐỐI VỚI BÁO CÁO TÀI CHÍNH RIÊNG\n\nBan Tổng Giám đốc của Công ty Cổ phần Viễn thông FPT (\"Công ty\") chịu trách nhiệm lập báo cáo tài chính riêng thể hiện trung thực và hợp lý tình hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2023, cũng như kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng của Công ty cho năm tài chính kết thúc vào ngày nếu trên. Trong việc lập báo cáo tài chính riêng này, Ban Tổng Giám đốc được yêu cầu phải:\n\n- chọn lựa các chính sách kế toán phù hợp và áp dụng một cách nhất quán;\n\n- thực hiện các xét đoán và ước tính một cách hợp lý và thân trong; và\n\n- lập báo cáo tài chính riêng trên cơ sở Công ty hoạt động liên tục trừ khi giả định Công ty hoạt động liên tục là không phù hợp.\n\nBan Tổng Giám đốc của Công ty chịu trách nhiệm bảo đảm rằng các số sách kế toán đúng đắn đã được thiết lập và duy trì để thể hiện tỉnh hình tài chính riêng của Công ty với độ chính xác hợp lý tại mọi thời điểm và để làm cơ sở lập báo cáo tài chính riêng tuân thủ theo chế độ kế toán được trình bày ở Thuyết minh 2 của báo cáo tài chính riêng. Ban Tổng Giám đốc của Công ty cũng chịu trách nhiệm đối với việc bảo vệ các tài sản của Công ty và thực hiện các biện pháp hợp lý để ngăn ngừa và phát hiện các gian lận hoặc nhằm lẫn.\n\nPHÊ CHUẦN BÁO CÁO TÀI CHÍNH RIÊNG\n\nTheo đây, chúng tôi phê chuẩn báo cáo tài chính riêng đính kèm từ trang 5 đến trang 45. Báo cáo tài chính riêng này phần ánh trung thực và hợp lý tình hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2023, cũng như kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng của Công ty cho năm tài chính kết thúc cùng ngày nêu trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nNgười sử dụng báo cáo tài chính riêng của Công ty nên đọc cùng với báo cáo tài chính hợp nhất của Công ty và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023 để có đủ thông tin về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Công ty và các công ty con.\n\nThay mặt Ban Tổng Giám đốc\n\nNguyễn Hoàng Linh\n\nTổng Giám đốc/Người đại diện theo pháp luật\n\nHà Nội, nước CHXHCN Việt Nam\n\nNgày 4 tháng 3 năm 2024\n\n2\n\n\\( \\therefore 1,0,\\cdots ,1 \\) 且 \\( {k}_{1} = 1\\;\\because k < \\frac{1}{2}\\;{k}_{n} \\)\n\n\n\npwc\n\n[Non-Text]\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP\n\nGỦI CÁC CỔ ĐÔNG CỦA CÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nChúng tôi đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Viễn thông FPT (\"Công ty\") được lập ngày 31 tháng 12 năm 2023, và được Ban Tổng Giám đốc của Công ty phê chuẩn ngày 4 tháng 3 năm 2024. Báo cáo tài chính riêng này bao gồm: bằng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2023, báo cáo kết quả hoạt động kinh doanh riêng, báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày nếu trên, và thuyết minh báo cáo tài chính riêng bao gồm các chính sách kế toán chủ yếu từ trang 5 đến trang 45.\n\nTrách nhiệm của Ban Tổng Giám đốc\n\nBan Tổng Giám đốc của Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lân hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng này dựa trên kết quả cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính riêng do gian lận hoặc nhằm lẫn. Khì thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\nCông ty TNHH PwC (Việt Nam)\n\nSố 29, Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam ĐT: +8428 3823 0796, www.pwc.com/vn\n\n3\n\n101\n\n\n\npwc\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến của chúng tôi, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2023, cũng như kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng của Công ty cho năm tài chính kết thúc cùng ngày nếu trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nThay mặt và đại diện cho Công ty TNHH PwC (Việt Nam)\n\nTrần Khắc Thể\n\nPhó Tổng Giám đốc\n\nGiấy CN ĐKHN kiểm toán số:\n\n2043-2023-006-1\n\nChữ ký được ủy quyền\n\nSố hiệu báo cáo kiểm toán: HAN 3556\n\nHà Nội, ngày 4 tháng 3 năm 2024\n\nNguyễn Văn Nam\n\nGiấy CN ĐKHN kiểm toán số:\n\n5082-2024-006-1\n\n4\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 01 – DN\n\nBÀNG CÂN ĐỐI KẾ TOÁN RIÊNG",
+        "dataframe": [
+            {
+                "0": "Mãsố",
+                "1": "TÀI SẢN",
+                "2": "Thuyếtminh",
+                "3": "Tại ngày 31 tháng 12 năm",
+                "4": "Tại ngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mãsố",
+                "1": "TÀI SẢN",
+                "2": "Thuyếtminh",
+                "3": "2023VND",
+                "4": "2022VND"
+            },
+            {
+                "0": "100",
+                "1": "TÀI SẢN NGẮN HẠN",
+                "2": "",
+                "3": "10.124.632.662.935",
+                "4": "8.780.811.006.173"
+            },
+            {
+                "0": "110",
+                "1": "Tiền và các khoản tương đương tiền",
+                "2": "3",
+                "3": "274.796.383.783",
+                "4": "97.553.590.241"
+            },
+            {
+                "0": "111",
+                "1": "Tiền",
+                "2": "",
+                "3": "66.469.696.196",
+                "4": "97.090.949.782"
+            },
+            {
+                "0": "112",
+                "1": "Các khoản tương đương tiền",
+                "2": "",
+                "3": "208.326.687.587",
+                "4": "462.640.459"
+            },
+            {
+                "0": "120",
+                "1": "Đầu tư tài chính ngắn hạn",
+                "2": "",
+                "3": "100.000.000",
+                "4": "100.000.000"
+            },
+            {
+                "0": "123",
+                "1": "Đầu tư nắm giữ đến ngày đáo hạn",
+                "2": "4(a)",
+                "3": "100.000.000",
+                "4": "100.000.000"
+            },
+            {
+                "0": "130",
+                "1": "Các khoản phải thu ngắn hạn",
+                "2": "",
+                "3": "8.995.506.432.992",
+                "4": "7.467.405.717.628"
+            },
+            {
+                "0": "131",
+                "1": "Phải thu ngắn hạn của khách hàng",
+                "2": "5",
+                "3": "1.840.771.086.214",
+                "4": "1.609.558.980.064"
+            },
+            {
+                "0": "132",
+                "1": "Trả trước cho người bán ngắn hạn",
+                "2": "",
+                "3": "16.579.788.810",
+                "4": "35.913.891.761"
+            },
+            {
+                "0": "135",
+                "1": "Phải thu về cho vay ngắn hạn",
+                "2": "6",
+                "3": "7.054.329.711.180",
+                "4": "5.702.180.745.370"
+            },
+            {
+                "0": "136",
+                "1": "Phải thu ngắn hạn khác",
+                "2": "7",
+                "3": "652.578.344.918",
+                "4": "537.309.091.724"
+            },
+            {
+                "0": "137",
+                "1": "Dự phòng phải thu ngắn hạn khó đòi",
+                "2": "8",
+                "3": "(568.752.498.130)",
+                "4": "(417.556.991.291)"
+            },
+            {
+                "0": "140",
+                "1": "Hàng tồn kho",
+                "2": "9",
+                "3": "728.991.583.619",
+                "4": "993.454.476.951"
+            },
+            {
+                "0": "141",
+                "1": "Hàng tồn kho",
+                "2": "",
+                "3": "745.789.067.871",
+                "4": "1.028.787.068.166"
+            },
+            {
+                "0": "149",
+                "1": "Dự phòng giảm giá hàng tồn kho",
+                "2": "",
+                "3": "(16.797.484.252)",
+                "4": "(35.332.591.215)"
+            },
+            {
+                "0": "150",
+                "1": "Tài sản ngắn hạn khác",
+                "2": "",
+                "3": "125.238.262.541",
+                "4": "222.297.221.353"
+            },
+            {
+                "0": "151",
+                "1": "Chỉ phí trả trước ngắn hạn",
+                "2": "10(a)",
+                "3": "124.148.018.254",
+                "4": "125.478.945.496"
+            },
+            {
+                "0": "152",
+                "1": "Thuế Giá trị gia tăng (\"GTGT\") được khấu trừ",
+                "2": "",
+                "3": "999.114.115",
+                "4": "4.065.447.791"
+            },
+            {
+                "0": "153",
+                "1": "Thuế và các khoản khác phải thu Nhà nước",
+                "2": "15(a)",
+                "3": "91.130.172",
+                "4": "92.752.828.066"
+            },
+            {
+                "0": "200",
+                "1": "TÀI SẢN DÀI HẠN",
+                "2": "",
+                "3": "8.521.254.536.494",
+                "4": "8.261.740.953.655"
+            },
+            {
+                "0": "210",
+                "1": "Các khoản phải thu dài hạn",
+                "2": "",
+                "3": "9.978.779.471",
+                "4": "9.591.983.225"
+            },
+            {
+                "0": "216",
+                "1": "Phải thu dài hạn khác",
+                "2": "",
+                "3": "9.978.779.471",
+                "4": "9.591.983.225"
+            },
+            {
+                "0": "220",
+                "1": "Tài sản cố định",
+                "2": "",
+                "3": "5.875.573.656.890",
+                "4": "5.478.596.790.176"
+            },
+            {
+                "0": "221",
+                "1": "Tài sản cố định hữu hình",
+                "2": "11(a)",
+                "3": "5.321.152.454.328",
+                "4": "4.863.513.528.701"
+            },
+            {
+                "0": "222",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "12.063.922.190.133",
+                "4": "10.639.823.383.374"
+            },
+            {
+                "0": "223",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(6.742.769.735.805)",
+                "4": "(5.776.309.854.673)"
+            },
+            {
+                "0": "227",
+                "1": "Tài sản cố định vô hình",
+                "2": "11(b)",
+                "3": "554.421.202.562",
+                "4": "615.083.261.475"
+            },
+            {
+                "0": "228",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "1.119.635.984.536",
+                "4": "1.093.136.467.440"
+            },
+            {
+                "0": "229",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(565.214.781.974)",
+                "4": "(478.053.205.965)"
+            },
+            {
+                "0": "240",
+                "1": "Tài sản dở dang dài hạn",
+                "2": "",
+                "3": "170.356.165.578",
+                "4": "178.001.216.679"
+            },
+            {
+                "0": "242",
+                "1": "Chi phí xây dựng cơ bản dở dang",
+                "2": "12",
+                "3": "170.356.165.578",
+                "4": "178.001.216.679"
+            },
+            {
+                "0": "250",
+                "1": "Đầu tư tài chính dài hạn",
+                "2": "",
+                "3": "501.426.317.955",
+                "4": "501.426.317.955"
+            },
+            {
+                "0": "251",
+                "1": "Đầu tư vào công ty con",
+                "2": "4(b)",
+                "3": "495.226.317.955",
+                "4": "495.226.317.955"
+            },
+            {
+                "0": "253",
+                "1": "Đầu tư góp vốn vào đơn vị khác",
+                "2": "4(b)",
+                "3": "6.000.000.000",
+                "4": "6.000.000.000"
+            },
+            {
+                "0": "255",
+                "1": "Đầu tư nắm giữ đến ngày đáo hạn",
+                "2": "4(a)",
+                "3": "200.000.000",
+                "4": "200.000.000"
+            },
+            {
+                "0": "260",
+                "1": "Tài sản dài hạn khác",
+                "2": "",
+                "3": "1.963.919.616.600",
+                "4": "2.094.124.645.620"
+            },
+            {
+                "0": "261",
+                "1": "Chi phí trả trước dài hạn",
+                "2": "10(b)",
+                "3": "1.944.096.124.543",
+                "4": "2.093.675.089.487"
+            },
+            {
+                "0": "262",
+                "1": "Tài sản thuế thu nhập hoãn lại",
+                "2": "13",
+                "3": "19.823.492.057",
+                "4": "449.556.133"
+            },
+            {
+                "0": "270",
+                "1": "TỔNG TÀI SẢN",
+                "2": "",
+                "3": "18.645.887.199.429",
+                "4": "17.042.551.959.828"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_5",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Các thuyết minh từ trang 9 đến trang 45 là một phần cấu thành báo cáo tài chính riêng này.\n\n5\n\n14.\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 01 – DN\n\nBÀNG CÂN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "Tại ngày 31 tháng 12 năm",
+                "4": "Tại ngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "2023 VND",
+                "4": "2022 VND"
+            },
+            {
+                "0": "300",
+                "1": "NỘ PHẢI TRẢ",
+                "2": "",
+                "3": "10.227.553.436.399",
+                "4": "9.766.343.852.523"
+            },
+            {
+                "0": "310",
+                "1": "Nợ ngắn hạn",
+                "2": "",
+                "3": "10.226.426.261.750",
+                "4": "9.724.407.851.818"
+            },
+            {
+                "0": "311",
+                "1": "Phải trả người bán ngắn hạn",
+                "2": "14",
+                "3": "922.962.550.599",
+                "4": "1.480.893.120.608"
+            },
+            {
+                "0": "312",
+                "1": "Người mua trả tiền trước ngắn hạn",
+                "2": "",
+                "3": "1.691.140.605",
+                "4": "1.056.238.674"
+            },
+            {
+                "0": "313",
+                "1": "Thuế và các khoản phải nộp Nhà nước",
+                "2": "15(b)",
+                "3": "181.874.303.958",
+                "4": "18.100.507.589"
+            },
+            {
+                "0": "314",
+                "1": "Phải trả người lao động",
+                "2": "",
+                "3": "977.528.256.722",
+                "4": "1.024.576.179.384"
+            },
+            {
+                "0": "315",
+                "1": "Chi phí phải trả ngắn hạn",
+                "2": "16",
+                "3": "213.751.521.801",
+                "4": "151.886.585.701"
+            },
+            {
+                "0": "318",
+                "1": "Doanh thu chưa thực hiện ngắn hạn",
+                "2": "17",
+                "3": "1.186.116.537.037",
+                "4": "1.383.924.450.279"
+            },
+            {
+                "0": "319",
+                "1": "Phải trả ngắn hạn khác",
+                "2": "18",
+                "3": "300.452.166.388",
+                "4": "188.627.292.028"
+            },
+            {
+                "0": "320",
+                "1": "Vay ngắn hạn",
+                "2": "19(a)",
+                "3": "6.041.701.989.135",
+                "4": "5.215.719.226.653"
+            },
+            {
+                "0": "322",
+                "1": "Quỹ khen thưởng, phúc lợi",
+                "2": "20",
+                "3": "400.347.795.505",
+                "4": "259.624.250.902"
+            },
+            {
+                "0": "330",
+                "1": "Nợ dài hạn",
+                "2": "",
+                "3": "1.127.174.649",
+                "4": "41.936.000.705"
+            },
+            {
+                "0": "337",
+                "1": "Phải trả dài hạn khác",
+                "2": "",
+                "3": "1.051.543.680",
+                "4": "1.943.300.000"
+            },
+            {
+                "0": "338",
+                "1": "Vay dài hạn",
+                "2": "19(b)",
+                "3": "-",
+                "4": "39.991.556.359"
+            },
+            {
+                "0": "341",
+                "1": "Thuế thu nhập hoãn lại phải trả",
+                "2": "13",
+                "3": "75.630.969",
+                "4": "1.144.346"
+            },
+            {
+                "0": "400",
+                "1": "VỐN CHỦ SỞ HỮU",
+                "2": "",
+                "3": "8.418.333.763.030",
+                "4": "7.276.208.107.305"
+            },
+            {
+                "0": "410",
+                "1": "Vốn chủ sở hữu",
+                "2": "2122",
+                "3": "8.418.333.763.030",
+                "4": "7.276.208.107.305"
+            },
+            {
+                "0": "411",
+                "1": "Vốn góp của chủ sở hữu",
+                "2": "",
+                "3": "4.925.091.640.000",
+                "4": "3.283.395.380.000"
+            },
+            {
+                "0": "411a",
+                "1": "- Cổ phiếu phổ thông có quyền biểu quyết",
+                "2": "",
+                "3": "4.925.091.640.000",
+                "4": "3.283.395.380.000"
+            },
+            {
+                "0": "415",
+                "1": "Cổ phiếu quỹ",
+                "2": "22",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "418",
+                "1": "Quỹ đầu tư phát triển",
+                "2": "22",
+                "3": "1.709.722.205.278",
+                "4": "1.424.495.512.206"
+            },
+            {
+                "0": "421",
+                "1": "Lợi nhuận sau thuế (“LNST”) chưa phân phối",
+                "2": "22",
+                "3": "1.783.519.917.752",
+                "4": "2.568.317.215.099"
+            },
+            {
+                "0": "421a",
+                "1": "- LNST chưa phân phối lũy kế của các năm trước",
+                "2": "",
+                "3": "9.387.557.628",
+                "4": "1.031.288.334.192"
+            },
+            {
+                "0": "421b",
+                "1": "- LNST chưa phân phối của năm nay",
+                "2": "",
+                "3": "1.774.132.360.124",
+                "4": "1.537.028.880.907"
+            },
+            {
+                "0": "440",
+                "1": "TỔNG NGUỒN VỐN",
+                "2": "",
+                "3": "18.645.887.199.429",
+                "4": "17.042.551.959.828"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_6",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Nguyễn Thị Hồng\nNgười lập\n\nJiang\n\nNguyễn Thị Thu Hương\nKế toán trường\n\nNguyễn Hoàng Linh\nTổng Giám đốc\n\nNgười đại diện theo pháp luật\nNgày 4 tháng 3 năm 2024\n\nCác thuyết minh từ trang 9 đến trang 45 là một phần cấu thành báo cáo tài chính riêng này.\n\n6\n\n\\( \\because H \\times H^{\\prime}H^{\\prime\\prime} \\)\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 02 – DN\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "",
+                "2": "Thuyết minh",
+                "3": "Năm tài chính kết thúc ngày 31 tháng 12 năm",
+                "4": "Năm tài chính kết thúc ngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mã số",
+                "1": "",
+                "2": "Thuyết minh",
+                "3": "2023 VND",
+                "4": "2022 VND"
+            },
+            {
+                "0": "01",
+                "1": "Doanh thu bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "12.552.996.391.372",
+                "4": "11.652.111.828.673"
+            },
+            {
+                "0": "02",
+                "1": "Các khoản giảm trừ doanh thu",
+                "2": "",
+                "3": "-",
+                "4": "85.852.395"
+            },
+            {
+                "0": "10",
+                "1": "Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02)",
+                "2": "24",
+                "3": "12.552.996.391.372",
+                "4": "11.652.025.976.278"
+            },
+            {
+                "0": "11",
+                "1": "Giá vốn hàng bán và dịch vụ cung cấp",
+                "2": "25",
+                "3": "6.692.130.281.373",
+                "4": "5.953.361.384.007"
+            },
+            {
+                "0": "20",
+                "1": "Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20 = 10 - 11)",
+                "2": "",
+                "3": "5.860.866.109.999",
+                "4": "5.698.664.592.271"
+            },
+            {
+                "0": "21",
+                "1": "Doanh thu hoạt động tài chính",
+                "2": "26",
+                "3": "979.881.404.186",
+                "4": "886.479.318.166"
+            },
+            {
+                "0": "22",
+                "1": "Chi phí tài chính",
+                "2": "27",
+                "3": "479.938.125.336",
+                "4": "474.163.419.936"
+            },
+            {
+                "0": "23",
+                "1": "- Trong đó: Chi phí lãi vay",
+                "2": "",
+                "3": "450.795.139.387",
+                "4": "371.427.394.591"
+            },
+            {
+                "0": "25",
+                "1": "Chi phí bán hàng",
+                "2": "28",
+                "3": "1.809.513.094.994",
+                "4": "1.668.544.841.091"
+            },
+            {
+                "0": "26",
+                "1": "Chi phí quản lý doanh nghiệp",
+                "2": "29",
+                "3": "1.721.740.077.856",
+                "4": "1.920.181.395.484"
+            },
+            {
+                "0": "30",
+                "1": "Lợi nhuận thuần từ hoạt động kinh doanh (30 = 20 + 21 - 22 - 25 - 26)",
+                "2": "",
+                "3": "2.829.556.215.999",
+                "4": "2.522.254.253.926"
+            },
+            {
+                "0": "31",
+                "1": "Thu nhập khác",
+                "2": "",
+                "3": "33.552.282.434",
+                "4": "8.193.181.917"
+            },
+            {
+                "0": "32",
+                "1": "Chi phí khác",
+                "2": "",
+                "3": "33.599.472.193",
+                "4": "30.560.355.343"
+            },
+            {
+                "0": "40",
+                "1": "Lỗ khác (40 = 31 - 32)",
+                "2": "",
+                "3": "(47.189.759)",
+                "4": "(22.367.173.426)"
+            },
+            {
+                "0": "50",
+                "1": "Tổng lợi nhuận kế toán trước thuế (50 = 30 + 40)",
+                "2": "",
+                "3": "2.829.509.026.240",
+                "4": "2.499.887.080.500"
+            },
+            {
+                "0": "51",
+                "1": "Chi phí thuế thu nhập doanh nghiệp (“TNDN”) hiện hành",
+                "2": "30",
+                "3": "482.631.626.964",
+                "4": "434.529.108.030"
+            },
+            {
+                "0": "52",
+                "1": "(Thu nhập)/chi phí thuế TNDN hoãn lại",
+                "2": "30",
+                "3": "(19.299.449.301)",
+                "4": "4.775.176.561"
+            },
+            {
+                "0": "60",
+                "1": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+                "2": "",
+                "3": "2.366.176.848.577",
+                "4": "2.060.582.795.909"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_7",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Nguyễn Thị Hồng\nNgười lập\n\nNguyễn Thị Thu Hương\nKế toán trường\n\nNguyễn Hoàng Linh\n\nTổng Giám đốc\n\nNgười đại diện theo pháp luật\n\nNgày 4 tháng 3 năm 2024\n\nCác thuyết minh từ trang 9 đến trang 45 là một phần cấu thành báo cáo tài chính riêng này.\n\n7\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 03 – DN\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ RIÊNG (Theo phương pháp gián tiếp)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "Năm tài chính kết thúc ngày 31 tháng 12 năm",
+                "3": "Năm tài chính kết thúc ngày 31 tháng 12 năm"
+            },
+            {
+                "0": "Mã số",
+                "1": "Thuyết minh",
+                "2": "2023 VND",
+                "3": "2022 VND"
+            },
+            {
+                "0": 1,
+                "1": "Lợi nhuận kế toán trước thuếĐiều chỉnh cho các khoản:",
+                "2": "2.829.509.026.240",
+                "3": "2.499.887.080.500"
+            },
+            {
+                "0": 2,
+                "1": "Khấu hao tài sản cố định (\"TSCĐ\")",
+                "2": "1.281.438.946.345",
+                "3": "1.116.509.523.136"
+            },
+            {
+                "0": 3,
+                "1": "Các khoản dự phòng",
+                "2": "132.660.399.876",
+                "3": "41.647.374.431"
+            },
+            {
+                "0": 4,
+                "1": "Lãi chênh lệch tỷ giá hối đoái do đánh giá lạicác khoản mục tiền tệ có gốc ngoại tệ",
+                "2": "(11.989.425.798)",
+                "3": "(15.901.785.305)"
+            },
+            {
+                "0": 5,
+                "1": "Lãi từ hoạt động đầu tư",
+                "2": "(928.996.524.435)",
+                "3": "(836.343.930.375)"
+            },
+            {
+                "0": 6,
+                "1": "Chi phí lãi vay",
+                "2": "450.795.139.387",
+                "3": "371.427.394.591"
+            },
+            {
+                "0": 8,
+                "1": "Lợi nhuận từ hoạt động kinh doanh trước nhữngthay đổi vốn lưu động",
+                "2": "3.753.417.561.615",
+                "3": "3.177.225.656.978"
+            },
+            {
+                "0": 9,
+                "1": "Tăng các khoản phải thu",
+                "2": "(48.161.304.918)",
+                "3": "(73.308.661.885)"
+            },
+            {
+                "0": 10,
+                "1": "Giảm/(tăng) hàng tồn kho",
+                "2": "282.998.000.295",
+                "3": "(372.854.594.054)"
+            },
+            {
+                "0": 11,
+                "1": "Giảm các khoản phải trả",
+                "2": "(597.852.354.537)",
+                "3": "(126.055.867.417)"
+            },
+            {
+                "0": 12,
+                "1": "Giảm/(tăng) chi phí trả trước",
+                "2": "150.909.892.186",
+                "3": "(311.780.199.673)"
+            },
+            {
+                "0": 14,
+                "1": "Tiền lãi vay đã trả",
+                "2": "(436.707.766.496)",
+                "3": "(358.630.570.136)"
+            },
+            {
+                "0": 15,
+                "1": "Thuế TNDN đã nộp",
+                "2": "(344.903.199.346)",
+                "3": "(509.762.730.189)"
+            },
+            {
+                "0": 16,
+                "1": "Tiền thu khác từ hoạt động kinh doanh",
+                "2": "113.000.000",
+                "3": "10.000.000"
+            },
+            {
+                "0": 17,
+                "1": "Tiền chi khác từ hoạt động kinh doanh",
+                "2": "(96.207.250.778)",
+                "3": "(131.282.817.265)"
+            },
+            {
+                "0": 20,
+                "1": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+                "2": "2.663.606.578.021",
+                "3": "1.293.560.216.359"
+            },
+            {
+                "0": 21,
+                "1": "Tiền chi để mua sắm, xây dựng TSCĐ",
+                "2": "(1.703.457.018.748)",
+                "3": "(1.732.328.188.446)"
+            },
+            {
+                "0": 22,
+                "1": "Tiền thu từ thanh lý, nhượng bán TSCĐ",
+                "2": "6.391.294.054",
+                "3": "694.182.774"
+            },
+            {
+                "0": 23,
+                "1": "Tiền chi cho vay",
+                "2": "(15.137.060.000.002)",
+                "3": "(24.240.906.706.753)"
+            },
+            {
+                "0": 24,
+                "1": "Tiền thu hồi cho vay",
+                "2": "13.784.911.034.192",
+                "3": "28.772.288.529.012"
+            },
+            {
+                "0": 25,
+                "1": "Tiền chi đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "(15.000.000.000)"
+            },
+            {
+                "0": 27,
+                "1": "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+                "2": "746.447.925.069",
+                "3": "831.189.680.460"
+            },
+            {
+                "0": 30,
+                "1": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+                "2": "(2.302.766.765.435)",
+                "3": "3.615.937.497.047"
+            },
+            {
+                "0": 33,
+                "1": "Tiền thu từ đi vay",
+                "2": "20.886.078.522.875",
+                "3": "11.363.604.158.580"
+            },
+            {
+                "0": 34,
+                "1": "Tiền chi trả nợ gốc vay",
+                "2": "(20.085.502.821.463)",
+                "3": "(15.891.773.923.180)"
+            },
+            {
+                "0": 36,
+                "1": "Tiền cổ tức, lợi nhuận đã trả cho chủ sở hữu",
+                "2": "(984.658.412.350)",
+                "3": "(328.286.741.750)"
+            },
+            {
+                "0": 40,
+                "1": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                "2": "(184.082.710.938)",
+                "3": "(4.856.456.506.350)"
+            },
+            {
+                "0": 50,
+                "1": "Lưu chuyển tiền thuần trong năm",
+                "2": "176.757.101.648",
+                "3": "53.041.207.056"
+            },
+            {
+                "0": 60,
+                "1": "Tiền và tương đương tiền đầu năm",
+                "2": "3",
+                "3": "97.553.590.241"
+            },
+            {
+                "0": 61,
+                "1": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+                "2": "485.691.894",
+                "3": "(129.341.696)"
+            },
+            {
+                "0": 70,
+                "1": "Tiền và tương đương tiền cuối năm",
+                "2": "3",
+                "3": "274.796.383.783"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_8",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Nguyễn Thị Hồng\nNgười lập\n\nNguyễn Thị Thu Hương\nKế toán trường\n\nNguyên Hoàng Linh\n\nTổng Giám đốc\n\nNgười đại diện theo pháp luật\n\nNgày 4 tháng 3 năm 2024\n\nCác thuyết minh từ trang 9 đến trang 45 là một phần cấu thành báo cáo tài chính riêng này.\n\n8\n\n1/2 * M.S.\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY\n\nCông ty Cổ phần Viễn thông FPT (“Công ty”) là công ty cổ phần được thành lập tại nước CHXHCN Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh số 0103008784 do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp ngày 28 tháng 7 năm 2005. Giấy Chứng nhận Đăng ký Doanh nghiệp số 0101778163 thay đổi gần nhất (lần thứ 32) được cấp ngày 21 tháng 12 năm 2023.\n\nTừ ngày 13 tháng 1 năm 2017, cổ phiếu của Công ty được niêm yết tại Sản giao dịch chứng khoán UpCom với mã giao dịch cổ phiếu là 'FOX'.\n\nHoạt động chính của Công ty là cung cấp các dịch vụ Internet, dịch vụ truyền hình trả tiền, dịch vụ cho thuê đường truyền, dịch vụ lưu trữ dữ liệu và các dịch vụ viễn thông khác.\n\nChu kỳ sản xuất kinh doanh thông thường của Công ty là 12 tháng.\n\nTại ngày 31 tháng 12 năm 2023 và ngày 31 tháng 12 năm 2022, Công ty có 5 công ty con trực thuộc như sau:",
+        "dataframe": [
+            {
+                "0": "Công ty",
+                "1": "Hoạt động chính",
+                "2": "Nơi thành lập,đăng ký hoạt động",
+                "3": "Tại ngày 31.12.2023và 31.12.2022",
+                "4": "Tại ngày 31.12.2023và 31.12.2022"
+            },
+            {
+                "0": "Công ty",
+                "1": "Hoạt động chính",
+                "2": "Nơi thành lập,đăng ký hoạt động",
+                "3": "Tỷ lệsở hữu",
+                "4": "Tỷ lệ quyềnbiểu quyết"
+            },
+            {
+                "0": "1) Công ty CP Dịch vụ Trực tuyến FPT (FOC)",
+                "1": "Cung cấp dịch vụ viễn thông, quảng cáo trực tuyến, báo điện tử, thanh toán điện tử",
+                "2": "Lô 29B – 31B – 33B Đường Tân Thuận, Khu chế xuất Tân Thuận, Phường Tân Thuận Đông, quận 7, Thành phố Hồ Chí Minh",
+                "3": "56,51%",
+                "4": "56,51%"
+            },
+            {
+                "0": "2) Công ty TNHH MTV Viễn thông FPT Tân Thuận (CTTT)",
+                "1": "Cung cấp dịch vụ internet tốc độ cao và các dịch vụ viễn thông khác",
+                "2": "Lô 29B – 31B – 33B Đường Tân Thuận, Khu chế xuất Tân Thuận, Phường Tân Thuận Đông, quận 7, Thành phố Hồ Chí Minh",
+                "3": "100,00%",
+                "4": "100,00%"
+            },
+            {
+                "0": "3) Công ty TNHH MTV Viễn thông Quốc tế FPT (FTI)",
+                "1": "Cung cấp dịch vụ internet, đại lý cung cấp dịch vụ viễn thông và các dịch vụ khác",
+                "2": "Lô 29B – 31B – 33B Đường Tân Thuận, Khu chế xuất Tân Thuận, Phường Tân Thuận Đông, quận 7, Thành phố Hồ Chí Minh",
+                "3": "100,00%",
+                "4": "100,00%"
+            },
+            {
+                "0": "4) Công ty CP Công nghệ Viễn thông FPT (FCN)",
+                "1": "Cung cấp các dịch vụ internet tốc độ cao và các dịch vụ viễn thông khác",
+                "2": "Lô T2-5 Đường D1, Khu Công Nghệ Cao, Phường Tăng Nhơn Phú A, Thủ Đức, Thành phố Hồ Chí Minh",
+                "3": "99,99%",
+                "4": "99,99%"
+            },
+            {
+                "0": "5) Công ty TNHH Truyền hình FPT (FPL)",
+                "1": "Cung cấp các dịch vụ truyền hình",
+                "2": "124 Đường Sương Nguyệt Ánh, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",
+                "3": "100,00%",
+                "4": "100,00%"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_9",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2023, Công ty có 7.765 nhân viên (tại ngày 31 tháng 12 năm 2022: 7.274 nhân viên).\n\n9\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n1 ĐẶC ĐIỀM HOẠT ĐỘNG (TIẾP THEO)\n\nTrình bày về khả năng so sánh thông tin trên báo cáo tài chính riêng:\n\nSố liệu so sánh trình bày trên báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023 là số liệu của báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 đã được kiểm toán.\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU\n\n2.1 Cơ sở của việc lập báo cáo tài chính riêng\n\nBáo cáo tài chính riêng đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Báo cáo tài chính riêng được lập theo nguyên tắc giá gốc.\n\nBáo cáo tài chính riêng kèm theo không nhằm mục đích trình bày tình hình tài chính, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán thường được chấp nhận ở các nước và các thể chế khác ngoài nước Việt Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại nước Việt Nam có thể khác với các nguyên tắc và thông lệ kế toán tại các nước và các thể chế khác.\n\nNgoài ra, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Trong báo cáo tài chính hợp nhất, các công ty con là những công ty mà Công ty kiểm soát các chính sách hoạt động và tài chính, đã được hợp nhất đầy đủ.\n\nNgười sử dụng báo cáo tài chính riêng của Công ty nên đọc cùng với báo cáo tài chính hợp nhất của Công ty và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023 để có đủ thông tin về tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất của Công ty và các công ty con.\n\n2.2 Năm tài chính\n\nNăm tài chính của Công ty bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12.\n\n2.3 Đơn vị tiền tệ sử dụng trong kế toán\n\nCông ty sử dụng đơn vị tiền tệ trong kế toán và trình bày trên báo cáo tài chính riêng là Đồng Việt Nam (“VND” hoặc “Đồng”).\n\n2.4 Các loại tỷ giá hối đoái áp dụng trong kế toán\n\nCác nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá giao dịch thực tế áp dụng tại ngày phát sinh nghiệp vụ. Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh riêng.\n\nTài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày của bằng cân đối kế toán riêng được quy đổi theo tỷ giá chuyển khoản của ngân hàng thương mại nơi Công ty thương xuyên có giao dịch áp dụng tại ngày bằng cân đối kế toán riêng. Chênh lệch tỷ giá phát sinh từ việc quy đổi này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh riêng.\n\n10\n\n\\( \\because {AD} = {AC} = 2 \\)\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)\n\n2.5 Tiền và các khoản tương đương tiền\n\nTiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng không kỳ hạn và các khoản đầu tư ngắn hạn khác có thời hạn đáo hạn ban đầu không quá ba tháng.\n\n2.6 Các khoản phải thu\n\nCác khoản phải thu thể hiện giá trị ghi sổ của các khoản phải thu khách hàng gồm các khoản phải thu mang tính chất thương mại phát sinh từ giao dịch bán hàng hóa, cung cấp dịch vụ; và các khoản phải thu khác không có tính thương mại, không liên quan đến giao dịch bán hàng hóa và cung cấp dịch vụ. Dự phòng các khoản phải thu khó đòi được lập cho từng khoản phải thu căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên), hoặc căn cứ vào mức tổn thất ước tính có thể xáy ra. Các khoản phải thu được xác định là không thể thu hồi sẽ được xóa sổ.\n\nCác khoản phải thu được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản phải thu tại ngày của bằng cân đối kế toán riêng tới ngày đến hạn thu hồi.\n\n2.7 Hàng tồn kho\n\nHàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được xác định trên cơ sở nhập trước xuất trước và bao gồm tất cả các chi phí mua, chi phí chế biến và các chi phí khác có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong nằm tài chính kinh doanh bình thường trừ chi phí ước tính để hoàn thành sản phẩm và chi phí ước tính cần thiết cho việc tiêu thụ.\n\nCông ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.\n\nDự phòng được lập cho hàng tồn kho bị lỗi thời, chậm lưu chuyển và bị hồng. Chênh lệch giữa khoản dự phòng phải lập ở cuối nằm tài chính này và khoản dự phòng đã lập ở cuối năm tài chính trước được ghi nhận tăng hoặc giảm giá vốn hàng bán trong năm tài chính.\n\n2.8 Đầu tư tài chính\n\n(a) Đầu tư nắm giữ đến ngày đáo hạn\n\nCác khoản đầu tư nắm giữ đến ngày đáo hạn là các khoản đầu tư mà Công ty có ý định và có khả năng giữ đến ngày đáo hạn.\n\nCác khoản đầu tư nằm giữ đến ngày đáo hạn bao gồm các khoản tiền gửi ngân hàng có kỳ hạn trên ba tháng. Các khoản đầu tư này ban đầu được ghi nhận theo giá gốc. Sau đó, Công ty thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm tài chính.\n\nDự phòng giảm giá đầu tư nằm giữ đến ngày đáo hạn được lập trên cơ sở có bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được. Chênh lệch giữa khoản dự phòng lập ở cuối năm tài chính này và khoản dự phòng đã lập ở cuối năm tài chính trước được ghi nhận tăng hoặc giảm chỉ phí tài chính trong năm tài chính. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sở ban đầu.\n\n11\n\n\\( \\because {AD} = 1, \\)\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YÊU (TIẾP THEO)\n\n2.8 Đầu tư tài chính (tiếp theo)\n\n(a) Đầu tư nằm giữ đến ngày đáo hạn (tiếp theo)\n\nCác khoản đầu tư nắm giữ đến ngày đáo hạn được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản đầu tư nằm giữ đến ngày đáo hạn tại ngày của bằng cân đối kế toán riêng đến ngày đáo hạn.\n\n(b) Đầu tư vào công ty con\n\nCông ty con là những doanh nghiệp mà Công ty có quyền chi phối các chính sách tài chính và hoạt động của doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó, thường đi kèm là việc nằm giữ hơn một nửa quyền biểu quyết. Sự tồn tại và tính hữu hiệu của quyền biểu quyết tiềm tàng đang được thực thi hoặc được chuyển đổi sẽ được xem xét khi đánh giá liệu Công ty có quyền kiểm soát doanh nghiệp hay không.\n\nĐầu tư vào công ty con được ghi nhận ban đầu theo giá gốc, bao gồm giá trị góp vốn công các chi phí liên quan trực tiếp đến việc đầu tư. Sau đó, Công ty thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm tài chính.\n\n(c) Đầu tư góp vốn vào đơn vị khác\n\nĐầu tư góp vốn vào đơn vị khác là các khoản đầu tư vào công cụ vốn của đơn vị khác những không có quyền kiểm soát hoặc đồng kiểm soát, không có ảnh hưởng đáng kể đối với bên được đầu tư. Các khoản đầu tư này được ghi nhận ban đầu theo giá gốc. Sau đó, Công ty thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm tài chính.\n\n(d) Dự phòng giảm giá đầu tư vào công ty con, đầu tư góp vốn vào đơn vị khác\n\nDự phòng giảm giá đầu tư vào công ty con được lập vào cuối năm tài chính khi có sự giảm giá trị của các khoản đầu tư. Đối với khoản đầu tư vào cổ phiếu niêm yết hoặc giá trị hợp lý khoản đầu tư được xác định tin cây mà Công ty nằm giữ lâu dài, dự phòng được lập khi giá gốc cao hơn giá trị thị trường. Đối với các khoản đầu tư khác, dự phòng giảm giá đầu tư được lập khi Công ty nhận đầu tư bị lỗ.\n\nChênh lệch giữa khoản dự phòng lập ở cuối năm tài chính này và khoản dự phòng đã lập ở cuối năm tài chính trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm tài chính. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.\n\n2.9 Cho vay\n\nCho vay là các khoản cho vay với mục đích thu lãi hàng kỳ theo khế ước giữa các bên nhưng không được giao dịch mua, bán trên thị trường như chứng khoán.\n\nCho vay được ghi nhận ban đầu theo giá gốc. Sau đó, Công ty thực hiện việc rà soát đối với tất cả các khoản còn chưa thu để ghi nhận dự phòng các khoản cho vay khó đòi vào cuối năm tài chính. Dự phòng các khoản cho vay khó đòi được lập cho từng khoản cho vay căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên). Chênh lệch giữa khoản dự phòng lập ở cuối năm tài chính này và khoản dự phòng đã lập ở cuối năm tài chính trước được ghi nhận tăng hoặc giảm chỉ phí tài chính trong năm tài chính. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.\n\n12\n\n1.  \\( \\overline{a} \\)  = 12.  \\( \\overline{b} \\)  = 1.  \\( \\overline{c} \\)  = 0.\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (TIẾP THEO)\n\n2.9 Cho vay (tiếp theo)\n\nCho vay được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản cho vay tại ngày của bằng cân đối kế toán riêng đến ngày tới hạn thu hồi.\n\n2.10 Tài sản cố định (\"TSCĐ\")\n\nTSCĐ hữu hình và TSCĐ vô hình\n\nTSCĐ được phần ánh theo nguyên giá trừ khấu hao lũy kế. Nguyên giá bao gồm các chi phí liên quan trực tiếp đến việc có được TSCĐ ở trạng thái sẵn sàng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên giá TSCĐ nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí sản xuất, kinh doanh trong năm tài chính.\n\nKhâu hao\n\nTSCĐ được khấu hao theo phương pháp đường thẳng để giảm dần giá trị phải khấu hao trong suốt thời gian hữu dụng ước tính. Giá trị phải khấu hao là nguyên giá của TSCĐ ghi trên báo cáo tài chính trừ đi (-) giá trị thanh lý ước tính của tài sản đó. Thời gian hữu dụng ước tính của các loại tài sản như sau:",
+        "dataframe": [
+            {
+                "0": "Nhà cửa, vật kiến trúc",
+                "1": "8 – 25 năm"
+            },
+            {
+                "0": "Máy móc thiết bị",
+                "1": "3 – 15 năm"
+            },
+            {
+                "0": "Thiết bị quản lý",
+                "1": "3 – 10 năm"
+            },
+            {
+                "0": "Phương tiện vận tải",
+                "1": "6 năm"
+            },
+            {
+                "0": "Phần mềm máy tính",
+                "1": "3 – 8 năm"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_10",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Quyền sử dụng đất không có thời hạn được ghi nhận theo nguyên giá và không khấu hao.\n\nGiấy phép bản quyền và quyền khai thác là quyền khai thác các tuyến cấp quốc tế và được phân bổ vào chi phí theo thời hạn ghi trên giấy phép và hợp đồng quyền khai thác.\n\nThanh lý\n\nLãi hoặc lỗ phát sinh do thanh lý, nhượng bán TSCĐ được xác định bằng số chênh lệch giữa số tiền thu thuần do thanh lý với giá trị còn lại của TSCĐ và được ghi nhận là thu nhập hoặc chỉ phí trong báo cáo kết quả hoạt động kinh doanh riêng.\n\nChi phí xây dựng cơ bản đồ dang\n\nChi phí xây dựng cơ bản đồ dang thể hiện giá trị của các tài sản trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê hoặc quản trị, hoặc cho bất kì mục đích nào khác, được ghi nhận theo giá gốc. Khấu hao của những tài sản này, cũng giống như các loại TSCĐ khác, sẽ bất đầu được trích khi tài sản đã sẵn sàng cho mục đích sử dụng.\n\n13\n\n1. 1 (2) 2 (3) 3 (4) 4 (5) 5 (6) 6 (7) 7 (8) 8 (9) 9 (10)\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (TIẾP THEO)\n\n2.11 Thuê tài sản\n\nThuê hoạt động là loại hình thuê TSCĐ mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.\n\n2.12 Chi phí trả trước\n\nChi phí trả trước bao gồm các chi phí trả trước ngắn hạn và chi phí trả trước dài hạn trên bằng cân đối kế toán riêng. Chi phí trả trước ngắn hạn phần ánh số tiền trả trước để được cung cấp dịch vụ; hoặc các công cụ, dụng cụ không thỏa mãn điều kiện ghi nhận TSCĐ trong khoảng thời gian không quá 12 tháng hoặc một chu kỳ sản xuất kinh doanh kể từ ngày trả trước.\n\nChỉ phí trả trước dài hạn chủ yếu bao gồm các chi phí triển khai dịch vụ cho thuê bao mới. Các chi phí trả trước dài hạn được ghi nhận theo giá gốc và phân bổ theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính như sau:\n\n- Vật tư triển khai dịch vụ internet 2,5 năm\n\n- Vật tư triển khai dịch vụ truyền hình 2 năm\n\n- Dịch vụ thuê ngoài triển khai dịch vụ 2 năm\n\n2.13 Nợ phải trả\n\nCác khoản nợ phải trả được phân loại dựa vào tính chất bao gồm:\n\n- Phải trả người bán gồm các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa và dịch vụ; và\n\n- Phải trả khác gồm các khoản phải trả không có tính chất thương mại, không liên quan đến giao dịch mua hàng hóa và dịch vụ.\n\nCác khoản nợ phải trả được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản phải trả tại ngày của bằng cân đối kế toán riêng tới ngày đến hạn thanh toán.\n\n2.14 Vay\n\nVay bao gồm các khoản tiền vay từ các ngân hàng, tổ chức tài chính, công ty tài chính và các đối tượng khác.\n\nCác khoản vay được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản vay tại ngày của bằng cân đối kế toán riêng tới ngày đến hạn thanh toán.\n\n14\n\n\\( \\therefore {S}_{\\Delta APQ} = {S}_{\\Delta AQP} + {S}_{\\Delta QPQ} \\)\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (TIẾP THEO)\n\n2.14 Vay (tiếp theo)\n\nChi phí đi vay liên quan trực tiếp đối với hoạt động xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn sẽ được vốn hóa trong thời gian mà các tài sản này được hoàn thành và chuẩn bị đưa vào sử dụng. Đối với các khoản vay chung trong đó có sử dụng vốn cho mục đích đầu tư xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn thì Công ty xác định chi phí đi vay được vốn hóa theo tỷ lệ vốn hóa đối với chi phí lũy kế bình quân gia quyền phát sinh cho việc đầu tư xây dựng cơ bản hoặc sản xuất tài sản đủ tiêu chuẩn đó. Tỷ lệ vốn hóa được tính theo tỷ lệ lãi suất bình quân gia quyền của các khoản vay chưa trả trong kỳ, trừ các khoản vay riêng biệt phục vụ cho mục đích hình thành một tài sản cụ thể. Chi phí đi vay khác được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.\n\n2.15 Chi phí phải trả\n\nChi phí phải trả bao gồm các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán trong năm tài chính nhưng thực tế chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán. Chi phí phải trả được ghi nhận vào chi phí sản xuất kinh doanh của năm tài chính.\n\n2.16 Các khoản dự phòng\n\nCác khoản dự phòng được ghi nhận khi Công ty có nghĩa vụ nợ hiện tại, pháp lý hoặc liên đối, phát sinh từ các sự kiện đã xảy ra; việc thanh toán nghĩa vụ nợ có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh tế và giá trị của nghĩa vụ nợ đó được ước tính một cách đáng tin cây. Dự phòng không được ghi nhận cho các khoản lỗ hoạt động trong tương lai.\n\nDự phòng được tính trên cơ sở các khoản chi phí dự tính phải thanh toán nghĩa vụ nợ. Nếu ảnh hưởng về giá trị thời gian của tiền là trọng yếu thì dự phòng được tính trên cơ sở giá trị hiện tại với tỷ lệ chiết khấu trước thuế và phần ánh những đánh giá trên thị trường hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó. Giá trị tăng lên do ảnh hưởng của yếu tố thời gian được ghi nhận là chi phí tài chính. Chênh lệch giữa khoản dự phòng lập ở cuối năm tài chính này và khoản dự phòng đã lập chưa sử dụng ở cuối năm tài chính trước được ghi nhận tăng hoặc giảm chi phí sản xuất, kinh doanh trong năm tài chính.\n\n2.17 Dụ phòng trợ cấp thời việc\n\nTheo Luật Lao động Việt Nam, người lao động của Công ty đã làm việc thường xuyên đủ 12 tháng trở lên được hưởng khoản trợ cấp thời việc. Thời gian làm việc để tính trợ cấp thời việc là tổng thời gian người lao động đã làm việc thực tế cho Công ty trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và thời gian làm việc đã được Công ty chỉ trả trợ cấp thời việc. Trợ cấp thời việc của người lao động được trích trước cuối mỗi năm tài chính theo tỷ lệ bằng một nửa mức lương bình quân tháng cho mỗi năm làm việc. Mức lương bình quân tháng để tính trợ cấp thời việc dựa trên mức lương bình quân theo hợp đồng lao động của sâu tháng gần nhất tính đến trước ngày lập bằng cân đối kế toán riêng này. Khoản trích trước này được sử dụng để trả một lần khi người lao động chấm dứt hợp đồng lao động theo quy định hiện hành.\n\nCông ty không ghi nhận khoản dự phòng trợ cấp thời việc nếu trên do áp dụng Thông tư số 180/2012/TT-BTC của Bộ Tài chính ban hành ngày 24 tháng 10 năm 2012. Công ty ghi nhận vào chi phí trong năm tài chính khi thực trả trợ cấp thời việc cho người lao động.\n\n15\n\n\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)\n\n2.18 Doanh thu chưa thực hiện\n\nDoanh thu chưa thực hiện là khoản doanh thu nhận trước cho một hoặc nhiều năm tài chính, chủ yếu bao gồm các khoản khách hàng trả trước tiền cước dịch vụ viễn thông trong nhiều kỳ tính cước. Công ty ghi nhận các khoản doanh thu chưa thực hiện tương ứng với phần nghĩa vụ mà Công ty sẽ phải thực hiện trong tương lai. Khi các điều kiện ghi nhận doanh thu được thỏa mãn, doanh thu chưa thực hiện sẽ được ghi nhận vào báo cáo kết quả hoạt động kinh doanh trong năm tài chính tương ứng với phần thỏa mãn điều kiện ghi nhận doanh thu đó.\n\n2.19 Vốn chủ sở hữu\n\nVốn góp chủ sở hữu được ghi nhận theo số thực tế góp của các cổ đông và được phần ánh theo mênh giá của cổ phiếu.\n\nLNST chưa phân phối phần ánh kết quả kinh doanh sau thuế TNDN của Công ty tại thời điểm báo cáo.\n\n2.20 Phân chia lợi nhuận\n\nCổ tức của Công ty được ghi nhận là một khoản phải trả tại ngày chốt quyền nhận cổ tức của cổ đông.\n\nLNST TNDN có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt và sau khi đã trích lập các quỹ theo điều lệ của Công ty và các quy định của pháp luật Việt Nam.\n\nCông ty trích lập các quỹ sau:\n\n(a) Quỹ đầu tư phát triển\n\nQuỹ đầu tư phát triển được trích lập từ LNST TNDN của Công ty và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông. Quỹ được sử dụng để cung cấp nguồn vốn cho các dự án phát triển của Công ty.\n\n(b) Quỹ khen thường, phúc lợi\n\nQuỹ khen thưởng, phúc lợi được trích lập từ LNST TNDN của Công ty và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông. Quỹ được trình bày là một khoản phải trả trên bằng cân đối kế toán riêng. Quỹ được sử dụng để khen thưởng, cải thiện và nâng cao đời sống người lao động.\n\n16\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)\n\n2.21 Ghi nhận doanh thu\n\n(a) Doanh thu bán hàng\n\nDoanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:\n\n- Công ty đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;\n\n- Công ty không còn nằm giữ quyền quản lý sản phẩm hoặc hàng hóa như người sở hữu sản phẩm hoặc hàng hóa, hoặc quyền kiểm soát sản phẩm hoặc hàng hóa;\n\n- Doanh thu được xác định tương đối chắc chắn;\n\n• Công ty sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và\n\n• Xác định được chi phí liên quan đến giao dịch bán hàng.\n\nDoanh thu không được ghi nhận khi có yếu tố không chắc chắn mang tính trọng yếu về khả năng thu được tiền bán hàng hoặc khả năng hàng bán bị trả lại.\n\nDoanh thu được ghi nhận phù hợp với bản chất hơn hình thức và được phân bổ theo nghĩa vụ cung ứng hàng hóa.\n\n(b) Doanh thu cung cấp dịch vụ\n\nDoanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi dịch vụ đã được cung cấp, bằng cách tính mức độ hoàn thành của từng giao dịch, dựa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung cấp so với tổng khối lượng dịch vụ phải cung cấp. Doanh thu cung cấp dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn (4) điều kiện sau:\n\n- Doanh thu được xác định tương đối chắc chắn;\n\n• Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;\n\n- Xác định được phần công việc đã hoàn thành tại ngày của bằng cân đối kế toán; và\n\n- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.\n\n(c) Thu nhập lãi\n\nTiền lãi được ghi nhận trên cơ sở thời gian và lãi suất thực tế từng kỳ khi thỏa mãn đồng thời hai (2) điều kiện:\n\n• Có khả năng thu được lợi ích kinh tế từ giao dịch đó; và\n\n- Thu nhập được xác định tương đối chắc chắn.\n\n(d) Thu nhập từ cổ tức\n\nThu nhập từ cổ tức được ghi nhận khi Công ty xác lập quyền nhận cổ tức từ các đơn vị đầu tư.\n\n17\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (TIẾP THEO)\n\n2.22 Các khoản giảm trừ doanh thu\n\nCác khoản giảm trừ doanh thu bao gồm chiết khấu thương mại, hàng bán bị trả lại và giảm giá hàng bán. Các khoản giảm trừ doanh thu phát sinh cùng năm tiêu thụ sản phẩm, hàng hóa, dịch vụ được ghi nhận điều chỉnh giảm doanh thu năm.\n\nCác khoản giảm trừ doanh thu đối với sản phẩm, hàng hóa, dịch vụ tiêu thụ trong năm, phát sinh sau ngày của bằng cân đối kế toán riêng nhưng trước thời điểm phát hành báo cáo tài chính riêng được ghi nhận điều chỉnh giảm doanh thu của năm lập báo cáo.\n\n2.23 Giá vốn hàng bán và dịch vụ cung cấp\n\nGiá vốn hàng bán và dịch vụ cung cấp là tổng chi phí phát sinh của hàng hóa, vật tư xuất bán trong năm và dịch vụ cung cấp cho khách hàng trong năm, được ghi nhận theo nguyên tắc phù hợp với doanh thu và nguyên tắc thận trọng.\n\n2.24 Chi phí tài chính\n\nChi phí tài chính phần ánh những khoản chi phí hoạt động tài chính phát sinh trong năm, chủ yếu bao gồm các khoản lỗ do chênh lệch tỷ giá hối đoái và chi phí lãi vay.\n\n2.25 Chi phí bán hàng\n\nChi phí bán hàng phần ánh các chi phí thực tế phát sinh trong quá trình bán sản phẩm, hàng hóa và cung cấp dịch vụ của Công ty.\n\n2.26 Chi phí quản lý doanh nghiệp\n\nChi phí quản lý doanh nghiệp phần ánh các chi phí thực tế phát sinh trong quá trình quản lý chung của Công ty.\n\n2.27 Thuế thu nhập doanh nghiệp hiện hành và thuế thu nhập doanh nghiệp hoãn lại\n\nThuế thu nhập doanh nghiệp (“TNDN”) bao gồm toàn bộ số thuế TNDN tính trên thu nhập chịu thuế TNDN. Chi phí thuế TNDN bao gồm chi phí thuế TNDN hiện hành và chi phí thuế TNDN hoãn lại.\n\nThuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế và thuế suất thuế TNDN của năm tài chính hiện hành. Thuế TNDN hiện hành và thuế TNDN hoãn lại được ghi nhận là thu nhập hay chi phí khi xác định lợi nhuận hoặc lỗ của năm tài chính phát sinh, ngoại trừ trường hợp thuế TNDN phát sinh từ một giao dịch hoặc sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng năm tài chính hay một năm tài chính khác.\n\nThuế TNDN hoãn lại được tính đầy đủ dựa trên các khoản chênh lệch tạm thời giữa giá trị ghi số của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính riêng và cơ sở tính thuế TNDN của các khoản mục này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế TNDN hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch mà giao dịch này không phải là giao dịch sáp nhập doanh nghiệp, không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tính thuế TNDN tại thời điểm phát sinh giao dịch. Thuế TNDN hoãn lại được tính theo thuế suất dự tính được áp dụng trong niên độ mà tài sản được thu hồi hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu lực tại ngày của bằng cân đối kế toán riêng.\n\n18\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÊU (TIẾP THEO)\n\n2.27 Thuế thu nhập doanh nghiệp hiện hành và thuế thu nhập doanh nghiệp hoãn lại (tiếp theo)\n\nTài sản thuế TNDN hoãn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế TNDN trong tương lai để sử dụng những chênh lệch tạm thời được khấu trừ.\n\n2.28 Các bên liên quan\n\nCác doanh nghiệp, các cá nhân là các bên liên quan của Công ty khi trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Công ty hoặc chịu sự kiểm soát của Công ty, hoặc cùng chung sự kiểm soát với Công ty, bao gồm cả công ty mẹ, công ty con và công ty trong cùng tập đoàn là các bên liên quan. Các bên liên kết, các cá nhân trực tiếp hoặc gián tiếp nằm quyền biểu quyết của Công ty mà có ảnh hưởng đáng kể đối với Công ty, những cá nhân quản lý chủ chất bao gồm Hội đồng Quản trị, Ban Tổng Giám đốc của Công ty, những thành viên mật thiết trong gia đình của các cá nhân này hoặc các bên liên kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan.\n\nTrong việc xem xét từng mối quan hệ của các bên liên quan, Công ty căn cứ vào bản chất của mối quan hệ chú không chỉ hình thức pháp lý của các quan hệ đó.\n\n2.29 Báo cáo bộ phận\n\nMột bộ phận là một hợp phần có thể xác định riêng biệt của Công ty tham gia vào việc bán hàng hoặc cung cấp dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc bán hàng hoặc cung cấp dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo khu vực địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Báo cáo bộ phận cơ bản của Công ty là dựa theo bộ phận chia theo hoạt động kinh doanh hoặc theo khu vực địa lý.\n\n2.30 U'óc tính kế toán trọng yếu\n\nViệc lập báo cáo tài chính riêng tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về nợ phải trả, tài sản và việc trình bày các khoản nợ phải trả và tài sản tiềm tàng tại ngày kết thúc năm tài chính cũng như các số liệu về doanh thu và chi phí trong suốt năm tài chính. Các ước tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính riêng bao gồm:\n\n• Uốc tính dự phòng phải thu khó đòi (Thuyết minh 2.6 và 8);\n\n• Uốc tính dự phòng giảm giá hàng tồn kho (Thuyết minh 2.7 và 9);\n\n• U'óc tính thời gian sử dụng hữu ích của TSCĐ (Thuyết minh 2.10 và 11); và\n\n• U'óc tính chi phí thuế TNDN (Thuyết minh 30).\n\nCác ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khú và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính riêng của Công ty và được Ban Tổng Giám đốc đánh giá là hợp lý.\n\n19\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n3 TIỀN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIỀN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023VND",
+                "2": "31.12.2022VND"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "66.469.696.196",
+                "2": "97.090.949.782"
+            },
+            {
+                "0": "Các khoản tương đương tiền (*)",
+                "1": "208.326.687.587",
+                "2": "462.640.459"
+            },
+            {
+                "0": "",
+                "1": "274.796.383.783",
+                "2": "97.553.590.241"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_11",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Các khoản tương đương tiền chủ yếu bao gồm các khoản tiền gửi có kỳ hạn dưới ba tháng tại các ngân hàng thương mại tại Việt Nam. Lãi suất các khoản tiền gửi được quy định cụ thể cho từng hợp đồng tiền gửi.\n\n4 ĐẦU TƯ TÀI CHÍNH\n\n(a) Đầu tư nấm giữ đến ngày đáo hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "31.12.2023",
+                "3": "31.12.2023",
+                "4": "31.12.2022",
+                "5": "31.12.2022"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Giá gốc VND",
+                "3": "Giá trị ghi sở VND",
+                "4": "Giá gốc VND",
+                "5": "Giá trị ghi sở VND"
+            },
+            {
+                "0": "i.",
+                "1": "Ngắn hạn",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "i.",
+                "1": "Tiền gửi có kỳ hạn",
+                "2": "100.000.000",
+                "3": "100.000.000",
+                "4": "100.000.000",
+                "5": "100.000.000"
+            },
+            {
+                "0": "ii.",
+                "1": "Dài hạn",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "ii.",
+                "1": "Tiền gửi có kỳ hạn",
+                "2": "200.000.000",
+                "3": "200.000.000",
+                "4": "200.000.000",
+                "5": "200.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_12",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "20\n\n\n\nL L L L L L L L L L L L L L L L L L\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n4 ĐẦU TƯ TÀI CHÍNH (TIẾP THEO)\n\n(b) Đầu tư góp vốn vào đơn vị khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023",
+                "2": "31.12.2023",
+                "3": "31.12.2023",
+                "4": "31.12.2022",
+                "5": "31.12.2022",
+                "6": "31.12.2022"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc VND",
+                "2": "Giá trị hợp lý VND",
+                "3": "Dự phòng VND",
+                "4": "Giá gốc VND",
+                "5": "Giá trị hợp lý VND",
+                "6": "Dự phòng VND"
+            },
+            {
+                "0": "Đầu tư vào công ty con Bao gồm:- Công ty CP Dịch vụ Trục tuyến FPT (*)- Công ty TNHH MTV Viễn thông FPT Tân Thuận- Công ty TNHH MTV Viễn thông Quốc tế FPT- Công ty CP Công nghệ Viễn thông FPT- Công ty TNHH Truyền hình FPT",
+                "1": "495.226.317.955",
+                "2": "(**)",
+                "3": "-",
+                "4": "495.226.317.955",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Đầu tư vào công ty con Bao gồm:- Công ty CP Dịch vụ Trục tuyến FPT (*)- Công ty TNHH MTV Viễn thông FPT Tân Thuận- Công ty TNHH MTV Viễn thông Quốc tế FPT- Công ty CP Công nghệ Viễn thông FPT- Công ty TNHH Truyền hình FPT",
+                "1": "104.228.317.955",
+                "2": "707.859.396.000",
+                "3": "-",
+                "4": "104.228.317.955",
+                "5": "1.119.042.427.500",
+                "6": "-"
+            },
+            {
+                "0": "Đầu tư vào công ty con Bao gồm:- Công ty CP Dịch vụ Trục tuyến FPT (*)- Công ty TNHH MTV Viễn thông FPT Tân Thuận- Công ty TNHH MTV Viễn thông Quốc tế FPT- Công ty CP Công nghệ Viễn thông FPT- Công ty TNHH Truyền hình FPT",
+                "1": "70.000.000.000",
+                "2": "(**)",
+                "3": "-",
+                "4": "70.000.000.000",
+                "5": "(**)",
+                "6": "-"
+            },
+            {
+                "0": "Đầu tư vào công ty con Bao gồm:- Công ty CP Dịch vụ Trục tuyến FPT (*)- Công ty TNHH MTV Viễn thông FPT Tân Thuận- Công ty TNHH MTV Viễn thông Quốc tế FPT- Công ty CP Công nghệ Viễn thông FPT- Công ty TNHH Truyền hình FPT",
+                "1": "30.000.000.000",
+                "2": "(**)",
+                "3": "-",
+                "4": "30.000.000.000",
+                "5": "(**)",
+                "6": "-"
+            },
+            {
+                "0": "Đầu tư vào công ty con Bao gồm:- Công ty CP Dịch vụ Trục tuyến FPT (*)- Công ty TNHH MTV Viễn thông FPT Tân Thuận- Công ty TNHH MTV Viễn thông Quốc tế FPT- Công ty CP Công nghệ Viễn thông FPT- Công ty TNHH Truyền hình FPT",
+                "1": "275.998.000.000",
+                "2": "(**)",
+                "3": "-",
+                "4": "275.998.000.000",
+                "5": "(**)",
+                "6": "-"
+            },
+            {
+                "0": "Đầu tư vào công ty con Bao gồm:- Công ty CP Dịch vụ Trục tuyến FPT (*)- Công ty TNHH MTV Viễn thông FPT Tân Thuận- Công ty TNHH MTV Viễn thông Quốc tế FPT- Công ty CP Công nghệ Viễn thông FPT- Công ty TNHH Truyền hình FPT",
+                "1": "15.000.000.000",
+                "2": "(**)",
+                "3": "-",
+                "4": "15.000.000.000",
+                "5": "(**)",
+                "6": "-"
+            },
+            {
+                "0": "Đầu tư góp vốn vào đơn vị khác- Công ty Cổ phần Quản lý Quỹ đầu tư FPT",
+                "1": "6.000.000.000",
+                "2": "(**)",
+                "3": "-",
+                "4": "6.000.000.000",
+                "5": "(**)",
+                "6": "-"
+            },
+            {
+                "0": "Đầu tư góp vốn vào đơn vị khác- Công ty Cổ phần Quản lý Quỹ đầu tư FPT",
+                "1": "6.000.000.000",
+                "2": "(**)",
+                "3": "-",
+                "4": "6.000.000.000",
+                "5": "(**)",
+                "6": "-"
+            },
+            {
+                "0": "Đầu tư góp vốn vào đơn vị khác- Công ty Cổ phần Quản lý Quỹ đầu tư FPT",
+                "1": "501.226.317.955",
+                "2": "(**)",
+                "3": "-",
+                "4": "501.226.317.955",
+                "5": "(**)",
+                "6": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_13",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Giá trị hợp lý của các khoản đầu tư này được xác định trên cơ sở giá đóng cửa trên sản giao dịch chứng khoán và số lượng cổ phiếu mà Công ty đang nằm giữ tại ngày kết thúc năm tài chính.\n\n(**) Trình bày giá trị hợp lý: Công ty chưa xác định được giá trị hợp lý của các khoản đầu tư tài chính này để thuyết minh trên báo cáo tài chính riêng vì các khoản đầu tư này không có giá niêm yết trên thị trường. Giá trị hợp lý của các khoản đầu tư này có thể khác với giá trị ghi sổ.\n\n21\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n5 PHÀI THU NGẮN HẠN CỦA KHÁCH HÀNG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023VND",
+                "2": "31.12.2022VND"
+            },
+            {
+                "0": "Bên thứ ba (*)",
+                "1": "1.301.664.718.695",
+                "2": "1.049.003.380.501"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 33(b))",
+                "1": "539.106.367.519",
+                "2": "560.555.599.563"
+            },
+            {
+                "0": "",
+                "1": "1.840.771.086.214",
+                "2": "1.609.558.980.064"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_14",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Tại ngày 31 tháng 12 năm 2023 và ngày 31 tháng 12 năm 2022, không có khách hàng bên thứ ba nào có số dư chiếm hơn 10% trên tổng số dư các khoản phải thu ngắn hạn của khách hàng.\n\n6 PHẢI THU VỀ CHO VAY NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023VND",
+                "2": "31.12.2022VND"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 33(b))",
+                "1": "7.054.329.711.180",
+                "2": "5.702.180.745.370"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_15",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Số dư bao gồm các khoản cho vay công ty con có thời hạn đáo hạn dưới 12 tháng, không có tài sản đảm bảo, với lãi suất được quy định theo từng hợp đồng vay.\n\n7 PHÀI THU NGĂN HẠN KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023VND",
+                "2": "31.12.2022VND"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 33(b))",
+                "1": "644.279.699.686",
+                "2": "521.715.463.549"
+            },
+            {
+                "0": "Bao gồm:",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "- Cổ tức và lợi nhuận được chia",
+                "1": "388.597.575.603",
+                "2": "193.646.368.417"
+            },
+            {
+                "0": "- Các khoản chỉ hộ cho bên liên quanvà thu hộ bởi bên liên quan",
+                "1": "202.256.808.485",
+                "2": "288.487.788.965"
+            },
+            {
+                "0": "- Lãi cho vay",
+                "1": "53.425.315.598",
+                "2": "39.581.306.167"
+            },
+            {
+                "0": "Bên thứ ba",
+                "1": "8.298.645.232",
+                "2": "15.593.628.175"
+            },
+            {
+                "0": "",
+                "1": "652.578.344.918",
+                "2": "537.309.091.724"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_16",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "22\n\n1 1 0 i ∽ 1m/d;\n\n\n\n[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n8 NỘ KHÓ ĐỜI",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023",
+                "2": "31.12.2023",
+                "3": "31.12.2023"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc VND",
+                "2": "Giá trị có thể thu hồi VND",
+                "3": "Dự phòng VND"
+            },
+            {
+                "0": "Tổng giá trị các khoản phải thu quá hạn thanh toán khó có khả năng thu hồi Trong đó:- Công ty Cổ phần Sâm Ngọc Linh Kon Tum",
+                "1": "569.988.695.818",
+                "2": "1.236.197.688",
+                "3": "568.752.498.130"
+            },
+            {
+                "0": "Tổng giá trị các khoản phải thu quá hạn thanh toán khó có khả năng thu hồi Trong đó:- Công ty Cổ phần Sâm Ngọc Linh Kon Tum",
+                "1": "62.920.000.000",
+                "2": "-",
+                "3": "62.920.000.000"
+            },
+            {
+                "0": "",
+                "1": "31.12.2022",
+                "2": "31.12.2022",
+                "3": "31.12.2022"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc VND",
+                "2": "Giá trị có thể thu hồi VND",
+                "3": "Dự phòng VND"
+            },
+            {
+                "0": "Tổng giá trị các khoản phải thu quá hạn thanh toán khó có khả năng thu hồi",
+                "1": "446.318.594.688",
+                "2": "28.761.603.397",
+                "3": "417.556.991.291"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_17",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "9 HÀNG TỔN KHO",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023",
+                "2": "31.12.2023",
+                "3": "31.12.2022",
+                "4": "31.12.2022"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc VND",
+                "2": "Dự phòng VND",
+                "3": "Giá gốc VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Hàng mua đang đi trên đường",
+                "1": "57.128.979.044",
+                "2": "-",
+                "3": "88.839.497.430",
+                "4": "-"
+            },
+            {
+                "0": "Nguyên vật liệu",
+                "1": "638.121.906.470",
+                "2": "(16.797.484.252)",
+                "3": "823.959.201.911",
+                "4": "(35.332.591.215)"
+            },
+            {
+                "0": "Công cụ, dụng cụ",
+                "1": "13.697.596.404",
+                "2": "-",
+                "3": "58.937.519.832",
+                "4": "-"
+            },
+            {
+                "0": "Hàng hóa",
+                "1": "36.840.585.953",
+                "2": "-",
+                "3": "57.050.848.993",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "745.789.067.871",
+                "2": "(16.797.484.252)",
+                "3": "1.028.787.068.166",
+                "4": "(35.332.591.215)"
+            },
+            {
+                "0": "Dự phòng giảm giá hàng tồn kho",
+                "1": "(16.797.484.252)",
+                "2": "",
+                "3": "(35.332.591.215)",
+                "4": ""
+            },
+            {
+                "0": "",
+                "1": "728.991.583.619",
+                "2": "",
+                "3": "993.454.476.951",
+                "4": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_18",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Biến động về dự phòng giảm giá hàng tồn kho trong năm tài chính như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2023VND",
+                "2": "2022VND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "35.332.591.215",
+                "2": "54.607.140.942"
+            },
+            {
+                "0": "Hoàn nhập dự phòng (Thuyết minh 25)",
+                "1": "(18.535.106.963)",
+                "2": "(19.274.549.727)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "16.797.484.252",
+                "2": "35.332.591.215"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_19",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "23\n\n∴ x = √2 / √1;\n\n\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n10 CHI PHÍ TRÀ TRƯỚC\n\n(a) Ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "31.12.2023VND",
+                "3": "31.12.2022VND"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "31.12.2023VND",
+                "3": "31.12.2022VND"
+            },
+            {
+                "0": "(b)",
+                "1": "Chi phí thuê (bản quyền, văn phòng, kênh,đường truyền, cấp quang)",
+                "2": "91.820.229.363",
+                "3": "92.115.687.632"
+            },
+            {
+                "0": "(b)",
+                "1": "Khác",
+                "2": "32.327.788.891",
+                "3": "33.363.257.864"
+            },
+            {
+                "0": "(b)",
+                "1": "",
+                "2": "124.148.018.254",
+                "3": "125.478.945.496"
+            },
+            {
+                "0": "(b)",
+                "1": "Dài hạn",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "(b)",
+                "1": "",
+                "2": "31.12.2023VND",
+                "3": "31.12.2022VND"
+            },
+            {
+                "0": "(b)",
+                "1": "Chi phí triển khai dịch vụ cho thuêbao mới (*)",
+                "2": "1.611.745.683.907",
+                "3": "1.702.047.122.673"
+            },
+            {
+                "0": "(b)",
+                "1": "Chi phí thuê văn phòng",
+                "2": "210.117.647.044",
+                "3": "215.647.058.812"
+            },
+            {
+                "0": "(b)",
+                "1": "Khác",
+                "2": "122.232.793.592",
+                "3": "175.980.908.002"
+            },
+            {
+                "0": "(b)",
+                "1": "",
+                "2": "1.944.096.124.543",
+                "3": "2.093.675.089.487"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_20",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Chi phí triển khai dịch vụ cho thuê bao mới bao gồm các chi phí thiết bị, vật tư, chi phí dịch vụ thuê ngoài để lắp đặt, triển khai dịch vụ internet, dịch vụ truyền hình cho khách hàng mới. Các chi phí này được ghi nhận ban đầu là chi phí trả trước dài hạn và được phân bổ dẫn vào báo cáo kết quả kinh doanh theo thời gian hữu dụng ước tính (Thuyết minh 2.12).\n\n24\n\n\n\nThe image contains a row of identical, stylized, 3D rectangular blocks arranged in a row. There is no text or mathematical content to extract.\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n11 TÀI SẢN CỐ ĐỊNH (\"TSCĐ\")\n\n(a) TSCĐ hữu hình",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nhà cửa,vật kiến trúcVND",
+                "2": "Máy móc,thiết bịVND",
+                "3": "Thiết bịquản lýVND",
+                "4": "Phương tiệnvận tảiVND",
+                "5": "Tổng cộngVND"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá",
+                "3": "Nguyên giá",
+                "4": "Nguyên giá",
+                "5": "Nguyên giá"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2023",
+                "1": "104.220.790.581",
+                "2": "10.429.994.422.723",
+                "3": "91.856.146.811",
+                "4": "13.752.023.259",
+                "5": "10.639.823.383.374"
+            },
+            {
+                "0": "Mua trong năm",
+                "1": "811.200.000",
+                "2": "559.117.126.688",
+                "3": "1.813.034.862",
+                "4": "2.518.522.727",
+                "5": "564.259.884.277"
+            },
+            {
+                "0": "Chuyển sang từ chi phí xây dựngcơ bản đồ dang",
+                "1": "-",
+                "2": "1.118.417.199.839",
+                "3": "-",
+                "4": "-",
+                "5": "1.118.417.199.839"
+            },
+            {
+                "0": "Phân loại lại",
+                "1": "1.062.423.833",
+                "2": "52.544.319.993",
+                "3": "(51.647.812.927)",
+                "4": "(893.007.066)",
+                "5": "1.065.923.833"
+            },
+            {
+                "0": "Thanh lý, xóa sổ",
+                "1": "-",
+                "2": "(253.582.398.538)",
+                "3": "(4.708.166.288)",
+                "4": "(1.353.636.364)",
+                "5": "(259.644.201.190)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2023",
+                "1": "106.094.414.414",
+                "2": "11.906.490.670.705",
+                "3": "37.313.202.458",
+                "4": "14.023.902.556",
+                "5": "12.063.922.190.133"
+            },
+            {
+                "0": "Giá trị khấu hao lũy kế",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "Giá trị khấu hao lũy kế",
+                "3": "Giá trị khấu hao lũy kế",
+                "4": "Giá trị khấu hao lũy kế",
+                "5": "Giá trị khấu hao lũy kế"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2023",
+                "1": "(28.347.843.382)",
+                "2": "(5.651.072.240.954)",
+                "3": "(88.512.635.419)",
+                "4": "(8.377.134.918)",
+                "5": "(5.776.309.854.673)"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "(4.402.988.681)",
+                "2": "(1.186.422.152.206)",
+                "3": "(1.420.902.100)",
+                "4": "(1.791.460.163)",
+                "5": "(1.194.037.503.150)"
+            },
+            {
+                "0": "Phân loại lại",
+                "1": "-",
+                "2": "(52.544.319.993)",
+                "3": "51.647.812.927",
+                "4": "893.007.066",
+                "5": "(3.500.000)"
+            },
+            {
+                "0": "Thanh lý, xóa sổ",
+                "1": "-",
+                "2": "221.520.296.428",
+                "3": "4.707.189.226",
+                "4": "1.353.636.364",
+                "5": "227.581.122.018"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2023",
+                "1": "(32.750.832.063)",
+                "2": "(6.668.518.416.725)",
+                "3": "(33.578.535.366)",
+                "4": "(7.921.951.651)",
+                "5": "(6.742.769.735.805)"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại",
+                "3": "Giá trị còn lại",
+                "4": "Giá trị còn lại",
+                "5": "Giá trị còn lại"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2023",
+                "1": "75.872.947.199",
+                "2": "4.778.922.181.769",
+                "3": "3.343.511.392",
+                "4": "5.374.888.341",
+                "5": "4.863.513.528.701"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2023",
+                "1": "73.343.582.351",
+                "2": "5.237.972.253.980",
+                "3": "3.734.667.092",
+                "4": "6.101.950.905",
+                "5": "5.321.152.454.328"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_21",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Nguyên giá TSCĐ hữu hình của Công ty tại ngày 31 tháng 12 năm 2023 đã khấu hao hết nhưng vẫn còn sử dụng là 3.321.228.084.620 Đồng (tại ngày 31 tháng 12 năm 2022: 2.892.808.267.461 Đồng).\n\n25\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n11 TÀI SẢN CỐ ĐỊNH (\"TSCĐ\") (TIẾP THEO)\n\n(b) TSCĐ vô hình",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Quyền sử dụng đất VND",
+                "2": "Giấy phép bản quyền và quyền khai thác VND",
+                "3": "Phần mềm vi tính VND",
+                "4": "Tổng cộng VND"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá",
+                "3": "Nguyên giá",
+                "4": "Nguyên giá"
+            },
+            {
+                "0": "Tại ngày 1.1.2023",
+                "1": "163.558.151.413",
+                "2": "753.927.547.130",
+                "3": "175.650.768.897",
+                "4": "1.093.136.467.440"
+            },
+            {
+                "0": "Mua trong năm",
+                "1": "25.113.193.868",
+                "2": "2.435.072.107",
+                "3": "2.653.542.140",
+                "4": "30.201.808.115"
+            },
+            {
+                "0": "Phân loại lại",
+                "1": "(1.062.423.833)",
+                "2": "-",
+                "3": "(3.500.000)",
+                "4": "(1.065.923.833)"
+            },
+            {
+                "0": "Thanh lý, xóa sồ",
+                "1": "-",
+                "2": "-",
+                "3": "(236.367.186)",
+                "4": "(236.367.186)"
+            },
+            {
+                "0": "Giảm khác",
+                "1": "(2.400.000.000)",
+                "2": "-",
+                "3": "-",
+                "4": "(2.400.000.000)"
+            },
+            {
+                "0": "Tại ngày 31.12.2023",
+                "1": "185.208.921.448",
+                "2": "756.362.619.237",
+                "3": "178.064.443.851",
+                "4": "1.119.635.984.536"
+            },
+            {
+                "0": "Giá trị khấu hao lũy kế",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "Giá trị khấu hao lũy kế",
+                "3": "Giá trị khấu hao lũy kế",
+                "4": "Giá trị khấu hao lũy kế"
+            },
+            {
+                "0": "Tại ngày 1.1.2023",
+                "1": "-",
+                "2": "(376.593.920.234)",
+                "3": "(101.459.285.731)",
+                "4": "(478.053.205.965)"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "-",
+                "2": "(53.652.355.585)",
+                "3": "(33.749.087.610)",
+                "4": "(87.401.443.195)"
+            },
+            {
+                "0": "Phân loại lại",
+                "1": "-",
+                "2": "-",
+                "3": "3.500.000",
+                "4": "3.500.000"
+            },
+            {
+                "0": "Thanh lý, xóa sồ",
+                "1": "-",
+                "2": "-",
+                "3": "236.367.186",
+                "4": "236.367.186"
+            },
+            {
+                "0": "Tại ngày 31.12.2023",
+                "1": "-",
+                "2": "(430.246.275.819)",
+                "3": "(134.968.506.155)",
+                "4": "(565.214.781.974)"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại",
+                "3": "Giá trị còn lại",
+                "4": "Giá trị còn lại"
+            },
+            {
+                "0": "Tại ngày 1.1.2023",
+                "1": "163.558.151.413",
+                "2": "377.333.626.896",
+                "3": "74.191.483.166",
+                "4": "615.083.261.475"
+            },
+            {
+                "0": "Tại ngày 31.12.2023",
+                "1": "185.208.921.448",
+                "2": "326.116.343.418",
+                "3": "43.095.937.696",
+                "4": "554.421.202.562"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_22",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Nguyên giá TSCĐ vô hình của Công ty tại ngày 31 tháng 12 năm 2023 đã khấu hao hết nhưng vẫn còn sử dụng là 81.425.219.631 Đồng (tại ngày 31 tháng 12 năm 2022: 58.390.171.999 Đồng).\n\n12 CHI PHÍ XÂY DỰNG CƠ BẢN DỒ DANG\n\nSố dư chi phí xây dựng cơ bản đồ dang theo từng dự án như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023VND",
+                "2": "31.12.2022VND"
+            },
+            {
+                "0": "Trung tâm dữ liệu FPT Telecom Tân Thuận",
+                "1": "14.297.934.220",
+                "2": "234.304.468"
+            },
+            {
+                "0": "Hệ thống trực Bắc Nam",
+                "1": "55.552.423.097",
+                "2": "39.830.766.443"
+            },
+            {
+                "0": "Các công trình hạ tầng viễn thông (*)",
+                "1": "100.505.808.261",
+                "2": "137.936.145.768"
+            },
+            {
+                "0": "",
+                "1": "170.356.165.578",
+                "2": "178.001.216.679"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_23",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Bao gồm chủ yếu trong khoản mục này là các máy móc, thiết bị, linh kiện, vật tư đang trong quá trình chờ triển khai, lắp đặt để hình thành các trạm viễn thông và các công trình hạ tầng viễn thông khác.\n\n26\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n13 THUẾ THU NHẬP DOANH NGHIỆP HOÃN LẠI\n\nTài sản thuế TNDN hoãn lại và thuế TNDN hoãn lại phải trả được bù trừ khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế TNDN hiện hành với thuế TNDN hiện hành phải trả và khi thuế TNDN hoãn lại có liên quan đến cùng một cơ quan thuế và cùng một đơn vị chịu thuế. Chi tiết như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023VND",
+                "2": "31.12.2022VND"
+            },
+            {
+                "0": "Tài sản thuế TNDN hoãn lại",
+                "1": "19.823.492.057",
+                "2": "449.556.133"
+            },
+            {
+                "0": "Thuế TNDN hoãn lại phải trả",
+                "1": "(75.630.969)",
+                "2": "(1.144.346)"
+            },
+            {
+                "0": "",
+                "1": "2023",
+                "2": "2022"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "449.556.133",
+                "2": "5.233.836.824"
+            },
+            {
+                "0": "Ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng (Thuyết minh 30)",
+                "1": "19.373.935.924",
+                "2": "(4.784.280.691)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "19.823.492.057",
+                "2": "449.556.133"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "(1.144.346)",
+                "2": "(10.248.476)"
+            },
+            {
+                "0": "Ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng (Thuyết minh 30)",
+                "1": "(74.486.623)",
+                "2": "9.104.130"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "(75.630.969)",
+                "2": "(1.144.346)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_24",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "27\n\n\\( x,y,z \\in  {2}^{x} - 1 \\)\n\n:1+1 ① 12:1:\n\n\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n14 PHÀI TRÀ NGƯỜI BÁN NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023",
+                "2": "31.12.2023",
+                "3": "31.12.2022",
+                "4": "31.12.2022"
+            },
+            {
+                "0": "",
+                "1": "Giá trị VND",
+                "2": "Số có khả năng trả nợ VND",
+                "3": "Giá trị VND",
+                "4": "Số có khả năng trả nợ VND"
+            },
+            {
+                "0": "Bên thứ ba (*)",
+                "1": "754.169.398.056",
+                "2": "754.169.398.056",
+                "3": "1.189.680.321.586",
+                "4": "1.189.680.321.586"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 33(b))",
+                "1": "168.793.152.543",
+                "2": "168.793.152.543",
+                "3": "291.212.799.022",
+                "4": "291.212.799.022"
+            },
+            {
+                "0": "",
+                "1": "922.962.550.599",
+                "2": "922.962.550.599",
+                "3": "1.480.893.120.608",
+                "4": "1.480.893.120.608"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_25",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Tại ngày 31 tháng 12 năm 2023 và ngày 31 tháng 12 năm 2022, không có nhà cung cấp bên thứ ba nào có số dư chiếm hơn 10% trên tổng số dư các khoản phải trả người bán ngắn hạn.\n\n28\n\n\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n15 THUẾ VÀ CÁC KHOÀN PHẢI THU/PHẢI NỘP NHÀ NƯỚC\n\nBiến động về thuế và các khoản phải thu/phải nộp Nhà nước như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "Tại ngày1.1.2023VND",
+                "3": "Số phải thu trong năm VND",
+                "4": "Số đã thực thu/cấn trừ trong năm VND",
+                "5": "Tại ngày31.12.2023VND"
+            },
+            {
+                "0": "(a)",
+                "1": "Phải thu",
+                "2": "Phải thu",
+                "3": "Phải thu",
+                "4": "Phải thu",
+                "5": "Phải thu"
+            },
+            {
+                "0": "(a)",
+                "1": "Thuế TNDN",
+                "2": "24.237.284.025",
+                "3": "-",
+                "4": "(24.237.284.025)",
+                "5": "-"
+            },
+            {
+                "0": "(a)",
+                "1": "Thuế thu nhập cá nhân",
+                "2": "28.568.251.480",
+                "3": "609.557.454",
+                "4": "(29.086.678.762)",
+                "5": "91.130.172"
+            },
+            {
+                "0": "(a)",
+                "1": "Thuế GTGT",
+                "2": "37.581.307.254",
+                "3": "-",
+                "4": "(37.581.307.254)",
+                "5": "-"
+            },
+            {
+                "0": "(a)",
+                "1": "Thuế khác",
+                "2": "2.365.985.307",
+                "3": "-",
+                "4": "(2.365.985.307)",
+                "5": "-"
+            },
+            {
+                "0": "(a)",
+                "1": "",
+                "2": "92.752.828.066",
+                "3": "609.557.454",
+                "4": "(93.271.255.348)",
+                "5": "91.130.172"
+            },
+            {
+                "0": "(a)",
+                "1": "",
+                "2": "Tại ngày1.1.2023VND",
+                "3": "Số phải nộp trong năm VND",
+                "4": "Số đã thực nộp/cấn trừ trong năm VND",
+                "5": "Tại ngày31.12.2023VND"
+            },
+            {
+                "0": "(b)",
+                "1": "Phải nộp",
+                "2": "Phải nộp",
+                "3": "Phải nộp",
+                "4": "Phải nộp",
+                "5": "Phải nộp"
+            },
+            {
+                "0": "(b)",
+                "1": "Thuế GTGT đầu ra",
+                "2": "13.428.220.721",
+                "3": "1.732.896.346.139",
+                "4": "(1.701.723.086.379)",
+                "5": "44.601.480.481"
+            },
+            {
+                "0": "(b)",
+                "1": "Thuế GTGT hàng nhập khẩu",
+                "2": "-",
+                "3": "121.067.842.737",
+                "4": "(121.067.842.737)",
+                "5": "-"
+            },
+            {
+                "0": "(b)",
+                "1": "Thuế xuất, nhập khẩu",
+                "2": "-",
+                "3": "43.636.941",
+                "4": "(43.636.941)",
+                "5": "-"
+            },
+            {
+                "0": "(b)",
+                "1": "Thuế TNDN",
+                "2": "-",
+                "3": "482.631.626.964",
+                "4": "(369.140.483.371)",
+                "5": "113.491.143.593"
+            },
+            {
+                "0": "(b)",
+                "1": "Thuế nhà thầu",
+                "2": "573.834.568",
+                "3": "35.397.991.949",
+                "4": "(32.991.870.105)",
+                "5": "2.979.956.412"
+            },
+            {
+                "0": "(b)",
+                "1": "Thuế thu nhập cá nhân",
+                "2": "4.098.452.300",
+                "3": "185.065.260.904",
+                "4": "(168.361.989.732)",
+                "5": "20.801.723.472"
+            },
+            {
+                "0": "(b)",
+                "1": "Thuế khác",
+                "2": "-",
+                "3": "699.335.111",
+                "4": "(699.335.111)",
+                "5": "-"
+            },
+            {
+                "0": "(b)",
+                "1": "",
+                "2": "18.100.507.589",
+                "3": "2.557.802.040.745",
+                "4": "(2.394.028.244.376)",
+                "5": "181.874.303.958"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_26",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "29\n\n:1*1 3 ( ) /<\n\n\\( \\angle \\theta  \\star  M.S.D. \\)\n\n\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n16 CHI PHÍ PHÀI TRÀ NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023VND",
+                "2": "31.12.2022VND"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "102.668.906.116",
+                "2": "88.581.533.225"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "- Bên thứ ba",
+                "1": "102.446.296.400",
+                "2": "88.022.232.347"
+            },
+            {
+                "0": "- Bên liên quan (Thuyết minh 33(b))",
+                "1": "222.609.716",
+                "2": "559.300.878"
+            },
+            {
+                "0": "Khác (*)",
+                "1": "111.082.615.685",
+                "2": "63.305.052.476"
+            },
+            {
+                "0": "",
+                "1": "213.751.521.801",
+                "2": "151.886.585.701"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_27",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Bao gồm chủ yếu trong khoản mục này là các khoản chi phí phải trả cho việc thuê kênh, thuê đường truyền, quỹ viễn thông công ích và các chi phí phải trả khác.\n\n17 DOANH THU CHU'A THỰC HIỆN NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023VND",
+                "2": "31.12.2022VND"
+            },
+            {
+                "0": "Tiền trả trước của khách hàng cho dịch vụviễn thông",
+                "1": "1.186.116.537.037",
+                "2": "1.383.924.450.279"
+            },
+            {
+                "0": "Bên liên quan (Thuyết minh 33(b))",
+                "1": "3.080.105.427",
+                "2": "4.982.348.396"
+            },
+            {
+                "0": "Ký quỹ, ký cược",
+                "1": "256.326.917.408",
+                "2": "145.674.752.460"
+            },
+            {
+                "0": "Các khoản trích theo lương",
+                "1": "14.432.540.283",
+                "2": "8.743.440.073"
+            },
+            {
+                "0": "Khác",
+                "1": "26.612.603.270",
+                "2": "29.226.751.099"
+            },
+            {
+                "0": "",
+                "1": "300.452.166.388",
+                "2": "188.627.292.028"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_28",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "30\n\n(1) \\( \\because {S}_{\\Delta APQ} = {\\Delta AQP} \\)\n\n∴A∧∠O\n\n\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n19 VAY\n\n(a) Vay ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày1.1.2023VND",
+                "2": "TăngVND",
+                "3": "GiảmVND",
+                "4": "Chênh lệchtỷ giáVND",
+                "5": "Tại ngày31.12.2023VND"
+            },
+            {
+                "0": "Vay ngắn hạn ngân hàng (*)",
+                "1": "4.450.018.862.428",
+                "2": "18.638.457.503.278",
+                "3": "(17.132.163.807.114)",
+                "4": "(14.584.495.289)",
+                "5": "5.941.728.063.303"
+            },
+            {
+                "0": "Nợ dài hạn ngân hàng đến hạn trả",
+                "1": "683.383.905.289",
+                "2": "39.991.556.359",
+                "3": "(683.383.905.289)",
+                "4": "-",
+                "5": "39.991.556.359"
+            },
+            {
+                "0": "Vay ngắn hạn bên liên quan(Thuyết minh 33(b))",
+                "1": "82.316.458.936",
+                "2": "2.247.621.019.597",
+                "3": "(2.269.955.109.060)",
+                "4": "-",
+                "5": "59.982.369.473"
+            },
+            {
+                "0": "",
+                "1": "5.215.719.226.653",
+                "2": "20.926.070.079.234",
+                "3": "(20.085.502.821.463)",
+                "4": "(14.584.495.289)",
+                "5": "6.041.701.989.135"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_29",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Bao gồm các khoản vay ngắn hạn không tài sản đảm bảo nhằm bổ sung vốn hoạt động cho Công ty. Lãi suất các khoản vay được quy định cụ thể cho từng lần rút vốn trong khoảng từ 2,3%/năm đến 8%/năm (năm 2022: từ 1,98%/năm đến 8%/năm).\n\n(b) Vay dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày1.1.2023VND",
+                "2": "TăngVND",
+                "3": "Vay dài hạnđến hạn trảVND",
+                "4": "Tại ngày31.12.2023VND"
+            },
+            {
+                "0": "Vay dài hạn ngân hàng",
+                "1": "39.991.556.359",
+                "2": "-",
+                "3": "(39.991.556.359)",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_30",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "31\n\nCÔNG TV\n\n11.1 2015\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n19 VAY (TIẾP THEO)\n\nChi tiết các khoản vay theo nguyên tệ như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023",
+                "2": "31.12.2023",
+                "3": "31.12.2022",
+                "4": "31.12.2022"
+            },
+            {
+                "0": "",
+                "1": "Nguyên tệ",
+                "2": "Tương đương VND",
+                "3": "Nguyên tệ",
+                "4": "Tương đương VND"
+            },
+            {
+                "0": "Đô la Mỹ (“USD”)",
+                "1": "57.900.000",
+                "2": "1.376.170.500.000",
+                "3": "73.400.000",
+                "4": "1.705.387.321.453"
+            },
+            {
+                "0": "Đồng Việt Nam (“VND”)",
+                "1": "4.665.531.489.135",
+                "2": "4.665.531.489.135",
+                "3": "3.550.323.461.559",
+                "4": "3.550.323.461.559"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "6.041.701.989.135",
+                "3": "",
+                "4": "5.255.710.783.012"
+            },
+            {
+                "0": "",
+                "1": "Số dư ngoại tệ",
+                "2": "Số dư ngoại tệ đã được hedging",
+                "3": "Số dư ngoại tệ",
+                "4": "Số dư ngoại tệ đã được hedging"
+            },
+            {
+                "0": "Ngoại tệĐô la Mỹ(“USD”)",
+                "1": "57.900.000",
+                "2": "57.900.000",
+                "3": "73.400.000",
+                "4": "73.400.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_31",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "20 QUỸ KHEN THƯỜNG, PHÚC LỢI\n\nBiến động của quỹ khen thưởng, phúc lợi trong năm tài chính như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2023VND",
+                "2": "2022VND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "259.624.250.902",
+                "2": "181.475.502.166"
+            },
+            {
+                "0": "Trích lập từ LNST chưa phân phối(Thuyết minh 22)",
+                "1": "236.817.795.381",
+                "2": "209.421.566.001"
+            },
+            {
+                "0": "Sử dụng quỹ trong năm",
+                "1": "(96.207.250.778)",
+                "2": "(131.282.817.265)"
+            },
+            {
+                "0": "Khác",
+                "1": "113.000.000",
+                "2": "10.000.000"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "400.347.795.505",
+                "2": "259.624.250.902"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_32",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "32\n\n\\( \\therefore 1 \\neq  2 \\) 或 \\( {3a} + {4b} + 1 = 0 \\)\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n21 VỐN GÓP CỦA CHỦ SỞ HỮU\n\n(a) Số lượng cổ phiếu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023Cổ phiếu phổ thông",
+                "2": "31.12.2022Cổ phiếu phổ thông"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã đăng ký",
+                "1": "492.509.164",
+                "2": "328.339.538"
+            },
+            {
+                "0": "Số lượng cổ phiếu đang lưu hành",
+                "1": "492.509.164",
+                "2": "328.339.538"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_33",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "Mệnh giá cổ phiếu: 10.000 Đồng trên một cổ phiếu.\n\n(b) Chi tiết vốn góp của chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023",
+                "2": "31.12.2023",
+                "3": "31.12.2022",
+                "4": "31.12.2022"
+            },
+            {
+                "0": "",
+                "1": "Cổ phiếu phổ thông",
+                "2": "%",
+                "3": "Cổ phiếu phổ thông",
+                "4": "%"
+            },
+            {
+                "0": "Tổng Công ty Đầu tư và Kinh doanh vốn Nhà nước",
+                "1": "247.113.031",
+                "2": "5017",
+                "3": "164.742.021",
+                "4": "5017"
+            },
+            {
+                "0": "Công ty Cổ phần FPT",
+                "1": "224.861.187",
+                "2": "4566",
+                "3": "149.907.458",
+                "4": "4566"
+            },
+            {
+                "0": "Các cổ đông khác",
+                "1": "20.534.946",
+                "2": "417",
+                "3": "13.690.059",
+                "4": "417"
+            },
+            {
+                "0": "",
+                "1": "492.509.164",
+                "2": "100",
+                "3": "328.339.538",
+                "4": "100"
+            },
+            {
+                "0": "",
+                "1": "Số cổ phiếu",
+                "2": "Cổ phiếu phổ thông VND",
+                "3": "Cổ phiếu quỹ VND",
+                "4": "Tổng cộng VND"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2022",
+                "1": "328.339.538",
+                "2": "3.283.695.530.000(300.150.000)",
+                "3": "(300.150.000)300.150.000",
+                "4": "3.283.395.380.000-"
+            },
+            {
+                "0": "Hủy cổ phiếu quỹ",
+                "1": "-",
+                "2": "3.283.695.530.000(300.150.000)",
+                "3": "(300.150.000)300.150.000",
+                "4": "3.283.395.380.000-"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2023",
+                "1": "328.339.538",
+                "2": "3.283.395.380.000",
+                "3": "-",
+                "4": "3.283.395.380.000"
+            },
+            {
+                "0": "Cổ phiếu mới phát hành",
+                "1": "164.169.626",
+                "2": "1.641.696.260.000",
+                "3": "-",
+                "4": "1.641.696.260.000"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2023",
+                "1": "492.509.164",
+                "2": "4.925.091.640.000",
+                "3": "-",
+                "4": "4.925.091.640.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_34",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "33\n\n《入章》\n\n:17/2 (4) 1≤1\n\n\n\nCÔNG TY CỔ PHẦN VIÊN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n22 TÌNH HÌNH TĂNG GIẢM NGUỒN VỐN CHỦ SỞ HỮU",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn góp của chủ sở hữu VND",
+                "2": "Cổ phiếu quỹ VND",
+                "3": "Quỹ đầu tư phát triển VND",
+                "4": "LNST chưa phân phối VND",
+                "5": "Tổng cộng VND"
+            },
+            {
+                "0": "Tại ngày 1 tháng 1 năm 2022",
+                "1": "3.283.695.530.000",
+                "2": "(300.150.000)",
+                "3": "824.773.364.467",
+                "4": "1.645.802.702.520",
+                "5": "5.753.971.446.987"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "2.060.582.795.909",
+                "5": "2.060.582.795.909"
+            },
+            {
+                "0": "Chia cổ tức bằng tiền",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(328.339.538.000)",
+                "5": "(328.339.538.000)"
+            },
+            {
+                "0": "Trích Quỹ đầu tư phát triển",
+                "1": "-",
+                "2": "-",
+                "3": "599.722.147.739",
+                "4": "(599.722.147.739)",
+                "5": "-"
+            },
+            {
+                "0": "Trích Quỹ khen thưởng, phúc lợi",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(209.421.566.001)",
+                "5": "(209.421.566.001)"
+            },
+            {
+                "0": "Hủy cổ phiếu quỹ",
+                "1": "(300.150.000)",
+                "2": "300.150.000",
+                "3": "-",
+                "4": "-",
+                "5": "-"
+            },
+            {
+                "0": "Khác",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(585.031.590)",
+                "5": "(585.031.590)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2022",
+                "1": "3.283.395.380.000",
+                "2": "-",
+                "3": "1.424.495.512.206",
+                "4": "2.568.317.215.099",
+                "5": "7.276.208.107.305"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "2.366.176.848.577",
+                "5": "2.366.176.848.577"
+            },
+            {
+                "0": "Chia cổ tức bằng tiền (*)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(985.018.614.000)",
+                "5": "(985.018.614.000)"
+            },
+            {
+                "0": "Tăng vốn cổ phần bằng phát hành cổ phiếu (**)",
+                "1": "1.641.696.260.000",
+                "2": "-",
+                "3": "(70.000.000.000)",
+                "4": "(1.571.696.260.000)",
+                "5": "-"
+            },
+            {
+                "0": "Trích Quỹ đầu tư phát triển (*)",
+                "1": "-",
+                "2": "-",
+                "3": "355.226.693.072",
+                "4": "(355.226.693.072)",
+                "5": "-"
+            },
+            {
+                "0": "Trích Quỹ khen thưởng, phúc lợi (*) (Thuyết minh 20)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(236.817.795.381)",
+                "5": "(236.817.795.381)"
+            },
+            {
+                "0": "Khác",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(2.214.783.471)",
+                "5": "(2.214.783.471)"
+            },
+            {
+                "0": "Tại ngày 31 tháng 12 năm 2023",
+                "1": "4.925.091.640.000",
+                "2": "-",
+                "3": "1.709.722.205.278",
+                "4": "1.783.519.917.752",
+                "5": "8.418.333.763.030"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_35",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Theo Nghị quyết số 01/NQ-ĐHĐCD/FTEL ngày 25 tháng 4 năm 2023, Đại hội đồng Cổ đông phê duyệt phương án chi trả cổ tức bằng tiền là 3.000 đồng/cổ phiếu và trích Quỹ đầu tư phát triển và Quỹ khen thưởng, phúc lợi.\n\n(**) Theo Nghị quyết số 14-2023/NQ-HĐQT/FTEL ngày 30 tháng 11 năm 2023, Hội đồng Quản trị phê duyệt việc tăng vốn điều lệ của Công ty bằng việc phát hành cổ phiếu theo tỷ lệ 2:1 từ nguồn LNST chưa phân phối và quỹ đầu tư phát triển. Tổng số cổ phiếu phát hành thêm là 164.169.626 cổ phiếu với giá trị phát hành theo mệnh giá.\n\n34\n\n1 1 2 ( ) 12 E\n\nH H N\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n23 CÁC KHOÀN MỤC NGOÀI BÀNG CÂN ĐỐI KẾ TOÁN\n\n(a) Ngoại tệ các loại\n\nTại ngày 31 tháng 12 năm 2023, khoản mục tiền và các khoản tương đương tiền đã bao gồm số ngoại tệ 618.339 Đô la Mỹ (tại ngày 31 tháng 12 năm 2022: 1.002.396 Đô la Mỹ).\n\n(b) Nợ khó đòi đã xử lý",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023VND",
+                "2": "31.12.2022VND"
+            },
+            {
+                "0": "Nợ khó đòi",
+                "1": "170.093.463.481",
+                "2": "170.496.194.625"
+            },
+            {
+                "0": "",
+                "1": "2023",
+                "2": "2022"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "12.321.124.032.496",
+                "2": "11.335.421.477.193"
+            },
+            {
+                "0": "Doanh thu bán hàng hóa",
+                "1": "231.872.358.876",
+                "2": "316.690.351.480"
+            },
+            {
+                "0": "",
+                "1": "12.552.996.391.372",
+                "2": "11.652.111.828.673"
+            },
+            {
+                "0": "Các khoản giảm trừ khác",
+                "1": "-",
+                "2": "(85.852.395)"
+            },
+            {
+                "0": "Doanh thu thuần về cung cấp dịch vụ",
+                "1": "12.321.124.032.496",
+                "2": "11.335.335.624.798"
+            },
+            {
+                "0": "Doanh thu thuần về bán hàng hóa",
+                "1": "231.872.358.876",
+                "2": "316.690.351.480"
+            },
+            {
+                "0": "",
+                "1": "12.552.996.391.372",
+                "2": "11.652.025.976.278"
+            },
+            {
+                "0": "",
+                "1": "2023VND",
+                "2": "2022VND"
+            },
+            {
+                "0": "Giá vốn của dịch vụ đã cung cấp",
+                "1": "6.517.800.787.738",
+                "2": "5.706.339.781.937"
+            },
+            {
+                "0": "Giá vốn của hàng hóa đã bán",
+                "1": "192.864.600.598",
+                "2": "266.296.151.797"
+            },
+            {
+                "0": "Hoàn nhập dự phòng giảm giá hàng tồn kho (Thuyết minh 9)",
+                "1": "(18.535.106.963)",
+                "2": "(19.274.549.727)"
+            },
+            {
+                "0": "",
+                "1": "6.692.130.281.373",
+                "2": "5.953.361.384.007"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_36",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "35\n\n- M\n\n\\( \\therefore m = \\frac{3}{2} \\)\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n26 DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2023VND",
+                "2": "2022VND"
+            },
+            {
+                "0": "Lãi tiền gửi, cho vay",
+                "1": "441.886.087.012",
+                "2": "561.838.699.473"
+            },
+            {
+                "0": "Cổ tức và lợi nhuận được chia(Thuyết minh 33(a))",
+                "1": "513.405.400.159",
+                "2": "303.402.157.553"
+            },
+            {
+                "0": "Lãi chênh lệch tỷ giá hối đoái",
+                "1": "24.589.917.015",
+                "2": "21.238.461.140"
+            },
+            {
+                "0": "",
+                "1": "979.881.404.186",
+                "2": "886.479.318.166"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "450.795.139.387",
+                "2": "371.427.394.591"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "- Bên thứ ba",
+                "1": "445.048.629.628",
+                "2": "336.541.339.683"
+            },
+            {
+                "0": "- Bên liên quan (Thuyết minh 33(a))",
+                "1": "5.746.509.759",
+                "2": "34.886.054.908"
+            },
+            {
+                "0": "Lỗ chênh lệch tỷ giá hối đoái",
+                "1": "29.142.985.949",
+                "2": "102.736.025.345"
+            },
+            {
+                "0": "",
+                "1": "479.938.125.336",
+                "2": "474.163.419.936"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "1.435.970.905.715",
+                "2": "1.218.651.158.615"
+            },
+            {
+                "0": "Quảng cáo, tiếp thị",
+                "1": "229.602.836.671",
+                "2": "234.852.112.931"
+            },
+            {
+                "0": "Khác (*)",
+                "1": "143.939.352.608",
+                "2": "215.041.569.545"
+            },
+            {
+                "0": "",
+                "1": "1.809.513.094.994",
+                "2": "1.668.544.841.091"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_37",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Bao gồm chủ yếu trong khoản mục này là chi phí khấu hao TSCĐ, chi phí thuê, chi phí thuê ngoài, chi phí tiện ích và các chi phí bán hàng khác. Không có khoản mục chi phí nào có giá trị chiếm hơn 10% trên tổng chi phí bán hàng.\n\n36\n\nPAN\n\n\\( \\therefore {S}_{n} = 1 - 2 \\)\n\n\n\nThe image contains a row of identical, stylized, 3D rectangular blocks arranged in a row. There are no text or symbols present to extract or convert according to the guidelines.\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n29 CHI PHÍ QUẢN LÝ DOANH NGHIỆP",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2023VND",
+                "2": "2022VND"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "1.022.280.235.112",
+                "2": "1.283.219.548.862"
+            },
+            {
+                "0": "Khác (*)",
+                "1": "699.459.842.744",
+                "2": "636.961.846.622"
+            },
+            {
+                "0": "",
+                "1": "1.721.740.077.856",
+                "2": "1.920.181.395.484"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_38",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Bao gồm chủ yếu trong khoản mục này là chi phí khấu hao TSCĐ, chi phí dự phòng khoản phải thu khó đòi, chi phí công cụ dụng cụ và các chi phí quản lý doanh nghiệp khác. Không có khoản mục chi phí nào có giá trị chiếm hơn 10% trên tổng chi phí quản lý doanh nghiệp.\n\n30 THUẾ THU NHẬP DOANH NGHIỆP (\"TNDN\")\n\nSố thuế TNDN trên lợi nhuận kế toán trước thuế của Công ty khác với số thuế TNDN khi được tính theo thuế suất phổ thông áp dụng 20% như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2023VND",
+                "2": "2022VND"
+            },
+            {
+                "0": "Lợi nhuận kế toán trước thuế",
+                "1": "2.829.509.026.240",
+                "2": "2.499.887.080.500"
+            },
+            {
+                "0": "Thuế tính ở thuế suất 20%Điều chỉnh:",
+                "1": "565.901.805.248",
+                "2": "499.977.416.100"
+            },
+            {
+                "0": "Thu nhập không chịu thuế",
+                "1": "(102.681.080.032)",
+                "2": "(60.680.431.509)"
+            },
+            {
+                "0": "Chi phí không được khấu trừChênh lệch tạm thời không ghi nhận thuế TNDN hoãn lại",
+                "1": "29.137.173",
+                "2": "7.300.000"
+            },
+            {
+                "0": "Chi phí không được khấu trừChênh lệch tạm thời không ghi nhận thuế TNDN hoãn lại",
+                "1": "(638.473.656)",
+                "2": "-"
+            },
+            {
+                "0": "Dự phòng thiếu của năm trước",
+                "1": "720.788.930",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí thuế TNDN (*)",
+                "1": "463.332.177.663",
+                "2": "439.304.284.591"
+            },
+            {
+                "0": "Chi phí thuế TNDN ghi nhận trong báo cáokết quả hoạt động kinh doanh riêngThuế TNDN - hiện hành",
+                "1": "482.631.626.964",
+                "2": "434.529.108.030"
+            },
+            {
+                "0": "Thuế TNDN - hoãn lại",
+                "1": "(19.299.449.301)",
+                "2": "4.775.176.561"
+            },
+            {
+                "0": "",
+                "1": "463.332.177.663",
+                "2": "439.304.284.591"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_39",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Chi phí thuế TNDN cho năm tài chính được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh tùy thuộc vào sự kiểm tra của cơ quan thuế.\n\n37\n\n\\( \\left\\| {\\frac{1}{2}\\frac{1}{2}}\\right\\|  = \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} +\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)  = x - 3\\;\\left( {x - 3}\\right)\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n31 CHI PHÍ SÀN XUẤT KINH DOANH THEO YẾU TỐ\n\nChi phí kinh doanh theo yếu tố thể hiện các chi phí phát sinh trong năm tài chính từ hoạt động kinh doanh của Công ty. Chi tiết được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2023VND",
+                "2": "2022VND"
+            },
+            {
+                "0": "Nguyên liệu, vật liệu",
+                "1": "1.614.990.637.324",
+                "2": "1.496.528.460.052"
+            },
+            {
+                "0": "Chỉ phí nhân viên",
+                "1": "3.573.184.619.797",
+                "2": "3.489.552.844.199"
+            },
+            {
+                "0": "Khấu hao TSCĐ",
+                "1": "1.281.438.946.345",
+                "2": "1.116.509.523.136"
+            },
+            {
+                "0": "Dịch vụ mua ngoài",
+                "1": "2.681.536.403.647",
+                "2": "2.596.128.082.420"
+            },
+            {
+                "0": "Khác",
+                "1": "1.072.232.847.110",
+                "2": "843.368.710.775"
+            },
+            {
+                "0": "",
+                "1": "10.223.383.454.223",
+                "2": "9.542.087.620.582"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_40",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "32 BÁO CÁO BỘ PHẬN\n\nBan Tổng Giám đốc của Công ty xác định rằng, việc ra các quyết định quản lý của Công ty chủ yếu dựa trên các loại sản phẩm, dịch vụ mà Công ty cung cấp. Do vậy báo cáo bộ phận chính yếu của Công ty là theo lĩnh vực kinh doanh.\n\n(a) Bộ phận theo lĩnh vực kinh doanh\n\nTrong năm hoạt động chủ yếu của Công ty là cung cấp các dịch vụ viễn thông (bao gồm dịch vụ Internet, truyền hình trả tiền và các dịch vụ viễn thông khác). Doanh thu và lợi nhuận từ bán hàng hóa chiếm dưới 10% tổng doanh thu và lợi nhuận của Công ty. Do đó, Công ty không trình bày báo cáo theo lĩnh vực kinh doanh. Doanh thu, giá vốn đã được trình bày chỉ tiết tại Thuyết minh 24 và Thuyết minh 25.\n\n(b) Bộ phận theo khu vực địa lý\n\nCông ty không có hoạt động kinh doanh nào ngoài lãnh thổ Việt Nam. Tất cả hoạt động kinh doanh của Công ty được thực hiện trên lãnh thổ Việt Nam. Do đó, Công ty không trình bày báo cáo bộ phận theo khu vực địa lý.\n\n33 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN\n\nCông ty được kiểm soát bởi Công ty Cổ phần FPT, một công ty được thành lập tại Việt Nam. Tuy Công ty mẹ nắm giữ 45,66% vốn cổ phần của Công ty nhưng có quyền bổ đa số phiếu tại các cuộc họp của Hội đồng Quản trị hoặc cấp quản lý tương đương của Công ty và có quyền chi phối các chính sách tài chính và hoạt động của Công ty.\n\n38\n\n制 王 三\n\nCÔNG TV\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n33 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)\n\nChi tiết của các bên liên quan chính và mối quan hệ như sau:",
+        "dataframe": [
+            {
+                "0": "Bên liên quan (*)",
+                "1": "Mối quan hệ"
+            },
+            {
+                "0": "Công ty Cổ phần FPTTổng Công ty Đầu tư và Kinh doanh Vốn Nhà nước– Công ty TNHH",
+                "1": "Công ty mẹCổ đông chính"
+            },
+            {
+                "0": "Công ty TNHH MTV Viễn thông Quốc tế FPTCông ty Cổ phần Dịch vụ Trực tuyến FPT (“FOC”)",
+                "1": "Công ty con trực thuộcCông ty con trực thuộc"
+            },
+            {
+                "0": "Công ty TNHH MTV Viễn thông FPT Tân ThuậnCông ty Cổ phần Công nghệ Viễn thông FPTCông ty TNHH Truyền hình FPTCông ty TNHH Phần mềm FPTCông ty TNHH Hệ thống Thông tin FPTCông ty TNHH Giáo dục FPTCông ty TNHH FPT Smart Cloud",
+                "1": "Công ty con trực thuộcCông ty con trực thuộcCông ty con trực thuộc"
+            },
+            {
+                "0": "Công ty Cổ phần Bán lẻ Kỹ thuật số FPTCông ty TNHH Phân phối Synnex FPTCông ty Cổ phần Quản lý Quỹ đầu tư FPTCác thành viên HĐQT, Ban Tổng Giám đốc,Ban Kiểm soát và các cá nhân có liên quancủa các thành viên này",
+                "1": "Công ty liên kết của Công ty mẹCông ty liên kết của Công ty mẹCông ty liên kết của Công ty mẹThành viên quản lý chủ chốt"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_41",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Số liệu của bên liên quan được trình bày trong thuyết minh này bao gồm số liệu của công ty liên quan và các công ty thành viên trực thuộc công ty đó (nếu có).\n\n(a) Giao dịch với các bên liên quan\n\nCác giao dịch chủ yếu với các bên liên quan phát sinh trong năm tài chính gồm:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2023VND",
+                "3": "2022VND"
+            },
+            {
+                "0": "i)",
+                "1": "Bán hàng hóa và dịch vụ",
+                "2": "Bán hàng hóa và dịch vụ",
+                "3": "Bán hàng hóa và dịch vụ"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty TNHH MTV Viễn thông Quốc tế FPT",
+                "2": "1.330.016.629.653",
+                "3": "1.114.072.901.120"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty TNHH Truyền hình FPT",
+                "2": "66.484.041.247",
+                "3": "72.379.140.545"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty Cổ phần Bán lẻ Kỹ thuật số FPT",
+                "2": "20.488.690.552",
+                "3": "15.390.205.101"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty Cổ phần FPT",
+                "2": "10.667.387.818",
+                "3": "671.343.193"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty TNHH Giáo dục FPT",
+                "2": "7.787.117.043",
+                "3": "3.312.910.380"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty Cổ phần Dịch vụ Trực tuyến FPT",
+                "2": "6.389.092.105",
+                "3": "2.417.404.723"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty TNHH Phần mềm FPT",
+                "2": "2.255.916.338",
+                "3": "604.572.441"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty TNHH Hệ thống Thông tin FPT",
+                "2": "745.685.394",
+                "3": "512.987.868"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty TNHH MTV Viễn thông FPT",
+                "2": "Công ty TNHH MTV Viễn thông FPT",
+                "3": "Công ty TNHH MTV Viễn thông FPT"
+            },
+            {
+                "0": "i)",
+                "1": "Tân Thuận",
+                "2": "132.315.394",
+                "3": "41.171.314"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty TNHH Phân phối Synnex FPT",
+                "2": "172.959.693",
+                "3": "89.648.091"
+            },
+            {
+                "0": "i)",
+                "1": "Công ty TNHH FPT Smart Cloud",
+                "2": "59.759.392",
+                "3": "106.248.082"
+            },
+            {
+                "0": "i)",
+                "1": "Các công ty thành viên khác cùng Tập đoàn",
+                "2": "276.545.826",
+                "3": "1.383.899.888"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "1.445.476.140.455",
+                "3": "1.210.982.432.746"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_42",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "39\n\n测试\n\n∴ 1 = 10%\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n33 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)\n\n(a) Giao dịch với các bên liên quan (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2023VND",
+                "3": "2022VND"
+            },
+            {
+                "0": "ii)",
+                "1": "Mua TSCĐ, hàng hóa và dịch vụ",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH Truyền hình FPT",
+                "2": "522.958.082.544",
+                "3": "395.031.825.742"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH Hệ thống Thông tin FPT",
+                "2": "315.795.311.863",
+                "3": "331.551.304.121"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty Cổ phần FPT",
+                "2": "111.543.393.137",
+                "3": "108.462.673.978"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH MTV Viễn thông Quốc tế FPT",
+                "2": "95.157.432.159",
+                "3": "174.994.790.698"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH Phân phối Synnex FPT",
+                "2": "43.686.795.290",
+                "3": "42.762.353.463"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty Cổ phần Bán lẻ Kỹ thuật số FPT",
+                "2": "7.202.896.809",
+                "3": "14.880.795.306"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH MTV Viễn thông FPT",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "ii)",
+                "1": "Tân Thuận",
+                "2": "12.965.109.656",
+                "3": "7.319.551.806"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty Cổ phần Dịch vụ Trực tuyến FPT",
+                "2": "12.145.636.264",
+                "3": "6.930.006.030"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH FPT Smart Cloud",
+                "2": "6.901.804.796",
+                "3": "4.245.589.344"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH Phần mềm FPT",
+                "2": "891.266.028",
+                "3": "1.527.796.125"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH Giáo dục FPT",
+                "2": "628.599.066",
+                "3": "416.559.185"
+            },
+            {
+                "0": "ii)",
+                "1": "Các công ty thành viên khác cùng Tập đoàn",
+                "2": "22.994.345",
+                "3": "-"
+            },
+            {
+                "0": "ii)",
+                "1": "",
+                "2": "1.129.899.321.957",
+                "3": "1.088.123.245.798"
+            },
+            {
+                "0": "iii)",
+                "1": "Chia cổ tức bằng cổ phiếu",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "iii)",
+                "1": "Tổng Công ty Đầu tư và Kinh doanh Vốn",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "iii)",
+                "1": "Nhà nước – Công ty TNHH",
+                "2": "823.710.100.000",
+                "3": "-"
+            },
+            {
+                "0": "iii)",
+                "1": "Công ty Cổ phần FPT",
+                "2": "749.537.290.000",
+                "3": "-"
+            },
+            {
+                "0": "iii)",
+                "1": "Các cổ đông khác",
+                "2": "68.448.870.000",
+                "3": "-"
+            },
+            {
+                "0": "iii)",
+                "1": "",
+                "2": "1.641.696.260.000",
+                "3": "-"
+            },
+            {
+                "0": "iv)",
+                "1": "Chia cổ tức bằng tiền (Thuyết minh 22)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "iv)",
+                "1": "Tổng Công ty Đầu tư và Kinh doanh Vốn",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "iv)",
+                "1": "Nhà nước – Công ty TNHH",
+                "2": "494.226.063.000",
+                "3": "164.742.021.000"
+            },
+            {
+                "0": "iv)",
+                "1": "Công ty Cổ phần FPT",
+                "2": "449.722.374.000",
+                "3": "149.907.458.000"
+            },
+            {
+                "0": "iv)",
+                "1": "Các cổ đông khác",
+                "2": "41.070.177.000",
+                "3": "13.690.059.000"
+            },
+            {
+                "0": "iv)",
+                "1": "",
+                "2": "985.018.614.000",
+                "3": "328.339.538.000"
+            },
+            {
+                "0": "v)",
+                "1": "Cổ tức công bố được nhận bằng tiền (Thuyết minh 26)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH MTV Viễn thông Quốc tế FPT",
+                "2": "347.636.170.125",
+                "3": "167.427.062.747"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH Truyền hình FPT",
+                "2": "108.482.989.184",
+                "3": "23.763.738.576"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty Cổ phần Dịch vụ Trực tuyến FPT",
+                "2": "52.048.485.000",
+                "3": "83.277.576.000"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH MTV Viễn thông FPT",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "v)",
+                "1": "Tân Thuận",
+                "2": "3.237.755.850",
+                "3": "28.933.780.230"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty Cổ phần Quản lý Quỹ đầu tư FPT",
+                "2": "2.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "v)",
+                "1": "",
+                "2": "513.405.400.159",
+                "3": "303.402.157.553"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_43",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "40\n\n乙工工★\n\n1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. 82. 83. 84. 85. 86. 87. 88. 89. 90.\n\n\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n33 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)\n\n(a) Giao dịch với các bên liên quan (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "2023VND",
+                "3": "2022VND"
+            },
+            {
+                "0": "vi)",
+                "1": "Cho vay",
+                "2": "Cho vay",
+                "3": "Cho vay"
+            },
+            {
+                "0": "vi)",
+                "1": "Công ty TNHH MTV Viễn thông Quốc tế FPT",
+                "2": "12.199.060.000.001",
+                "3": "8.111.340.000.000"
+            },
+            {
+                "0": "vi)",
+                "1": "Công ty TNHH Truyền hình FPT",
+                "2": "2.937.600.000.001",
+                "3": "2.443.900.000.000"
+            },
+            {
+                "0": "vi)",
+                "1": "Công ty TNHH MTV Viễn thông FPTTân Thuận",
+                "2": "-",
+                "3": "13.685.666.706.753"
+            },
+            {
+                "0": "vi)",
+                "1": "",
+                "2": "15.136.660.000.002",
+                "3": "24.240.906.706.753"
+            },
+            {
+                "0": "vii)",
+                "1": "Đi vay",
+                "2": "Đi vay",
+                "3": "Đi vay"
+            },
+            {
+                "0": "vii)",
+                "1": "Công ty Cổ phần Công nghệ Viễn thông FPT",
+                "2": "-",
+                "3": "83.929.704.900"
+            },
+            {
+                "0": "vii)",
+                "1": "Công ty TNHH MTV Viễn thông FPTTân Thuận",
+                "2": "2.247.621.019.597",
+                "3": "-"
+            },
+            {
+                "0": "vii)",
+                "1": "",
+                "2": "2.247.621.019.597",
+                "3": "83.929.704.900"
+            },
+            {
+                "0": "viii)",
+                "1": "Lãi cho vay, tiền gửi",
+                "2": "Lãi cho vay, tiền gửi",
+                "3": "Lãi cho vay, tiền gửi"
+            },
+            {
+                "0": "viii)",
+                "1": "Công ty TNHH MTV Viễn thông Quốc tế FPT",
+                "2": "316.602.413.421",
+                "3": "314.873.266.998"
+            },
+            {
+                "0": "viii)",
+                "1": "Công ty TNHH Truyền hình FPT",
+                "2": "124.674.895.931",
+                "3": "12.364.266.667"
+            },
+            {
+                "0": "viii)",
+                "1": "Công ty TNHH MTV Viễn thông FPTTân Thuận",
+                "2": "-",
+                "3": "234.425.648.511"
+            },
+            {
+                "0": "viii)",
+                "1": "Công ty Cổ phần FPT",
+                "2": "3.475.784",
+                "3": "1.739.722"
+            },
+            {
+                "0": "viii)",
+                "1": "",
+                "2": "441.280.785.136",
+                "3": "561.664.921.898"
+            },
+            {
+                "0": "ix)",
+                "1": "Lãi vay (Thuyết minh 27)",
+                "2": "Lãi vay (Thuyết minh 27)",
+                "3": "Lãi vay (Thuyết minh 27)"
+            },
+            {
+                "0": "ix)",
+                "1": "Công ty Cổ phần Công nghệ Viễn thông FPT",
+                "2": "3.624.974.854",
+                "3": "34.886.054.908"
+            },
+            {
+                "0": "ix)",
+                "1": "Công ty TNHH MTV Viễn thông FPTTân Thuận",
+                "2": "2.121.534.905",
+                "3": "-"
+            },
+            {
+                "0": "ix)",
+                "1": "",
+                "2": "5.746.509.759",
+                "3": "34.886.054.908"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_44",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "41\n\n\n\n[Non-Text]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n33 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)\n\n(a) Giao dịch với các bên liên quan (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2023",
+                "2": "2022"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_45",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "x) Thù lao Hội đồng Quản trị, Ban Kiểm soát và tiền lương của Tổng Giám đốc và người quản lý chủ chốt khác",
+        "dataframe": [
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Hội đồng Quản trị",
+                "2": "Hội đồng Quản trị",
+                "3": "Hội đồng Quản trị"
+            },
+            {
+                "0": "Hoàng Việt Anh",
+                "1": "Chủ tịch (*)",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Hoàng Nam Tiến",
+                "1": "Chủ tịch",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Trương Gia Bình",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Nguyễn Văn Khoa",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Chu Thị Thanh Hà",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Trần Thị Hồng Lĩnh",
+                "1": "Thành viên (**)",
+                "2": "41.260.274",
+                "3": "-"
+            },
+            {
+                "0": "Phan Thế Thành",
+                "1": "Thành viên (**)",
+                "2": "41.260.274",
+                "3": "-"
+            },
+            {
+                "0": "Lê Ngọc Diệp",
+                "1": "Thành viên",
+                "2": "18.739.726",
+                "3": "60.000.000"
+            },
+            {
+                "0": "Nguyễn Hoàng Quyền",
+                "1": "Thành viên (***)",
+                "2": "18.739.726",
+                "3": "50.714.286"
+            },
+            {
+                "0": "Phạm Công Minh",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "9.285.714"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "120.000.000",
+                "3": "120.000.000"
+            },
+            {
+                "0": "Ban kiểm soát",
+                "1": "Ban kiểm soát",
+                "2": "Ban kiểm soát",
+                "3": "Ban kiểm soát"
+            },
+            {
+                "0": "Trần Khương",
+                "1": "Trưởng ban",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Phạm Xuân Hoàn",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Đỗ Xuân Phúc",
+                "1": "Thành viên",
+                "2": "24.000.000",
+                "3": "24.000.000"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "24.000.000",
+                "3": "24.000.000"
+            },
+            {
+                "0": "Ban Tổng Giám đốc và người quản lý khác",
+                "1": "Ban Tổng Giám đốc và người quản lý khác",
+                "2": "Ban Tổng Giám đốc và người quản lý khác",
+                "3": "Ban Tổng Giám đốc và người quản lý khác"
+            },
+            {
+                "0": "Nguyễn Hoàng Linh",
+                "1": "Tổng Giám đốc (****)",
+                "2": "2.440.428.000",
+                "3": "1.800.000.000"
+            },
+            {
+                "0": "Hoàng Việt Anh",
+                "1": "Tổng Giám đốc",
+                "2": "800.000.000",
+                "3": "2.400.000.000"
+            },
+            {
+                "0": "Vũ Thị Mai Hương",
+                "1": "Phó Tổng Giám đốc",
+                "2": "1.880.372.000",
+                "3": "1.800.000.000"
+            },
+            {
+                "0": "Chu Hùng Thắng",
+                "1": "Phó Tổng Giám đốc",
+                "2": "1.885.670.720",
+                "3": "1.800.324.600"
+            },
+            {
+                "0": "Đỗ Thị Hương",
+                "1": "Giám đốc Tài chính",
+                "2": "1.760.151.000",
+                "3": "1.450.000.000"
+            },
+            {
+                "0": "Nguyễn Thị Thu Hương",
+                "1": "Kế toán trường",
+                "2": "708.397.000",
+                "3": "657.300.000"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "9.475.018.720",
+                "3": "9.907.624.600"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_46",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "(*) Ông Hoàng Việt Anh được bổ nhiệm làm Chủ tịch Hội đồng Quản trị thay cho ông Hoàng Nam Tiến từ ngày 25 tháng 4 năm 2023.\n\n(**) Bà Trần Thị Hồng Lĩnh và ông Phan Thế Thành được bổ nhiệm làm Thành viên Hội đồng Quản trị thay cho bà Lê Ngọc Diệp và ông Nguyễn Hoàng Quyền từ ngày 25 tháng 4 năm 2023.\n\n(***) Ông Nguyễn Hoàng Quyền được bổ nhiệm làm Thành viên Hội đồng Quản trị thay cho ông Phạm Công Minh từ ngày 20 tháng 4 năm 2022.\n\n(****) Ông Nguyễn Hoàng Linh được bổ nhiệm làm Tổng Giám đốc thay cho ông Hoàng Việt Anh từ ngày 25 tháng 4 năm 2023.\n\n42\n\n(1)\n\n\\( \\frac{1}{2} - \\frac{1}{3} = \\frac{1}{4} - \\frac{1}{5} = \\frac{1}{6} \\)\n\n\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n33 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)\n\n(b) Số dư cuối năm tài chính với các bên liên quan",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "31.12.2023VND",
+                "3": "31.12.2022VND"
+            },
+            {
+                "0": "i)",
+                "1": "Tiền gửi tại tài khoản tập trung FPT",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "i)",
+                "1": "Công ty Cổ phần FPT",
+                "2": "326.687.587",
+                "3": "362.640.459"
+            },
+            {
+                "0": "ii)",
+                "1": "Phải thu ngắn hạn của khách hàng (Thuyết minh 5)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH MTV Viễn thông Quốc tế FPT",
+                "2": "520.993.987.142",
+                "3": "542.700.164.926"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty Cổ phần FPT",
+                "2": "10.029.538.792",
+                "3": "197.259.000"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH Truyền hình FPT",
+                "2": "723.334.531",
+                "3": "15.246.117.913"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty Cổ phần Dịch vụ Trực tuyến FPT",
+                "2": "2.418.083.508",
+                "3": "2.118.454.508"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH Hệ thống Thông tin FPT",
+                "2": "327.063.000",
+                "3": "112.705.400"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty Cổ phần Bán lẻ Kỹ thuật số FPT",
+                "2": "4.552.394.604",
+                "3": "-"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH Phần mềm FPT",
+                "2": "15.840.000",
+                "3": "3.300.000"
+            },
+            {
+                "0": "ii)",
+                "1": "Công ty TNHH Phân phối Synnex FPT",
+                "2": "2.000.000",
+                "3": "-"
+            },
+            {
+                "0": "ii)",
+                "1": "Các công ty thành viên khác cùng Tập đoàn",
+                "2": "44.125.942",
+                "3": "177.597.816"
+            },
+            {
+                "0": "ii)",
+                "1": "",
+                "2": "539.106.367.519",
+                "3": "560.555.599.563"
+            },
+            {
+                "0": "iii)",
+                "1": "Cho vay ngắn hạn (Thuyết minh 6)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "iii)",
+                "1": "Công ty TNHH MTV Viễn thông Quốc tế FPT",
+                "2": "5.978.364.099.438",
+                "3": "3.293.280.745.370"
+            },
+            {
+                "0": "iii)",
+                "1": "Công ty TNHH Truyền hình FPT",
+                "2": "1.075.965.611.742",
+                "3": "2.408.900.000.000"
+            },
+            {
+                "0": "iii)",
+                "1": "",
+                "2": "7.054.329.711.180",
+                "3": "5.702.180.745.370"
+            },
+            {
+                "0": "iv)",
+                "1": "Phải thu ngắn hạn khác (Thuyết minh 7)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "iv)",
+                "1": "Công ty TNHH MTV Viễn thông Quốc tế FPT",
+                "2": "504.839.992.715",
+                "3": "342.992.830.078"
+            },
+            {
+                "0": "iv)",
+                "1": "Công ty TNHH Truyền hình FPT",
+                "2": "136.189.577.900",
+                "3": "176.266.698.513"
+            },
+            {
+                "0": "iv)",
+                "1": "Công ty TNHH MTV Viễn thông FPT",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "iv)",
+                "1": "Tân Thuận",
+                "2": "3.237.755.850",
+                "3": "2.455.567.094"
+            },
+            {
+                "0": "iv)",
+                "1": "Công ty Cổ phần FPT",
+                "2": "3.085.491",
+                "3": "367.864"
+            },
+            {
+                "0": "iv)",
+                "1": "Các công ty thành viên khác cùng Tập đoàn",
+                "2": "9.287.730",
+                "3": "-"
+            },
+            {
+                "0": "iv)",
+                "1": "",
+                "2": "644.279.699.686",
+                "3": "521.715.463.549"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_47",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "43\n\n\n\n1\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023\n\n33 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)\n\n(b) Số dư cuối năm tài chính với các bên liên quan (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "31.12.2023VND",
+                "3": "31.12.2022VND"
+            },
+            {
+                "0": "v)",
+                "1": "Phải trả người bán ngắn hạn (Thuyết minh 14)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH Truyền hình FPT",
+                "2": "78.727.859.207",
+                "3": "159.661.625.515"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH MTV Viễn thông Quốc tế FPT",
+                "2": "50.610.447.212",
+                "3": "5.539.431.586"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty Cổ phần FPT",
+                "2": "23.901.264.269",
+                "3": "21.875.373.287"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH Hệ thống Thông tin FPT",
+                "2": "6.080.065.346",
+                "3": "88.460.580.481"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH Phân phối Synnex FPT",
+                "2": "4.709.735.828",
+                "3": "10.093.872.940"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH FPT Smart Cloud",
+                "2": "1.448.354.136",
+                "3": "852.262.366"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH MTV Viễn thông FPT Tân Thuận",
+                "2": "1.203.434.612",
+                "3": "2.846.172.529"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty Cổ phần Bán lẻ Kỹ thuật số FPT",
+                "2": "682.020.400",
+                "3": "1.367.240.400"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty Cổ phần Dịch vụ Trực tuyến FPT",
+                "2": "992.923.155",
+                "3": "285.012.000"
+            },
+            {
+                "0": "v)",
+                "1": "Công ty TNHH Phần mềm FPT",
+                "2": "405.514.725",
+                "3": "231.227.918"
+            },
+            {
+                "0": "v)",
+                "1": "Các công ty thành viên khác cùng Tập đoàn",
+                "2": "31.533.653",
+                "3": "-"
+            },
+            {
+                "0": "v)",
+                "1": "",
+                "2": "168.793.152.543",
+                "3": "291.212.799.022"
+            },
+            {
+                "0": "vi)",
+                "1": "Chi phí lãi vay phải trả ngắn hạn (Thuyết minh 16)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "vi)",
+                "1": "Công ty Cổ phần Công nghệ Viễn thông FPT",
+                "2": "61.063.511",
+                "3": "559.300.878"
+            },
+            {
+                "0": "vi)",
+                "1": "Công ty TNHH MTV Viễn thông FPT Tân Thuận",
+                "2": "161.546.205",
+                "3": "-"
+            },
+            {
+                "0": "vi)",
+                "1": "",
+                "2": "222.609.716",
+                "3": "559.300.878"
+            },
+            {
+                "0": "vii)",
+                "1": "Phải trả ngắn hạn khác (Thuyết minh 18)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "vii)",
+                "1": "Cổ tức phải trả",
+                "2": "2.337.167.833",
+                "3": "1.976.966.183"
+            },
+            {
+                "0": "vii)",
+                "1": "Thu hộ trả hộ",
+                "2": "742.937.594",
+                "3": "3.005.382.213"
+            },
+            {
+                "0": "vii)",
+                "1": "Trong đó:- Công ty TNHH MTV Viễn thông Quốc tế FPT- Các công ty thành viên khác cùng Tập đoàn",
+                "2": "-742.937.594",
+                "3": "2.915.939.25489.442.959"
+            },
+            {
+                "0": "vii)",
+                "1": "",
+                "2": "3.080.105.427",
+                "3": "4.982.348.396"
+            },
+            {
+                "0": "viii)",
+                "1": "Vay ngắn hạn (Thuyết minh 19)",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "viii)",
+                "1": "Công ty Cổ phần Công nghệ Viễn thông FPT",
+                "2": "16.139.671.151",
+                "3": "82.316.458.936"
+            },
+            {
+                "0": "viii)",
+                "1": "Công ty TNHH MTV Viễn thông FPT Tân Thuận",
+                "2": "43.842.698.322",
+                "3": "-"
+            },
+            {
+                "0": "viii)",
+                "1": "",
+                "2": "59.982.369.473",
+                "3": "82.316.458.936"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FOX_2023_separate_table_48",
+        "metadata": {
+            "ticker": "FOX",
+            "company_name": "CTCP Viễn thông FPT",
+            "year": "2023",
+            "report_type": "separate",
+            "original_folder": "FOX_financial_statements_2023_separate"
+        },
+        "context_text": "44\n\n\\( i = -10, 1 = 1 \\)\n\n\n\n[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20]\n\nCÔNG TY CỔ PHẦN VIỂN THÔNG FPT\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023\n\n34 CAM KẾT THUÊ HOẠT ĐỘNG\n\nCông ty phải trả mức tối thiểu cho các hợp đồng thuê hoạt động đã ký kết trong tương lai như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31.12.2023VND",
+                "2": "31.12.2022VND"
+            },
+            {
+                "0": "Dưới 1 năm",
+                "1": "133.203.168.045",
+                "2": "144.503.703.117"
+            },
+            {
+                "0": "Từ 1 năm đến 5 năm",
+                "1": "190.982.880.058",
+                "2": "219.246.104.977"
+            },
+            {
+                "0": "Trên 5 năm",
+                "1": "12.749.682.490",
+                "2": "39.071.304.844"
+            },
+            {
+                "0": "Tổng cộng các khoản phải thanh toán tối thiểu",
+                "1": "336.935.730.593",
+                "2": "402.821.112.938"
+            }
+        ]
+    }
+]

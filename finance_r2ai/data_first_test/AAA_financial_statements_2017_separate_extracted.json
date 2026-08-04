@@ -1,0 +1,3303 @@
+[
+    {
+        "chunk_id": "AAA_2017_separate_table_1",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "CÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\nBÁO CÁO TÀI CHÍNH RIÊNG ĐÃ ĐƯỢC KIỂM TOÁN\nCHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2017\n\nTháng 2 năm 2018\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng, thị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMỤC LỤC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "TRANG"
+            },
+            {
+                "0": "BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC",
+                "1": "2 - 3"
+            },
+            {
+                "0": "BÁO CÁO KIỂM TOÁN ĐỘC LẬP",
+                "1": "4 - 5"
+            },
+            {
+                "0": "BÀNG CÂN ĐỐI KẾ TOÁN",
+                "1": "6 - 7"
+            },
+            {
+                "0": "BÁO CÁO KẾT QUÀ HOẠT ĐỘNG KINH DOANH",
+                "1": "8"
+            },
+            {
+                "0": "BÁO CÁO LUÙ CHUYỄN TIỀN TỆ",
+                "1": "9 - 10"
+            },
+            {
+                "0": "THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG",
+                "1": "11 - 46"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_2",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "1\n\n\\( \\because {a}_{1} = 3 < \\frac{1}{2}{a}_{2} < \\frac{1}{2}{a}_{3} \\)\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cụm công nghiệp An Đồng, thị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC\n\nBan Tổng Giám đốc Công ty Cổ phần Nhựa và Môi trường xanh An Phát (gọi tất là “Công ty”) hệ trình Báo cáo này cùng với Báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017.\n\nHỘI ĐỒNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐC\n\nCác thành viên của Hội đồng Quản trị, Ban kiểm soát và Ban Tổng Giám đốc Công ty đã điều hành Công ty trong năm và đến ngày lập báo cáo này gồm:\n\nHội đồng Quản trị\n\n1. Ông Phạm Ánh Dương\n\n2. Ông Phạm Hoàng Việt\n\n3. Ông Nguyễn Lê Trung\n\n4. Bà Hòa Thị Thu Hà\n\n5. Ông Phạm Đình Ngư\n\nChủ tịch Hội đồng Quản trị\n\nỦy viên Hội đồng Quản trị\n\nỦy viên Hội đồng Quản trị\n\nỦy viên Hội đồng Quản trị\n\nỦy viên Hội đồng Quản trị\n\nBan Kiểm soát\n\n1. Bà Nguyễn Thị Giang\n\n2. Bà Vũ Thị Minh Nguyệt\n\n3. Bà Văn Thị Lan Anh\n\nTrường Ban kiểm soát\n\nỦy viên\n\nỦy viên\n\nBan Tổng Giám đốc\n\n1. Ông Nguyễn Lê Trung\n\n2. Ông Phạm Hoàng Việt\n\n3. Bà Trần Thị Thoàn\n\n4. Bà Đăng Thị Quỳnh Phương\n\nTổng Giám đốc\n\nPhó Tổng Giám đốc\n\nPhó Tổng Giám đốc\n\nPhó Tổng Giám đốc (bổ nhiệm ngày 08 tháng 03 năm 2017)\n\nTRÁCH NHIÊM CỦA BAN TỔNG GIÁM ĐỐC\n\nBan Tổng Giám đốc Công ty có trách nhiệm lập Báo cáo tài chính riêng hàng năm phân ánh một cách trung thực và hợp lý tình hình tài chính cũng như kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ của Công ty trong năm, phù hợp với Chuẩn mực Kế toán, Chế độ Kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Trong việc lập các Báo cáo tài chính riêng này, Ban Tổng Giám đốc được yêu cầu phải:\n\n- Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách đó một cách nhất quán;\n\n• Đưa ra các xét đoán và ước tính một cách hợp lý và thận trọng;\n\n- Nếu rõ các nguyên tắc kê toán thích hợp có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu cần được công bố và giải thích trong Báo cáo tài chính riêng hay không;\n\n- Lập Báo cáo tài chính riêng trên cơ sở hoạt động liên tục trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động kinh doanh; và\n\n- Thiết kế và thực hiện hệ thống kiểm soát nội bộ một cách hữu hiệu cho mục đích lập và trình bày Báo cáo tài chính hợp lý nhằm hạn chế rủi ro và gian lận.\n\nBan Tổng Giám đốc Công ty chịu trách nhiệm đảm bảo rằng số kế toán được ghi chép một cách phù hợp để phần ánh một cách hợp lý tính hình tài chính của Công ty ở bắt kỳ thời điểm nào và đảm bảo rằng Báo cáo tài chính riêng tuân thủ các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Ban Tổng Giám đốc cũng chịu trách nhiệm đảm bảo an toàn cho tài sản của Công ty và thực hiện các biện pháp thích hợp để ngăn chắn và phát hiện các hành vi gian lận và sai phạm khác.\n\n2\n\n\\( \\therefore {a}_{1} =  - 1 \\)\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cụm công nghiệp An Đồng, thị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (TIẾP THEO)\n\nBan Tổng Giám đốc xác nhận rằng Công ty đã tuân thủ các yêu cầu nêu trên trong việc lập Báo cáo tài chính riêng.\n\nThay mất và đại diện cho Ban Tổng Giám đốc,\n\nNguyễn Lê Trung\n\nTổng Giám đốc\n\nHải Dương, ngày 01 tháng 02 năm 2018\n\n3\n\n\n\nIFC\n\nCÔNG TY TNHH KIỂM TOÁN VÀ TƯ VĂN TÀI CHÍNH QUỐC TẾ\nInternational Auditing and Financial Consulting Company Limited\n\nĐịa chỉ: Tầng 15, Tòa nhà Center Building - Hapulico Complex, Số 1 Nguyễn Huy Tuống, Q. Thanh Xuân, Hà Nội Address: 15\\( ^{th} \\) Floor, Center Building - Hapulico Complex, No. 1 Nguyen Huy Tuong Str., Thanh Xuan Dist., Hanoi Tel: (+84) 24 666 42 777 Fax: (+84) 24 666 43 777 Email: ifc@ifcvietnam.com.vn Website: www.ifcvietnam.com.vn\n\nSố: 020101/2018/BCKT-IFC\n\nBÁO CÁO KIÊM TOÁN ĐỘC LẬP\n\nKính gửi: Các Cổ đông,\nHội đồng Quản trị và Ban Tổng Giám đốc\nCông ty Cổ phần Nhựa và Môi trường Xanh An Phát\n\nChúng tôi đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Nhựa và Môi trường Xanh An Phát (gọi tất là “Công ty”), được lập ngày 01 tháng 02 năm 2018, từ trang 6 đến trang 46, bao gồm Bàng cân đối kế toán tại ngày 31 tháng 12 năm 2017, Báo cáo kết quả hoạt động kinh doanh, Báo cáo lưu chuyển tiền tệ cho năm tài chính kết thúc cùng ngày và Bản thuyết minh báo cáo tài chính riêng.\n\nTrách nhiệm của Ban Tổng Giám đốc\n\nBan Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty theo chuẩn mục kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các chuẩn mục kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính riêng do gian lập hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.\n\nChúng tôi tin tưởng ràng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\nagn INTERNATIONAL\n\nThành viên hăng agn International / Member Firm of agn International\n\nKiểm toán/Audit. Kế toán/Accounting. Tư vấn thuế/Tax Consulting. Tài chính/Finance\n\n4\n\n\n\nBÁO CÁO KIÊM TOÁN ĐỘC LẬP (TIẾP THEO)\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến của chúng tôi, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tỉnh hình tài chính của Công ty tại ngày 31 tháng 12 năm 2017, cũng như kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ cho năm tài chính kết thúc cùng ngày, phù hợp với chuẩn mục kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài\n\nNguyên Thị Thanh Hoa\n\nPhó Tổng Giám đốc\n\nGiấy chứng nhận đăng ký hành nghề\n\nkiểm toán số 1402-2018-072-01\n\nThay mặt và đại diện cho\n\nCông ty TNHH Kiểm toán và\n\nTư vấn Tài chính Quốc tế\n\nHà Nội, ngày 01 tháng 02 năm 2018\n\nTrần Thiện Thanh\n\nKiểm toán viên\n\nGiấy chứng nhận đăng ký hành nghề\n\nkiểm toán số 1932-2018-072-01\n\n5\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng\n\nThị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMâu số B 01 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nBẢNG CÂN ĐỐI KẾ TOÁN\nTại ngày 31 tháng 12 năm 2017\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "TÀI SẢN",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "31/12/2017",
+                "4": "01/01/2017"
+            },
+            {
+                "0": "A. TÀI SẢN NGẮN HẠN",
+                "1": "100",
+                "2": "",
+                "3": "1.592.473.382.389",
+                "4": "1.123.392.357.975"
+            },
+            {
+                "0": "I. Tiền và các khoản tương đương tiền",
+                "1": "110",
+                "2": "5.1",
+                "3": "385.121.136.250",
+                "4": "271.195.540.667"
+            },
+            {
+                "0": "1. Tiền",
+                "1": "111",
+                "2": "",
+                "3": "90.325.084.055",
+                "4": "119.168.304.270"
+            },
+            {
+                "0": "2. Các khoản tương đương tiền",
+                "1": "112",
+                "2": "",
+                "3": "294.796.052.195",
+                "4": "152.027.236.397"
+            },
+            {
+                "0": "II. Đầu tư tài chính ngắn hạn",
+                "1": "120",
+                "2": "",
+                "3": "50.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "1. Đầu tư nắm giữ đến ngày đáo hạn",
+                "1": "123",
+                "2": "5.2",
+                "3": "50.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "III. Các khoản phải thu ngắn hạn",
+                "1": "130",
+                "2": "",
+                "3": "719.353.770.982",
+                "4": "392.511.532.808"
+            },
+            {
+                "0": "1. Phải thu ngắn hạn của khách hàng",
+                "1": "131",
+                "2": "5.3",
+                "3": "411.299.153.249",
+                "4": "204.674.630.115"
+            },
+            {
+                "0": "2. Trả trước cho người bán ngắn hạn",
+                "1": "132",
+                "2": "5.4",
+                "3": "169.027.027.329",
+                "4": "148.079.904.039"
+            },
+            {
+                "0": "3. Phải thu về cho vay ngắn hạn",
+                "1": "135",
+                "2": "5.5",
+                "3": "60.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "4. Phải thu ngắn hạn khác",
+                "1": "136",
+                "2": "5.6",
+                "3": "79.027.590.404",
+                "4": "40.224.129.892"
+            },
+            {
+                "0": "5. Dự phòng phải thu ngắn hạn khó đòi",
+                "1": "137",
+                "2": "",
+                "3": "-",
+                "4": "(467.131.238)"
+            },
+            {
+                "0": "IV. Hàng tồn kho",
+                "1": "140",
+                "2": "5.7",
+                "3": "410.223.409.952",
+                "4": "417.363.145.829"
+            },
+            {
+                "0": "1. Hàng tồn kho",
+                "1": "141",
+                "2": "",
+                "3": "410.223.409.952",
+                "4": "417.363.145.829"
+            },
+            {
+                "0": "V. Tài sản ngắn hạn khác",
+                "1": "150",
+                "2": "",
+                "3": "27.775.065.205",
+                "4": "42.322.138.671"
+            },
+            {
+                "0": "1. Chi phí trả trước ngắn hạn",
+                "1": "151",
+                "2": "5.13",
+                "3": "15.694.035.334",
+                "4": "21.266.549.943"
+            },
+            {
+                "0": "2. Thuế GTGT được khấu trừ",
+                "1": "152",
+                "2": "",
+                "3": "12.081.029.871",
+                "4": "21.055.588.728"
+            },
+            {
+                "0": "B. TÀI SẢN DÀI HẠN",
+                "1": "200",
+                "2": "",
+                "3": "2.124.783.920.813",
+                "4": "1.661.629.490.029"
+            },
+            {
+                "0": "I. Tài sản cố định",
+                "1": "220",
+                "2": "",
+                "3": "1.916.634.235.767",
+                "4": "1.304.914.037.031"
+            },
+            {
+                "0": "1. Tài sản cố định hữu hình",
+                "1": "221",
+                "2": "5.9",
+                "3": "1.843.161.063.205",
+                "4": "1.232.275.819.024"
+            },
+            {
+                "0": "- Nguyên giá",
+                "1": "222",
+                "2": "",
+                "3": "2.301.366.557.311",
+                "4": "1.573.025.768.925"
+            },
+            {
+                "0": "- Giá trị hao mòn luỹ kế",
+                "1": "223",
+                "2": "",
+                "3": "(458.205.494.106)",
+                "4": "(340.749.949.901)"
+            },
+            {
+                "0": "2. Tài sản cố định vô hình",
+                "1": "227",
+                "2": "5.10",
+                "3": "73.473.172.562",
+                "4": "72.638.218.007"
+            },
+            {
+                "0": "- Nguyên giá",
+                "1": "228",
+                "2": "",
+                "3": "78.363.572.029",
+                "4": "75.966.426.029"
+            },
+            {
+                "0": "- Giá trị hao mòn luỹ kế",
+                "1": "229",
+                "2": "",
+                "3": "(4.890.399.467)",
+                "4": "(3.328.208.022)"
+            },
+            {
+                "0": "II. Tài sản dở dang dài hạn",
+                "1": "240",
+                "2": "",
+                "3": "54.704.144.626",
+                "4": "208.354.542.284"
+            },
+            {
+                "0": "1. Chi phí xây dựng cơ bản dở dang",
+                "1": "242",
+                "2": "5.11",
+                "3": "54.704.144.626",
+                "4": "208.354.542.284"
+            },
+            {
+                "0": "III. Đầu tư tài chính dài hạn",
+                "1": "250",
+                "2": "",
+                "3": "125.084.851.243",
+                "4": "126.274.171.611"
+            },
+            {
+                "0": "1. Đầu tư vào công ty con",
+                "1": "251",
+                "2": "5.14",
+                "3": "127.367.618.356",
+                "4": "93.367.618.356"
+            },
+            {
+                "0": "2. Đầu tư vào công ty liên doanh, liên kết",
+                "1": "252",
+                "2": "5.15",
+                "3": "-",
+                "4": "32.906.553.255"
+            },
+            {
+                "0": "3. Dự phòng đầu tư tài chính dài hạn",
+                "1": "254",
+                "2": "",
+                "3": "(2.282.767.113)",
+                "4": "-"
+            },
+            {
+                "0": "IV. Tài sản dài hạn khác",
+                "1": "260",
+                "2": "",
+                "3": "28.360.689.177",
+                "4": "22.086.739.103"
+            },
+            {
+                "0": "1. Chi phí trả trước dài hạn",
+                "1": "261",
+                "2": "5.13",
+                "3": "28.360.689.177",
+                "4": "22.086.739.103"
+            },
+            {
+                "0": "TỔNG CỘNG TÀI SẢN",
+                "1": "270",
+                "2": "",
+                "3": "3.717.257.303.202",
+                "4": "2.785.021.848.004"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_3",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "Các thuyết minh từ trang 11 đến trang 46 là một bộ phận hợp thành của báo cáo tài chính riêng\n\n6\n\n10.0\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cụm công nghiệp An Đồng\n\nThị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMâu số B 01 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nBẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\nTại ngày 31 tháng 12 năm 2017\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "NGUỒN VỐN",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "31/12/2017",
+                "4": "01/01/2017"
+            },
+            {
+                "0": "C. NỘ PHẢI TRẢ",
+                "1": "300",
+                "2": "",
+                "3": "2.354.286.291.717",
+                "4": "1.879.120.984.366"
+            },
+            {
+                "0": "I. Nợ ngắn hạn",
+                "1": "310",
+                "2": "",
+                "3": "1.592.710.963.365",
+                "4": "1.051.544.496.328"
+            },
+            {
+                "0": "1. Phải trả người bán ngắn hạn",
+                "1": "311",
+                "2": "5.16",
+                "3": "436.755.772.880",
+                "4": "301.189.460.907"
+            },
+            {
+                "0": "2. Người mua trả tiền trước ngắn hạn",
+                "1": "312",
+                "2": "5.17",
+                "3": "10.134.285.292",
+                "4": "10.691.662.256"
+            },
+            {
+                "0": "3. Thuế và các khoản phải nộp Nhà nước",
+                "1": "313",
+                "2": "5.8",
+                "3": "9.862.131.252",
+                "4": "6.473.529.463"
+            },
+            {
+                "0": "4. Phải trả người lao động",
+                "1": "314",
+                "2": "",
+                "3": "11.239.249.675",
+                "4": "8.583.828.552"
+            },
+            {
+                "0": "5. Chỉ phí phải trả ngắn hạn",
+                "1": "315",
+                "2": "",
+                "3": "3.490.233.226",
+                "4": "-"
+            },
+            {
+                "0": "6. Phải trả ngắn hạn khác",
+                "1": "319",
+                "2": "5.12",
+                "3": "1.723.386.431",
+                "4": "5.243.946.325"
+            },
+            {
+                "0": "7. Vay và nợ thuê tài chính ngắn hạn",
+                "1": "320",
+                "2": "5.18",
+                "3": "1.119.481.663.635",
+                "4": "719.337.640.571"
+            },
+            {
+                "0": "8. Quỹ khen thưởng, phúc lợi",
+                "1": "322",
+                "2": "",
+                "3": "24.240.974",
+                "4": "24.428.254"
+            },
+            {
+                "0": "II. Nợ dài hạn",
+                "1": "330",
+                "2": "",
+                "3": "761.575.328.352",
+                "4": "827.576.488.038"
+            },
+            {
+                "0": "1. Vay và nợ thuê tài chính dài hạn",
+                "1": "338",
+                "2": "5.19",
+                "3": "761.575.328.352",
+                "4": "827.576.488.038"
+            },
+            {
+                "0": "D. VỐN CHỦ SỞ HỮU",
+                "1": "400",
+                "2": "",
+                "3": "1.362.971.011.485",
+                "4": "905.900.863.638"
+            },
+            {
+                "0": "I. Vốn chủ sở hữu",
+                "1": "410",
+                "2": "5.20",
+                "3": "1.362.971.011.485",
+                "4": "905.900.863.638"
+            },
+            {
+                "0": "1. Vốn góp của chủ sở hữu",
+                "1": "411",
+                "2": "",
+                "3": "835.999.880.000",
+                "4": "569.649.880.000"
+            },
+            {
+                "0": "- Cổ phiếu phổ thông có quyền biểu quyết",
+                "1": "411a",
+                "2": "",
+                "3": "835.999.880.000",
+                "4": "569.649.880.000"
+            },
+            {
+                "0": "2. Thặng dư vốn cổ phần",
+                "1": "412",
+                "2": "",
+                "3": "198.078.767.329",
+                "4": "160.721.267.329"
+            },
+            {
+                "0": "3. Quỹ đầu tư phát triển",
+                "1": "418",
+                "2": "",
+                "3": "40.986.236.108",
+                "4": "33.886.962.310"
+            },
+            {
+                "0": "4. Quỹ khác thuộc vốn chủ sở hữu",
+                "1": "420",
+                "2": "",
+                "3": "11.612.477.781",
+                "4": "11.612.477.781"
+            },
+            {
+                "0": "5. Lợi nhuận sau thuế chưa phân phối",
+                "1": "421",
+                "2": "",
+                "3": "276.293.650.267",
+                "4": "130.030.276.218"
+            },
+            {
+                "0": "- LNST chưa phân phối lũy kế đến cuối năm trước",
+                "1": "421a",
+                "2": "",
+                "3": "54.604.316.843",
+                "4": "51.280.874.906"
+            },
+            {
+                "0": "- LNST chưa phân phối năm nay",
+                "1": "421b",
+                "2": "",
+                "3": "221.689.333.424",
+                "4": "78.749.401.312"
+            },
+            {
+                "0": "TỔNG CỘNG NGUỒN VỐN",
+                "1": "440",
+                "2": "",
+                "3": "3.717.257.303.202",
+                "4": "2.785.021.848.004"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_4",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "Hải Dương, ngày 01 tháng 02 năm 2018\n\nCác thuyết minh từ trang 11 đến trang 46 là một bộ phận hợp thành của báo cáo tài chính riêng\n\n7\n\n12. 02-1\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MÔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng\nThị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 02 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH\n\nCho năm tài chính kết thúc ngày 31 tháng 12 năm 2017\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "Năm 2017",
+                "4": "Năm 2016"
+            },
+            {
+                "0": "1. Doanh thu bán hàng và cung cấp dịch vụ",
+                "1": "01",
+                "2": "",
+                "3": "3.550.043.848.026",
+                "4": "2.054.755.011.168"
+            },
+            {
+                "0": "2. Các khoản giảm trừ doanh thu",
+                "1": "02",
+                "2": "",
+                "3": "6.094.868.449",
+                "4": "1.607.150.157"
+            },
+            {
+                "0": "3. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "1": "10",
+                "2": "6.1",
+                "3": "3.543.948.979.577",
+                "4": "2.053.147.861.011"
+            },
+            {
+                "0": "4. Giá vốn hàng bán",
+                "1": "11",
+                "2": "6.2",
+                "3": "3.122.247.212.703",
+                "4": "1.790.221.564.273"
+            },
+            {
+                "0": "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "1": "20",
+                "2": "",
+                "3": "421.701.766.874",
+                "4": "262.926.296.738"
+            },
+            {
+                "0": "6. Doanh thu hoạt động tài chính",
+                "1": "21",
+                "2": "6.3",
+                "3": "100.486.431.182",
+                "4": "27.383.398.861"
+            },
+            {
+                "0": "7. Chi phí tài chính",
+                "1": "22",
+                "2": "6.4",
+                "3": "86.733.404.580",
+                "4": "49.381.124.579"
+            },
+            {
+                "0": "- Trong đó: Chi phí lãi vay",
+                "1": "23",
+                "2": "",
+                "3": "72.238.546.834",
+                "4": "23.874.478.344"
+            },
+            {
+                "0": "8. Chi phí bán hàng",
+                "1": "25",
+                "2": "6.5",
+                "3": "73.198.326.541",
+                "4": "42.175.002.551"
+            },
+            {
+                "0": "9. Chi phí quản lý doanh nghiệp",
+                "1": "26",
+                "2": "6.5",
+                "3": "63.878.559.030",
+                "4": "55.359.918.016"
+            },
+            {
+                "0": "10. Lợi nhuận thuần từ hoạt động kinh doanh",
+                "1": "30",
+                "2": "",
+                "3": "298.377.907.905",
+                "4": "143.393.650.453"
+            },
+            {
+                "0": "11. Thu nhập khác",
+                "1": "31",
+                "2": "6.6",
+                "3": "2.203.762.549",
+                "4": "8.057.236.655"
+            },
+            {
+                "0": "12. Chi phí khác",
+                "1": "32",
+                "2": "6.7",
+                "3": "385.326.407",
+                "4": "22.255.986"
+            },
+            {
+                "0": "13. Lợi nhuận khác",
+                "1": "40",
+                "2": "",
+                "3": "1.818.436.142",
+                "4": "8.034.980.669"
+            },
+            {
+                "0": "14. Tổng lợi nhuận kế toán trước thuế",
+                "1": "50",
+                "2": "",
+                "3": "300.196.344.047",
+                "4": "151.428.631.122"
+            },
+            {
+                "0": "15. Chi phí thuế TNDN hiện hành",
+                "1": "51",
+                "2": "6.8",
+                "3": "48.882.016.623",
+                "4": "20.779.241.810"
+            },
+            {
+                "0": "16. Chi phí thuế TNDN hoãn lại",
+                "1": "52",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+                "1": "60",
+                "2": "",
+                "3": "251.314.327.424",
+                "4": "130.649.389.312"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_5",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "Hải Dương, ngày 01 tháng 02 năm 2018\n\nCác thuyết minh từ trang 11 đến trang 46 là một bộ phận hợp thành của báo cáo tài chính riêng\n\n8\n\n\n\nCÔNG TY CÓ PHẦN NHỰA\nVÀ MỔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng\nThị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 03 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nBÁO CÁO LUU CHUYÊN TIÊN TÊ\n\n(Theo phương pháp gián tiếp)\n\nCho năm tài chính kết thúc ngày 31 tháng 12 năm 2017\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Mã số",
+                "2": "Năm 2017",
+                "3": "Năm 2016"
+            },
+            {
+                "0": "I. LƯU CHUYỀN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "1": "I. LƯU CHUYỀN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "I. LƯU CHUYỀN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "3": "I. LƯU CHUYỀN TIÊN TỪ HOẠT ĐỘNG KINH DOANH"
+            },
+            {
+                "0": "1. Lợi nhuận kế toán trước thuế",
+                "1": "01",
+                "2": "300.196.344.047",
+                "3": "151.428.631.122"
+            },
+            {
+                "0": "2. Điều chỉnh cho các khoản:",
+                "1": "2. Điều chỉnh cho các khoản:",
+                "2": "2. Điều chỉnh cho các khoản:",
+                "3": "2. Điều chỉnh cho các khoản:"
+            },
+            {
+                "0": "Khấu hao tài sản cố định và bất động sản đầu tư",
+                "1": "02",
+                "2": "147.426.582.224",
+                "3": "79.588.965.601"
+            },
+            {
+                "0": "Các khoản dự phòng",
+                "1": "03",
+                "2": "2.282.767.113",
+                "3": "467.131.238"
+            },
+            {
+                "0": "(Lãi)/Lỗ chênh lệch tỷ giá hối đoái đo đánh giá lại các khoản mục tiên tệ có gốc ngoại tệ",
+                "1": "04",
+                "2": "2.434.725.654",
+                "3": "10.341.639.424"
+            },
+            {
+                "0": "(Lãi)/Lỗ từ hoạt động đầu tư",
+                "1": "05",
+                "2": "(81.997.774.190)",
+                "3": "(16.371.512.626)"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "06",
+                "2": "72.238.546.834",
+                "3": "23.874.478.344"
+            },
+            {
+                "0": "3. Lưu chuyển tiền từ hoạt động kinh doanh trước thay đổi vốn",
+                "1": "08",
+                "2": "442.581.191.682",
+                "3": "249.329.333.103"
+            },
+            {
+                "0": "(Tăng)/Giám các khoản phải thu",
+                "1": "09",
+                "2": "(399.462.959.538)",
+                "3": "(228.439.200.246)"
+            },
+            {
+                "0": "(Tăng)/Giám hàng tồn kho",
+                "1": "10",
+                "2": "7.139.735.877",
+                "3": "(232.352.735.608)"
+            },
+            {
+                "0": "Tăng/(Giám) các khoản phải trả",
+                "1": "11",
+                "2": "13.775.331.012",
+                "3": "196.344.837.711"
+            },
+            {
+                "0": "(Tăng)/Giám chi phí trả trước",
+                "1": "12",
+                "2": "(701.435.465)",
+                "3": "(15.990.246.627)"
+            },
+            {
+                "0": "Tiền lãi vay đã trả",
+                "1": "14",
+                "2": "(68.748.313.608)",
+                "3": "(23.874.478.344)"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp đã nộp",
+                "1": "15",
+                "2": "(45.446.243.496)",
+                "3": "(19.846.985.339)"
+            },
+            {
+                "0": "Tiền thu khác từ hoạt động kinh doanh",
+                "1": "16",
+                "2": "142.062.411.459",
+                "3": "82.589.244.341"
+            },
+            {
+                "0": "Tiền chi khác từ hoạt động kinh doanh",
+                "1": "17",
+                "2": "(11.359.025.357)",
+                "3": "(3.926.400.997)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+                "1": "20",
+                "2": "79.840.692.566",
+                "3": "3.833.367.994"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_6",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "Các thuyết minh từ trang 11 đến trang 46 là một bộ phận hợp thành của báo cáo tài chính\n\n9\n\n23.\n\n\n\nCÔNG TY CỔ PHẦN NHUẠ\n\nVÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cụm công nghiệp An Đồng\n\nThị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 03 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nBÁO CÁO LUU CHUYÊN TIÊN TỆ (TIẾP THEO)\n\n(Theo phương pháp gián tiếp)\n\nCho năm tài chính kết thúc ngày 31 tháng 12 năm 2017\n\nMÃU B 03-DN\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Mã số",
+                "2": "Năm 2017",
+                "3": "Năm 2016"
+            },
+            {
+                "0": "II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "1": "II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "2": "II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "3": "II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+            },
+            {
+                "0": "1. Tiền chỉ để mua sám, xây dựng TSCĐ và các TSDH khác",
+                "1": "21",
+                "2": "(485.222.624.052)",
+                "3": "(1.012.094.415.910)"
+            },
+            {
+                "0": "2. Tiền thu do thanh lý, nhượng bán TSCĐ và các TSDH khác",
+                "1": "22",
+                "2": "486.363.637",
+                "3": "27.305.278.908"
+            },
+            {
+                "0": "3. Tiền chỉ cho vay và mua công cụ nợ của các đơn vị khác",
+                "1": "23",
+                "2": "(260.000.000.000)",
+                "3": "-"
+            },
+            {
+                "0": "4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",
+                "1": "24",
+                "2": "150.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "5. Tiền chỉ đầu tư góp vốn vào các đơn vị khác",
+                "1": "25",
+                "2": "(85.000.000.000)",
+                "3": "182.297.428.509"
+            },
+            {
+                "0": "6. Tiền thu hồi đầu tư góp vốn vào các đơn vị khác",
+                "1": "26",
+                "2": "150.547.322.000",
+                "3": "9.726.330.554"
+            },
+            {
+                "0": "7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+                "1": "27",
+                "2": "15.554.322.946",
+                "3": "-"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+                "1": "30",
+                "2": "(513.634.615.469)",
+                "3": "(792.765.377.939)"
+            },
+            {
+                "0": "III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "1": "III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "3": "III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+            },
+            {
+                "0": "1. Tiền thu từ phát hành cổ phiếu và nhận vốn góp của CSH",
+                "1": "31",
+                "2": "303.752.500.000",
+                "3": "84.247.500.000"
+            },
+            {
+                "0": "2. Tiền thu từ đi vay",
+                "1": "33",
+                "2": "3.439.457.269.844",
+                "3": "2.255.379.285.446"
+            },
+            {
+                "0": "3. Tiền trả nợ gốc vay",
+                "1": "34",
+                "2": "(3.108.756.358.374)",
+                "3": "(1.533.347.859.562)"
+            },
+            {
+                "0": "4. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",
+                "1": "36",
+                "2": "(86.666.597.750)",
+                "3": "(86.362.442.100)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                "1": "40",
+                "2": "547.786.813.720",
+                "3": "719.916.483.784"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần trong năm",
+                "1": "50",
+                "2": "113.992.890.817",
+                "3": "(69.015.526.161)"
+            },
+            {
+                "0": "Tiền và tương đương tiền đầu năm",
+                "1": "60",
+                "2": "271.195.540.667",
+                "3": "340.135.133.873"
+            },
+            {
+                "0": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+                "1": "",
+                "2": "(67.295.234)",
+                "3": "75.932.955"
+            },
+            {
+                "0": "Tiền và tương đương tiền cuối năm",
+                "1": "70",
+                "2": "385.121.436.250",
+                "3": "271.195.540.667"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_7",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "Nguyen Lê Trung\n\nTổng Giám đốc\n\nHải Dương, ngày 01 tháng 02 năm 2018\n\nCác thuyết minh từ trang 11 đến trang 46 là một bộ phận hợp thành của báo cáo tài chính\n\n10\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MÔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMâu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo\n\n1. THÔNG TIN KHÁI QUÁT\n\nHình thức sở hữu vốn\n\nCông ty Cổ phần Nhựa và Môi trường Xanh An Phát (goi tất là “Công ty”) là Công ty Cổ phần được thành lập và hoạt động theo Giấy chứng nhận đăng ký kinh doanh lần đầu số 0403000550 do Sở Kế hoạch và Đầu tư tỉnh Hải Dương cấp ngày 09 tháng 03 năm 2007 và Giấy chứng nhận đăng ký kinh doanh và đăng ký thuế Công ty Cổ phần số 0800373586 đăng ký thay đổi lần thứ nhất ngày 26 tháng 2 năm 2009. Theo Giấy chứng nhận đăng ký kinh doanh thay đổi lần thứ 25 ngày 08 tháng 12 năm 2017, vốn điều lệ của Công ty là 835.999.880.000 đồng (Bằng chữ. Tám trăm ba mươi lăm tỷ chính trăm chính mươi chính triệu tám trăm tám mươi nghìn đồng).\n\nCông ty có tên giao dịch: AN PHAT PLASTIC AND GREEN ENVIRONMENT JOINT STOCK COMPANY, tên viết tất là ANPHAT., JSC.\n\nTrụ sở chính của Công ty tại Lô CN11+CN12, cụm công nghiệp An Đồng, thị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương và Văn phòng đại diện tại Hà Nội: Số B9, Ngách 6/106, đường Hoàng Quốc Việt, phường Nghĩa Đô, Quận Cầu Giấy, thành phố Hà Nội.\n\nTổng số lao động của Công ty tại ngày 31 tháng 12 năm 2017 là 1.688 người (tại ngày 31 tháng 12 năm 2016 là 1.589 người).\n\nVốn điều lệ của Công ty\n\nTheo Giấy chứng nhận đăng ký kinh doanh thay đổi lần 25 ngày 08 tháng 12 năm 2017, tổng số vốn điều lệ của Công ty là 835.999.880.000 đồng tương đương với 83.599.988 cổ phần phổ thông và mệnh giá mỗi cổ phần phổ thông là 10.000 đồng/cổ phần.\n\nNgành nghề kinh doanh và hoạt động chính\n\nNgành nghề kinh doanh của Công ty là Sản xuất, kinh doanh nhựa và bao bì nhựa các loại.\n\nHoạt động sản xuất kinh doanh chính của Công ty bao gồm:\n\n- Mua bán máy móc, vật tư, nguyên liệu sản phẩm nhựa, bao bì nhựa các loại;\n\n- Sản xuất các sản phẩm nhựa (PP, PE);\n\n• In và các dịch vụ in quảng cáo trên bao bì;\n\n• Xây dựng công trình dân dụng;\n\n• Lắp đặt trang thiết bị cho các công trình xây dựng;\n\n• Kinh doanh bất động sản;\n\n• Mua bán hàng may mặc;\n\n- Mua bán máy móc thiết bị và phụ tùng thay thế, chuyển giao công nghệ;\n\n- Đại lý mua bán, ký gửi hàng hóa, môi giới thương mại, ủy thác mua bán hàng hóa;\n\n- Vận chuyển hàng hoá, hành khách bằng ô tô và các hoạt động phụ trợ cho vận tải;\n\n- Hoạt động thu gom, xử lý tiêu huỷ rác thải;\n\n• Tái chế phế liệu; và\n\n- Xử lý ô nhiễm và hoạt động quản lý chất rác thải; sản xuất máy móc thiết bị phục vụ ngành nhựa.\n\nChu kỳ sản xuất, kinh doanh thông thường\n\nChu kỳ sản xuất, kinh doanh thông thường của Công ty được thực hiện trong thời gian không quá 12 tháng.\n\n11\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MỔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n1. THÔNG TIN KHÁI QUÁT (TIẾP THEO)\n\nCâu trúc doanh nghiệp\n\nTại ngày 31 tháng 12 năm 2017, Công ty có 3 Công ty con sau:\n\n1. Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên Bái (“Công ty con”) là Công ty cổ phần được thành lập theo Giấy Chứng nhận đăng ký kinh doanh số 5200466372 do Sở Kế hoạch và Đầu tư tính Yên Bái cấp lần đầu ngày 01 tháng 10 năm 2009. Hiện tại, Công ty con đang hoạt động theo Giấy chứng nhận đăng ký kinh doanh số 5200466372 thay đổi lần thứ 06 ngày 18 tháng 10 năm 2016.\n\nCông ty con có tên giao dịch: AN PHAT - YEN BAI MINERAL & PLASTIC JOINT STOCK COMPANY, tên viết tất là AnphatYenbaiM&P., JSC.\n\nTrụ sở của Công ty con tại Khu công nghiệp phía nam, xã Văn Tiến, thành phố Yên Bái, tỉnh Yên Bái.\n\nNgành nghề kinh doanh và hoạt động chính: Sản xuất sản phẩm từ nhựa Plastic, chi tiết sản xuất sản phẩm nhựa (PE, PP).\n\n2. Công ty TNHH Nhựa Thakhek (“Công ty con”) là Công ty TNHH được thành lập theo Thỏa thuận phát triển dự án số 007/TSZ ngày 05 tháng 03 năm 2013 giữa Ban quản lý đặc khu kinh tế riêng biệt Thakhek, tỉnh Khammouane.\n\nCông ty con có tên giao dịch là THAKHEK PLASTIC CO., LTD.\n\nTrụ sở của Công ty con tại Làng Vern, huyện Thakhek, tỉnh Khammouane, CHDCND Lào.\n\n3. Công ty Cổ phần Khu Công nghiệp Kỹ thuật Cao An Phát (“Công ty con”) là Công ty cổ phần được thành lập theo Giấy Chứng nhận đăng ký kinh doanh đăng ký lần đầu số 0801225485 ngày 27 tháng 10 năm 2017. Hiện tại Công ty hoạt động theo Giấy chứng nhận đăng ký kinh doanh thay đổi lần thứ nhất ngày 18 tháng 12 năm 2017.\n\nTrụ sở của Công ty con tại Lô CN11+CN12, cụm công nghiệp An Đồng, thị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương.\n\nTrong năm 2017, Công ty và các công ty con có những sự kiện ảnh hưởng đến cơ cấu doanh nghiệp, cụ thể như sau:\n\n{a} Các thành viên hội đồng quản trị chuyển nhượng toàn bộ cổ phần sở hữu tại Công ty Cổ phần Nhựa và Môi trường xanh An Phát cho Công ty Cổ phần An Phát Holdings thông qua sản chứng khoán.\n\n{b} Ngày 12 tháng 04 năm 2017, Công ty Cổ phần Nhựa và Môi trường Xanh An Phát đã hoàn thành nội dung thoái vốn tại Công ty con là Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên Bái (mã cổ phiếu HII). Đến thời điểm hoàn thành giao dịch, tổng vốn đầu tư còn lại tại HIII là 48.000.000.000 đồng; chiếm tỷ lệ 35,29%. Công ty Cổ phần Nhựa và Môi trường xanh An Phát là cổ đông sáng lập nằm giữ quyền bỏ đa số phiếu tại các cuộc họp của Hội đồng quản trị, nằm giữ quyền bổ nhiệm Giám đốc Công ty. Như vậy, Công ty Cổ phần Nhựa và Khoáng sản An Phát Yên Bái vẫn hoạt động với tư cách là công ty con của Công ty CP Nhựa và Môi trường Xanh An Phát.\n\n12\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MỔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIÊP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n1. THÔNG TIN KHÁI QUÁT (TIẾP THEO)\n\nCâu trúc doanh nghiệp (Tiếp theo)\n\n{c} Theo Quyết định về việc niêm yết cổ phiếu số 199/QĐ-SGDHCM ngày 14 tháng 6 năm 2017, Cổ phiếu của Công ty Nhựa và Khoáng sản An Phát - Yên Bái đã được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh với mã Chứng khoán là HII, mệnh giá cổ phiếu 10.000 đồng/cổ phiếu. Số lượng cổ phiếu phát hành là 13.600.000 cổ phiếu. Ngày niêm yết có hiệu lực là ngày 14 tháng 6 năm 2017; ngày chính thức giao dịch là ngày 22 tháng 06 năm 2017.\n\nCũng theo Biên bản nói trên, Đại Hội đồng Cổ đông thông qua việc góp vốn thành lập công ty con Công ty Cổ phần Sản xuất Tổng hợp An Thành. Tại thời điểm 31 tháng 12 năm 2017, tỷ lệ sở hữu tương ứng của Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên Bái trong Công ty Cổ phần Sản xuất Tổng hợp An Thành là 51%.\n\n{d} Ngày 10 tháng 01 năm 2017, Công ty đã hoàn thành chuyển nhượng toàn bộ 966.582 cổ phiếu VBC (Mã cổ phiếu của Công ty Cổ phần Nhựa và Bao bì Vinh). Trong phiên giao dịch toàn bộ cổ phiếu VBC mà Công ty Cổ phần Nhựa và Môi trường Xanh An Phát nằm giữ được chuyển nhượng với giá bình quân 71.000 đồng/cổ phiếu.\n\n{e} Ngày 28 tháng 2 năm 2017, theo Biên bản hợp Hội đồng Cổ đông thường niên số 2802/2017/BB- ĐHĐ, Công ty Nhựa và Khoáng sản An Phát - Yên Bái đã thông qua việc góp vốn vào Công ty Cổ phần Liên vận An Tín với số vốn góp thêm là 51.000.000.000 đồng, tỷ lệ sở hữu tại ngày 31 tháng 12 năm 2017 của Công ty Nhựa và Khoáng sản An Phát - Yên Bái trong Công ty Cổ phần Liên vận An Tín là 51%.\n\n{f} Ngày 23 tháng 10 năm 2017, Nghị quyết của Công ty Cổ phần Nhựa và Môi trường Xanh An Phát thông qua quyết định góp vốn thành lập Công ty con Công ty Cổ phần Khu Công nghiệp Kỹ thuật cao An Phát với vốn điều lệ là 100.000.000.000 đồng (Một trăm tỷ đồng), trong đó Công ty góp 65.000.000.000 đồng, chiếm tỷ lệ sở hữu 65%. Ngày 29 tháng 11 năm 2017, nội dung góp vốn cho Công ty con đã hoàn thành.\n\n2. CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH VÀ KỲ KẾ TOÁN\n\nCơ sở lập Báo cáo tài chính\n\nBáo cáo tài chính kèm theo được trình bày bằng Đồng Việt Nam (VND), theo nguyên tắc giá gốc và phù hợp với Chuẩn mực Kế toán, Chế độ Kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính.\n\nBáo cáo tài chính kèm theo không nhằm phần ánh tình hình tài chính, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại các nước khác ngoài Việt Nam.\n\nKỳ kế toán\n\nNăm tài chính của Công ty bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12.\n\n13\n\nTOV TRAC\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MỔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n3. ÁP DỤNG CHUẢN MỤC VÀ CHẾ ĐỘ KẾ TOÁN\n\nCông ty áp dụng Thông tư số 200/2014/TT - BTC (“Thông tư 200”) ngày 22 tháng 12 năm 2014 của Bộ Tài chính và Thông tư số 53/2016/TT-BTC ngày 21/03/2016 của Bộ Tài chính về việc sửa đổi, bổ sung một số điều của Thông tư số 200/2014/TT-BTC hướng dẫn chế độ kế toán cho doanh nghiệp trong việc lập và trình bày báo cáo tài chính. Công ty đã tuân thủ đầy đủ yêu cầu của Chuẩn mực kế toán Việt Nam hiện hành trong việc lập và trình bày báo cáo tài chính.\n\nCông ty áp dụng số kế toán theo hình thức Kế toán máy.\n\n4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YỀU\n\nSau đây là các chính sách kế toán chủ yếu được Công ty áp dụng trong việc lập Báo cáo tài chính:\n\nUốc tính kế toán\n\nViệc lập Báo cáo tài chính tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Hệ thống kế toán Việt Nam và các quy định hiện hành có liên quan tại Việt Nam yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày lập Báo cáo tài chính cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt năm tài chính. Kết quả hoạt động kinh doanh thực tế có thể khác với các ước tính, giả định đặt ra.\n\nTiền và các khoản tương đương tiền\n\nTiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, các khoản tiền gửi không kỳ hạn, các khoản đầu tư ngắn hạn, có khả năng thanh khoản cao, dễ dàng chuyển đổi thành tiền và ít rủi ro liên quan đến việc biến động giá trị.\n\nCác khoản đầu tư tài chính\n\nCác khoản đầu tư nằm giữ đến ngày đáo hạn\n\nCác khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm các khoản đầu tư mà Công ty có ý định và khả năng giữ đến ngày đáo hạn. Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm: các khoản tiền gửi ngân hàng có kỳ hạn (bao gồm cả các loại tín phiếu, kỳ phiếu), trái phiếu, cổ phiếu ưu đãi bên phát hành bắt buộc phải mua lại tại một thời điểm nhất định trong tương lai và các khoản cho vay nắm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ và các khoản đầu tư nắm giữ đến ngày đáo hạn khác.\n\nCác khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận bắt đầu từ ngày mua và được xác định giá trị ban đầu theo giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư. Thu nhập lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh trên cơ sở dự thu. Lãi được hưởng trước khi Công ty nắm giữ được ghi giảm trừ vào giá gốc tại thời điểm mua.\n\nCác khoản đầu tư nắm giữ đến ngày đáo hạn được xác định theo giá gốc trừ đi dự phòng phải thu khó đòi. Dự phòng phải thu khó đòi của các khoản đầu tư nắm giữ đến ngày đáo hạn được trích lập theo các quy định kế toán hiện hành.\n\n14\n\n11A 5,2M 30\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MÔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)\n\nCác khoản đầu tư tài chính (Tiếp theo)\n\nĐầu tư vào công ty con\n\nCông ty con là các công ty do Công ty kiểm soát. Việc kiểm soát đạt được khi Công ty có khả năng kiểm soát các chính sách tài chính và hoạt động của các công ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của các công ty này.\n\nĐầu tư vào công ty liên kết\n\nCông ty liên kết là một công ty mà Công ty có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của Công ty. Ảnh hưởng đáng kể thể hiện ở quyền tham gia vào việc đưa ra các quyết định về chính sách tài chính và hoạt động của bên nhận đầu tư nhưng không có ảnh hưởng về mặt kiểm soát hoặc đồng kiểm soát những chính sách này.\n\nCông ty ghi nhận ban đầu khoản đầu tư vào công ty con, công ty liên doanh, liên kết theo giá gốc. Công ty hạch toán vào thu nhập trên Báo cáo kết quả hoạt động kinh doanh khoản được chia từ lợi nhuận thuần lũy kế của bên nhận đầu tư phát sinh sau ngày đầu tư. Các khoản khác mà Công ty nhận được ngoài lợi nhuận được chia được coi là phần thu hồi các khoản đầu tư và được ghi nhận là khoản giảm trừ giá gốc đầu tư.\n\nCác khoản đầu tư vào công ty con, công ty liên doanh, công ty liên kết được trình bày trong Bảng cân đối kế toán theo giá gốc trừ đi các khoản dự phòng giảm giá (nếu có).\n\nNợ phải thu\n\nNợ phải thu là số tiền có thể thu hồi của khách hàng hoặc các đối tượng khác. Nợ phải thu được trình bày theo giá trị ghi sổ trừ đi các khoản dự phòng phải thu khó đòi.\n\nDự phòng nợ phải thu khó đòi được trích lập cho các khoản: nợ phải thu quá hạn thanh toán ghi trong hợp đồng kinh tế, các khế ước vay nợ, cam kết hợp đồng hoặc cam kết nợ và nợ phải thu chưa đến hạn thanh toán nhưng khó có khả năng thu hồi. Trong đó, việc trích lập dự phòng nợ phải thu quá hạn thanh toán được căn cứ vào thời gian trả nợ gốc theo hợp đồng mua bán ban đầu, không tính đến việc gia hạn nợ giữa các bên và nợ phải thu chưa đến hạn thanh toán nhưng khách nợ đã lâm vào tỉnh trạng phá sản hoặc đang làm thủ tục giải thể, mất tích, bổ trốn.\n\nHàng tôn kho\n\nHàng tồn kho được xác định trên cơ sở giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc hàng tồn kho bao gồm chỉ phí nguyên vật liệu trực tiếp, chỉ phí lao động trực tiếp và chỉ phí sản xuất chung, nếu có, để có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Giá gốc của hàng tồn kho được xác định theo phương pháp bình quân gia quyền. Giá trị thuần có thể thực hiện được được xác định bằng giá bán ước tính trừ các chỉ phí ước tính để hoàn thành sản phẩm cùng chỉ phí tiếp thị, bán hàng và phân phối phát sinh.\n\nDự phòng giảm giá hàng tồn kho của Công ty được trích lập theo các quy định kế toán hiện hành. Theo đó, Công ty được phép trích lập dự phòng giảm giá hàng tồn kho lỗi thời, hồng, kém phẩm chất và trong trường hợp giá gốc của hàng tồn kho cao hơn giá trị thuần có thể thực hiện được tại ngày kết thúc niên độ kế toán.\n\n15\n\n121 47.00=121\n\n\n\nCÔNG TY CỔ PHẦN NHUẠ\n\nVÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đông,\n\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)\n\nTài sản cố định hữu hình và khấu hao\n\nTài sản cố định hữu hình được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế.\n\nNguyên giá tài sản cố định hữu hình bao gồm giá mua và toàn bộ các chi phí khác liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng.\n\nNguyên giá tài sản cố định hữu hình do nhà thầu thực hiện là giá trị quyết toán cuối cùng của công trình cộng các chi phí liên quan trực tiếp và chi phí đăng ký, nếu có.\n\nTài sản cố định hữu hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính, cụ thể như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số năm"
+            },
+            {
+                "0": "Nhà cửa và vật kiến trúc",
+                "1": "05 - 50"
+            },
+            {
+                "0": "Máy móc và thiết bị",
+                "1": "05 - 12"
+            },
+            {
+                "0": "Phương tiện vận tải",
+                "1": "05 - 15"
+            },
+            {
+                "0": "Thiết bị, dụng cụ quản lý",
+                "1": "03 - 10"
+            },
+            {
+                "0": "Cây lây năm, sức vật làm việc cho sản phẩm",
+                "1": "05 - 25"
+            },
+            {
+                "0": "Tài sản khác",
+                "1": "04 - 12"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_8",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "Các khoản lãi, lỗ phát sinh khi thanh lý, bán tài sản là chênh lệch giữa thu nhập từ thanh lý và giá trị còn lại của tài sản và được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh.\n\nTài sản cố định vô hình và khấu hao\n\nTài sản cố định vô hình của Công ty bao gồm quyền sử dụng đất có thời hạn và phần mềm máy vi tính.\n\nTài sản cố định vô hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính. Thời gian khấu hao cụ thể như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số năm"
+            },
+            {
+                "0": "Quyền sử dụng đất nhà đào tạo",
+                "1": "20"
+            },
+            {
+                "0": "Quyền sử dụng đất Nhà máy 1",
+                "1": "45"
+            },
+            {
+                "0": "Quyền sử dụng đất Nhà máy 2 và Nhà máy 3",
+                "1": "21"
+            },
+            {
+                "0": "Quyền sử dụng đất Nhà máy 5",
+                "1": "375"
+            },
+            {
+                "0": "Quyền sử dụng đất Nhà máy 6",
+                "1": "47"
+            },
+            {
+                "0": "Quyền sử dụng đất nhà máy 7",
+                "1": "18"
+            },
+            {
+                "0": "Phần mềm máy vi tính",
+                "1": "03"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_9",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "Chi phí xây dựng cơ bản dở dang\n\nCác tài sản đang trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê, quản trị hoặc cho bất kỳ mục đích nào khác được ghi nhận theo giá gốc. Chi phí này bao gồm chi phí dịch vụ và chi phí lãi vay có liên quan phù hợp với chính sách kế toán của Công ty. Việc tính khấu hao của các tài sản này được áp dụng giống như với các tài sản khác, bất đầu từ khi tài sản ở vào trạng thái sẵn sàng sử dụng.\n\n16\n\n11.1.  \\( \\overrightarrow{m} \\) ,  \\( \\overrightarrow{q} \\) ,  \\( \\overrightarrow{z} \\) ,  \\( \\overrightarrow{w} \\) ,  \\( \\overrightarrow{t} \\) ,  \\( \\overrightarrow{v} \\) ,  \\( \\overrightarrow{w} \\)\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cụm công nghiệp An Đồng, thị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)\n\nCác khoản trả trước\n\nChi phí trả trước bao gồm các chi phí thực tế đã phát sinh nhưng có liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều kỳ kế toán. Chi phí trả trước bao gồm khoản chi phí sửa chữa nhà xưởng, máy móc thiết bị và các khoản chi phí trả trước khác.\n\nCác khoản chi phí trả trước khác bao gồm giá trị công cụ, dụng cụ đã xuất dùng, và được coi là có khả năng dem lại lợi ích kinh tế trong tương lai cho Công ty. Các chi phí này được vốn hóa dưới hình thức các khoản trả trước và được phân bổ vào Báo cáo kết quả hoạt động kinh doanh, sử dụng phương pháp đường thẳng theo các quy định kế toán hiện hành.\n\nGhi nhận doanh thu và chi phí\n\nDoanh thu bán hàng được ghi nhận khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:\n\n(a) Doanh nghiệp đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;\n\n(b) Doanh nghiệp không còn nằm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa;\n\n(c) Doanh thu được xác định tương đối chắc chắn;\n\n(d) Doanh nghiệp sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và\n\n(e) Xác định được chi phí liên quan đến giao dịch bán hàng.\n\nGiá vốn bán hàng được ghi nhận và tập hợp theo giá trị và số lượng thành phẩm, hàng hóa, vật tư xuất bán cho khách hàng, phù hợp với doanh thu ghi nhận trong kỳ.\n\nChi phí hoạt động sản xuất kinh doanh phát sinh có liên quan đến việc hình thành doanh thu trong năm được tập hợp theo thực tế và ước tính đúng kỳ kế toán.\n\nDoanh thu của giao dịch về cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch đó được xác định một cách đáng tin cây. Trường hợp giao dịch về cung cấp dịch vụ liên quan đến nhiều niên độ thì doanh thu được ghi nhận trong niên độ theo kết quả phần công việc đã hoàn thành tại ngày của Bảng cân đối kế toán hợp nhất của niên độ đó. Kết quả của giao dịch cung cấp dịch vụ được xác định khi thỏa mãn tất cả bốn (4) điều kiện sau:\n\n(a) Doanh thu được xác định tương đối chắc chắn;\n\n(b) Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;\n\n(c) Xác định được phần công việc đã hoàn thành tại ngày của Bảng cân đối kế toán hợp nhất; và\n\n(d) Xác định được chi phí phát sinh cho giao dịch và chi phí đề hoàn thành giao dịch cung cấp dịch vụ đó.\n\nNgoại tê\n\nCông ty áp dụng xử lý chênh lệch tỷ giá theo hướng dẫn của Chuẩn mực kế toán Việt Nam số 10 (VAS 10) “Ảnh hưởng của việc thay đổi tỷ giá hối đoái”.\n\n17\n\n10% 章:写入\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMâu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIÊP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)\n\nChi phí di vay\n\nChi phí đi vay được ghi nhận vào chi phí sản xuất, kinh doanh trong năm khi phát sinh, trừ khi được vốn hoá theo quy định của Chuẩn mực kế toán “Chi phí đi vay”. Theo đó, chi phí đi vay liên quan trực tiếp đến việc mua, đầu tư xây dựng hoặc sản xuất những tài sản cần một thời gian tương đối dài để hoàn thành đưa vào sử dụng hoặc kinh doanh được cộng vào nguyên giá tài sản cho đến khi tài sản đó được đưa vào sử dụng hoặc kinh doanh. Các khoản thu nhập phát sinh từ việc đầu tư tạm thời các khoản vay được ghi giảm nguyên giá tài sản có liên quan. Đối với khoản vay riêng phục vụ việc xây dựng tài sản cố định, bất động sản đầu tư, lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng.\n\nThuế\n\nThuế thu nhập doanh nghiệp thể hiện tổng giá trị của số thuế phải trả hiện tại và số thuế hoãn lại.\n\nSố thuế hiện tại phải trả được tính dựa trên thu nhập chịu thuế trong năm. Thu nhập chịu thuế khác với lợi nhuận thuần được trình bày trên Báo cáo Kết quả hoạt động kinh doanh vì thu nhập chịu thuế không bao gồm các khoản thu nhập hay chi phí tính thuế hoặc được khấu trừ trong các năm khác (bao gồm cả lỗ mang sang, nếu có) và ngoài ra không bao gồm các chỉ tiêu không chịu thuế hoặc không được khấu trừ.\n\nTại thời điểm lập báo cáo, thuế suất thuế thu nhập đối với hoạt động sản xuất kinh doanh của Nhà máy 1, Nhà máy 2, Nhà máy số 3, Nhà máy 6 và Nhà máy 7 hoạt động thương mại và hoạt động khác của Công ty là 20%. Nhà máy số 5 được miễn thuế 2 năm và giảm 50% trong 4 năm tiếp theo kể từ khi có thu nhập chịu thuế. Năm 2017 là năm thứ hai nhà máy số 5 được miễn thuế thu nhập doanh nghiệp.\n\nViệc xác định thuế thu nhập của Công ty căn cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm tra của cơ quan thuế có thẩm quyền.\n\nThuế thu nhập hoãn lại được tính trên các khoản chênh lệch giữa giá trị ghi sổ và cơ sở tính thuế thu nhập của các khoản mục tài sản hoặc công nợ trên Báo cáo tài chính và được ghi nhận theo phương pháp bằng cân đối kế toán. Thuế thu nhập hoãn lại phải trả phải được ghi nhận cho tất cả các khoản chênh lệch tạm thời còn tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để khấu trừ các khoản chênh lệch tạm thời.\n\nThuế thu nhập hoãn lại được xác định theo thuế suất dự tính sẽ áp dụng cho năm tài sản được thu hồi hay nợ phải trả được thanh toán. Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh trừ trường hợp khoản thuế đó có liên quan đến các khoản mục được ghi thẳng vào vốn chủ sở hữu. Trong trường hợp đó, thuế thu nhập hoãn lại cũng được ghi thẳng vào vốn chủ sở hữu.\n\nTài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả được bù trừ khi Công ty có quyền hợp pháp đề bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và khi các tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế và Công ty có dự định thanh toán thuế thu nhập hiện hành trên cơ sở thuần. Các loại thuế khác được áp dụng theo các luật thuế hiện hành tại Việt Nam.\n\n18\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\n\nVÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng,\n\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOÃN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN\n\n5.1. Tiền và các khoản tương đương tiền",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2017VND",
+                "2": "01/01/2017VND"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "15.813.643.990",
+                "2": "687.420.079"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "74.509.885.265",
+                "2": "118.480.884.191"
+            },
+            {
+                "0": "Tiền đang chuyển",
+                "1": "1.554.800",
+                "2": "-"
+            },
+            {
+                "0": "Các khoản tương đương tiền (*)",
+                "1": "294.796.052.195",
+                "2": "152.027.236.397"
+            },
+            {
+                "0": "Cộng",
+                "1": "385.121.136.250",
+                "2": "271.195.540.667"
+            },
+            {
+                "0": "Ngân hàng",
+                "1": "31/12/2017",
+                "2": "01/01/2017"
+            },
+            {
+                "0": "Ngân hàng Xăng Dầu Petrolimex",
+                "1": "58.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh KCN Hải Dương",
+                "1": "50.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Hải Dương",
+                "1": "101.796.052.195",
+                "2": "52.250.969.175"
+            },
+            {
+                "0": "Ngân hàng TMCP Đầu tư và phát triển Việt Nam - Chi nhánh SGD 1",
+                "1": "50.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Ngân hàng TMCP ngoại thương Việt Nam - Chi nhánh Hải Dương",
+                "1": "-",
+                "2": "20.000.000.000"
+            },
+            {
+                "0": "Ngân hàng TMCP Quốc tế Việt Nam - Chi nhánh Hải Dương",
+                "1": "-",
+                "2": "58.246.500.000"
+            },
+            {
+                "0": "Ngân hàng TNHH MTV Hong Leong Việt Nam - Chi nhánh Hà Nội",
+                "1": "5.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Ngân hàng TNHH MTV Shinhan Việt Nam",
+                "1": "-",
+                "2": "21.529.767.222"
+            },
+            {
+                "0": "Ngân hàng Việt Nam Thịnh Vượng - Chi nhánh Đống Đa",
+                "1": "10.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Ngân hàng TMCP Kỹ Thương Việt Nam - Chi nhánh Hải Dương",
+                "1": "20.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "294.796.052.195",
+                "2": "152.027.236.397"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_10",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "19\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MÔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIỂP THEO)\n\n5.2. Đầu tư nằm giữ đến ngày đáo hạn\n\n{a} Theo hợp đồng đặt mua trái phiếu số 744/HĐTP/VPBS/ATK-Q/HO ngày 8 tháng 12 năm 2017 giữa Công ty Cổ phần Nhựa và Môi trường Xanh An Phát và Công ty Cổ phần Chứng khoán Ngân hàng TMCP Việt Nam Thịnh Vượng, Công ty Cổ phần Nhựa và Môi trường Xanh An Phát đặt mua 300.000 trái phiếu của Công ty TNHH ATAKA với mệnh giá là 100.000 đồng, tổng số tiền là 30 tỷ đồng chắn.\n\n{b} Theo hợp đồng đặt mua trái phiếu số 743/HĐTP/VPBS/ATK-Q/HO ngày 8 tháng 12 năm 2017 giữa Công ty Cổ phần Nhựa và Môi trường Xanh An Phát và Công ty Cổ phần Chứng khoán Ngân hàng TMCP Việt Nam Thịnh Vượng, Công ty Cổ phần Nhựa và Môi trường Xanh An Phát đặt mua 200.000 trái phiếu của Công ty TNHH MTV ATAKA với mệnh giá là 100.000 đồng, tổng số tiền là 20 tỷ đồng chắn.\n\n5.3. Phải thu ngắn hạn của khách hàng",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2017VND",
+                "2": "01/01/2017VND"
+            },
+            {
+                "0": "a. Phải thu ngắn hạn của khách hàng",
+                "1": "a. Phải thu ngắn hạn của khách hàng",
+                "2": "a. Phải thu ngắn hạn của khách hàng"
+            },
+            {
+                "0": "Phải thu khách hàng trong nước",
+                "1": "139.596.334.488",
+                "2": "28.964.897.691"
+            },
+            {
+                "0": "Phải thu khách hàng nước ngoài",
+                "1": "271.702.818.761",
+                "2": "175.709.732.424"
+            },
+            {
+                "0": "Cộng",
+                "1": "411.299.153.249",
+                "2": "204.674.630.115"
+            },
+            {
+                "0": "Trong đó: Phải thu khách hàng các bên liên quan (Chi tiết tại thuyết minh 7.2)",
+                "1": "125.481.368.910",
+                "2": "5.315.169.086"
+            },
+            {
+                "0": "a. Trả trước cho người bán ngắn hạn",
+                "1": "a. Trả trước cho người bán ngắn hạn",
+                "2": "a. Trả trước cho người bán ngắn hạn"
+            },
+            {
+                "0": "Trả trước cho người bán trong nước",
+                "1": "36.476.533.055",
+                "2": "38.175.530.500"
+            },
+            {
+                "0": "Trả trước cho người bán nước ngoài",
+                "1": "132.550.494.274",
+                "2": "109.904.373.539"
+            },
+            {
+                "0": "Cộng",
+                "1": "169.027.027.329",
+                "2": "148.079.904.039"
+            },
+            {
+                "0": "Trong đó: Trả trước cho người bán các bên liên quan (Chi tiết tại thuyết minh 7.2)",
+                "1": "12.391.635.271",
+                "2": "1.271.234.275"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_11",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "5.5. Phải thu về cho vay ngắn hạn\n\n{a} Khoản cho vay cá nhân anh Phạm Thanh Bình theo hợp đồng số 012/2017 ngày 5 tháng 12 năm 2017 với số tiền bằng 30 tỷ đồng. Lãi suất cho vay bằng 6%/năm. Tiền gốc và lãi được thanh toán 1 lần khi đến hạn.\n\n{b} Khoản cho vay theo hợp đồng vay vốn số 08122017-02/AP-YB ngày 8 tháng 12 năm 2017 và hợp đồng vay vốn số 08122017-01/AP-YB ngày 8 tháng 12 năm 2017 với số tiền bằng 30 tỷ đồng trong thời hạn 03 tháng, lãi suất bằng 6%/Năm. Tiền gốc và lãi được thanh toán 1 lần khi đến hạn.\n\n20\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\n\nVÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng,\n\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.6. Phải thu ngắn hạn khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2017VND",
+                "2": "01/01/2017VND"
+            },
+            {
+                "0": "- Tạm ứng",
+                "1": "34.500.161.000",
+                "2": "8.178.822.238"
+            },
+            {
+                "0": "- Ký cược, ký quỹ ngắn hạn",
+                "1": "7.920.021.285",
+                "2": "3.789.210.700"
+            },
+            {
+                "0": "- Thuế GTGT đề nghị hoàn",
+                "1": "10.000.000.000",
+                "2": "28.091.050.852"
+            },
+            {
+                "0": "- Kho bạc nhà nước tính hải dương - Cục thuế tính Hải Dương (tiền hỗ trợ tiền thuê đất tại nhà máy 6 từ tháng 6/2017 đến T4/2043)",
+                "1": "18.481.993.000",
+                "2": "-"
+            },
+            {
+                "0": "- Phải thu khác",
+                "1": "8.125.415.119",
+                "2": "165.046.102"
+            },
+            {
+                "0": "Cộng",
+                "1": "79.027.590.404",
+                "2": "40.224.129.892"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_12",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "21\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (TIẾP THEO)\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cả\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)",
+        "dataframe": [
+            {
+                "0": "5.7. Hàng tồn kho",
+                "1": "31/12/2017",
+                "2": "31/12/2017",
+                "3": "01/01/2017",
+                "4": "01/01/2017"
+            },
+            {
+                "0": "5.7. Hàng tồn kho",
+                "1": "Giá gốc VND",
+                "2": "Dự phòng VND",
+                "3": "Giá gốc VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Hàng mua đang đi đường",
+                "1": "9.915.036.980",
+                "2": "-",
+                "3": "26.925.196.561",
+                "4": "-"
+            },
+            {
+                "0": "Nguyên liệu, vật liệu",
+                "1": "296.407.270.975",
+                "2": "-",
+                "3": "299.399.413.447",
+                "4": "-"
+            },
+            {
+                "0": "Công cụ, dụng cụ",
+                "1": "15.154.158.019",
+                "2": "-",
+                "3": "11.393.154.789",
+                "4": "-"
+            },
+            {
+                "0": "Chi phí sản xuất, kinh doanh dở dang",
+                "1": "15.174.471.739",
+                "2": "-",
+                "3": "16.064.918.516",
+                "4": "-"
+            },
+            {
+                "0": "Thành phẩm",
+                "1": "73.572.472.239",
+                "2": "-",
+                "3": "63.580.462.516",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "410.223.409.952",
+                "2": "-",
+                "3": "417.363.145.829",
+                "4": "-"
+            },
+            {
+                "0": "5.8. Thuế và các khoản phải nộp Nhà nước",
+                "1": "31/12/2017 VND",
+                "2": "Số phải nộp trong năm VND",
+                "3": "Số đã thực nộp/bù trừ trong năm VND",
+                "4": "01/01/2017 VND"
+            },
+            {
+                "0": "Thuế giá trị gia tăng",
+                "1": "-",
+                "2": "-",
+                "3": "867.648",
+                "4": "867.648"
+            },
+            {
+                "0": "Thuế xuất nhập khẩu",
+                "1": "-",
+                "2": "2.987.347.218",
+                "3": "2.987.347.218",
+                "4": "-"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp",
+                "1": "9.861.583.442",
+                "2": "48.882.016.623",
+                "3": "45.446.243.496",
+                "4": "6.425.810.315"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "547.810",
+                "2": "3.552.716.433",
+                "3": "3.599.020.123",
+                "4": "46.851.500"
+            },
+            {
+                "0": "Các loại thuế khác",
+                "1": "-",
+                "2": "1.930.317.943",
+                "3": "1.930.317.943",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "9.862.131.252",
+                "2": "57.352.398.217",
+                "3": "53.963.796.428",
+                "4": "6.473.529.463"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_13",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "Mẫu số B 09 - DN\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\n22\n\n(1) \\( \\because {AD} = {BD} = 1 \\)\n\n\n\nMẫu số B 09 - DN\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (TIẾP THEO)\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.9. Tài sản cố định hữu hình",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nhà cửa vật kiến trúc",
+                "2": "Máy móc thiết bị",
+                "3": "Phương tiện vận tải",
+                "4": "Thiết bị văn phòng",
+                "5": "Cây lâu năm, sức vật làm việc cho sản phẩm",
+                "6": "Tài sản cố định hữu hình khác",
+                "7": "Tổng"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND",
+                "5": "VND",
+                "6": "VND",
+                "7": "VND"
+            },
+            {
+                "0": "NGUYÊN GIÁ",
+                "1": "NGUYÊN GIÁ",
+                "2": "NGUYÊN GIÁ",
+                "3": "NGUYÊN GIÁ",
+                "4": "NGUYÊN GIÁ",
+                "5": "NGUYÊN GIÁ",
+                "6": "NGUYÊN GIÁ",
+                "7": "NGUYÊN GIÁ"
+            },
+            {
+                "0": "Tại ngày 01/01/2017",
+                "1": "359.530.452.771",
+                "2": "1.076.599.310.869",
+                "3": "97.902.652.803",
+                "4": "5.396.869.578",
+                "5": "13.650.983.000",
+                "6": "19.945.499.904",
+                "7": "1.573.025.768.925"
+            },
+            {
+                "0": "Mua trong năm",
+                "1": "13.607.480.014",
+                "2": "137.099.822.486",
+                "3": "55.613.759.295",
+                "4": "806.014.400",
+                "5": "-",
+                "6": "1.348.959.000",
+                "7": "208.476.035.195"
+            },
+            {
+                "0": "Đầu tư XDCB hoàn thành",
+                "1": "159.810.976.981",
+                "2": "373.868.959.206",
+                "3": "12.565.016.465",
+                "4": "88.550.000",
+                "5": "-",
+                "6": "2.623.778.251",
+                "7": "548.957.280.903"
+            },
+            {
+                "0": "Thanh lý, nhượng bán",
+                "1": "-",
+                "2": "(29.092.527.712)",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "-",
+                "7": "(29.092.527.712)"
+            },
+            {
+                "0": "Tại ngày 31/12/2017",
+                "1": "532.948.909.766",
+                "2": "1.558.475.564.849",
+                "3": "166.081.428.563",
+                "4": "6.291.433.978",
+                "5": "13.650.983.000",
+                "6": "23.918.237.155",
+                "7": "2.301.366.557.311"
+            },
+            {
+                "0": "GIÁ TRỊ HAO MÒN LỦY KẾ",
+                "1": "GIÁ TRỊ HAO MÒN LỦY KẾ",
+                "2": "GIÁ TRỊ HAO MÒN LỦY KẾ",
+                "3": "GIÁ TRỊ HAO MÒN LỦY KẾ",
+                "4": "GIÁ TRỊ HAO MÒN LỦY KẾ",
+                "5": "GIÁ TRỊ HAO MÒN LỦY KẾ",
+                "6": "GIÁ TRỊ HAO MÒN LỦY KẾ",
+                "7": "GIÁ TRỊ HAO MÒN LỦY KẾ"
+            },
+            {
+                "0": "Tại ngày 01/01/2017",
+                "1": "37.622.563.378",
+                "2": "271.712.006.844",
+                "3": "21.719.040.638",
+                "4": "1.266.660.094",
+                "5": "4.399.277.515",
+                "6": "4.030.401.432",
+                "7": "340.749.949.901"
+            },
+            {
+                "0": "Khẩu hao trong năm",
+                "1": "19.061.016.446",
+                "2": "108.395.094.931",
+                "3": "14.843.241.431",
+                "4": "705.421.247",
+                "5": "755.754.504",
+                "6": "2.103.862.220",
+                "7": "145.864.390.779"
+            },
+            {
+                "0": "Thanh lý, nhượng bán",
+                "1": "-",
+                "2": "(28.408.846.574)",
+                "3": "",
+                "4": "-",
+                "5": "-",
+                "6": "-",
+                "7": "(28.408.846.574)"
+            },
+            {
+                "0": "Tại ngày 31/12/2017",
+                "1": "56.683.579.824",
+                "2": "351.698.255.201",
+                "3": "36.562.282.069",
+                "4": "1.972.081.341",
+                "5": "5.155.032.019",
+                "6": "6.134.263.652",
+                "7": "458.205.494.106"
+            },
+            {
+                "0": "GIÁ TRỊ CÒN LẠI",
+                "1": "GIÁ TRỊ CÒN LẠI",
+                "2": "GIÁ TRỊ CÒN LẠI",
+                "3": "GIÁ TRỊ CÒN LẠI",
+                "4": "GIÁ TRỊ CÒN LẠI",
+                "5": "GIÁ TRỊ CÒN LẠI",
+                "6": "GIÁ TRỊ CÒN LẠI",
+                "7": "GIÁ TRỊ CÒN LẠI"
+            },
+            {
+                "0": "Tại ngày 01/01/2017",
+                "1": "321.907.889.393",
+                "2": "804.887.304.025",
+                "3": "76.183.612.165",
+                "4": "4.130.209.484",
+                "5": "9.251.705.485",
+                "6": "15.915.098.472",
+                "7": "1.232.275.819.024"
+            },
+            {
+                "0": "Tại ngày 31/12/2017",
+                "1": "476.265.329.942",
+                "2": "1.206.777.309.648",
+                "3": "129.519.146.494",
+                "4": "4.319.352.637",
+                "5": "8.495.950.981",
+                "6": "17.783.973.503",
+                "7": "1.843.161.063.205"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_14",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "Nguyên giá của TSCĐ hữu hình đã khấu hao hết nhưng vẫn còn sử dụng tại ngày 31 tháng 12 năm 2017 là 23.575.867.482 đồng (tại ngày 31 tháng 12 năm 2016 là 40.266.362.843 đồng).\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\n23\n\n\\( \\therefore {a}_{1} =  - 1 \\)\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MÔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.10. Tài sản cố định vô hình",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Quyền sử dụng đất VND",
+                "2": "Phần mềm máy tính VND",
+                "3": "Cộng VND"
+            },
+            {
+                "0": "NGUYÊN GIÁ",
+                "1": "NGUYÊN GIÁ",
+                "2": "NGUYÊN GIÁ",
+                "3": "NGUYÊN GIÁ"
+            },
+            {
+                "0": "Tại ngày 01/01/2017",
+                "1": "75.827.426.029",
+                "2": "139.000.000",
+                "3": "75.966.426.029"
+            },
+            {
+                "0": "Tăng trong năm",
+                "1": "21.156.593.000",
+                "2": "137.500.000",
+                "3": "21.294.093.000"
+            },
+            {
+                "0": "Giảm khác (*)",
+                "1": "(18.896.947.000)",
+                "2": "-",
+                "3": "(18.896.947.000)"
+            },
+            {
+                "0": "Tại ngày 31/12/2017",
+                "1": "78.087.072.029",
+                "2": "276.500.000",
+                "3": "78.363.572.029"
+            },
+            {
+                "0": "HAO MÒN LỦY KẾ",
+                "1": "HAO MÒN LỦY KẾ",
+                "2": "HAO MÒN LỦY KẾ",
+                "3": "HAO MÒN LỦY KẾ"
+            },
+            {
+                "0": "Tại ngày 01/01/2017",
+                "1": "3.239.735.804",
+                "2": "88.472.218",
+                "3": "3.328.208.022"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "1.510.384.550",
+                "2": "51.806.895",
+                "3": "1.562.191.445"
+            },
+            {
+                "0": "Tại ngày 31/12/2017",
+                "1": "4.750.120.354",
+                "2": "140.279.113",
+                "3": "4.890.399.467"
+            },
+            {
+                "0": "GIÁ TRỊ CÒN LẠI",
+                "1": "GIÁ TRỊ CÒN LẠI",
+                "2": "GIÁ TRỊ CÒN LẠI",
+                "3": "GIÁ TRỊ CÒN LẠI"
+            },
+            {
+                "0": "Tại ngày 01/01/2017",
+                "1": "72.587.690.225",
+                "2": "50.527.782",
+                "3": "72.638.218.007"
+            },
+            {
+                "0": "Tại ngày 31/12/2017",
+                "1": "73.336.951.675",
+                "2": "136.220.887",
+                "3": "73.473.172.562"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_15",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "Giá trị còn lại cuối kỳ của TSCĐ vô hình đã dùng để thế chấp, cầm cố đảm bảo các khoản vay tại ngày 31 tháng 12 năm 2017 là 73.473.172.562 đồng (tại ngày 31 tháng 12 năm 2016 là 72.638.218.007 đồng).\n\nNguyên giá của TSCĐ vô hình đã khấu hao hết nhưng vẫn còn sử dụng tại ngày 31 tháng 12 năm 2017 là 32.000.000 đồng (tại ngày 31 tháng 12 năm 2016 là 32.000.000 đồng).\n\n(*) Tiền hỗ trợ đến bù giải phóng mặt bằng Nhà máy 6 theo công văn số 4806/XN-CT của Cục thuế tính Hải Dương về việc tiền bồi thường đất, hỗ trợ đất diện tích đất thuê: 99.212 m²- NM6, thời gian thuê đất đến hết 15 tháng 8 năm 2064. Theo đó, tổng số tiền hỗ trợ là 18.896.947.000 đồng, được trừ vào tiền thuê đất phải nộp hàng năm của Công ty Cổ phần nhựa và môi trường xanh An Phát từ tháng 6 năm 2017 đến hết tháng 12 năm 2043.\n\n24\n\n\\( \\left( N_{2}O_{3} \\right)_{2} = 0 \\)\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MÔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.11. Chi phí xây dựng cơ bản dở dang",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2017VND",
+                "2": "01/01/2017VND"
+            },
+            {
+                "0": "Nhà máy số 6 (Dự án 10ha)",
+                "1": "-",
+                "2": "161.966.410.420"
+            },
+            {
+                "0": "- Xây dựng cơ bản dở dang",
+                "1": "",
+                "2": "78.649.756.367"
+            },
+            {
+                "0": "- Mua sắm máy móc thiết bị",
+                "1": "",
+                "2": "83.316.654.053"
+            },
+            {
+                "0": "Nhà máy số 7",
+                "1": "-",
+                "2": "41.809.579.319"
+            },
+            {
+                "0": "- Xây dựng cơ bản dở dang",
+                "1": "",
+                "2": "40.297.183.319"
+            },
+            {
+                "0": "- Mua sắm máy móc thiết bị",
+                "1": "",
+                "2": "1.512.396.000"
+            },
+            {
+                "0": "Nhà điều hành",
+                "1": "-",
+                "2": "4.181.074.545"
+            },
+            {
+                "0": "- Xây dựng cơ bản dở dang",
+                "1": "",
+                "2": "4.181.074.545"
+            },
+            {
+                "0": "Cải tạo nhà máy số 2 và 3",
+                "1": "",
+                "2": "223.746.000"
+            },
+            {
+                "0": "Cải tạo nhà máy số 5",
+                "1": "",
+                "2": "173.732.000"
+            },
+            {
+                "0": "Nhà máy số 8",
+                "1": "53.065.449.171",
+                "2": "-"
+            },
+            {
+                "0": "Xây dựng cơ bản dở dang",
+                "1": "46.376.462.282",
+                "2": "-"
+            },
+            {
+                "0": "Mua sắm máy móc thiết bị",
+                "1": "6.688.986.889",
+                "2": "-"
+            },
+            {
+                "0": "Nhà đào tạo",
+                "1": "1.638.695.455",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "54.704.144.626",
+                "2": "208.354.542.284"
+            },
+            {
+                "0": "- Kinh phí công đoàn;",
+                "1": "123.329.400",
+                "2": "410.413.724"
+            },
+            {
+                "0": "- Bảo hiểm xã hội;",
+                "1": "-",
+                "2": "8.394.100"
+            },
+            {
+                "0": "- Bảo hiểm y tế;",
+                "1": "52.015",
+                "2": "-"
+            },
+            {
+                "0": "- Bảo hiểm thất nghiệp;",
+                "1": "99.366",
+                "2": "1.159.045"
+            },
+            {
+                "0": "- Cổ tức, lợi nhuận phải trả;",
+                "1": "292.987.542",
+                "2": "219.231.292"
+            },
+            {
+                "0": "- Các khoản phải trả, phải nộp khác.",
+                "1": "1.306.918.108",
+                "2": "4.604.748.164"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.723.386.431",
+                "2": "5.243.946.325"
+            },
+            {
+                "0": "a. Ngắn hạn",
+                "1": "a. Ngắn hạn",
+                "2": "a. Ngắn hạn"
+            },
+            {
+                "0": "- Công cụ, dụng cụ xuất dùng",
+                "1": "15.694.035.334",
+                "2": "21.266.549.943"
+            },
+            {
+                "0": "Cộng",
+                "1": "15.694.035.334",
+                "2": "21.266.549.943"
+            },
+            {
+                "0": "b. Dài hạn",
+                "1": "b. Dài hạn",
+                "2": "b. Dài hạn"
+            },
+            {
+                "0": "- Công cụ, dụng cụ xuất dùng",
+                "1": "28.360.689.177",
+                "2": "22.086.739.103"
+            },
+            {
+                "0": "Cộng",
+                "1": "28.360.689.177",
+                "2": "22.086.739.103"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_16",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "25\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng,\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được dọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.14 Đầu tư vào Công ty con\n\na. Chi tiết đầu tư Công ty con",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2017",
+                "2": "31/12/2017",
+                "3": "31/12/2017",
+                "4": "01/01/2017",
+                "5": "01/01/2017",
+                "6": "01/01/2017"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc VND",
+                "2": "Giá trị hợp lý VND",
+                "3": "Dự phòng VND",
+                "4": "Giá gốc VND",
+                "5": "Giá trị hợp lý VND",
+                "6": "Dự phòng VND"
+            },
+            {
+                "0": "Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên Bái (Mã CK: HII)",
+                "1": "48.000.000.000",
+                "2": "139.200.000.000",
+                "3": "-",
+                "4": "79.000.000.000",
+                "5": "(**)",
+                "6": "-"
+            },
+            {
+                "0": "Công ty TNHH Nhựa Thakhek",
+                "1": "14.367.618.356",
+                "2": "(*)",
+                "3": "-",
+                "4": "14.367.618.356",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Khu Công nghiệp Kỹ thuật cao An Phát",
+                "1": "65.000.000.000",
+                "2": "(*)",
+                "3": "-",
+                "4": "-",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "127.367.618.356",
+                "2": "",
+                "3": "-",
+                "4": "93.367.618.356",
+                "5": "",
+                "6": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_17",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "Theo quy định tại Thông tư số 200/TT-BTC ngày 22 tháng 12 năm 2014, giá trị hợp lý của các khoản đầu tư vào công ty con, công ty liên kết tại ngày 31 tháng 12 năm 2017 cần được trình bày và được xác định giá trị hợp lý trên cơ sở giá niêm yết của cổ phiếu trên sản giao dịch chứng khoán tại ngày lập báo cáo tài chính riêng và số lượng cổ phiếu mà Công ty đang nằm giữ. Tuy nhiên do các công ty này chưa thực hiện niêm yết cổ phiếu trên các thị trường chứng khoán, nên giá trị hợp lý của các khoản đầu tư vào các công ty này tại ngày 31 tháng 12 năm 2017 chưa thể xác định được để trình bày trên thuyết minh Báo cáo tài chính riêng theo quy định tại Thông tư số 200/TT-BTC.\n\nGiá trị hợp lý tại ngày 31 tháng 12 năm 2017 được tính toán theo giá trị thị trường của cổ phiếu HII, giá đóng cửa ngày 31 tháng 12 năm 2017 là 29.000 đồng/cổ phiếu, số lượng cổ phiếu nằm giữ là 4.800.000 đồng. Cổ phiếu của Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên Bái được niêm yết tại Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh (HOSE) theo quyết định số 199/QĐ-SGDHCM ngày 14 tháng 06 năm 2017 nên tại ngày 01 tháng 01 năm 2017, Công ty chưa có cơ sở để xác định giá trị hợp lý của khoản đầu tư để trình bày trên thuyết minh Báo cáo tài chính riêng theo quy định tại Thông tư số 200/TT-BTC.\n\n(*)\n\n(**)\n\n26\n\n\\( \\therefore m : x = 1 \\) 或 \\( {3x} + {4y} + 1 = 0 \\)\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.14 Đầu tư vào Công ty con (Tiếp theo)\n\nb. Thông tin chi tiết hoạt động của Công ty con",
+        "dataframe": [
+            {
+                "0": "STT",
+                "1": "Tên công ty con",
+                "2": "Nơi thành lập và hoạt động",
+                "3": "Tỷ lệ sở hữu",
+                "4": "Tỷ lệ quyền biểu quyết",
+                "5": "Hoạt động chính"
+            },
+            {
+                "0": "1.",
+                "1": "Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên Bái",
+                "2": "Yên Bái",
+                "3": "35,29%",
+                "4": "60,00%",
+                "5": "Khai thác đá, dịch vụ hỗ trợ khai thác mỏ và quặng khác; sản xuất kinh doanh các sản phẩm nhựa; vận tải hàng hóa bằng đường bộ, nhà hàng và các dịch vụ ăn uống phục vụ lưu động, sản xuất các sản phẩm nhựa (PP,PE); dịch vụ liên quan đến in, bán lẻ xi măng, gạch xây, vật liệu xây dựng khác; thu gom, xử lý và tiểu huỷ rác thải."
+            },
+            {
+                "0": "2.",
+                "1": "Công ty TNHH Nhựa Thakhek",
+                "2": "CHDCND Lào",
+                "3": "100,00%",
+                "4": "100,00%",
+                "5": "Mua bán nhựa từ nước ngoài và nội địa nước CHDCND Lào; Sản xuất hạt nhựa tái chế."
+            },
+            {
+                "0": "3",
+                "1": "Công ty Cổ phần Khu Công nghiệp Kỹ thuật cao An Phát",
+                "2": "Hải Dương",
+                "3": "65,00%",
+                "4": "65,00%",
+                "5": "Ngành nghề kinh doanh chính là Sản xuất nhựa công nghệ cao; linh kiện điện tử"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_18",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "5.15 Đầu tư vào Công ty liên doanh, liên kết",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2017",
+                "2": "31/12/2017",
+                "3": "31/12/2017",
+                "4": "01/01/2017",
+                "5": "01/01/2017",
+                "6": "01/01/2017"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Giá trị hợp lý",
+                "3": "Dự phòng",
+                "4": "Giá gốc",
+                "5": "Giá trị hợp lý (i)",
+                "6": "Dự phòng"
+            },
+            {
+                "0": "Công ty Cổ phần Nhựa Bao bì Vinh",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "32.906.553.255",
+                "5": "67.660.740.000",
+                "6": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "32.906.553.255",
+                "5": "67.660.740.000",
+                "6": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_19",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "(i) Giá trị hợp lý được tính toán bằng cách lấy giá đóng cửa của Công ty Cổ phần Nhựa Bao bì Vinh (mã chứng khoán VBC) nhân (x) với số lượng cổ phiếu Công ty Cổ phần Nhựa và Môi trường xanh An Phát đang nằm giữ cùng ngày. Giá đóng cửa của VBC trên sản HNX tại ngày 01 tháng 01 năm 2017 là 70.000 đồng/cổ phiếu.\n\n27\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đông,\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.16 Phải trả người bán ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "31/12/2017",
+                "3": "31/12/2017",
+                "4": "01/01/2017",
+                "5": "01/01/2017"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Giá trịVND",
+                "3": "Số có khả năngtrả nợVND",
+                "4": "Giá trịVND",
+                "5": "Số có khả năngtrả nợVND"
+            },
+            {
+                "0": "a. Các khoản phải trả người bán ngắn hạn",
+                "1": "a. Các khoản phải trả người bán ngắn hạn",
+                "2": "a. Các khoản phải trả người bán ngắn hạn",
+                "3": "a. Các khoản phải trả người bán ngắn hạn",
+                "4": "a. Các khoản phải trả người bán ngắn hạn",
+                "5": "a. Các khoản phải trả người bán ngắn hạn"
+            },
+            {
+                "0": "",
+                "1": "Phải trả nhà cung cấp nước ngoài",
+                "2": "397.593.821.324",
+                "3": "397.593.821.324",
+                "4": "264.563.403.829",
+                "5": "264.563.403.829"
+            },
+            {
+                "0": "",
+                "1": "Phải trả nhà cung cấp trong nước",
+                "2": "39.161.951.556",
+                "3": "39.161.951.556",
+                "4": "36.626.057.078",
+                "5": "36.626.057.078"
+            },
+            {
+                "0": "Cộng",
+                "1": "Cộng",
+                "2": "436.755.772.880",
+                "3": "436.755.772.880",
+                "4": "301.189.460.907",
+                "5": "301.189.460.907"
+            },
+            {
+                "0": "Trong đó: Phải trả người bán là các bên liên quan(Chi tiết thuyết minh 7.2)",
+                "1": "Trong đó: Phải trả người bán là các bên liên quan(Chi tiết thuyết minh 7.2)",
+                "2": "6.460.603.121",
+                "3": "6.460.603.121",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "5.17",
+                "1": "Người mua trả tiền trước ngắn hạn",
+                "2": "Người mua trả tiền trước ngắn hạn",
+                "3": "Người mua trả tiền trước ngắn hạn",
+                "4": "Người mua trả tiền trước ngắn hạn",
+                "5": "Người mua trả tiền trước ngắn hạn"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "31/12/2017",
+                "3": "31/12/2017",
+                "4": "01/01/2017",
+                "5": "01/01/2017"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Giá trịVND",
+                "3": "Số có khả năngtrả nợVND",
+                "4": "Giá trịVND",
+                "5": "Số có khả năngtrả nợVND"
+            },
+            {
+                "0": "Người mua trả tiền trước ngắn hạn",
+                "1": "Người mua trả tiền trước ngắn hạn",
+                "2": "Người mua trả tiền trước ngắn hạn",
+                "3": "Người mua trả tiền trước ngắn hạn",
+                "4": "Người mua trả tiền trước ngắn hạn",
+                "5": "Người mua trả tiền trước ngắn hạn"
+            },
+            {
+                "0": "",
+                "1": "Người mua trả tiền trước nước ngoài",
+                "2": "9.771.341.258",
+                "3": "9.771.341.258",
+                "4": "9.328.214.301",
+                "5": "9.328.214.301"
+            },
+            {
+                "0": "",
+                "1": "Người mua trả tiền trước trong nước",
+                "2": "362.944.034",
+                "3": "362.944.034",
+                "4": "1.363.447.955",
+                "5": "1.363.447.955"
+            },
+            {
+                "0": "Cộng",
+                "1": "Cộng",
+                "2": "10.134.285.292",
+                "3": "10.134.285.292",
+                "4": "10.691.662.256",
+                "5": "10.691.662.256"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_20",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "28\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được dọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.18 Vay và nợ thuê tài chính ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2017",
+                "2": "31/12/2017",
+                "3": "Trong năm",
+                "4": "Trong năm",
+                "5": "01/01/2017",
+                "6": "01/01/2017"
+            },
+            {
+                "0": "",
+                "1": "Giá trịVND",
+                "2": "Số có khả năngtrả nợVND",
+                "3": "TăngVND",
+                "4": "GiảmVND",
+                "5": "Giá trịVND",
+                "6": "Số có khả năngtrả nợVND"
+            },
+            {
+                "0": "Vay ngân hàng",
+                "1": "1.119.481.663.635",
+                "2": "1.119.481.663.635",
+                "3": "2.735.225.342.727",
+                "4": "2.270.770.177.264",
+                "5": "655.026.498.172",
+                "6": "655.026.498.172"
+            },
+            {
+                "0": "- Ngân hàng TMCP Công thương Việt Nam -Chi nhánh Hải Dương (i)",
+                "1": "493.974.718.525",
+                "2": "493.974.718.525",
+                "3": "1.078.394.174.576",
+                "4": "835.916.182.899",
+                "5": "251.496.726.848",
+                "6": "251.496.726.848"
+            },
+            {
+                "0": "- Ngân hàng TMCP Xăng dầu Petrolimex -Chi nhánh Hải Dương (ii)",
+                "1": "157.618.203.194",
+                "2": "157.618.203.194",
+                "3": "303.390.235.013",
+                "4": "145.772.031.819",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "- Ngân hàng TMCP Ngoại thương Việt Nam -Chi nhánh Hải Dương (iii)",
+                "1": "128.660.085.386",
+                "2": "128.660.085.386",
+                "3": "497.044.864.754",
+                "4": "540.012.912.969",
+                "5": "171.628.133.601",
+                "6": "171.628.133.601"
+            },
+            {
+                "0": "- Ngân hàng TMCP đầu tư và phát triển ViệtNam (BIDV)- Sở Giao Dịch 1 (iv)",
+                "1": "109.362.113.663",
+                "2": "109.362.113.663",
+                "3": "112.438.369.126",
+                "4": "3.076.255.463",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "- Ngân hàng TMCP Quân đội - Chi nhánhHải Dương (v)",
+                "1": "91.922.518.634",
+                "2": "91.922.518.634",
+                "3": "243.512.685.261",
+                "4": "251.166.621.444",
+                "5": "99.576.454.817",
+                "6": "99.576.454.817"
+            },
+            {
+                "0": "- Ngân hàng TMCP Đầu tư và Phát triển ViệtNam - Chi nhánh Hải Dương (vi)",
+                "1": "60.995.995.794",
+                "2": "60.995.995.794",
+                "3": "298.853.515.318",
+                "4": "332.501.377.815",
+                "5": "94.643.858.291",
+                "6": "94.643.858.291"
+            },
+            {
+                "0": "- Ngân hàng TNHH MTV Hong Leong VN-Chi nhánh Hà Nội (vii)",
+                "1": "44.070.831.263",
+                "2": "44.070.831.263",
+                "3": "44.070.831.263",
+                "4": "-",
+                "5": "",
+                "6": ""
+            },
+            {
+                "0": "- Ngân hàng Bangkok Đại chúng TNHH - Chinánh Hà Nội (viii)",
+                "1": "32.877.197.176",
+                "2": "32.877.197.176",
+                "3": "157.520.667.416",
+                "4": "162.324.794.855",
+                "5": "37.681.324.615",
+                "6": "37.681.324.615"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.119.481.663.635",
+                "2": "1.119.481.663.635",
+                "3": "2.735.225.342.727",
+                "4": "2.270.770.177.264",
+                "5": "655.026.498.172",
+                "6": "655.026.498.172"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_21",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "Mẫu số B 09 - DN\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\n29\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đông,\n\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.18 Vay và nợ thuê tài chính ngắn hạn (Tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2017",
+                "2": "31/12/2017",
+                "3": "Trong năm",
+                "4": "Trong năm",
+                "5": "01/01/2017",
+                "6": "01/01/2017"
+            },
+            {
+                "0": "",
+                "1": "Giá trịVND",
+                "2": "Số có khả năngtrả nợVND",
+                "3": "TăngVND",
+                "4": "GiảmVND",
+                "5": "Giá trịVND",
+                "6": "Số có khả năngtrả nợVND"
+            },
+            {
+                "0": "Vay ngân hàng (tiếp theo)",
+                "1": "-",
+                "2": "-",
+                "3": "95.025.213.189",
+                "4": "159.336.355.588",
+                "5": "64.311.142.399",
+                "6": "64.311.142.399"
+            },
+            {
+                "0": "- Ngân hàng TMCP Việt Nam Thịnh Vượng",
+                "1": "-",
+                "2": "-",
+                "3": "20.430.061.989",
+                "4": "50.577.046.494",
+                "5": "30.146.984.505",
+                "6": "30.146.984.505"
+            },
+            {
+                "0": "- Ngân hàng Citibank, N.A. Việt Nam - Chi nhánh Hà Nội",
+                "1": "-",
+                "2": "-",
+                "3": "3.043.210.500",
+                "4": "33.139.883.700",
+                "5": "30.096.673.200",
+                "6": "30.096.673.200"
+            },
+            {
+                "0": "- Ngân hàng TNHH MTV Shinhan Việt Nam - Chi nhánh Hải Dương",
+                "1": "-",
+                "2": "-",
+                "3": "58.978.465.500",
+                "4": "63.045.950.194",
+                "5": "4.067.484.694",
+                "6": "4.067.484.694"
+            },
+            {
+                "0": "- Ngân hàng TMCP Hàng Hải Việt Nam - CN Sở Giao Dịch",
+                "1": "-",
+                "2": "-",
+                "3": "12.573.475.200",
+                "4": "12.573.475.200",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Vay tổ chức",
+                "1": "-",
+                "2": "-",
+                "3": "30.000.000.000",
+                "4": "30.000.000.000",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Công ty CP Nhựa và Khoáng sản An Phát - Yên Bái",
+                "1": "-",
+                "2": "",
+                "3": "30.000.000.000",
+                "4": "30.000.000.000",
+                "5": "-",
+                "6": ""
+            },
+            {
+                "0": "Tổng cộng",
+                "1": "1.119.481.663.635",
+                "2": "1.119.481.663.635",
+                "3": "2.860.250.555.916",
+                "4": "2.460.106.532.852",
+                "5": "719.337.640.571",
+                "6": "719.337.640.571"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_22",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "(i) Vay ngắn hạn tại Ngân hàng TMCP Công thương - Chi nhánh Hải Dương theo hợp đồng tín dụng hạn mức số 04.05/CNHD9/2017/HĐCVHM/ANPHAT ngày 04 tháng 05 năm 2017 với hạn mức cho vay là 500 tỷ đồng. Thời gian duy trì hạn mức kể từ ngày 04 tháng 05 năm 2017 đến ngày 31 tháng 03 năm 2018, lãi suất vay được điều chỉnh 01 (một) tháng một lần. Mục đích sử dụng vốn vay để bổ sung vốn lưu động phục vụ hoạt động sản xuất kinh doanh. Khoản vay được đảm bảo bằng tài sản được quy định theo các hợp đồng thế chấp.\n\nMẫu số B 09 - DN\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\n30\n\n\n\nCÔNG TY CỔ PHẦN NHUÀ VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng,\n\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.18 Vay và nợ thuê tài chính ngắn hạn (Tiếp theo)\n\n(ii) Vay ngắn hạn tại Ngân hàng TMCP Xăng đầu Petrolimex - Chi nhánh Hải Dương theo hợp đồng tín dụng hạn mức số 660.364/2017/HĐTDHM-DN/PGbankHD ngày 06 tháng 06 năm 2017 với hạn mức cho vay là 7.000.000 USD hoặc quy đổi Việt Nam Đồng tương đương. Thời gian duy trì hạn mức đến ngày 20 tháng 02 năm 2018, lãi suất vay xác định trong từng hợp đồng tín dụng cụ thể. Thời hạn vay theo khế ước nhận nợ nhưng không quá 06 tháng. Mục đích sử dụng vốn vay để bổ sung vốn lưu động phục vụ hoạt động sản xuất kinh doanh. Khoản vay được đảm bảo bằng toàn bộ hàng tồn kho luân chuyển tại nhà máy III của Công ty CP Nhựa và Môi trường xanh An Phát theo hợp đồng thể chấp số 142/HĐTC/PGBHD-17 ngày 06 tháng 06 năm 2017.\n\n(iii) Vay ngắn hạn tại Ngân hàng TMCP Ngoại thương Việt Nam - Chi nhánh Hải Dương theo hợp đồng hạn mức tín dụng số 170071/NHNTHD ngày 10 tháng 08 năm 2017 với hạn mức cho vay là 250 tỷ đồng, thời gian của hạn mức là 12 tháng kể từ ngày ký hợp đồng này. Lãi suất vay được quy định trên từng giấy nhận nợ, phù hợp với lãi suất theo quy định của ngân hàng từng thời kỳ. Mục đích sử dụng vốn vay để bổ sung vốn lưu động phục vụ hoạt động sản xuất kinh doanh. Khoản vay được đảm bảo bằng tài sản.\n\n(iv) Vay ngắn hạn tại Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Sở Giao dịch 1 theo hợp đồng tín dụng số 01/2017/1347719/HĐTD ngày 17 tháng 03 năm 2017 với tổng số tiền là 200 tỷ đồng bao gồm cả VNĐ và ngoại tệ tương đương. Thời hạn vay là 12 tháng kể từ ký hợp đồng. Mục đích sử dụng vốn vay để bổ sung vốn lưu động, bảo lãnh, mở L/C phục vụ hoạt động sản xuất kinh doanh. Lãi suất áp dụng theo quy định của Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Sở Giao dịch 1 theo từng thời điểm. Khoản vay được đảm bảo bằng tài sản được quy định theo các hợp đồng thế chấp.\n\n(v) Vay ngắn hạn tại ngân hàng Thương mại cổ phần Quân đội - Chi nhánh Hải Dương theo hợp đồng tín dụng hạn mức số 13258.17.270.300401.TD ngày 31 tháng 07 năm 2017. Với hạn mức cho vay là 160 tỷ đồng, thời gian cấp hạn mức tín dụng đến ngày 07 tháng 07 năm 2018, lãi suất vay phụ thuộc vào từng khế ước nhận nợ, thời hạn các khoản hạn mức không được quá 06 tháng kể từ ngày giải ngân. Mục đích sử dụng vốn vay để bổ sung vốn lưu động phục vụ hoạt động sản xuất kinh doanh. Tài sản đảm bảo cho các khoản vay được quy định theo các hợp đồng thể chấp.\n\n(vi) Vay ngắn hạn tại Ngân hàng Đầu tư và Phát triển Việt Nam - Chi nhánh Hải Dương theo hợp đồng tín dụng hạn mức số 01/2017/1347719/HĐTDHM ngày 17 tháng 04 năm 2017. Thời gian duy trì hạn mức đến ngày 31 tháng 03 năm 2018. Hạn mức cho vay là 200 tỷ đồng gồm cả Việt Nam đồng và ngoại tệ quy đổi, lãi suất vay xác định trong từng hợp đồng tín dụng cụ thể. Mục đích sử dụng vốn vay để bổ sung vốn lưu động phục vụ hoạt động sản xuất kinh doanh. Khoản vay được đảm bảo bằng tài sản của bên thứ ba theo Hợp đồng thể chấp tài sản được ký giữa bên vay, bên thứ ba với ngân hàng.\n\nMẫu số B 09 - DN\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\n31\n\n\n\nMẫu số B 09 - DN\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được dọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.18 Vay và nợ thuê tài chính ngắn hạn (Tiếp theo)\n\n(vii) Vay ngắn hạn tại Ngân hàng TNHH Một thành viên Hong Leong Việt Nam- Chi nhánh Hà Nội theo hợp đồng tín dụng hạn mức số HN/2017/09/BCB/HDTD ngày 23 tháng 05 năm 2017. Với hạn mức cho vay là 2.000.000 USD, thời hạn duy trì hạn mức đến ngày 31 tháng 11 năm 2017, thời hạn của mỗi khoản vay tối đa 04 tháng kể từ ngày giải ngân. Lãi suất vay bằng VND là 6,54%/năm, Lãi suất vay bằng USD là 2,54%/năm. Mục đích vay để tài trợ nhập khẩu nguyên vật liệu. Khoản vay được đảm bảo bằng Chứng nhận tiền gửi có kỳ hạn trị giá 5 tỷ đồng và bảo lãnh cá nhân của ông Nguyên Lê Trung - Tổng Giám đốc.\n\n(viii) Vay ngắn hạn tại Ngân hàng Bangkok Đại chúng - Chi nhánh Hà Nội theo hợp đồng tín dụng theo hạn mức số BBL-HN 07/2013 ngày 28 tháng 10 năm 2013, phụ lục bổ sung ngày 21 tháng 10 năm 2016 với hạn mức cho vay là 8.000.000 USD. Mục đích sử dụng vốn vay để bổ sung vốn lưu động phục vụ hoạt động sản xuất kinh doanh. Khoản vay được đảm bảo khoản tiền gửi tại ngân hàng tương đương 10% số tiền của thư tín dụng kể từ ngày mở thư tín dụng đến ngày thanh toán khoản vay nhập khẩu dưới thư tín dụng đó.\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng,\n\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết mình này là bộ phận hợp thành và cản được dọc đông thời với Báo cáo tài chính riêng kèm theo\n\nA 2017-10-25 A 2017-10-26 A 2017-10-27 A 2017-10-28 A 2017-10-29 A 2017-10-30 A 2017-10-31 A 2017-10-32 A 2017-10-33 A 2017-10-34 A 2017-10-35 A 2017-10-36 A 2017-10-37 A 2017-10-38 A 2017-10-39 A 2017-10-40 A 2017-10-41 A 2017-10-42 A 2017-10-43 A 2017-10-44 A 2017-10-45 A 2017-10-46 A 2017-10-47 A 2017-10-48 A 2017-10-49 A 2017-10-50 A 2017-10-51 A 2017-10-52 A 2017-10-53 A 2017-10-54 A 2017-10-55 A 2017-10-56 A 2017-10-57 A 2017-10-58 A 2017-10-59 A 2017-10-60 A 2017-10-61 A 2017-10-62 A 2017-10-63 A 2017-10-64 A 2017-10-65 A 2017-10-66 A 2017-10-67 A 2017-10-68 A 2017-10-69 A 2017-10-70 A 2017-10-71 A 2017-10-72 A 2017-10-73 A 2017-10-74 A 2017-10-75 A 2017-10-76 A 2017-10-77 A 2017-10-78 A 2017-10-79 A 2017-10-80 A 2017-10-81 A 2017-10-82 A 2017-10-83 A 2017-10-84 A 2017-10-85 A 2017-10-86 A 2017-10-87 A 2017-10-88 A 2017-10-89 A 2017-10-90 A 2017-10-91 A 2017-10-92 A 2017-10-93 A 2017-10-94 A 2017-10-95 A 2017-10-96 A 2017-10-97 A 2017-10-98 A 2017-10-99 A 2017\n\n5. THONG TIN BO SUNG CHO CAC KHOAN MỤC TRINH BAY TREN BANG CAN ĐOI KE TOAN (TIEP THEO)\n\n5.18 Vav và nợ thuê tài chính naợn hạn (Tiến theo)\n\n(1) If \\( y \\) is my time the sum of \\( y \\) and \\( y' \\) (Step 30).\n\n32\n\n\\( \\therefore {S}_{\\Delta APQ} = {S}_{\\Delta AQP} + {S}_{\\Delta QPQ} \\)\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đông,\n\nthị trân Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIÉP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được dọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.19 Vay và nợ thuê tài chính dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2017",
+                "2": "31/12/2017",
+                "3": "Trong năm",
+                "4": "Trong năm",
+                "5": "01/01/2017",
+                "6": "01/01/2017"
+            },
+            {
+                "0": "",
+                "1": "Giá trịVND",
+                "2": "Số có khả năngtrả nợVND",
+                "3": "TăngVND",
+                "4": "GiảmVND",
+                "5": "Giá trịVND",
+                "6": "Số có khả năngtrả nợVND"
+            },
+            {
+                "0": "Vay ngân hàng",
+                "1": "262.972.828.352",
+                "2": "262.972.828.352",
+                "3": "105.315.463.770",
+                "4": "130.749.983.456",
+                "5": "288.407.348.038",
+                "6": "288.407.348.038"
+            },
+            {
+                "0": "- Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Hải Dương (i)",
+                "1": "93.200.000.000",
+                "2": "93.200.000.000",
+                "3": "-",
+                "4": "27.100.000.000",
+                "5": "120.300.000.000",
+                "6": "120.300.000.000"
+            },
+            {
+                "0": "- Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Hải Dương (ii)",
+                "1": "81.465.767.990",
+                "2": "81.465.767.990",
+                "3": "22.230.000.000",
+                "4": "20.461.267.116",
+                "5": "79.697.035.106",
+                "6": "79.697.035.106"
+            },
+            {
+                "0": "- Ngân hàng TMCP Xăng dầu Petrolimex - Chi nhánh Hải Dương (iii)",
+                "1": "53.639.822.862",
+                "2": "53.639.822.862",
+                "3": "48.722.552.000",
+                "4": "46.681.970.870",
+                "5": "51.599.241.732",
+                "6": "51.599.241.732"
+            },
+            {
+                "0": "- Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Sở Giao dịch 1 (iv)",
+                "1": "34.667.237.500",
+                "2": "34.667.237.500",
+                "3": "34.362.911.770",
+                "4": "9.121.745.470",
+                "5": "9.426.071.200",
+                "6": "9.426.071.200"
+            },
+            {
+                "0": "- Ngân hàng TMCP Ngoại thương Việt Nam - Chi nhánh Hải Dương",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "27.385.000.000",
+                "5": "27.385.000.000",
+                "6": "27.385.000.000"
+            },
+            {
+                "0": "Vay cá nhân",
+                "1": "21.000.000.000",
+                "2": "21.000.000.000",
+                "3": "85.400.000.000",
+                "4": "157.006.640.000",
+                "5": "92.606.640.000",
+                "6": "92.606.640.000"
+            },
+            {
+                "0": "- Nguyễn Thanh Hằng (v)",
+                "1": "21.000.000.000",
+                "2": "21.000.000.000",
+                "3": "21.000.000.000",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "- Các cá nhân khác",
+                "1": "-",
+                "2": "-",
+                "3": "64.400.000.000",
+                "4": "157.006.640.000",
+                "5": "92.606.640.000",
+                "6": "92.606.640.000"
+            },
+            {
+                "0": "Vay tổ chức (vi)",
+                "1": "149.690.000.000",
+                "2": "149.690.000.000",
+                "3": "390.650.000.000",
+                "4": "240.960.000.000",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Cty TNHH Dương Phạm Investment",
+                "1": "50.000.000.000",
+                "2": "50.000.000.000",
+                "3": "50.000.000.000",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Cty TNHH đầu tư Việt Và Dương",
+                "1": "50.000.000.000",
+                "2": "50.000.000.000",
+                "3": "50.000.000.000",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Cty TNHH đầu tư Trung và Hòa",
+                "1": "49.690.000.000",
+                "2": "49.690.000.000",
+                "3": "49.690.000.000",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Công ty cổ phần An phát Holdings",
+                "1": "-",
+                "2": "-",
+                "3": "220.960.000.000",
+                "4": "220.960.000.000",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Liên Vận An Tín",
+                "1": "-",
+                "2": "-",
+                "3": "20.000.000.000",
+                "4": "20.000.000.000",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Trái phiếu phát hành (vii)",
+                "1": "327.912.500.000",
+                "2": "327.912.500.000",
+                "3": "1.350.000.000",
+                "4": "120.000.000.000",
+                "5": "446.562.500.000",
+                "6": "446.562.500.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "761.575.328.352",
+                "2": "761.575.328.352",
+                "3": "582.715.463.770",
+                "4": "648.716.623.456",
+                "5": "827.576.488.038",
+                "6": "827.576.488.038"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_23",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "33\n\n[Non-Text]\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đông,\n\nthị trân Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIÉP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cân được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.19 Vay và nợ thuê tài chính dài hạn\n\n(i) Vay trung hạn dài hạn tại Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Hải Dương theo hai hợp đồng sau:\n\n' - Vay trung hạn tại Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Hải Dương theo hợp đồng tín dụng số 02/2015/1347719/HĐTD ngày 30 tháng 06 năm 2015 với tổng số tiền là 70 tỷ đồng để bổ sung nguồn vốn tư có, cơ cấu tài chính do đã đầu tư tài sản cố định trong vòng 60 tháng. Lãi suất cho vay trong hạn là 9.3%/năm, áp dụng lãi suất thỏa thuận thả nổi theo quy định của Ngân hàng tại thời điểm giải ngân và được điều chỉnh 06 tháng/lần, lãi suất nợ quá hạn là 150% lãi suất trong hạn.\n\n- Vay trung hạn tại Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Hải Dương theo hợp đồng tín dụng số 02/2016/1347719/HĐTD ngày 23 tháng 12 năm 2016 với tổng số tiền là 68 tỷ đồng để bổ sung nguồn vốn tự có, cơ cấu tài chính do tham gia dự án đầu tư 12 máy thời màng nhựa. Thời hạn vay trong vòng 60 tháng. Lãi suất cho vay trong hạn là 10,5%/năm, áp dụng lãi suất thỏa thuận thả nổi theo quy định của Ngân hàng tại thời điểm giải ngân và được điều chỉnh 06 tháng/lần, lãi suất nợ quá hạn là 150% lãi suất trong hạn. Tài sản đảm bảo cho các khoản vay được quy định riêng cho từng hợp đồng bao gồm: Tài sản gắn liền với đất, máy móc thiết bị và phương tiện vận tải, hàng tồn kho chậm luận chuyển.\n\n(ii) Khoản vay dài hạn tại Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Hải Dương theo các hợp đồng vay trung và dài hạn phát sinh năm 2014 và năm 2015 với số tiền vay quy định trên từng hợp đồng và thời hạn vay từ 36 - 60 tháng. Mục đích sử dụng để phục vụ cho đầu tư mua sắm xây dựng tài sản cố định. Toàn bộ khoản vay được giải ngân bằng Việt Nam đồng với lãi suất từ 8% năm. Tài sản đảm bảo cho các khoản vay quy định từng hợp đồng thế chấp đã ký.\n\n- Khoản vay dài hạn tại Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Hải Dương theo hợp đồng vay trung và dài hạn 01/2016-HĐTDDA/NHCT340-ANPHAT ngày 13 tháng 04 năm 2016 với hạn mức tín dụng là 4.470.000.000 đồng. Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích sử dụng là để đầu tư xây dựng công trình máy che nhà máy số 5. Toàn bộ khoản vay được giải ngân bằng Việt Nam đồng với lãi suất 8% năm. Bảo đảm tiền vay bằng tài sản hình thành từ vốn vay.\n\n- Khoản vay dài hạn tại Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Hải Dương theo hợp đồng vay trung và dài hạn 02/2016-HDTDDA/NHCT340-ANPHAT ngày 12 tháng 05 năm 2016 với hạn mức tín dụng là 7.968.000.000 đồng. Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích sử dụng để đầu tư mua sắm máy móc thiết bị, phương tiện vận tải . Toàn bộ khoản vay được giải ngân bằng Việt Nam đồng với lãi suất 8% năm. Bảo đảm tiền vay bằng tài sản hình thành tử vốn vay.\n\n- Khoản vay dài hạn tại Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Hải Dương theo hợp đồng vay trung và dài hạn 03/2016-HĐTDDA/NHCT340-ANPHAT ngày 18 tháng 05 năm 2016 với hạn mức tín dụng là 9.886.000.000đồng. Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích sử dụng để đầu tư mua sắm máy móc thiết bị, phương tiện vận tải. Toàn bộ khoản vay được giải ngân bằng Việt Nam đồng với lãi suất 8% năm. Bảo đảm tiền vay bằng tài sản hình thành tử vốn vay.\n\nMẫu số B 09 - DN\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\n34\n\n17 ONC TÀ THI\n2\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng,\n\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.19 Vay và nợ thuê tài chính dài hạn (Tiếp theo)\n\n(ii) Khoản vay dài hạn tại Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Hải Dương theo các hợp đồng vay trung và dài hạn (tiếp theo)\n\n- Khoản vay dài hạn tại Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Hải Dương theo hợp đồng vay trung và dài hạn 4/2016-HĐTDDA/NHCT340-ANPHAT ngày 25 tháng 05 năm 2016 với hạn mức tín dụng là 10.970.000.000 đồng Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích sử dụng để đầu tư mua sắm máy móc thiết bị, phương tiện vận tải. Toàn bộ khoản vay được giải ngân bằng Việt Nam đồng với lãi suất 8% năm. Bảo đảm tiền vay bằng tải sản hình thành tử vốn vay.\n\n- Khoản vay dài hạn tại Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Hải Dương theo hợp đồng vay trung và dài hạn 06/2016-HĐTDDA/NHCT340-ANPHAT ngày 06 tháng 06 năm 2016 với hạn mức tín dụng là 2.800.000.000 đồng Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích sử dụng để đầu tư mua sắm phương tiện vận tải. Toàn bộ khoản vay được giải ngân bằng Việt Nam đồng với lãi suất 8% năm. Bảo đảm tiền vay bằng tài sản hình thành tử vốn vay.\n\n- Khoản vay dài hạn tại Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Hải Dương theo hợp đồng vay trung và dài hạn 05.07/2016-HĐTDDA/NHCT340-ANPHAT ngày 05 tháng 07 năm 2016 với hạn mức tín dụng là 8.800.000.000 đồng (8 tỷ tám trăm triệu). Thời gian của hạn mức là 60 tháng kể từ ngày giải ngân đầu tiên. Mục đích sử dụng để đầu tư mua sắm máy móc thiết bị phục vụ hoạt động sản xuất kinh doanh. Toàn bộ khoản vay được giải ngân bằng Việt Nam đồng với lãi suất 8% năm. Bảo đảm tiền vay bằng tài sản hình thành từ vốn vay.\n\n- Theo hợp đồng cho vay dự án đầu tư số 29.05.CNHD9/2017/HĐCVDADT/ANPHAT/MAZDA3 ngày 29 tháng 05 năm 2017 với hạn mức tín dụng là 560.000.000 đồng.Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích sử dụng để thực hiện dự án đầu tư mua xe oto Mazda 3 2 0 SD phục vụ hoạt động sản xuất kinh doanh. Lãi suất áp dụng theo từng thời điểm ngân hàng công bố. Khoản vay được đảm bảo bằng tại sản theo quy định tại hợp đồng thế chấp tài sản cố 29.05/CNHD9/2017/HĐTC/ANPHAT/MAZDA3 ngày 29 tháng 05 năm 2017 với tổng giá trị tài sản đảm bảo là 805.000.000 đồng.\n\n- Theo hợp đồng cho vay dự án đầu tư số 06.06.CNHD9/2017/HĐCVDADT/ANPHAT/OTO ngày 06 tháng 06 năm 2017 với hạn mức tín dụng là 4.300.000.000 đồng.Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích sử dụng để mua 10 xe oto Hyundai Grand I10 1.0 MT 2017 -AVN (EU4); 01 xe ô tô Toyota Vios 1.5G và 01 xe ô tô Toyota Hilux 2.4E 4x2T; 02 xe Toyota Vios 1.5G. Lãi suất áp dụng theo quy định của Ngân hàng tại từng thời điểm. Khoản vay được đảm bảo bằng tại sản theo quy định tại các hợp đồng thế chấp tài sản ký kết giữa Công ty và Ngân hàng.\n\nMẫu số B 09 - DN\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\n35\n\n129\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng,\n\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được dọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.19 Vay và nợ thuê tài chính dài hạn (Tiếp theo)\n\n(ii) Khoản vay dài hạn tại Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Hải Dương theo các hợp đồng vay trung và dài hạn (tiếp theo)\n\n- Theo hợp đồng cho vay dự án đầu tư số 25.07/CNHD9/2017/HĐCVDADT/ANPHAT/30E-501.05 ngày 25 tháng 07 năm 2017 với hạn mức tín dụng là 4.060.000.000 đồng.Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích sử dụng để mua ô tô con Mercedesz G350, biển số 30E-501.05. Lãi suất áp dụng theo quy định của Ngân hàng tại từng thời điểm. Khoản vay được đảm bảo bằng tại sản theo quy định tại các hợp đồng thế chấp tài sản ký kết giữa Công ty và Ngân hàng.\n\n- Theo hợp đồng cho vay dự án đầu tư số 03.08/CNHD9/2017/HĐCVDADT/ANPHAT/MERCEDES-BENZ ngày 23 tháng 08 năm 2017 với hạn mức tín dụng là 1.700.000.000 đồng.Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích sử dụng để mua xe du lịch Mercedes Benz V250 Avantgarde. Lãi suất áp dụng theo quy định của Ngân hàng tại từng thời điểm. Khoản vay được đảm bảo bằng tại sản theo quy định tại các hợp đồng thế chấp tài sản ký kết giữa Công ty và Ngân hàng.\n\n- Theo hợp đồng cho vay dự án đầu tư số 14.07/CNHD9/2017/HDCVDADT/ANPHAT/MERCEDES ngày 14 tháng 07 năm 2017 với hạn mức tín dụng là 1.700.000.000 đồng.Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích sử dụng để mua xe du lịch Mercedes Benz V250 Avantgarde. Lãi suất áp dụng theo quy định của Ngân hàng tại từng thời điểm. Khoản vay được đảm bảo bằng tại sản theo quy định tại các hợp đồng thể chấp tài sản ký kết giữa Công ty và Ngân hàng.\n\n- Theo hợp đồng cho vay dự án đầu tư số 12.12/CNHD9/2017/HĐCVDADT/ANPHAT/24OTO ngày 12 tháng 12 năm 2017 với hạn mức tín dụng là 8.350.000.000 đồng.Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích sử dụng để đầu tư mua sắm 24 xe ô tô phục vụ nhu cầu đi lại của Công ty. Lãi suất áp dụng theo quy định của Ngân hàng tại từng thời điểm. Khoản vay được đảm bảo bằng tại sản theo quy định tại các hợp đồng thế chấp tài sản ký kết giữa Công ty và Ngân hàng.\n\n(iii) Vay trung hạn tại Ngân hàng TMCP Xăng dầu Petrolimex - Chi nhánh Hải Dương theo các hợp đồng vay trung và dài hạn với số tiền vay quy định từng hợp đồng và thời hạn từ 50 - 60 tháng. Mục đích sử dụng là để phục vụ đầu tư mua sắm, xây dựng tài sản cố định. Toàn bộ khoản vay được được giải ngân bằng tiền Việt Nam đồng với lãi suất các khoản vay từ 10,5%/năm đến 13,5%/năm. Tài sản đảm bảo cho các khoản vay được quy định riêng cho từng hợp đồng bao gồm: Tài sản gắn liền với đất, máy móc thiết bị và phương tiện vận tải.\n\nMẫu số B 09 - DN\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\n36\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng,\n\nthị trân Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.19 Vay và nợ thuê tài chính dài hạn (Tiếp theo)\n\nVay trung hạn tại Ngân hàng TMCP Xăng dầu Petrolimex - Chi nhánh Hải Dương theo các hợp đồng vay trung hạn và dài hạn (tiếp theo)\n\n- Vay trung hạn tại Ngân hàng TMCP Xăng dầu Petrolimex - Chi nhánh Hải Dương theo hợp đồng vay trung và dài hạn 660.139/2016/HĐTD -DB/PGBank ngày 22 tháng 03 năm 2016 với hạn mức tín dụng là 8.390.000.000 đồng.Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích sử dụng là để phục vụ đầu tư mua sắm, xây dựng tài sản cố định. Toàn bộ khoản vay được được giải ngân bằng tiền Việt Nam đồng. Lãi suất vay xác định trong từng lần nhận nợ cụ thể. Tài sản đảm bảo cho các khoản vay được quy định riêng cho từng hợp đồng bao gồm: Tài sản gắn liền với đất, máy móc thiết bị và phương tiện vận tải.\n\n- Vay trung hạn tại Ngân hàng TMCP Xăng dầu Petrolimex - Chi nhánh Hải Dương theo hợp đồng vay trung và dài hạn 660.184/2016/HĐTD -DB/PGBank ngày 22 tháng 04 năm 2016 với hạn mức tín dụng là 3.619.000.000 đồng.Thời gian của hạn mức là 48 tháng kể từ ngày rút vốn. Mục đích sử dụng là để phục vụ đầu tư mua sắm phương tiện vận tải. Toàn bộ khoản vay được được giải ngân bằng tiền Việt Nam đồng. Lãi suất vay xác định trong từng lần nhận nợ cụ thể. Tài sản đảm bảo cho các khoản vay được quy định riêng cho từng hợp đồng bao gồm: Tài sản hình thành từ vốn vay.\n\n- Vay dài hạn tại Ngân hàng TMCP Xăng dầu Petrolimex - Chi nhánh Hải Dương theo hợp đồng vay trung và dài hạn 660.365/2017/HĐTD -DB/PGBank ngày 05 tháng 06 năm 2017 với hạn mức tín dụng là 44.465.542.000 đồng. Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích sử dụng là để phục vụ đầu tư mua sắm máy móc thiết bị. Toàn bộ khoản vay được được giải ngân bằng tiền Việt Nam đồng. Lãi suất vay xác định trong từng lần nhận nợ cụ thể. Biện pháp đảm bảo cho các khoản vay là các tài sản hình thành từ vốn vay. Tổng giá trị tài sản đảm bảo là 63.522.204.733 đồng.\n\n- Vay dài hạn tại Ngân hàng TMCP Xăng dầu Petrolimex - Chi nhánh Hải Dương theo hợp đồng vay trung và dài hạn 660.029/2017/HĐTD -DB/PGBank ngày 16 tháng 01 năm 2017 với hạn mức tín dụng là 424.900.000 đồng. Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích đầu tư mua xe ô tô phục vụ nhu cầu đi lại, giao dịch. Toàn bộ khoản vay được được giải ngân bằng tiền Việt Nam đồng. Lãi suất vay xác định trong từng lần nhận nợ cụ thể. Biện pháp đảm bảo cho các khoản vay là các tài sản hình thành từ vốn vay là ô tô VIOS 1.5G CVT. Tổng giá trị tài sản đảm bảo là 607.000.000 đồng.\n\n- Vay dài hạn tại Ngân hàng TMCP Xăng dầu Petrolimex - Chi nhánh Hải Dương theo hợp đồng vay trung và dài hạn 660.028/2017/HĐTD -DB/PGBank ngày 11 tháng 01 năm 2017 với hạn mức tín dụng là 3.264.000.000 đồng. Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích đầu tư mua xe ô tô phục vụ nhu cầu đi lại, giao dịch. Toàn bộ khoản vay được được giải ngân bằng tiền Việt Nam đồng. Lãi suất vay xác định trong từng lần nhận nợ cụ thể. Biện pháp đảm bảo cho các khoản vay là các tài sản hình thành từ vốn vay là 01 ô tô Camry 2.0E, 02 xe Fortuner 2.7V 4x2 và 01 xe ô tô con 05 chỗ ngồi, nhãn hiệu SUBARU. Tổng giá trị tài sản đảm bảo là 4.663.000.000 đồng.\n\nMẫu số B 09 - DN\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\n37\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng,\n\nthị trấn Nam Sách, huyện Nam Sách, tinh Hải Dương\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.19 Vay và nợ thuê tài chính dài hạn (Tiếp theo)\n\nVay trung hạn tại Ngân hàng TMCP Xăng dầu Petrolimex - Chi nhánh Hải Dương theo các hợp đồng vay trung hạn và dài hạn (tiếp theo)\n\n- Vay dài hạn tại Ngân hàng TMCP Xăng dầu Petrolimex - Chi nhánh Hải Dương theo hợp đồng vay trung và dài hạn 660.100/2017/HĐTD -DB/PGBank ngày 29 tháng 03 năm 2017 với hạn mức tín dụng là 2.544.000.000 đồng. Thời gian của hạn mức là 60 tháng kể từ ngày rút vốn. Mục đích đầu tư mua sắm máy móc thiết bị phục vụ hoạt động sản xuất kinh doanh. Toàn bộ khoản vay được được giải ngân bằng tiền Việt Nam đồng. Lãi suất vay xác định trong từng lần nhận nợ cụ thể. Biện pháp đảm bảo cho các khoản vay là các tài sản hình thành từ vốn vay. Tổng giá trị tài sản đảm bảo là 3.634.400.000 đồng.\n\n(iv) Vay dài hạn tại Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Sở Giao dịch 1 theo hợp đồng tín dụng số 01/2016/1347719/HĐTD ngày 05 tháng 12 năm 2016 với tổng số tiền là 1.995.000 USD, quy đổi là 44 tỷ đồng (đồng vay là USD). Thời hạn vay là 60 tháng kể từ ngày giải ngân. Mục đích vay đề thanh toán chi phí đầu tư tài sản cố định là 20 máy thời tốc độ cao. Lãi suất áp dụng theo quy định của Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Sở Giao dịch 1 theo từng thời điểm.\n\n(v) Theo Hợp đồng vay tiền ngày 27 tháng 09 năm 2017 với tổng số tiền vay là 21 tỷ, lãi suất 9,11%/năm. Thời hạn vay từ ngày 29 tháng 12 năm 2016 đến ngày 28 tháng 12 năm 2018. Mục đích vay trung và dài hạn bổ sung vốn lưu động. Khoản vay được đảm bảo bằng tín chấp.\n\n(vi) Theo các Hợp đồng vay của các tổ chức có thời hạn 2 năm, lãi suất áp dụng cho khoản vay là 7%/năm. Khoản vay để bổ sung vốn lưu động. Khoản vay được đảm bảo bằng hình thức tín chấp.\n\nMẫu số B 09 - DN\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\n38\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng,\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.19 Vay và nợ thuê tài chính dài hạn (Tiếp theo)\n\n(vii) Trái phiếu phát hành theo các hợp đồng sau:\n\n- Theo HD mua bán trái phiếu số 324/2015/VIB-AAA ngày 01 tháng 12 năm 2015 bên bán: Công ty Cổ phần Nhựa và Môi trường Xanh An Phát, bên mua: Ngân hàng TMCP Quốc tế Việt Nam. Trái phiếu được phát hành là Trái phiếu không chuyển đổi, có bảo đảm bằng tài sản và đính kèm theo chứng quyền. Trái phiếu và chứng quyền được tách riêng kể từ ngày phát hành và được tự do chuyển nhượng theo quy định của pháp luật. Với mỗi một chứng quyền nhận được, người sở hữu chứng quyền được quyền mua 100 cổ phần phổ thông của Tổ chức phát hành. Chứng quyền bắt bầu được thực hiện sau 12 tháng kể từ ngày phát hành trái phiếu. Thời hạn thực hiện chứng quyền là ba năm kể từ ngày phát hành trái phiếu. Mục đích phát hành trái phiếu để đầu tư xây dựng nhà máy mới, mở rộng hoạt động sản xuất kinh doanh. Số lượng trái phiếu phát hành là 300.000 trái phiếu, mengh giá 1.000.000 đồng/trái phiếu. Với mỗi trái phiếu mua ban đầu, nhà đầu tư sẽ nhận được một (1) chứng quyền, tương ứng là 300.000 chứng quyền. Ngày phát hành 04 tháng 12 năm 2015 với kỳ hạn 03 năm, lãi suất 5,6%/ năm đầu tiên; Kỳ điều chỉnh lãi suất định kỳ 03 tháng 01 lần. Tài sản đảm bảo là toàn bộ nhà máy số 6 tại cụm công nghiệp An Đồng-Hải Dương bao gồm quyền sử dụng đất, tài sản hình thành trên đất, máy móc thiết bị, nhà xưởng; toàn bộ 966.582 cổ phiếu Công ty Cổ phần Nhựa bao bì Vĩnh do Công ty năm giữ và 5 triệu cổ phiếu Công ty Cổ phần Nhựa và Môi trường xanh An Phát do cá nhân nằm giữ.\n\n- Hợp đồng đặt mua trái phiếu số 03/2016/VIETTIBANK.HD ngày 06 tháng 09 năm 2016 với bên mua: Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Hải Dương. Trái phiếu được phát hành với mục đích đầu tư nhà máy sản xuất bao bì nilon số 6, mở rộng hoạt động sản xuất kinh doanh, số lượng 150 trái phiếu, mạnh giá 1.000.000.000 đồng/ trái phiếu. Ngày phát hành là 06 tháng 09 năm 2016 với kỳ hạn 05 năm, lãi suất 7,0%/ năm đầu tiên, Kỳ điều chỉnh lãi suất định kỳ 03 tháng 01 lần và được xác định theo nguyên tắc bằng tổng lãi suất cơ sở cộng (+) biên độ 2,0%/năm. Tài sản đảm bảo là toàn bộ nhà máy số 6 tại cụm công nghiệp An Đồng- Hải Dương bao gồm quyền sử dụng đất, tài sản hình thành trên đất, máy móc thiết bị, nhà xưởng.\n\nMẫu số B 09 - DN\n\n39\n\n\n\nCÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đông,\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được dọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n\n5.20 Vốn chủ sở hữu\n\na. Bảng đối chiếu biến động của vốn chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn đầu tưchủ sở hữuVND",
+                "2": "Thặng dưvốn cổ phầnVND",
+                "3": "Quỹ đầu tưphát triểnVND",
+                "4": "Quỹ khác thuộcvốn chủ sở hữuVND",
+                "5": "Lợi nhuậnchưa phân phốiVND",
+                "6": "Tổng cộngVND"
+            },
+            {
+                "0": "Số dư tại ngày 01/01/2016",
+                "1": "494.999.880.000",
+                "2": "147.408.567.329",
+                "3": "31.886.168.760",
+                "4": "11.612.477.781",
+                "5": "95.296.745.891",
+                "6": "781.203.839.761"
+            },
+            {
+                "0": "Vốn góp tăng trong năm",
+                "1": "74.650.000.000",
+                "2": "13.312.700.000",
+                "3": "-",
+                "4": "-",
+                "5": "(4.000.000.000)",
+                "6": "83.962.700.000"
+            },
+            {
+                "0": "Lợi nhuận tăng trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "130.649.389.312",
+                "6": "130.649.389.312"
+            },
+            {
+                "0": "Phân phối lợi nhuận",
+                "1": "-",
+                "2": "-",
+                "3": "2.000.793.550",
+                "4": "-",
+                "5": "(5.365.879.385)",
+                "6": "(3.365.085.835)"
+            },
+            {
+                "0": "Trả cổ tức 2015",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(34.649.991.600)",
+                "6": "(34.649.991.600)"
+            },
+            {
+                "0": "Tạm ứng cổ tức năm 2016",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(51.899.988.000)",
+                "6": "(51.899.988.000)"
+            },
+            {
+                "0": "Số dư tại ngày 31/12/2016",
+                "1": "569.649.880.000",
+                "2": "160.721.267.329",
+                "3": "33.886.962.310",
+                "4": "11.612.477.781",
+                "5": "130.030.276.218",
+                "6": "905.900.863.638"
+            },
+            {
+                "0": "Vốn góp tăng trong năm (i)",
+                "1": "266.350.000.000",
+                "2": "37.402.500.000",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "303.752.500.000"
+            },
+            {
+                "0": "Lợi nhuận tăng trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "251.314.327.424",
+                "6": "251.314.327.424"
+            },
+            {
+                "0": "Phân phối lợi nhuận (ii)",
+                "1": "-",
+                "2": "-",
+                "3": "7.099.273.798",
+                "4": "-",
+                "5": "(18.458.111.875)",
+                "6": "(11.358.838.077)"
+            },
+            {
+                "0": "Trả cổ tức năm 2016 (ii)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(56.964.988.000)",
+                "6": "(56.964.988.000)"
+            },
+            {
+                "0": "Tạm ứng cổ tức đợt 1 năm 2017 (iv)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(29.624.994.000)",
+                "6": "(29.624.994.000)"
+            },
+            {
+                "0": "Giảm khác (iii)",
+                "1": "-",
+                "2": "(45.000.000)",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "(45.000.000)"
+            },
+            {
+                "0": "Trả tiền cổ tức năm 2009-2011 choBùi Văn Long",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(2.859.500)",
+                "6": "(2.859.500)"
+            },
+            {
+                "0": "Số dư tại ngày 31/12/2017",
+                "1": "835.999.880.000",
+                "2": "198.078.767.329",
+                "3": "40.986.236.108",
+                "4": "11.612.477.781",
+                "5": "276.293.650.267",
+                "6": "1.362.971.011.485"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_24",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "(i) Công ty đang hoạt động theo giấy chứng nhận đăng ký doanh nghiệp công ty cổ phần thay đổi lần thứ 25 ngày 08 tháng 12 năm 2017, vốn điều lệ của Công ty là 835.999.880.000 đồng.\n\n40\n\n\n\nMẫu số B 09 - DN\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (TIẾP THEO)\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đông thời với Báo cáo tài chính riêng kèm theo\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)\n5.20 Vốn chủ sở hữu\n\n(ii) Phân chia các quỹ và chi trả cổ tức theo Nghị quyết Đại hội đồng cổ đông số 11802/2017NQ-ĐHĐ ngày 18 tháng 02 năm 2017, theo đó: Quỹ khen thưởng, phúc lợi 8%, Quỹ đầu tư phát triển 5% và tạm chia cổ tức năm 2017 trên Lợi nhuận sau thuế của năm 2016 với tỷ lệ 77,12%.\n(iii) Khoản phí tư vấn liên quan đến tăng vốn.\n(iv) Trả cổ tức theo quyết định số 3107/2017/NQ-HĐQT về việc tạm chi trả cổ tức đợt 1 năm 2017. Thời gian chốt danh sách cổ tức là ngày 15 tháng 08 năm 2017. Tỷ lệ chi trả cổ tức là 5%/cổ phần được thanh toán bằng tiền mặt.",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2017Cổ phiếu",
+                "2": "Năm 2016Cổ phiếu"
+            },
+            {
+                "0": "Số lượng cổ phiếu đăng ký phát hành",
+                "1": "83.599.988",
+                "2": "56.964.988"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã bán ra công chúng",
+                "1": "83.599.988",
+                "2": "56.964.988"
+            },
+            {
+                "0": "- Cổ phiếu phổ thông",
+                "1": "83.599.988",
+                "2": "56.964.988"
+            },
+            {
+                "0": "- Cổ phiếu ưu đãi",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Số lượng cổ phiếu được mua lại",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "- Cổ phiếu phổ thông",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "- Cổ phiếu ưu đãi",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Số lượng cổ phiếu đang lưu hành",
+                "1": "83.599.988",
+                "2": "56.964.988"
+            },
+            {
+                "0": "- Cổ phiếu phổ thông",
+                "1": "83.599.988",
+                "2": "56.964.988"
+            },
+            {
+                "0": "- Cổ phiếu ưu đãi",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Mệnh giá cổ phiếu đang lưu hành: 10.000 đồng/cổ phần.",
+                "1": "Mệnh giá cổ phiếu đang lưu hành: 10.000 đồng/cổ phần.",
+                "2": "Mệnh giá cổ phiếu đang lưu hành: 10.000 đồng/cổ phần."
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_25",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "CÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\n41\n\n(1) \\( \\because {DA} = {BD} = 1 \\)\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\n\nVÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng,\n\nthị trân Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n6. THÔNG TIN BỔ SUNG CÁC KHOẢN MỤC TRÊN BÁO CÁO KẾT QUẢ KINH DOANH\n\n6.1. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2017VND",
+                "2": "Năm 2016VND"
+            },
+            {
+                "0": "Tổng doanh thu bán hàng và cung cấp dịch vụ",
+                "1": "3.550.043.848.026",
+                "2": "2.054.755.011.168"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "- Doanh thu bán thành phẩm",
+                "1": "2.820.199.636.853",
+                "2": "1.692.943.670.173"
+            },
+            {
+                "0": "- Doanh thu bán hàng hóa",
+                "1": "727.322.109.355",
+                "2": "361.064.925.995"
+            },
+            {
+                "0": "- Doanh thu cung cấp dịch vụ",
+                "1": "2.522.101.818",
+                "2": "746.415.000"
+            },
+            {
+                "0": "Doanh thu với các bên liên quan",
+                "1": "623.256.593.650",
+                "2": "57.062.602.005"
+            },
+            {
+                "0": "Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên Bái",
+                "1": "240.223.376.136",
+                "2": "57.062.602.005"
+            },
+            {
+                "0": "Công ty cổ phần An phát Holdings",
+                "1": "1.815.032.060",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Liên Vận An Tín",
+                "1": "927.600.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty cổ phần sản xuất tổng hợp An Thành",
+                "1": "380.290.585.454",
+                "2": "-"
+            },
+            {
+                "0": "Các khoản giảm trừ doanh thu",
+                "1": "6.094.868.449",
+                "2": "1.607.150.157"
+            },
+            {
+                "0": "- Giảm giá hàng bán",
+                "1": "1.147.087.478",
+                "2": "603.204.566"
+            },
+            {
+                "0": "- Hàng bán bị trả lại",
+                "1": "4.947.780.971",
+                "2": "1.003.945.591"
+            },
+            {
+                "0": "Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "1": "3.543.948.979.577",
+                "2": "2.053.147.861.011"
+            },
+            {
+                "0": "Giá vốn thành phẩm đã bán",
+                "1": "2.404.632.139.731",
+                "2": "1.446.163.603.080"
+            },
+            {
+                "0": "Giá vốn hàng hóa đã bán",
+                "1": "717.615.072.972",
+                "2": "344.057.961.193"
+            },
+            {
+                "0": "Cộng",
+                "1": "3.122.247.212.703",
+                "2": "1.790.221.564.273"
+            },
+            {
+                "0": "Lãi tiền gửi ngân hàng, tiền cho vay",
+                "1": "8.354.322.946",
+                "2": "2.960.256.554"
+            },
+            {
+                "0": "Cổ tức, lợi nhuận được chia",
+                "1": "7.200.000.000",
+                "2": "6.766.074.000"
+            },
+            {
+                "0": "Lãi chênh lệch tỷ giá phát sinh trong năm",
+                "1": "18.291.339.491",
+                "2": "17.657.068.307"
+            },
+            {
+                "0": "Lãi bán cổ phiếu HII",
+                "1": "30.920.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Lãi bán cổ phần VBC",
+                "1": "35.720.768.745",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "100.486.431.182",
+                "2": "27.383.398.861"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_26",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "42\n\n||2| 30°17.10.55.90.17||\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\n\nVÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng,\n\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMâu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n6. THÔNG TIN BỔ SUNG CÁC KHOẢN MỤC TRÊN BẢO CẢO KẾT QUẢ KINH DOANH (TIẾP THEO)\n\n6.4. Chi phí hoạt động tài chính",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2017VND",
+                "2": "Năm 2016VND"
+            },
+            {
+                "0": "Lãi tiền vay",
+                "1": "54.458.913.501",
+                "2": "23.874.478.344"
+            },
+            {
+                "0": "Chi phí lãi trái phiếu",
+                "1": "17.779.633.333",
+                "2": "-"
+            },
+            {
+                "0": "Lỗ chênh lệch tỷ giá phát sinh trong năm",
+                "1": "9.618.552.846",
+                "2": "15.165.006.811"
+            },
+            {
+                "0": "Lỗ chênh lệch tỷ giá do đánh giá lại",
+                "1": "2.434.725.654",
+                "2": "10.341.639.424"
+            },
+            {
+                "0": "Dự phòng giảm giá các khoản đầu tư",
+                "1": "2.282.767.113",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí tài chính khác",
+                "1": "158.812.133",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "86.733.404.580",
+                "2": "49.381.124.579"
+            },
+            {
+                "0": "Các khoản chi phí quản lý doanh nghiệp phát sinh trong năm",
+                "1": "Các khoản chi phí quản lý doanh nghiệp phát sinh trong năm",
+                "2": "Các khoản chi phí quản lý doanh nghiệp phát sinh trong năm"
+            },
+            {
+                "0": "Chi phí nguyên liệu, vật liệu",
+                "1": "15.898.223.790",
+                "2": "9.631.553.450"
+            },
+            {
+                "0": "Chi phí nhân công",
+                "1": "17.091.708.954",
+                "2": "16.558.679.528"
+            },
+            {
+                "0": "Chi phí khấu hao tài sản cố định",
+                "1": "11.291.022.634",
+                "2": "6.815.858.168"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "9.166.629.623",
+                "2": "12.561.847.739"
+            },
+            {
+                "0": "Chi phí khác bằng tiền",
+                "1": "10.430.974.029",
+                "2": "9.791.979.131"
+            },
+            {
+                "0": "Cộng",
+                "1": "63.878.559.030",
+                "2": "55.359.918.016"
+            },
+            {
+                "0": "Các khoản chi phí bán hàng phát sinh trong năm",
+                "1": "Các khoản chi phí bán hàng phát sinh trong năm",
+                "2": "Các khoản chi phí bán hàng phát sinh trong năm"
+            },
+            {
+                "0": "Chi phí nguyên liệu, vật liệu",
+                "1": "665.180.028",
+                "2": "802.588.683"
+            },
+            {
+                "0": "Chi phí nhân công",
+                "1": "4.059.640.042",
+                "2": "2.675.036.151"
+            },
+            {
+                "0": "Chi phí khấu hao tài sản cố định",
+                "1": "8.120.963.559",
+                "2": "4.652.310.545"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "50.644.409.116",
+                "2": "30.274.054.041"
+            },
+            {
+                "0": "Chi phí khác bằng tiền",
+                "1": "9.708.133.796",
+                "2": "3.771.013.131"
+            },
+            {
+                "0": "Cộng",
+                "1": "73.198.326.541",
+                "2": "42.175.002.551"
+            },
+            {
+                "0": "Thu từ thanh lý, nhượng bán tài sản cố định",
+                "1": "-",
+                "2": "6.645.182.072"
+            },
+            {
+                "0": "Các khoản thu nhập khác",
+                "1": "2.203.762.549",
+                "2": "1.412.054.583"
+            },
+            {
+                "0": "Cộng",
+                "1": "2.203.762.549",
+                "2": "8.057.236.655"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_27",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "43\n\n\\( \\left( {1 - 3}\\right) \\because \\)\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\nVÀ MÔI TRƯỜNG XANH AN PHÁT\nLô CN11+CN12, cụm công nghiệp An Đồng,\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n6. THÔNG TIN BỔ SUNG CÁC KHOẢN MỤC TRÊN BẢO CẢO KẾT QUẢ KINH DOANH (TIẾP THEO)\n\n6.7. Chi phí khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2017VND",
+                "2": "Năm 2016VND"
+            },
+            {
+                "0": "Lỗ thanh lý tài sản cố định",
+                "1": "197.317.501",
+                "2": "-"
+            },
+            {
+                "0": "Các khoản chi phí khác",
+                "1": "188.008.906",
+                "2": "22.255.986"
+            },
+            {
+                "0": "Cộng",
+                "1": "385.326.407",
+                "2": "22.255.986"
+            },
+            {
+                "0": "Tổng thu nhập trước thuế thu nhập DN",
+                "1": "300.196.344.047",
+                "2": "151.428.631.122"
+            },
+            {
+                "0": "Các khoản điều chỉnh cho thu nhập chịu thuế",
+                "1": "(55.426.260.932)",
+                "2": "(47.532.422.070)"
+            },
+            {
+                "0": "Cộng: Chi phí không được trừ",
+                "1": "2.595.569.239",
+                "2": "2.191.227.598"
+            },
+            {
+                "0": "Cộng: Lãi CLTG chưa thực hiện năm trước đã thực hiện năm nay",
+                "1": "37.445.560",
+                "2": "-"
+            },
+            {
+                "0": "Trừ: Thu nhập không chịu thuế",
+                "1": "58.059.275.731",
+                "2": "49.723.649.668"
+            },
+            {
+                "0": "Tổng thu nhập chịu thuế",
+                "1": "244.770.083.115",
+                "2": "103.896.209.052"
+            },
+            {
+                "0": "Trong đó:- Thu nhập chịu thuế không được hưởng ưu đãi",
+                "1": "244.770.083.115",
+                "2": "103.896.209.052"
+            },
+            {
+                "0": "Thuế suất thuế thu nhập doanh nghiệp- Thuế suất thuế thu nhập doanh nghiệp",
+                "1": "20%",
+                "2": "20%"
+            },
+            {
+                "0": "Chi phí thuế thu nhập doanh nghiệp tính trên thu nhập chịu thuế năm hiện hành",
+                "1": "48.954.016.623",
+                "2": "20.779.241.810"
+            },
+            {
+                "0": "Điều chỉnh chi phí thuế TNDN của các năm trước vào chi phí thuế thu nhập hiện hành",
+                "1": "(72.000.000)",
+                "2": "-"
+            },
+            {
+                "0": "Tổng chi phí thuế TNDN hiện hành",
+                "1": "48.882.016.623",
+                "2": "20.779.241.810"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_28",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "6.9. Lãi cơ bản trên cổ phiếu\n\nTheo Chuẩn mực kế toán Việt Nam số 30 “Lãi cơ bản trên cổ phiếu”, Công ty đồng thời lập cả Báo cáo tài chính riêng và Báo cáo tài chính hợp nhất thì chỉ phải trình bày thông tin về lãi trên cổ phiếu theo quy định của chuẩn mực này trên Báo cáo tài chính hợp nhất.\n\n6.10. Chi phí sản xuất kinh doanh theo yếu tố",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2017VND",
+                "2": "Năm 2016VND"
+            },
+            {
+                "0": "Chi phí nguyên liệu, vật liệu",
+                "1": "2.019.157.769.031",
+                "2": "1.775.762.351.172"
+            },
+            {
+                "0": "Chi phí nhân công",
+                "1": "160.487.563.050",
+                "2": "111.331.626.974"
+            },
+            {
+                "0": "Chi phí khấu hao tài sản cố định",
+                "1": "147.426.582.224",
+                "2": "79.588.965.601"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "203.595.146.788",
+                "2": "108.593.795.559"
+            },
+            {
+                "0": "Chi phí khác bằng tiền",
+                "1": "20.143.527.155",
+                "2": "44.832.481.142"
+            },
+            {
+                "0": "Cộng",
+                "1": "2.550.810.588.248",
+                "2": "2.120.109.220.448"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_29",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "44\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\n\nVÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đồng,\n\nthị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMẫu số B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n7. CÁC THÔNG TIN KHÁC\n\n7.1. Báo cáo bộ phận\n\nTheo Chuẩn mực kế toán Việt Nam số 28 “Báo cáo bộ phận”, Công ty đồng thời lập cả Báo cáo tài chính riêng và Báo cáo tài chính hợp nhất thì chỉ phải trình bày thông tin về Báo cáo bộ phận theo quy định của chuẩn mực này trên Báo cáo tài chính hợp nhất, mà không trình bày trên Báo cáo tài chính.\n\n7.2. Nghiệp vụ và số dư với các bên liên quan\n\nDanh sách các bên liên quan",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ"
+            },
+            {
+                "0": "Công ty Cổ phần An Phát Holdings",
+                "1": "Công ty mẹ"
+            },
+            {
+                "0": "Công ty Cổ phần Khu Công nghiệp Kỹ thuật cao An Phát",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên Bái",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Liên Vận An Tín",
+                "1": "Công ty con cấp 2"
+            },
+            {
+                "0": "Công ty Cổ phần sản xuất tổng hợp An Thành",
+                "1": "Công ty con cấp 2"
+            },
+            {
+                "0": "Công ty Cổ phần Nhựa Bao bì Vinh",
+                "1": "Công ty liên kết"
+            },
+            {
+                "0": "Công ty TNHH Dương Phạm Investment",
+                "1": "Cổ đông lớn"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Việt và Dương",
+                "1": "Cổ đông lớn"
+            },
+            {
+                "0": "Công ty TNHH Đầu Tư Trung và Hòa",
+                "1": "Cổ đông lớn"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_30",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "Thu nhập của Ban Tổng Giám đốc, Hội đồng Quản trị và Ban kiểm soát được hưởng trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "Khoản mục",
+                "1": "Năm 2017VND",
+                "2": "Năm 2016VND"
+            },
+            {
+                "0": "Thù lao của Hội đồng Quản trị",
+                "1": "660.000.000",
+                "2": "660.000.000"
+            },
+            {
+                "0": "Thù lao của Ban kiểm soát",
+                "1": "264.000.000",
+                "2": "264.000.000"
+            },
+            {
+                "0": "Lương và phụ cấp của Ban Tổng Giám đốc",
+                "1": "1.823.024.786",
+                "2": "1.515.713.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "2.747.024.786",
+                "2": "2.439.713.000"
+            },
+            {
+                "0": "",
+                "1": "Năm 2017VND",
+                "2": "Năm 2016VND"
+            },
+            {
+                "0": "Doanh thu bán hàng",
+                "1": "621.441.561.590",
+                "2": "57.062.602.005"
+            },
+            {
+                "0": "Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên Bái",
+                "1": "240.223.376.136",
+                "2": "57.062.602.005"
+            },
+            {
+                "0": "Công ty Cổ phần Liên Vận An Tín",
+                "1": "927.600.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần sản xuất tổng hợp An Thành",
+                "1": "380.290.585.454",
+                "2": "-"
+            },
+            {
+                "0": "Mua hàng hóa, dịch vụ",
+                "1": "183.649.570.194",
+                "2": "46.166.289.028"
+            },
+            {
+                "0": "Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên Bái",
+                "1": "97.859.919.922",
+                "2": "46.166.289.028"
+            },
+            {
+                "0": "Công ty Cổ phần Liên Vận An Tín",
+                "1": "44.662.836.635",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần sản xuất tổng hợp An Thành",
+                "1": "41.126.813.637",
+                "2": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "AAA_2017_separate_table_31",
+        "metadata": {
+            "ticker": "AAA",
+            "company_name": "CTCP Nhựa An Phát Xanh",
+            "year": "2017",
+            "report_type": "separate",
+            "original_folder": "AAA_financial_statements_2017_separate"
+        },
+        "context_text": "45\n\n\n\nCÔNG TY CỔ PHẦN NHỰA\n\nVÀ MÔI TRƯỜNG XANH AN PHÁT\n\nLô CN11+CN12, cùm công nghiệp An Đông,\n\nthị trân Nam Sách, huyện Nam Sách, tỉnh Hải Dương\n\nMãu só B 09 - DN\n\nBan hành kèm theo Thông tư số 200/2014/TT-BTC\n\nNgày 22/12/2014 của Bộ Tài Chính\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP THEO)\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính riêng kèm theo\n\n7. CÁC THÔNG TIN KHÁC (TIẾP THEO)\n\n7.2. Nghiệp vụ và số dư với các bên liên Quan (Tiếp theo)\n\nSố dư chủ yếu với các bên liên quan tại ngày kết thúc niên độ:\n\nSố dư chủ yếu với các bên liên quan tại ngày kết thúc niên độ kế toán:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2017VND",
+                "2": "01/01/2017VND"
+            },
+            {
+                "0": "Các khoản phải thu khách hàng",
+                "1": "Các khoản phải thu khách hàng",
+                "2": "Các khoản phải thu khách hàng"
+            },
+            {
+                "0": "Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên Bái",
+                "1": "6.780.672.411",
+                "2": "5.315.169.086"
+            },
+            {
+                "0": "Công ty Cổ phần sản xuất tổng hợp An Thành",
+                "1": "118.700.696.499",
+                "2": "-"
+            },
+            {
+                "0": "Trả trước cho người bán",
+                "1": "Trả trước cho người bán",
+                "2": "Trả trước cho người bán"
+            },
+            {
+                "0": "Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên Bái",
+                "1": "12.391.635.271",
+                "2": "1.271.234.275"
+            },
+            {
+                "0": "Phải thu khác",
+                "1": "Phải thu khác",
+                "2": "Phải thu khác"
+            },
+            {
+                "0": "Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên Bái",
+                "1": "115.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Liên Vận An Tín",
+                "1": "2.001.119.006",
+                "2": "-"
+            },
+            {
+                "0": "Phải trả người bán",
+                "1": "Phải trả người bán",
+                "2": "Phải trả người bán"
+            },
+            {
+                "0": "Công ty Cổ phần Liên Vận An Tín",
+                "1": "4.537.926.629",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần sản xuất tổng hợp An Thành",
+                "1": "1.922.715.000",
+                "2": "-"
+            },
+            {
+                "0": "Các khoản cho vay",
+                "1": "Các khoản cho vay",
+                "2": "Các khoản cho vay"
+            },
+            {
+                "0": "Công ty Cổ phần Nhựa và Khoáng sản An Phát - Yên",
+                "1": "30.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Các khoản vay",
+                "1": "Các khoản vay",
+                "2": "Các khoản vay"
+            },
+            {
+                "0": "Công ty TNHH Dương Phạm Investment",
+                "1": "50.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Việt và Dương",
+                "1": "50.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Đầu Tư Trung và Hòa",
+                "1": "49.690.000.000",
+                "2": "-"
+            }
+        ]
+    }
+]

@@ -1,0 +1,3789 @@
+[
+    {
+        "chunk_id": "SNZ_2021_separate_table_1",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "UBND TỈNH ĐỒNG NAI\nTỔNG CÔNG TY SONADEZI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\n\nSố: 129 /SNZ-QTTH\n\nĐồng Nai, ngày 25 tháng 3 năm 2022\n\nCÔNG BÓ THÔNG TIN TRÊN CÔNG THÔNG TIN ĐIỆN TỪ\nCỦA ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC\nVÀ SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI\n\nKính gửi:\n\n- Ủy ban Chứng khoán Nhà nước;\n\n- Sở Giao dịch Chứng khoán Hà Nội.\n\n- Tên tổ chức: TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\n- Tên viết tất: TỔNG CÔNG TY SONADEZI\n\n- Mã chứng khoán: SNZ\n\n- Địa chỉ trụ sở chính: Số 1, đường 1, KCN Biên Hoà 1, phường An Bình, TP. Biên Hoà, tỉnh Đồng Nai\n\n- Điện thoại: (0251) 8860561\n\nFax: (0251) 8860573\n\n- Người thực hiện công bố thông tin: ông Phạm Trần Hòa Hiệp – Người CBTT\n\n- Loại thông tin công bố:\n\n☑ định kỳ\n\n□ bất thường\n\n□ 24h\n\n□ theo yêu cầu\n\nNội dung thông tin công bố:\n\nCông bố thông tin Báo cáo tài chính riêng năm 2021 đã kiểm toán.\n\nThông tin này đã được công bố trên trang thông tin điện tử của Tổng công ty Sonadezi vào ngày 25/03/2022 tại đường dẫn: http://sonadezi.com.vn/quan-he-co-dong/.\n\nTài liệu đính kèm: Báo cáo tài chính riêng năm 2021 đã kiểm toán.\n\nTôi cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố.\n\nTrân trọng.\n\nNơi nhận:\n\n- Như trên;\n\n- Luru: VT, QTTH.\n\nTUQ. TỔNG GIÁM ĐỐC\nNGƯỜI CÔNG BỔ THÔNG TIN\n\nPhạm Trần Hòa Hiệp\n\n\n\nRSM\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN\nKHU CÔNG NGHIỆP\n\nBÁO CÁO TÀI CHÍNH RIÊNG ĐÃ ĐƯỢC KIỂM TOÁN\nCho năm tài chính kết thúc tại ngày 31 tháng 12 năm 2021\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nMỤC LỤC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Trang"
+            },
+            {
+                "0": "BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC",
+                "1": "01 - 02"
+            },
+            {
+                "0": "BÁO CÁO KIỂM TOÁN ĐỘC LẬP",
+                "1": "03 - 04"
+            },
+            {
+                "0": "BÁO CÁO TÀI CHÍNH RIÊNG ĐÃ ĐƯỢC KIỂM TOÁN",
+                "1": ""
+            },
+            {
+                "0": "Bàng cân đối kế toán",
+                "1": "05 - 06"
+            },
+            {
+                "0": "Báo cáo kết quả hoạt động kinh doanh",
+                "1": "07"
+            },
+            {
+                "0": "Báo cáo lưu chuyển tiền tệ",
+                "1": "08 - 09"
+            },
+            {
+                "0": "Bàn thuyết minh báo cáo tài chính",
+                "1": "10 - 41"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_2",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC\n\nBan Tổng Giám đốc Tổng Công ty Cổ phần Phát triển Khu Công nghiệp (dưới đây gọi tất là “Tổng Công ty”) để trình báo cáo này cùng với các báo cáo tài chính riêng đính kèm đã được kiểm toán của Tổng Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021.\n\nTHÀNH VIÊN HỘI ĐỒNG QUẢN TRỊ, BAN KIỂM SOÁT VÀ BAN TỔNG GIÁM ĐỐC\n\nDanh sách các thành viên Hội đồng quản trị trong năm và vào ngày lập báo cáo này của Tổng Công ty bao gồm:",
+        "dataframe": [
+            {
+                "0": "Tên",
+                "1": "Chức vụ"
+            },
+            {
+                "0": "Bà Đỗ Thị Thu Hằng",
+                "1": "Chủ tịch"
+            },
+            {
+                "0": "Ông Trần Thanh Hải",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Bà Nguyễn Thị Hạnh",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Nguyễn Văn Tuấn",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Phạm Quốc Chí",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ông Đình Ngọc Thuận",
+                "1": "Thành viên"
+            },
+            {
+                "0": "Ba Lương Minh Hiền",
+                "1": "Thành viên (bổ nhiệm ngày 28 tháng 04 năm 2021)"
+            },
+            {
+                "0": "Ông Phan Đình Thám",
+                "1": "Thành viên (miễn nhiệm ngày 28 tháng 04 năm 2021)"
+            },
+            {
+                "0": "Bà Đăng Lê Bích PhươngÔng Trần Ngọc TôngÔng Trần Ngọc TôngBà Phạm Thị Cẩm Hà",
+                "1": "Trưởng ban (bổ nhiệm ngày 28 tháng 04 năm 2021)Trưởng ban (miễn nhiệm ngày 28 tháng 04 năm 2021)Thành viênThành viên"
+            },
+            {
+                "0": "Ông Trần Thanh Hải",
+                "1": "Tổng Giám đốc (bỗ nhiệm ngày 01 tháng 05 năm 2021)"
+            },
+            {
+                "0": "Ông Phan Đình Thám",
+                "1": "Tổng Giám đốc (miễn nhiệm ngày 01 tháng 05 năm 2021)"
+            },
+            {
+                "0": "Ông Đình Ngọc Thuận",
+                "1": "Phó Tổng Giám đốc"
+            },
+            {
+                "0": "Bà Nguyễn Thị Hạnh",
+                "1": "Phó Tổng Giám đốc"
+            },
+            {
+                "0": "Ba Lương Minh Hiền",
+                "1": "Phó Tổng Giám đốc (bỗ nhiệm ngày 01 tháng 05 năm 2021)"
+            },
+            {
+                "0": "Ông Nguyễn Minh Khoa",
+                "1": "Giám đốc chi nhánh"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_3",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "KIÊM TOÁN VIÊN\n\nBáo cáo tài chính riêng kèm theo của Tổng Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 được kiểm toán bởi Công ty TNHH Kiểm toán & Tư vấn RSM Việt Nam, thành viên RSM Quốc tế.\n\n(Xem trang tiếp theo)\n\n1\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (TIẾP THEO)\n\nTRÁCH NHIÊM CỦA BAN TỔNG GIÁM ĐỐC\n\nBan Tổng Giám đốc Tổng Công ty có trách nhiệm lập báo cáo tài chính riêng hằng kỳ phần ánh một cách trung thực và hợp lý tình hình tài chính cũng như kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ của Tổng Công ty trong kỳ. Trong việc lập báo cáo tài chính riêng này, Ban Tổng Giám đốc được yêu cầu phải:\n\n- Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách đó một cách nhất quán;\n\nĐưa ra các xét đoán và ước tính một cách hợp lý và thận trọng;\n\n- Nếu rõ Chuẩn mực kế toán áp dụng cho Tổng Công ty có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu cần được công bố và giải thích trong báo cáo tài chính riêng hay không;\n\nLập báo cáo tài chính riêng trên cơ sở hoạt động liên tục trừ trường hợp không thể giả định rằng Tổng Công ty sẽ tiếp tục hoạt động liên tục; và\n\n- Thiết kế và duy trì hệ thống kiểm soát nội bộ một cách hữu hiệu cho mục đích lập và trình bày báo cáo tài chính riêng hợp lý nhằm hạn chế sai sót và gian lận.\n\nBan Tổng Giám đốc chịu trách nhiệm đảm bảo rằng các số sách kế toán được ghi chép phù hợp và lưu giữ đầy đủ để phản ánh một cách hợp lý tình hình tài chính của Tổng Công ty tại bất ký thời điểm nào và báo cáo tài chính riêng được lập tuân thủ các Chuẩn mực kế toán và Chế độ kế toán doanh nghiệp Việt Nam cũng như các quy định hiện hành khác về kế toán tại Việt Nam. Ban Tổng Giám đốc Tổng Công ty cũng chịu trách nhiệm đảm bảo an toàn tài sản của Tổng Công ty và thực hiện những biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lận và vi phạm khác.\n\nBan Tổng Giám đốc xác nhận rằng Tổng Công ty đã tuân thủ các yêu cầu nếu trên khi lập báo cáo tài chính riêng.\n\nCÔNG BÓ BÁO CÁO TÀI CHÍNH RIÊNG\n\nBan Tổng Giám đốc Tổng Công ty công bố rằng, báo cáo tài chính riêng kèm theo phần ánh trung thực và hợp lý, trên các khía cạnh trong yếu, tỉnh hình tài chính của Tổng Công ty vào ngày 31 tháng 12 năm 2021, kết quả hoạt động kinh doanh và tỉnh hình lưu chuyển tiền tệ của năm tài chính kết thúc cũng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định hiện hành có liên quan tại Việt Nam.\n\nThay mặt và đại diện cho Ban Tổng Giám đốc,\n\n2\n\n\\( \\left( {x - 1}\\right)  = \\left( {x + 2}\\right)  + 1 = 0 \\)\n\n\n\nRSM\n\nRSM Vietnam\n\nLâu 5, Tòa nhà Sài Gòn 3\n\n140 Nguyễn Văn Thù, Phường Đa Kao\n\nQuân 1, Tp. Hồ Chí Minh, Việt Nam\n\nT +8428 3827 5026\n\nF +8428 3827 5027\n\nwww.rsm.global/vietnam\n\nSố: 256/2022/KT-RSMHCM\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP\n\nKính gửi: Các thành viên Hội đồng Quản trị\n\nCác thành viên Ban Tổng Giám đốc\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nBáo cáo kiểm toán về báo cáo tài chính riêng\n\nChúng tối đã kiểm toán báo cáo tài chính riêng kèm theo của Tổng Công ty Cổ phần Phát triển Khu Công nghiệp (dưới đây gọi tất là \"Tổng Công ty\"), được lập ngày 18 tháng 03 năm 2022, từ trang 05 đến trang 41, bao gồm Bảng cân đối kế toán tại ngày 31 tháng 12 năm 2021, Báo cáo kết quả hoạt động kinh doanh, Báo cáo lưu chuyển tiền tệ cho năm tài chính kết thúc cùng ngày và Bản thuyết minh báo cáo tài chính.\n\nTrách nhiệm của Ban Tổng Giám đốc\n\nBan Tổng Giám đốc Tổng Công ty chịu trách nhiệm về việc lập và trình bày trung thực hợp lý báo cáo tài chính riêng của Công ty theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Tổng Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính riêng do gian lập hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tổng Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.\n\nChủng tối tin tưởng rằng các bằng chứng kiểm toán mà chứng tối đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chứng tối.\n\n(Xem trang tiếp theo)\n\nTHE POWER OF BEING UNDERSTOOD\n\nAUDIT | TAX | CONSULTING\n\nRSM Vietnam is a member of the RSM network and trades as RSM. RSM is the trading name used by the members of the RSM network. Each member of the RSM network is an independent accounting and consulting firm which practices in its own right. The RSM network is not itself a separate legal entity in any jurisdiction.\n\n3\n\n例二： \\( \\frac{1}{2}x - 1 > 0 \\)\n\n\n\nRSM\n\nBÁO CÁO KIÊM TOÁN ĐỘC LẬP (TIẾP THEO)\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến chúng tôi, báo cáo tài chính riêng định kèm đã phần ánh trung thực và hợp lý trên các khóa canh trọng yếu tình hình tài chính của Tổng Công ty Cổ phần Phát triển Khu Công nghiệp tại ngày 31 tháng 12 năm 2021 cũng như kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ của năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 và Thông tư số 53/2016/TT-BTC ngày 21/03/2016 của Bộ Tài chính và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nKT. TỔNG GIÁM ĐỐC\n\nLục Thị Vân\n\nPhó Tổng Giám đốc\n\nGiấy chứng nhận đăng ký hành nghề kiểm toán số: 0172-2018-026-1\n\nLê Việt Hà\n\nKiểm toán viên\n\nSố Giấy CN Đăng ký hành nghề kiểm toán: 4732-2019-026-1\n\nCông ty TNHH Kiểm toán & Tư vấn RSM Việt Nam\n\nTP. Hồ Chí Minh, ngày 18 tháng 03 năm 2022\n\nNhư đã trình bày tại Mục 2.1 của Bản thuyết minh báo cáo tài chính, báo cáo tài chính riêng kèm theo không nhằm phần ánh tỉnh hình tài chính, kết quả hoạt động kinh doanh và tỉnh hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại các nước ngoài Việt Nam.\n\n4\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nMẫu số B 01 - DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN\n\nTại ngày 31/12/2021\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "TÀI SẢN",
+                "1": "Mã số",
+                "2": "TM",
+                "3": "Tại ngày 31/12/2021",
+                "4": "Tại ngày 01/01/2021"
+            },
+            {
+                "0": "A. TÀI SẢN NGĂN HẠN",
+                "1": "100",
+                "2": "",
+                "3": "1.013.019.794.143",
+                "4": "1.117.692.215.037"
+            },
+            {
+                "0": "I. Tiền và các khoản tương đương tiền",
+                "1": "110",
+                "2": "4.1",
+                "3": "28.158.397.911",
+                "4": "31.889.335.434"
+            },
+            {
+                "0": "1. Tiền",
+                "1": "111",
+                "2": "",
+                "3": "28.158.397.911",
+                "4": "31.889.335.434"
+            },
+            {
+                "0": "II. Các khoản đầu tư tài chính ngắn hạn",
+                "1": "120",
+                "2": "",
+                "3": "781.295.000.000",
+                "4": "957.895.000.000"
+            },
+            {
+                "0": "1. Đầu tư nắm giữ đến ngày đáo hạn",
+                "1": "123",
+                "2": "4.2",
+                "3": "781.295.000.000",
+                "4": "957.895.000.000"
+            },
+            {
+                "0": "III. Các khoản phải thu ngắn hạn",
+                "1": "130",
+                "2": "",
+                "3": "190.053.803.608",
+                "4": "104.986.443.077"
+            },
+            {
+                "0": "1. Phải thu ngắn hạn của khách hàng",
+                "1": "131",
+                "2": "4.3",
+                "3": "53.557.767.261",
+                "4": "46.989.438.002"
+            },
+            {
+                "0": "2. Trả trước cho người bán ngắn hạn",
+                "1": "132",
+                "2": "",
+                "3": "907.855.000",
+                "4": "1.194.712.320"
+            },
+            {
+                "0": "3. Phải thu ngắn hạn khác",
+                "1": "136",
+                "2": "4.4",
+                "3": "145.978.292.155",
+                "4": "63.651.819.480"
+            },
+            {
+                "0": "4. Dự phòng phải thu ngắn hạn khó đòi",
+                "1": "137",
+                "2": "4.5",
+                "3": "(10.390.110.808)",
+                "4": "(6.849.526.725)"
+            },
+            {
+                "0": "IV. Hàng tồn kho",
+                "1": "140",
+                "2": "",
+                "3": "12.134.386.778",
+                "4": "12.025.473.643"
+            },
+            {
+                "0": "1. Hàng tồn kho",
+                "1": "141",
+                "2": "4.6",
+                "3": "12.134.386.778",
+                "4": "12.025.473.643"
+            },
+            {
+                "0": "V. Tài sản ngắn hạn khác",
+                "1": "150",
+                "2": "",
+                "3": "1.378.205.846",
+                "4": "10.895.962.883"
+            },
+            {
+                "0": "1. Chi phí trả trước ngắn hạn",
+                "1": "151",
+                "2": "4.11",
+                "3": "243.261.360",
+                "4": "10.265.831.164"
+            },
+            {
+                "0": "2. Thuế GTGT được khấu trừ",
+                "1": "152",
+                "2": "4.14",
+                "3": "1.132.859.481",
+                "4": "628.046.714"
+            },
+            {
+                "0": "3. Thuế và các khoản khác phải thu Nhà nước",
+                "1": "153",
+                "2": "4.14",
+                "3": "2.085.005",
+                "4": "2.085.005"
+            },
+            {
+                "0": "B. TÀI SẢN DÀI HẠN",
+                "1": "200",
+                "2": "",
+                "3": "3.373.339.430.619",
+                "4": "3.230.023.881.384"
+            },
+            {
+                "0": "I. Các khoản phải thu dài hạn",
+                "1": "210",
+                "2": "",
+                "3": "200.000.000",
+                "4": "1.276.538.000"
+            },
+            {
+                "0": "1. Trả trước cho người bán dài hạn",
+                "1": "212",
+                "2": "",
+                "3": "200.000.000",
+                "4": "200.000.000"
+            },
+            {
+                "0": "2. Phải thu dài hạn khác",
+                "1": "216",
+                "2": "",
+                "3": "-",
+                "4": "1.076.538.000"
+            },
+            {
+                "0": "II. Tài sản cố định",
+                "1": "220",
+                "2": "",
+                "3": "12.973.727.287",
+                "4": "14.230.588.833"
+            },
+            {
+                "0": "1. Tài sản cố định hữu hình",
+                "1": "221",
+                "2": "4.7",
+                "3": "3.588.342.643",
+                "4": "4.185.612.729"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "222",
+                "2": "",
+                "3": "13.879.024.565",
+                "4": "13.471.218.202"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế",
+                "1": "223",
+                "2": "",
+                "3": "(10.290.681.922)",
+                "4": "(9.285.605.473)"
+            },
+            {
+                "0": "2. Tài sản cố định vô hình",
+                "1": "227",
+                "2": "4.8",
+                "3": "9.385.384.644",
+                "4": "10.044.976.104"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "228",
+                "2": "",
+                "3": "14.248.840.250",
+                "4": "14.248.840.250"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế",
+                "1": "229",
+                "2": "",
+                "3": "(4.863.455.606)",
+                "4": "(4.203.864.146)"
+            },
+            {
+                "0": "III. Bất động sản đầu tư",
+                "1": "230",
+                "2": "4.9",
+                "3": "29.263.522.148",
+                "4": "3.391.369.071"
+            },
+            {
+                "0": "1. Nguyên giá",
+                "1": "231",
+                "2": "",
+                "3": "142.408.783.302",
+                "4": "115.188.369.923"
+            },
+            {
+                "0": "2. Giá trị hao mòn lũy kế",
+                "1": "232",
+                "2": "",
+                "3": "(113.145.261.154)",
+                "4": "(111.797.000.852)"
+            },
+            {
+                "0": "IV. Tài sản dở dang dài hạn",
+                "1": "240",
+                "2": "",
+                "3": "6.424.868.403",
+                "4": "27.689.155.124"
+            },
+            {
+                "0": "1. Chi phí xây dựng cơ bản dở dang",
+                "1": "242",
+                "2": "4.10",
+                "3": "6.424.868.403",
+                "4": "27.689.155.124"
+            },
+            {
+                "0": "V. Đầu tư tài chính dài hạn",
+                "1": "250",
+                "2": "4.2",
+                "3": "3.204.885.275.373",
+                "4": "3.016.555.758.119"
+            },
+            {
+                "0": "1. Đầu tư vào công ty con",
+                "1": "251",
+                "2": "",
+                "3": "1.744.762.870.217",
+                "4": "1.552.795.570.217"
+            },
+            {
+                "0": "2. Đầu tư vào công ty liên doanh, liên kết",
+                "1": "252",
+                "2": "",
+                "3": "1.314.856.869.951",
+                "4": "1.323.111.713.608"
+            },
+            {
+                "0": "3. Đầu tư góp vốn vào đơn vị khác",
+                "1": "253",
+                "2": "",
+                "3": "149.148.164.350",
+                "4": "140.648.474.294"
+            },
+            {
+                "0": "4. Dự phòng đầu tư tài chính dài hạn",
+                "1": "254",
+                "2": "",
+                "3": "(3.882.629.145)",
+                "4": "-"
+            },
+            {
+                "0": "VI. Tài sản dài hạn khác",
+                "1": "260",
+                "2": "",
+                "3": "119.592.037.408",
+                "4": "166.880.472.237"
+            },
+            {
+                "0": "1. Chi phí trả trước dài hạn",
+                "1": "261",
+                "2": "4.11",
+                "3": "119.592.037.408",
+                "4": "166.880.472.237"
+            },
+            {
+                "0": "TỔNG CỘNG TÀI SẢN (270 = 100 + 200)",
+                "1": "270",
+                "2": "",
+                "3": "4.386.359.224.762",
+                "4": "4.347.716.096.421"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_4",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "Các thuyết minh đính kèm là một bộ phận không tách rời của báo cáo tài chính\n\n5\n\n\\( ^{2} \\) NH * H·H·N·T\n\n* M.S.D.N.\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nMẫu số B 01 - DN\n\nBÀNG CÂN ĐÓI KẾ TOÁN (TIÉP THEO)\n\nTại ngày 31/12/2021\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "NGUỒN VỐN",
+                "1": "Mã số",
+                "2": "TM",
+                "3": "Tại ngày 31/12/2021",
+                "4": "Tại ngày 01/01/2021"
+            },
+            {
+                "0": "C. NỘ PHẢI TRẢ",
+                "1": "300",
+                "2": "",
+                "3": "84.811.957.883",
+                "4": "79.995.046.408"
+            },
+            {
+                "0": "I. Nợ ngắn hạn",
+                "1": "310",
+                "2": "",
+                "3": "51.211.957.883",
+                "4": "45.852.972.133"
+            },
+            {
+                "0": "1. Nợ phải trả người bán ngắn hạn",
+                "1": "311",
+                "2": "4.12",
+                "3": "6.534.766.732",
+                "4": "8.837.568.005"
+            },
+            {
+                "0": "2. Người mua trả tiền trước ngắn hạn",
+                "1": "312",
+                "2": "4.13",
+                "3": "4.006.439.156",
+                "4": "-"
+            },
+            {
+                "0": "3. Thuế và các khoản phải nộp Nhà nước",
+                "1": "313",
+                "2": "4.14",
+                "3": "10.994.118.800",
+                "4": "9.028.186.469"
+            },
+            {
+                "0": "4. Phải trả người lao động",
+                "1": "314",
+                "2": "4.15",
+                "3": "4.781.658.972",
+                "4": "5.218.116.789"
+            },
+            {
+                "0": "5. Chi phí phải trả ngắn hạn",
+                "1": "315",
+                "2": "",
+                "3": "1.196.831.378",
+                "4": "140.000.000"
+            },
+            {
+                "0": "6. Doanh thu chưa thực hiện ngắn hạn",
+                "1": "318",
+                "2": "",
+                "3": "542.074.275",
+                "4": "722.765.700"
+            },
+            {
+                "0": "7. Phải trả ngắn hạn khác",
+                "1": "319",
+                "2": "4.16",
+                "3": "589.513.984",
+                "4": "1.403.084.744"
+            },
+            {
+                "0": "8. Quỹ khen thưởng, phúc lợi",
+                "1": "322",
+                "2": "4.17",
+                "3": "22.566.554.586",
+                "4": "20.503.250.426"
+            },
+            {
+                "0": "II. Nợ dài hạn",
+                "1": "330",
+                "2": "",
+                "3": "33.600.000.000",
+                "4": "34.142.074.275"
+            },
+            {
+                "0": "1. Doanh thu chưa thực hiện dài hạn",
+                "1": "336",
+                "2": "",
+                "3": "-",
+                "4": "542.074.275"
+            },
+            {
+                "0": "2. Phải trả dài hạn khác",
+                "1": "337",
+                "2": "4.16",
+                "3": "33.600.000.000",
+                "4": "33.600.000.000"
+            },
+            {
+                "0": "D. VỐN CHỦ SỞ HỮU",
+                "1": "400",
+                "2": "",
+                "3": "4.301.547.266.879",
+                "4": "4.267.721.050.013"
+            },
+            {
+                "0": "I. Vốn chủ sở hữu",
+                "1": "410",
+                "2": "4.18",
+                "3": "4.301.547.266.879",
+                "4": "4.267.721.050.013"
+            },
+            {
+                "0": "1. Vốn góp của chủ sở hữu",
+                "1": "411",
+                "2": "",
+                "3": "3.765.000.000.000",
+                "4": "3.765.000.000.000"
+            },
+            {
+                "0": "Cổ phiếu phổ thông có quyền biểu quyết",
+                "1": "411a",
+                "2": "",
+                "3": "3.765.000.000.000",
+                "4": "3.765.000.000.000"
+            },
+            {
+                "0": "2. Cổ phiếu quỹ",
+                "1": "415",
+                "2": "",
+                "3": "(90.100.000)",
+                "4": "(90.100.000)"
+            },
+            {
+                "0": "3. Quỹ đầu tư phát triển",
+                "1": "418",
+                "2": "",
+                "3": "65.134.440.658",
+                "4": "44.192.605.476"
+            },
+            {
+                "0": "4. Lợi nhuận sau thuế chưa phân phối",
+                "1": "421",
+                "2": "",
+                "3": "471.502.926.221",
+                "4": "458.618.544.537"
+            },
+            {
+                "0": "LNST chưa phân phối lũy kế đến CK trước",
+                "1": "421a",
+                "2": "",
+                "3": "52.204.054.819",
+                "4": "39.674.373.703"
+            },
+            {
+                "0": "LNST chưa phân phối kỳ này",
+                "1": "421b",
+                "2": "",
+                "3": "419.298.871.402",
+                "4": "418.944.170.834"
+            },
+            {
+                "0": "TỔNG CỔNG NGUỒN VỐN (440 = 300 + 400)",
+                "1": "440",
+                "2": "",
+                "3": "4.386.359.224.762",
+                "4": "4.347.716.096.421"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_5",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "Đồng Nai, ngày 18 tháng 03 năm 2022\n\nNguyễn Thị Chung\n\nNgười lập\n\nCác thuyết minh dính kèm là một bộ phận không tách rời của báo cáo tài chính\n\n6\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nMẫu số B 02 - DN\n\nBÁO CÁO KẾT QUÀ HOẠT ĐỘNG KINH DOANH\n\nCho năm tài chính kết thúc ngày 31/12/2021\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "CHỈ TIỀU",
+                "1": "Mã số",
+                "2": "TM",
+                "3": "Năm 2021",
+                "4": "Năm 2020"
+            },
+            {
+                "0": "1. Doanh thu bán hàng và cung cấp dịch vụ",
+                "1": "1",
+                "2": "5.1",
+                "3": "198.107.340.905",
+                "4": "183.315.167.859"
+            },
+            {
+                "0": "2. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "1": "10",
+                "2": "",
+                "3": "198.107.340.905",
+                "4": "183.315.167.859"
+            },
+            {
+                "0": "3. Giá vốn hàng bán",
+                "1": "11",
+                "2": "5.2",
+                "3": "87.885.042.522",
+                "4": "96.494.107.728"
+            },
+            {
+                "0": "4. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "1": "20",
+                "2": "",
+                "3": "110.222.298.383",
+                "4": "86.821.060.131"
+            },
+            {
+                "0": "5. Doanh thu hoạt động tài chính",
+                "1": "21",
+                "2": "5.3",
+                "3": "380.622.060.146",
+                "4": "398.906.844.211"
+            },
+            {
+                "0": "6. Chi phí tài chính",
+                "1": "22",
+                "2": "5.4",
+                "3": "4.906.339.392",
+                "4": "(5.213.576.487)"
+            },
+            {
+                "0": "Trong đó, chi phí lãi vay",
+                "1": "23",
+                "2": "",
+                "3": "359.671.233",
+                "4": "199.890.028"
+            },
+            {
+                "0": "7. Chi phí bán hàng",
+                "1": "25",
+                "2": "",
+                "3": "1.612.657.451",
+                "4": "2.129.447.848"
+            },
+            {
+                "0": "8. Chi phí quản lý doanh nghiệp",
+                "1": "26",
+                "2": "5.5",
+                "3": "44.109.977.342",
+                "4": "47.518.806.768"
+            },
+            {
+                "0": "9. Lợi nhuận thuần từ hoạt động kinh doanh",
+                "1": "30",
+                "2": "",
+                "3": "440.215.384.344",
+                "4": "441.293.226.213"
+            },
+            {
+                "0": "10. Thu nhập khác",
+                "1": "31",
+                "2": "",
+                "3": "2.276.516.000",
+                "4": "181.783.820"
+            },
+            {
+                "0": "11. Chi phí khác",
+                "1": "32",
+                "2": "",
+                "3": "-",
+                "4": "192.222.900"
+            },
+            {
+                "0": "12. Lợi nhuận khác",
+                "1": "40",
+                "2": "",
+                "3": "2.276.516.000",
+                "4": "(10.439.080)"
+            },
+            {
+                "0": "13. Tổng lợi nhuận kế toán trước thuế",
+                "1": "50",
+                "2": "",
+                "3": "442.491.900.344",
+                "4": "441.282.787.133"
+            },
+            {
+                "0": "14. Chi phí thuế TNDN hiện hành",
+                "1": "51",
+                "2": "5.7",
+                "3": "23.193.028.942",
+                "4": "22.338.616.299"
+            },
+            {
+                "0": "15. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+                "1": "60",
+                "2": "",
+                "3": "419.298.871.402",
+                "4": "418.944.170.834"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_6",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "Lê Thị Bích Loan\nKế toán trường\n\nNguyễn Thị Chung\nNgười lập\n\nĐồng Nai, ngày 18 tháng 03 năm 2022\n\nCác thuyết minh đính kèm là một bộ phận không tách rời của báo cáo tài chính\n\n7\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nMẫu số B 03 - DN\n\nBÁO CÁO LƯU CHUYẾN TIỀN TỆ\n\n(Theo phương pháp gián tiếp)\n\nCho năm tài chính kết thúc ngày 31/12/2021\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "CHỈ TIỀU",
+                "1": "Mã số",
+                "2": "TM",
+                "3": "Năm 2021",
+                "4": "Năm 2020"
+            },
+            {
+                "0": "I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+                "1": "I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+                "3": "I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+                "4": "I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH"
+            },
+            {
+                "0": "1. Lợi nhuận trước thuế",
+                "1": "01",
+                "2": "",
+                "3": "442.491.900.344",
+                "4": "441.282.787.133"
+            },
+            {
+                "0": "2. Điều chỉnh cho các khoản:",
+                "1": "2. Điều chỉnh cho các khoản:",
+                "2": "2. Điều chỉnh cho các khoản:",
+                "3": "2. Điều chỉnh cho các khoản:",
+                "4": "2. Điều chỉnh cho các khoản:"
+            },
+            {
+                "0": "Khấu hao TSCĐ và BĐSDĐT",
+                "1": "02",
+                "2": "5.6",
+                "3": "4.022.562.548",
+                "4": "3.777.981.215"
+            },
+            {
+                "0": "Các khoản dự phòng",
+                "1": "03",
+                "2": "",
+                "3": "7.423.213.228",
+                "4": "(3.170.872.883)"
+            },
+            {
+                "0": "Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lạicác khoản mục tiền tệ có gốc ngoại tệ",
+                "1": "04",
+                "2": "",
+                "3": "296.223",
+                "4": "33.202"
+            },
+            {
+                "0": "Lãi, lỗ từ hoạt động đầu tư",
+                "1": "05",
+                "2": "",
+                "3": "(379.971.930.146)",
+                "4": "(398.714.587.246)"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "06",
+                "2": "5.4",
+                "3": "359.671.233",
+                "4": "199.890.028"
+            },
+            {
+                "0": "3. Lợi nhuận từ hoạt động kinh doanh trước nhữngthay đôi vốn lưu động",
+                "1": "08",
+                "2": "",
+                "3": "74.325.713.430",
+                "4": "43.375.231.449"
+            },
+            {
+                "0": "Tăng, giảm các khoản phải thu",
+                "1": "09",
+                "2": "",
+                "3": "(75.192.635.181)",
+                "4": "(10.797.437.483)"
+            },
+            {
+                "0": "Tăng, giảm hàng tồn kho",
+                "1": "10",
+                "2": "",
+                "3": "98.685.550",
+                "4": "(518.677.990)"
+            },
+            {
+                "0": "Tăng, giảm các khoản phải trả (không kể lãi vay phải trả,thuế thu nhập doanh nghiệp phải nộp)",
+                "1": "11",
+                "2": "",
+                "3": "5.775.162.664",
+                "4": "(10.528.830.481)"
+            },
+            {
+                "0": "Tăng, giảm chi phí trả trước",
+                "1": "12",
+                "2": "",
+                "3": "57.311.004.633",
+                "4": "64.723.565.483"
+            },
+            {
+                "0": "Tiền lãi vay đã trả",
+                "1": "14",
+                "2": "",
+                "3": "(359.671.233)",
+                "4": "(199.890.028)"
+            },
+            {
+                "0": "Tiền thuế thu nhập doanh nghiệp đã nộp",
+                "1": "15",
+                "2": "4.14",
+                "3": "(26.214.584.291)",
+                "4": "(26.107.468.678)"
+            },
+            {
+                "0": "Tiền thu khác từ hoạt động kinh doanh",
+                "1": "16",
+                "2": "",
+                "3": "11.920.000",
+                "4": "39.800.000"
+            },
+            {
+                "0": "Tiền chi khác từ hoạt động kinh doanh",
+                "1": "17",
+                "2": "",
+                "3": "(6.929.470.376)",
+                "4": "(4.635.945.300)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+                "1": "20",
+                "2": "",
+                "3": "28.826.125.196",
+                "4": "55.350.346.972"
+            },
+            {
+                "0": "II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "1": "II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "2": "II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "3": "II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "4": "II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+            },
+            {
+                "0": "1. Tiền chi để mua sắm, xây dựng TSCĐvà các tài sản dài hạn khác",
+                "1": "21",
+                "2": "",
+                "3": "(7.591.266.043)",
+                "4": "(23.697.187.953)"
+            },
+            {
+                "0": "2. Tiền chi cho vay, mua các công cụ nợcủa các đơn vị khác",
+                "1": "23",
+                "2": "",
+                "3": "(1.137.088.000.000)",
+                "4": "(1.811.995.000.000)"
+            },
+            {
+                "0": "3. Tiền thu hồi cho vay, bán lại các công cụ nợcủa các đơn vị khác",
+                "1": "24",
+                "2": "",
+                "3": "1.313.688.000.000",
+                "4": "1.754.933.000.000"
+            },
+            {
+                "0": "4. Tiền chi đầu tư góp vốn vào đơn vị khác",
+                "1": "25",
+                "2": "",
+                "3": "(192.977.300.000)",
+                "4": "(178.870.000.000)"
+            },
+            {
+                "0": "5. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+                "1": "27",
+                "2": "",
+                "3": "367.893.499.547",
+                "4": "390.156.575.390"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+                "1": "30",
+                "2": "",
+                "3": "343.924.933.504",
+                "4": "130.527.387.437"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_7",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "(Xem trang tiếp theo)\n\nCác thuyết minh dính kèm là một bộ phận không tách rời của báo cáo tài chính\n\n8\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nMẫu số B 03 - DN\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ\n\n(Theo phương pháp gián tiếp)\n\nCho năm tài chính kết thúc ngày 31/12/2021\n\nĐơn vị tính: VND",
+        "dataframe": [
+            {
+                "0": "CHỈ TIỀU",
+                "1": "Mã số",
+                "2": "TM",
+                "3": "Năm 2021",
+                "4": "Năm 2020"
+            },
+            {
+                "0": "III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "1": "III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "3": "III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "4": "III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+            },
+            {
+                "0": "1. Tiền thu từ đi vay",
+                "1": "33",
+                "2": "6.1",
+                "3": "278.000.000.000",
+                "4": "181.404.000.000"
+            },
+            {
+                "0": "2. Tiền trả nợ gốc vay",
+                "1": "34",
+                "2": "6.2",
+                "3": "(278.000.000.000)",
+                "4": "(181.404.000.000)"
+            },
+            {
+                "0": "3. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",
+                "1": "36",
+                "2": "",
+                "3": "(376.481.700.000)",
+                "4": "(338.151.900.000)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                "1": "40",
+                "2": "",
+                "3": "(376.481.700.000)",
+                "4": "(338.151.900.000)"
+            },
+            {
+                "0": "LƯU CHUYỀN TIỀN THUẦN TRONG NĂM",
+                "1": "50",
+                "2": "",
+                "3": "(3.730.641.300)",
+                "4": "(152.274.165.591)"
+            },
+            {
+                "0": "Tiền và tương đương tiền đầu năm",
+                "1": "60",
+                "2": "",
+                "3": "31.889.335.434",
+                "4": "184.163.534.227"
+            },
+            {
+                "0": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+                "1": "61",
+                "2": "",
+                "3": "(296.223)",
+                "4": "(33.202)"
+            },
+            {
+                "0": "TIỀN VÀ TƯƠNG ĐƯƠNG TIỀN CUỐI NĂM(70 = 50+60+61)",
+                "1": "70",
+                "2": "4.1",
+                "3": "28.158.397.911",
+                "4": "31.889.335.434"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_8",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "Đồng Nai, ngày 18 tháng 03 năm 2022\n\nNguyên Thị Chung\nNgười lập\n\nCác thuyết minh đính kèm là một bộ phận không tách rời của báo cáo tài chính\n\n9\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nMẫu số B 09 - DN\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH\n\n1. ĐẶC ĐIỂM HOẠT ĐỘNG CỦA DOANH NGHIỆP\n\n1.1. Hình thức sở hữu vốn\n\nTổng Công ty Cổ phần Phát triển Khu công nghiệp (dưới đáy gọi tất là “Tổng Công ty”) hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp lần đầu số 3600335363 ngày 01 tháng 07 năm 2010 do Sở Kế hoạch và Đầu tư Tĩnh Đồng Nai cấp và các Giấy phép thay đổi sau đó với lần thay đổi gần đây nhất là vào ngày 06 tháng 05 năm 2021 để thay đổi Người đại diện theo pháp luật.\n\nTiền thân của Tổng Công ty là Công ty Phát triển Khu công nghiệp Biên Hòa - Doanh nghiệp Nhà nước được thành lập theo Quyết định số 1713/QĐUBT ngày 15 tháng 12 năm 1990 và đăng ký lại theo Quyết định số 2271/QĐ-UBT ngày 17 tháng 12 năm 1992 của Ủy ban Nhân dân tỉnh Đồng Nai. Ngày 29 tháng 06 năm 2005, Tổng Công ty chuyển sang hoạt động theo mô hình công ty mẹ, công ty con theo Quyết định số 2335/QĐ-UBT của Ủy ban Nhân dân Tĩnh Đồng Nai.\n\nNgày 13 tháng 11 năm 2017, Sở giao dịch Chứng khoán Hà Nội đã ban hành Quyết định số 925/QĐ - SGDHN chấp thuận đăng ký giao dịch cổ phiếu của Tổng Công ty với mã chứng khoán SNZ.\n\nVốn điều lệ theo Giấy chứng nhận đăng ký doanh nghiệp là 3.765.000.000.000 VND.\n\nTrụ sở chính đăng ký hoạt động kinh doanh của Tổng Công ty được đặt tại Số 1, Đường 1, Khu công nghiệp Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam.\n\nTổng số nhân viên của Tổng Công ty tại ngày 31 tháng 12 năm 2021 là 50 (31/12/2020: 47).\n\n1.2. Ngành nghề kinh doanh\n\nTheo Giấy chứng nhận đăng ký kinh doanh, ngành nghề kinh doanh chính của Tổng Công ty là:\n\nĐầu tư phát triển đô thị công nghiệp, khu công nghiệp, khu dân cư;\n\n■ Dịch vụ du lịch;\n\n■ Dịch vụ quản lý môi trường;\n\nĐầu tư tài chính vào doanh nghiệp khác;\n\n■ Cho thuê nhà ở;\n\n■ Mua, bán, cho thuê kho bãi và nhà xưởng;\n\n- Xây dựng nhà các loại;\n\nKinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê.\n\n1.3. Chu kỳ sản xuất, kinh doanh thông thường\n\nChu kỳ sản xuất kinh doanh thông thường của Tổng Công ty là 12 tháng.\n\n(Xem trang tiếp theo)\n\n10\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\n1.4. Cấu trúc doanh nghiệp\n\nTại ngày 31 tháng 12 năm 2021, Tổng Công ty có các công ty con và các công ty liên kết như sau:",
+        "dataframe": [
+            {
+                "0": "STT",
+                "1": "Tên",
+                "2": "Địa chỉ",
+                "3": "Ngành nghề chính",
+                "4": "Tỷ lệ vốn góp"
+            },
+            {
+                "0": "Công ty con trực tiếp:",
+                "1": "Công ty con trực tiếp:",
+                "2": "Công ty con trực tiếp:",
+                "3": "Công ty con trực tiếp:",
+                "4": "Công ty con trực tiếp:"
+            },
+            {
+                "0": "1.",
+                "1": "Công ty Cổ phầnCấp nước Đồng Nai",
+                "2": "48 Cách Mạng Thắng Tám, P. Quyết Thắng, TP. Biên Hòa, Tĩnh Đồng Nai",
+                "3": "Khai thác nước sạch",
+                "4": "63,99%"
+            },
+            {
+                "0": "2.",
+                "1": "Công ty Cổ phần Phát triểnĐô thị Công nghiệp Số 2",
+                "2": "H22, Đường Võ Thị Sáu, P. Thống Nhất, TP. Biên Hòa, Tĩnh Đồng Nai",
+                "3": "Đầu tư xây dựng, kinh doanh bất động sản, cho thuê khu công nghiệp",
+                "4": "57,86%"
+            },
+            {
+                "0": "3.",
+                "1": "Công ty Cổ phần Đầu tưXây dựng và Vật liệu Đồng Nai",
+                "2": "Số 138, Đường Nguyễn Ái Quốc, Khu phố 1, P. Trăng Dải, TP. Biên Hoà, Tĩnh Đồng Nai",
+                "3": "Sản xuất công nghiệp và dịch vụ",
+                "4": "52,29%"
+            },
+            {
+                "0": "4.",
+                "1": "Công ty Cổ phầnCăng Đồng Nai",
+                "2": "1B-D3, KP Bình Dương, P. Long Bình Tân, TP. Biên Hòa, Tĩnh Đồng Nai",
+                "3": "Kinh doanh dịch vụ cảng biển",
+                "4": "51,00%"
+            },
+            {
+                "0": "5.",
+                "1": "Công ty Cổ phầnSonadezi Long Thành",
+                "2": "Đường 5, KCN Long Thành, Xã Tam An, Huyện Long Thành, Tĩnh Đồng Nai",
+                "3": "Đầu tư xây dựng, kinh doanh bất động sản, cho thuê khu công nghiệp",
+                "4": "51,19%"
+            },
+            {
+                "0": "6.",
+                "1": "Công ty Cổ phầnMôi trường Sonadezi",
+                "2": "Số 12, Huỳnh Văn Nghệ, P. Bửu Long, TP. Biên Hòa, Tĩnh Đồng Nai",
+                "3": "Dịch vụ đô thị môi trường",
+                "4": "64,04%"
+            },
+            {
+                "0": "Công ty con gián tiếp:",
+                "1": "Công ty con gián tiếp:",
+                "2": "Công ty con gián tiếp:",
+                "3": "Công ty con gián tiếp:",
+                "4": "Công ty con gián tiếp:"
+            },
+            {
+                "0": "1.",
+                "1": "Công ty Cổ phầnSonadezi An Bình",
+                "2": "Số 113 -116, Lô C2, Đường 9, KDC An Bình, TP. Biên Hoà, Tĩnh Đồng Nai",
+                "3": "Đầu tư xây dựng, kinh doanh bất động sản, cho thuê Khu công nghiệp, xây dựng công trình",
+                "4": "37,95%"
+            },
+            {
+                "0": "2.",
+                "1": "Công ty Cổ phầnDịch vụ Sonadezi",
+                "2": "Tầng 8, Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình,TP. Biên Hòa, Tĩnh Đồng Nai",
+                "3": "Xử lý nước thải, chất thải nguy hại và không nguy hại",
+                "4": "20,00%"
+            },
+            {
+                "0": "3.",
+                "1": "Công ty Cổ phầnSonadezi Châu Đức",
+                "2": "Tầng 9, Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, TP. Biên Hòa, Tĩnh Đồng Nai",
+                "3": "Đầu tư hạ tầng khu công nghiệp, cụm công nghiệp, khu dân cư",
+                "4": "46,84%"
+            },
+            {
+                "0": "4.",
+                "1": "Công ty Cổ phầnSonadezi Long Bình",
+                "2": "Số 1, Đường 3A, KCN Biên Hòa 2, TP. Biên Hòa, Tĩnh Đồng Nai",
+                "3": "Đầu tư xây dựng, kinh doanh bất động sản, cho thuê khu công nghiệp",
+                "4": "46,22%"
+            },
+            {
+                "0": "5.",
+                "1": "Công ty Cổ phầnSoandezi Bình Thuận",
+                "2": "443 Khu phố 1, Thị trấn Tân Minh, Huyện Hàm Tân, Tĩnh Bình Thuận",
+                "3": "Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê",
+                "4": "42,00%"
+            },
+            {
+                "0": "6.",
+                "1": "Công ty Cổ phầnSonadezi Giang Điền",
+                "2": "Tầng 1, Số 1, Đường 1, KCN Biên Hòa 1, P. An Bình, TP. Biên Hòa, Tĩnh Đồng Nai",
+                "3": "Đầu tư xây dựng, kinh doanh bất động sản, cho thuê khu công nghiệp",
+                "4": "46,45%"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_9",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "\\( \\therefore {NH} * {H}^{\\prime }{H}^{\\prime } \\)\n\nMNO * M.S.D.N:0\n\n11\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC (TIẾP THEO)",
+        "dataframe": [
+            {
+                "0": "STT",
+                "1": "Tên",
+                "2": "Địa chỉ",
+                "3": "Ngành nghề chính",
+                "4": "Tỷ lệ vốn góp"
+            },
+            {
+                "0": "",
+                "1": "Công ty liên kết:",
+                "2": "Công ty liên kết:",
+                "3": "Công ty liên kết:",
+                "4": "Công ty liên kết:"
+            },
+            {
+                "0": "1.",
+                "1": "Công ty Cổ phần Xây dựng Đồng Nai",
+                "2": "Số 9 Huỳnh Văn Nghệ, P. Bửu Long, TP. Biên Hòa, Tĩnh Đồng Nai",
+                "3": "Xây dựng công trình",
+                "4": "40,00%"
+            },
+            {
+                "0": "2.",
+                "1": "Công ty Cổ phần Sơn Đồng Nai",
+                "2": "Đường 7, KCN Biên Hòa 1, P. An Bình, TP. Biên Hòa, Tĩnh Đồng Nai",
+                "3": "Sản xuất kinh doanh sản phẩm về sơn, keo",
+                "4": "30,01%"
+            },
+            {
+                "0": "3.",
+                "1": "Trường Cao đẳng Công nghệ và Quản trị Sonadezi",
+                "2": "Số 1, Đường 6A, KCN Biên Hòa 2, TP. Biên Hòa, Tĩnh Đồng Nai",
+                "3": "Giáo dục - Đào tạo - Dịch vụ",
+                "4": "40,00%"
+            },
+            {
+                "0": "4.",
+                "1": "Công ty Cổ phần Đầu tư Quốc lộ 91 Cần Thơ - An Giang",
+                "2": "Số 315, Đường Võ Nguyên Giáp, Xã Phước Tân, TP. Biên Hòa, Tĩnh Đồng Nai",
+                "3": "Xây dựng công trình giao thông, đầu tư xây dựng công trình giao thông (theo phương thức hợp đồng Xây dựng - Kinh doanh - Chuyển giao (BOT))",
+                "4": "39,72%"
+            },
+            {
+                "0": "5.",
+                "1": "Công ty Cổ phần Kinh doanh nhà Đồng Nai",
+                "2": "Số 121 Phan Chu Trinh, P. Quang Vinh, TP. Biên Hòa, Tĩnh Đồng Nai",
+                "3": "Kinh doanh nhà và hạ tầng, xây dựng",
+                "4": "36,00%"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_10",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "Đơn vị trực thuộc tính đến ngày 31 tháng 12 năm 2021:\n\nTên\n\nDia chi\n\nChi nhánh Tổng Công ty Cổ phần Phát triển Khu công nghiệp\n\nKhu công nghiệp Châu Đức, Xã Suối Nghệ, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu\n\n(Xem trang tiếp theo)\n\n12\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIÉP THEO)\n\n2. CO' SÔ LẬP BÁO CÁO TÀI CHÍNH\n\n2.1. Chuẩn mực và chế độ kế toán áp dụng\n\nBáo cáo tài chính riêng kèm theo được trình bày bằng Đồng Việt Nam (\"VND\"), theo nguyên tắc giá gốc và phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định hiện hành khác về kế toán tại Việt Nam.\n\nBáo cáo tài chính riêng kèm theo không nhằm phần ánh tình hình tài chính, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại các nước khác ngoài Việt Nam.\n\n2.2. Hình thức số kế toán áp dụng\n\nTổng Công ty áp dụng hình thức kế toán Nhật ký chung.\n\n2.3. Kỳ kế toán năm\n\nKỳ kế toán năm của Tổng Công ty bắt đầu từ ngày 01 tháng 01 và kết thúc ngày 31 tháng 12.\n\n2.4. Đơn vị tiền tệ trong kế toán\n\nĐơn vị tiền tệ sử dụng trong ghi chép kế toán là VND.\n\n3. CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU ĐƯỢC ÁP DỤNG\n\n3.1. Các ước tính kế toán\n\nViệc lập báo cáo tài chính riêng yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định có ảnh hưởng đến các số liệu về tài sản, nợ phải trả và việc trình bày các tài sản và nợ tiêm tàng tại ngày 31 tháng 12 năm 2021 cũng như các khoản doanh thu, chi phí cho năm tài chính kết thúc tại ngày 31 tháng 12 năm 2021. Mặt độ các ước tính kế toán được lập bằng tất cả sự hiểu biết của Ban Tổng Giám đốc về tất cả những thông tin liên quan có sẵn tại ngày lập báo cáo tài chính riêng, số thực tế phát sinh có thể khác với các ước tính, giả định đặt ra.\n\n3.2. Tiền và các khoản tương đương tiền\n\nTiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, các khoản đầu tư ngắn hạn có thời hạn thu hồi không quá 3 tháng kể từ ngày đầu tư, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành một lượng tiền xác định và không có nhiều rủi ro trong việc chuyển đổi thành tinetti tại thời điểm báo cáo.\n\nCác khoản tương đương tiền được xác định phù hợp với Chuẩn mực kế toán “Báo cáo lưu chuyển tiền kê”.\n\n3.3. Đầu tư tài chính\n\nĐầu tư nấm giữ đến ngày đáo hạn\n\nĐầu tư nằm giữ đến ngày đáo hạn gồm các khoản tiền gửi có kỳ hạn trên 03 tháng.\n\nCác khoản đầu tư vốn vào đơn vị khác\n\nĐầu tư vào công ty con\n\nKhoản đầu tư được phân loại là đầu tư vào công ty con khi Tổng Công ty có quyền kiểm soát các chính sách và hoạt động, thường thể hiện qua việc nằm giữ hơn 50% quyền biểu quyết.\n\n13\n\n1\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\nCác khoản đầu tư vào công ty con được phần ánh theo giá gốc, bao gồm giá mua và các chi phí liên quan trực tiếp đến việc đầu tư (nếu có). Trường hợp đầu tư bằng tài sản phi tiền tệ, giá phí của các khoản đầu tư được ghi nhận theo giá trị hợp lý của tài sản phi tiền tệ tại thời điểm phát sinh.\n\nCổ tức, lợi nhuận được chia cho giai đoạn sau ngày đầu tư được ghi nhận vào doanh thu hoạt động tài chính theo giá trị hợp lý tại ngày được quyền nhận.\n\nĐầu tư vào công ty liên kết\n\nKhoản đầu tư được phân loại là đầu tư vào công ty liên kết khi Tổng Công ty nấm giữ trực tiếp hoặc gián tiếp từ 20% đến dưới 50% quyền biểu quyết của bên nhận đầu tư mà không có thỏa thuận khác.\n\nCác khoản đầu tư vào công ty liên kết được phần ánh theo giá gốc, bao gồm giá mua và các chi phí liên quan trực tiếp đến việc đầu tư (nếu có). Trường hợp đầu tư bằng tài sản phi tiền tệ, giá phí của các khoản đầu tư được ghi nhận theo giá trị hợp lý của tài sản phi tiền tệ tại thời điểm phát sinh.\n\nCổ tức, lợi nhuận được chia cho giai đoạn sau ngày đầu tư được ghi nhận vào doanh thu hoạt động tài chính theo giá trị hợp lý tại ngày được quyền nhân.\n\nĐầu tư khác\n\nKhoản đầu tư được phân loại là đầu tư khác là các khoản đầu tư ngoài các khoản đầu tư vào công ty con, đầu tư vào công ty liên doanh và đầu tư vào công ty liên kết.\n\nCác khoản đầu tư khác được phần ánh theo giá gốc, bao gồm giá mua và các chi phí liên quan trực tiếp đến việc đầu tư (nếu có). Trường hợp đầu tư bằng tài sản phi tiền tệ, giá phí của các khoản đầu tư được ghi nhận theo giá trị hợp lý của tài sản phi tiền tệ tại thời điểm phát sinh.\n\nPhương pháp lập dự phòng tổn thất đầu tư tài chính\n\nĐối với các khoản đầu tư chứng khoán\n\nTại thời điểm lập báo cáo tài chính riêng, đối với các khoản đầu tư chứng khoán niêm yết hoặc đăng ký giao dịch trên thị trường chứng khoán trong nước và là chứng khoán mua bán tư do trên thị trường khi giá chứng khoán thực tế trên thị trường thấp hơn giá trị của khoản đầu tư chứng khoán đang hạch toán trên số kế toán, dự phòng tổn thất các khoản đầu tư chứng khoán được trích lập để phản ánh khoản lỗ do tổn thất với mức tối đa bằng giá trị đầu tư thực tế đang hạch toán trên số kế toán để bảo đảm phản ánh giá trị các khoản đầu tư không cao hơn giá trên thị trường.\n\nĐối với các khoản đầu tư khác\n\nTại thời điểm lập báo cáo tài chính riêng, đối với các khoản đầu tư khác không phải là đầu tư chứng khoán niêm yết hoặc đăng ký giao dịch trên thị trường chứng khoán trong nước và không phải là chứng khoán tự do mua bán trên thị trường, dự phòng tổn thất các khoản đầu tư khác được trích lập khi có cơ sở cho thấy có giá trị suy giảm so với giá trị đầu tư của doanh nghiệp với mức trích lập phù hợp với mức quy định tại Thông tư số 48/2019/TT-BTC ngày 08 tháng 08 năm 2019 của Bộ Tài chính nhưng tối đa bằng giá trị đầu tư thực tế đang hạch toán trên số kế toán.\n\n3.4. Nợ phải thu\n\nNguyên tắc ghi nhận\n\nCác khoản phải thu được trình bày theo giá trị ghi số các khoản phải thu khách hàng và các khoản phải thu khác sau khi trừ đi các khoản dự phòng được lập cho các khoản phải thu khó đòi.\n\n14\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\nNguyên tắc dự phòng phải thu khó đòi\n\nTại thời điểm lập báo cáo tài chính riêng, dự phòng nợ phải thu khó đòi được lập cho các khoản nợ phải thu đã quá hạn thanh toán và các khoản nợ phải thu chưa đến hạn thanh toán nhưng có khả năng không thu hồi được đúng hạn với mức trích lập phù hợp với mức quy định tại Thông tư số 48/2019/TT-BTC ngày 08 tháng 08 năm 2019 của Bộ Tài chính để bảo đảm phân ánh giá trị các khoản nợ phải thu không cao hơn giá trị có thể thu hồi được.\n\nTăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh.\n\n3.5. Hàng tồn kho\n\nNguyên tắc ghi nhận hàng tồn kho\n\nHàng tồn kho được xác định trên cơ sở giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được.\n\nGiá gốc hàng tồn kho bao gồm chi phí mua và các chi phí khác để mang hàng tồn kho đến đúng điều kiện và địa điểm hiện tại của chúng.\n\nChi phí mua cửa hàng tồn kho bao gồm giá mua, các loại thuế không được hoàn lai, chi phí vận chuyển, bốc xếp, bảo quản trong quá trình mua hàng và các chi phí khác có liên quan trực tiếp đến việc mua hàng tồn kho. Các khoản chiết khấu thương mại và giảm giả hàng mua do hàng mua không đúng quy cách, phẩm chất được trừ (-) khởi chi phí mua.\n\nGiá trị thuần có thể thực hiện được được xác định bằng giá bán ước tính trừ các chi phí ước tính để hoàn thành sản phẩm cùng chi phí tiếp thị, bán hàng và phân phối phát sinh.\n\nPhương pháp xác định giá trị hàng tồn kho\n\nGiá gốc của hàng tồn kho được xác định theo phương pháp bình quân gia quyền và được hach toán theo phương pháp kê khai thường xuyên.\n\nPhương pháp lập dự phòng giảm giá hàng tồn kho\n\nTại thời điểm lập báo cáo tài chính riêng, dự phòng giảm giá hàng tồn kho được trích lập cho hàng tồn kho bị hư hỏng, kém phẩm chất, lỗi thời, chậm luận chuyển và hàng tồn kho có giá gốc ghi trên số kế toán cao hơn giá trị thuần có thể thực hiện được với mức trích lập theo hướng dẫn tại Thông tư số 48/2019/TT-BTC ngày 08 tháng 08 năm 2019 của Bộ Tài chính để bảo đảm phần ánh giá trị hàng tồn kho không cao hơn giá thị trường.\n\nSố tăng hoặc giảm dự phòng giảm giá hàng tồn kho được hạch toán vào giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh.\n\n3.6. Tài sản cố định hữu hình\n\nTài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế.\n\nNguyên tắc ghi nhận và xác định giá trị ban đầu\n\nNguyên giá tài sản cố định hữu hình bao gồm giá mua và toàn bộ các chi phí liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng. Trường hợp mua tài sản cố định được kèm thêm thiết bị, phụ tùng thay thế thì xác định và ghi nhận riêng thiết bị, phụ tùng thay thế theo giá trị hợp lý và được trừ (-) khởi nguyên giá tài sản cố định hữu hình.\n\nNguyên giá tài sản có định hữu hình do các nhà thầu xây dựng bao gồm giá trị công trình hoàn thành bản giao, các chi phí liên quan trực tiếp khác và thuế trước bạ (nếu có).\n\n15\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tĩnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIÉP THEO)\n\nPhương pháp khấu hao\n\nNguyên giá tài sản cố định hữu hình được khấu hao theo phương pháp đường thẳng trong suốt thời gian hữu dụng dự tính của tài sản.\n\nThời gian khấu hao ước tính cho một số nhóm tài sản như sau:\n\nNhà cửa, vật kiến trúc 05 - 21 năm\n\n■ Phương tiện vận tải truyền dẫn 06 - 10 năm\n\n- Thiết bị, dụng cụ quản lý 03 - 05 năm\n\n3.7. Tài sản cố định vô hình\n\nTài sản cố định vô hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế.\n\nNguyên tắc ghi nhận và xác định giá trị ban đầu\n\nNguyên giá là toàn bộ các chi phí mà doanh nghiệp bổ ra để có được tài sản cố định vô hình tính đến thời điểm đưa tài sản đó vào trạng thái sử dụng theo dự tính.\n\nNguyên tắc kế toán các tài sản cố định vô hình\n\nQuyền sử dụng đất\n\nQuyền sử dụng đất được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế là giá trị của quyền sử dụng đất tại mỏ đá Xuân Hòa được khấu hao 11 năm theo Giấy phép khai thác khoáng sân.\n\nPhần mềm máy vi tính\n\nPhần mềm máy vi tính không phải là cấu phần không thể thiếu của phần cứng thì được ghi nhận như tài sản cố định vô hình và được khấu hao theo thời gian sử dụng hữu ích (03 - 05 năm).\n\n3.8. Cho thuê tài sản\n\nCho thuê hoạt động\n\nTài sản cho thuê hoạt động được ghi nhận trên bằng cân đối kế toán theo cách phân loại tài sản của Tổng Công ty.\n\nChi phí trực tiếp ban đầu đề tạo ra doanh thu từ nghiệp vụ cho thuê hoạt động được phân bổ dân vào chi phí trong suốt thời hạn cho thuê theo thời hạn của hợp đồng thuê. Doanh thu cho thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh trong năm theo nguyên tắc phân bổ số tiền cho thuê nhận trước phù hợp với thời gian cho thuê.\n\nKhấu hao tài sản cho thuê hoạt động được thực hiện trên cơ sở nhất quán với chính sách khấu hao của bên cho thuê áp dụng đối với những tài sản tương tự.\n\n3.9. Bất động sản đầu tư\n\nBát động sản đầu tư được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế.\n\nNguyên tắc ghi nhận bất động sản đầu tư\n\nNguyên giá bất động sản đầu tư là toàn bộ các chi phí bằng tiền hoặc tương đương tiền mà doanh nghiệp phải bó ra hoặc giá trị hợp lý của các khoản đưa ra để trao đổi nhằm có được bất động sản đầu tư tính đến thời điểm mua hoặc xây dựng hình thành bất động sản đầu tư đó. Nguyên giá của bất động sản đầu tư bao gồm cả các chi phí giao dịch liên quan trực tiếp ban đầu.\n\n16\n\nMINI\n\nQUAN\n★ M.S.D.N.\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tĩnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIÉP THEO)\n\nPhương pháp khấu hao bất động sản đầu tư\n\nBất động sản đầu tư được khấu hao theo phương pháp đường thẳng.\n\nThời gian khấu hao ước tính cho bất động sản như sau:\n\n- Nhà cửa, vật kiến trúc\n\n05 - 45 nám\n\n3.10. Chi phí xây dựng cơ bản dở dang\n\nCác tài sản đang trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê, quản lý hoặc cho các mục đích khác được ghi nhận theo giá gốc. Chi phí này bao gồm các chi phí cần thiết để hình thành tài sản bao gồm chi phí xây lắp, thiết bị, chi phí khác và chi phí lãi vay có liên quan phù hợp với chính sách kế toán của Tổng Công ty.\n\nCác chỉ phí này sẽ được chuyển sang là nguyên giá tài sản cố định theo giá tạm tính (nếu chưa có quyết toán được phê duyệt) khi các tài sản được bàn giao đưa vào sử dụng.\n\nTheo quy định về quản lý đầu tư và xây dựng của Nhà nước, tùy theo phân cấp quản lý, giá trị quyết toán các công trình xây dựng cơ bản hoàn thành cần được các cơ quan có thẩm quyền phê duyệt. Do đó, giá trị cuối cùng về giá trị các công trình xây dựng cơ bản có thể thay đổi và phụ thuộc vào quyết toán được phê duyệt bởi các cơ quan có thẩm quyền.\n\n3.11. Chi phí trả trước\n\nChi phí trả trước được phân loại là chi phí trả trước ngắn hạn và chi phí trả trước dài hạn theo kỳ hạn gốc và chủ yếu là chi phí liên quan đến giá vốn công cụ, dụng cụ; chi phí đầu tư mặt bằng công nghiệp có hạ tầng kỹ thuật; chi phí sửa chữa... Các khoản này được phân bổ trong thời gian trả trước của chi phí hoặc trong khoảng thời gian mà lợi ích kinh tế được dự kiến tạo ra.\n\n3.12. Nợ phải trả\n\nNợ phải trả được phân loại là phải trả người bán và phải trả khác theo nguyên tắc: Phải trả người bán là khoản phải trả có tính chất thương mại phát sinh từ giao dịch mua bán hàng hóa, dịch vụ, tài sản và người bán là đơn vị độc lập với người mua; Các khoản phải trả còn lại được phân loại là phải trả khác.\n\nCác khoản nợ phải trả được theo dõi theo kỳ hạn gốc, kỳ hạn còn lại tại thời điểm báo cáo, theo nguyên tệ và theo từng đối tượng.\n\nNợ phải trả được ghi nhận không thấp hơn nghĩa vụ phải thanh toán.\n\n3.13. Quỹ lượng\n\nQuỹ lương năm 2021 được trích lập theo Nghị định số 53/2016/NĐ-CP ngày 13 tháng 06 năm 2016 của Chính phủ và Thông tư số 28/2016/TT-BLĐTBXH ngày 01 tháng 09 năm 2016 của Bộ Lao động - Thương binh và Xã hội quy định về lao động, tiền lương, thủ lao, tiền thường đối với công ty có cổ phần, vốn góp chỉ phối của Nhà nước.\n\n3.14. Nguồn vốn chủ sở hữu\n\nVốn góp của chủ sở hữu\n\nVốn góp của chủ sở hữu được ghi nhận theo số vốn thực góp của chủ sở hữu.\n\nCổ phiếu quỹ\n\nCổ phiếu quỹ được ghi nhận theo giá mua và được trình bày như một khoản giảm vốn chủ sở hữu trên bảng cần đối kế toán.\n\n17\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\nCô tức\n\nCổ tức được ghi nhận là một khoản phải trả vào ngày công bố chia cổ tức.\n\nQuỹ dự trữ\n\nCác quỹ dự trữ từ lợi nhuận sau thuế được trích lập theo qui định trong Điều lệ Tổng Công ty.\n\nPhân phối lợi nhuận\n\nLợi nhuận thuần sau thuế thu nhập doanh nghiệp có thể được phân phối cho các cổ đông sau khi được Đại hội đồng cổ đông thường niên thông qua và sau khi đã trích lập các quỹ dự phòng theo Điều lệ Tổng Công ty và theo các quy định của pháp luật Việt Nam.\n\n3.15. Doanh thu, thu nhập khác\n\nDoanh thu cung cấp dịch vụ\n\nDoanh thu cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch đó được xác định một cách đáng tin cây. Trường hợp giao dịch về cung cấp dịch vụ liên quan đến nhiều kỳ thì doanh thu được ghi nhận trong kỳ theo kết quả phần công việc hoàn thành vào ngày lập bằng cân đối kế toán của kỳ đó.\n\nDoanh thu cho thuê tài sản hoạt động\n\nDoanh thu từ tiền cho thuê tài sản hoạt động được trình bày ở mục 3.8.\n\nLãi tiền gửi\n\nLãi tiền gửi được ghi nhận trên cơ sở dồn tích, được xác định trên số dư các tài khoản tiền gửi và lãi suất áp dụng.\n\nThu nhập đầu tư\n\nLãi từ các khoản đầu tư được ghi nhận khi Tổng Công ty có quyền nhận khoản lãi.\n\n3.16. Giá vốn hàng bán\n\nGiá vốn cung cấp dịch vụ là tổng chi phí phát sinh của dịch vụ cung cấp trong kỳ theo nguyên tắc phù hợp với doanh thu. Các khoản chi phí vượt trên mức bình thường của hàng tồn kho được ghi nhận ngay vào giá vốn hàng bán.\n\n3.17. Chi phí tài chính\n\nChi phí tài chính phần ánh những khoản chi phí phát sinh trong kỳ chủ yếu bao gồm chi phí lãi vay, dự phòng tổn thất đầu tư vào đơn vị khác, lỗ chênh lệch tỷ giá và chi phí tài chính khác.\n\n3.18. Chi phí quản lý doanh nghiệp\n\nChi phí quản lý doanh nghiệp phần ánh các chi phí quản lý chung của doanh nghiệp gồm chi phí nhân viên quản lý; chi phí vật liệu quản lý; chi phí đồ dùng văn phòng; chi phí khấu hao TSCĐ; thuế, phí và lệ phí; chi phí dự phòng nợ phải thu khó đòi; chi phí dịch vụ mua ngoài và chi phí bằng tiền.\n\n18\n\n[1]\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tĩnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\n3.19. Thuế\n\nThuế thu nhập doanh nghiệp\n\nChi phí thuế thu nhập doanh nghiệp (TNDN) hiện hành\n\nChi phí thuế TNDN hiện hành được xác định trên cơ sở thu nhập tính thuế và thuế suất thuế TNDN trong năm hiện hành là 20%.\n\nThuế giá trị gia tăng\n\nThuế giá trị gia tăng của các hàng hóa và dịch vụ do Tổng Công ty cung cấp được tính theo các mức thuế như sau:\n\nCho thuê đất và phí hạ tầng đối với các doanh nghiệp chế xuất 0%\n\n■ Hoat động cho thuê lại đất, cho thuê nhà xưởng và các hoạt động khác 10%\n\nCác loại thuế khác\n\nÁp dụng theo các luật thuế hiện hành tại Việt Nam.\n\nCác báo cáo thuế của Tổng Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các qui định về thuế đối với nhiều loại giao dịch khác nhau có thể được giải thích theo nhiều cách khác nhau, dẫn đến số thuế được trình bày trên báo cáo tài chính có thể bị thay đổi theo quyết định cuối cùng của cơ quan thuế.\n\n3.20. Các bên liên quan\n\nCác bên liên quan là các doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Tổng Công ty hoặc chịu sự kiểm soát của Tổng Công ty, hoặc cùng chung sự kiểm soát với Tổng Công ty. Công ty liên kết, các cá nhân trực tiếp hoặc gián tiếp nấm quyền biểu quyết của Tổng Công ty dẫn đến có ảnh hưởng đáng kể đối với Tổng Công ty, những nhân sự quản lý chủ chốt bao gồm Ban Tổng Giám đốc, các cán bộ điều hành của Tổng Công ty, những thành viên mật thiết trong gia đình của các cá nhân này hoặc các công ty liên kết với các cá nhân này cũng được coi là các bên liên quan.\n\n(Xem trang tiếp theo)\n\n19\n\n1\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIÉP THEO)\n\n4. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN\n\n4.1. Tiền và các khoản tương đương tiền",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày31/12/2021VND",
+                "2": "Tại ngày01/01/2021VND"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "8.821.174",
+                "2": "82.957.917"
+            },
+            {
+                "0": "Tiền gửi ngân hàng không kỳ han",
+                "1": "28.149.576.737",
+                "2": "31.806.377.517"
+            },
+            {
+                "0": "Cộng",
+                "1": "28.158.397.911",
+                "2": "31.889.335.434"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_11",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "4.2. Các khoản đầu tư tài chính\n\nĐầu tư nằm giữ đến ngày đáo hạn được chi tiết như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày 31/12/2021",
+                "2": "Tại ngày 31/12/2021",
+                "3": "Đvt: Ngàn đồngTại ngày 01/01/2021",
+                "4": "Đvt: Ngàn đồngTại ngày 01/01/2021"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Giá trị ghi sổ",
+                "3": "Giá gốc",
+                "4": "Giá trị ghi sổ"
+            },
+            {
+                "0": "Ngắn hạn:",
+                "1": "Ngắn hạn:",
+                "2": "Ngắn hạn:",
+                "3": "Ngắn hạn:",
+                "4": "Ngắn hạn:"
+            },
+            {
+                "0": "Tiền gửi có kỳ hạn gốc dưới 12 tháng",
+                "1": "781.295.000",
+                "2": "781.295.000",
+                "3": "957.895.000",
+                "4": "957.895.000"
+            },
+            {
+                "0": "(Xem trang tiếp theo)",
+                "1": "(Xem trang tiếp theo)",
+                "2": "(Xem trang tiếp theo)",
+                "3": "(Xem trang tiếp theo)",
+                "4": "(Xem trang tiếp theo)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_12",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "20\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tĩnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\n4.2. Các khoản đầu tư tài chính (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày 31/12/2021VND",
+                "2": "Tại ngày 31/12/2021VND",
+                "3": "Tại ngày 31/12/2021VND",
+                "4": "Tại ngày 01/01/2021VND",
+                "5": "Tại ngày 01/01/2021VND",
+                "6": "Tại ngày 01/01/2021VND"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Giá trị hợp lý",
+                "3": "Dự phòng",
+                "4": "Giá gốc",
+                "5": "Giá trị hợp lý",
+                "6": "Dự phòng"
+            },
+            {
+                "0": "Đầu tư vào công ty con:",
+                "1": "Đầu tư vào công ty con:",
+                "2": "Đầu tư vào công ty con:",
+                "3": "Đầu tư vào công ty con:",
+                "4": "Đầu tư vào công ty con:",
+                "5": "Đầu tư vào công ty con:",
+                "6": "Đầu tư vào công ty con:"
+            },
+            {
+                "0": "Công ty Cổ phần",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            },
+            {
+                "0": "Cấp nước Đồng Nai",
+                "1": "849.100.146.787",
+                "2": "1.996.459.920.000",
+                "3": "-",
+                "4": "657.132.846.787",
+                "5": "1.420.558.020.000",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            },
+            {
+                "0": "Căng Đồng Nai",
+                "1": "242.452.980.000",
+                "2": "879.443.082.000",
+                "3": "-",
+                "4": "242.452.980.000",
+                "5": "727.358.940.000",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            },
+            {
+                "0": "Sonadezi Long Thành",
+                "1": "201.688.600.000",
+                "2": "666.493.800.000",
+                "3": "-",
+                "4": "201.688.600.000",
+                "5": "557.971.000.000",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            },
+            {
+                "0": "Phát triển Đô thị Công nghiệp Số 2",
+                "1": "200.655.000.000",
+                "2": "1.046.789.352.000",
+                "3": "-",
+                "4": "200.655.000.000",
+                "5": "1.090.624.752.000",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            },
+            {
+                "0": "Môi trường Sonadezi",
+                "1": "197.027.735.730",
+                "2": "288.192.690.000",
+                "3": "-",
+                "4": "197.027.735.730",
+                "5": "278.586.267.000",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            },
+            {
+                "0": "Đầu tư Xây dựng và Vật liệu Đồng Nai",
+                "1": "53.838.407.700",
+                "2": "138.580.200.000",
+                "3": "-",
+                "4": "53.838.407.700",
+                "5": "109.940.292.000",
+                "6": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.744.762.870.217",
+                "2": "",
+                "3": "-",
+                "4": "1.552.795.570.217",
+                "5": "",
+                "6": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_13",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "(Xem trang tiếp theo)\n\n\\( \\therefore {10} + {40} = 3\\sqrt{2} \\)\n\nM.S.D.N:02\n\n21\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIÉP THEO)\n\n4.2. Các khoản đầu tư tài chính (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày 31/12/2021VND",
+                "2": "Tại ngày 31/12/2021VND",
+                "3": "Tại ngày 31/12/2021VND",
+                "4": "Tại ngày 01/01/2021VND",
+                "5": "Tại ngày 01/01/2021VND",
+                "6": "Tại ngày 01/01/2021VND"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Giá trị hợp lý",
+                "3": "Dự phòng",
+                "4": "Giá gốc",
+                "5": "Giá trị hợp lý",
+                "6": "Dự phòng"
+            },
+            {
+                "0": "Đầu tư vào công ty liên kết:",
+                "1": "Đầu tư vào công ty liên kết:",
+                "2": "Đầu tư vào công ty liên kết:",
+                "3": "Đầu tư vào công ty liên kết:",
+                "4": "Đầu tư vào công ty liên kết:",
+                "5": "Đầu tư vào công ty liên kết:",
+                "6": "Đầu tư vào công ty liên kết:"
+            },
+            {
+                "0": "Công ty Cổ phầnSonadezi Châu Đức",
+                "1": "488.352.527.264",
+                "2": "3.185.120.000.000",
+                "3": "-",
+                "4": "488.352.527.264",
+                "5": "1.498.880.000.000",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phầnSonadezi Giang Điền",
+                "1": "255.000.000.000",
+                "2": "634.950.000.000",
+                "3": "-",
+                "4": "255.000.000.000",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phầnSonadezi Long Bình",
+                "1": "172.866.022.000",
+                "2": "470.091.300.000",
+                "3": "-",
+                "4": "172.866.022.000",
+                "5": "471.478.000.000",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phầnSonadezi Bình Thuận",
+                "1": "168.000.000.000",
+                "2": "(*)",
+                "3": "-",
+                "4": "168.000.000.000",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tưQuốc lô 91 Cần Thơ - An Giang",
+                "1": "112.000.000.000",
+                "2": "(*)",
+                "3": "-",
+                "4": "112.000.000.000",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Trường Cao đẳng Công nghệvà Quản trị Sonadezi",
+                "1": "33.436.575.595",
+                "2": "(*)",
+                "3": "-",
+                "4": "33.436.575.595",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phầnSonadezi An Bình",
+                "1": "29.841.520.005",
+                "2": "(*)",
+                "3": "-",
+                "4": "29.841.520.005",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phầnKinh doanh nhà Đồng Nai",
+                "1": "21.578.551.008",
+                "2": "(*)",
+                "3": "-",
+                "4": "21.578.551.008",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Sonadezi",
+                "1": "12.600.000.000",
+                "2": "28.300.000.000",
+                "3": "-",
+                "4": "12.600.000.000",
+                "5": "21.000.000.000",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phầnXây dựng Đồng Nai",
+                "1": "10.886.379.679",
+                "2": "(*)",
+                "3": "-",
+                "4": "11.651.533.280",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Sơn Đồng Nai",
+                "1": "10.295.294.400",
+                "2": "18.540.640.800",
+                "3": "-",
+                "4": "10.295.294.400",
+                "5": "13.575.211.200",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Xây dựng Đândụng Công nghiệp Số 1 - Đồng Nai",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "7.489.690.056",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.314.856.869.951",
+                "2": "",
+                "3": "-",
+                "4": "1.323.111.713.608",
+                "5": "",
+                "6": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_14",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "22\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\n4.2. Các khoản đầu tư tài chính (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày 31/12/2021VND",
+                "2": "Tại ngày 31/12/2021VND",
+                "3": "Tại ngày 31/12/2021VND",
+                "4": "Tại ngày 01/01/2021VND",
+                "5": "Tại ngày 01/01/2021VND",
+                "6": "Tại ngày 01/01/2021VND"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Giá trị hợp lý",
+                "3": "Dự phòng",
+                "4": "Giá gốc",
+                "5": "Giá trị hợp lý",
+                "6": "Dự phòng"
+            },
+            {
+                "0": "Đầu tư vào đơn vị khác:",
+                "1": "Đầu tư vào đơn vị khác:",
+                "2": "Đầu tư vào đơn vị khác:",
+                "3": "Đầu tư vào đơn vị khác:",
+                "4": "Đầu tư vào đơn vị khác:",
+                "5": "Đầu tư vào đơn vị khác:",
+                "6": "Đầu tư vào đơn vị khác:"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tưXây dựng Cầu Đồng Nai",
+                "1": "72.516.189.000",
+                "2": "(*)",
+                "3": "(2.646.727.090)",
+                "4": "72.516.189.000",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Amata",
+                "1": "47.180.395.294",
+                "2": "(*)",
+                "3": "-",
+                "4": "47.180.395.294",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần BOT 319Cường Thuận CTI",
+                "1": "20.250.000.000",
+                "2": "(*)",
+                "3": "(1.235.902.055)",
+                "4": "19.240.000.000",
+                "5": "(*)",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Xâydụng Dân dụng Côngnghiệp Số 1 - Đồng Nai",
+                "1": "7.489.690.056",
+                "2": "(*)",
+                "3": "-",
+                "4": "-",
+                "5": "",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Côngtrình Giao thông Đồng Nai",
+                "1": "1.711.890.000",
+                "2": "10.023.240.000",
+                "3": "-",
+                "4": "1.711.890.000",
+                "5": "12.405.000.000",
+                "6": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "149.148.164.350",
+                "2": "",
+                "3": "(3.882.629.145)",
+                "4": "140.648.474.294",
+                "5": "",
+                "6": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_15",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "Ngày 05/02/2021 Tổng Công ty công bố thông tin về việc giảm tỷ lệ sở hữu từ 20% xuống 15% vốn điều lệ của Công ty Cổ phần Xây dựng Dân dụng Công nghiệp Số 1 - Đồng Nai sau khi công ty này hoàn tất thủ tục tăng vốn điều lệ theo Giấy Chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 11 ngày 27/01/2021.\n\nNgày 23/02/2021, Tổng Công ty đã chuyển tiền mua cổ phiếu phát hành thêm của Công ty Cổ phần Cấp nước Đồng Nai theo Nghị quyết số 47/NQ-SNZ-QTTH ngày 19/02/2021 của Hội đồng quản trị để duy trì tỷ lệ sở hữu 63,99%, được chi tiết như sau:\n\n■ Số lượng cổ phiếu mua thêm: 12.797.820 cổ phiếu;\n\n- Giá trị cổ phiếu mua thêm: 191.967.300.000 đồng.\n\nNgày 21/09/2021, Tổng Công ty đã chuyển tiền góp tăng vốn đầu tư tại Công ty Cổ phần BOT 319 Cường Thuận CTI theo Nghị quyết số 73/NQ-SNZ-QTTH ngày 07/04/2021 của Hội đồng quản trị, chiếm tỷ lệ 10% vốn điều lệ.\n\n23\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH(TIẾP THEO)\n\nĐối với các khoản đầu tư vào các công ty đã đăng ký giao dịch trên sản giao dịch chứng khoán, Tổng Công ty đã xác định giá trị hợp lý trên cơ sở giá đóng cửa trên thị trường chứng khoán và số lượng cổ phiếu mà Tổng Công ty đang nằm giữ.\n\n(*) Đối với các khoản đầu tư vào các công ty khác, tại ngày báo cáo, Tổng Công ty chưa xác định được giá trị hợp lý của các khoản đầu tư này để thuyết minh trong báo cáo tài chính riêng do không có giá niêm yết trên thị trường và Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam hiện chưa có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các khoản đầu tư này có thể khác với giá trị ghi sổ.\n\n4.3. Phải thu ngắn hạn của khách hàng",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày31/12/2021VND",
+                "2": "Tại ngày01/01/2021VND"
+            },
+            {
+                "0": "Công ty TNHH Flanon Việt Nam",
+                "1": "14.000.536.493",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Ông Thép Sài Gòn",
+                "1": "12.775.451.040",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Tập đoàn Tân Mai",
+                "1": "10.698.769.994",
+                "2": "7.760.026.614"
+            },
+            {
+                "0": "Công ty Cổ phần Tấm lợp và Vật liệu Xây dựng Đồng Nai",
+                "1": "5.688.872.455",
+                "2": "4.704.323.812"
+            },
+            {
+                "0": "Công ty TNHH Dasan Hygiene Vina",
+                "1": "-",
+                "2": "12.053.049.485"
+            },
+            {
+                "0": "Công ty TNHH Gia Thủy",
+                "1": "-",
+                "2": "7.063.985.281"
+            },
+            {
+                "0": "Các khách hàng khác",
+                "1": "10.394.137.279",
+                "2": "15.408.052.810"
+            },
+            {
+                "0": "Cộng",
+                "1": "53.557.767.261",
+                "2": "46.989.438.002"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_16",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "Tại ngày 31/12/2021, phải thu các khách hàng khác có số dư mỗi khách hàng dưới 10% tổng số phải thu ngắn hạn của khách hàng.\n\n(Xem trang tiếp theo)\n\n24\n\n1\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\n4.4. Phải thu ngắn hạn khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày 31/12/2021",
+                "2": "Tại ngày 31/12/2021",
+                "3": "Tại ngày 01/01/2021",
+                "4": "Tại ngày 01/01/2021"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "",
+                "1": "Giá trị",
+                "2": "Dự phòng",
+                "3": "Giá trị",
+                "4": "Dự phòng"
+            },
+            {
+                "0": "Phải thu cổ tức từ bên liên quan - Xem thêm mục 7",
+                "1": "27.204.435.200",
+                "2": "-",
+                "3": "11.515.440.000",
+                "4": "-"
+            },
+            {
+                "0": "Đầu tư hợp tác kinh doanh với bên liên quan (*) - Xem thêm mục 7",
+                "1": "93.062.403.717",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Phải thu khác từ bên liên quan - Xem thêm mục 7",
+                "1": "1.031.515.500",
+                "2": "-",
+                "3": "1.025.539.734",
+                "4": "-"
+            },
+            {
+                "0": "Dự thu lãi tiền gửi",
+                "1": "20.591.714.000",
+                "2": "-",
+                "3": "22.157.620.000",
+                "4": "-"
+            },
+            {
+                "0": "Phải thu cổ tức",
+                "1": "474.300.000",
+                "2": "-",
+                "3": "1.106.700.000",
+                "4": "-"
+            },
+            {
+                "0": "Phải thu Công ty Cổ phần Đầu tư Phát triển Cường Thuận IDCO - Mỏ Đá Xuân Hòa",
+                "1": "2.575.197.600",
+                "2": "-",
+                "3": "1.549.832.164",
+                "4": "-"
+            },
+            {
+                "0": "Phải thu người lao động",
+                "1": "42.000.000",
+                "2": "-",
+                "3": "49.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Ký quỹ, ký cước",
+                "1": "-",
+                "2": "-",
+                "3": "25.000.000.000",
+                "4": ""
+            },
+            {
+                "0": "Phải thu khác",
+                "1": "996.726.138",
+                "2": "-",
+                "3": "1.247.687.582",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "145.978.292.155",
+                "2": "-",
+                "3": "63.651.819.480",
+                "4": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_17",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "(*) Là khoản góp vốn đầu tư hợp tác kinh doanh theo Hợp đồng hợp tác đầu tư kinh doanh số 18/HĐHTĐT/KDN ngày 20 tháng 8 năm 2021 giữa Tổng Công ty với Công ty Cổ phần Kinh doanh nhà Đồng Nai để thực hiện dự án đầu tư xây dựng 50 căn nhà liên kế vườn tại Khu dân cư số 3, Phường Bửu Long, TP. Biên Hòa, Tĩnh Đồng Nai.\n\n4.5. Nợ xấu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày 31/12/2021VND",
+                "2": "Tại ngày 31/12/2021VND",
+                "3": "Tại ngày 01/01/2021VND",
+                "4": "Tại ngày 01/01/2021VND"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Giá trị có thể thu hồi",
+                "3": "Giá gốc",
+                "4": "Giá trị có thể thu hồi"
+            },
+            {
+                "0": "Tổng giá trị các khoản phải thu quá hạn thanh toán",
+                "1": "19.281.012.125",
+                "2": "8.890.901.317",
+                "3": "15.691.260.207",
+                "4": "8.841.733.482"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_18",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "25\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIÉP THEO)\n\nThời gian quá hạn và giá trị các khoản nợ phải thu quá hạn theo từng đối tượng được chi tiết như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày 31/12/2021VND",
+                "2": "Tại ngày 31/12/2021VND",
+                "3": "Tại ngày 31/12/2021VND",
+                "4": "Tại ngày 01/01/2021VND",
+                "5": "Tại ngày 01/01/2021VND",
+                "6": "Tại ngày 01/01/2021VND"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Giá trị có thể thu hồi",
+                "3": "Thời gian quá hạn",
+                "4": "Giá gốc",
+                "5": "Giá trị có thể thu hồi",
+                "6": "Thời gian quá hạn"
+            },
+            {
+                "0": "Công ty Cổ phần Tập đoàn Tân Mai",
+                "1": "9.792.331.605",
+                "2": "4.410.949.957",
+                "3": "Từ 6 thángđến dưới 3 năm",
+                "4": "7.760.026.614",
+                "5": "4.540.341.787",
+                "6": "Từ 1 nămđến dưới 2 năm"
+            },
+            {
+                "0": "Công ty Cổ phần Tấm lợp vàVật liệu Xây dựng Đồng Nai",
+                "1": "5.081.341.443",
+                "2": "2.356.842.225",
+                "3": "Từ 6 thángđến dưới 3 năm",
+                "4": "4.704.323.812",
+                "5": "2.561.415.421",
+                "6": "Từ 6 thángđến dưới 2 năm"
+            },
+            {
+                "0": "Công ty Cổ phần Công trìnhGiao Thông Đồng Nai",
+                "1": "1.398.241.924",
+                "2": "395.212.523",
+                "3": "Từ 6 thángđến dưới 3 năm",
+                "4": "1.398.241.924",
+                "5": "395.212.523",
+                "6": "Từ 6 thángđến trên 3 năm"
+            },
+            {
+                "0": "Các khách hàng khác",
+                "1": "3.009.097.153",
+                "2": "1.727.896.612",
+                "3": "Từ 6 thángđến trên 3 năm",
+                "4": "1.828.667.857",
+                "5": "1.344.763.751",
+                "6": "Từ 6 thángđến dưới 3 năm"
+            },
+            {
+                "0": "Cộng",
+                "1": "19.281.012.125",
+                "2": "8.890.901.317",
+                "3": "",
+                "4": "15.691.260.207",
+                "5": "8.841.733.482",
+                "6": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_19",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "4.6. Hàng tồn kho",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày 31/12/2021VND",
+                "2": "Tại ngày 31/12/2021VND",
+                "3": "Tại ngày 01/01/2021VND",
+                "4": "Tại ngày 01/01/2021VND"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Dự phòng",
+                "3": "Giá gốc",
+                "4": "Dự phòng"
+            },
+            {
+                "0": "Chi phí sản xuất kinh doanh dở dang",
+                "1": "11.330.487.211",
+                "2": "-",
+                "3": "11.112.788.526",
+                "4": "-"
+            },
+            {
+                "0": "Mỏ đá Xuân Hòa",
+                "1": "6.425.125.871",
+                "2": "-",
+                "3": "6.207.427.186",
+                "4": "-"
+            },
+            {
+                "0": "Chuyển đổi công năng KCN Biên Hòa 1",
+                "1": "3.833.608.907",
+                "2": "-",
+                "3": "3.833.608.907",
+                "4": "-"
+            },
+            {
+                "0": "Khác",
+                "1": "1.071.752.433",
+                "2": "-",
+                "3": "1.071.752.433",
+                "4": "-"
+            },
+            {
+                "0": "Hàng hóa",
+                "1": "803.899.567",
+                "2": "-",
+                "3": "912.685.117",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "12.134.386.778",
+                "2": "-",
+                "3": "12.025.473.643",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_20",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "26\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\n4.7. Tăng, giảm tài sản cố định hữu hình",
+        "dataframe": [
+            {
+                "0": "Khoản mục",
+                "1": "Nhà cửa,vật kiến trúcVND",
+                "2": "Phương tiệnvận tải,truyền đãnVND",
+                "3": "Thiết bị,dụng cụquản lýVND",
+                "4": "CộngVND"
+            },
+            {
+                "0": "Nguyên giá:",
+                "1": "Nguyên giá:",
+                "2": "Nguyên giá:",
+                "3": "Nguyên giá:",
+                "4": "Nguyên giá:"
+            },
+            {
+                "0": "Tại ngày 01/01/2021",
+                "1": "3.646.591.259",
+                "2": "7.307.357.943",
+                "3": "2.517.269.000",
+                "4": "13.471.218.202"
+            },
+            {
+                "0": "Mua trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "407.806.363",
+                "4": "407.806.363"
+            },
+            {
+                "0": "Tại ngày 31/12/2021",
+                "1": "3.646.591.259",
+                "2": "7.307.357.943",
+                "3": "2.925.075.363",
+                "4": "13.879.024.565"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế:",
+                "1": "Giá trị hao mòn lũy kế:",
+                "2": "Giá trị hao mòn lũy kế:",
+                "3": "Giá trị hao mòn lũy kế:",
+                "4": "Giá trị hao mòn lũy kế:"
+            },
+            {
+                "0": "Tại ngày 01/01/2021",
+                "1": "3.646.591.259",
+                "2": "4.244.263.241",
+                "3": "1.394.750.973",
+                "4": "9.285.605.473"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "-",
+                "2": "608.870.672",
+                "3": "396.205.777",
+                "4": "1.005.076.449"
+            },
+            {
+                "0": "Tại ngày 31/12/2021",
+                "1": "3.646.591.259",
+                "2": "4.853.133.913",
+                "3": "1.790.956.750",
+                "4": "10.290.681.922"
+            },
+            {
+                "0": "Giá trị còn lại:",
+                "1": "Giá trị còn lại:",
+                "2": "Giá trị còn lại:",
+                "3": "Giá trị còn lại:",
+                "4": "Giá trị còn lại:"
+            },
+            {
+                "0": "Tại ngày 01/01/2021",
+                "1": "-",
+                "2": "3.063.094.702",
+                "3": "1.122.518.027",
+                "4": "4.185.612.729"
+            },
+            {
+                "0": "Tại ngày 31/12/2021",
+                "1": "-",
+                "2": "2.454.224.030",
+                "3": "1.134.118.613",
+                "4": "3.588.342.643"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_21",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "Nguyên giá TSCĐ hữu hình cuối năm đã khấu hao hết nhưng vẫn còn sử dụng là 6.717.370.930 VND.\n\n4.8. Tăng, giảm tài sản cố định vô hình",
+        "dataframe": [
+            {
+                "0": "Khoản mục",
+                "1": "Quyền sử dụng đất VND",
+                "2": "Phần mềm vi tính VND",
+                "3": "Cộng VND"
+            },
+            {
+                "0": "Nguyên giá:",
+                "1": "Nguyên giá:",
+                "2": "Nguyên giá:",
+                "3": "Nguyên giá:"
+            },
+            {
+                "0": "Tại ngày 01/01/2021",
+                "1": "13.631.953.886",
+                "2": "616.886.364",
+                "3": "14.248.840.250"
+            },
+            {
+                "0": "Tại ngày 31/12/2021",
+                "1": "13.631.953.886",
+                "2": "616.886.364",
+                "3": "14.248.840.250"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế:",
+                "1": "Giá trị hao mòn lũy kế:",
+                "2": "Giá trị hao mòn lũy kế:",
+                "3": "Giá trị hao mòn lũy kế:"
+            },
+            {
+                "0": "Tại ngày 01/01/2021",
+                "1": "3.972.673.578",
+                "2": "231.190.568",
+                "3": "4.203.864.146"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "504.629.460",
+                "2": "154.962.000",
+                "3": "659.591.460"
+            },
+            {
+                "0": "Tại ngày 31/12/2021",
+                "1": "4.477.303.038",
+                "2": "386.152.568",
+                "3": "4.863.455.606"
+            },
+            {
+                "0": "Giá trị còn lại:",
+                "1": "Giá trị còn lại:",
+                "2": "Giá trị còn lại:",
+                "3": "Giá trị còn lại:"
+            },
+            {
+                "0": "Tại ngày 01/01/2021",
+                "1": "9.659.280.308",
+                "2": "385.695.796",
+                "3": "10.044.976.104"
+            },
+            {
+                "0": "Tại ngày 31/12/2021",
+                "1": "9.154.650.848",
+                "2": "230.733.796",
+                "3": "9.385.384.644"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_22",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "27\n\n《注意》\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tĩnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIÉP THEO)\n\n4.9. Tăng, giảm bất động sản đầu tư",
+        "dataframe": [
+            {
+                "0": "Khoản mục",
+                "1": "Tại ngày01/01/2021VND",
+                "2": "Tăngtrong nămVND",
+                "3": "Giảmtrong nămVND",
+                "4": "Tại ngày31/12/2021VND"
+            },
+            {
+                "0": "Bắt động sản đầu tư cho thuê:",
+                "1": "Bắt động sản đầu tư cho thuê:",
+                "2": "Bắt động sản đầu tư cho thuê:",
+                "3": "Bắt động sản đầu tư cho thuê:",
+                "4": "Bắt động sản đầu tư cho thuê:"
+            },
+            {
+                "0": "Nguyên giá:",
+                "1": "Nguyên giá:",
+                "2": "Nguyên giá:",
+                "3": "Nguyên giá:",
+                "4": "Nguyên giá:"
+            },
+            {
+                "0": "Hệ thống đường KCN Biên Hòa 1",
+                "1": "97.223.269.271",
+                "2": "-",
+                "3": "1.195.279.209",
+                "4": "96.027.990.062"
+            },
+            {
+                "0": "Hệ thống thoát nước KCN Biên Hòa 1",
+                "1": "14.438.070.440",
+                "2": "-",
+                "3": "-",
+                "4": "14.438.070.440"
+            },
+            {
+                "0": "Hệ thống điện,camera KCN Biên Hòa 1",
+                "1": "3.527.030.212",
+                "2": "419.722.544",
+                "3": "32.053.813",
+                "4": "3.914.698.943"
+            },
+            {
+                "0": "Nhà xưởng KCN Châu Đức",
+                "1": "-",
+                "2": "28.028.023.857",
+                "3": "-",
+                "4": "28.028.023.857"
+            },
+            {
+                "0": "Cộng",
+                "1": "115.188.369.923",
+                "2": "28.447.746.401",
+                "3": "1.227.333.022",
+                "4": "142.408.783.302"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế:",
+                "1": "Giá trị hao mòn lũy kế:",
+                "2": "Giá trị hao mòn lũy kế:",
+                "3": "Giá trị hao mòn lũy kế:",
+                "4": "Giá trị hao mòn lũy kế:"
+            },
+            {
+                "0": "Hệ thống đường KCN Biên Hòa 1",
+                "1": "93.950.469.192",
+                "2": "1.159.516.216",
+                "3": "1.195.279.209",
+                "4": "93.914.706.199"
+            },
+            {
+                "0": "Hệ thống thoát nước KCN Biên Hòa 1",
+                "1": "14.387.910.115",
+                "2": "16.720.108",
+                "3": "-",
+                "4": "14.404.630.223"
+            },
+            {
+                "0": "Hệ thống điện KCN Biên Hòa 1",
+                "1": "3.458.621.545",
+                "2": "19.719.000",
+                "3": "32.053.813",
+                "4": "3.446.286.732"
+            },
+            {
+                "0": "Nhà xưởng KCN Châu Đức",
+                "1": "-",
+                "2": "1.379.638.000",
+                "3": "-",
+                "4": "1.379.638.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "111.797.000.852",
+                "2": "2.575.593.324",
+                "3": "1.227.333.022",
+                "4": "113.145.261.154"
+            },
+            {
+                "0": "Giá trị còn lại:",
+                "1": "Giá trị còn lại:",
+                "2": "Giá trị còn lại:",
+                "3": "Giá trị còn lại:",
+                "4": "Giá trị còn lại:"
+            },
+            {
+                "0": "Hệ thống đường KCN Biên Hòa 1",
+                "1": "3.272.800.079",
+                "2": "",
+                "3": "",
+                "4": "2.113.283.863"
+            },
+            {
+                "0": "Hệ thống thoát nước KCN Biên Hòa 1",
+                "1": "50.160.325",
+                "2": "",
+                "3": "",
+                "4": "33.440.217"
+            },
+            {
+                "0": "Hệ thống điện KCN Biên Hòa 1",
+                "1": "68.408.667",
+                "2": "",
+                "3": "",
+                "4": "468.412.211"
+            },
+            {
+                "0": "Nhà xưởng KCN Châu Đức",
+                "1": "-",
+                "2": "",
+                "3": "",
+                "4": "26.648.385.857"
+            },
+            {
+                "0": "Cộng",
+                "1": "3.391.369.071",
+                "2": "",
+                "3": "",
+                "4": "29.263.522.148"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_23",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "Nguyên giá bất động sản đầu tư cuối năm đã khấu hao hết nhưng vẫn cho thuê là 110.161.106.841 VND.\n\n28\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tĩnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIÉP THEO)\n\nTại ngày báo cáo, Tổng Công ty chưa xác định được giá trị hợp lý của bất động sản đầu tư nằm giữ để cho thuê để thuyết minh trong báo cáo tài chính riêng do Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam hiện chưa có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các bất động sản đầu tư này có thể khác với giá trị ghi sổ.\n\n4.10. Chi phí xây dựng cơ bản dở dang",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày31/12/2021VND",
+                "2": "Tại ngày01/01/2021VND"
+            },
+            {
+                "0": "Mỏ đá Thiện Tân",
+                "1": "3.311.412.475",
+                "2": "3.311.412.475"
+            },
+            {
+                "0": "Nhà xưởng KCN Châu Đức",
+                "1": "1.360.954.435",
+                "2": "22.628.618.848"
+            },
+            {
+                "0": "Chi phí xây dựng dở dang khác",
+                "1": "1.752.501.493",
+                "2": "1.749.123.801"
+            },
+            {
+                "0": "Cộng",
+                "1": "6.424.868.403",
+                "2": "27.689.155.124"
+            },
+            {
+                "0": "Ngắn hạn:",
+                "1": "Ngắn hạn:",
+                "2": "Ngắn hạn:"
+            },
+            {
+                "0": "Tiền thuê đất KCN Biên Hòa 1",
+                "1": "-",
+                "2": "10.062.858.044"
+            },
+            {
+                "0": "Các khoản khác",
+                "1": "243.261.360",
+                "2": "202.973.120"
+            },
+            {
+                "0": "Cộng",
+                "1": "243.261.360",
+                "2": "10.265.831.164"
+            },
+            {
+                "0": "Dài hạn:",
+                "1": "Dài hạn:",
+                "2": "Dài hạn:"
+            },
+            {
+                "0": "Chi phí đầu tư mặt bằng công nghiệp có hạ tầng kỹ thuật KCN Châu Đức",
+                "1": "113.911.481.623",
+                "2": "163.224.336.438"
+            },
+            {
+                "0": "Chi phí sửa chữa, bảo trì KCN Biên Hòa 1",
+                "1": "4.216.064.422",
+                "2": "2.715.431.673"
+            },
+            {
+                "0": "Công cụ dụng cụ",
+                "1": "852.677.672",
+                "2": "940.704.126"
+            },
+            {
+                "0": "Các khoản khác",
+                "1": "611.813.691",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "119.592.037.408",
+                "2": "166.880.472.237"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_24",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "(Xem trang tiếp theo)\n\n29\n\n\\( \\left\\| {h - 1}\\right\\|  = h + 1 \\)\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\n4.12. Phải trả người bán ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày 31/12/2021VND",
+                "2": "Tại ngày 31/12/2021VND",
+                "3": "Tại ngày 01/01/2021VND",
+                "4": "Tại ngày 01/01/2021VND"
+            },
+            {
+                "0": "",
+                "1": "Giá trị",
+                "2": "Số có khả năng trả nợ",
+                "3": "Giá trị",
+                "4": "Số có khả năng trả nợ"
+            },
+            {
+                "0": "Phải trả cho các bên liên quan - Xem thêm mục 7",
+                "1": "2.844.595.075",
+                "2": "2.844.595.075",
+                "3": "2.942.501.810",
+                "4": "2.942.501.810"
+            },
+            {
+                "0": "Phải trả cho người bán:",
+                "1": "Phải trả cho người bán:",
+                "2": "Phải trả cho người bán:",
+                "3": "Phải trả cho người bán:",
+                "4": "Phải trả cho người bán:"
+            },
+            {
+                "0": "Công ty TNHH Xây dựng Sản xuất TM Ngọc Minh Quân",
+                "1": "1.228.212.950",
+                "2": "1.228.212.950",
+                "3": "32.093.000",
+                "4": "32.093.000"
+            },
+            {
+                "0": "Công ty TNHH Bất động sản Công nghiệp Hòa Hưng",
+                "1": "1.136.655.110",
+                "2": "1.136.655.110",
+                "3": "904.358.859",
+                "4": "904.358.859"
+            },
+            {
+                "0": "Công ty TNHH Xây dựng Dịch vụ Tân Việt",
+                "1": "737.075.000",
+                "2": "737.075.000",
+                "3": "4.263.264.296",
+                "4": "4.263.264.296"
+            },
+            {
+                "0": "Phải trả cho các đối tượng khác",
+                "1": "588.228.597",
+                "2": "588.228.597",
+                "3": "695.350.040",
+                "4": "695.350.040"
+            },
+            {
+                "0": "Cộng",
+                "1": "6.534.766.732",
+                "2": "6.534.766.732",
+                "3": "8.837.568.005",
+                "4": "8.837.568.005"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_25",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "4.13. Người mua trả trước ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày31/12/2021VND",
+                "2": "Tại ngày01/01/2021VND"
+            },
+            {
+                "0": "Người mua trả tiền trước là các bên liên quan – Xem thêm mục 7",
+                "1": "242.808.474",
+                "2": "-"
+            },
+            {
+                "0": "Người mua trả tiền trước:",
+                "1": "Người mua trả tiền trước:",
+                "2": "Người mua trả tiền trước:"
+            },
+            {
+                "0": "Công ty Cổ phần Thép Vicasa",
+                "1": "535.268.740",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Hàng Tiêu Dùng Biên Hòa",
+                "1": "481.352.010",
+                "2": "-"
+            },
+            {
+                "0": "Các khách hàng khác",
+                "1": "2.747.009.932",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "4.006.439.156",
+                "2": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_26",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "30\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BẢO CÁO TÀI CHÍNH (TIẾP THEO)\n\n4.14. Thuế và các khoản phải thu, phải nộp Nhà nước",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày 01/01/2021 VND",
+                "2": "Tại ngày 01/01/2021 VND",
+                "3": "Số phát sinh VND",
+                "4": "Số đã khấu trừ VND",
+                "5": "Tại ngày 31/12/2021 VND",
+                "6": "",
+                "7": ""
+            },
+            {
+                "0": "Thuế giá trị gia tăng được khấu trừ",
+                "1": "628.046.714",
+                "2": "628.046.714",
+                "3": "3.315.771.710",
+                "4": "2.810.958.943",
+                "5": "1.132.859.481",
+                "6": "",
+                "7": ""
+            },
+            {
+                "0": "",
+                "1": "Tại ngày 01/01/2021 VND",
+                "2": "Tại ngày 01/01/2021 VND",
+                "3": "Trong năm VND",
+                "4": "Trong năm VND",
+                "5": "Trong năm VND",
+                "6": "Tại ngày 31/12/2021 VND",
+                "7": "Tại ngày 31/12/2021 VND"
+            },
+            {
+                "0": "",
+                "1": "Phải thu",
+                "2": "Phải nộp",
+                "3": "Phải nộp",
+                "4": "Đã nộp",
+                "5": "Đã khấu trừ",
+                "6": "Phải thu",
+                "7": "Phải nộp"
+            },
+            {
+                "0": "Thuế giá trị gia tăng",
+                "1": "-",
+                "2": "-",
+                "3": "18.678.312.819",
+                "4": "11.780.886.367",
+                "5": "2.810.958.943",
+                "6": "-",
+                "7": "4.086.467.509"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp",
+                "1": "-",
+                "2": "7.812.602.864",
+                "3": "23.193.028.942",
+                "4": "26.214.584.291",
+                "5": "-",
+                "6": "-",
+                "7": "4.791.047.515"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "-",
+                "2": "924.154.468",
+                "3": "3.836.051.997",
+                "4": "3.817.103.441",
+                "5": "-",
+                "6": "-",
+                "7": "943.103.024"
+            },
+            {
+                "0": "Thuế tài nguyên",
+                "1": "-",
+                "2": "180.896.297",
+                "3": "2.657.533.020",
+                "4": "2.560.730.620",
+                "5": "-",
+                "6": "-",
+                "7": "277.698.697"
+            },
+            {
+                "0": "Thuế nhà đất, tiền thuê đất",
+                "1": "-",
+                "2": "-",
+                "3": "15.406.116.651",
+                "4": "14.679.994.876",
+                "5": "-",
+                "6": "-",
+                "7": "726.121.775"
+            },
+            {
+                "0": "Thuế, phí và lệ phí khác",
+                "1": "2.085.005",
+                "2": "110.532.840",
+                "3": "1.627.584.930",
+                "4": "1.568.437.490",
+                "5": "-",
+                "6": "2.085.005",
+                "7": "169.680.280"
+            },
+            {
+                "0": "Cộng",
+                "1": "2.085.005",
+                "2": "9.028.186.469",
+                "3": "65.398.628.359",
+                "4": "60.621.737.085",
+                "5": "2.810.958.943",
+                "6": "2.085.005",
+                "7": "10.994.118.800"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_27",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "(Xem trang tiếp theo)\n\n\\( NH*H'H'N' \\)\n\nNO * M.S.D.N.\n\n31\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tĩnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\n4.15. Phải trả người lao động\n\nLà quỹ lương năm 2021 còn phải trả người lao động tại ngày 31/12/2021.\n\n4.16. Phải trả khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày31/12/2021VND",
+                "2": "Tại ngày01/01/2021VND"
+            },
+            {
+                "0": "Ngắn hạn:",
+                "1": "Ngắn hạn:",
+                "2": "Ngắn hạn:"
+            },
+            {
+                "0": "Thù lao của người đại diện phần vốn góp, Hội đồng quản trị và Ban kiểm soát",
+                "1": "441.888.000",
+                "2": "518.016.000"
+            },
+            {
+                "0": "Các khoản phải trả, phải nộp khác",
+                "1": "114.085.984",
+                "2": "86.628.744"
+            },
+            {
+                "0": "Nhận ký quỹ, ký cược",
+                "1": "-",
+                "2": "775.000.000"
+            },
+            {
+                "0": "Cổ tức phải trả",
+                "1": "33.540.000",
+                "2": "23.440.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "589.513.984",
+                "2": "1.403.084.744"
+            },
+            {
+                "0": "Dài hạn:",
+                "1": "Dài hạn:",
+                "2": "Dài hạn:"
+            },
+            {
+                "0": "Phải trả cho các bên liên quan (*)",
+                "1": "33.600.000.000",
+                "2": "33.600.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_28",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "(*) Là khoản phải trả các bên liên quan về khoản góp vốn liên doanh đầu tư xây dựng công trình cải tạo nâng cấp QL91 đoạn Km 14 - Km 50 + 889 theo hình thức hợp đồng BOT - Xem thêm mục 7.\n\n4.17. Quỹ khen thưởng, phúc lợi",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2021VND",
+                "2": "Năm 2020VND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "20.503.250.426",
+                "2": "21.744.376.726"
+            },
+            {
+                "0": "Trích lập trong năm",
+                "1": "8.980.854.536",
+                "2": "3.355.019.000"
+            },
+            {
+                "0": "Tăng khác",
+                "1": "11.920.000",
+                "2": "39.800.000"
+            },
+            {
+                "0": "Sử dụng trong năm",
+                "1": "(6.929.470.376)",
+                "2": "(4.635.945.300)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "22.566.554.586",
+                "2": "20.503.250.426"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_29",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "(Xem trang tiếp theo)\n\n32\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\n4.18. Vốn chủ sở hữu\n\n4.18.1. Bảng đối chiếu biến động của vốn chủ sở hữu\n\nCác khoản mục thuộc vốn chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn góp của chủ sở hữu VND",
+                "2": "Cổ phiếu quỹ VND",
+                "3": "Quỹ đầu tư phát triển VND",
+                "4": "Lợi nhuận sau thuế chưa phân phối VND",
+                "5": "Cộng VND"
+            },
+            {
+                "0": "Tại ngày 01/01/2020",
+                "1": "3.765.000.000.000",
+                "2": "(90.100.000)",
+                "3": "40.924.673.476",
+                "4": "234.543.224.703",
+                "5": "4.040.377.798.179"
+            },
+            {
+                "0": "Lãi trong năm trước",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "418.944.170.834",
+                "5": "418.944.170.834"
+            },
+            {
+                "0": "Trích quỹ đầu tư phát triển",
+                "1": "-",
+                "2": "-",
+                "3": "3.267.932.000",
+                "4": "(3.267.932.000)",
+                "5": "-"
+            },
+            {
+                "0": "Trích quỹ khen thưởng, phúc lợi",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(3.355.019.000)",
+                "5": "(3.355.019.000)"
+            },
+            {
+                "0": "Chia cổ tức",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(188.245.900.000)",
+                "5": "(188.245.900.000)"
+            },
+            {
+                "0": "Tại ngày 01/01/2021",
+                "1": "3.765.000.000.000",
+                "2": "(90.100.000)",
+                "3": "44.192.605.476",
+                "4": "458.618.544.537",
+                "5": "4.267.721.050.013"
+            },
+            {
+                "0": "Lãi trong năm nay",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "419.298.871.402",
+                "5": "419.298.871.402"
+            },
+            {
+                "0": "Trích quỹ đầu tư phát triển",
+                "1": "-",
+                "2": "-",
+                "3": "20.941.835.182",
+                "4": "(20.941.835.182)",
+                "5": "-"
+            },
+            {
+                "0": "Trích quỹ khen thưởng phúc lợi",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(8.980.854.536)",
+                "5": "(8.980.854.536)"
+            },
+            {
+                "0": "Chia cổ tức",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(376.491.800.000)",
+                "5": "(376.491.800.000)"
+            },
+            {
+                "0": "Tại ngày 31/12/2021",
+                "1": "3.765.000.000.000",
+                "2": "(90.100.000)",
+                "3": "65.134.440.658",
+                "4": "471.502.926.221",
+                "5": "4.301.547.266.879"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_30",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "(Xem trang tiếp theo)\n\n33\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\n4.18.2. Chi tiết vốn góp của chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày31/12/2021VND",
+                "2": "Tại ngày01/01/2021VND"
+            },
+            {
+                "0": "Nhà nước",
+                "1": "3.747.567.000.000",
+                "2": "3.747.567.000.000"
+            },
+            {
+                "0": "Vốn góp của các đối tượng khác",
+                "1": "17.433.000.000",
+                "2": "17.433.000.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "3.765.000.000.000",
+                "2": "3.765.000.000.000"
+            },
+            {
+                "0": "",
+                "1": "Năm 2021VND",
+                "2": "Năm 2020VND"
+            },
+            {
+                "0": "Cổ tức đợt 2 năm 2019",
+                "1": "-",
+                "2": "188.245.900.000"
+            },
+            {
+                "0": "Cổ tức năm 2020",
+                "1": "376.491.800.000",
+                "2": ""
+            },
+            {
+                "0": "Cộng",
+                "1": "376.491.800.000",
+                "2": "188.245.900.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_31",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "Căn cứ vào Nghi quyết Đai hội đồng cổ đông thường niên năm 2021 số 86/NQ-SNZ-QTTH ngày 28 tháng 04 năm 2021, cổ tức năm 2020 được chia với tỷ lệ 10% vốn điều lệ.\n\n4.18.4. Cổ phiếu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày31/12/2021",
+                "2": "Tại ngày01/01/2021"
+            },
+            {
+                "0": "Số lượng cổ phiếu phổ thông đăng ký phát hành",
+                "1": "376.500.000",
+                "2": "376.500.000"
+            },
+            {
+                "0": "Số lượng cổ phiếu phổ thông đã bán ra công chúng",
+                "1": "376.500.000",
+                "2": "376.500.000"
+            },
+            {
+                "0": "Số lượng cổ phiếu phổ thông được mua lại (cổ phiếu quỹ)",
+                "1": "(8.200)",
+                "2": "(8.200)"
+            },
+            {
+                "0": "Số lượng cổ phiếu phổ thông đang lưu hành",
+                "1": "376.491.800",
+                "2": "376.491.800"
+            },
+            {
+                "0": "Mệnh giá cổ phần đang lưu hành: 10.000 VND/cổ phần.",
+                "1": "Mệnh giá cổ phần đang lưu hành: 10.000 VND/cổ phần.",
+                "2": "Mệnh giá cổ phần đang lưu hành: 10.000 VND/cổ phần."
+            },
+            {
+                "0": "Ngoai tệ các loại:",
+                "1": "Ngoai tệ các loại:",
+                "2": "Ngoai tệ các loại:"
+            },
+            {
+                "0": "USD",
+                "1": "61572",
+                "2": "61572"
+            },
+            {
+                "0": "EUR",
+                "1": "1500",
+                "2": "1500"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_32",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "(Xem trang tiếp theo)\n\n34\n\n\\( \\left\\| {x - 1}\\right\\|  = \\frac{1}{2} \\)\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tĩnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\n5. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢO CẢO KẾT QUẢ HOẠT ĐỒNG KINH DOANH\n\n5.1. Doanh thu cung cấp dịch vụ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2021VND",
+                "2": "Năm 2020VND"
+            },
+            {
+                "0": "Doanh thu kinh doanh đất, hạ tầng KCN Biên Hòa 1",
+                "1": "41.365.364.162",
+                "2": "40.035.256.940"
+            },
+            {
+                "0": "Doanh thu kinh doanh hạ tầng KCN Châu Đức",
+                "1": "153.761.494.023",
+                "2": "141.878.741.154"
+            },
+            {
+                "0": "Doanh thu khác",
+                "1": "2.980.482.720",
+                "2": "1.401.169.765"
+            },
+            {
+                "0": "Cộng",
+                "1": "198.107.340.905",
+                "2": "183.315.167.859"
+            },
+            {
+                "0": "Trong đó, doanh thu cung cấp dịch vụ cho các bên liên quan - Xem thêm mục 7",
+                "1": "1.066.870.042",
+                "2": "1.229.834.381"
+            },
+            {
+                "0": "Giá vốn kinh doanh đất, hạ tầng KCN Biên Hòa 1",
+                "1": "34.417.528.722",
+                "2": "38.412.990.975"
+            },
+            {
+                "0": "Giá vốn kinh doanh hạ tầng KCN Châu Đức",
+                "1": "53.180.583.025",
+                "2": "57.916.193.362"
+            },
+            {
+                "0": "Giá vốn khác",
+                "1": "286.930.775",
+                "2": "164.923.391"
+            },
+            {
+                "0": "Cộng",
+                "1": "87.885.042.522",
+                "2": "96.494.107.728"
+            },
+            {
+                "0": "Cổ tức, lợi nhuận được chia",
+                "1": "338.740.587.999",
+                "2": "340.254.742.556"
+            },
+            {
+                "0": "Lãi tiền gửi",
+                "1": "41.881.472.147",
+                "2": "58.652.067.590"
+            },
+            {
+                "0": "Lãi chênh lệch tỷ giá",
+                "1": "-",
+                "2": "34.065"
+            },
+            {
+                "0": "Cộng",
+                "1": "380.622.060.146",
+                "2": "398.906.844.211"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "359.671.233",
+                "2": "199.890.028"
+            },
+            {
+                "0": "Dự phòng/(Hoàn nhập) giảm giá tổn thất đầu tư",
+                "1": "3.882.629.145",
+                "2": "(6.495.928.415)"
+            },
+            {
+                "0": "Lỗ chênh lệch tỷ giá",
+                "1": "296.223",
+                "2": "67.267"
+            },
+            {
+                "0": "Chi phí tài chính khác",
+                "1": "663.742.791",
+                "2": "1.082.394.633"
+            },
+            {
+                "0": "Công",
+                "1": "4.906.339.392",
+                "2": "(5.213.576.487)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_33",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "35\n\n\\( \\left\\| {x - 1}\\right\\|  < x < \\left( {1 - x}\\right) \\)\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BẢO CÁO TÀI CHÍNH (TIẾP THEO)\n\n5.5. Chi phí quản lý doanh nghiệp",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2021VND",
+                "2": "Năm 2020VND"
+            },
+            {
+                "0": "Chi phí nhân viên quản lý",
+                "1": "24.093.232.466",
+                "2": "26.196.559.400"
+            },
+            {
+                "0": "Chi phí vật liệu quản lý",
+                "1": "34.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí đồ dùng văn phòng",
+                "1": "802.680.182",
+                "2": "649.897.653"
+            },
+            {
+                "0": "Chi phí khấu hao tài sản cố định",
+                "1": "1.160.038.449",
+                "2": "1.077.758.222"
+            },
+            {
+                "0": "Thuế, phí và lệ phí",
+                "1": "4.000.000",
+                "2": "24.182.978"
+            },
+            {
+                "0": "Chi phí dự phòng nợ phải thu khó đòi",
+                "1": "3.540.584.083",
+                "2": "3.325.055.532"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "1.700.572.018",
+                "2": "1.814.793.306"
+            },
+            {
+                "0": "Chi phí bằng tiền khác",
+                "1": "12.774.870.144",
+                "2": "14.430.559.677"
+            },
+            {
+                "0": "Chi phí thuê văn phòng",
+                "1": "4.001.061.564",
+                "2": "4.059.601.200"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "8.773.808.580",
+                "2": "10.370.958.477"
+            },
+            {
+                "0": "Cộng",
+                "1": "44.109.977.342",
+                "2": "47.518.806.768"
+            },
+            {
+                "0": "Chi phí nhân công",
+                "1": "24.093.232.466",
+                "2": "26.196.559.400"
+            },
+            {
+                "0": "Chi phí khấu hao tài sản cố định",
+                "1": "4.022.562.548",
+                "2": "3.777.981.215"
+            },
+            {
+                "0": "Chi phí dự phòng nợ phải thu khó đòi",
+                "1": "3.540.584.083",
+                "2": "3.325.055.532"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "7.569.429.247",
+                "2": "7.732.065.772"
+            },
+            {
+                "0": "Chi phí khác bằng tiền",
+                "1": "94.599.567.656",
+                "2": "105.454.206.494"
+            },
+            {
+                "0": "Cộng",
+                "1": "133.825.376.000",
+                "2": "146.485.868.413"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_34",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "5.7. Chi phí thuế thu nhập doanh nghiệp hiện hành\n\nChi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện hành được xác định như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2021VND",
+                "2": "Năm 2020VND"
+            },
+            {
+                "0": "Lợi nhuận kế toán trước thuế trong năm",
+                "1": "442.491.900.344",
+                "2": "441.282.787.133"
+            },
+            {
+                "0": "Cộng: Các khoản điều chỉnh tăng",
+                "1": "12.213.832.367",
+                "2": "10.665.036.918"
+            },
+            {
+                "0": "Trừ: Thu nhập được miễn thuế",
+                "1": "(338.740.587.999)",
+                "2": "(340.254.742.556)"
+            },
+            {
+                "0": "Thu nhập tính thuế từ hoạt động kinh doanh",
+                "1": "115.965.144.712",
+                "2": "111.693.081.495"
+            },
+            {
+                "0": "Thuế suất thuế TNDN hiện hành",
+                "1": "20%",
+                "2": "20%"
+            },
+            {
+                "0": "Chi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện hành",
+                "1": "23.193.028.942",
+                "2": "22.338.616.299"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_35",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "36\n\n\n\nTỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tĩnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\nCác khoản điều chỉnh tăng thu nhập chịu thuế chủ yếu là các khoản mục theo qui định của Luật thuế TNDN không được xem là chi phí khi tính thuế như:\n\n- Khoản chi thực tế phát sinh không liên quan đến hoạt động sản xuất, kinh doanh của doanh nghiệp;\n\nKhoản chi không có đủ hóa đơn, chứng từ hợp pháp theo quy định của pháp luật.\n\nThu nhập điều chỉnh giảm là khoản thu nhập được chia từ hoạt động góp vốn sau khi bên nhận góp vốn đã nộp thuế TNDN theo quy định của Luật thuế TNDN.\n\n6. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢO CÁO LƯU CHUYẾN TIỀN TỆ\n\n6.1. Số tiền đi vay thực thu trong năm",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2021VND",
+                "2": "Năm 2020VND"
+            },
+            {
+                "0": "Tiền thu từ đi vay theo khế uốc thông thường",
+                "1": "278.000.000.000",
+                "2": "181.404.000.000"
+            },
+            {
+                "0": "Tiền trả nợ gốc vay theo khế ước thông thường",
+                "1": "(278.000.000.000)",
+                "2": "(181.404.000.000)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_36",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "7. THÔNG TIN VỀ CÁC BÊN LIÊN QUAN\n\nDanh sách các bên liên quan",
+        "dataframe": [
+            {
+                "0": "1. Công ty Cổ phần Cấp nước Đồng Nai",
+                "1": "Công ty con trực tiếp"
+            },
+            {
+                "0": "2. Công ty Cổ phần Phát triển Đỏ thị Công nghiệp Số 2",
+                "1": "Công ty con trực tiếp"
+            },
+            {
+                "0": "3. Công ty Cổ phần Đầu tư Xây dựng và Vật liệu Đồng Nai",
+                "1": "Công ty con trực tiếp"
+            },
+            {
+                "0": "4. Công ty Cổ phần Căng Đồng Nai",
+                "1": "Công ty con trực tiếp"
+            },
+            {
+                "0": "5. Công ty Cổ phần Sonadezi Long Thành",
+                "1": "Công ty con trực tiếp"
+            },
+            {
+                "0": "6. Công ty Cổ phần Môi trường Sonadezi",
+                "1": "Công ty con trực tiếp"
+            },
+            {
+                "0": "7. Công ty Cổ phần Sonadezi Giang Điền",
+                "1": "Công ty con gián tiếp"
+            },
+            {
+                "0": "8. Công ty Cổ phần Sonadezi An Bình",
+                "1": "Công ty con gián tiếp"
+            },
+            {
+                "0": "9. Công ty Cổ phần Dịch vụ Sonadezi",
+                "1": "Công ty con gián tiếp"
+            },
+            {
+                "0": "10. Công ty Cổ phần Sonadezi Châu Đức",
+                "1": "Công ty con gián tiếp"
+            },
+            {
+                "0": "11. Công ty Cổ phần Sonadezi Long Bình",
+                "1": "Công ty con gián tiếp"
+            },
+            {
+                "0": "12. Công ty Cổ phần Sonadezi Bình Thuận",
+                "1": "Công ty con gián tiếp"
+            },
+            {
+                "0": "13. Công ty Cổ phần Xây dựng Đồng Nai",
+                "1": "Công ty liên kết"
+            },
+            {
+                "0": "14. Công ty Cổ phần Sơn Đồng Nai",
+                "1": "Công ty liên kết"
+            },
+            {
+                "0": "15. Trường Cao đẳng Công nghệ và Quản trị Sonadezi",
+                "1": "Công ty liên kết"
+            },
+            {
+                "0": "16. Công ty Cổ phần Đầu tư Quốc lộ 91 Cần Thơ - An Giang",
+                "1": "Công ty liên kết"
+            },
+            {
+                "0": "17. Công ty Cổ phần Kinh doanh nhà Đồng Nai",
+                "1": "Công ty liên kết"
+            },
+            {
+                "0": "18. Công ty TNHH Tiên Triết",
+                "1": "Công ty cùng nhân sự quản lý chủ chốt"
+            },
+            {
+                "0": "19. Hội đồng quản trị và Ban Tổng Giám đốc",
+                "1": "Nhân sự quản lý chủ chốt"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_37",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "Môi quan hệ\n\n37\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\nTại ngày lập bằng cân đối kế toán, số dư phải thu (phải trả) với các bên liên quan như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Tại ngày31/12/2021VND",
+                "2": "Tại ngày01/01/2021VND"
+            },
+            {
+                "0": "Phải thu ngắn hạn khác:",
+                "1": "Phải thu ngắn hạn khác:",
+                "2": "Phải thu ngắn hạn khác:"
+            },
+            {
+                "0": "Công ty Cổ phần Kinh doanh nhà Đồng Nai",
+                "1": "93.062.403.717",
+                "2": "1.315.440.000"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi Châu Đức",
+                "1": "26.840.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi Giang Điền",
+                "1": "1.031.515.500",
+                "2": "10.200.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Sơn Đồng Nai",
+                "1": "364.435.200",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi Bình Thuận",
+                "1": "-",
+                "2": "1.025.539.734"
+            },
+            {
+                "0": "Cộng - Xem thêm mục 4.4",
+                "1": "121.298.354.417",
+                "2": "12.540.979.734"
+            },
+            {
+                "0": "Phải trả người bán ngắn hạn:",
+                "1": "Phải trả người bán ngắn hạn:",
+                "2": "Phải trả người bán ngắn hạn:"
+            },
+            {
+                "0": "Công ty TNHH Tiên Triết",
+                "1": "(1.632.609.567)",
+                "2": "(1.599.453.352)"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi Châu Đức",
+                "1": "(1.021.633.738)",
+                "2": "(981.762.593)"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Sonadezi",
+                "1": "(157.462.870)",
+                "2": "(325.646.965)"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi Giang Điền",
+                "1": "(32.888.900)",
+                "2": "(35.638.900)"
+            },
+            {
+                "0": "Cộng - Xem thêm mục 4.12",
+                "1": "(2.844.595.075)",
+                "2": "(2.942.501.810)"
+            },
+            {
+                "0": "Người mua trả tiền trước ngắn hạn:",
+                "1": "Người mua trả tiền trước ngắn hạn:",
+                "2": "Người mua trả tiền trước ngắn hạn:"
+            },
+            {
+                "0": "Công ty TNHH Tiên Triết",
+                "1": "(116.884.385)",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi An Bình",
+                "1": "(63.139.350)",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Sơn Đồng Nai",
+                "1": "(32.465.694)",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi Giang Điền",
+                "1": "(30.319.045)",
+                "2": "-"
+            },
+            {
+                "0": "Cộng - Xem thêm mục 4.13",
+                "1": "(242.808.474)",
+                "2": "-"
+            },
+            {
+                "0": "Phải trả dài hạn khác:",
+                "1": "Phải trả dài hạn khác:",
+                "2": "Phải trả dài hạn khác:"
+            },
+            {
+                "0": "Công ty Cổ phần Phát triển Đô thị Công nghiệp Số 2",
+                "1": "(11.200.000.000)",
+                "2": "(11.200.000.000)"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi An Bình",
+                "1": "(22.400.000.000)",
+                "2": "(22.400.000.000)"
+            },
+            {
+                "0": "Cộng - Xem thêm mục 4.16",
+                "1": "(33.600.000.000)",
+                "2": "(33.600.000.000)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_38",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "(Xem trang tiếp theo)\n\n38\n\n(i) 三、二、三\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tĩnh Đồng Nai, Việt Nam\n\nBÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIÉP THEO)\n\nTrong năm, Tổng Công ty đã có các giao dịch chủ yếu với các bên liên quan như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2021VND",
+                "2": "Năm 2020VND"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ:",
+                "1": "Doanh thu cung cấp dịch vụ:",
+                "2": "Doanh thu cung cấp dịch vụ:"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi An Bình",
+                "1": "371.579.100",
+                "2": "407.260.484"
+            },
+            {
+                "0": "Công ty Cổ phần Sơn Đồng Nai",
+                "1": "224.327.126",
+                "2": "247.181.428"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi Giang Điền",
+                "1": "174.301.795",
+                "2": "191.435.729"
+            },
+            {
+                "0": "Công ty TNHH Tiên Triết",
+                "1": "296.662.021",
+                "2": "383.956.740"
+            },
+            {
+                "0": "Cộng - Xem thêm mục 5.1",
+                "1": "1.066.870.042",
+                "2": "1.229.834.381"
+            },
+            {
+                "0": "Mua hàng hóa, dịch vụ:",
+                "1": "Mua hàng hóa, dịch vụ:",
+                "2": "Mua hàng hóa, dịch vụ:"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi Giang Điền",
+                "1": "4.351.377.256",
+                "2": "4.526.206.384"
+            },
+            {
+                "0": "Công ty TNHH Tiên Triết",
+                "1": "4.097.814.740",
+                "2": "3.779.088.708"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi Châu Đức",
+                "1": "3.328.362.861",
+                "2": "2.194.461.823"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Sonadezi",
+                "1": "143.148.064",
+                "2": "476.288.650"
+            },
+            {
+                "0": "Trường Cao đẳng Công nghệ và Quản trị Sonadezi",
+                "1": "-",
+                "2": "13.500.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "11.920.702.921",
+                "2": "10.989.545.565"
+            },
+            {
+                "0": "Cổ tức, lợi nhuận được chia:",
+                "1": "Cổ tức, lợi nhuận được chia:",
+                "2": "Cổ tức, lợi nhuận được chia:"
+            },
+            {
+                "0": "Công ty Cổ phần Cấp nước Đồng Nai",
+                "1": "76.786.920.000",
+                "2": "57.590.190.000"
+            },
+            {
+                "0": "Công ty Cổ phần Phát triển Đỏ thị Công nghiệp Số 2",
+                "1": "61.369.560.000",
+                "2": "55.566.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi Châu Đức",
+                "1": "46.840.000.000",
+                "2": "46.840.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi Long Bình",
+                "1": "34.667.500.000",
+                "2": "34.667.500.000"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi Long Thành",
+                "1": "30.714.000.000",
+                "2": "30.714.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Cắng Đồng Nai",
+                "1": "33.061.770.000",
+                "2": "28.338.660.000"
+            },
+            {
+                "0": "Công ty Cổ phần Môi trường Sonadezi",
+                "1": "15.370.276.800",
+                "2": "15.370.276.800"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi Giang Điền",
+                "1": "15.300.000.000",
+                "2": "35.700.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư Xây dựng và Vật liệu Đồng Nai",
+                "1": "5.081.274.000",
+                "2": "5.081.274.000"
+            },
+            {
+                "0": "Công ty Cổ phần Kinh doanh nhà Đồng Nai",
+                "1": "2.630.880.000",
+                "2": "3.946.320.000"
+            },
+            {
+                "0": "Công ty Cổ phần Sonadezi An Bình",
+                "1": "2.362.500.000",
+                "2": "2.362.500.000"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Sonadezi",
+                "1": "2.000.000.000",
+                "2": "1.500.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Sơn Đồng Nai",
+                "1": "1.731.067.200",
+                "2": "1.138.860.000"
+            },
+            {
+                "0": "Công ty Cổ phần Xây dựng Đồng Nai",
+                "1": "840.000.000",
+                "2": "1.260.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Xây dựng Dân dụng Công nghiệp Số 1 - Đồng Nai",
+                "1": "-",
+                "2": "922.320.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "328.755.748.000",
+                "2": "320.997.900.800"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_39",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "(Xem trang tiếp theo)\n\n39\n\nlioi\n\n\n\nTỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP\n\nĐịa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam\n\nBẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (TIẾP THEO)\n\nTiền lương và thủ lao của Hội đồng quản trị, Ban Tổng Giám đốc và các nhân sự quản lý chủ chốt khác được hưởng trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "Tên",
+                "1": "Chức vụ",
+                "2": "Năm 2021 VND",
+                "3": "Năm 2020 VND"
+            },
+            {
+                "0": "Bà Đỗ Thị Thu HằngÔng Trần Thanh Hải",
+                "1": "Chủ tịch Hội đồng quản trịThành viên Hội đồng quản trị kiểm Tổng Giám đốc(bổ nhiệm ngày 01/05/2021)",
+                "2": "1.336.112.6201.199.256.741",
+                "3": "1.410.670.1251.193.544.752"
+            },
+            {
+                "0": "Ông Phan Đình Thám",
+                "1": "Tổng Giám đốc(miễn nhiệm ngày 01/05/2021)Thành viên Hội đồng quản trị(miễn nhiệm ngày 28/04/2021)",
+                "2": "408.015.443",
+                "3": "1.242.637.652"
+            },
+            {
+                "0": "Bà Nguyễn Thị Hạnh",
+                "1": "Thành viên Hội đồng quản trịkiêm Phó Tổng Giám đốc",
+                "2": "1.120.866.035",
+                "3": "1.172.690.488"
+            },
+            {
+                "0": "Ông Đình Ngọc Thuận",
+                "1": "Thành viên Hội đồng quản trịkiêm Phó Tổng Giám đốc",
+                "2": "1.067.454.855",
+                "3": "1.393.514.780"
+            },
+            {
+                "0": "Bà Lương Minh Hiền",
+                "1": "Thành viên Hội đồng quản trịkiêm Phó Tổng Giám đốc(bổ nhiệm ngày 28/04/2021)",
+                "2": "602.861.224",
+                "3": "-"
+            },
+            {
+                "0": "Ông Nguyễn Long Bôn",
+                "1": "Phó Tổng Giám đốc (nghĩ hưu từ ngày 01/12/2020)",
+                "2": "-",
+                "3": "516.000.000"
+            },
+            {
+                "0": "Ông Nguyễn Văn TuấnÔng Phạm Quốc Chí",
+                "1": "Thành viên Hội đồng quản trịThành viên Hội đồng quản trị",
+                "2": "205.658.790205.658.790",
+                "3": "216.281.302216.281.302"
+            },
+            {
+                "0": "Bà Lê Thị Bích Loan",
+                "1": "Kế toán trưởng(bổ nhiệm ngày 01/05/2020)",
+                "2": "754.363.936",
+                "3": "659.643.241"
+            },
+            {
+                "0": "Bà Phan Thùy Doan",
+                "1": "Kế toán trưởng(miễn nhiệm ngày 01/05/2020)",
+                "2": "-",
+                "3": "159.423.281"
+            },
+            {
+                "0": "Cộng",
+                "1": "",
+                "2": "6.900.248.434",
+                "3": "8.180.686.923"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SNZ_2021_separate_table_40",
+        "metadata": {
+            "ticker": "SNZ",
+            "company_name": "Tổng Công ty cổ phần Phát triển Khu Công nghiệp",
+            "year": "2021",
+            "report_type": "separate",
+            "original_folder": "SNZ_financial_statements_2021_separate"
+        },
+        "context_text": "8. THU NHẬP CỦA BAN KIỂM SOÁT",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2021VND",
+                "2": "Năm 2020VND"
+            },
+            {
+                "0": "Thu nhập và thủ lao",
+                "1": "1.021.899.566",
+                "2": "1.119.629.077"
+            }
+        ]
+    }
+]

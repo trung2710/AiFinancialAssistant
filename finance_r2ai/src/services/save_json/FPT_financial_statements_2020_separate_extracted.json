@@ -1,0 +1,3867 @@
+[
+    {
+        "chunk_id": "FPT_2020_separate_table_1",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "CÔNG TY CỔ PHẦN FPT\nFPT CORPORATION\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nTHE SOCIALIST REPUBLIC OF VIETNAM\nIndependence - Freedom - Happiness\n\nSố/No.: 41 /FPT-FCC\n\nHà Nội, ngày 05 tháng 03 năm 2021\n\nHanoi, March 5 \\( ^{th} \\) , 2021\n\nCÔNG BÓ THÔNG TIN\nTRÊN CÔNG THÔNG TIN ĐIỆN\nTỪ CỦA ỦY BAN CHỨNG KHÓÁN\nNHÀ NƯỚC VÀ SGDCK TP.HCM\n\nDISCLOSURE OF INFORMATION\nON THE STATE SECURITIES\nCOMMISSION'S PORTAL AND\nHOCHIMINH STOCK EXCHANGE'S\nPORTAL\n\nKính gửi/ To: - Ủy ban Chứng khoán Nhà nước/ The State Securities Commission\n- Sở Giao dịch chứng khoán TP.HCM/ Hochiminh Stock Exchange\n\n- Tên tổ chức / Organization name: Công ty Cổ phần FPT/ FPT Corporation\n\n- Mã chứng khoán/ Security Symbol: FPT/ FPT\n\n- Địa chỉ trụ sở chính/ Address: Số 17 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội/ 17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay Distric, Hanoi\n\n- Điện thoại/ Telephone: 024. 7300 7300\n\n- Fax: 024.3768 7410\n\n- Người thực hiện công bố thông tin/ Submitted by: Bà Bùi Nguyễn Phương Châu/ Ms. Bui Nguyen Phuong Chau\n\nChức vụ/ Position: Trường Ban Truyền thông FPT/Chief of FPT Corporate Communications Department\n\nLoại thông tin công bố: ☑ định kỳ □ bất thường □24h □ theo yêu cầu\nInformation disclosure type: ☑ Periodic □ Irregular □ 24 hours □ On demand\n\nNội dung thông tin công bố (*)( Content of Information disclosure (*): Báo cáo tài chính công ty mẹ năm 2020 và Báo cáo tài chính hợp nhất năm 2020/Separate Financial Statements of 2020 and Consolidated Financial Statements of 2020.\n\nThông tin này đã được công bố trên trang thông tin điện tử của công ty vào ngày 05/03/2021 tại đường dẫn: http://fpt.com.vn/vi/nhadautu/cong-bo-thong-tin\nThis information was disclosed on Company/Fund's Portal on date March 5\\( ^{th} \\), 2021 available at: https://fpt.com.vn/en/ir/information-disclosure\n\n1\n\n\n\nTôi cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố/ I declare that all information provided in this paper is true and accurate; I shall be legally responsible for any misrepresentation.\n\nTài liệu đính kèm/Attachment: Báo cáo tài chính công ty mẹ năm 2020 và Báo cáo tài chính hợp nhất năm 2020/Separate Financial of 2020 and Consolidated Financial Statements of 2020.\n\nNơi nhận/Recipient:\n\n-Như trên/As above:\n\n-Luru/Archived by: VT, FCC/Admin, FCC\n\nĐại diện tổ chức\n\nOrganization representative\n\nNgười CBTT/Party to disclose information\n\nBùi Nguyễn Phương Châu\n\n2\n\n\n\nDeloitte.\n\nFPT CORPORATION\n\n(Incorporated in the Socialist Republic of Vietnam)\n\nAUDITED SEPARATE\n\nFINANCIAL STATEMENTS\n\nFor the year ended 31 December 2020\n\n\n\nFPT CORPORATION\n\nNo. 17 Duy Tan Street,\n\nDich Vong Hau Ward, Cau Giay District,\n\nHanoi, Vietnam\n\nTABLE OF CONTENTS",
+        "dataframe": [
+            {
+                "0": "CONTENTS",
+                "1": "PAGE(S)"
+            },
+            {
+                "0": "STATEMENT OF THE BOARD OF MANAGEMENT",
+                "1": "1 - 2"
+            },
+            {
+                "0": "INDEPENDENT AUDITORS' REPORT",
+                "1": "3 - 4"
+            },
+            {
+                "0": "BALANCE SHEET",
+                "1": "5 - 7"
+            },
+            {
+                "0": "INCOME STATEMENT",
+                "1": "8"
+            },
+            {
+                "0": "CASH FLOW STATEMENT",
+                "1": "9 - 10"
+            },
+            {
+                "0": "NOTES TO THE SEPARATE FINANCIAL STATEMENTS",
+                "1": "11 - 37"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_2",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "FPT CORPORATION\n\nNo. 17 Duy Tan Street,\n\nDich Vong Hau Ward, Cau Giay District,\n\nHanoi, Vietnam\n\nSTATEMENT OF THE BOARD OF MANAGEMENT\n\nThe Board of Management of FPT Corporation (the \"Company\") presents this report together with the Company's separate financial statements for the year ended 31 December 2020.\n\nTHE BOARDS OF DIRECTORS AND MANAGEMENT\n\nThe members of the Boards of Directors and Management of the Company who held office during the year and to the date of this report are as follows:\n\nBoard of Directors\n\nMr. Truong Gia Binh Chairman\n\nMr. Bui Quang Ngoc Vice Chairman\n\nMr. Do Cao Bao Member\n\nMr. Jean Charles Belliol Member\n\nMr. Le Song Lai Member\n\nMr. Tomokazu Hamaguchi Member\n\nMr. Dan E Khoo Member\n\nBoard of Management\n\nMr. Nguyen Van Khoa Executive President\n\nMr. Nguyen The Phuong Executive Vice President\n\nMr. Hoang Viet Anh Executive Vice President\n\nTHE BOARD OF MANAGEMENT'S STATEMENT OF RESPONSIBILITY\n\nThe Board of Management of the Company is responsible for preparing the separate financial statements, which give a true and fair view of the financial position of the Company as at 31 December 2020, and its financial performance and its cash flows for the year then ended in accordance with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to financial reporting. In preparing these separate financial statements, the Board of Management is required to:\n\n- Select suitable accounting policies and then apply them consistently;\n\n• Make judgments and estimates that are reasonable and prudent;\n\n- State whether applicable accounting principles have been followed, subject to any material departures disclosed and explained in the separate financial statements;\n\n- Prepare the separate financial statements on the going concern basis unless it is inappropriate to presume that the Company will continue in business; and\n\n- Design and implement an effective internal control system for the purpose of properly preparing and presenting the separate financial statements so as to minimize errors and frauds.\n\n1\n\n250\nVG 1\nVHH\nOIT\nFN\nA-T\n\n\n\nFPT CORPORATION\n\nNo. 17 Duy Tan Street,\n\nDich Vong Hau Ward, Cau Giay District,\n\nHanoi, Vietnam\n\nSTATEMENT OF THE BOARD OF MANAGEMENT (Continued)\n\nThe Board of Management is responsible for ensuring that proper accounting records are kept, which disclose, with reasonable accuracy at any time, the financial position of the Company and that the separate financial statements comply with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to financial reporting. The Board of Management is also responsible for safeguarding the assets of the Company and hence for taking reasonable steps for the prevention and detection of frauds and other irregularities.\n\nThe Board of Management confirms that the Company has complied with the above requirements in preparing these separate financial statements.\n\nFor and on behalf of the Board of Management,\n\nNguyen The Phuong\n\nExecutive Vice President\n\nPower of Attorney No. 63/2019/QD-FPT-TGD dated 29 March 2019\n\nHanoi, 04 March 2021\n\n2\n\n\n\nDeloitte.\n\nDeloitte Vietnam Co., Ltd.\n\n\\(15^{\\text{th}}\\) Floor, Vinaconex Tower,\n\n34 Lang Ha Street, Lang Ha Ward,\n\nDong Da District, Hanoi, Vietnam\n\nTel: +84 24 7105 0000\n\nFax: +84 24 6288 5678\n\nwww.deloitte.com/vn\n\nNo.: 0626 /VN1A-HN-BC\n\nINDEPENDENT AUDITORS' REPORT\n\nTo: The shareholders\n\nThe Boards of Directors and Management\n\nFPT Corporation\n\nWe have audited the accompanying separate financial statements of FPT Corporation (the \"Company\"), prepared on 04 March 2021 as set out from page 05 to page 37, which comprise the balance sheet as at 31 December 2020, the statement of income, and statement of cash flows for the year then ended, and a summary of significant accounting policies and other explanatory information.\n\nManagement's Responsibility for the separate financial statements\n\nManagement is responsible for the preparation and fair presentation of these separate financial statements in accordance with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to financial reporting and for such internal control as management determines is necessary to enable the preparation of separate financial statements that are free from material misstatement, whether due to fraud or error.\n\nAuditors' Responsibility\n\nOur responsibility is to express an opinion on these separate financial statements based on our audit. We conducted our audit in accordance with Vietnamese Standards on Auditing. Those standards require that we comply with ethical requirements and plan and perform the audit to obtain reasonable assurance about whether the separate financial statements are free from material misstatement.\n\nAn audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the separate financial statements. The procedures selected depend on the auditors' judgment, including the assessment of the risks of material misstatement of the separate financial statements, whether due to fraud or error. In making those risk assessments, the auditors consider internal control relevant to the Company's preparation and fair presentation of the separate financial statements in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control. An audit also includes evaluating the appropriateness of accounting policies used and the reasonableness of accounting estimates made by management, as well as evaluating the overall presentation of the separate financial statements.\n\nWe believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinion.\n\nDeloitte refers to one or more of Deloitte Touche Tohmatsu Limited (\"DTTL\"), its global network of member firms, and their related entities. DTTL (also referred to as \"Deloitte Global\") and each of its member firms and their affiliated entities are legally separate and independent entities. DTTL does not provide services to clients. Please see www.deloitte.com/about to learn more.\n\n3\n\n\n\nDeloitte.\n\nINDEPENDENT AUDITORS' REPORT (Continued)\n\nOpinion\n\nIn our opinion, the separate financial statements present fairly, in all material respects, the financial position of the Company as at 31 December 2020, and its financial performance and its cash flows for the year then ended in accordance with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to financial reporting.\n\nTran Thi Thuy Ngoc\n\nDeputy General Director\n\nAudit Practising Registration Certificate\n\nNo. 0031-2018-001-1\n\nPham Tuan Linh\n\nAuditor\n\nAudit Practising Registration Certificate\n\nNo. 3001-2019-001-1\n\nDELOITTE VIETNAM COMPANY LIMITED\n\n04 March 2021\n\nHanoi, S.R. Vietnam\n\n4\n\n\n\nFPT CORPORATION\n\nNo. 17 Duy Tan Street,\n\nDich Vong Hau Ward, Cau Giay District,\n\nHanoi, Vietnam\n\nFORM B 01-DN\n\nIssued under Circular No.200/2014/TT-BTC\n\ndated 22 December 2014 of the Ministry of Finance\n\nBALANCE SHEET\n\nAs at 31 December 2020\n\nUnit: VND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "ASSETS",
+                "2": "Codes",
+                "3": "Notes",
+                "4": "Closing balance",
+                "5": "Opening balance"
+            },
+            {
+                "0": "A.",
+                "1": "CURRENT ASSETS",
+                "2": "100",
+                "3": "",
+                "4": "8198590237083",
+                "5": "4283157223963"
+            },
+            {
+                "0": "I.",
+                "1": "Cash and cash equivalents",
+                "2": "110",
+                "3": "4",
+                "4": "2062744834148",
+                "5": "720832090017"
+            },
+            {
+                "0": "1.",
+                "1": "Cash",
+                "2": "111",
+                "3": "",
+                "4": "151644834148",
+                "5": "334832090017"
+            },
+            {
+                "0": "2.",
+                "1": "Cash equivalents",
+                "2": "112",
+                "3": "",
+                "4": "1911100000000",
+                "5": "386000000000"
+            },
+            {
+                "0": "II.",
+                "1": "Short-term financial investments",
+                "2": "120",
+                "3": "",
+                "4": "4534100000000",
+                "5": "2526500000000"
+            },
+            {
+                "0": "1.",
+                "1": "Held-to-maturity investments",
+                "2": "123",
+                "3": "5",
+                "4": "4534100000000",
+                "5": "2526500000000"
+            },
+            {
+                "0": "III.",
+                "1": "Short-term receivables",
+                "2": "130",
+                "3": "",
+                "4": "1530680636913",
+                "5": "1013646698994"
+            },
+            {
+                "0": "1.",
+                "1": "Short-term trade receivables",
+                "2": "131",
+                "3": "6",
+                "4": "103692219466",
+                "5": "82736052341"
+            },
+            {
+                "0": "2.",
+                "1": "Short-term advances to suppliers",
+                "2": "132",
+                "3": "7",
+                "4": "100494422801",
+                "5": "54744072487"
+            },
+            {
+                "0": "3.",
+                "1": "Short-term loan receivables",
+                "2": "135",
+                "3": "8",
+                "4": "195500000000",
+                "5": "27000000000"
+            },
+            {
+                "0": "4.",
+                "1": "Other short-term receivables",
+                "2": "136",
+                "3": "9",
+                "4": "1139494264022",
+                "5": "860989278890"
+            },
+            {
+                "0": "5.",
+                "1": "Provision for short-term doubtful debts",
+                "2": "137",
+                "3": "",
+                "4": "(8,500,269,376)",
+                "5": "(11,822,704,724)"
+            },
+            {
+                "0": "IV.",
+                "1": "Inventories",
+                "2": "140",
+                "3": "",
+                "4": "8129915288",
+                "5": "37367253"
+            },
+            {
+                "0": "1.",
+                "1": "Inventories",
+                "2": "141",
+                "3": "",
+                "4": "8129915288",
+                "5": "37367253"
+            },
+            {
+                "0": "V.",
+                "1": "Other short-term assets",
+                "2": "150",
+                "3": "",
+                "4": "62934850734",
+                "5": "22141067699"
+            },
+            {
+                "0": "1.",
+                "1": "Short-term prepayments",
+                "2": "151",
+                "3": "",
+                "4": "3370626124",
+                "5": "2119551836"
+            },
+            {
+                "0": "2.",
+                "1": "Value added tax deductibles",
+                "2": "152",
+                "3": "",
+                "4": "59529421982",
+                "5": "19986713235"
+            },
+            {
+                "0": "3.",
+                "1": "Taxes and other receivables from the State budget",
+                "2": "153",
+                "3": "16",
+                "4": "34802628",
+                "5": "34802628"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_3",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "The accompanying notes are an integral part of these separate financial statements\n\n5\n\n\\( \\left| {1 > 1}\\right|  = 0\\frac{1}{2} < \\frac{1}{2}0\\left| {1 > 1}\\right| \\)\n\n\n\nFPT CORPORATION\n\nNo. 17 Duy Tan Street,\n\nDich Vong Hau Ward, Cau Giay District,\n\nHanoi, Vietnam\n\nFORM B 01-DN\n\nIssued under Circular No.200/2014/TT-BTC\n\ndated 22 December 2014 of the Ministry of Finance\n\nBALANCE SHEET (Continued)\n\nAs at 31 December 2020\n\nUnit: VND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "ASSETS",
+                "2": "Codes",
+                "3": "Notes",
+                "4": "Closing balance",
+                "5": "Opening balance"
+            },
+            {
+                "0": "B.",
+                "1": "NON-CURRENT ASSETS",
+                "2": "200",
+                "3": "",
+                "4": "8405582486214",
+                "5": "7022489548928"
+            },
+            {
+                "0": "I.",
+                "1": "Long-term receivables",
+                "2": "210",
+                "3": "",
+                "4": "400000000",
+                "5": "-"
+            },
+            {
+                "0": "1.",
+                "1": "Long-term loans receivable",
+                "2": "215",
+                "3": "8",
+                "4": "400000000",
+                "5": "-"
+            },
+            {
+                "0": "II.",
+                "1": "Fixed assets",
+                "2": "220",
+                "3": "",
+                "4": "340335618970",
+                "5": "146855224517"
+            },
+            {
+                "0": "1.",
+                "1": "Tangible fixed assets",
+                "2": "221",
+                "3": "10",
+                "4": "328421086062",
+                "5": "137675979566"
+            },
+            {
+                "0": "",
+                "1": "- Cost",
+                "2": "222",
+                "3": "",
+                "4": "494420950331",
+                "5": "293931450901"
+            },
+            {
+                "0": "",
+                "1": "- Accumulated depreciation",
+                "2": "223",
+                "3": "",
+                "4": "(165,999,864,269)",
+                "5": "(156,255,471,335)"
+            },
+            {
+                "0": "2.",
+                "1": "Intangible assets",
+                "2": "227",
+                "3": "11",
+                "4": "11914532908",
+                "5": "9179244951"
+            },
+            {
+                "0": "",
+                "1": "- Cost",
+                "2": "228",
+                "3": "",
+                "4": "81059561892",
+                "5": "73932991892"
+            },
+            {
+                "0": "",
+                "1": "- Accumulated amortisation",
+                "2": "229",
+                "3": "",
+                "4": "(69,145,028,984)",
+                "5": "(64,753,746,941)"
+            },
+            {
+                "0": "III.",
+                "1": "Long-term assets in progress",
+                "2": "240",
+                "3": "",
+                "4": "1340743130808",
+                "5": "1050346964578"
+            },
+            {
+                "0": "1.",
+                "1": "Construction in progress",
+                "2": "242",
+                "3": "12",
+                "4": "1340743130808",
+                "5": "1050346964578"
+            },
+            {
+                "0": "IV.",
+                "1": "Long-term financial investments",
+                "2": "250",
+                "3": "",
+                "4": "6722613409012",
+                "5": "5822613409012"
+            },
+            {
+                "0": "1.",
+                "1": "Investments in subsidiaries",
+                "2": "251",
+                "3": "5, 13",
+                "4": "6229613409012",
+                "5": "5329613409012"
+            },
+            {
+                "0": "2.",
+                "1": "Investments in associates",
+                "2": "252",
+                "3": "5, 14",
+                "4": "492500000000",
+                "5": "492500000000"
+            },
+            {
+                "0": "3.",
+                "1": "Equity investments in other entities",
+                "2": "253",
+                "3": "5",
+                "4": "500000000",
+                "5": "500000000"
+            },
+            {
+                "0": "V.",
+                "1": "Other long-term assets",
+                "2": "260",
+                "3": "",
+                "4": "1490327424",
+                "5": "2673950821"
+            },
+            {
+                "0": "1.",
+                "1": "Long-term prepayments",
+                "2": "261",
+                "3": "",
+                "4": "1490327424",
+                "5": "2673950821"
+            },
+            {
+                "0": "",
+                "1": "TOTAL ASSETS (270=100+200)",
+                "2": "270",
+                "3": "",
+                "4": "16604172723297",
+                "5": "11305646772891"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_4",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "The accompanying notes are an integral part of these separate financial statements\n\n6\n\n1151 237 101\n\n\n\nFPT CORPORATION\n\nNo. 17 Duy Tan Street,\n\nDich Vong Hau Ward, Cau Giay District,\n\nHanoi, Vietnam\n\nFORM B 01-DN\n\nIssued under Circular No.200/2014/TT-BTC\n\ndated 22 December 2014 of the Ministry of Finance\n\nBALANCE SHEET (Continued)\n\nAs at 31 December 2020\n\nUnit: VND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "RESOURCES",
+                "2": "Codes",
+                "3": "Notes",
+                "4": "Closing balance",
+                "5": "Opening balance"
+            },
+            {
+                "0": "C.",
+                "1": "LIABILITIES",
+                "2": "300",
+                "3": "",
+                "4": "5498847412441",
+                "5": "1621704112496"
+            },
+            {
+                "0": "I.",
+                "1": "Current liabilities",
+                "2": "310",
+                "3": "",
+                "4": "5249581662441",
+                "5": "1371611362496"
+            },
+            {
+                "0": "1.",
+                "1": "Short-term trade payables",
+                "2": "311",
+                "3": "15",
+                "4": "473313612285",
+                "5": "284069594062"
+            },
+            {
+                "0": "2.",
+                "1": "Short-term advances from customers",
+                "2": "312",
+                "3": "",
+                "4": "365063567",
+                "5": "415359606"
+            },
+            {
+                "0": "3.",
+                "1": "Taxes and amounts payable to the State budget",
+                "2": "313",
+                "3": "16",
+                "4": "4357222239",
+                "5": "1016234712"
+            },
+            {
+                "0": "4.",
+                "1": "Payables to employees",
+                "2": "314",
+                "3": "",
+                "4": "30968596336",
+                "5": "6616863"
+            },
+            {
+                "0": "5.",
+                "1": "Short-term accrued expenses",
+                "2": "315",
+                "3": "17",
+                "4": "39671569536",
+                "5": "48517203398"
+            },
+            {
+                "0": "6.",
+                "1": "Short-term unearned revenue",
+                "2": "318",
+                "3": "",
+                "4": "3847703821",
+                "5": "1037282677"
+            },
+            {
+                "0": "7.",
+                "1": "Other current payables",
+                "2": "319",
+                "3": "18",
+                "4": "269620587064",
+                "5": "354500401876"
+            },
+            {
+                "0": "8.",
+                "1": "Short-term loans",
+                "2": "320",
+                "3": "20",
+                "4": "4295030000000",
+                "5": "597000000000"
+            },
+            {
+                "0": "9.",
+                "1": "Short-term provisions",
+                "2": "321",
+                "3": "",
+                "4": "10189080000",
+                "5": "20368500000"
+            },
+            {
+                "0": "10.",
+                "1": "Bonus and welfare funds",
+                "2": "322",
+                "3": "",
+                "4": "122218227593",
+                "5": "64680169302"
+            },
+            {
+                "0": "II.",
+                "1": "Long-term liabilities",
+                "2": "330",
+                "3": "",
+                "4": "249265750000",
+                "5": "250092750000"
+            },
+            {
+                "0": "1.",
+                "1": "Long-term unearned revenue",
+                "2": "336",
+                "3": "19",
+                "4": "249265750000",
+                "5": "250092750000"
+            },
+            {
+                "0": "D.",
+                "1": "EQUITY",
+                "2": "400",
+                "3": "",
+                "4": "11105325310856",
+                "5": "9683942660395"
+            },
+            {
+                "0": "I.",
+                "1": "Owners' equity",
+                "2": "410",
+                "3": "21",
+                "4": "11105325310856",
+                "5": "9683942660395"
+            },
+            {
+                "0": "1.",
+                "1": "Owners' contributed capital",
+                "2": "411",
+                "3": "",
+                "4": "7839874860000",
+                "5": "6783586880000"
+            },
+            {
+                "0": "",
+                "1": "- Ordinary shares carrying voting rights",
+                "2": "411a",
+                "3": "",
+                "4": "7839874860000",
+                "5": "6783586880000"
+            },
+            {
+                "0": "2.",
+                "1": "Share premium",
+                "2": "412",
+                "3": "",
+                "4": "49941441360",
+                "5": "49941441360"
+            },
+            {
+                "0": "3.",
+                "1": "Treasury shares",
+                "2": "415",
+                "3": "",
+                "4": "(823,760,000)",
+                "5": "(823,760,000)"
+            },
+            {
+                "0": "4.",
+                "1": "Investment and development fund",
+                "2": "418",
+                "3": "",
+                "4": "103009261",
+                "5": "103009261"
+            },
+            {
+                "0": "5.",
+                "1": "Other reserves",
+                "2": "420",
+                "3": "",
+                "4": "87203093024",
+                "5": "87203093024"
+            },
+            {
+                "0": "6.",
+                "1": "Retained earnings",
+                "2": "421",
+                "3": "",
+                "4": "3129026667211",
+                "5": "2763931996750"
+            },
+            {
+                "0": "",
+                "1": "- Retained earnings accumulated to the prior year end",
+                "2": "421a",
+                "3": "",
+                "4": "1028610004465",
+                "5": "1527643010297"
+            },
+            {
+                "0": "",
+                "1": "- Retained earnings of the current year",
+                "2": "421b",
+                "3": "",
+                "4": "2100416662746",
+                "5": "1236288986453"
+            },
+            {
+                "0": "",
+                "1": "TOTAL RESOURCES (440=300+400)",
+                "2": "440",
+                "3": "",
+                "4": "16604172723297",
+                "5": "11305646772891"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_5",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "Nguyen Trong Nhan\nPreparer\n\nChief Accountant\n\nExecutive Vice President\n\n04 March 2021\n\nThe accompanying notes are an integral part of these separate financial statements\n\n7\n\n\n\nFPT CORPORATION\n\nNo. 17 Duy Tan Street,\n\nDich Vong Hau Ward, Cau Giay District,\n\nHanoi, Vietnam\n\nFORM B 02-DN\n\nIssued under Circular No.200/2014/TT-BTC\n\ndated 22 December 2014 of the Ministry of Finance\n\nINCOME STATEMENT\n\nFor the year ended 31 December 2020\n\nUnit: VND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "ITEMS",
+                "2": "Codes",
+                "3": "Notes",
+                "4": "Current year",
+                "5": "Prior year"
+            },
+            {
+                "0": 1.0,
+                "1": "Gross revenue from services rendered",
+                "2": "01",
+                "3": "22",
+                "4": "291964092178",
+                "5": "287216908624"
+            },
+            {
+                "0": 2.0,
+                "1": "Deductions",
+                "2": "02",
+                "3": "22",
+                "4": "-",
+                "5": "11915344"
+            },
+            {
+                "0": 3.0,
+                "1": "Net revenue from services rendered (10=01-02)",
+                "2": "10",
+                "3": "22",
+                "4": "291964092178",
+                "5": "287204993280"
+            },
+            {
+                "0": 4.0,
+                "1": "Cost of sales from services rendered",
+                "2": "11",
+                "3": "23",
+                "4": "70845327323",
+                "5": "94889359725"
+            },
+            {
+                "0": 5.0,
+                "1": "Gross profit from services rendered (20=10-11)",
+                "2": "20",
+                "3": "",
+                "4": "221118764855",
+                "5": "192315633555"
+            },
+            {
+                "0": 6.0,
+                "1": "Financial income",
+                "2": "21",
+                "3": "25",
+                "4": "3189254995222",
+                "5": "2107370302786"
+            },
+            {
+                "0": 7.0,
+                "1": "Financial expenses",
+                "2": "22",
+                "3": "26",
+                "4": "139062950468",
+                "5": "51489613035"
+            },
+            {
+                "0": "",
+                "1": "-In which: Interest expense",
+                "2": "23",
+                "3": "",
+                "4": "138911372017",
+                "5": "51462109416"
+            },
+            {
+                "0": 8.0,
+                "1": "Selling expenses",
+                "2": "25",
+                "3": "",
+                "4": "4380835730",
+                "5": "3174519314"
+            },
+            {
+                "0": 9.0,
+                "1": "General and administration expenses",
+                "2": "26",
+                "3": "27",
+                "4": "373815162930",
+                "5": "311955905169"
+            },
+            {
+                "0": 10.0,
+                "1": "Operating profit(30=20+(21-22)-(25+26))",
+                "2": "30",
+                "3": "",
+                "4": "2893114810949",
+                "5": "1933065898823"
+            },
+            {
+                "0": 11.0,
+                "1": "Other income",
+                "2": "31",
+                "3": "",
+                "4": "339058283",
+                "5": "1965907629"
+            },
+            {
+                "0": 12.0,
+                "1": "Other expenses",
+                "2": "32",
+                "3": "",
+                "4": "323922416",
+                "5": "8258078455"
+            },
+            {
+                "0": 13.0,
+                "1": "Profit/(loss) from other activities(40=31-32)",
+                "2": "40",
+                "3": "",
+                "4": "15135867",
+                "5": "(6,292,170,826)"
+            },
+            {
+                "0": 14.0,
+                "1": "Accounting profit before tax(50=30+40)",
+                "2": "50",
+                "3": "",
+                "4": "2893129946816",
+                "5": "1926773727997"
+            },
+            {
+                "0": 15.0,
+                "1": "Current corporate income tax expense",
+                "2": "51",
+                "3": "28",
+                "4": "8808174070",
+                "5": "12208429544"
+            },
+            {
+                "0": 16.0,
+                "1": "Net profit after corporate income tax(60=50-51)",
+                "2": "60",
+                "3": "",
+                "4": "2884321772746",
+                "5": "1914565298453"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_6",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "Nguyen Trong Nhan\nPreparer\n\nHoang Huu Chien\nChief Accountant\n\nNguyen The Phuong\nExecutive Vice President\n\n04 March 2021\n\nThe accompanying notes are an integral part of these separate financial statements\n\n8\n\n\n\nFPT CORPORATION\n\nNo. 17 Duy Tan Street,\n\nDich Vong Hau Ward, Cau Giay District,\n\nHanoi, Vietnam\n\nFORM B 03-DN\n\nIssued under Circular No.200/2014/TT-BTC\n\ndated 22 December 2014 of the Ministry of Finance\n\nCASH FLOW STATEMENT\n\nFor the year ended 31 December 2020\n\nUnit: VND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "ITEMS",
+                "2": "Codes",
+                "3": "Current year",
+                "4": "Prior year"
+            },
+            {
+                "0": "I.",
+                "1": "CASH FLOWS FROM OPERATING ACTIVITIES",
+                "2": "CASH FLOWS FROM OPERATING ACTIVITIES",
+                "3": "CASH FLOWS FROM OPERATING ACTIVITIES",
+                "4": "CASH FLOWS FROM OPERATING ACTIVITIES"
+            },
+            {
+                "0": "1.",
+                "1": "Profit before tax",
+                "2": "01",
+                "3": "2893129946816",
+                "4": "1926773727997"
+            },
+            {
+                "0": "2.",
+                "1": "Adjustments for:",
+                "2": "Adjustments for:",
+                "3": "Adjustments for:",
+                "4": "Adjustments for:"
+            },
+            {
+                "0": "2.",
+                "1": "Depreciation and amortisation of fixed assets",
+                "2": "02",
+                "3": "21262963030",
+                "4": "19964873678"
+            },
+            {
+                "0": "2.",
+                "1": "Provisions",
+                "2": "03",
+                "3": "(13,501,855,348)",
+                "4": "7011204724"
+            },
+            {
+                "0": "2.",
+                "1": "Foreign exchange losses arising from translating foreign currency items",
+                "2": "04",
+                "3": "944683303",
+                "4": "823406129"
+            },
+            {
+                "0": "2.",
+                "1": "(Gain) from investing activities",
+                "2": "05",
+                "3": "(3,187,425,347,830)",
+                "4": "(2,100,548,849,731)"
+            },
+            {
+                "0": "2.",
+                "1": "Interest expense",
+                "2": "06",
+                "3": "138911372017",
+                "4": "51462109416"
+            },
+            {
+                "0": "3.",
+                "1": "Operating losses before movements in working capital",
+                "2": "08",
+                "3": "(146,678,238,012)",
+                "4": "(94,513,527,787)"
+            },
+            {
+                "0": "3.",
+                "1": "(Increase)/decrease in receivables",
+                "2": "09",
+                "3": "(57,276,007,688)",
+                "4": "169078665699"
+            },
+            {
+                "0": "3.",
+                "1": "(Increase)/decrease in inventories",
+                "2": "10",
+                "3": "(8,092,548,035)",
+                "4": "143780000"
+            },
+            {
+                "0": "3.",
+                "1": "Increases in payables (excluding accrued loan interest and corporate income tax payable)",
+                "2": "11",
+                "3": "70737025368",
+                "4": "441004502508"
+            },
+            {
+                "0": "3.",
+                "1": "(Increase)/decrease in prepaid expenses",
+                "2": "12",
+                "3": "(67,450,891)",
+                "4": "6171796818"
+            },
+            {
+                "0": "3.",
+                "1": "Interest paid",
+                "2": "14",
+                "3": "(115,112,989,462)",
+                "4": "(45,972,542,507)"
+            },
+            {
+                "0": "3.",
+                "1": "Corporate income tax paid",
+                "2": "15",
+                "3": "(5,000,000,001)",
+                "4": "(16,457,758,065)"
+            },
+            {
+                "0": "3.",
+                "1": "Other cash inflows",
+                "2": "16",
+                "3": "99000000000",
+                "4": "74204050000"
+            },
+            {
+                "0": "3.",
+                "1": "Other cash outflows",
+                "2": "17",
+                "3": "(41,461,941,709)",
+                "4": "(38,073,829,999)"
+            },
+            {
+                "0": "3.",
+                "1": "Net cash (used in)/generated by operating activities",
+                "2": "20",
+                "3": "(203,952,150,430)",
+                "4": "495585136667"
+            },
+            {
+                "0": "II.",
+                "1": "CASH FLOWS FROM INVESTING ACTIVITIES",
+                "2": "CASH FLOWS FROM INVESTING ACTIVITIES",
+                "3": "CASH FLOWS FROM INVESTING ACTIVITIES",
+                "4": "CASH FLOWS FROM INVESTING ACTIVITIES"
+            },
+            {
+                "0": "1.",
+                "1": "Acquisition and construction of fixed assets and other long-term assets",
+                "2": "21",
+                "3": "(505,388,867,077)",
+                "4": "(349,033,283,112)"
+            },
+            {
+                "0": "2.",
+                "1": "Proceeds from sale, disposal of fixed assets and other long-term assets",
+                "2": "22",
+                "3": "335860063",
+                "4": "1764181818"
+            },
+            {
+                "0": "3.",
+                "1": "Cash outflow for lending, buying debt instruments of other entities",
+                "2": "23",
+                "3": "(8,574,100,000,000)",
+                "4": "(5,547,200,000,000)"
+            },
+            {
+                "0": "4.",
+                "1": "Cash recovered from lending, selling debt instruments of other entities",
+                "2": "24",
+                "3": "6397600000000",
+                "4": "4785200000000"
+            },
+            {
+                "0": "5.",
+                "1": "Equity investments in other entities",
+                "2": "25",
+                "3": "(900,000,000,000)",
+                "4": "(550,000,000,000)"
+            },
+            {
+                "0": "6.",
+                "1": "Cash recovered from investments in other entities",
+                "2": "26",
+                "3": "-",
+                "4": "90606000000"
+            },
+            {
+                "0": "7.",
+                "1": "Interest earned, dividends and profits received",
+                "2": "27",
+                "3": "2859860627501",
+                "4": "1961344758181"
+            },
+            {
+                "0": "7.",
+                "1": "Net cash generated by investing activities",
+                "2": "30",
+                "3": "(721,692,379,513)",
+                "4": "392681656887"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_7",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "The accompanying notes are an integral part of these separate financial statements\n\n9\n\n.001\nCÔT\nDEL\nVIÊ\nVGÊ\n\n\n\nFPT CORPORATION\n\nNo. 17 Duy Tan Street,\n\nDich Vong Hau Ward, Cau Giay District,\n\nHanoi, Vietnam\n\nFORM B 03-DN\n\nIssued under Circular No.200/2014/TT-BTC\n\ndated 22 December 2014 of the Ministry of Finance\n\nCASH FLOW STATEMENT (Continued)\n\nFor the year ended 31 December 2020\n\nUnit: VND",
+        "dataframe": [
+            {
+                "0": "ITEMS",
+                "1": "Codes",
+                "2": "Current year",
+                "3": "Prior year"
+            },
+            {
+                "0": "III. CASH FLOWS FROM FINANCING ACTIVITIES",
+                "1": "III. CASH FLOWS FROM FINANCING ACTIVITIES",
+                "2": "III. CASH FLOWS FROM FINANCING ACTIVITIES",
+                "3": "III. CASH FLOWS FROM FINANCING ACTIVITIES"
+            },
+            {
+                "0": "1. Proceeds from share issue and owners' contributed capital",
+                "1": "31",
+                "2": "33917900000",
+                "3": "30672000000"
+            },
+            {
+                "0": "2. Proceeds from borrowings",
+                "1": "33",
+                "2": "10657030000000",
+                "3": "2689000000000"
+            },
+            {
+                "0": "3. Repayment of borrowings",
+                "1": "34",
+                "2": "(6,959,000,000,000)",
+                "3": "(2,622,000,000,000)"
+            },
+            {
+                "0": "4. Dividends and profits paid",
+                "1": "36",
+                "2": "(1,464,543,679,775)",
+                "3": "(1,294,140,941,400)"
+            },
+            {
+                "0": "Net cash generated by/(used in) financing activities",
+                "1": "40",
+                "2": "2267404220225",
+                "3": "(1,196,468,941,400)"
+            },
+            {
+                "0": "Net increase/(decrease) in cash (50=20+30+40)",
+                "1": "50",
+                "2": "1341759690282",
+                "3": "(308,202,147,846)"
+            },
+            {
+                "0": "Cash and cash equivalents at the beginning of the year",
+                "1": "60",
+                "2": "720832090017",
+                "3": "1028875665356"
+            },
+            {
+                "0": "Effects of changes in foreign exchange rates",
+                "1": "61",
+                "2": "153053849",
+                "3": "158572507"
+            },
+            {
+                "0": "Cash and cash equivalents at the end of the year (70=50+60+61)",
+                "1": "70",
+                "2": "2062744834148",
+                "3": "720832090017"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_8",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "04 March 2021\n\nThe accompanying notes are an integral part of these separate financial statements\n\n10\n\n121 7050 181\n\n\n\nFPT CORPORATION\n\nNo. 17 Duy Tan Street,\n\nDich Vong Hau Ward, Cau Giay District,\n\nHanoi, Vietnam\n\nFORM B 09-DN\n\nIssued under Circular No.200/2014/TT-BTC\n\ndated 22 December 2014 of the Ministry of Finance\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS\n\nThese notes are an integral part of and should be read in conjunction with the accompanying separate financial statements\n\n1. GENERAL INFORMATION\n\nStructure of ownership\n\nFPT Corporation (the \"Company\") was incorporated as a State-owned company in Vietnam and subsequently equitised in accordance with Decision No. 178/QD-TTg, following which the Company officially operated as a joint stock company. FPT Corporation operates under Business Registration Certificate No. 0103001041 issued for the first time by Hanoi Authority for Planning and Investment dated 13 May 2002 and its amendments.\n\nAccording to the latest amended Business Registration Certificate dated 04 June 2020, the Company's total charter capital is VND 7,839,874,860,000.\n\nSince December 2006, the Company's shares have been listed on Ho Chi Minh City Stock Exchange.\n\nThe number of employees of the Company as at 31 December 2020 was 243 (31 December 2019: 216).\n\nOperating industry and principal activities\n\nThe principal activities of the Company are to provide information technology and telecommunication products and services and to make investments. The main products and services provided are system integration; software production and software service provision; IT services, ERP services; Technological product manufacturing; IT product distribution; mobile phone distribution; software solution services; telecommunication and internet services; training; warranty and maintenance of telecommunication and IT equipment and other telecommunication services.\n\nNormal production and business cycle\n\nThe Company's normal production and business cycle is carried out for a time period of 12 months or less.\n\nThe Corporation's structure:\n\nAs at 31 December 2020, FPT Corporation had 01 branch including Branch in Ho Chi Minh City - FPT Corporation (Hanoi City), 7 subsidiaries and 2 associates.\n\nSubsidiaries of the Company including:\n\n• FPT Information System Corporation;\n\n• FPT Telecom Joint Stock Company;\n\n• FPT Software Company Limited;\n\n• FPT Education Company Limited;\n\n• FPT Online Service Joint Stock Company;\n\n• FPT Investment Company Limited; and\n\n• FPT Smart Cloud Company Limited.\n\n11\n\n||| ≥ 3 > /8 ||\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\nAssociates of the Company including:\n\n• FPT Digital Retail Joint Stock Company; and\n\n• Synnex FPT Joint Stock Company.\n\nDisclosure of information comparability in the separate financial statements\n\nComparative figures are the figures of the audited separate financial statements for the year ended 31 December 2019.\n\n2. ACCOUNTING CONVENTION AND FINANCIAL YEAR\n\nAccounting convention\n\nThe accompanying separate financial statements, expressed in Vietnam Dong (VND), are prepared under the historical cost convention and in accordance with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to financial reporting.\n\nThe accompanying separate financial statements are not intended to present the financial position, results of operations and cash flows in accordance with accounting principles and practices generally accepted in countries and jurisdictions other than Vietnam.\n\nThese separate financial statements are prepared exclusively for the Company and do not include financial statements of subsidiaries. Users of separate financial statements should read together with the Company's consolidated financial statements for the year ended 31 December 2020 for complete information on the Company's financial position as well as operating results and cash flows during the year.\n\nFinancial year\n\nThe Company's financial year begins on 01 January and ends on 31 December.\n\n3. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES\n\nThe significant accounting policies, which have been adopted by the Company in the preparation of these separate financial statements, are as follows:\n\nEstimates\n\nThe preparation of the separate financial statements in conformity with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to financial reporting requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities and disclosures of contingent assets and liabilities at the date of the separate financial statements and the reported amounts of revenues and expenses during the financial year. Although these accounting estimates are based on the management's best knowledge, actual results may differ from those estimates.\n\n12\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\nCash and cash equivalents\n\nCash and cash equivalents comprise cash on hand, demand deposits and short-term, highly liquid investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value.\n\nFinancial investments\n\nHeld-to-maturity investments\n\nHeld-to-maturity investments comprise investments that the Company has the positive intent or ability to hold to maturity, including term deposits.\n\nHeld-to-maturity investments are recognised on a trade date basis and are initially measured at acquisition price plus directly attributable transaction costs. Post-acquisition interest income from held-to-maturity investments is recognised in the income statement on accrual basis. Pre-acquisition interest is deducted from the cost of such investments at the acquisition date.\n\nHeld-to-maturity investments are measured at cost less provision for doubtful debts.\n\nProvision for doubtful debts relating to held-to-maturity investments is made in accordance with prevailing accounting regulations.\n\nLoan receivables\n\nLoan receivables are measured at cost less provision for doubtful debts. Provision for doubtful debts relating to loan receivables is made in accordance with prevailing accounting regulations.\n\nInvestments\n\nInvestment in subsidiaries\n\nA subsidiary is an entity over which the Company has control. Control is achieved where the Company has the power to govern the financial and operating policies of an investee enterprise so as to obtain benefits from its activities.\n\nInvestments in associates\n\nAn associate is an entity over which the Company has significant influence and that is neither a subsidiary nor an interest in joint venture. Significant influence is the power to participate in the financial and operating policy decisions of the investee but not control or joint control over those policies.\n\nInvestment in subsidiaries, associates are initially recognised at cost. The Company's share of the net profit of the investee after acquisition is recognised in the income statement. Other distributions received other than such profit share are deducted from the cost of the investments as recoverable amounts.\n\n13\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\nInterests in subsidiaries, associates are carried in the balance sheet at cost less provision for impairment of such investments (if any). Provisions for impairment of investments in subsidiaries, joint ventures and associates are made when there is reliable evidence for declining in value of these investments at the balance sheet date.\n\nEquity investments in other entities\n\nEquity investments in other entities represent the Company's investments in ordinary shares of the entities over which the Company has no control, joint control, or significant influence.\n\nEquity investments in other entities are carried at cost less provision for impairment.\n\nReceivables\n\nReceivables represent the amounts recoverable from customers or other debtors and are stated at book value less provision for doubtful debts.\n\nProvision for doubtful debts is made for receivables that are overdue for six months or more, or when the debtor is in dissolution, in bankruptcy, or is experiencing similar difficulties and so may be unable to repay the debt.\n\nInventories\n\nInventory recording method is the perpetual method. Inventories are stated at the lower of cost and net realizable value. Cost comprises cost of purchases and other directly attributable expenses. Cost of inventories is calculated using the first in, first out (FIFO) method. Net realizable value represents the estimated selling price less all estimated costs to completion and costs to be incurred in marketing, selling and distribution.\n\nThe evaluation of necessary provision for inventory obsolescence follows current prevailing accounting regulations, which allow provisions to be made for obsolete, damaged, or sub-standard inventories and for those which have costs higher than net realizable values as at the balance sheet date.\n\nTangible fixed assets and depreciation\n\nTangible fixed assets are stated at cost less accumulated depreciation.\n\nThe costs of purchased tangible fixed assets comprise their purchase prices and any directly attributable costs of bringing the assets to their working condition and location for their intended use.\n\nThe costs of self-constructed or manufactured assets are the actual construction or manufacturing cost plus installation and test running costs.\n\nTangible fixed assets are depreciated using the straight-line method over their estimated useful lives as follows:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Years"
+            },
+            {
+                "0": "Buildings and structures",
+                "1": "10 - 25"
+            },
+            {
+                "0": "Machinery and equipment",
+                "1": "5 - 25"
+            },
+            {
+                "0": "Office equipment",
+                "1": "3 - 5"
+            },
+            {
+                "0": "Motor vehicles",
+                "1": "4 - 6"
+            },
+            {
+                "0": "Other assets",
+                "1": "3 - 4"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_9",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "14\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\nLoss or gain resulting from sales and disposals of tangible fixed assets is the difference between profit from sales or disposals of assets and their residual values and is recognised in the interim income statement.\n\nIntangible assets and amortisation\n\nIntangible asset represents computer software that is stated at cost less amortization. Purchase price of new computer software which is not an integral part of related hardware is capitalized and accounted for as intangible assets. Computer software is amortised into the income statement on a straight-line basis from 3 to 5 years.\n\nConstruction in progress\n\nProperties in the course of construction for production, rental or administrative purposes, or for other purposes, are carried at cost. Cost includes related professional fees, borrowing costs in accordance with the Company's accounting policy. Depreciation of these assets, on the same basis as other assets, commences when the assets are ready for their intended use.\n\nPrepayments\n\nPrepayments are expenses which have already been paid but relate to results of operations of multiple accounting periods.\n\nPrepaid expenses include the value of tools, supplies, small equipment, and office renovation costs that expected to provide future economic benefits to the Company. These expenses are capitalized as prepayments and are allocated to the income statement using the straight-line method in accordance with the current prevailing accounting regulations.\n\nRevenue recognition\n\nRevenue from rendering of services\n\nRevenue of a transaction involving the rendering of services is recognised when the outcome of such transaction can be measured reliably. Where a transaction involving the rendering of services is attributable to several periods, revenue is recognised in each period by reference to the percentage of completion of the transaction at the balance sheet date of that period. The outcome of a transaction can be measured reliably when all four (4) following conditions are satisfied:\n\n(a) the amount of revenue can be measured reliably;\n\n(b) it is probable that the economic benefits associated with the transaction will flow to the Company;\n\n(c) the percentage of completion of the transaction at the balance sheet date can be measured reliably; and\n\n(d) the costs incurred for the transaction and the costs to complete the transaction can be measured reliably.\n\nInterest income\n\nInterest income is accrued on a time basis, by reference to the principal outstanding and at the applicable interest rate.\n\n15\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\nDividend income\n\nDividend income from investments is recognised when the Company's right to receive payment has been established.\n\nForeign currencies\n\nTransactions arising in foreign currencies are translated at exchange rates ruling at the transaction date. The balances of monetary items denominated in foreign currencies as at the balance sheet date are retranslated at the exchange rates on the same date. Exchange differences arising from the translation of these accounts are recognised in the income statement.\n\nBorrowing costs\n\nBorrowing costs are recognised in the income statement in the year.\n\nRelated parties\n\nRelated parties comprise subsidiaries, associates and key management personnel of the Company.\n\nTaxation\n\nIncome tax expense represents the sum of the tax currently payable and deferred tax.\n\nThe tax currently payable is based on taxable profit for the year. Taxable profit differs from profit before tax as reported in the income statement because it excludes items of income or expense that are taxable or deductible in other years (including loss carried forward, if any) and it further excludes items that are never taxable or deductible.\n\nDeferred tax is recognised on significant differences between carrying amounts of assets and liabilities in the separate financial statements and the corresponding tax bases used in the computation of taxable profit and is accounted for using balance sheet liability method. Deferred tax liabilities are generally recognised for all temporary differences and deferred tax assets are recognised to the extent that it is probable that taxable profit will be available against which deductible temporary differences can be utilised.\n\nDeferred tax is calculated at the tax rates that are expected to apply in the year when the liability is settled or the asset realised. Deferred tax is charged or credited to profit or loss, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with in equity.\n\nDeferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets against current tax liabilities and when they relate to income taxes levied by the same tax authority and the Company intends to settle its current tax assets and liabilities on a net basis.\n\nThe determination of the tax currently payable is based on the current interpretation of tax regulations. However, these regulations are subject to periodic variation and their ultimate determination depends on the results of the tax authorities' examinations.\n\nOther taxes are paid in accordance with the prevailing tax laws in Vietnam.\n\n16\n\n“”\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\n4. CASH AND CASH EQUIVALENTS",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Closing balance",
+                "2": "Opening balance"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Cash on hand",
+                "1": "144246940",
+                "2": "523074013"
+            },
+            {
+                "0": "Bank demand deposits",
+                "1": "151500587208",
+                "2": "334309016004"
+            },
+            {
+                "0": "Cash equivalents (i)",
+                "1": "1911100000000",
+                "2": "386000000000"
+            },
+            {
+                "0": "",
+                "1": "2062744834148",
+                "2": "720832090017"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_10",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "(i) Cash equivalents represent time deposits at banks with original terms of three months or less.\n\n5. FINANCIAL INVESTMENTS\n\na. Held-to-maturity investments",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Closing balance",
+                "2": "Closing balance",
+                "3": "Opening balance",
+                "4": "Opening balance"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "",
+                "1": "Cost",
+                "2": "Carrying amount",
+                "3": "Cost",
+                "4": "Carrying amount"
+            },
+            {
+                "0": "Term deposits (i)",
+                "1": "4534100000000",
+                "2": "4534100000000",
+                "3": "2526500000000",
+                "4": "2526500000000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_11",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "(i) Term deposits represent bank deposits with an original term of more than 3 months and the remaining maturity not exceeding 12 months.\n\n17\n\n125\nNG\nNHI\nOI\nTN\nPA-\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\nb. Long-term investments",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Closing balance",
+                "2": "Closing balance",
+                "3": "Closing balance",
+                "4": "Opening balance",
+                "5": "Opening balance"
+            },
+            {
+                "0": "",
+                "1": "Cost",
+                "2": "Fair value",
+                "3": "VND Note",
+                "4": "Cost",
+                "5": "VND Fair value"
+            },
+            {
+                "0": "b1) Investments in subsidiaries",
+                "1": "6229613409012",
+                "2": "15302240988317",
+                "3": "",
+                "4": "5329613409012",
+                "5": "11828246911595"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "850000000000",
+                "2": "1374337963283",
+                "3": "(i)",
+                "4": "850000000000",
+                "5": "1271323740373"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "800000000000",
+                "2": "1058195532749",
+                "3": "(i)",
+                "4": "800000000000",
+                "5": "909072750414"
+            },
+            {
+                "0": "FPT Education Company Limited (*)",
+                "1": "1000000000000",
+                "2": "1431741260414",
+                "3": "(i)",
+                "4": "600000000000",
+                "5": "876363953331"
+            },
+            {
+                "0": "FPT Software Company Limited (*)",
+                "1": "2812073500000",
+                "2": "3880399379399",
+                "3": "(i)",
+                "4": "2412073500000",
+                "5": "3365656284576"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "585592515312",
+                "2": "7008173680200",
+                "3": "(ii)",
+                "4": "585592515312",
+                "5": "4962845430900"
+            },
+            {
+                "0": "FPT Smart Cloud Company Limited (*)",
+                "1": "100000000000",
+                "2": "86192846272",
+                "3": "(i)",
+                "4": "-",
+                "5": "-"
+            },
+            {
+                "0": "FPT Online Service Joint Stock Company",
+                "1": "81947393700",
+                "2": "463200326000",
+                "3": "(ii)",
+                "4": "81947393700",
+                "5": "442984752000"
+            },
+            {
+                "0": "b2) Investment in associates",
+                "1": "492500000000",
+                "2": "2127471020610",
+                "3": "",
+                "4": "492500000000",
+                "5": "1710424837234"
+            },
+            {
+                "0": "Synnex FPT Joint Stock Company",
+                "1": "398500000000",
+                "2": "951343020610",
+                "3": "(i)",
+                "4": "398500000000",
+                "5": "936753137234"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "94000000000",
+                "2": "1176128000000",
+                "3": "(ii)",
+                "4": "94000000000",
+                "5": "773671700000"
+            },
+            {
+                "0": "b3) Equity investments in others entities",
+                "1": "500000000",
+                "2": "500000000",
+                "3": "",
+                "4": "500000000",
+                "5": "500000000"
+            },
+            {
+                "0": "Ring road No.4 construction project",
+                "1": "500000000",
+                "2": "500000000",
+                "3": "(i)",
+                "4": "500000000",
+                "5": "500000000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_12",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "(*) During the year, the Company contributed capital in cash to FPT Education Company Limited, FPT Software Company Limited and FPT Smart Cloud Company Limited with the value of VND 400 billion, VND 400 billion and VND 100 billion respectively.\n\nIn accordance with Circular No. 200/2014/TT-BTC dated 22 December 2014, the fair value of investments in subsidiaries, associates and equity investments in other entities as at 31 December 2020 should be presented. According to assessment of the Board of Management, the fair value of the investments presented above is determined as follows:\n\n(i) The minimum value that can be achieved based on book value or corresponding valuations according to market prices of these investments at the end of the financial year.\n\n(ii) Fair value that is determined based on the closing price on the stock exchange and the number of shares held by the Company at the end of the financial year.\n\n18\n\n\\( \\left\\| \\begin{array}{c} I_{PH} \\\\ AM \\\\ TE \\\\ TY \\\\ CO \\end{array} \\right\\| \\)\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\nCurrent year\n\nPrior year\n\nb4) The performance of subsidiaries during the year:",
+        "dataframe": [
+            {
+                "0": "FPT Information System Corporation",
+                "1": "Profitable operation",
+                "2": "Profitable operation"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "Profitable operation",
+                "2": "Profitable operation"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "Profitable operation",
+                "2": "Profitable operation"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "Profitable operation",
+                "2": "Profitable operation"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "Profitable operation",
+                "2": "Profitable operation"
+            },
+            {
+                "0": "FPT Online Service Joint Stock Company",
+                "1": "Profitable operation",
+                "2": "Profitable operation"
+            },
+            {
+                "0": "FPT Smart Cloud Company Limited",
+                "1": "Loss operation",
+                "2": "Not yet established"
+            },
+            {
+                "0": "Synnex FPT Joint Stock Company",
+                "1": "Profitable operation",
+                "2": "Profitable operation"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "Profitable operation",
+                "2": "Profitable operation"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_13",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "Internal transactions between the Company and its subsidiaries and associates during the year are stated in Note 29.\n\n6. SHORT-TERM TRADE RECEIVABLES",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Closing balance",
+                "2": "Opening balance"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Berjaya Gia Thinh Investment Technology Joint Stock Company",
+                "1": "47124798719",
+                "2": "44947786921"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "18612653037",
+                "2": "14274687281"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "16827370007",
+                "2": "15366524127"
+            },
+            {
+                "0": "Others",
+                "1": "21127397703",
+                "2": "8147054012"
+            },
+            {
+                "0": "",
+                "1": "103692219466",
+                "2": "82736052341"
+            },
+            {
+                "0": "Short-term receivables from related parties (Details stated in Note 29)",
+                "1": "54450485945",
+                "2": "35877180676"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Phu Thai Industries Company Limited",
+                "1": "26720495049",
+                "2": "-"
+            },
+            {
+                "0": "319 Corporation - Ministry of National Defence",
+                "1": "17717894750",
+                "2": "28722375000"
+            },
+            {
+                "0": "Vietnam Installation Construction and Refrigeratory Joint Stock Company",
+                "1": "10208505200",
+                "2": "-"
+            },
+            {
+                "0": "TID Facade Joint Stock Company",
+                "1": "2932903201",
+                "2": "9744768686"
+            },
+            {
+                "0": "Vietnam Investment Construction and Trading Joint Stock Company",
+                "1": "-",
+                "2": "14533886940"
+            },
+            {
+                "0": "Other suppliers",
+                "1": "42914624601",
+                "2": "1743041861"
+            },
+            {
+                "0": "",
+                "1": "100494422801",
+                "2": "54744072487"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_14",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "19\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\n8. LOAN RECEIVABLES",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Closing balance",
+                "2": "Opening balance"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "a. Short-term loan receivables",
+                "1": "a. Short-term loan receivables",
+                "2": "a. Short-term loan receivables"
+            },
+            {
+                "0": "FPT Invest Company Limited",
+                "1": "185000000000",
+                "2": "-"
+            },
+            {
+                "0": "FPT Technology Solutions Company Limited",
+                "1": "-",
+                "2": "17500000000"
+            },
+            {
+                "0": "FPT Land Company Limited",
+                "1": "10500000000",
+                "2": "9500000000"
+            },
+            {
+                "0": "",
+                "1": "195500000000",
+                "2": "27000000000"
+            },
+            {
+                "0": "b. Long-term loan receivables",
+                "1": "b. Long-term loan receivables",
+                "2": "b. Long-term loan receivables"
+            },
+            {
+                "0": "FPT Land Company Limited",
+                "1": "400000000",
+                "2": "-"
+            },
+            {
+                "0": "",
+                "1": "400000000",
+                "2": "-"
+            },
+            {
+                "0": "Loan receivables from related parties(Details stated in Note 29)",
+                "1": "195900000000",
+                "2": "27000000000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_15",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "Short-term loan receivables represent loans to inter-group companies with terms of more than three months and less than one year.\n\nLong-term loan receivables represent loans to inter-group companies with the remaining term of more than one year.\n\n9. OTHER SHORT-TERM RECEIVABLES",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Closing balance",
+                "2": "Opening balance"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Dividends, profits receivable from subsidiaries",
+                "1": "819845764000",
+                "2": "510000000000"
+            },
+            {
+                "0": "Bank and loan interest",
+                "1": "106302578474",
+                "2": "88665255547"
+            },
+            {
+                "0": "Deposits and mortgages",
+                "1": "4629892952",
+                "2": "4634837367"
+            },
+            {
+                "0": "Others",
+                "1": "208716028596",
+                "2": "257689185976"
+            },
+            {
+                "0": "- FPT Information System Corporation",
+                "1": "135839638954",
+                "2": "142044288335"
+            },
+            {
+                "0": "- FPT Land Company Limited",
+                "1": "51280039983",
+                "2": "51280039983"
+            },
+            {
+                "0": "- FPT Investment Company Limited",
+                "1": "5916577555",
+                "2": "40921089055"
+            },
+            {
+                "0": "- Others",
+                "1": "15679772104",
+                "2": "23443768603"
+            },
+            {
+                "0": "",
+                "1": "1139494264022",
+                "2": "860989278890"
+            },
+            {
+                "0": "Other short-term receivables from related parties (Details stated in Note 29)",
+                "1": "1014442550596",
+                "2": "744519334038"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_16",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "20\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\n10. INCREASE, DECREASE IN TANGIBLE FIXED ASSETS",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Buildings and structures",
+                "2": "Machinery and equipment",
+                "3": "Office equipment",
+                "4": "Motor vehicles",
+                "5": "Others",
+                "6": "Total"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND",
+                "5": "VND",
+                "6": "VND"
+            },
+            {
+                "0": "COST",
+                "1": "COST",
+                "2": "COST",
+                "3": "COST",
+                "4": "COST",
+                "5": "COST",
+                "6": "COST"
+            },
+            {
+                "0": "Opening balance",
+                "1": "170011427079",
+                "2": "41031039946",
+                "3": "64350002470",
+                "4": "18162090455",
+                "5": "376890951",
+                "6": "293931450901"
+            },
+            {
+                "0": "Additions",
+                "1": "4801502727",
+                "2": "-",
+                "3": "5391837517",
+                "4": "-",
+                "5": "-",
+                "6": "10193340244"
+            },
+            {
+                "0": "Transfer from construction",
+                "1": "196762385006",
+                "2": "-",
+                "3": "910405597",
+                "4": "-",
+                "5": "-",
+                "6": "197672790603"
+            },
+            {
+                "0": "Disposals",
+                "1": "-",
+                "2": "(192,204,399)",
+                "3": "(7,764,556,898)",
+                "4": "-",
+                "5": "-",
+                "6": "(7,956,761,297)"
+            },
+            {
+                "0": "Others",
+                "1": "-",
+                "2": "283996550",
+                "3": "296133330",
+                "4": "-",
+                "5": "-",
+                "6": "580129880"
+            },
+            {
+                "0": "Closing balance",
+                "1": "371575314812",
+                "2": "41122832097",
+                "3": "63183822016",
+                "4": "18162090455",
+                "5": "376890951",
+                "6": "494420950331"
+            },
+            {
+                "0": "ACCUMULATED DEPRECIATION",
+                "1": "ACCUMULATED DEPRECIATION",
+                "2": "ACCUMULATED DEPRECIATION",
+                "3": "ACCUMULATED DEPRECIATION",
+                "4": "ACCUMULATED DEPRECIATION",
+                "5": "ACCUMULATED DEPRECIATION",
+                "6": "ACCUMULATED DEPRECIATION"
+            },
+            {
+                "0": "Opening balance",
+                "1": "53739809474",
+                "2": "40766581141",
+                "3": "54617722257",
+                "4": "6754467512",
+                "5": "376890951",
+                "6": "156255471335"
+            },
+            {
+                "0": "Charge for the year",
+                "1": "7426239705",
+                "2": "121451719",
+                "3": "6313641155",
+                "4": "3010348408",
+                "5": "-",
+                "6": "16871680987"
+            },
+            {
+                "0": "Disposals",
+                "1": "-",
+                "2": "(192,204,399)",
+                "3": "(7,515,213,534)",
+                "4": "-",
+                "5": "-",
+                "6": "(7,707,417,933)"
+            },
+            {
+                "0": "Others",
+                "1": "-",
+                "2": "291354980",
+                "3": "288774900",
+                "4": "-",
+                "5": "-",
+                "6": "580129880"
+            },
+            {
+                "0": "Closing balance",
+                "1": "61166049179",
+                "2": "40987183441",
+                "3": "53704924778",
+                "4": "9764815920",
+                "5": "376890951",
+                "6": "165999864269"
+            },
+            {
+                "0": "NET BOOK VALUE",
+                "1": "NET BOOK VALUE",
+                "2": "NET BOOK VALUE",
+                "3": "NET BOOK VALUE",
+                "4": "NET BOOK VALUE",
+                "5": "NET BOOK VALUE",
+                "6": "NET BOOK VALUE"
+            },
+            {
+                "0": "Opening balance",
+                "1": "116271617605",
+                "2": "264458805",
+                "3": "9732280213",
+                "4": "11407622943",
+                "5": "-",
+                "6": "137675979566"
+            },
+            {
+                "0": "Closing balance",
+                "1": "310409265633",
+                "2": "135648656",
+                "3": "9478897238",
+                "4": "8397274535",
+                "5": "-",
+                "6": "328421086062"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_17",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "As at 31 December 2020, the cost of the Company's tangible fixed assets includes VND 100,655,420,068 (as at 31 December 2019: VND 101,022,214,728) of machinery, equipment, motor vehicles and office equipment which have been fully depreciated but are still in use.\n\n21\n\n(8) CC DE VIE (51)\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\n11. INCREASE, DECREASE IN INTANGIBLE ASSETS",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Computersoftware"
+            },
+            {
+                "0": "",
+                "1": "VND"
+            },
+            {
+                "0": "COST",
+                "1": "COST"
+            },
+            {
+                "0": "Opening balance",
+                "1": "73932991892"
+            },
+            {
+                "0": "Purchases",
+                "1": "7126570000"
+            },
+            {
+                "0": "Closing balance",
+                "1": "81059561892"
+            },
+            {
+                "0": "ACCUMULATED AMORTIZATION",
+                "1": "ACCUMULATED AMORTIZATION"
+            },
+            {
+                "0": "Opening balance",
+                "1": "64753746941"
+            },
+            {
+                "0": "Charge for the year",
+                "1": "4391282043"
+            },
+            {
+                "0": "Closing balance",
+                "1": "69145028984"
+            },
+            {
+                "0": "NET BOOK VALUE",
+                "1": "NET BOOK VALUE"
+            },
+            {
+                "0": "Opening balance",
+                "1": "9179244951"
+            },
+            {
+                "0": "Closing balance",
+                "1": "11914532908"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_18",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "The cost of intangible assets includes VND 59,763,566,560 (31 December 2019: VND 58,935,631,560) of assets which have been fully amortized but are still in use.\n\n12. CONSTRUCTION IN PROGRESS",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Closing balance",
+                "2": "Opening balance"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "FPT Tower building project",
+                "1": "1333086970636",
+                "2": "978819494856"
+            },
+            {
+                "0": "FPT University Project",
+                "1": "-",
+                "2": "70617064125"
+            },
+            {
+                "0": "Others",
+                "1": "7656160172",
+                "2": "910405597"
+            },
+            {
+                "0": "",
+                "1": "1340743130808",
+                "2": "1050346964578"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_19",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "22\n\n1121 10232121\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\n13. INVESTMENTS IN SUBSIDIARIES\n\nDetails of the Company's subsidiaries as at 31 December 2020 are as follows:",
+        "dataframe": [
+            {
+                "0": "Name of subsidiary",
+                "1": "Place of incorporation and operation",
+                "2": "Proportion of ownership interest (direct and indirect)",
+                "3": "Proportion of voting power held",
+                "4": "Principal activities"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "Floor 22, Keangnam Landmark 72, E6, Pham Hung Street, Me Tri, Tu Liem, Hanoi",
+                "2": "100%",
+                "3": "100%",
+                "4": "Providing application software solution, ERP services, IT services and integrated system services"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "No. 17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi",
+                "2": "100%",
+                "3": "100%",
+                "4": "Providing software services and products"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company (i)",
+                "1": "No. 17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi",
+                "2": "45.65%",
+                "3": "45.65%",
+                "4": "Providing ADSL services, fixed line internet services, online advertising and other online services"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "No. 17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi",
+                "2": "100%",
+                "3": "100%",
+                "4": "Providing training and technology services"
+            },
+            {
+                "0": "FPT Online Service Joint Stock Company",
+                "1": "Lot L 29B-31B-33B Tan Thuan Street, Tan Thuan Dong Ward, District 7, Ho Chi Minh City",
+                "2": "49.52%",
+                "3": "84.15%",
+                "4": "Providing online services"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "No. 17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi",
+                "2": "100%",
+                "3": "100%",
+                "4": "Providing financial services activities (investment consulting services, excluding legal and financial consulting services)"
+            },
+            {
+                "0": "FPT Smart Cloud Company Limited",
+                "1": "No.17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi",
+                "2": "100%",
+                "3": "100%",
+                "4": "Providing IT services and other services related to computers"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_20",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "(i) As at 31 December 2020, FPT Corporation holds 45.65% ownership interest (31 December 2019: 45.65%) and 45.65% of voting rights (31 December 2019: 45.65%) at FPT Telecom Joint Stock Company. However, the Company has the power to cast the majority of votes at meetings of the Board of Directors of FPT Telecom Joint Stock Company. Thus, the Company has the power to control the financial and operating policies of FPT Telecom Joint Stock Company. Accordingly, the Company has control over FPT Telecom Joint Stock Company and therefore, FPT Telecom Joint Stock Company is regarded as a subsidiary of the Company.\n\n23\n\n11-1 5-2+1\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\n14. INVESTMENT IN ASSOCIATES\n\nDetails of the Company's associates as at 31 December 2020 are as follows:",
+        "dataframe": [
+            {
+                "0": "Name of associate",
+                "1": "Place of incorporation and operation",
+                "2": "Proportion of ownership interest and voting power held",
+                "3": "Principal activities"
+            },
+            {
+                "0": "Synnex FPT Joint Stock Company",
+                "1": "No. 17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi",
+                "2": "48.00%",
+                "3": "Producing technology products and distributing IT devices and mobile phones; and manufacturing computers"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "261-263 Khanh Hoi Street, Ward 5, District 4, Ho Chi Minh City",
+                "2": "46.53%",
+                "3": "Retail sales of computers, peripheral devices, software and telecommunication equipment; telecom service agent"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_21",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "15. SHORT-TERM TRADE PAYABLES",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Closing balance",
+                "2": "Opening balance"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "308494627889",
+                "2": "165061678160"
+            },
+            {
+                "0": "Vietnam Investment Construction and Trading Joint Stock Company",
+                "1": "43274792123",
+                "2": "68547916274"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "25685136785",
+                "2": "27057527104"
+            },
+            {
+                "0": "319 Corporation Ministry Of National Defence",
+                "1": "18043213238",
+                "2": "-"
+            },
+            {
+                "0": "Vietnam Installation Construction and Refrigeratory Joint Stock Company (VMRC)",
+                "1": "15435343450",
+                "2": "-"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "8818320750",
+                "2": "42208742"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "5551413133",
+                "2": "7272024339"
+            },
+            {
+                "0": "Others",
+                "1": "48010764917",
+                "2": "16088239443"
+            },
+            {
+                "0": "",
+                "1": "473313612285",
+                "2": "284069594062"
+            },
+            {
+                "0": "Payables to related parties(Details stated in Note 29)",
+                "1": "355293513784",
+                "2": "199558938345"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_22",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "24\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\n16. TAXES AND OTHER RECEIVABLES FROM/PAYABLES TO THE STATE BUDGET",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Opening balance",
+                "2": "Payables during the year",
+                "3": "Paid during the year",
+                "4": "Closing balance"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "a. Receivables",
+                "1": "a. Receivables",
+                "2": "a. Receivables",
+                "3": "a. Receivables",
+                "4": "a. Receivables"
+            },
+            {
+                "0": "Import duty",
+                "1": "34802628",
+                "2": "-",
+                "3": "-",
+                "4": "34802628"
+            },
+            {
+                "0": "",
+                "1": "34802628",
+                "2": "-",
+                "3": "-",
+                "4": "34802628"
+            },
+            {
+                "0": "b. Payables",
+                "1": "b. Payables",
+                "2": "b. Payables",
+                "3": "b. Payables",
+                "4": "b. Payables"
+            },
+            {
+                "0": "Value added tax (VAT)",
+                "1": "2843172",
+                "2": "28308089081",
+                "3": "28308639081",
+                "4": "2293172"
+            },
+            {
+                "0": "- Output VAT",
+                "1": "551000",
+                "2": "28308089081",
+                "3": "28308639081",
+                "4": "1000"
+            },
+            {
+                "0": "- VAT on imported goods",
+                "1": "2292172",
+                "2": "-",
+                "3": "-",
+                "4": "2292172"
+            },
+            {
+                "0": "Corporate income tax",
+                "1": "(695,276,425)",
+                "2": "8808174070",
+                "3": "5000000001",
+                "4": "3112897644"
+            },
+            {
+                "0": "Other taxes",
+                "1": "1708667965",
+                "2": "80716246176",
+                "3": "81182882718",
+                "4": "1242031423"
+            },
+            {
+                "0": "License tax",
+                "1": "-",
+                "2": "4000000",
+                "3": "4000000",
+                "4": "-"
+            },
+            {
+                "0": "Personal income tax",
+                "1": "1652648182",
+                "2": "43356018742",
+                "3": "43820562793",
+                "4": "1188104131"
+            },
+            {
+                "0": "Other taxes",
+                "1": "56019783",
+                "2": "37356227434",
+                "3": "37358319925",
+                "4": "53927292"
+            },
+            {
+                "0": "",
+                "1": "1016234712",
+                "2": "117832509327",
+                "3": "114491521800",
+                "4": "4357222239"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_23",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "17. SHORT-TERM ACCRUED EXPENSES",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Closing balance",
+                "2": "Opening balance"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Salary and bonus",
+                "1": "-",
+                "2": "32589235656"
+            },
+            {
+                "0": "Interest payables",
+                "1": "38724752245",
+                "2": "14926369690"
+            },
+            {
+                "0": "Other accruals",
+                "1": "946817291",
+                "2": "1001598052"
+            },
+            {
+                "0": "",
+                "1": "39671569536",
+                "2": "48517203398"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_24",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "25\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\n18. OTHER SHORT-TERM PAYABLES",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Closing balance",
+                "2": "Opening balance"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Union fee",
+                "1": "20307660693",
+                "2": "9020195164"
+            },
+            {
+                "0": "Social insurance",
+                "1": "310109478",
+                "2": "303663013"
+            },
+            {
+                "0": "Health insurance",
+                "1": "71656820",
+                "2": "71710826"
+            },
+            {
+                "0": "Unemployment insurance",
+                "1": "17268199",
+                "2": "17282656"
+            },
+            {
+                "0": "Short-term deposits received",
+                "1": "523000000",
+                "2": "553000000"
+            },
+            {
+                "0": "Dividends payable",
+                "1": "9734581873",
+                "2": "8705049648"
+            },
+            {
+                "0": "Payables through central account",
+                "1": "232927859519",
+                "2": "328385314580"
+            },
+            {
+                "0": "- FPT Information System Corporation",
+                "1": "157881723216",
+                "2": "214321178272"
+            },
+            {
+                "0": "- FPT Education Company Limited",
+                "1": "30315118672",
+                "2": "69907799626"
+            },
+            {
+                "0": "- FPT Software Company Limited",
+                "1": "28480644564",
+                "2": "15041143314"
+            },
+            {
+                "0": "- FPT Investment Company Limited",
+                "1": "13659729928",
+                "2": "23969178301"
+            },
+            {
+                "0": "- FPT Digital Retail Joint Stock Company",
+                "1": "1526452162",
+                "2": "2993176666"
+            },
+            {
+                "0": "- FPT Telecom Joint Stock Company",
+                "1": "1064190977",
+                "2": "2152838401"
+            },
+            {
+                "0": "Other current payables",
+                "1": "5728450482",
+                "2": "7444185989"
+            },
+            {
+                "0": "",
+                "1": "269620587064",
+                "2": "354500401876"
+            },
+            {
+                "0": "Other short-term payables to related parties (Details stated in Note 29)",
+                "1": "232927859519",
+                "2": "328385314580"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Revenue received in advance (i)",
+                "1": "249265750000",
+                "2": "250092750000"
+            },
+            {
+                "0": "",
+                "1": "249265750000",
+                "2": "250092750000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_25",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "(i) Revenue received in advance represents the office rental.\n\n26\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\n20. SHORT-TERM LOANS AND OBLIGATIONS UNDER FINANCE LEASES",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Opening balance",
+                "2": "Opening balance",
+                "3": "In the year",
+                "4": "In the year",
+                "5": "Closing balance",
+                "6": "Closing balance"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND",
+                "5": "VND",
+                "6": "VND"
+            },
+            {
+                "0": "",
+                "1": "Amount",
+                "2": "Amount able to be paid off",
+                "3": "Increases",
+                "4": "Decreases",
+                "5": "Amount",
+                "6": "Amount able to be paid off"
+            },
+            {
+                "0": "Short-term loan and obligation under finance lease from related parties (Details stated in Note 29)",
+                "1": "Short-term loan and obligation under finance lease from related parties (Details stated in Note 29)",
+                "2": "Short-term loan and obligation under finance lease from related parties (Details stated in Note 29)",
+                "3": "Short-term loan and obligation under finance lease from related parties (Details stated in Note 29)",
+                "4": "Short-term loan and obligation under finance lease from related parties (Details stated in Note 29)",
+                "5": "Short-term loan and obligation under finance lease from related parties (Details stated in Note 29)",
+                "6": "Short-term loan and obligation under finance lease from related parties (Details stated in Note 29)"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "130000000000",
+                "2": "130000000000",
+                "3": "1380000000000",
+                "4": "920000000000",
+                "5": "590000000000",
+                "6": "590000000000"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "200000000000",
+                "2": "200000000000",
+                "3": "2411000000000",
+                "4": "1715000000000",
+                "5": "896000000000",
+                "6": "896000000000"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "220000000000",
+                "2": "220000000000",
+                "3": "1660000000000",
+                "4": "1035000000000",
+                "5": "845000000000",
+                "6": "845000000000"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "35000000000",
+                "2": "35000000000",
+                "3": "5113030000000",
+                "4": "3271000000000",
+                "5": "1877030000000",
+                "6": "1877030000000"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "12000000000",
+                "2": "12000000000",
+                "3": "-",
+                "4": "7000000000",
+                "5": "5000000000",
+                "6": "5000000000"
+            },
+            {
+                "0": "FPT Smart Cloud Company Limited",
+                "1": "-",
+                "2": "-",
+                "3": "93000000000",
+                "4": "11000000000",
+                "5": "82000000000",
+                "6": "82000000000"
+            },
+            {
+                "0": "",
+                "1": "597000000000",
+                "2": "597000000000",
+                "3": "10657030000000",
+                "4": "6959000000000",
+                "5": "4295030000000",
+                "6": "4295030000000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_26",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "Short-term loans represent unsecured loans with terms of less than one year for business purpose.\n\n27\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\n21. OWNERS' EQUITY\n\nMovement in owners' equity",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Owners'contributedcapital",
+                "2": "Share premium",
+                "3": "Treasury shares",
+                "4": "Other reserves",
+                "5": "Investment anddevelopmentfund",
+                "6": "Retained earnings",
+                "7": "Total"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND",
+                "5": "VND",
+                "6": "VND",
+                "7": "VND"
+            },
+            {
+                "0": "Prior year's opening balance",
+                "1": "6136367720000",
+                "2": "49941441360",
+                "3": "(823,760,000)",
+                "4": "87203093024",
+                "5": "103009261",
+                "6": "2760810099137",
+                "7": "9033601602782"
+            },
+            {
+                "0": "Shares issued",
+                "1": "30672000000",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "-",
+                "7": "30672000000"
+            },
+            {
+                "0": "Profit for the year",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "1914565298453",
+                "7": "1914565298453"
+            },
+            {
+                "0": "Stock dividends declared",
+                "1": "616547160000",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "(616,547,160,000)",
+                "7": "-"
+            },
+            {
+                "0": "Cash dividends declared",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "(1,294,897,908,000)",
+                "7": "(1,294,897,908,000)"
+            },
+            {
+                "0": "Other movements of equity",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "1667160",
+                "7": "1667160"
+            },
+            {
+                "0": "Current year's opening balance",
+                "1": "6783586880000",
+                "2": "49941441360",
+                "3": "(823,760,000)",
+                "4": "87203093024",
+                "5": "103009261",
+                "6": "2763931996750",
+                "7": "9683942660395"
+            },
+            {
+                "0": "Shares issued",
+                "1": "33917900000",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "-",
+                "7": "33917900000"
+            },
+            {
+                "0": "Profit for the year",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "2884321772746",
+                "7": "2884321772746"
+            },
+            {
+                "0": "Stock dividends declared (i)",
+                "1": "1022370080000",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "(1,022,370,080,000)",
+                "7": "-"
+            },
+            {
+                "0": "Cash dividends declared (i)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "(1,465,573,212,000)",
+                "7": "(1,465,573,212,000)"
+            },
+            {
+                "0": "Other movements of equity",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "(31,283,810,285)",
+                "7": "(31,283,810,285)"
+            },
+            {
+                "0": "Current year's closing balance",
+                "1": "7839874860000",
+                "2": "49941441360",
+                "3": "(823,760,000)",
+                "4": "87203093024",
+                "5": "103009261",
+                "6": "3129026667211",
+                "7": "11105325310856"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_27",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "Dividends\n\n(i) On 09 April 2020, the Company's Shareholders' Annual General Meeting approved the plan of stock dividend payment of 2019 at the pay-out ratio of 15% (03 new shares for every 20 shares held) and second cash dividend payment of 2019 at the pay-out ratio of 10% of par value (VND 1,000/share). Accordingly, the Company issued 102,237,008 shares for dividend payment of 2019 and paid cash dividend with an amount of VND 681,668,102,000.\n\nOn 30 July 2020, the Board of Directors approved the plan of the first cash dividend payment of 2020 at pay-out ratio of 10% of par value (VND 1,000/share). Accordingly, the Company paid cash dividend with an amount of VND 783,905,110,000.\n\n28\n\n(1) CDE 310\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\nThe use of capital received in the year\n\nUnit: VND",
+        "dataframe": [
+            {
+                "0": "No.",
+                "1": "Methods of raising capital",
+                "2": "Purposes",
+                "3": "Increases/(Decreases)",
+                "4": "Increases/(Decreases)",
+                "5": "Used for the right purpose",
+                "6": "Used for the right purpose"
+            },
+            {
+                "0": "No.",
+                "1": "Methods of raising capital",
+                "2": "Purposes",
+                "3": "Current year",
+                "4": "Prior year",
+                "5": "Current year",
+                "6": "Prior year"
+            },
+            {
+                "0": "1",
+                "1": "Increasing capital from issuing shares",
+                "2": "To supplement working capital",
+                "3": "1056287980000",
+                "4": "647219160000",
+                "5": "1056287980000",
+                "6": "647219160000"
+            },
+            {
+                "0": "Total",
+                "1": "Total",
+                "2": "Total",
+                "3": "1056287980000",
+                "4": "647219160000",
+                "5": "1056287980000",
+                "6": "647219160000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_28",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "Shares",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Closing balance",
+                "2": "Opening balance"
+            },
+            {
+                "0": "",
+                "1": "Share",
+                "2": "Share"
+            },
+            {
+                "0": "Authorised share capital",
+                "1": "783987486",
+                "2": "678358688"
+            },
+            {
+                "0": "Issued share",
+                "1": "783987486",
+                "2": "678358688"
+            },
+            {
+                "0": "Ordinary shares",
+                "1": "783987486",
+                "2": "678358688"
+            },
+            {
+                "0": "Of which shares subject to restriction in ownership transfer",
+                "1": "11642061",
+                "2": "10072368"
+            },
+            {
+                "0": "Treasury shares",
+                "1": "(82,376)",
+                "2": "(82,376)"
+            },
+            {
+                "0": "Of which shares subject to restriction in ownership transfer",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Number of outstanding shares in circulation",
+                "1": "783905110",
+                "2": "678276312"
+            },
+            {
+                "0": "Ordinary shares",
+                "1": "783905110",
+                "2": "678276312"
+            },
+            {
+                "0": "Of which shares subject to restriction in ownership transfer",
+                "1": "11642061",
+                "2": "10072368"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_29",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "All ordinary shares have a par value of VND 10,000. Each share is entitled to one vote at the Company shareholders' meetings. Shareholders are entitled to receive dividends as declared from time to time. All ordinary shares are ranked equally with regard to the Company's residual assets. With respect to the shares bought back by the Company, all rights are suspended until those shares are re-issued.\n\nShares subject to ownership transfer restriction have a par value of VND 10,000. These shares are subject to restrictions according to which share owners are not allowed to resell their shares within a specified term from the date of issuance.\n\n29\n\n1151 Z25.5.5\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\n22. REVENUE",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Current year",
+                "2": "Prior year"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Sales of services",
+                "1": "Sales of services",
+                "2": "Sales of services"
+            },
+            {
+                "0": "- Sales of services",
+                "1": "291964092178",
+                "2": "287216908624"
+            },
+            {
+                "0": "- Sales of services",
+                "1": "291964092178",
+                "2": "287216908624"
+            },
+            {
+                "0": "Deductions",
+                "1": "Deductions",
+                "2": "Deductions"
+            },
+            {
+                "0": "- Service discount",
+                "1": "-",
+                "2": "11915344"
+            },
+            {
+                "0": "- Service discount",
+                "1": "-",
+                "2": "11915344"
+            },
+            {
+                "0": "Net revenue from services rendered",
+                "1": "291964092178",
+                "2": "287204993280"
+            },
+            {
+                "0": "Revenue from related parties(Details stated in Note 29)",
+                "1": "196497912835",
+                "2": "217370081645"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Cost of services rendered",
+                "1": "70845327323",
+                "2": "94889359725"
+            },
+            {
+                "0": "",
+                "1": "70845327323",
+                "2": "94889359725"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Labour",
+                "1": "132428732813",
+                "2": "120215743745"
+            },
+            {
+                "0": "Depreciation and amortisation",
+                "1": "21262963030",
+                "2": "19964873678"
+            },
+            {
+                "0": "Out-sourced services",
+                "1": "176605542486",
+                "2": "219022112212"
+            },
+            {
+                "0": "Other monetary expenses",
+                "1": "118744087654",
+                "2": "50817054573"
+            },
+            {
+                "0": "",
+                "1": "449041325983",
+                "2": "410019784208"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Bank and loan interest",
+                "1": "347679419291",
+                "2": "232408854206"
+            },
+            {
+                "0": "Dividends and profits received",
+                "1": "2839659411707",
+                "2": "1874586646500"
+            },
+            {
+                "0": "Foreign exchange gain",
+                "1": "21738857",
+                "2": "58199641"
+            },
+            {
+                "0": "Other financial income",
+                "1": "1894425367",
+                "2": "316602439"
+            },
+            {
+                "0": "",
+                "1": "3189254995222",
+                "2": "2107370302786"
+            },
+            {
+                "0": "Loan interest, dividends and profits received from related parties (Details stated in Note 29)",
+                "1": "2845142441383",
+                "2": "1882005521546"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_30",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "30\n\n500.\nSTY\nIH\nTTI\nNAM\n-1.P.P.\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\n26. FINANCIAL EXPENSES",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Current year",
+                "2": "Prior year"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Interest expense(Details stated in Note 29)",
+                "1": "138911372017",
+                "2": "51462109416"
+            },
+            {
+                "0": "Foreign exchange loss",
+                "1": "151578451",
+                "2": "27503619"
+            },
+            {
+                "0": "",
+                "1": "139062950468",
+                "2": "51489613035"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Labour costs",
+                "1": "132428732813",
+                "2": "120215743745"
+            },
+            {
+                "0": "Office equipment expenses",
+                "1": "12163950350",
+                "2": "12423891686"
+            },
+            {
+                "0": "Depreciation expenses",
+                "1": "21262963030",
+                "2": "19964873678"
+            },
+            {
+                "0": "Out-sourced services",
+                "1": "93595964813",
+                "2": "100176846487"
+            },
+            {
+                "0": "Other monetary expenses",
+                "1": "114363551924",
+                "2": "59174549573"
+            },
+            {
+                "0": "",
+                "1": "373815162930",
+                "2": "311955905169"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Current corporate income tax expenses",
+                "1": "Current corporate income tax expenses",
+                "2": "Current corporate income tax expenses"
+            },
+            {
+                "0": "- Corporate income tax expense based on taxable profit in the current year",
+                "1": "8808174070",
+                "2": "10684902291"
+            },
+            {
+                "0": "- Adjustments for corporate income tax expense in previous years to the current year",
+                "1": "-",
+                "2": "1523527253"
+            },
+            {
+                "0": "Total current corporate income tax expenses",
+                "1": "8808174070",
+                "2": "12208429544"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_31",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "31\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\nThe current corporate income tax expense for the year was computed as follows:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Current year",
+                "2": "Prior year"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Profit before tax",
+                "1": "2893129946816",
+                "2": "1926773727997"
+            },
+            {
+                "0": "Adjustments for taxable profit",
+                "1": "Adjustments for taxable profit",
+                "2": "Adjustments for taxable profit"
+            },
+            {
+                "0": "Less: non-taxable income",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Dividends and profit received",
+                "1": "(2,839,659,411,707)",
+                "2": "(1,874,586,646,500)"
+            },
+            {
+                "0": "Others",
+                "1": "(23,628,772,233)",
+                "2": "(5,472,133,249)"
+            },
+            {
+                "0": "Add back: non-deductible expenses",
+                "1": "14199107475",
+                "2": "6709563205"
+            },
+            {
+                "0": "Taxable profit",
+                "1": "44040870351",
+                "2": "53424511453"
+            },
+            {
+                "0": "Normal tax rate",
+                "1": "20%",
+                "2": "20%"
+            },
+            {
+                "0": "Corporate income tax expense based on taxable profit in the current year",
+                "1": "8808174070",
+                "2": "10684902291"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_32",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "The corporate income tax is applied at the rate of 20% of taxable profit. The corporate income tax expense for the financial year is estimated based on taxable profit and is subject to adjustment at the discretion of the tax authorities.\n\n29. RELATED PARTY TRANSACTIONS AND BALANCES\n\nList of related parties who have significant transactions and balances during the year:",
+        "dataframe": [
+            {
+                "0": "Related parties",
+                "1": "Relationship"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "Susidiary"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "Susidiary"
+            },
+            {
+                "0": "FPT Smart Cloud Company Limited",
+                "1": "Susidiary"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "Susidiary"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "Susidiary"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "Susidiary"
+            },
+            {
+                "0": "FPT Online Service Joint Stock Company",
+                "1": "Susidiary"
+            },
+            {
+                "0": "FPT Technology Solutions Company Limited",
+                "1": "Affiliate"
+            },
+            {
+                "0": "FPT Land Company Limited",
+                "1": "Affiliate"
+            },
+            {
+                "0": "Synnex FPT Joint Stock Company",
+                "1": "Associate"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "Associate"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_33",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "32\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\nSignificant related party balances as at the balance sheet date were as follows:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Current year",
+                "2": "Prior year"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Short-term trade receivables",
+                "1": "Short-term trade receivables",
+                "2": "Short-term trade receivables"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "18612653037",
+                "2": "14274687281"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "16827370007",
+                "2": "15366524127"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "11005362199",
+                "2": "3644594896"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "6355272079",
+                "2": "1104145960"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "1188029766",
+                "2": "1171665126"
+            },
+            {
+                "0": "Synnex FPT Joint Stock Company",
+                "1": "199108278",
+                "2": "292339376"
+            },
+            {
+                "0": "FPT Smart Cloud Company Limited",
+                "1": "189997686",
+                "2": "-"
+            },
+            {
+                "0": "FPT Online Service Joint Stock Company",
+                "1": "72692893",
+                "2": "-"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "-",
+                "2": "23223910"
+            },
+            {
+                "0": "",
+                "1": "54450485945",
+                "2": "35877180676"
+            },
+            {
+                "0": "Loan receivables",
+                "1": "Loan receivables",
+                "2": "Loan receivables"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "185000000000",
+                "2": "-"
+            },
+            {
+                "0": "FPT Land Joint Stock Company",
+                "1": "10900000000",
+                "2": "9500000000"
+            },
+            {
+                "0": "FPT Technology Solutions Company Limited",
+                "1": "-",
+                "2": "17500000000"
+            },
+            {
+                "0": "",
+                "1": "-",
+                "2": "17500000000"
+            },
+            {
+                "0": "Other short-term receivables",
+                "1": "Other short-term receivables",
+                "2": "Other short-term receivables"
+            },
+            {
+                "0": "Dividends/profits receivable from subsidiaries",
+                "1": "Dividends/profits receivable from subsidiaries",
+                "2": "Dividends/profits receivable from subsidiaries"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "420000000000",
+                "2": "380000000000"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "249845764000",
+                "2": "-"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "150000000000",
+                "2": "130000000000"
+            },
+            {
+                "0": "",
+                "1": "819845764000",
+                "2": "510000000000"
+            },
+            {
+                "0": "Other short-term receivables",
+                "1": "Other short-term receivables",
+                "2": "Other short-term receivables"
+            },
+            {
+                "0": "FPT Information System Company Limited",
+                "1": "135839638954",
+                "2": "142044288335"
+            },
+            {
+                "0": "FPT Land Company Limited",
+                "1": "51659931766",
+                "2": "51553956648"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "6271372076",
+                "2": "40921089055"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "652366800",
+                "2": "-"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "138461000",
+                "2": "-"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "20610000",
+                "2": "-"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "14406000",
+                "2": "-"
+            },
+            {
+                "0": "",
+                "1": "194596786596",
+                "2": "234519334038"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_34",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "33\n\n11. 田→○ 13\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Current year",
+                "2": "Prior year"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Short-term trade payables",
+                "1": "Short-term trade payables",
+                "2": "Short-term trade payables"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "308494627889",
+                "2": "165061678160"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "25685136785",
+                "2": "27057527104"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "8818320750",
+                "2": "42208742"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "5551413133",
+                "2": "7272024339"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "2861632227",
+                "2": "3180000"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "1595000000",
+                "2": "-"
+            },
+            {
+                "0": "FPT Smart Cloud Company Limited",
+                "1": "1074992997",
+                "2": "-"
+            },
+            {
+                "0": "FPT Online Service Joint Stock Company",
+                "1": "946550000",
+                "2": "122320000"
+            },
+            {
+                "0": "Synnex FPT Joint Stock Company",
+                "1": "265840003",
+                "2": "-"
+            },
+            {
+                "0": "",
+                "1": "355293513784",
+                "2": "199558938345"
+            },
+            {
+                "0": "Short-term other payables",
+                "1": "Short-term other payables",
+                "2": "Short-term other payables"
+            },
+            {
+                "0": "Payables through central account",
+                "1": "Payables through central account",
+                "2": "Payables through central account"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "157881723216",
+                "2": "214321178272"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "30315118672",
+                "2": "69907799626"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "28480644564",
+                "2": "15041143314"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "13659729928",
+                "2": "23969178301"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "1526452162",
+                "2": "2993176666"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "1064190977",
+                "2": "2152838401"
+            },
+            {
+                "0": "",
+                "1": "232927859519",
+                "2": "328385314580"
+            },
+            {
+                "0": "Short-term loans",
+                "1": "Short-term loans",
+                "2": "Short-term loans"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "1877030000000",
+                "2": "35000000000"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "896000000000",
+                "2": "200000000000"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "845000000000",
+                "2": "220000000000"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "590000000000",
+                "2": "130000000000"
+            },
+            {
+                "0": "FPT Smart Cloud Company Limited",
+                "1": "82000000000",
+                "2": "-"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "5000000000",
+                "2": "12000000000"
+            },
+            {
+                "0": "",
+                "1": "4295030000000",
+                "2": "597000000000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_35",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "34\n\n11241 G3015251\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN\n\nDuring the year, the Company entered into the following significant transactions with its related parties:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Current year",
+                "2": "Prior year"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Capital contribution",
+                "1": "Capital contribution",
+                "2": "Capital contribution"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "400000000000",
+                "2": "400000000000"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "400000000000",
+                "2": "150000000000"
+            },
+            {
+                "0": "FPT Smart Cloud Company Limited",
+                "1": "100000000000",
+                "2": "-"
+            },
+            {
+                "0": "",
+                "1": "900000000000",
+                "2": "550000000000"
+            },
+            {
+                "0": "Rendering of services",
+                "1": "Rendering of services",
+                "2": "Rendering of services"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "70720910064",
+                "2": "92021927047"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "61847529603",
+                "2": "62586891908"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "37857719489",
+                "2": "38438395357"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "9981134117",
+                "2": "5805334573"
+            },
+            {
+                "0": "FPT Online Service Joint Stock Company",
+                "1": "8892057708",
+                "2": "8957275970"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "5014980739",
+                "2": "7214056515"
+            },
+            {
+                "0": "Synnex FPT Joint Stock Company",
+                "1": "1190741552",
+                "2": "2305308851"
+            },
+            {
+                "0": "FPT Smart Cloud Company Limited",
+                "1": "517580104",
+                "2": "-"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "475259459",
+                "2": "40891424"
+            },
+            {
+                "0": "",
+                "1": "196497912835",
+                "2": "217370081645"
+            },
+            {
+                "0": "Purchases of goods, services and constructions",
+                "1": "Purchases of goods, services and constructions",
+                "2": "Purchases of goods, services and constructions"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "76648502713",
+                "2": "82205545669"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "76043145546",
+                "2": "96629984091"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "32458952465",
+                "2": "6237028007"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "23903696814",
+                "2": "21953987953"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "16066924006",
+                "2": "10383779392"
+            },
+            {
+                "0": "FPT Online Service Joint Stock Company",
+                "1": "3183050000",
+                "2": "1353725715"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "1450000000",
+                "2": "-"
+            },
+            {
+                "0": "Synnex FPT Joint Stock Company",
+                "1": "1212728484",
+                "2": "2149235460"
+            },
+            {
+                "0": "FPT Smart Cloud Company Limited",
+                "1": "1143327179",
+                "2": "-"
+            },
+            {
+                "0": "",
+                "1": "232110327207",
+                "2": "220913286287"
+            },
+            {
+                "0": "Dividends received/profits transferred from subsidiaries",
+                "1": "Dividends received/profits transferred from subsidiaries",
+                "2": "Dividends received/profits transferred from subsidiaries"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "1420000000000",
+                "2": "1300000000000"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "601901160000",
+                "2": "103242052000"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "492291700707",
+                "2": "330000000000"
+            },
+            {
+                "0": "Synnex FPT Joint Stock Company",
+                "1": "171133791000",
+                "2": "28522298500"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "100000000000",
+                "2": "-"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "36754000000",
+                "2": "31960000000"
+            },
+            {
+                "0": "FPT Online Service Joint Stock Company",
+                "1": "17578760000",
+                "2": "80862296000"
+            },
+            {
+                "0": "",
+                "1": "2839659411707",
+                "2": "1874586646500"
+            },
+            {
+                "0": "Interest income (loan interest)",
+                "1": "Interest income (loan interest)",
+                "2": "Interest income (loan interest)"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "4976273973",
+                "2": "-"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "354794521",
+                "2": "273916665"
+            },
+            {
+                "0": "FPT Land Company Limited",
+                "1": "105975118",
+                "2": "-"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "45986064",
+                "2": "7144958381"
+            },
+            {
+                "0": "",
+                "1": "5483029676",
+                "2": "7418875046"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_36",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "35\n\n\\( \\left| {x - 1}\\right|  > x - 2/10 \\)\n\n\n\nFPT CORPORATION\n\nNOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)\n\nFORM B 09-DN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Current year",
+                "2": "Prior year"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Interest expenses",
+                "1": "Interest expenses",
+                "2": "Interest expenses"
+            },
+            {
+                "0": "FPT Software Company Limited",
+                "1": "73056115818",
+                "2": "1400839022"
+            },
+            {
+                "0": "FPT Information System Corporation",
+                "1": "36887704438",
+                "2": "32922692880"
+            },
+            {
+                "0": "FPT Digital Retail Joint Stock Company",
+                "1": "13769640729",
+                "2": "10701516884"
+            },
+            {
+                "0": "FPT Education Company Limited",
+                "1": "13556545368",
+                "2": "5774329079"
+            },
+            {
+                "0": "FPT Smart Cloud Company Limited",
+                "1": "1083541095",
+                "2": "-"
+            },
+            {
+                "0": "FPT Investment Company Limited",
+                "1": "553202486",
+                "2": "640624386"
+            },
+            {
+                "0": "FPT Telecom Joint Stock Company",
+                "1": "4622083",
+                "2": "22107165"
+            },
+            {
+                "0": "",
+                "1": "138911372017",
+                "2": "51462109416"
+            }
+        ]
+    },
+    {
+        "chunk_id": "FPT_2020_separate_table_37",
+        "metadata": {
+            "ticker": "FPT",
+            "company_name": "CTCP FPT",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "FPT_financial_statements_2020_separate"
+        },
+        "context_text": "Remuneration of the Board of Directors, the Board of Supervisors and salary of Executive President and other managers:\n\nUnit: VND\n\nRemuneration of the Board of Directors",
+        "dataframe": [
+            {
+                "0": "No.",
+                "1": "Name",
+                "2": "Title",
+                "3": "Current year"
+            },
+            {
+                "0": "1.",
+                "1": "Mr. Truong Gia Binh",
+                "2": "Chairman",
+                "3": "0"
+            },
+            {
+                "0": "2.",
+                "1": "Mr. Bui Quang Ngoc",
+                "2": "Vice Chairman",
+                "3": "0"
+            },
+            {
+                "0": "3.",
+                "1": "Mr. Do Cao Bao",
+                "2": "Member",
+                "3": "0"
+            },
+            {
+                "0": "4.",
+                "1": "Mr. Le Song Lai",
+                "2": "Member",
+                "3": "264000000"
+            },
+            {
+                "0": "5.",
+                "1": "Mr. Jean Charles",
+                "2": "Member",
+                "3": "600000000"
+            },
+            {
+                "0": "6.",
+                "1": "Mr. Hamaguchi Tomokazu",
+                "2": "Member",
+                "3": "2326425000"
+            },
+            {
+                "0": "7.",
+                "1": "Mr. Dan E Khoo",
+                "2": "Member",
+                "3": "2326425000"
+            },
+            {
+                "0": "Total",
+                "1": "Total",
+                "2": "Total",
+                "3": "5516850000"
+            },
+            {
+                "0": "1",
+                "1": "Mr. Nguyen Viet Thang",
+                "2": "Head of the Board of Supervisors",
+                "3": "588000000"
+            },
+            {
+                "0": "2",
+                "1": "Mr. Nguyen Khai Hoan",
+                "2": "Member",
+                "3": "303600000"
+            },
+            {
+                "0": "3",
+                "1": "Ms. Nguyen Thi Kim Anh",
+                "2": "Member",
+                "3": "303600000"
+            },
+            {
+                "0": "Total",
+                "1": "Total",
+                "2": "Total",
+                "3": "1195200000"
+            },
+            {
+                "0": "1.",
+                "1": "Mr. Nguyen Van Khoa",
+                "2": "Executive President",
+                "3": "3520000000"
+            },
+            {
+                "0": "2.",
+                "1": "Mr. Nguyen The Phuong",
+                "2": "Executive Vice President",
+                "3": "2750000000"
+            },
+            {
+                "0": "3.",
+                "1": "Mr. Hoang Viet Anh",
+                "2": "Executive Vice President",
+                "3": "2200000000"
+            },
+            {
+                "0": "4.",
+                "1": "Mr. Hoang Huu Chien",
+                "2": "Chief Accountant",
+                "3": "1540000000"
+            },
+            {
+                "0": "5.",
+                "1": "Ms. Bui Nguyen Phuong Chau",
+                "2": "In charge of Information Governance and Disclosure",
+                "3": "1100000000"
+            },
+            {
+                "0": "Total",
+                "1": "Total",
+                "2": "Total",
+                "3": "11110000000"
+            }
+        ]
+    }
+]

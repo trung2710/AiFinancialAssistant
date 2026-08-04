@@ -1,0 +1,3537 @@
+[
+    {
+        "chunk_id": "DXS_2022_separate_table_1",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "[Non-Text]\n\nDATXANH SERVICES\n\nSố: 16 /2023/CV-DXS\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTp. Hồ Chí Minh, ngày 31 tháng 03 năm 2023\n\nKính gửi:- Ủy ban Chứng khoán Nhà nước Sở Giao dịch Chứng khoán TP.HCM\n\nCông ty: Công ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nTrụ sở chính: 2W Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, TP.HCM\n\nĐiện thoại: (028) 6252 5252 Fax: (028) 6285 3896\n\nNgười thực hiện công bố thông tin: Bà Phạm Thị Nguyên Thanh - Người đại diện theo pháp luật\n\nLoại công bố thông tin: ☑Định kỳ □24h □72h □Yêu cầu\n\nNội dung công bố thông tin:\n\n1. Báo cáo tài chính công ty mẹ kiểm toán năm 2022\n\n2. Báo cáo tài chính hợp nhất kiểm toán năm 2022\n\n3. Giải trình chênh lệch Lợi nhuận sau thuế trên Báo cáo tài chính kiểm toán năm 2022 so với cùng kỳ.\n\nThông tin được công bố trên trang điện tử của công ty tại đường dẫn: https://ir.datxanhservices.vn/cong-bo-thong-tin/\n\nChúng tôi xin cam kết các thông tin trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố.\n\nNơi nhận:\n\n- Nhu trên\n\n- Luu VT, TC.\n\nNGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT\n\nTỔNG GIÁM ĐỐC\n\nPHẠM THỊ NGUYÊN THANH\n\n\n\n[Non-Text]\n\nDATXANH SERVICES\n\nSó/No.: 15 /2023/CV-DXS\n\nV/v: Giải trình chênh lệch LNST BCTC năm 2022\n\nRe: Explanation of the variance in profit after tax of the audited financial statements 2022\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tư do – Hanh phúc\n\nSOCIALIST REPUBLIC OF VIETNAM\n\nIndependence - Freedom - Happiness\n\n\\( \\text{B} \\star \\text{C} \\)\n\nTP.HCM, ngày 31 tháng 03 năm 2023\n\nKính gửi/To: - Ủy ban Chứng khoán Nhà nước/ State Securities Committee of Viet Nam\n\n- Sở Giao dịch Chứng khoán TP. Hồ Chí Minh/ Ho Chi Minh City Stock Exchange\n\n- Căn cứ quy định tại Thông tư số 96/2020/TT-BTC ngày 16/11/2020 về việc công bố thông tin trên thị trường chứng khoán.\n\nPursuant to the provisions of Circular No. 96/2020/TT-BTC dated November 16, 2020, on information disclosure on the stock market.\n\n- Căn cứ Báo cáo tài chính riêng và Báo cáo tài chính hợp nhất kiểm toán năm 2022 của Công ty Cổ phần Dịch vụ Bất động sản Đất Xanh.\n\nPursuant to the audited separate financial statements and the audited consolidated financial statements of the year 2022 of Dat Xanh Real Estate Services Joint Stock Company.\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh (DXS) xin được giải trình về biến động lợi nhuận sau thuế trên báo cáo tài chính riêng và hợp nhất năm 2022 so với cùng kỳ như sau:\n\nDat Xanh Real Estate Services Joint Stock Company (DXS) explained the variance of profit after tax on the separate and consolidated financial statements of the year 2022 compared to the last year as follows:\n\nĐơn vị tính/Unit: VND",
+        "dataframe": [
+            {
+                "0": "Nội dungItems",
+                "1": "Năm/Year 2022",
+                "2": "Năm/Year 2021",
+                "3": "Chênh lệchVariance (%)"
+            },
+            {
+                "0": "1. Lợi nhuận sau thuế (BCTC riêng)",
+                "1": "451.186.585.508",
+                "2": "292.173.994.120",
+                "3": "54%"
+            },
+            {
+                "0": "Net profit after tax (Separatefinancial statement)",
+                "1": "451186585508",
+                "2": "292173994120",
+                "3": "54%"
+            },
+            {
+                "0": "2. Lợi nhuận sau thuế (BCTC hợpnhất",
+                "1": "529.940.299.594",
+                "2": "873.462.409.999",
+                "3": "(39)%"
+            },
+            {
+                "0": "Net profit after tax (Consolidatedfinancial statement)",
+                "1": "529940299594",
+                "2": "873462409999",
+                "3": "(39)%"
+            },
+            {
+                "0": "2.1. Lợi nhuận sau thuế thuộc về cổđông Công ty mẹ",
+                "1": "344.529.067.642",
+                "2": "538.795.531.509",
+                "3": "(36)%"
+            },
+            {
+                "0": "Net profit after tax attributable toshareholders of the parent",
+                "1": "344529067642",
+                "2": "538795531509",
+                "3": "(36)%"
+            },
+            {
+                "0": "2.2. Lợi nhuận sau thuế của cổ đôngkhông kiểm soát",
+                "1": "185.411.231.952",
+                "2": "334.666.878.490",
+                "3": "(45)%"
+            },
+            {
+                "0": "Net profit after tax attributable tonon-controlling interests",
+                "1": "185411231952",
+                "2": "334666878490",
+                "3": "(45)%"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_2",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "1\n\nLauz\n\n\n\nNguyên nhân/ Reasons:\n\nTheo Báo cáo tài chính kiểm toán công ty mẹ năm 2022, lợi nhuận sau thuế tăng 54% so với cùng kỳ năm 2021 nguyên nhân là do tăng thu nhập từ cổ tức được chia từ các công ty con trong hệ thống và phát sinh lãi từ thanh lý khoản đầu tư trong khi chi phí tài chính giảm do giảm dự phòng các khoản đầu tư.\n\nIn the 2022 audited separate financial statement, net profit after tax increased by 54% compared to 2021. The reason was an increase in income from dividends distributed from subsidiaries and financial income gain from disposal of investments, while financial expenses decreased as a result of a decrease in provision for investments.\n\nLợi nhuận sau thuế trên Báo cáo tài chính hợp nhất kiểm toán năm 2022 giảm 39% so với năm 2021, nguyên nhân là do tình hình khó khăn chung của thị trường ảnh hưởng đến lĩnh vực bất động sản dẫn đến doanh thu dịch vụ bất động sản sụt giảm trong khi chi phí giá vốn tăng (đo phát sinh chi phí giá vốn dịch vụ xây dựng và các dịch vụ khác).\n\nNet profit after tax on the audited consolidated financial statements in 2022 decreased by 39% compared to 2021 as a result of the general market difficulty affecting the real estate sector, resulting in lower revenue from real estate services while cost of goods sold increased due to the cost of construction services and other services.\n\nChúng tôi xin cam kết các thông tin trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố.\n\nWe hereby commit that the above information is true, and fully responsible for this published information.\n\nNơi nhận/ Recipients:\n\n- Nhu trên/ As above\n\n- Luu: VT, TC\n\nSave: Admin Dept, Finance Dept\n\nCTCP DỊCH VỤ BẮT ĐỘNG SẢN ĐẮT XANH\n\nDAT XANH REAL ESTATE SERVICES JSC\n\nTỔNG GIÁM ĐỐC\n\nGENERAL DIRECTOR\n\nPHẠM THỊ NGUYÊN THANH\n\n2\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nBáo cáo tài chính riêng\n\nCho năm tài chính kết thúc ngày 31 tháng 12 năm 2022\n\nM.S.\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nMỤC LỤC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Trang"
+            },
+            {
+                "0": "Thông tin chung",
+                "1": "1"
+            },
+            {
+                "0": "Báo cáo của Tổng Giám đốc",
+                "1": "2"
+            },
+            {
+                "0": "Báo cáo kiểm toán độc lập",
+                "1": "3 - 4"
+            },
+            {
+                "0": "Băng cân đối kế toán riêng",
+                "1": "5 - 6"
+            },
+            {
+                "0": "Báo cáo kết quả hoạt động kinh doanh riêng",
+                "1": "7"
+            },
+            {
+                "0": "Báo cáo lưu chuyển tiền tệ riêng",
+                "1": "8 - 9"
+            },
+            {
+                "0": "Thuyết minh báo cáo tài chính riêng",
+                "1": "10 - 36"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_3",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "Công ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nTHÔNG TIN CHUNG\n\nCÔNG TY\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh (\"Công ty\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Doanh nghiệp (\"GCNĐKDN\") số 3602545493 do Sở Kế hoạch và Đầu tư (\"SKHĐT\") Tĩnh Đồng Nai cấp ngày 21 tháng 7 năm 2011, và các GCNĐKDN điều chỉnh sau đó.\n\nCổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (\"SGDCKHCM\") theo Quyết định số 348/QĐ-SGDHCM do SGDCKHCM cấp ngày 25 tháng 6 năm 2021.\n\nHoạt động kinh doanh chính trong năm hiện tại của Công ty là kinh doanh bất động sản, dịch vụ môi giới bất động sản và các dịch vụ khác.\n\nCông ty có trụ sở chính đăng ký tại Số 2W Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam.\n\nHỘI ĐỒNG QUẢN TRỊ\n\nCác thành viên của Hội đồng Quản trị trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Nguyễn Trường Sơn",
+                "1": "Chủ tịch",
+                "2": ""
+            },
+            {
+                "0": "Ông Trần Quốc Thịnh",
+                "1": "Phó Chủ tịch",
+                "2": "bổ nhiệm ngày 29 tháng 4 năm 2022"
+            },
+            {
+                "0": "Ông Trần Quốc Thịnh",
+                "1": "Thành viên",
+                "2": "bổ nhiệm ngày 23 tháng 4 năm 2022"
+            },
+            {
+                "0": "Ông Phạm Anh Khôi",
+                "1": "Thành viên",
+                "2": ""
+            },
+            {
+                "0": "Ông Trần Thanh Tân",
+                "1": "Thành viên độc lập",
+                "2": ""
+            },
+            {
+                "0": "Ông Dương Văn Bắc",
+                "1": "Thành viên",
+                "2": "bổ nhiệm ngày 23 tháng 4 năm 2022"
+            },
+            {
+                "0": "Ông Lương Trí Thìn",
+                "1": "Thành viên",
+                "2": "miễn nhiệm ngày 23 tháng 4 năm 2022"
+            },
+            {
+                "0": "Ông Hà Đức Hiếu",
+                "1": "Thành viên",
+                "2": "miễn nhiệm ngày 23 tháng 4 năm 2022"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_4",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "ỦY BAN KIỂM TOÁN\n\nCác thành viên Ủy ban Kiểm toán trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Trần Thanh Tân",
+                "1": "Chữ tịch",
+                "2": ""
+            },
+            {
+                "0": "Ông Dương Văn Bắc",
+                "1": "Thành viên",
+                "2": "bổ nhiệm ngày 29 tháng 4 năm 2022"
+            },
+            {
+                "0": "Ông Hà Đức Hiếu",
+                "1": "Thành viên",
+                "2": "miễn nhiệm ngày 29 tháng 4 năm 2022"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_5",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "TỔNG GIÁM ĐỐC\n\nTổng Giám đốc trong năm và vào ngày lập báo cáo này là Bà Phạm Thị Nguyên Thanh.\n\nNGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT\n\nNgười đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo này là Bà Phạm Thị Nguyên Thanh.\n\nKIỂM TOÁN VIÊN\n\nCông ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.\n\n1\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nBÁO CÁO CỦA TỔNG GIÁM ĐỐC\n\nTổng Giám đốc Công ty Cổ phần Dịch vụ Bất động sản Đất Xanh trình bày báo cáo này và báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022.\n\nTRÁCH NHIỆM CỦA TỔNG GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH RIÊNG\n\nTổng Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính riêng cho từng năm tài chính phần ánh trung thực và hợp lý tỉnh hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng của Công ty trong năm. Trong quá trình lập báo cáo tài chính riêng này, Tổng Giám đốc cần phải:\n\nlựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;\n\n▶ thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;\n\nnêu rõ các chuẩn mực kế toán áp dụng có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mực này đã được trình bày và giải thích trong báo cáo tài chính riêng; và\n\nlập báo cáo tài chính riêng trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động.\n\nTổng Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phần ánh tỉnh hình tài chính riêng của Công ty, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Tổng Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Công ty và do đó phải thực hiện các biện pháp thích hợp để ngăn chắn và phát hiện các hành vi gian lập và những vi phạm khác.\n\nTổng Giám đốc cam kết Công ty đã tuân thủ những yêu cầu nêu trên trong việc lập báo cáo tài chính riêng kèm theo.\n\nCÔNG BÓ CỦA TỔNG GIÁM ĐỐC\n\nTheo ý kiến của Tổng Giám đốc, báo cáo tài chính riêng kèm theo phân ánh trung thực và hợp lý tinh hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2022, kết quả hoạt động kinh doanh riêng và tinh hình lưu chuẩn tin tiến tệ riêng cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và tuân thủ các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nCông ty có các công ty con như được trình bày trong báo cáo tài chính riêng. Công ty đã lập báo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 96/2020/TT-BTC - Hướng dẫn về việc công bố thông tin trên thị trường chứng khoán. Cứng theo quy định tại các văn bản này, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con (\"Nhóm Công ty\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 lập ngày 30 tháng 3 năm 2023.\n\nPhạm Thị Nguyên Thanh\n\nTổng Giám đốc\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 30 tháng 3 năm 2023\n\n2\n\n\n\nEY\nBuilding a better working world\n\nErnst & Young Vietnam Limited  \n20th Floor, Bitexco Financial Tower  \n2 Hai Trieu Street, District 1  \nHo Chi Minh City, S.R. of Vietnam\n\nTel: +84 28 3824 5252\nFax: +84 28 3824 5250\ney.com\n\nSố tham chiếu: 11950710/22989873\n\nBÁO CÁO KIÊM TOÁN ĐỘC LẬP\n\nKính gửi: Quý Cổ đông của Công ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nChứng tôi đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Dịch vụ Bất động sản Đất Xanh (“Công ty”) được lập ngày 30 tháng 3 năm 2023 và được trình bày từ trang 5 đến trang 36, bao gồm bằng cân đối kế toán riêng vào ngày 31 tháng 12 năm 2022, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cũng ngày và các thuyết minh báo cáo tài chính riêng kèm theo.\n\nTrách nhiệm của Tổng Giám đốc\n\nTổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty theo các Chuẩn mực kể toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính riêng do gian lập hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tình hợp lý của các ước tính kế toán của Tổng Giám đốc Công ty cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\nA member firm of Ernst & Young Global Limited\n\n3\n\n\n\n[Non-Text]\n\nEY\n\nBuilding a better working world\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến của chúng tôi, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu, tỉnh hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2022, cũng như kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nCông ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam\n\nDương Lê Anthony\n\nPhó Tổng Giám đốc\n\nGiấy CNDKHN kiểm toán\n\nSố: 2223-2023-004-1\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 30 tháng 3 năm 2023\n\nNguyễn Minh Thanh\n\nKiểm toán viên\n\nGiấy CNDKHN kiểm toán\n\nSố: 5559-2020-004-1\n\n4\n\nA member firm of Ernst & Young Global Limited\n\n\\( \\because {S}_{\\Delta APQ} = {S}_{\\Delta AQP} + {S}_{\\Delta QPQ} \\)\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB01-DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG\n\nvào ngày 31 tháng 12 năm 2022\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "100",
+                "1": "A. TÀI SẢN NGĂN HẠN",
+                "2": "",
+                "3": "6.069.494.510.977",
+                "4": "5.561.145.354.389"
+            },
+            {
+                "0": "110",
+                "1": "I. Tiền và các khoản tương đương tiền",
+                "2": "4",
+                "3": "186.102.530.203",
+                "4": "949.651.685.459"
+            },
+            {
+                "0": "111",
+                "1": "1. Tiền",
+                "2": "",
+                "3": "38.102.530.203",
+                "4": "38.351.685.459"
+            },
+            {
+                "0": "112",
+                "1": "2. Các khoản tương đương tiền",
+                "2": "",
+                "3": "148.000.000.000",
+                "4": "911.300.000.000"
+            },
+            {
+                "0": "130",
+                "1": "II. Các khoản phải thu ngắn hạn",
+                "2": "",
+                "3": "5.840.919.092.581",
+                "4": "4.584.349.239.893"
+            },
+            {
+                "0": "131",
+                "1": "1. Phải thu ngắn hạn của khách hàng",
+                "2": "5",
+                "3": "762.474.377.926",
+                "4": "777.304.306.052"
+            },
+            {
+                "0": "132",
+                "1": "2. Trả trước cho người bán ngắn hạn",
+                "2": "6",
+                "3": "247.323.099.258",
+                "4": "217.493.882.821"
+            },
+            {
+                "0": "135",
+                "1": "3. Phải thu về cho vay ngắn hạn",
+                "2": "7",
+                "3": "100.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "136",
+                "1": "4. Phải thu ngắn hạn khác",
+                "2": "8",
+                "3": "4.740.974.162.686",
+                "4": "3.591.618.809.353"
+            },
+            {
+                "0": "137",
+                "1": "5. Dự phòng phải thu ngắn hạn khó đòi",
+                "2": "",
+                "3": "(9.852.547.289)",
+                "4": "(2.067.758.333)"
+            },
+            {
+                "0": "140",
+                "1": "III. Hàng tồn kho",
+                "2": "",
+                "3": "1.934.485.168",
+                "4": "1.949.338.805"
+            },
+            {
+                "0": "141",
+                "1": "1. Hàng tồn kho",
+                "2": "",
+                "3": "1.934.485.168",
+                "4": "1.949.338.805"
+            },
+            {
+                "0": "150",
+                "1": "IV. Tài sản ngắn hạn khác",
+                "2": "",
+                "3": "40.538.403.025",
+                "4": "25.195.090.232"
+            },
+            {
+                "0": "151",
+                "1": "1. Chi phí trả trước ngắn hạn",
+                "2": "9",
+                "3": "37.694.774.912",
+                "4": "24.885.595.830"
+            },
+            {
+                "0": "153",
+                "1": "2. Thuế và các khoản khác phải thu Nhà nước",
+                "2": "",
+                "3": "2.843.628.113",
+                "4": "309.494.402"
+            },
+            {
+                "0": "200",
+                "1": "B. TÀI SẢN DÀI HẠN",
+                "2": "",
+                "3": "3.064.837.569.763",
+                "4": "2.781.842.413.768"
+            },
+            {
+                "0": "210",
+                "1": "I. Các khoản phải thu dài hạn",
+                "2": "8",
+                "3": "36.000.000",
+                "4": "36.000.000"
+            },
+            {
+                "0": "216",
+                "1": "1. Phải thu dài hạn khác",
+                "2": "",
+                "3": "36.000.000",
+                "4": "36.000.000"
+            },
+            {
+                "0": "220",
+                "1": "II. Tài sản cố định",
+                "2": "",
+                "3": "14.366.862.504",
+                "4": "22.014.631.705"
+            },
+            {
+                "0": "221",
+                "1": "1. Tài sản cố định hữu hình",
+                "2": "",
+                "3": "1.006.707.171",
+                "4": "993.020.945"
+            },
+            {
+                "0": "222",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "1.871.998.034",
+                "4": "1.477.233.489"
+            },
+            {
+                "0": "223",
+                "1": "Giá trị khấu hao lũy kế",
+                "2": "",
+                "3": "(865.290.863)",
+                "4": "(484.212.544)"
+            },
+            {
+                "0": "227",
+                "1": "2. Tài sản cố định vô hình",
+                "2": "",
+                "3": "13.360.155.333",
+                "4": "21.021.610.760"
+            },
+            {
+                "0": "228",
+                "1": "Nguyên giá",
+                "2": "",
+                "3": "24.080.973.475",
+                "4": "24.080.973.475"
+            },
+            {
+                "0": "229",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "",
+                "3": "(10.720.818.142)",
+                "4": "(3.059.362.715)"
+            },
+            {
+                "0": "250",
+                "1": "III. Đầu tư tài chính dài hạn",
+                "2": "10",
+                "3": "3.049.936.134.683",
+                "4": "2.759.187.595.957"
+            },
+            {
+                "0": "251",
+                "1": "1. Đầu tư vào công ty con",
+                "2": "",
+                "3": "2.960.029.241.483",
+                "4": "3.076.717.892.118"
+            },
+            {
+                "0": "252",
+                "1": "2. Đầu tư vào công ty liên kết, đồng kiểm soát",
+                "2": "",
+                "3": "171.375.142.277",
+                "4": "-"
+            },
+            {
+                "0": "254",
+                "1": "3. Dự phòng đầu tư dài hạn",
+                "2": "",
+                "3": "(81.468.249.077)",
+                "4": "(317.530.296.161)"
+            },
+            {
+                "0": "260",
+                "1": "IV. Tài sản dài hạn khác",
+                "2": "",
+                "3": "498.572.576",
+                "4": "604.186.106"
+            },
+            {
+                "0": "261",
+                "1": "1. Chi phí trả trước dài hạn",
+                "2": "",
+                "3": "390.989.840",
+                "4": "496.603.370"
+            },
+            {
+                "0": "262",
+                "1": "2. Tài sản thuế thu nhập hoãn lại",
+                "2": "21.3",
+                "3": "107.582.736",
+                "4": "107.582.736"
+            },
+            {
+                "0": "270",
+                "1": "TỔNG CỘNG TÀI SẢN",
+                "2": "",
+                "3": "9.134.332.080.740",
+                "4": "8.342.987.768.157"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_6",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "5\n\n1.01 一、二、三、四、五、六\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB01-DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "300",
+                "1": "C. NỘ PHẢI TRẢ",
+                "2": "",
+                "3": "3.218.927.838.587",
+                "4": "2.862.631.245.568"
+            },
+            {
+                "0": "310",
+                "1": "I. Nợ ngắn hạn",
+                "2": "",
+                "3": "3.218.927.838.587",
+                "4": "2.862.631.245.568"
+            },
+            {
+                "0": "311",
+                "1": "1. Phải trả người bán ngắn hạn",
+                "2": "11",
+                "3": "16.529.997.884",
+                "4": "46.047.200.805"
+            },
+            {
+                "0": "312",
+                "1": "2. Người mua trả tiền trước ngắn hạn",
+                "2": "",
+                "3": "1.119.326.776",
+                "4": "1.751.071.365"
+            },
+            {
+                "0": "313",
+                "1": "3. Thuế và các khoản phải nộp Nhà nước",
+                "2": "12",
+                "3": "9.061.172.671",
+                "4": "7.130.573.569"
+            },
+            {
+                "0": "314",
+                "1": "4. Phải trả người lao động",
+                "2": "",
+                "3": "3.501.046.552",
+                "4": "4.734.696.966"
+            },
+            {
+                "0": "315",
+                "1": "5. Chi phí phải trả ngắn hạn",
+                "2": "13",
+                "3": "25.197.420.783",
+                "4": "33.351.932.612"
+            },
+            {
+                "0": "319",
+                "1": "6. Phải trả ngắn hạn khác",
+                "2": "14",
+                "3": "3.084.047.668.428",
+                "4": "2.702.300.160.743"
+            },
+            {
+                "0": "320",
+                "1": "7. Vay ngắn hạn",
+                "2": "15",
+                "3": "27.500.000.000",
+                "4": "27.500.000.000"
+            },
+            {
+                "0": "322",
+                "1": "8. Quỹ khen thưởng, phúc lợi",
+                "2": "",
+                "3": "51.971.205.494",
+                "4": "39.815.609.508"
+            },
+            {
+                "0": "400",
+                "1": "D. VỐN CHỦ SỞ HỮU",
+                "2": "",
+                "3": "5.915.404.242.153",
+                "4": "5.480.356.522.589"
+            },
+            {
+                "0": "410",
+                "1": "I. Vốn chủ sở hữu",
+                "2": "16",
+                "3": "5.915.404.242.153",
+                "4": "5.480.356.522.589"
+            },
+            {
+                "0": "411",
+                "1": "1. Vốn cổ phần",
+                "2": "",
+                "3": "4.531.223.770.000",
+                "4": "3.582.012.080.000"
+            },
+            {
+                "0": "411a",
+                "1": "- Cổ phiếu phổ thông có quyền biểu quyết",
+                "2": "",
+                "3": "4.531.223.770.000",
+                "4": "3.582.012.080.000"
+            },
+            {
+                "0": "412",
+                "1": "2. Thặng dư vốn cổ phần",
+                "2": "",
+                "3": "804.503.548.710",
+                "4": "1.105.361.088.710"
+            },
+            {
+                "0": "421",
+                "1": "3. Lợi nhuận sau thuế chưa phân phối",
+                "2": "",
+                "3": "579.676.923.443",
+                "4": "792.983.353.879"
+            },
+            {
+                "0": "421a",
+                "1": "- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước",
+                "2": "",
+                "3": "128.490.337.934",
+                "4": "500.809.359.759"
+            },
+            {
+                "0": "421b",
+                "1": "- Lợi nhuận sau thuế chưa phân phối năm nay",
+                "2": "",
+                "3": "451.186.585.508",
+                "4": "292.173.994.120"
+            },
+            {
+                "0": "440",
+                "1": "TỔNG CỘNG NGUỒN VỐN",
+                "2": "",
+                "3": "9.134.332.080.740",
+                "4": "8.342.987.768.157"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_7",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "Nguyễn Thị Huyền Trân\nNgười lập\n\nNguyễn Huỳnh Quang Tuân\nKế toán trường\n\nPhạm Thị Nguyên Thanh Tổng Giám đốc Angr\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 30 tháng 3 năm 2023\n\n6\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB02-DN\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2022\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "10",
+                "1": "1. Doanh thu thuần cung cấp dịch vụ",
+                "2": "17.1",
+                "3": "304.165.621.684",
+                "4": "694.165.954.434"
+            },
+            {
+                "0": "11",
+                "1": "2. Giá vốn dịch vụ cung cấp",
+                "2": "18",
+                "3": "(199.155.067.283)",
+                "4": "(373.445.455.826)"
+            },
+            {
+                "0": "20",
+                "1": "3. Lợi nhuận gộp cung cấp dịch vụ",
+                "2": "",
+                "3": "105.010.554.401",
+                "4": "320.720.498.608"
+            },
+            {
+                "0": "21",
+                "1": "4. Doanh thu hoạt động tài chính",
+                "2": "17.2",
+                "3": "478.687.787.208",
+                "4": "342.549.306.913"
+            },
+            {
+                "0": "22",
+                "1": "5. Chi phí tài chính",
+                "2": "19",
+                "3": "(74.721.339.708)",
+                "4": "(312.741.955.567)"
+            },
+            {
+                "0": "23",
+                "1": "Trong đó: Chi phí lãi vay",
+                "2": "",
+                "3": "(2.324.999.996)",
+                "4": "(2.261.301.366)"
+            },
+            {
+                "0": "25",
+                "1": "6. Chi phí bán hàng",
+                "2": "20",
+                "3": "(39.641.758.093)",
+                "4": "(38.919.165.757)"
+            },
+            {
+                "0": "26",
+                "1": "7. Chi phí quản lý doanh nghiệp",
+                "2": "20",
+                "3": "(35.225.577.457)",
+                "4": "(22.276.796.433)"
+            },
+            {
+                "0": "30",
+                "1": "8. Lợi nhuận thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "434.109.666.351",
+                "4": "289.331.887.764"
+            },
+            {
+                "0": "31",
+                "1": "9. Thu nhập khác",
+                "2": "",
+                "3": "14.817.170.330",
+                "4": "7.337.176.800"
+            },
+            {
+                "0": "32",
+                "1": "10. Chi phí khác",
+                "2": "",
+                "3": "(274.384.884)",
+                "4": "(3.988.350.497)"
+            },
+            {
+                "0": "40",
+                "1": "11. Lợi nhuận khác",
+                "2": "",
+                "3": "14.542.785.446",
+                "4": "3.348.826.303"
+            },
+            {
+                "0": "50",
+                "1": "12. Tổng lợi nhuận kế toán trước thuế",
+                "2": "",
+                "3": "448.652.451.797",
+                "4": "292.680.714.067"
+            },
+            {
+                "0": "51",
+                "1": "13. (Thu nhập) chi phí thuế TNDN hiện hành",
+                "2": "21.1",
+                "3": "2.534.133.711",
+                "4": "(346.156.245)"
+            },
+            {
+                "0": "52",
+                "1": "14. Chi phí thuế TNDN hoãn lại",
+                "2": "21.3",
+                "3": "-",
+                "4": "(160.563.702)"
+            },
+            {
+                "0": "60",
+                "1": "15. Lợi nhuận sau thuế TNDN",
+                "2": "",
+                "3": "451.186.585.508",
+                "4": "292.173.994.120"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_8",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "Nguyễn Thị Huyền Trân\nNgười lập\n\nNguyễn Huỳnh Quang Tuân\nKế toán trường\n\nPhạm Thị Nguyên Thanh Tổng Giám đốc Anghu\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 30 tháng 3 năm 2023\n\n7\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB03-DN\n\nBÁO CÁO LƯU CHUYỄN TIỀN TỆ RIÊNG\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2022\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "",
+                "1": "I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "01",
+                "1": "Tổng lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản:",
+                "2": "",
+                "3": "448.652.451.797",
+                "4": "292.680.714.067"
+            },
+            {
+                "0": "02",
+                "1": "Khấu hao và hao mòn tài sản cố định",
+                "2": "20",
+                "3": "8.042.533.746",
+                "4": "2.763.233.180"
+            },
+            {
+                "0": "03",
+                "1": "Dự phòng",
+                "2": "19, 20",
+                "3": "71.208.790.132",
+                "4": "311.685.594.028"
+            },
+            {
+                "0": "05",
+                "1": "Lãi từ hoạt động đầu tư",
+                "2": "17.2, 19",
+                "3": "(469.715.448.672)",
+                "4": "(342.549.306.913)"
+            },
+            {
+                "0": "06",
+                "1": "Chi phí lãi vay",
+                "2": "19",
+                "3": "2.324.999.996",
+                "4": "2.261.301.366"
+            },
+            {
+                "0": "08",
+                "1": "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+                "2": "",
+                "3": "60.513.326.999",
+                "4": "266.841.535.728"
+            },
+            {
+                "0": "09",
+                "1": "Tăng các khoản phải thu",
+                "2": "",
+                "3": "(1.149.861.575.317)",
+                "4": "(1.905.121.690.929)"
+            },
+            {
+                "0": "10",
+                "1": "Giảm hàng tồn kho",
+                "2": "",
+                "3": "14.853.637",
+                "4": "554.577.862"
+            },
+            {
+                "0": "11",
+                "1": "Tăng các khoản phải trả",
+                "2": "",
+                "3": "344.350.294.326",
+                "4": "1.087.375.256.515"
+            },
+            {
+                "0": "12",
+                "1": "Tăng chi phí trả trước",
+                "2": "",
+                "3": "(12.703.565.552)",
+                "4": "(3.783.131.193)"
+            },
+            {
+                "0": "14",
+                "1": "Tiền lãi vay đã trả",
+                "2": "",
+                "3": "-",
+                "4": "(221.530.957)"
+            },
+            {
+                "0": "15",
+                "1": "Thuế thu nhập doanh nghiệp đã nộp",
+                "2": "12",
+                "3": "(163.577)",
+                "4": "(164.478.759.552)"
+            },
+            {
+                "0": "17",
+                "1": "Tiền chi khác cho hoạt động kinh doanh",
+                "2": "",
+                "3": "(4.008.269.959)",
+                "4": "(10.213.095.031)"
+            },
+            {
+                "0": "20",
+                "1": "Lưu chuyển tiền thuần sử dụng vào hoạt động kinh doanh",
+                "2": "",
+                "3": "(761.695.099.443)",
+                "4": "(729.046.837.557)"
+            },
+            {
+                "0": "",
+                "1": "II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "21",
+                "1": "Tiền chỉ để mua sắm tài sản cố định",
+                "2": "",
+                "3": "(394.764.545)",
+                "4": "(1.069.379.391)"
+            },
+            {
+                "0": "23",
+                "1": "Tiền chi cho vay và tiền gửi ngân hàng",
+                "2": "",
+                "3": "(200.000.000.000)",
+                "4": "(250.000.000.000)"
+            },
+            {
+                "0": "24",
+                "1": "Tiền thu hồi cho vay và tiền gửi ngân hàng",
+                "2": "",
+                "3": "100.000.000.000",
+                "4": "257.452.000.000"
+            },
+            {
+                "0": "25",
+                "1": "Tiền chỉ đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "(416.658.400.000)",
+                "4": "(392.374.808.335)"
+            },
+            {
+                "0": "26",
+                "1": "Tiền thu từ việc bán các khoản đầu tư vào đơn vị khác",
+                "2": "",
+                "3": "68.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "27",
+                "1": "Tiền thu lãi tiền gửi, cổ tức",
+                "2": "",
+                "3": "447.174.108.732",
+                "4": "352.533.320.205"
+            },
+            {
+                "0": "30",
+                "1": "Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tư",
+                "2": "",
+                "3": "(1.879.055.813)",
+                "4": "(33.458.867.521)"
+            },
+            {
+                "0": "",
+                "1": "III. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "31",
+                "1": "Tiền thu từ phát hành cổ phiếu",
+                "2": "16.1",
+                "3": "25.000.000",
+                "4": "1.121.979.776.235"
+            },
+            {
+                "0": "33",
+                "1": "Tiền thu từ đi vay",
+                "2": "",
+                "3": "-",
+                "4": "27.500.000.000"
+            },
+            {
+                "0": "40",
+                "1": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                "2": "",
+                "3": "25.000.000",
+                "4": "1.149.479.776.235"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_9",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "8\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB03-DN\n\nBÁO CÁO LƯU CHUYỄN TIỀN TỆ RIÊNG (tiếp theo)\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2022\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "50",
+                "1": "Lưu chuyển tiền thuần trong năm",
+                "2": "",
+                "3": "(763.549.155.256)",
+                "4": "386.974.071.157"
+            },
+            {
+                "0": "60",
+                "1": "Tiền và tương đương tiền đầu năm",
+                "2": "",
+                "3": "949.651.685.459",
+                "4": "562.677.614.302"
+            },
+            {
+                "0": "70",
+                "1": "Tiền và tương đương tiền cuối năm",
+                "2": "4",
+                "3": "186.102.530.203",
+                "4": "949.651.685.459"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_10",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "Nguyễn Thị Huyền Trân\nNgười lập\n\nNguyễn Huỳnh Quang Tuân\nKế toán trường\n\nPhạm Thị Nguyên Thanh Tổng Giám đốc Anghum\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 30 tháng 3 năm 2023\n\n9\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n1. THÔNG TIN VỀ CÔNG TY\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh (\"Công ty\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp Việt Nam theo Giấy Chứng nhận Đăng ký Doanh nghiệp (\"GCNDKDN\") số 3602545493 do Sở Kế hoạch và Đầu tư (\"SKHĐT\") Tính Đồng Nai cấp ngày 21 tháng 7 năm 2011 và các GCNDKDN điều chỉnh sau đó.\n\nCổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (\"SGDCKHCM\") theo Quyết định số 348/QĐ-SGDHCM do SGDCKHCM cấp ngày 25 tháng 6 năm 2021.\n\nHoạt động kinh doanh chính trong năm hiện tại của Công ty là kinh doanh bất động sản, dịch vụ môi giới bất động sản (\"BĐS\") và các dịch vụ khác.\n\nCông ty có trụ sở chính đăng ký tại Số 2W Ung Văn Khiêm, Phương 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam.\n\nSố lượng nhân viên của Công ty vào ngày 31 tháng 12 năm 2022 là 158 (31 tháng 12 năm 2021: 261).\n\n2. CO' SÔ' TRÌNH BÀY\n\n2.1 Mục đích lập báo cáo tài chính riêng\n\nCông ty có các công ty con như được trình bày trong báo cáo tài chính riêng. Công ty đã lập báo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 96/2020/TT-BTC - Hướng dẫn về việc công bố thông tin trên thị trường chứng khoán. Cứng theo quy định tại các văn bản này, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con (\"Nhóm Công ty\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 được lập ngày 30 tháng 3 năm 2022.\n\nNgười sử dụng báo cáo tài chính riêng nên đọc báo cáo này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty.\n\n2.2 Chuẩn mục và Chế độ kế toán áp dụng\n\nBáo cáo tài chính riêng của Công ty được trình bày bằng đồng Việt Nam (\"VND\"), phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam do Bộ Tài chính ban hành theo:\n\n- Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);\n\n- Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);\n\n- Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 3);\n\n- Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 4); và\n\n- Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).\n\nTheo đó, báo cáo tài chính riêng được trình bày kèm theo và việc sử dụng báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tỉnh hình tài chính riêng, kết quả hoạt động kinh doanh riêng và lưu chuyển tiền tệ riêng theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.\n\n2.3 Hình thức số kế toán áp dụng\n\nHình thức số kế toán áp dụng được đăng ký của Công ty là Nhật ký chung.\n\n10\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n2. CO' SÔ' TRÌNH BÀY (tiếp theo)\n\n2.4 Ký kế toán năm\n\nKỳ kế toán năm của Công ty áp dụng cho việc lập báo cáo tài chính riêng bắt đầu vào ngày 1 tháng 1 và kết thúc vào ngày 31 tháng 12.\n\n2.5 Đơn vị tiền tệ kế toán\n\nBáo cáo tài chính riêng được lập bằng đơn vị tiền tệ trong kế toán của Công ty là VND.\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU\n\n3.1 Tiền và các khoản tương đương tiền\n\nTiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, các khoản đầu tư ngắn hạn có thời hạn gốc không quá ba tháng, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.\n\n3.2 Hàng tồn kho\n\nHàng hóa bất động sản\n\nBắt động sản được mua hoặc được xây dựng để bán trong quá trình hoạt động bình thường của Công ty, không phải để cho thuê hoặc chờ tăng giá, được ghi nhận là hàng hóa bất động sản theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.\n\nGiá thành của hàng hóa bất động sản bao gồm:\n\n• Chi phí tiền sử dụng đất và tiền thuê đất;\n\n• Chi phí xây dựng trả cho nhà thầu; và\n\n- Chi phí lãi vay, chi phí tư vấn, thiết kế, chi phí san lắp, đền bù giải phóng mặt bằng, phí tư vấn, thuế chuyển nhượng đất, chi phí quản lý xây dựng chung, và các chi phí liên quan khác.\n\nGiá trị thuần có thể thực hiện được là giá bán ước tính của hàng hóa bất động sản trong điều kiện kinh doanh bình thường, dựa trên giá thị trường vào ngày báo cáo và được chiết khấu cho giá trị thời gian của dòng tiền, nếu đáng kể, và trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.\n\nGiá vốn của bất động sản đã bán được ghi nhận trên báo cáo kết quả hoạt động kinh doanh riêng dựa trên các chi phí trực tiếp tạo thành bất động sản đó và chi phí chung được phân bổ trên cơ sở diện tích tương ứng của bất động sản đó.\n\nDự phòng giảm giá hàng tồn kho\n\nDự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị (do giảm giá, hư hồng, kém phẩm chất, lỗi thời v.v.) có thể xây ra đối với hàng tồn kho dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc năm tài chính.\n\nSố tăng hoặc giảm khoản dự phòng giảm giá hàng tồn kho được hạch toán vào giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh riêng.\n\n11\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.3 Các khoản phải thu\n\nCác khoản phải thu được trình bày trên báo cáo tài chính riêng theo giá trị ghi số các khoản phải thu từ khách hàng và phải thu khác sau khi cắn trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.\n\nDự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc năm tài chính. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào tài khoản chi phí quản lý doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.4 Tài sản cố định hữu hình\n\nTài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế.\n\nNguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sẵn sàng hoạt động như dự kiến.\n\nCác chỉ phí mua sắm, nâng cấp và đổi mới tài sản cố định hữu hình được ghi tăng nguyên giá của tài sản và chỉ phí bảo trì, sửa chữa được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.\n\nKhi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.5 Tài sản cố định vô hình\n\nTài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.\n\nNguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.\n\nCác chỉ phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chỉ phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.\n\nKhi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tả sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.6 Khấu hao và hao mòn\n\nKhấu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích thec phương pháp đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:",
+        "dataframe": [
+            {
+                "0": "Phần mềm máy tính",
+                "1": "3 - 5 năm"
+            },
+            {
+                "0": "Thiết bị văn phòng",
+                "1": "3 năm"
+            },
+            {
+                "0": "Phương tiện vận chuyển",
+                "1": "6 năm"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_11",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "3.7 Chi phí đi vay\n\nChi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Công ty và được hạch toán như chi phí khi phát sinh.\n\n12\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.8 Chi phí trả trước\n\nChi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bằng cân đối kế toán riêng và được phân bổ trong khoảng thời gian trả trước của chi phí tương ứng với các lợi ích kinh tế được tạo ra từ các chi phí này.\n\n3.9 Các khoản đầu tư\n\nĐầu tư vào các công ty con\n\nCác khoản đầu tư vào công ty con mà trong đó Công ty nấm quyền kiểm soát được trình bày theo phương pháp giá gốc.\n\nCác khoản phân phối mà Công ty nhận được từ số lợi nhuận thuần lũy kế của công ty con sau ngày Công ty nấm quyền kiểm soát được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng của Công ty. Các khoản phân phối khác được xem như phần thu hồi của các khoản đầu tư và được trừ vào giá trị đầu tư.\n\nDự phòng giảm giá trị các khoản đầu tư góp vốn\n\nDự phòng cho việc giảm giá trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này vào ngày kết thúc năm tài chính. Tăng hoặc giảm số dự phòng được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.10 Các khoản phải trả và chi phí trích trước\n\nCác khoản phải trả và trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được mà không phụ thuộc vào việc Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.\n\n3.11 Phân chia lợi nhuận\n\nLợi nhuận thuần sau thuế thu nhập doanh nghiệp có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam.\n\nCông ty trích lập các quỹ dự phòng sau từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Công ty theo đề nghị của Hội đồng Quản trị và được các cổ đông phê duyệt tại Đại hội Đồng Cổ đông thường niên:\n\nQuỹ khen thưởng, phúc lợi\n\nQuỹ này được trích lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho công nhân viên, và được trình bày như một khoản phải trả trên bằng cân đối kế toán riêng.\n\n3.12 Ghi nhận doanh thu\n\nDoanh thu được ghi nhận khi Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lai. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng trước khi ghi nhận doanh thu:\n\nDoanh thu dịch vụ môi giới bất động sản và dịch vụ khác\n\nDoanh thu được ghi nhận khi dịch vụ đã được cung cấp và hoàn thành.\n\nTiền lãi\n\nDoanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở dồn tích (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.\n\nCổ tức\n\nDoanh thu được ghi nhận khi quyền được nhận khoản thanh toán cổ tức của Công ty được xác lập.\n\n13\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.13 Thuế\n\nThuế thu nhập hiện hành\n\nTài sản thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến được thu hồi từ hoặc phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc năm tài chính.\n\nThuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\nCông ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.\n\nThuế thu nhập hoãn lại\n\nThuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc năm tài chính giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của các khoản mục này cho mục đích lập báo cáo tài chính riêng.\n\nThuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế.\n\nTài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này.\n\nGiá trị ghi sổ cửa tài sản thuế thu nhập hoãn lại phải được xem xét lại vào ngày kết thúc năm tài chính và phải giảm giá trị ghi sổ cửa tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tỉnh thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập hoãn lại chưa ghi nhận trước đây được xem xét lại vào ngày kết thúc năm tài chính và được ghi nhận khi chắc chắn có đủ lợi nhuận tỉnh thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.\n\nTài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho năm tài chính khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc năm tả chính.\n\nThuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\nCông ty chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả này liên quan tối thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế đối với cùng một đơn vị chịu thuế hoặc Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng ký tương lai khi các khoản trọng yếu của thuế thu nhập hoãn lại phải trả hoặc tài sản thuế thu nhập hoãn lại được thanh toán hoặc thu hồi.\n\n14\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.14 Các bên liên quan\n\nCác bên được coi là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan nêu trên có thể là các công ty hoặc các cá nhân bao gồm cả các thành viên mật thiết trong gia đình của họ.\n\n4. TIỀN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIỀN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "317.246.507",
+                "2": "189.039.857"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "37.785.283.696",
+                "2": "38.162.645.602"
+            },
+            {
+                "0": "Các khoản tương đương tiền (*)",
+                "1": "148.000.000.000",
+                "2": "911.300.000.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "186.102.530.203",
+                "2": "949.651.685.459"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_12",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "(*) Các khoản tương đương tiền thể hiện các khoản tiền gửi ngắn hạn có kỳ hạn gốc một (1) tháng tại các ngân hàng thương mại và hưởng lãi suất 3,0 – 6,0%/năm.\n\n5. PHÀI THU NGẮN HẠN CỦA KHÁCH HÀNG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Phải thu từ khách hàng",
+                "1": "1.345.179.474",
+                "2": "690.806.468"
+            },
+            {
+                "0": "- Công ty Cổ phần Dịch vụ và Đầu tư Đông Nam Bộ",
+                "1": "1.159.327.009",
+                "2": "-"
+            },
+            {
+                "0": "- Công ty TNHH DCT Partners Việt Nam",
+                "1": "170.758.983",
+                "2": "522.532.801"
+            },
+            {
+                "0": "- Khác",
+                "1": "15.093.482",
+                "2": "168.273.667"
+            },
+            {
+                "0": "Phải thu từ các bên liên quan (Thuyết minh số 22)",
+                "1": "761.129.198.452",
+                "2": "776.613.499.584"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "762.474.377.926",
+                "2": "777.304.306.052"
+            },
+            {
+                "0": "Dự phòng phải thu ngắn hạn của khách hàng",
+                "1": "(211.750.000)",
+                "2": "(127.050.000)"
+            },
+            {
+                "0": "GIÁ TRỊ THUÀN",
+                "1": "762.262.627.926",
+                "2": "777.177.256.052"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_13",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "15\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n6. TRÀ TRƯỚC CHO NGƯỜI BÁN NGÂN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Trả trước cho người bán",
+                "1": "211.049.361.340",
+                "2": "189.443.968.476"
+            },
+            {
+                "0": "- Công ty Cổ phần Tập đoàn Đầu tư và Thương mại Thăng Long",
+                "1": "158.128.975.466",
+                "2": "158.128.975.466"
+            },
+            {
+                "0": "- Khác",
+                "1": "52.920.385.874",
+                "2": "31.314.993.010"
+            },
+            {
+                "0": "Trả trước cho các bên liên quan (Thuyết minh số 22)",
+                "1": "36.273.737.918",
+                "2": "28.049.914.345"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "247.323.099.258",
+                "2": "217.493.882.821"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_14",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "7. PHÀI THU VỀ CHO VAY NGẤN HẠN\n\nKhoản này thể hiện các khoản cho vay ngắn hạn của Công ty cho Hà An, có thời hạn một (1) tháng với lãi suất 7,0%/năm.\n\n8. PHẢI THU KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "Ngắn hạn",
+                "2": "Ngắn hạn"
+            },
+            {
+                "0": "Tạm hoàn ứng cho chủ đầu tư",
+                "1": "2.446.640.760.655",
+                "2": "1.578.882.475.033"
+            },
+            {
+                "0": "Ký quỹ cho các hợp đồng tiếp thị và phân phối dự án bất động sản (*)",
+                "1": "2.172.832.257.533",
+                "2": "1.871.897.410.067"
+            },
+            {
+                "0": "Vốn góp theo các hợp đồng hợp tác kinh doanh (\"HĐHTKD\") (**)",
+                "1": "52.379.472.100",
+                "2": "88.879.472.100"
+            },
+            {
+                "0": "Cổ tức",
+                "1": "40.198.492.515",
+                "2": "24.804.925.264"
+            },
+            {
+                "0": "Ứng trước tiền sử dụng đất nhà ở xã hội dự án Khu dân cư Gold Hill",
+                "1": "15.000.000.000",
+                "2": "15.000.000.000"
+            },
+            {
+                "0": "Khác",
+                "1": "13.923.179.883",
+                "2": "12.154.526.889"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "4.740.974.162.686",
+                "2": "3.591.618.809.353"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "Dài hạn",
+                "2": "Dài hạn"
+            },
+            {
+                "0": "Khác",
+                "1": "36.000.000",
+                "2": "36.000.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "4.741.010.162.686",
+                "2": "3.591.654.809.353"
+            },
+            {
+                "0": "Dự phòng phải thu khác",
+                "1": "(9.640.797.289)",
+                "2": "(1.940.708.333)"
+            },
+            {
+                "0": "GIÁ TRỊ THUẦN",
+                "1": "4.731.369.365.397",
+                "2": "3.589.714.101.020"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Phải thu bên liên quan (Thuyết minh số 22)",
+                "1": "4.718.773.319.129",
+                "2": "3.569.506.057.907"
+            },
+            {
+                "0": "Phải thu bên khác",
+                "1": "22.236.843.557",
+                "2": "22.148.751.446"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_15",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "(*) Số cuối năm bao gồm các khoản ký quỹ, ký cực cho các hợp đồng tiếp thị và phân phối dự án Gem Sky World, Gem Riverside, Opal Skyline và các dự án khác.\n\n(**) Khoản này thể hiện phần vốn góp theo các HĐHTKD liên quan đến việc hợp tác tìm kiếm, thực hiện phân phối độc quyền các dự án bất động sản.\n\n16\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n9. CHI PHÍ TRÀ TRƯỚC NGÂN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm"
+            },
+            {
+                "0": "Chi phí hoa hồng môi giới",
+                "1": "37.208.676.121",
+                "2": "24.410.904.927"
+            },
+            {
+                "0": "Công cụ, dụng cụ",
+                "1": "9.730.554",
+                "2": "107.978.337"
+            },
+            {
+                "0": "Khác",
+                "1": "476.368.237",
+                "2": "366.712.566"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "37.694.774.912",
+                "2": "24.885.595.830"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Đầu tư vào công ty con (i)",
+                "1": "2.960.029.241.483",
+                "2": "3.076.717.892.118"
+            },
+            {
+                "0": "Đầu tư vào công ty liên kết (ii)",
+                "1": "171.375.142.277",
+                "2": "-"
+            },
+            {
+                "0": "Dự phòng đầu tư tài chính dài hạn",
+                "1": "(81.468.249.077)",
+                "2": "(317.530.296.161)"
+            },
+            {
+                "0": "GIÁ TRỊ THUẦN",
+                "1": "3.049.936.134.683",
+                "2": "2.759.187.595.957"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_16",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "17\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n10. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)\n\n(i) Chi tiết đầu tư vào công ty con như sau:",
+        "dataframe": [
+            {
+                "0": "Tên công ty con",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Tình trạng hoạt động",
+                "3": "Số cuối năm",
+                "4": "Số cuối năm",
+                "5": "Số đầu năm",
+                "6": "Số đầu năm"
+            },
+            {
+                "0": "Tên công ty con",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Tình trạng hoạt động",
+                "3": "Tỷ lệ sở hữu %",
+                "4": "Giá gốc đầu tư VND",
+                "5": "Tỷ lệ sở hữu %",
+                "6": "Giá gốc đầu tư VND"
+            },
+            {
+                "0": "Công ty Cổ phần Đất Xanh Miền Trung (\"Đất Xanh Miền Trung\") (i)",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "55",
+                "4": "994.629.900.000",
+                "5": "55",
+                "6": "812.029.900.000"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ và Địa ốc Đất Xanh Miền Bắc (\"Đất Xanh Miền Bắc\") (ii)",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "635",
+                "4": "890.867.541.498",
+                "5": "635",
+                "6": "700.367.541.498"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản LinkGroup (\"LinkGroup\")",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "805",
+                "4": "624.783.399.435",
+                "5": "805",
+                "6": "624.783.399.435"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ và Đầu tư Đất Xanh Miền Tây (\"Đất Xanh Miền Tây\") (iii)",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "61",
+                "4": "137.055.920.000",
+                "5": "61",
+                "6": "112.655.920.000"
+            },
+            {
+                "0": "Công ty Cổ phần Phát triển Địa ốc Nam Trung Bộ (trước đây là Công ty Cổ phần Dịch vụ Bất Đông Sản Đất Xanh Nam Trung Bộ) (\"Nam Trung Bộ\") (iv)",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "71",
+                "4": "118.753.970.550",
+                "5": "71",
+                "6": "107.152.570.550"
+            },
+            {
+                "0": "Công ty Cổ phần Công nghệ Ihouzz (\"Ihouzz\")",
+                "1": "Phát triển công nghệ",
+                "2": "Đang hoạt động",
+                "3": "53",
+                "4": "106.000.000.000",
+                "5": "53",
+                "6": "106.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Đất Xanh Premium (\" Đất Xanh Premium\")",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "59",
+                "4": "26.885.120.000",
+                "5": "59",
+                "6": "26.885.120.000"
+            },
+            {
+                "0": "Công ty Cổ phần DXMD Việt Nam (trước đây là Công ty Cổ phần Đầu tư và Dịch vụ Đất Xanh Miền Đông) (\"DXMD Việt Nam\") (v)",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "61",
+                "4": "22.846.400.000",
+                "5": "61",
+                "6": "19.369.400.000"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Tài chính Bất động sản Tulip (\"Bất động sản Tulip\")",
+                "1": "Dịch vụ tài chính bất động sản",
+                "2": "Đang hoạt động",
+                "3": "60",
+                "4": "15.904.720.000",
+                "5": "60",
+                "6": "15.904.720.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_17",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "18\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n10. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)\n\n(i) Chi tiết đầu tư vào công ty con như sau: (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Tên công ty con",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Tình trạng hoạt động",
+                "3": "Số cuối năm",
+                "4": "Số cuối năm",
+                "5": "Số đầu năm",
+                "6": "Số đầu năm"
+            },
+            {
+                "0": "Tên công ty con",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Tình trạng hoạt động",
+                "3": "Tỷ lệ sở hữu %",
+                "4": "Giá gốc đầu tư VND",
+                "5": "Tỷ lệ sở hữu %",
+                "6": "Giá gốc đầu tư VND"
+            },
+            {
+                "0": "Công ty Cổ phần Công nghệ Bất động sản Việt Nam (\"Công Nghệ BĐS\")",
+                "1": "Phát triển công nghệ",
+                "2": "Đang hoạt động",
+                "3": "51",
+                "4": "14.328.270.000",
+                "5": "51",
+                "6": "14.328.270.000"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Dịch vụ Bất động sản Tây Nam (\"Bất động sản Tây Nam\") (vi)",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "51",
+                "4": "4.080.000.000",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Tiptek (trước đây là Công ty Cổ phần Bất động sản Quốc tế (\"Tiptek\")",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "649",
+                "4": "3.894.000.000",
+                "5": "649",
+                "6": "3.894.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ và Đầu tư Đông Nam Bộ (trước đây là Công ty Cổ phần Dịch vụ và Đầu tư Đất Xanh Đông Nam Bộ) (\"Đông Nam Bộ\") (vii)",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "-",
+                "4": "-",
+                "5": "70",
+                "6": "299.153.869.035"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Dịch vụ Đất Xanh Miền Nam(\"Đất Xanh Miền Nam\") (viii)",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "-",
+                "4": "-",
+                "5": "65",
+                "6": "227.028.645.600"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Nam Bộ Invest (\"Nam Bộ Invest\") (ix)",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "-",
+                "4": "-",
+                "5": "63",
+                "6": "4.414.536.000"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Plus (trước đây là Công ty Cổ phần Bất động sản Đất Xanh Plus) (\"BĐS Plus\") (x)",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "-",
+                "4": "-",
+                "5": "55",
+                "6": "2.750.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_18",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "TỔNG CỘNG\n\n(ii) Chi tiết đầu tư vào công ty liên kết như sau:",
+        "dataframe": [
+            {
+                "0": "Tên công ty liên kết",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Tình trạng hoạt động",
+                "3": "Số cuối năm",
+                "4": "Số cuối năm",
+                "5": "Số đầu năm",
+                "6": "Số đầu năm"
+            },
+            {
+                "0": "Tên công ty liên kết",
+                "1": "Lĩnh vực kinh doanh",
+                "2": "Tình trạng hoạt động",
+                "3": "Tỷ lệ sở hữu",
+                "4": "Giá gốc đầu tư VND",
+                "5": "Tỷ lệ sở hữu",
+                "6": "Giá gốc đầu tư VND"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Dịch vụ Đất Xanh Miền Nam (“Đất Xanh Miền Nam”) (viii)",
+                "1": "Kinh doanh và môi giới BĐS",
+                "2": "Đang hoạt động",
+                "3": "491",
+                "4": "171.375.142.277",
+                "5": "-",
+                "6": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_19",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "19\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n10. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)\n\n(i) Vào ngày 22 tháng 12 năm 2022, Công ty đã góp thêm vốn vào Đất Xanh Miền Trung với tổng giá trị 182.600.000.000 VND theo Nghị quyết Hội đồng Quản trị số 10/2022/NQ-DXS/HĐQT ngày 20 tháng 12 năm 2022.\n\n(ii) Vào ngày 28 tháng 9 năm 2022, Công ty đã góp thêm vốn vào Đất Xanh Miền Bắc với tổng giá trị là 190.500.000.000 VND theo Nghị quyết Đại hội đồng Cổ đông số 04_1/2022/DXS/NQ-HĐQT ngày 25 tháng 5 năm 2022.\n\n(iii) Vào ngày 14 tháng 6 năm 2022, Công ty đã góp thêm vốn vào Đất Xanh Miền Tây với tổng giá trị là 24.400.000.000 VND theo Nghị quyết Hội đồng Quản trị số 04_1/2022/DXS/NQ-HĐQT ngày 25 tháng 5 năm 2022.\n\n(iv) Vào ngày 3 tháng 6 năm 2022, Công ty đã góp thêm vốn vào Nam Trung Bộ với tổng giá trị là 11.601.400.000 VND theo Nghị quyết Hội đồng Quản trị số 04_1/2022/DXS/NQ-HĐQT ngày 25 tháng 5 năm 2022.\n\n(v) Vào ngày 22 tháng 6 năm 2022, Công ty đã góp thêm vốn vào DXMD Việt Nam với tổng giá trị là 3.477.000.000 VND theo Nghị quyết Hội đồng Quản trị số 04_1/2022/DXS/NQ-HĐQT ngày 25 tháng 5 năm 2022.\n\n(vi) Vào ngày 27 tháng 9 năm 2022, Công ty đã thực góp vào Bất động sản Tây Nam với tổng giá trị là 4.080.000.000 và theo Nghị quyết Hội đồng Quản trị số 04_2/2022/DXS/NQ-HĐQT ngày 25 tháng 5 năm 2022 tổng số vốn phải góp vào là 10.200.000.000 VND.\n\n(vii) Vào ngày 17 tháng 6 năm 2022, Công ty đã hoàn tất Hợp đồng số 01/2022/HDMB DXS-LVV nhằm chuyển nhượng toàn bộ số cổ phần tại Đông Nam Bộ theo Nghị quyết Hội đồng Quản trị số 03_3/2022/NQ-DXS/HĐQT ngày 29 tháng 4 năm 2022.\n\n(viii) Vào ngày 28 tháng 12 năm 2022, Công ty đã hoàn tất chuyển nhượng một phần cổ phần của Đất Xanh Miền Nam với tổng giá trị là 51.000.000.000 VND theo Hợp đồng Chuyển nhượng số 01/2022/HĐCNCP-DXS-NSPB ngày 28 tháng 12 năm 2022 và Đất Xanh Miền Nam trở thành một công ty liên kết của Công ty theo Nghị quyết Hội đồng Quản trị số 11/2022/NQ-DXS/HĐQT ngày 27 tháng 12 năm 2022.\n\n(ix) Vào ngày 22 tháng 6 năm 2022, Công ty đã chuyển nhượng toàn bộ cổ phần của Nam Bộ Invest với tổng giá trị là 1.500.000.000 VND theo Nghị quyết Hội đồng Quản trị số 07/2022/NQ-DXS/HĐQT ngày 9 tháng 9 năm 2022.\n\n(x) Vào ngày 22 tháng 6 năm 2022, Công ty đã chuyển nhượng toàn bộ cổ phần của Đất Xanh Plus với tổng giá trị là 500.000.000 VND theo Nghị quyết Hội đồng Quản trị số 07/2022/NQ-DXS/HĐQT ngày 9 tháng 9 năm 2022\n\n11. PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Phải trả nhà cung cấp",
+                "1": "10.564.148.015",
+                "2": "9.262.130.189"
+            },
+            {
+                "0": "- Công ty Cổ phần Địa ốc Kim Phát",
+                "1": "1.881.058.694",
+                "2": "1.881.058.694"
+            },
+            {
+                "0": "- Công ty Cổ phần Truyền thông Vàng Châu Á",
+                "1": "2.430.153.600",
+                "2": "-"
+            },
+            {
+                "0": "- Khác",
+                "1": "6.252.935.721",
+                "2": "7.381.071.495"
+            },
+            {
+                "0": "Phải trả các bên liên quan (Thuyết minh số 22)",
+                "1": "5.965.849.869",
+                "2": "36.785.070.616"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "16.529.997.884",
+                "2": "46.047.200.805"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_20",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "20\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n12. THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số đầu năm",
+                "2": "Số phải nộp trong năm",
+                "3": "Số đã nộp trong năm",
+                "4": "VND Số cuối năm"
+            },
+            {
+                "0": "Thuế giá trị gia tăng",
+                "1": "4.300.103.957",
+                "2": "20.719.805.387",
+                "3": "(17.054.364.743)",
+                "4": "7.965.544.601"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "2.320.997.642",
+                "2": "8.773.376.074",
+                "3": "(10.352.398.582)",
+                "4": "741.975.134"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp",
+                "1": "312.080.033",
+                "2": "-",
+                "3": "(163.577)",
+                "4": "311.916.456"
+            },
+            {
+                "0": "Thuế khác",
+                "1": "197.391.937",
+                "2": "83.360.761",
+                "3": "(239.016.218)",
+                "4": "41.736.480"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "7.130.573.569",
+                "2": "29.576.542.222",
+                "3": "(27.645.943.120)",
+                "4": "9.061.172.671"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_21",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "13. CHI PHÍ PHÀI TRÀ NGÂN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Chi phí hoa hồng môi giới và quảng cáo",
+                "1": "24.530.341.632",
+                "2": "32.694.040.287"
+            },
+            {
+                "0": "Khác",
+                "1": "667.079.151",
+                "2": "657.892.325"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "25.197.420.783",
+                "2": "33.351.932.612"
+            },
+            {
+                "0": "Nhận đặt cọc từ khách hàng mua bất động sản - theo ủy quyền của chủ đầu tư",
+                "1": "3.000.788.359.724",
+                "2": "2.572.540.582.048"
+            },
+            {
+                "0": "Nhận đặt cọc, ký quỹ dịch vụ môi giới",
+                "1": "60.136.000.564",
+                "2": "108.570.000.564"
+            },
+            {
+                "0": "Nhận vốn góp hợp tác kinh doanh",
+                "1": "20.000.000.000",
+                "2": "20.000.000.000"
+            },
+            {
+                "0": "Khác",
+                "1": "3.123.308.140",
+                "2": "1.189.578.131"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "3.084.047.668.428",
+                "2": "2.702.300.160.743"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Phải trả bên liên quan (Thuyết minh số 22)",
+                "1": "66.815.927.286",
+                "2": "110.731.369.904"
+            },
+            {
+                "0": "Phải trả khác",
+                "1": "3.017.231.741.142",
+                "2": "2.591.568.790.839"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_22",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "15. VAY NGÂN HẠN\n\nChi tiết các khoản vay ngắn hạn tín chấp bên liên quan để bổ sung vốn lưu động được trình bày như sau (Thuyết minh số 22):",
+        "dataframe": [
+            {
+                "0": "Bên vay",
+                "1": "Số cuối năm(VND)",
+                "2": "Kỳ hạn trả gốc",
+                "3": "Lãi suất(%/năm)"
+            },
+            {
+                "0": "Khoản vay 1",
+                "1": "15.000.000.000",
+                "2": "Ngày 31 tháng 1 năm 2023",
+                "3": 90.0
+            },
+            {
+                "0": "Khoản vay 2",
+                "1": "12.500.000.000",
+                "2": "Ngày 31 tháng 1 năm 2023",
+                "3": 80.0
+            },
+            {
+                "0": "",
+                "1": "27.500.000.000",
+                "2": "",
+                "3": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_23",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "21\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n16. VÓN CHỦ SỞ HỮU\n\n16.1 Tình hình tăng giảm nguồn vốn chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn cổ phần",
+                "2": "Thặng dư vốn cổ phần",
+                "3": "Lợi nhuận sau thuế chưa phân phối",
+                "4": "VND Tổng cộng"
+            },
+            {
+                "0": "Năm trước",
+                "1": "Năm trước",
+                "2": "Năm trước",
+                "3": "Năm trước",
+                "4": "Năm trước"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "3.224.710.220.000",
+                "2": "340.683.172.475",
+                "3": "527.006.880.127",
+                "4": "4.092.400.272.602"
+            },
+            {
+                "0": "Tăng vốn",
+                "1": "357.301.860.000",
+                "2": "764.677.916.235",
+                "3": "-",
+                "4": "1.121.979.776.235"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "292.173.994.120",
+                "4": "292.173.994.120"
+            },
+            {
+                "0": "Trích quỹ khen thưởng, phúc lợi",
+                "1": "-",
+                "2": "-",
+                "3": "(26.197.520.368)",
+                "4": "(26.197.520.368)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "3.582.012.080.000",
+                "2": "1.105.361.088.710",
+                "3": "792.983.353.879",
+                "4": "5.480.356.522.589"
+            },
+            {
+                "0": "Năm nay",
+                "1": "Năm nay",
+                "2": "Năm nay",
+                "3": "Năm nay",
+                "4": "Năm nay"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "3.582.012.080.000",
+                "2": "1.105.361.088.710",
+                "3": "792.983.353.879",
+                "4": "5.480.356.522.589"
+            },
+            {
+                "0": "Cổ tức công bố (*)",
+                "1": "648.329.150.000",
+                "2": "-",
+                "3": "(648.329.150.000)",
+                "4": "-"
+            },
+            {
+                "0": "Tăng vốn (*)",
+                "1": "300.882.540.000",
+                "2": "(300.857.540.000)",
+                "3": "-",
+                "4": "25.000.000"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "451.186.585.509",
+                "4": "451.186.585.509"
+            },
+            {
+                "0": "Trích quỹ khen thưởng, phúc lợi",
+                "1": "-",
+                "2": "-",
+                "3": "(16.163.865.945)",
+                "4": "(16.163.865.945)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "4.531.223.770.000",
+                "2": "804.503.548.710",
+                "3": "579.676.923.443",
+                "4": "5.915.404.242.153"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_24",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "(*) Vào ngày 2 tháng 6 năm 2022, Công ty đã hoàn tất việc phát hành 30.088.254 cổ phiếu phổ thông từ nguồn thẳng dư vốn cổ phần và 23.640.651 cổ phiếu phổ thông để chỉ trả cổ tức cho cổ đông hiện hữu với mệnh giá 10.000 VND/cổ phiếu theo Nghị quyết Đại Hội đồng Cổ đông Số 04-4/2021/NQ-DXS/ĐHĐCD ngày 22 tháng 6 năm 2021 và Nghị quyết Hội đồng Quản trị số 20/2021/NQ-HĐQT ngày 30 tháng 12 năm 2021. Ngày 30 tháng 6 năm 2022, Công ty đã nhận được Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh lần thứ 17 do Sở KH&ĐT Thành phố Hồ Chí Minh cấp, phê duyệt việc tăng vốn điều lệ từ 3.582.012.080.000 VND lên 4.119.301.130.000 VND.\n\nVào ngày 14 tháng 11 năm 2022, Công ty đã hoàn tất việc phát hành 41.192.264 cổ phiếu phổ thông để chỉ trả cổ tức cho cổ đông hiện hữu với mệnh giá 10.000 VND/cổ phiếu theo Nghị quyết Đại Hội đồng Cổ đông Số 01/2022/NQ-DXS/ĐHĐCĐ ngày 23 tháng 4 năm 2022 và Nghị quyết Highly đồng Quản trị số 06/2022/NQ-DXS/HĐQT ngày 20 tháng 7 năm 2022. Ngày 14 tháng 12 năm 2022, Công ty đã nhận được Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh lần thứ 18 do Sở KH&ĐT Thành phố Hồ Chí Minh cấp, phê duyệt việc tăng vốn điều lệ từ 4.119.301.130.000 VND lên 4.531.223.770.000 VND.\n\n22\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n16. VỐN CHỦ SỞ HỮU (tiếp theo)\n\n16.2 Các giao dịch về vốn với các chủ sở hữu và phân phối cổ tức",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Vốn đã góp của chủ sở hữu",
+                "1": "Vốn đã góp của chủ sở hữu",
+                "2": "Vốn đã góp của chủ sở hữu"
+            },
+            {
+                "0": "Vốn góp đầu năm",
+                "1": "3.582.012.080.000",
+                "2": "3.224.710.220.000"
+            },
+            {
+                "0": "Tăng trong năm",
+                "1": "648.329.150.000",
+                "2": "357.301.860.000"
+            },
+            {
+                "0": "Phát hành cổ phiếu",
+                "1": "300.882.540.000",
+                "2": "-"
+            },
+            {
+                "0": "Vốn góp cuối năm",
+                "1": "4.531.223.770.000",
+                "2": "3.582.012.080.000"
+            },
+            {
+                "0": "Cổ tức",
+                "1": "Cổ tức",
+                "2": "Cổ tức"
+            },
+            {
+                "0": "Cổ tức đã công bố",
+                "1": "648.329.150.000",
+                "2": "-"
+            },
+            {
+                "0": "Cổ tức đã trả bằng cổ phiếu",
+                "1": "648.329.150.000",
+                "2": "-"
+            },
+            {
+                "0": "",
+                "1": "Số lượng cổ phiếu",
+                "2": "Số lượng cổ phiếu"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm"
+            },
+            {
+                "0": "Cổ phiếu được phép phát hành",
+                "1": "453.122.377",
+                "2": "358.201.208"
+            },
+            {
+                "0": "Cổ phiếu đã phát hànhCổ phiếu phổ thông",
+                "1": "453.122.377",
+                "2": "358.201.208"
+            },
+            {
+                "0": "Cổ phiếu đang lưu hànhCổ phiếu phổ thông",
+                "1": "453.122.377",
+                "2": "358.201.208"
+            },
+            {
+                "0": "Mệnh giá cổ phiếu là 10.000 VND/cổ phần.",
+                "1": "Mệnh giá cổ phiếu là 10.000 VND/cổ phần.",
+                "2": "Mệnh giá cổ phiếu là 10.000 VND/cổ phần."
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_25",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "17. DOANH THU\n\n17.1 Doanh thu cung cấp dịch vụ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Doanh thu dịch vụ bắt động sản",
+                "1": "258.686.465.058",
+                "2": "694.165.954.434"
+            },
+            {
+                "0": "Doanh thu được chia từ BCC",
+                "1": "44.239.524.811",
+                "2": "-"
+            },
+            {
+                "0": "Doanh thu từ bán lô đất",
+                "1": "892.086.360",
+                "2": "-"
+            },
+            {
+                "0": "Khác",
+                "1": "347.545.455",
+                "2": "-"
+            },
+            {
+                "0": "Doanh thu thuần",
+                "1": "304.165.621.684",
+                "2": "694.165.954.434"
+            },
+            {
+                "0": "Trong đó:",
+                "1": "Trong đó:",
+                "2": "Trong đó:"
+            },
+            {
+                "0": "Doanh thu đối với bên liên quan(Thuyết minh số 22)",
+                "1": "279.603.399.213",
+                "2": "661.277.648.710"
+            },
+            {
+                "0": "Doanh thu đối với bên khác",
+                "1": "24.562.222.471",
+                "2": "32.888.305.724"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_26",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "23\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n17. DOANH THU (tiếp theo)\n\n17.2 Doanh thu hoạt động tài chính",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Cổ tức được chia",
+                "1": "444.704.514.620",
+                "2": "310.977.911.334"
+            },
+            {
+                "0": "Lãi tiền gửi",
+                "1": "19.496.794.150",
+                "2": "31.571.395.579"
+            },
+            {
+                "0": "Lãi từ thanh lý khoản đầu tư",
+                "1": "14.486.478.438",
+                "2": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "478.687.787.208",
+                "2": "342.549.306.913"
+            },
+            {
+                "0": "Giá vốn dịch vụ bắt động sản",
+                "1": "198.613.131.562",
+                "2": "373.445.455.826"
+            },
+            {
+                "0": "Giá vốn lỗ đất",
+                "1": "541.935.721",
+                "2": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "199.155.067.283",
+                "2": "373.445.455.826"
+            },
+            {
+                "0": "Dự phòng đầu tư",
+                "1": "63.424.001.176",
+                "2": "310.480.654.201"
+            },
+            {
+                "0": "Lỗ từ chuyển nhượng cổ phần",
+                "1": "8.972.338.536",
+                "2": "-"
+            },
+            {
+                "0": "Chỉ phí lãi vay",
+                "1": "2.324.999.996",
+                "2": "2.261.301.366"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "74.721.339.708",
+                "2": "312.741.955.567"
+            },
+            {
+                "0": "Chi phí bán hàng",
+                "1": "39.641.758.093",
+                "2": "38.919.165.757"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "21.325.837.257",
+                "2": "24.907.587.450"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "10.204.115.519",
+                "2": "11.552.395.472"
+            },
+            {
+                "0": "Chi phí khấu hao",
+                "1": "7.432.027.032",
+                "2": "2.047.542.180"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "679.778.285",
+                "2": "411.640.655"
+            },
+            {
+                "0": "Chi phí quản lý doanh nghiệp",
+                "1": "35.225.577.457",
+                "2": "22.276.796.433"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "16.537.948.559",
+                "2": "12.634.518.815"
+            },
+            {
+                "0": "Chi phí dự phòng nợ khó đòi",
+                "1": "7.784.788.956",
+                "2": "2.067.758.333"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "6.671.851.096",
+                "2": "4.146.553.856"
+            },
+            {
+                "0": "Chi phí khấu hao",
+                "1": "610.506.714",
+                "2": "-"
+            },
+            {
+                "0": "Công cụ dụng cụ",
+                "1": "397.334.287",
+                "2": "435.777.642"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "3.223.147.845",
+                "2": "2.992.187.787"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "74.867.335.550",
+                "2": "61.195.962.190"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_27",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "24\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n21. THUẾ THU NHẬP DOANH NGHIỆP\n\nThuế suất thuế thu nhập doanh nghiệp (\"thuế TNDN\") áp dụng cho Công ty là 20% thu nhập chịu thuế.\n\nCác báo cáo thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với các loại nghiệp vụ khác nhau có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính riêng có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.\n\n21.1 Chi phí thuế TNDN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Chi phí thuế TNDN hiện hànhĐiều chỉnh thuế TNDN trích (thừa) thiéutrong năm trước",
+                "1": "561.255.250",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí thuế TNDN hiện hànhĐiều chỉnh thuế TNDN trích (thừa) thiéutrong năm trước",
+                "1": "(3.095.388.961)",
+                "2": "346.156.245"
+            },
+            {
+                "0": "Chi phí thuế TNDN hoãn lại",
+                "1": "-",
+                "2": "160.563.702"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "(2.534.133.711)",
+                "2": "506.719.947"
+            },
+            {
+                "0": "Tổng lợi nhuận kế toán trước thuế",
+                "1": "448.652.451.798",
+                "2": "292.680.714.067"
+            },
+            {
+                "0": "Thuế TNDN theo thuế suất 20% áp dụng cho Công ty",
+                "1": "89.730.490.360",
+                "2": "58.536.142.813"
+            },
+            {
+                "0": "Các khoản điều chỉnh:",
+                "1": "Các khoản điều chỉnh:",
+                "2": "Các khoản điều chỉnh:"
+            },
+            {
+                "0": "Chi phí không được trừ",
+                "1": "826.702.244",
+                "2": "860.512.372"
+            },
+            {
+                "0": "Dự phòng cho khoản đầu tư",
+                "1": "(1.055.034.430)",
+                "2": "-"
+            },
+            {
+                "0": "Cổ tức nhận được",
+                "1": "(88.940.902.924)",
+                "2": "(62.195.582.267)"
+            },
+            {
+                "0": "Lỗ chuyển sang các năm sau Điều chỉnh thuế TNDN trích (thừa) thiếu trong năm trước",
+                "1": "-",
+                "2": "2.786.927.082"
+            },
+            {
+                "0": "Lỗ chuyển sang các năm sau Điều chỉnh thuế TNDN trích (thừa) thiếu trong năm trước",
+                "1": "(3.095.388.961)",
+                "2": "346.156.245"
+            },
+            {
+                "0": "Điều chỉnh thuế TNDN hoãn lại",
+                "1": "-",
+                "2": "172.563.702"
+            },
+            {
+                "0": "Chi phí thuế TNDN",
+                "1": "(2.534.133.711)",
+                "2": "506.719.947"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_28",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "21.2 Thuế TNDN hiện hành\n\nThuế TNDN hiện hành phải nộp được xác định dựa trên thu nhập chịu thuế của năm hiện tại. Thu nhập chịu thuế của Công ty khác với lợi nhuận được báo cáo trong báo cáo kết quả hoạt động kinh doanh riêng vì thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chỉ phí được trừ cho mục đích tính thuế trong các kỳ khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải nộp của Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc năm tài chính.\n\n25\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n21. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)\n\n21.3 Thuế TNDN hoãn lại\n\nCông ty đã ghi nhận một số tài sản thuế thu nhập hoãn lại với các biến động trong năm nay và nằm trước như sau:\n\nVND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Bảng cân đối kế toán riêng",
+                "2": "Bảng cân đối kế toán riêng",
+                "3": "Báo cáo kết quả hoạt động kinh doanh riêng",
+                "4": "Báo cáo kết quả hoạt động kinh doanh riêng"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "Dự phòng phải thu khó đòi",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(172.563.702)"
+            },
+            {
+                "0": "Chi phí phải trả",
+                "1": "100.000.000",
+                "2": "100.000.000",
+                "3": "-",
+                "4": "12.000.000"
+            },
+            {
+                "0": "Thuế TNDN đã nộp từ các khoản tiền thanh toán theo tiến độ của khách hàng (*)",
+                "1": "7.582.736",
+                "2": "7.582.736",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Tài sản thuế TNDN hoãn lại",
+                "1": "107.582.736",
+                "2": "107.582.736",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Chi phí thuế thu nhập hoãn lại tính vào báo cáo kết quả kinh doanh riêng",
+                "1": "Chi phí thuế thu nhập hoãn lại tính vào báo cáo kết quả kinh doanh riêng",
+                "2": "Chi phí thuế thu nhập hoãn lại tính vào báo cáo kết quả kinh doanh riêng",
+                "3": "Chi phí thuế thu nhập hoãn lại tính vào báo cáo kết quả kinh doanh riêng",
+                "4": "(160.563.702)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_29",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "(*) Đây là khoản tạm nộp thuế của các khoản tiền nhận được từ khách hàng mua bất động sản theo quy định của Thông tư số 78/2014/TT-BTC ngày 18 tháng 6 năm 2014 do Bộ Tài Chính ban hành và có hiệu lực từ ngày 2 tháng 8 năm 2014.\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN\n\nDanh sách các bên liên quan có tồn tại sự kiểm soát hoặc có phát sinh giao dịch, số dư cho kỳ kế toán kết thúc ngày 31 tháng 12 năm 2022:",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ"
+            },
+            {
+                "0": "Công ty Cổ phần Tập đoàn Đất Xanh (\"DXG\")",
+                "1": "Công ty mẹ"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ và Địa ốc Đất Xanh Miền Bắc (\"Đất Xanh Miền Bắc\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Đất Xanh Miền Trung (\"Đất Xanh Miền Trung\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Dịch vụ Đất Xanh Miền Nam (\"Đất Xanh Miền Nam\")",
+                "1": "Công ty con (đến ngày 28 tháng 12 năm 2022)"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ và Đầu tư Đất Xanh Miền Tây (\"Đất Xanh Miền Tây\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Đất Xanh Premium (\"Đất Xanh Premium\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Linkgroup (\"Linkgroup\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần DXMD Việt Nam (\"DXMD Việt Nam\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Phát Triển Địa Ốc Nam Trung Bộ (\"Nam Trung Bộ\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Nam Bộ Invest (\"Nam Bộ Invest\")",
+                "1": "Công ty con (đến ngày 30 tháng 09 năm 2022)"
+            },
+            {
+                "0": "Công ty Cổ phần Bất Đông Sản Plus (\"BĐS Plus\")",
+                "1": "Công ty con (đến ngày 30 tháng 09 năm 2022)"
+            },
+            {
+                "0": "Công ty Cổ phần Tiptek (\"Tiptek\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Viethomes (\"Viethomes\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Bắc Trung Bộ (\"BĐS Bắc Trung Bộ\")",
+                "1": "Công ty con"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_30",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "26\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nDanh sách các bên liên quan có tồn tại sự kiểm soát hoặc có phát sinh giao dịch, số dư cho kỳ kế toán kết thúc ngày 31 tháng 12 năm 2022: (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Duyên Hải (\"BĐS Duyên Hải\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất Động Sản Bắc Bộ (\"BĐS Bắc Bộ\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ và Đầu tư Bất động sản Hùng Vương (\"Hùng Vương\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ và Đầu tư Bất động sản Kinh Bắc (\"Kinh Bắc\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Quản lý Tài sản và Đầu tư Asahi Japan (\"Asahi\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản S-Homes Group (\"S-Homes\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty TNHH Nhà Ủ Ngay (\"Nhà Ủ Ngay\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Đô thị Thông Minh Việt Nam (\"Đô thị Thông Minh Việt Nam\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Nam Miền Trung (\"Nam Miền Trung\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty TNHH MTV Smart City (\"Smart City\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty TNHH MTV Smart Property (\"Smart Property\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Phát triển Bất động sản Emerald (\"BĐS Emerald\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty TNHH MTV Phát triển Đô thị Quảng Ngãi (\"Đô thị Quảng Ngãi\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty TNHH Phát triển Đô thị Quảng Bình (\"Đô thị Quảng Bình\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Dịch vụ City Real (\"City Real\")",
+                "1": "Công ty con (đến ngày 28 tháng 12 năm 2022)"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Dịch vụ Saigon Real (\"Saigon Real\")",
+                "1": "Công ty con (đến ngày 28 tháng 12 năm 2022)"
+            },
+            {
+                "0": "Công ty TNHH Đất Mới Minh Hưng (\"Đất Mới Minh Hưng\")",
+                "1": "Công ty con (đến ngày 28 tháng 12 năm 2022)"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Dịch vụ Bất Động Sản Bình Nguyên Res (\"Bình Nguyên Res\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Dịch vụ Bất Động Sản Central Real (\"Central Real\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Dịch vụ Bất Động Sản Mekong Res (\"Mekong Res\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Cần Thơ (\"BĐS Cần Thơ\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Bất động sản Nam Miền Tây (\"BĐS Nam Miền Tây\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Bắc Miền Tây (\"BĐS Bắc Miền Tây\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Bất động sản Duyên Hải Miền Tây (\"Duyên Hải Miền Tây\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Cửu Long Homes (\"Cửu Long Homes\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản VN Smarthomes",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Linkland (\"Đầu tư Linkland\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Link House (\"Linkhouse\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Link House Tây Nam (\"Linkhouse Tây Nam\")",
+                "1": "Công ty con"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_31",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "27\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nDanh sách các bên liên quan có tồn tại sự kiểm soát hoặc có phát sinh giao dịch, số dư cho kỳ kế toán kết thúc ngày 31 tháng 12 năm 2022: (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sảnLink House Miền Trung (\"Linkhouse Miền Trung\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Thuận Thiên Phát(\"Thuận Thiên Phát\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Công nghệ Dịch vụ Môi giới Ohio (\"Ohio\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ và Đầu tư LinkLand (\"Dịch vụ LinkLand\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Xây dựng Ngọc Lễ (\"Ngọc Lễ\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Ecohome (\"Ecohome\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Dịch vụ DN Premium (\"DN Premium\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản City Invest (\"City Invest\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Tây Nguyên (\"Địa Ốc Tây Nguyên\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Propcom (\"Propcom\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ và Đầu tư Đông Nam Bộ(\"Đông Nam Bộ\")",
+                "1": "Công ty con (đến ngày17 tháng 6 năm 2022)"
+            },
+            {
+                "0": "Công ty Cổ phần Phát triển nhà Đông Nam Bộ(\"Phát Triển Nhà Đông Nam Bộ\")",
+                "1": "Công ty con (đến ngày17 tháng 6 năm 2022)"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ và Đầu tư Địa ốc Bình Thuận(\"Địa ốc Bình Thuận\")",
+                "1": "Công ty con (đến ngày17 tháng 6 năm 2022)"
+            },
+            {
+                "0": "Công ty Cổ phần Địa ốc Indochine (\"Indochine\")",
+                "1": "Công ty con (đến ngày17 tháng 6 năm 2022)"
+            },
+            {
+                "0": "Công ty Cổ phần Công nghệ Bất động sản Việt Nam(\"Công Nghệ BĐS\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty cổ phần Công nghệ Ihouzz (\"Ihouzz\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Dịch vụ Bất động sản Tây Nam(\"Bất Đông Sản Tây Nam\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty TNHH MTV Refal Hotel & Resort (\"Regal H&R\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Bất động sản Indochine (\"BĐS Indochine\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Tài chính Bất động sản Tulip (\"Tulip\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Tư vấn Đầu tư S-Advices (\"S-Advices\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty TNHH S-O Farm (\"S-O Farm\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty TNHH Công Nghệ S-Tech (\"S-Tech\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty TNHH Regal Food (\"Regal Food\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty TNHH Nông nghiệp Lifarm (\"Lifarm\")",
+                "1": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư Kinh doanh Bất động sản Hà An(\"Hà An\")",
+                "1": "Công ty trong cùngtập đoàn"
+            },
+            {
+                "0": "Công ty Cổ Phần Vicco - Sài Gòn (\"Vicco Saigon\")",
+                "1": "Công ty trong cùngtập đoàn"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư Bất động sản Miền Bắc(\"Đầu tư Bất động sản Miền Bắc\")",
+                "1": "Công ty trong cùngtập đoàn"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_32",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "28\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nDanh sách các bên liên quan có tồn tại sự kiểm soát hoặc có phát sinh giao dịch, số dư cho kỳ kế toán kết thúc ngày 31 tháng 12 năm 2022: (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ"
+            },
+            {
+                "0": "Công ty TNHH Charm & CI Việt Nam (\"Charm&CI\")",
+                "1": "Công ty trong cùng tập đoàn"
+            },
+            {
+                "0": "Công ty TNHH Xây dựng – Thương mại – Dịch vụ Hà Thuận Hùng (\"Hà Thuận Hùng\")",
+                "1": "Công ty trong cùng tập đoàn"
+            },
+            {
+                "0": "Ông Nguyễn Trường Sơn",
+                "1": "Chủ tịch"
+            },
+            {
+                "0": "Ông Trần Quốc Thịnh",
+                "1": "Phó Chủ tịch"
+            },
+            {
+                "0": "Ông Dương Văn Bắc",
+                "1": "Thành viên HĐQT"
+            },
+            {
+                "0": "Ông Phạm Anh Khôi",
+                "1": "Thành viên HĐQT"
+            },
+            {
+                "0": "Ông Trần Thanh Tân",
+                "1": "Thành viên HĐQT độc lập"
+            },
+            {
+                "0": "Bà Phạm Thị Nguyên Thanh",
+                "1": "Tổng Giám đốc"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_33",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "Những giao dịch trọng yếu của Công ty với các bên liên quan trong năm nay và năm trước bao gồm:",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Năm nay",
+                "4": "VNDNăm trước"
+            },
+            {
+                "0": "Hà An",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Doanh thu từ dịch vụ môi giới",
+                "3": "213.243.331.340",
+                "4": "642.297.839.958"
+            },
+            {
+                "0": "Hà An",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Ký quỹ môi giới",
+                "3": "266.000.000.000",
+                "4": "543.000.000.000"
+            },
+            {
+                "0": "Hà An",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Cho vay",
+                "3": "200.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Hà An",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Lãi cho vay",
+                "3": "2.298.630.137",
+                "4": "-"
+            },
+            {
+                "0": "Hà An",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Chi phí khác",
+                "3": "102.731.880",
+                "4": "109.184.168"
+            },
+            {
+                "0": "Đất Xanh Miền Bắc",
+                "1": "Công ty con",
+                "2": "Cổ tức được chia",
+                "3": "200.660.000.000",
+                "4": "155.575.000.000"
+            },
+            {
+                "0": "Đất Xanh Miền Bắc",
+                "1": "Công ty con",
+                "2": "Góp vốn",
+                "3": "190.500.000.000",
+                "4": "147.107.280.000"
+            },
+            {
+                "0": "Đất Xanh Miền Bắc",
+                "1": "Công ty con",
+                "2": "Phí dịch vụ môi giới",
+                "3": "588.226.090",
+                "4": "3.096.487.336"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_34",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "29\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nNhững giao dịch trọng yếu của Công ty với các bên liên quan trong năm nay và năm trước bao gồm: (tiếp theo)\n\nVND",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "Ihouzz",
+                "1": "Công ty con",
+                "2": "Phí dịch vụ môi giớiLãi cho vayGóp vốnĐi vayNhận góp vốntheo HĐHTKDCho vayThanh lý tài sản",
+                "3": "3.080.668.3252.324.999.996---",
+                "4": "-2.261.301.366102.002.000.00027.500.000.00020.000.000.0002.452.000.000688.488.861"
+            },
+            {
+                "0": "LinkGroup",
+                "1": "Công ty con",
+                "2": "Phí dịch vụ môi giớiCổ tứcđược chiaGóp vốnNhận ký quỹDoanh thu được chia từ HĐHTKD",
+                "3": "2.555.965.863",
+                "4": "6.734.593.90380.754.490.28180.470.808.3351.000.000.000149.925.546"
+            },
+            {
+                "0": "Đất Xanh Miền Nam",
+                "1": "Công ty con (đến ngày 28 tháng 12 năm 2022)",
+                "2": "Thoái vốnDoanh thu được chia từ HĐHTKDPhi dịch vụ môi giớiDoanh thu môi giớiNhận ký quỹGóp vốn theo HĐHTKD",
+                "3": "55.653.503.32326.421.173.76313.265.129.429151.720.689---",
+                "4": "---11.872.431.36665.900.179.192391.276.96262.380.000.00024.000.000.000"
+            },
+            {
+                "0": "Đất Xanh Miền Trung",
+                "1": "Công ty con",
+                "2": "Cổ tứcđược chiaGóp vốnDoanh thu được chia từ HĐHTKD",
+                "3": "192.500.000.000182.600.000.00017.124.830.802",
+                "4": "55.000.000.00037.400.000.000---"
+            },
+            {
+                "0": "Đông Nam Bộ",
+                "1": "Công ty con (đến ngày 17 tháng 6 năm 2022)",
+                "2": "Phí dịch vụ môi giớiGóp vốn theo HĐHTKD",
+                "3": "---",
+                "4": "20.909.026.82945.179.472.100"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_35",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "30\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nNhững giao dịch trọng yếu của Công ty với các bên liên quan trong năm nay và năm trước bao gồm: (tiếp theo)\n\nVND",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "Đất Xanh Miền Tây",
+                "1": "Công ty con",
+                "2": "Cổ tức được chia Góp vốnDoanh thu được chia từ HĐHTKDNhận vốn góp choHĐHTKDPhí dịch vụmôi giới",
+                "3": "35.672.514.62024.400.000.000693.520.246---",
+                "4": "14.768.421.0539.760.000.000-1.500.000.000999.730.042"
+            },
+            {
+                "0": "Nam Trung Bộ",
+                "1": "Công ty con",
+                "2": "Cổ tức được chia Góp vốn",
+                "3": "12.212.000.00011.601.400.000",
+                "4": "----"
+            },
+            {
+                "0": "Đất Xanh Premium",
+                "1": "Công ty con",
+                "2": "Phí dịch vụmôi giới",
+                "3": "5.264.642.420",
+                "4": "15.416.916.118"
+            },
+            {
+                "0": "DXMD Việt Nam",
+                "1": "Công ty con",
+                "2": "Doanh thu môi giớiPhí dịch vụmôi giớiCổ tức được chiaGóp vốn",
+                "3": "4.732.658.7954.176.216.4563.660.000.0003.477.000.000",
+                "4": "2.452.091.40624.999.042.4944.880.000.0004.636.000.000"
+            },
+            {
+                "0": "Bất động sản Tulip",
+                "1": "Công ty con",
+                "2": "Doanh thu từ cho thuê văn phòngGóp vốn",
+                "3": "347.500.000-",
+                "4": "501.250.0008.104.720.000"
+            },
+            {
+                "0": "Vicco",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Phí thuêvăn phòng",
+                "3": "7.229.184.915",
+                "4": "6.415.175.700"
+            },
+            {
+                "0": "Linkhouse",
+                "1": "Công ty con",
+                "2": "Phí dịch vụ môi giớiDoanh thu môi giới",
+                "3": "1.854.707.486703.131.485",
+                "4": "3.571.220.0151.557.708.898"
+            },
+            {
+                "0": "Nam Bộ Invest",
+                "1": "Công ty con (đến ngày 30 tháng 9 năm 2022)",
+                "2": "Phí dịch vụ môi giới",
+                "3": "-",
+                "4": "6.202.998.061"
+            },
+            {
+                "0": "BĐS Plus",
+                "1": "Công ty con (đến ngày 30 tháng 9 năm 2022)",
+                "2": "Phí dịch vụ môi giới",
+                "3": "-",
+                "4": "2.408.931.568"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_36",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "31\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nNhững giao dịch trọng yếu của Công ty với các bên liên quan trong năm nay và năm trước bao gồm: (tiếp theo)\n\nVND",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "DXG",
+                "1": "Công ty mẹ",
+                "2": "Doanh thu môi giới",
+                "3": "246.616.789",
+                "4": "1.055.124.574"
+            },
+            {
+                "0": "Propcom",
+                "1": "Công ty con",
+                "2": "Phí dịch vụ môi giới",
+                "3": "73.141.855",
+                "4": "-"
+            },
+            {
+                "0": "Tiptek",
+                "1": "Công ty con",
+                "2": "Góp vốn",
+                "3": "-",
+                "4": "3.894.000.000"
+            },
+            {
+                "0": "Bất động sản Tây Nam",
+                "1": "Công ty con",
+                "2": "Góp vốn",
+                "3": "4.080.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Asahi",
+                "1": "Công ty con",
+                "2": "Phí quản lý Phí dịch vụ môi giới",
+                "3": "155.207.34864.993.500",
+                "4": "-"
+            },
+            {
+                "0": "Hà Thuận Hùng",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Doanh thu môi giới",
+                "3": "15.938.915.304",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_37",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "Thu nhập của các thành viên của Hội đồng Quản trị và Tổng Giám đốc như sau:\n\nVND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "Năm trước"
+            },
+            {
+                "0": "Bà Phạm Thị Nguyên Thanh",
+                "1": "2.676.462.260",
+                "2": "2.125.081.864"
+            },
+            {
+                "0": "Ông Nguyễn Trường Sơn",
+                "1": "1.612.054.103",
+                "2": "1.815.508.571"
+            },
+            {
+                "0": "Ông Phạm Anh Khôi",
+                "1": "500.434.783",
+                "2": "601.750.000"
+            },
+            {
+                "0": "Ông Lương Trí Thìn",
+                "1": "312.000.000",
+                "2": "60.000.000"
+            },
+            {
+                "0": "Ông Hà Đức Hiếu",
+                "1": "180.000.000",
+                "2": "60.000.000"
+            },
+            {
+                "0": "Ông Trần Thanh Tân",
+                "1": "157.333.333",
+                "2": "-"
+            },
+            {
+                "0": "Bà Đỗ Thị Thái",
+                "1": "41.333.333",
+                "2": "37.500.000"
+            },
+            {
+                "0": "Các thành viên khác",
+                "1": "-",
+                "2": "1.802.799.504"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "5.479.617.812",
+                "2": "6.502.639.939"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_38",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "32\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nVào ngày kết thúc năm tài chính, các khoản phải thu với các bên liên quan như sau:\n\nVND",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "Phải thu ngắn hạn của khách hàng",
+                "1": "Phải thu ngắn hạn của khách hàng",
+                "2": "Phải thu ngắn hạn của khách hàng",
+                "3": "Phải thu ngắn hạn của khách hàng",
+                "4": "Phải thu ngắn hạn của khách hàng"
+            },
+            {
+                "0": "Hà An",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Doanh thu môi giới",
+                "3": "722.153.269.851",
+                "4": "698.691.310.946"
+            },
+            {
+                "0": "Hà Thuận Hùng",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Doanh thu môi giới",
+                "3": "17.532.806.836",
+                "4": "-"
+            },
+            {
+                "0": "DXMD Việt Nam",
+                "1": "Công ty con",
+                "2": "Doanh thu môi giới",
+                "3": "809.061.660",
+                "4": "1.293.802.383"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư Bất động sản Miền Bắc",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Doanh thu môi giới",
+                "3": "-",
+                "4": "60.686.692.798"
+            },
+            {
+                "0": "Đất Xanh Miền Nam",
+                "1": "Công ty con (đến ngày 28 tháng 12 năm 2022)",
+                "2": "Doanh thu môi giới",
+                "3": "-",
+                "4": "12.410.710.132"
+            },
+            {
+                "0": "Đất Xanh Miền Tây",
+                "1": "Công ty con",
+                "2": "Doanh thu được chia từ HĐHTKD",
+                "3": "-",
+                "4": "1.683.733.658"
+            },
+            {
+                "0": "Các công ty khác",
+                "1": "Công ty con",
+                "2": "Doanh thu được chia từ HĐHTKD và môi giới",
+                "3": "20.634.060.105",
+                "4": "1.847.249.667"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "761.129.198.452",
+                "4": "776.613.499.584"
+            },
+            {
+                "0": "Đất Xanh Miền Nam",
+                "1": "Công ty con (đến ngày 28 tháng 12 năm 2022)",
+                "2": "Tạm ứng phí dịch vụ môi giới",
+                "3": "17.453.035.795",
+                "4": "-"
+            },
+            {
+                "0": "LinkGroup",
+                "1": "Công ty con",
+                "2": "Tạm ứng phí dịch vụ môi giới",
+                "3": "7.914.272.937",
+                "4": "6.977.298.099"
+            },
+            {
+                "0": "DXMD Việt Nam",
+                "1": "Công ty con",
+                "2": "Tạm ứng phí dịch vụ môi giới",
+                "3": "7.143.959.616",
+                "4": "-"
+            },
+            {
+                "0": "Đất Xanh Premium Đông Nam Bộ",
+                "1": "Công ty con (đến ngày 17 tháng 06 năm 2022)",
+                "2": "Tạm ứng phí dịch vụ môi giới",
+                "3": "2.800.750.688",
+                "4": "2.738.642.977"
+            },
+            {
+                "0": "Nam Bộ Invest",
+                "1": "Công ty con(đến ngày 30 tháng 09 năm 2022)",
+                "2": "Tạm ứng phí dịch vụ môi giới",
+                "3": "-",
+                "4": "13.215.763.210"
+            },
+            {
+                "0": "Các công ty khác",
+                "1": "Công ty con",
+                "2": "Tạm ứng phí dịch vụ môi giới",
+                "3": "961.718.882",
+                "4": "2.524.593.867"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "36.273.737.918",
+                "4": "28.049.914.345"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_39",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "33\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nVào ngày kết thúc năm tài chính, các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)\n\nVND",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "Phải thu ngắn hạn khác",
+                "1": "Phải thu ngắn hạn khác",
+                "2": "Phải thu ngắn hạn khác",
+                "3": "Phải thu ngắn hạn khác",
+                "4": "Phải thu ngắn hạn khác"
+            },
+            {
+                "0": "Hà An",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Ký quỹ môi giới",
+                "3": "1.950.650.000.000",
+                "4": "1.684.550.000.000"
+            },
+            {
+                "0": "Hà An",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Tạm hoàn ứng cho chủ đầu tư",
+                "3": "2.446.640.760.655",
+                "4": "1.578.882.475.033"
+            },
+            {
+                "0": "Hà An",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Lãi cho vay",
+                "3": "1.630.136.987",
+                "4": "-"
+            },
+            {
+                "0": "Charm & CI",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Ký quỹ môi giới",
+                "3": "222.382.257.533",
+                "4": "182.382.257.533"
+            },
+            {
+                "0": "Đất Xanh Miền Nam",
+                "1": "Công ty con(đến ngày 28 tháng 12 năm 2022)",
+                "2": "Góp vốn theo HĐHTKD",
+                "3": "45.379.472.100",
+                "4": "36.200.000.000"
+            },
+            {
+                "0": "Đất Xanh Miền Bắc",
+                "1": "Công ty con",
+                "2": "Cổ tức",
+                "3": "16.252.870.000",
+                "4": "16.252.870.000"
+            },
+            {
+                "0": "Đất Xanh Miền Tây",
+                "1": "Công ty con",
+                "2": "Cổ tức",
+                "3": "9.988.304.094",
+                "4": "4.494.736.843"
+            },
+            {
+                "0": "Đất Xanh Miền Tây",
+                "1": "Công ty con",
+                "2": "Góp vốn theo HĐHTKD",
+                "3": "7.000.000.000",
+                "4": "7.500.000.000"
+            },
+            {
+                "0": "Đất Xanh Miền Trung",
+                "1": "Công ty con",
+                "2": "Cổ tức",
+                "3": "9.900.000.000",
+                "4": "-"
+            },
+            {
+                "0": "DXG",
+                "1": "Công ty mẹ",
+                "2": "Chi hộ",
+                "3": "2.480.489.982",
+                "4": "2.461.012.482"
+            },
+            {
+                "0": "Đông Nam Bộ",
+                "1": "Công ty con(đến ngày 17 tháng 06 năm 2022)",
+                "2": "Góp vốn theo HĐHTKD",
+                "3": "-",
+                "4": "45.179.472.100"
+            },
+            {
+                "0": "Đông Nam Bộ",
+                "1": "Công ty con(đến ngày 17 tháng 06 năm 2022)",
+                "2": "Cổ tức",
+                "3": "-",
+                "4": "4.057.318.421"
+            },
+            {
+                "0": "Các công ty khác",
+                "1": "Công ty con",
+                "2": "Khác",
+                "3": "6.469.027.778",
+                "4": "7.545.915.495"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "4.718.773.319.129",
+                "4": "3.569.506.057.907"
+            },
+            {
+                "0": "Phải thu về cho vay ngắn hạn",
+                "1": "Phải thu về cho vay ngắn hạn",
+                "2": "Phải thu về cho vay ngắn hạn",
+                "3": "Phải thu về cho vay ngắn hạn",
+                "4": "Phải thu về cho vay ngắn hạn"
+            },
+            {
+                "0": "Hà An",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Cho vay",
+                "3": "100.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Phải trả người bán ngắn hạn",
+                "1": "Phải trả người bán ngắn hạn",
+                "2": "Phải trả người bán ngắn hạn",
+                "3": "Phải trả người bán ngắn hạn",
+                "4": "Phải trả người bán ngắn hạn"
+            },
+            {
+                "0": "Đất Xanh Miền Nam",
+                "1": "Công ty con (đến ngày 28 tháng 12 năm 2022)",
+                "2": "Phí dịch vụ môi giới",
+                "3": "-",
+                "4": "29.999.994.759"
+            },
+            {
+                "0": "DXMD Việt Nam",
+                "1": "Công ty con",
+                "2": "Phí dịch vụ môi giới",
+                "3": "-",
+                "4": "1.480.457.203"
+            },
+            {
+                "0": "Đất Xanh Miền Bắc",
+                "1": "Công ty con",
+                "2": "Phí dịch vụ môi giới",
+                "3": "-",
+                "4": "960.559.821"
+            },
+            {
+                "0": "Đông Nam Bộ",
+                "1": "Công ty con (đến ngày 17 tháng 06 năm 2022)",
+                "2": "Phí dịch vụ môi giới",
+                "3": "-",
+                "4": "459.123.893"
+            },
+            {
+                "0": "Các công ty khác",
+                "1": "Công ty con",
+                "2": "Phí dịch vụ môi giới",
+                "3": "5.965.849.869",
+                "4": "3.884.934.940"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "5.965.849.869",
+                "4": "36.785.070.616"
+            },
+            {
+                "0": "Vay ngắn hạn",
+                "1": "Vay ngắn hạn",
+                "2": "Vay ngắn hạn",
+                "3": "Vay ngắn hạn",
+                "4": "Vay ngắn hạn"
+            },
+            {
+                "0": "Ihouzz",
+                "1": "Công ty con",
+                "2": "Vay",
+                "3": "27.500.000.000",
+                "4": "27.500.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_40",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "34\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n22. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nVào ngày kết thúc năm tài chính, các khoản phải trả với các bên liên quan như sau: (tiếp theo)\n\nVND",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "Phải trả ngắn hạn khác",
+                "1": "Phải trả ngắn hạn khác",
+                "2": "Phải trả ngắn hạn khác",
+                "3": "Phải trả ngắn hạn khác",
+                "4": "Phải trả ngắn hạn khác"
+            },
+            {
+                "0": "Ihouzz",
+                "1": "Công ty con",
+                "2": "Góp vốn theo HĐHTKD",
+                "3": "20.000.000.000",
+                "4": "20.000.000.000"
+            },
+            {
+                "0": "Đất Xanh Miền Nam",
+                "1": "Công ty con (đến 28 tháng 12 năm 2022)",
+                "2": "Nhận ký quỹ",
+                "3": "11.380.000.000",
+                "4": "51.380.000.000"
+            },
+            {
+                "0": "LinkGroup",
+                "1": "Công ty con",
+                "2": "Nhận ký quỹ",
+                "3": "11.000.000.000",
+                "4": "11.400.000.000"
+            },
+            {
+                "0": "Hà An",
+                "1": "Công ty trong cùng tập đoàn",
+                "2": "Thu hộ",
+                "3": "8.535.927.286",
+                "4": "2.611.369.904"
+            },
+            {
+                "0": "Đất Xanh Premium",
+                "1": "Công ty con",
+                "2": "Nhận ký quỹ",
+                "3": "7.000.000.000",
+                "4": "5.000.000.000"
+            },
+            {
+                "0": "Asahi",
+                "1": "Công ty con",
+                "2": "Nhận ký quỹ",
+                "3": "3.500.000.000",
+                "4": "500.000.000"
+            },
+            {
+                "0": "DXMD Việt Nam",
+                "1": "Công ty con",
+                "2": "Nhận ký quỹ",
+                "3": "3.000.000.000",
+                "4": "5.000.000.000"
+            },
+            {
+                "0": "Nam Trung Bộ",
+                "1": "Công ty con",
+                "2": "Nhận ký quỹ",
+                "3": "1.000.000.000",
+                "4": "1.000.000.000"
+            },
+            {
+                "0": "Tiptek",
+                "1": "Công ty con",
+                "2": "Nhận ký quỹ",
+                "3": "1.000.000.000",
+                "4": "1.000.000.000"
+            },
+            {
+                "0": "Linkhouse",
+                "1": "Công ty con",
+                "2": "Nhận ký q30 thánguỹ",
+                "3": "400.000.000",
+                "4": "840.000.000"
+            },
+            {
+                "0": "Đông Nam Bộ",
+                "1": "Công ty con (đến ngày 17 tháng 06 năm 2022)",
+                "2": "Nhận ký quỹ",
+                "3": "-",
+                "4": "4.000.000.000"
+            },
+            {
+                "0": "Đất Xanh Miền Bắc",
+                "1": "Công ty con",
+                "2": "Nhận ký quỹ",
+                "3": "-",
+                "4": "3.500.000.000"
+            },
+            {
+                "0": "Nam Bộ Invest",
+                "1": "Công ty con (đến ngày 30 tháng 9 năm 2022)",
+                "2": "Nhận ký quỹ",
+                "3": "-",
+                "4": "2.000.000.000"
+            },
+            {
+                "0": "Đất Xanh Miền Tây",
+                "1": "Công ty con",
+                "2": "Nhận ký quỹ",
+                "3": "-",
+                "4": "2.000.000.000"
+            },
+            {
+                "0": "Bất Đông Sản Plus",
+                "1": "Công ty con (đến ngày 30 tháng 09 năm 2022)",
+                "2": "Góp vốn theo HĐHTKD",
+                "3": "-",
+                "4": "500.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DXS_2022_separate_table_41",
+        "metadata": {
+            "ticker": "DXS",
+            "company_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+            "year": "2022",
+            "report_type": "separate",
+            "original_folder": "DXS_financial_statements_2022_separate"
+        },
+        "context_text": "66.815.927.286 110.731.369.904\n\n35\n\n\n\nCông ty Cổ phần Dịch vụ Bất động sản Đất Xanh\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày\n\n23. CAM KẾT THUÊ HOẠT ĐỘNG VÀ CAM KẾT VỐN\n\nCam kết thuê hoạt động\n\nCông ty hiện đang thuê văn phòng theo hợp đồng thuê hoạt động. Vào ngày kết thúc năm tài chính, các khoản tiền thuê phải trả trong tương lai theo hợp đồng thuê hoạt động được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Đến 1 năm",
+                "1": "4.053.688.009",
+                "2": "8.468.031.924"
+            },
+            {
+                "0": "Từ 1 đến 5 năm",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "4.053.688.009",
+                "2": "8.468.031.924"
+            }
+        ]
+    }
+]

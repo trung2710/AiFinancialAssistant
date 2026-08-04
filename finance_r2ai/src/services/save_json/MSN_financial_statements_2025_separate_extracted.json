@@ -1,0 +1,2993 @@
+[
+    {
+        "chunk_id": "MSN_2025_separate_table_1",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "CÔNG TY CỔ PHẦN\n\nTẬP ĐOÀN MASAN\n\nMASAN GROUP CORPORATION\n\nSố: 72/2026\n\nNo.: /2026\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTHE SOCIALIST REPUBLIC OF VIETNAM\n\nIndependence - Freedom - Happiness\n\nTp. HCM, ngày 13 tháng 03 năm 2026\n\nHo Chi Minh City, March 13, 2026\n\nCÔNG BỔ THÔNG TIN ĐỊNH KỲ\nORDINARY INFORMATION DISCLOSURE\n\nKính gửi:\n\nỦy ban Chứng khoán Nhà nước\n\nSở Giao dịch Chứng khoán Hà Nội\n\nSở Giao dịch Chứng khoán Hồ Chí Minh\n\nTo:\n\nState Securities Commission of Vietnam\n\nHanoi Stock Exchange\n\nHo Chi Minh Stock Exchange\n\n1. Tên tổ chức: Công ty Cổ phần Tập đoàn Masan\n\nName of organization: Masan Group Corporation\n\nMã chứng khoán/Mã thành viên: MSN\n\nStock code/ Broker code: MSN\n\nĐịa chỉ: Số 23 Lê Duẩn, Phường Sài Gòn, Tp. Hồ Chí Minh, Việt Nam\n\nAddress: No. 23 Le Duan, Sai Gon Ward, Ho Chi Minh City, Vietnam\n\nĐiện thoại liên hệ/Tel.: 28 6256 3862\n\nFax: 28 3827 4115\n\n2. Nội dung thông tin công bố: Báo cáo Tài chính Riêng lẻ và Hợp nhất được kiểm toán năm 2025\n\nContents of disclosure: Audited Separated and Consolidated Financial Statements in 2025\n\n3. Thông tin này đã được công bố trên trang thông tin điện tử của công ty vào ngày 13/03/2026 tại đường dẫn https://masangroup.com/vi/investor-relations.html\n\nThis information was disclosed in the folder Corporate Announcements of section Investor Center on the Company's website on March 13, 2026 at https://masangroup.com/investor-relations.html\n\n\n\nChúng tôi xin cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố/ We hereby certify that the information provided is true and correct and we bear the full responsibility to the law.\n\nTài liệu đính kèm/Attached documents:\n\nTài liệu liên quan đến nội dung thông tin công bố như nêu tại Mục 2;\n\nDocuments related to disclosed information at mentioned in Item 2.\n\nĐẠI DIỆN TỔ CHỨC\nORGANIZATION REPRESENTATIVE\n\nNgười được ủy quyền công bố thông tin Authorized representative for information disclosure LUẬT SU TRƯỞNG / GENERAL COUNSEL\n\nTRẦN PHƯƠNG BẮC\n\n\n\nKPMG\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nBÁO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM KẾT THÚC\nNGÀY 31 THÁNG 12 NĂM 2025\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nBÁO CÁO TÀI CHÍNH RIÊNG\nCHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025\n\nNỘI DUNG\nTRANG\n\nThông tin doanh nghiệp 1\n\nBáo cáo của Ban Tổng Giám đốc 2\n\nBáo cáo kiểm toán độc lập 3\n\nBảng cân đối kế toán riêng (Mẫu số B 01 – DN) 5\n\nBáo cáo kết quả hoạt động kinh doanh riêng (Mẫu số B 02 – DN) 7\n\nBáo cáo lưu chuyển tiền tệ riêng (Mẫu số B 03 – DN) 8\n\nThuyết minh báo cáo tài chính riêng (Mẫu số B 09 – DN) 10\n\n10.1 205 141\n\n(1) \\(0 \\cap \\mathrm{V}_{\\mathrm{min}}\\)\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nTHÔNG TIN DOANH NGHIỆP",
+        "dataframe": [
+            {
+                "0": "Giấy Chứng nhận Đăng kýDoanh nghiệp số",
+                "1": "0303576603",
+                "2": "ngày 18 tháng 11 năm 2004"
+            },
+            {
+                "0": "",
+                "1": "Giấy Chứng nhận Đăng ký Doanh nghiệp đã được điều chỉnh nhiều lần, lần điều chỉnh gần nhất là vào ngày 31 tháng 8 năm 2025. Giấy Chứng nhận Đăng ký Doanh nghiệp và các giấy chứng nhận điều chỉnh do Sở Kế hoạch và Đầu tư (nay là Sở Tài chính) Thành phố Hồ Chí Minh cấp.",
+                "2": "Giấy Chứng nhận Đăng ký Doanh nghiệp đã được điều chỉnh nhiều lần, lần điều chỉnh gần nhất là vào ngày 31 tháng 8 năm 2025. Giấy Chứng nhận Đăng ký Doanh nghiệp và các giấy chứng nhận điều chỉnh do Sở Kế hoạch và Đầu tư (nay là Sở Tài chính) Thành phố Hồ Chí Minh cấp."
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Dr Nguyễn Đăng QuangBà Nguyễn Hoàng YếnÔng Nguyễn Thiều NamÔng Nguyễn Đoan HùngÔng David Tan Wei MingBà Nguyễn Thị Thu Hà",
+                "2": "Chủ tịchThành viênThành viênThành viênThành viên"
+            },
+            {
+                "0": "Ban Tổng Giám đốc",
+                "1": "Ông Le DannyÔng Nguyễn Thiều NamÔng Michael Hung Nguyen",
+                "2": "Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốc"
+            },
+            {
+                "0": "Ủy ban Kiểm toán",
+                "1": "Ông Nguyễn Đoan HùngBà Nguyễn Thị Thu Hà",
+                "2": "Chủ tịchThành viên"
+            },
+            {
+                "0": "Người đại diện theo pháp luật",
+                "1": "Dr Nguyễn Đăng QuangÔng Le Danny",
+                "2": "Chủ tịchTổng Giám đốc"
+            },
+            {
+                "0": "Trụ sở đăng ký",
+                "1": "23 Lê Duẩn, Phường Sài GònThành phố Hồ Chí Minh, Việt Nam",
+                "2": "23 Lê Duẩn, Phường Sài GònThành phố Hồ Chí Minh, Việt Nam"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_2",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "6.1 2024年\n\n设  \\( \\alpha = 12\\pi \\)\n\n1\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC\n\nTUYÊN BỐ TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BẢO CẢO TÀI CHÍNH RIÊNG\n\nBan Tổng Giám đốc Công ty Cổ phần Tập đoàn Masan (\"Công ty\") trình bày báo cáo này và báo cáo tài chính riêng đính kèm của Công ty cho năm kết thúc ngày 31 tháng 12 năm 2025.\n\nBan Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính riêng tại ngày và cho nằm kết thúc ngày 31 tháng 12 năm 2025 theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Khi lập báo cáo tài chính riêng, Ban Tổng Giám đốc Công ty được yêu cầu phải:\n\n- lựa chọn các chính sách kế toán phù hợp và sau đó áp dụng các chính sách này một cách nhất quán;\n\n- thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;\n\nnêu rõ các chuẩn mục kế toán áp dụng có được tuân thủ hay không, và các khác biệt trọng yếu nếu có đã được trình bày và giải thích trong báo cáo tài chính riêng; và\n\n- lập báo cáo tài chính riêng theo giả định hoạt động liên tục trừ khi giả định Công ty sẽ tiếp tục hoạt động kinh doanh không còn phù hợp.\n\nBan Tổng Giám đốc Công ty cũng chịu trách nhiệm bảo đảm các số sách kế toán thích hợp được lưu trữ để phần ánh tỉnh hình tài chính riêng của Công ty, với mức độ chính xác hợp lý tại mọi thời điểm, và đảm bảo rằng các số sách kế toán tuân thủ các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Ban Tổng Giám đốc Công ty cũng có trách nhiệm quản lý tài sản của Công ty và do đó phải thực hiện các biện pháp thích hợp nhằm ngăn ngừa và phát hiện những gian lận và những vi phạm khác.\n\nBan Tổng Giám đốc Công ty cam kết rằng Ban Tổng Giám đốc đã tuân thủ những yêu cầu trên trong việc lập báo cáo tài chính riêng này.\n\nPHÊ DUYỆT BÁO CÁO TÀI CHÍNH RIÊNG\n\nChúng tôi phê duyệt báo cáo tài chính riêng đính kèm của Công ty tại ngày và cho năm kết thúc ngày 31 tháng 12 năm 2025, báo cáo tài chính riêng này được lập phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.\n\nTổng Giám đốc\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 6 tháng 3 năm 2026\n\n2\n\n\\( \\therefore {a}_{1} = 3,{b}_{2} = 7 \\)\n\n\\( \\therefore m = \\frac{3}{2} \\)\n\n\n\nKPMG\n\nChi nhánh Công ty TNHH KPMG\n\nSố 115 Đường Nguyễn Huệ, Phường Sài Gòn,\n\nThành phố Hồ Chí Minh, Việt Nam\n\n+84 (28) 3821 9266 | kpmg.com.vn\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP\n\nKính gửi các Cổ đông\n\nCông ty Cổ phần Tập đoàn Masan\n\nChúng tôi đã kiểm toán báo cáo tài chính riêng đính kèm của Công ty Cổ phần Tập đoàn Masan (\"Công ty\"), bao gồm bằng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2025, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tệ riêng cho năm kết thúc cùng ngày và các thuyết minh kèm theo được Ban Tổng Giám đốc Công ty phê duyệt phát hành ngày 6 tháng 3 năm 2026, được trình bày từ trang 5 đến trang 36.\n\nTrách nhiệm của Ban Tổng Giám đốc\n\nBan Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính riêng này theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính, và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hay nhằm lẫn.\n\nTrách nhiệm của kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng này dựa trên kết quả kiểm toán của chúng tôi. Chúng tôi đã thực hiện công việc kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm việc thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và các thuyết minh trong báo cáo tài chính. Các thủ tục được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính do gian lập hoặc nhằm lấn. Khi thực hiện các đánh giá rủi ro này, kiểm toán viên xem xét kiểm soát nội bộ của Công ty liên quan tới việc lập và trình bày báo cáo tài chính trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc Công ty, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính.\n\nChúng tôi tin rằng các bằng chứng kiểm toán mà chúng tôi thu được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\n3\n\nChi nhánh Công ty TNHH KPMG, một chi nhánh của Công ty TNHH KPMG, một công ty trách nhiệm hữu hạn một thành viên được thành lập tại Việt Nam và là công ty thành viên trong tổ chức toán cầu của các công ty KPMG độc lập, liên kết với KPMG International Limited, một công ty trách nhiệm hữu hạn theo bảo lãnh được thành lập tại Vương Quốc Anh. Tất cả các quyền được bảo hồ.\n\n设  \\( \\overrightarrow{D} = \\overrightarrow{S} \\)  is ii\n\n\n\nKPMG\n\nÝ kiến của kiểm toán viên\n\nTheo ý kiến của chúng tôi, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tỉnh hình tài chính riêng của Công ty Cổ phần Tập đoàn Masan tại ngày 31 tháng 12 năm 2025, kết quả hoạt động kinh doanh riêng và lưu chuyển tiền tệ riêng của Công ty cho năm kết thúc cùng ngày, phù hợp với các Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.\n\nChi nhánh Công ty TNHH KPMG\n\nViêt Nam\n\nBáo cáo kiểm toán số: 25-01-01312-26-1\n\nPhạm Thị Hoàng Anh\n\nGiấy Chứng nhận Đăng ký Hành nghề\n\nKiểm toán số 3434-2022-007-1\n\nPhó Tổng Giám đốc\n\nThành phố Hồ Chí Minh, ngày 6 tháng 3 năm 2026\n\nTriệu Tích Quyền\n\nGiấy Chứng nhận Đăng ký Hành nghề\n\nKiểm toán số 4629-2023-007-1\n\n4\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 01 – DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG",
+        "dataframe": [
+            {
+                "0": "TÀI SẢN",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "31/12/2025 VND",
+                "4": "1/1/2025 VND"
+            },
+            {
+                "0": "TÀI SẢN NGĂN HẠN",
+                "1": "100",
+                "2": "",
+                "3": "11.449.410.032.176",
+                "4": "7.244.263.759.717"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền",
+                "1": "110",
+                "2": "4",
+                "3": "595.187.880.509",
+                "4": "1.444.859.654.047"
+            },
+            {
+                "0": "Tiền",
+                "1": "111",
+                "2": "",
+                "3": "17.937.880.509",
+                "4": "697.658.111.995"
+            },
+            {
+                "0": "Các khoản tương đương tiền",
+                "1": "112",
+                "2": "",
+                "3": "577.250.000.000",
+                "4": "747.201.542.052"
+            },
+            {
+                "0": "Đầu tư tài chính ngắn hạn",
+                "1": "120",
+                "2": "",
+                "3": "51.800.000.000",
+                "4": "127.303.524.695"
+            },
+            {
+                "0": "Đầu tư nắm giữ đến ngày đáo hạn",
+                "1": "123",
+                "2": "5(a)",
+                "3": "51.800.000.000",
+                "4": "127.303.524.695"
+            },
+            {
+                "0": "Các khoản phải thu ngắn hạn",
+                "1": "130",
+                "2": "",
+                "3": "10.675.881.339.094",
+                "4": "5.570.347.326.810"
+            },
+            {
+                "0": "Trả trước cho người bán",
+                "1": "132",
+                "2": "",
+                "3": "726.661.280",
+                "4": "1.309.976.905"
+            },
+            {
+                "0": "Phải thu về cho vay ngắn hạn",
+                "1": "135",
+                "2": "6(a)",
+                "3": "10.143.900.000.000",
+                "4": "5.039.688.000.000"
+            },
+            {
+                "0": "Phải thu ngắn hạn khác",
+                "1": "136",
+                "2": "6(c)",
+                "3": "531.254.677.814",
+                "4": "529.349.349.905"
+            },
+            {
+                "0": "Tài sản ngắn hạn khác",
+                "1": "150",
+                "2": "",
+                "3": "126.540.812.573",
+                "4": "101.753.254.165"
+            },
+            {
+                "0": "Chi phí trả trước ngắn hạn",
+                "1": "151",
+                "2": "",
+                "3": "21.292.583.499",
+                "4": "874.374.591"
+            },
+            {
+                "0": "Thuế giá trị gia tăng được khấu trừ",
+                "1": "152",
+                "2": "",
+                "3": "40.204.851.893",
+                "4": "32.739.743.917"
+            },
+            {
+                "0": "Thuế và các khoản khác phải thu Ngân sách Nhà nước",
+                "1": "153",
+                "2": "",
+                "3": "65.043.377.181",
+                "4": "68.139.135.657"
+            },
+            {
+                "0": "TÀI SẢN DÀI HẠN",
+                "1": "200",
+                "2": "",
+                "3": "38.667.004.112.221",
+                "4": "45.321.118.866.270"
+            },
+            {
+                "0": "Các khoản phải thu dài hạn",
+                "1": "210",
+                "2": "",
+                "3": "15.949.849.002.942",
+                "4": "22.630.349.520.886"
+            },
+            {
+                "0": "Phải thu về cho vay dài hạn",
+                "1": "215",
+                "2": "6(b)",
+                "3": "12.032.345.779.967",
+                "4": "18.053.345.779.967"
+            },
+            {
+                "0": "Phải thu dài hạn khác",
+                "1": "216",
+                "2": "6(d)",
+                "3": "3.917.503.222.975",
+                "4": "4.577.003.740.919"
+            },
+            {
+                "0": "Tài sản cố định",
+                "1": "220",
+                "2": "",
+                "3": "10.145.997.803",
+                "4": "3.928.314.177"
+            },
+            {
+                "0": "Tài sản cố định hữu hình",
+                "1": "221",
+                "2": "7",
+                "3": "5.512.575.105",
+                "4": "3.685.397.510"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "222",
+                "2": "",
+                "3": "55.910.903.005",
+                "4": "51.443.824.805"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế",
+                "1": "223",
+                "2": "",
+                "3": "(50.398.327.900)",
+                "4": "(47.758.427.295)"
+            },
+            {
+                "0": "Tài sản cố định vô hình",
+                "1": "227",
+                "2": "",
+                "3": "4.633.422.698",
+                "4": "242.916.667"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "228",
+                "2": "",
+                "3": "9.480.942.595",
+                "4": "4.962.122.903"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế",
+                "1": "229",
+                "2": "",
+                "3": "(4.847.519.897)",
+                "4": "(4.719.206.236)"
+            },
+            {
+                "0": "Tài sản dở dang dài hạn",
+                "1": "240",
+                "2": "",
+                "3": "7.815.947.042",
+                "4": "28.384.673.471"
+            },
+            {
+                "0": "Xây dựng cơ bản dở dang",
+                "1": "242",
+                "2": "8",
+                "3": "7.815.947.042",
+                "4": "28.384.673.471"
+            },
+            {
+                "0": "Đầu tư tài chính dài hạn",
+                "1": "250",
+                "2": "",
+                "3": "22.428.202.077.636",
+                "4": "22.428.202.077.636"
+            },
+            {
+                "0": "Đầu tư vào các công ty con",
+                "1": "251",
+                "2": "5(b)",
+                "3": "18.049.365.000.000",
+                "4": "18.049.365.000.000"
+            },
+            {
+                "0": "Đầu tư vào một công ty liên kết",
+                "1": "252",
+                "2": "5(c)",
+                "3": "4.378.837.077.636",
+                "4": "4.378.837.077.636"
+            },
+            {
+                "0": "Tài sản dài hạn khác",
+                "1": "260",
+                "2": "",
+                "3": "270.991.086.798",
+                "4": "230.254.280.100"
+            },
+            {
+                "0": "Chi phí trả trước dài hạn",
+                "1": "261",
+                "2": "9",
+                "3": "270.991.086.798",
+                "4": "230.254.280.100"
+            },
+            {
+                "0": "TỔNG TÀI SẢN",
+                "1": "270",
+                "2": "",
+                "3": "50.116.414.144.397",
+                "4": "52.565.382.625.987"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_3",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính riêng này\n\n5\n\n| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 01 – DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG\n(tiếp theo)",
+        "dataframe": [
+            {
+                "0": "NGUỒN VỐN",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "31/12/2025 VND",
+                "4": "1/1/2025 VND"
+            },
+            {
+                "0": "NỘ PHẢI TRÀ",
+                "1": "300",
+                "2": "",
+                "3": "21.193.530.429.747",
+                "4": "24.081.293.864.391"
+            },
+            {
+                "0": "Nợ ngắn hạn",
+                "1": "310",
+                "2": "",
+                "3": "2.676.172.794.764",
+                "4": "2.984.456.318.736"
+            },
+            {
+                "0": "Phải trả người bán",
+                "1": "311",
+                "2": "",
+                "3": "52.428.489.527",
+                "4": "87.687.391.693"
+            },
+            {
+                "0": "Người mua trả tiền trước",
+                "1": "312",
+                "2": "",
+                "3": "58.095.609.091",
+                "4": "-"
+            },
+            {
+                "0": "Thuế phải nộp Ngân sách Nhà nước",
+                "1": "313",
+                "2": "",
+                "3": "13.274.814.813",
+                "4": "15.103.367.411"
+            },
+            {
+                "0": "Phải trả nhân viên",
+                "1": "314",
+                "2": "",
+                "3": "-",
+                "4": "49.538.702"
+            },
+            {
+                "0": "Chi phí phải trả ngắn hạn",
+                "1": "315",
+                "2": "10(a)",
+                "3": "393.931.053.534",
+                "4": "356.661.046.671"
+            },
+            {
+                "0": "Phải trả ngắn hạn khác",
+                "1": "319",
+                "2": "11(a)",
+                "3": "9.053.827.799",
+                "4": "8.253.474.259"
+            },
+            {
+                "0": "Vay và trái phiếu phát hành ngắn hạn",
+                "1": "320",
+                "2": "12",
+                "3": "2.149.389.000.000",
+                "4": "2.516.701.500.000"
+            },
+            {
+                "0": "Nợ dài hạn",
+                "1": "330",
+                "2": "",
+                "3": "18.517.357.634.983",
+                "4": "21.096.837.545.655"
+            },
+            {
+                "0": "Chi phí phải trả dài hạn",
+                "1": "333",
+                "2": "10(b)",
+                "3": "-",
+                "4": "55.061.479.450"
+            },
+            {
+                "0": "Phải trả dài hạn khác",
+                "1": "337",
+                "2": "11(b)",
+                "3": "-",
+                "4": "1.500.000.000.000"
+            },
+            {
+                "0": "Vay và trái phiếu phát hành dài hạn",
+                "1": "338",
+                "2": "12",
+                "3": "18.517.357.634.983",
+                "4": "19.541.776.066.205"
+            },
+            {
+                "0": "VỐN CHỦ SỞ HỮU",
+                "1": "400",
+                "2": "",
+                "3": "28.922.883.714.650",
+                "4": "28.484.088.761.596"
+            },
+            {
+                "0": "Vốn chủ sở hữu",
+                "1": "410",
+                "2": "13",
+                "3": "28.922.883.714.650",
+                "4": "28.484.088.761.596"
+            },
+            {
+                "0": "Vốn cổ phần",
+                "1": "411",
+                "2": "14",
+                "3": "15.204.919.270.000",
+                "4": "15.129.280.870.000"
+            },
+            {
+                "0": "Thặng dư vốn cổ phần",
+                "1": "412",
+                "2": "14",
+                "3": "14.164.507.503.261",
+                "4": "14.164.557.503.261"
+            },
+            {
+                "0": "Vốn khác của chủ sở hữu",
+                "1": "414",
+                "2": "16",
+                "3": "(1.695.338.182.568)",
+                "4": "(1.695.338.182.568)"
+            },
+            {
+                "0": "Lợi nhuận sau thuế chưa phân phối",
+                "1": "421",
+                "2": "",
+                "3": "1.248.795.123.957",
+                "4": "885.588.570.903"
+            },
+            {
+                "0": "- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước",
+                "1": "421a",
+                "2": "",
+                "3": "885.588.570.903",
+                "4": "259.366.070.952"
+            },
+            {
+                "0": "- Lợi nhuận thuần trong năm",
+                "1": "421b",
+                "2": "",
+                "3": "363.206.553.054",
+                "4": "626.222.499.951"
+            },
+            {
+                "0": "TỔNG NGUỒN VỐN",
+                "1": "440",
+                "2": "",
+                "3": "50.116.414.144.397",
+                "4": "52.565.382.625.987"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_4",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Ngày 6 tháng 3 năm 2026\n\nCác thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính riêng này\n\n6\n\n1151 27 151\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG\n\nMẫu số B 02 – DN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "2025 VND",
+                "4": "2024 VND"
+            },
+            {
+                "0": "Doanh thu hoạt động tài chính",
+                "1": "21",
+                "2": "18",
+                "3": "2.930.351.106.422",
+                "4": "3.511.862.549.360"
+            },
+            {
+                "0": "Chi phí tài chính",
+                "1": "22",
+                "2": "19",
+                "3": "2.048.493.445.843",
+                "4": "2.470.921.222.731"
+            },
+            {
+                "0": "- Trong đó: Chi phí lãi vay",
+                "1": "23",
+                "2": "",
+                "3": "1.838.935.566.177",
+                "4": "2.296.519.101.787"
+            },
+            {
+                "0": "Chi phí quản lý doanh nghiệp",
+                "1": "26",
+                "2": "20",
+                "3": "478.268.288.157",
+                "4": "415.229.971.727"
+            },
+            {
+                "0": "Lợi nhuận thuần từ hoạt động kinh doanh",
+                "1": "30",
+                "2": "",
+                "3": "403.589.372.422",
+                "4": "625.711.354.902"
+            },
+            {
+                "0": "Thu nhập khác",
+                "1": "31",
+                "2": "",
+                "3": "2.143.976.813",
+                "4": "511.145.049"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "32",
+                "2": "",
+                "3": "42.526.796.181",
+                "4": "-"
+            },
+            {
+                "0": "Kết quả của các hoạt động khác",
+                "1": "40",
+                "2": "",
+                "3": "(40.382.819.368)",
+                "4": "511.145.049"
+            },
+            {
+                "0": "Lợi nhuận kế toán trước thuế",
+                "1": "50",
+                "2": "",
+                "3": "363.206.553.054",
+                "4": "626.222.499.951"
+            },
+            {
+                "0": "Chi phí thuế thu nhập hiện hành",
+                "1": "51",
+                "2": "21",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Chi phí thuế thu nhập hoãn lại",
+                "1": "52",
+                "2": "21",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Lợi nhuận thuần sau thuế",
+                "1": "60",
+                "2": "",
+                "3": "363.206.553.054",
+                "4": "626.222.499.951"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_5",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Ngày 6 tháng 3 năm 2026\n\nCác thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính riêng này\n\n7\n\n\\( \\therefore 1 \\neq  - 2 \\)\n\n\\( \\therefore m = \\frac{1}{2} \\)\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 03 – DN\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ RIÊNG (Phương pháp gián tiếp)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "2025 VND",
+                "4": "2024 VND"
+            },
+            {
+                "0": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "3": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "4": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH"
+            },
+            {
+                "0": "Lợi nhuận kế toán trước thuế Điều chỉnh cho",
+                "1": "01",
+                "2": "",
+                "3": "363.206.553.054",
+                "4": "626.222.499.951"
+            },
+            {
+                "0": "Khấu hao",
+                "1": "02",
+                "2": "",
+                "3": "2.888.564.266",
+                "4": "3.001.724.622"
+            },
+            {
+                "0": "Lãi chênh lệch tỷ giá hối đoái chưa thực hiện",
+                "1": "04",
+                "2": "",
+                "3": "(2.310.000.000)",
+                "4": "-"
+            },
+            {
+                "0": "Lãi từ hoạt động đầu tư",
+                "1": "05",
+                "2": "",
+                "3": "(2.899.837.311.829)",
+                "4": "(3.511.472.955.178)"
+            },
+            {
+                "0": "Chi phí lãi vay và chi phí tài chính khác",
+                "1": "06",
+                "2": "",
+                "3": "2.033.173.945.843",
+                "4": "2.467.974.631.753"
+            },
+            {
+                "0": "Lỗ từ hoạt động kinh doanh trước những thay đổi vốn lưu động",
+                "1": "08",
+                "2": "",
+                "3": "(502.878.248.666)",
+                "4": "(414.274.098.852)"
+            },
+            {
+                "0": "Biến động các khoản phải thu và tài sản khác",
+                "1": "09",
+                "2": "",
+                "3": "80.262.207.657",
+                "4": "(55.852.430.195)"
+            },
+            {
+                "0": "Biến động các khoản phải trả và nợ phải trả khác",
+                "1": "11",
+                "2": "",
+                "3": "36.873.678.622",
+                "4": "88.741.278.287"
+            },
+            {
+                "0": "Biến động các khoản trả trước",
+                "1": "12",
+                "2": "",
+                "3": "(18.652.232.262)",
+                "4": "649.194.012"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "(404.394.594.649)",
+                "4": "(380.736.056.748)"
+            },
+            {
+                "0": "Tiền lãi vay và chi phí tài chính khác đã trả",
+                "1": "14",
+                "2": "",
+                "3": "(2.103.115.395.993)",
+                "4": "(2.553.673.547.592)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+                "1": "20",
+                "2": "",
+                "3": "(2.507.509.990.642)",
+                "4": "(2.934.409.604.340)"
+            },
+            {
+                "0": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "2": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "3": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "4": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+            },
+            {
+                "0": "Tiền chi mua tài sản cố định và tài sản dài hạn khác",
+                "1": "21",
+                "2": "",
+                "3": "(7.988.957.970)",
+                "4": "(9.557.204.883)"
+            },
+            {
+                "0": "Tiền thu từ thanh lý tài sản cố định",
+                "1": "22",
+                "2": "",
+                "3": "7.545.454",
+                "4": "499.154.849"
+            },
+            {
+                "0": "Tiền chi cho vay và gửi tiền gửi ngân hàng có kỳ hạn",
+                "1": "23",
+                "2": "",
+                "3": "(18.967.700.000.000)",
+                "4": "(10.178.743.524.695)"
+            },
+            {
+                "0": "Tiền thu hồi cho vay và rút tiền gửi ngân hàng có kỳ hạn",
+                "1": "24",
+                "2": "",
+                "3": "19.959.991.524.695",
+                "4": "14.218.552.000.000"
+            },
+            {
+                "0": "Tiền chi cho các khoản đầu tư vốn",
+                "1": "25",
+                "2": "",
+                "3": "-",
+                "4": "(2.993.000.000.000)"
+            },
+            {
+                "0": "Tiền thu lãi tiền gửi, lãi cho vay, cổ tức và thu nhập khác từ hoạt động đầu tư",
+                "1": "27",
+                "2": "",
+                "3": "3.501.588.054.925",
+                "4": "2.062.955.470.239"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+                "1": "30",
+                "2": "",
+                "3": "4.485.898.167.104",
+                "4": "3.100.705.895.510"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_6",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính riêng này\n\n8\n\n\\( b \\in I \\quad C = (D, D) \\text{ and } \\)\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ RIÊNG\n\n(Phương pháp gián tiếp – tiếp theo)\n\nMẫu số B 03 – DN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "2025 VND",
+                "4": "2024 VND"
+            },
+            {
+                "0": "LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "1": "LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "3": "LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "4": "LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+            },
+            {
+                "0": "Tiền thu từ phát hành cổ phiếu, trừđi các khoản thanh toán cho chi phígiao dịch liên quan",
+                "1": "31",
+                "2": "",
+                "3": "75.588.400.000",
+                "4": "6.262.326.612.182"
+            },
+            {
+                "0": "Tiền thu từ vay, phát hành tráiphiếu và khác",
+                "1": "33",
+                "2": "",
+                "3": "1.964.488.600.000",
+                "4": "5.515.446.576.000"
+            },
+            {
+                "0": "Tiền trả nợ gốc vay, trái phiếu vàkhác",
+                "1": "34",
+                "2": "",
+                "3": "(4.868.136.950.000)",
+                "4": "(11.290.509.076.000)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt độngtài chính",
+                "1": "40",
+                "2": "",
+                "3": "(2.828.059.950.000)",
+                "4": "487.264.112.182"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần trong năm",
+                "1": "50",
+                "2": "",
+                "3": "(849.671.773.538)",
+                "4": "653.560.403.352"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiềnđầu năm",
+                "1": "60",
+                "2": "",
+                "3": "1.444.859.654.047",
+                "4": "791.299.250.695"
+            },
+            {
+                "0": "Ảnh hưởng của thay đổi tỷ giá hối đoáiđối với tiền và các khoản tương đươngtiền",
+                "1": "61",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiềncuối năm",
+                "1": "70",
+                "2": "4",
+                "3": "595.187.880.509",
+                "4": "1.444.859.654.047"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_7",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Ngày 6 tháng 3 năm 2026\n\nNguyễn Huy Hùng\nKế toán trường\n\nCác thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính riêng này\n\n9\n\nb. 则  \\( \\cdots \\)  即  \\( \\cdots \\)  (a, i\n\n例 10-0-15\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025\n\nCác thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính riêng đính kèm.\n\n1 ĐƠN VỊ BÁO CÁO\n\n(a) Hình thức sở hữu vốn\n\nCông ty Cổ phần Tập đoàn Masan (\"Công ty\") là một công ty cổ phần được thành lập tại Việt Nam.\n\n(b) Hoạt động chính\n\nCác hoạt động chính của Công ty bao gồm tư vấn quản lý, tư vấn đầu tư (trừ tư vấn tài chính, kế toán, pháp luật) và thực hiện các hoạt động huy động vốn và đầu tư trên quy mô tập đoàn và cho Công ty và các công ty thành viên.\n\nCông ty sở hữu vốn trong các công ty con sở hữu trực tiếp, các công ty con sở hữu gián tiếp và các công ty liên kết (sau đây được gọi chung là “các công ty thành viên”), và thông qua các công ty này để tư vấn, và quản lý hoạt động kinh doanh ở các công ty khác trong Tập đoàn (được hiểu là “Công ty và các công ty thành viên”).\n\nDoanh thu và thu nhập của Công ty đến từ hoạt động tư vấn quản lý và quản lý các khoản đầu tư tại các công ty thành viên trong Tập đoàn bao gồm các khoản thu nhập cổ tức được nhận từ các công ty thành viên, các khoản tiền lãi từ việc cho các công ty thành viên vay, lãi từ việc chuyển nhượng các công cụ tài chính và lãi từ việc chuyển nhượng vốn hoặc cổ phần của các công ty thành viên trong Tập đoàn và các khoản thu nhập hợp pháp khác.\n\n(c) Chu kỳ kinh doanh thông thường\n\nChu kỳ kinh doanh thông thường của Công ty nằm trong phạm vi 12 tháng.\n\n(d) Nhân sự Công ty\n\nTại ngày 31 tháng 12 năm 2025, Công ty có 100 nhân viên (1/1/2025: 111 nhân viên).\n\n2 CO' SÔ' LẬP BÁO CÁO TÀI CHÍNH\n\n(a) Tuyên bố về tuân thủ\n\nBáo cáo tài chính riêng này được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.\n\nCông ty cũng lập và phát hành riêng báo cáo tài chính hợp nhất. Để có thông tin đầy đủ về hình tài chính hợp nhất tại ngày 31 tháng 12 năm 2025 của Công ty và các công ty con (sau đây được gọi chung là “Tập đoàn”), kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất cho năm kết thúc cũng ngày, báo cáo tài chính riêng này cần được đọc đồng thời với báo cáo tài chính hợp nhất của Tập đoàn cho năm kết thúc ngày 31 tháng 12 năm 2025.\n\n(b) Co sở đo lường\n\nBáo cáo tài chính riêng này, trừ báo cáo lưu chuyển tiền tệ riêng, được lập trên cơ sở dồn tích theo nguyên tắc giá gốc. Báo cáo lưu chuyển tiền tệ riêng được lập theo phương pháp gián tiếp.\n\n10\n\n112:1 ≅ < 1/4. |5|\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n2 CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH (tiếp theo)\n\n(c) Ký kế toán năm\n\nKỳ kế toán năm của Công ty là từ ngày 1 tháng 1 đến ngày 31 tháng 12.\n\n(d) Đơn vị tiền tệ kế toán và trình bày báo cáo tài chính\n\nĐơn vị tiền tệ kế toán của Công ty là Đồng Việt Nam (\"VND\"), cũng là đơn vị tiền tệ được sử dụng cho mục đích lập và trình bày báo cáo tài chính riêng.\n\n(e) Số liệu so sánh\n\nSố liệu so sánh tại ngày 1 tháng 1 năm 2025 được mang sang từ số liệu được kiểm toán tại ngày 31 tháng 12 năm 2024.\n\n3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU\n\nSau đây là những chính sách kể toán chủ yếu được Công ty áp dụng trong việc lập báo cáo tài chính riêng này.\n\n(a) Các giao dịch bằng ngoại tệ\n\nCác giao dịch bằng các đơn vị tiền tệ khác VND trong năm được quy đổi sang VND theo tỷ giá xấp xỉ với tỷ giá thực tế tại ngày giao dịch.\n\nCác khoản mục tài sản và nợ phải trả có gốc bằng đơn vị tiền tệ khác VND, ngoại trừ các khoản vay có gốc bằng đơn vị tiền tệ khác VND đã được dự phòng rúti ro hối đoái bằng các công cụ tài chính, được quy đối sang VND theo tỷ giá tại ngày kết thúc ký kế toán năm của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.\n\nTất cả các khoản chênh lệch tỷ giá hối đoái được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n(b) Tiền và các khoản tương đương tiền\n\nTiền bao gồm tiền mặt và tiền gửi ngân hàng không kỳ hạn. Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có tính thanh khoản cao có thể để dàng chuyển đổi thành khoản tiền xác định trước, ít rủi ro về thay đổi giá trị và được giữ nhằm đáp ứng nhu cầu thanh toán ngắn hạn hơn là cho mục đích đầu tư hay các mục đích khác.\n\n11\n\n公 王王 / 201\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n(c) Các khoản đầu tư\n\n(i) Chứng khoán kinh doanh\n\nChứng khoán kinh doanh là các trái phiếu và chứng chỉ tiền gửi được Công ty nằm giữ vì mục đích kinh doanh, tức là mua vào bán ra để thu lợi nhuận trong thời gian ngắn. Chứng khoán kinh doanh được ghi nhận ban đầu theo giá gốc bao gồm giá mua cộng các chi phí mua. Sau ghi nhận ban đầu, chứng khoán kinh doanh được xác định theo giá gốc trừ đi thu nhập lãi liên quan đến giai đoạn trước khi mua chứng khoán kinh doanh và dự phòng giảm giá chứng khoán kinh doanh. Dự phòng giảm giá chứng khoán kinh doanh được lập khi giá thị trường của chứng khoán giảm xuống thấp hơn giá trị ghi số của chứng. Sau khi khoản dự phòng được lập, nếu giá thị trường của chứng khoán tăng lên thì khoản dự phòng sẽ được hoàn nhập. Khoản dự phòng chỉ được hoàn nhập trong phạm vi sao cho giá trị ghi số của chứng khoán kinh doanh không vượt quá giá trị ghi số của các chứng khoán này khi giả định không có khoản dự phòng nào đã được ghi nhận.\n\n(ii) Đầu tư nấm giữ đến ngày đáo hạn\n\nĐầu tư nắm giữ đến ngày đáo hạn là các khoản đầu tư mà Ban Tổng Giám đốc Công ty dự định và có khả năng nắm giữ đến ngày đáo hạn. Đầu tư nắm giữ đến ngày đáo hạn gồm tiền gửi ngân hàng có kỳ hạn. Các khoản đầu tư này được ghi nhận theo giá gốc trừ đi dự phòng phải thu khó đòi.\n\n(iii) Đầu tư vào công ty con và công ty liên kết\n\nCho mục đích của báo cáo tài chính riêng này, các khoản đầu tư vào công ty con và công ty liên kết được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí mua có liên quan trực tiếp. Sau ghi nhận ban đầu, các khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá đầu tư. Dự phòng giảm giá đầu tư được lập khi đơn vị nhận đầu tư phát sinh lỗ, dẫn đến Công ty có khả năng mất vốn, trừ khi có bằng chứng rằng giá trị của khoản đầu tư không bị suy giảm. Dự phòng giảm giá đầu tư không được lập khi Công ty đánh giá rằng không có khả năng mất vốn. Dự phòng giảm giá đầu tư được hoàn nhập khi đơn vị nhận đầu tư sau đó tạo ra lợi nhuận để bù trừ cho các khoản lỗ đã được lập dự phòng trước kia. Khoản dự phòng chỉ được hoàn nhập trong phạm vi sao cho giá trị ghi số của khoản đầu tư không vượt quả giá trị ghi số của chứng khi giả định không có khoản dự phòng nào đã được ghi nhận.\n\n(d) Các khoản phải thu\n\nCác khoản phải thu khác được phần ánh theo giá gốc trừ đi dự phòng phải thu khó đòi.\n\n(e) Tài sản cố định hữu hình\n\n(i) Nguyên giá\n\nTài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá tài sản cố định hữu hình bao gồm giả mua, thuế nhập khẩu, các loại thuế mua hàng không hoàn lại, chi phí liên quan trực tiếp để đưa tài sản đến vị trí và trạng thái hoạt động cho mục đích sử dụng đã dự kiến, và chi phí để tháo dỡ, di đời tài sản và khởi phục hiện trường tại địa điểm đặt tài sản. Các chỉ phí phát sinh sau khi tài sản cố định hữu hình đã đưa vào hoạt động như chỉ phí sửa chữa, bảo dưỡng và đại tu được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng trong năm mà chỉ phí phát sinh. Trong các trường hợp có thể chứng minh một cách rõ ràng rằng các khoản chỉ phí này làm tăng lợi ích kinh tế trong tương lai dự tính thu được từ việc sử dụng tài sản cố định hữu hình vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban đầu, thì các chỉ phí này được vốn hoá như một khoản nguyên giá tăng thêm của tài sản cố định hữu hình.\n\n12\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n(e) Tài sản cố định hữu hình (tiếp theo)\n\n(ii) Khâu hao\n\nKhấu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của tài sản cố định hữu hình. Thời gian hữu dụng ước tính như sau:\n\nnâng cấp tài sản thuê 5 năm\n\n■ thiết bị văn phòng 3 – 5 năm\n\n▪ phương tiện vận chuyển 6 năm\n\n(f) Tài sản cố định vô hình\n\nPhần mềm máy vi tính\n\nGiá mua của phần mềm máy vi tính mới mà phần mềm máy vi tính này không là một bộ phận gắn kết với phần cứng có liên quan thì được vốn hóa và hạch toán là tài sân cố định vô hình. Nguyên giá của phần mềm máy vi tính được khấu hao theo phương pháp đường thẳng trong thời gian từ 2 đến 5 năm.\n\n(g) Xây dựng cơ bản dở dang\n\nXây dựng cơ bản đồ dang phần ánh các khoản chi phí xây dựng hoặc triển khai tài sản cố định hữu hình và tài sản cố định vô hình chưa được hoàn thành hoặc chưa lắp đặt xong. Không tính khấu hao cho xây dựng cơ bản đồ dang trong quá trình xây dựng và lắp đặt.\n\n(h) Chi phí trả trước dài hạn\n\n(i) Chi phí đi vay trả trước\n\nChỉ phí đi vay trả trước được ghi nhận theo giá gốc và được phân bổ theo phương pháp đường thẳng trong suốt thời gian vay.\n\n(ii) Công cụ và dụng cụ\n\nCông cụ và dụng cụ bao gồm các tài sản Công ty nằm giữ để sử dụng trong quá trình hoạt động kinh doanh bình thường, với nguyên giá của mỗi tài sản thấp hơn 30 triệu VND và do đó không đủ điều kiện ghi nhận là tài sản cố định theo quy định hiện hành. Nguyên giá của công cụ và dụng cụ được phân bổ theo phương pháp đường thẳng trong thời gian từ 2 đến 3 năm.\n\n(i) Các khoản phải trả\n\nCác khoản phải trả người bán và phải trả khác được phản ánh theo giá gốc.\n\n(j) Trái phiếu phát hành\n\nTrái phiếu thường\n\nTại thời điểm ghi nhận ban đầu, trái phiếu được xác định theo giá gốc bao gồm khoản tiền thu được từ việc phát hành trái phiếu trừ đi chi phí phát hành. Các khoản chiết khấu, phụ trội và chi phí phát hành được phân bổ dần theo phương pháp đường thẳng trong suốt kỳ hạn của trái phiếu.\n\n13\n\n(2) \\( \\angle {AEG} = {120}^{ \\circ  }\\left( { - {45}^{ \\circ  } + 6}\\right) \\)\n\n\\( 1+1 \\Rightarrow 2 > 1 \\leqslant n \\)\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n(k) Thuế\n\nThuế thu nhập doanh nghiệp tính trên lợi nhuận hoặc lỗ của năm bao gồm thuế thu nhập hiện hành và thuế thu nhập hoãn lại. Thuế thu nhập doanh nghiệp được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp có các khoản thuế thu nhập liên quan đến các khoản mục được ghi nhận thăng vào vốn chủ sở hữu, thì khi đó các thuế thu nhập này cũng được ghi nhận thăng vào vốn chủ sở hữu.\n\nThuế thu nhập hiện hành là khoản thuế dự kiến phải nộp dựa trên thu nhập chịu thuế trong năm, sử dụng các mức thuế suất có hiệu lực tại ngày kết thúc kỳ kế toán năm, và các khoản điều chỉnh thuế phải nộp liên quan đến những năm trước.\n\nThuế thu nhập hoãn lại được tính theo phương pháp bằng cân đối kế toán cho các chênh lệch tạm thời giữa giá trị ghi số cho mục đích báo cáo tài chính và giá trị sử dụng cho mục đích tính thuế của các khoản mục tài sản và nợ phải trả. Giá trị của thuế thu nhập hoãn lại được ghi nhận dựa trên cách thức dự kiến thu hồi hoặc thanh toán giá trị ghi số của các khoản mục tài sản và nợ phải trả sử dụng các mức thuế suất có hiệu lực hoặc cơ bản có hiệu lực tại ngày kết thúc ký kế toán năm.\n\nTài sản thuế thu nhập hoãn lại được ghi nhận trong phạm vi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để chênh lệch tạm thời này có thể sử dụng được. Tài sản thuế thu nhập hoãn lại ghi giảm trong phạm vi không còn chắc chắn là các lợi ích về thuế liên quan này sẽ được sử dụng.\n\n(I) Vốn chủ sở hữu\n\n(i) Cổ phiếu phổ thông\n\nCổ phiếu phổ thông được phân loại là vốn chủ sở hữu.\n\n(ii) Cổ phiếu ưu đãi không được đơn vị mua lại\n\nCổ phiếu ưu đãi không được đơn vị mua lai được phân loại là vốn chủ sở hữu do cổ phiếu này có mức cổ tức tùy theo quyết định của Công ty, không có nghĩa vụ chuyển giáo tiền hay tài sản tài chính khác và không có yêu cầu phải thanh toán bằng một số lượng có thể thay đổi công cụ vốn chủ sở hữu của Công ty. Do đó cổ tức tùy theo quyết định của Công ty được ghi nhận là phân phối vốn chủ sở hữu theo nghị quyết của các cổ đông của Công ty.\n\n(iii) Thặng dư vốn cổ phần\n\nPhần chênh lệch do giá phát hành cổ phiếu cao hơn mệnh giá được ghi nhận vào thẳng dư vốn cổ phần. Chi phí liên quan trực tiếp đến việc phát hành cổ phiếu, trừ đi ảnh hưởng thuế, được ghi nhận là khoản giảm thẳng dư vốn cổ phần.\n\n(iv) Vốn khác của chủ sở hữu\n\nCác thỏa thuận phát hành một số lượng cổ phiếu nhất định vào một ngày ấn định trong tương lai, được ghi nhận dựa trên giá trị hợp lý tại ngày của các thỏa thuận và được ghi nhận vào vốn khác của chủ sở hữu nếu không tồn tại các thỏa thuận thay thế nào khác.\n\n14\n\n(2)  \\( \\overline{a} = 4 \\)  (3)\n\n(2) 100%\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n(m) Doanh thu hoạt động tài chính\n\nDoanh thu hoạt động tài chính bao gồm thu nhập cổ tức, thu nhập lãi tiền gửi, lãi chứng khoán kinh doanh, lãi cho vay; và lãi chênh lệch tỷ giá hối đoái.\n\nThu nhập lãi được ghi nhận theo tỷ lệ tương ứng với thời gian dựa trên số dư gốc và lãi suất áp dụng.\n\nThu nhập cổ tức được ghi nhận khi quyền nhận cổ tức được xác lập. Cổ tức nhận được liên quan đến giai đoạn trước khi mua khoản đầu tư được ghi giảm vào giá trị ghi sổ của khoản đầu tư.\n\n(n) Chi phí tài chính\n\nChi phí tài chính bao gồm chi phí lãi vay từ các khoản vay, trái phiếu và các khoản đặt cọc; chi phí vay và phát hành trái phiếu được phân bổ (sau đây được gọi chung là “chi phí đi vay”); và lỗ chênh lệch tỷ giá hối đoái.\n\nChi phí đi vay được ghi nhận là chi phí trong năm khi chi phí này phát sinh, ngoại trừ trường hợp chi phí đi vay liên quan đến các khoản vay cho mục đích hình thành tài sản đủ điều kiện vốn hóa chi phí đi vay thi khi đó chi phí đi vay phát sinh trong suốt thời gian hình thành tài sản sẽ được vốn hóa và ghi vào nguyên giá các tài sản này.\n\n(o) Các khoản thanh toán tiền thuê hoạt động\n\nCác khoản thanh toán tiền thuê hoạt động được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng dựa vào thời hạn của hợp đồng thuê. Các khoản hoa hồng đi thuê được ghi nhận như là một bộ phận hợp thành của tổng chi phí thuê, trong suốt thời hạn thuê.\n\n(p) Các bên liên quan\n\nCác bên được coi là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đăng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đăng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên gia đình thân cận của các cá nhân được coi là bên liên quan.\n\n(q) Kế hoạch về quyền chọn mua cổ phần cho nhân viên\n\nCổ phiếu phát hành cho nhân viên theo kế hoạch về quyền chọn mua cổ phần cho nhân viên được phát hành theo giá được phê duyệt trong Nghị quyết của Đại hội Cổ đông Thường niên.\n\n15\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n4 TIỀN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIỀN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025VND",
+                "2": "1/1/2025VND"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "17.937.880.509",
+                "2": "697.658.111.995"
+            },
+            {
+                "0": "Các khoản tương đương tiền",
+                "1": "577.250.000.000",
+                "2": "747.201.542.052"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền",
+                "1": "595.187.880.509",
+                "2": "1.444.859.654.047"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_8",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Các khoản tương đương tiền phần ánh các khoản tiền gửi có kỳ hạn tại ngân hàng với kỳ hạn gốc không quá 3 tháng kể từ ngày giao dịch.\n\nTại ngày 31 tháng 12 năm 2025, tiền và các khoản tương đương tiền với giá trị ghi sổ là 307.628 triệu VND (1/1/2025: 177.989 triệu VND) được thể chấp tại ngân hàng để bảo đảm cho các khoản vay của Công ty (Thuyết minh 12).\n\n5 CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025VND",
+                "2": "1/1/2025VND"
+            },
+            {
+                "0": "Đầu tư tài chính ngắn hạn",
+                "1": "Đầu tư tài chính ngắn hạn",
+                "2": "Đầu tư tài chính ngắn hạn"
+            },
+            {
+                "0": "Đầu tư nắm giữ đến ngày đáo hạn – ngắn hạn (a)",
+                "1": "51.800.000.000",
+                "2": "127.303.524.695"
+            },
+            {
+                "0": "Đầu tư tài chính dài hạn",
+                "1": "Đầu tư tài chính dài hạn",
+                "2": "Đầu tư tài chính dài hạn"
+            },
+            {
+                "0": "Đầu tư vào các công ty con (b)",
+                "1": "18.049.365.000.000",
+                "2": "18.049.365.000.000"
+            },
+            {
+                "0": "Đầu tư vào một công ty liên kết (c)",
+                "1": "4.378.837.077.636",
+                "2": "4.378.837.077.636"
+            },
+            {
+                "0": "",
+                "1": "22.428.202.077.636",
+                "2": "22.428.202.077.636"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_9",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "(a) Đầu tư nằm giữ đến ngày đáo hạn – ngắn hạn\n\nĐầu tư nắm giữ đến ngày đáo hạn – ngắn hạn phần ánh các khoản tiền gửi có kỳ hạn được gửi bằng VND tại ngân hàng với kỳ hạn gốc trên 3 tháng và dưới 12 tháng kể từ ngày giao dịch.\n\nTại ngày 31 tháng 12 năm 2025, đầu tư nắm giữ đến ngày đáo hạn – ngắn hạn với giá trị ghi số là 51.800 triệu VND (1/1/2025: 127.304 triệu VND) được thế chấp tại ngân hàng để bảo đảm cho các khoản vay của Công ty (Thuyết minh 12).\n\n16\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n5 CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH (tiếp theo)\n\n(b) Đầu tư vào các công ty con\n\nChi tiết các khoản đầu tư của Công ty vào các công ty con sở hữu trực tiếp như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "31/12/2025",
+                "3": "31/12/2025",
+                "4": "31/12/2025",
+                "5": "31/12/2025",
+                "6": "1/1/2025",
+                "7": "1/1/2025",
+                "8": "1/1/2025",
+                "9": "1/1/2025",
+                "10": "1/1/2025"
+            },
+            {
+                "0": "",
+                "1": "% sở hữu",
+                "2": "% quyền biểu quyết",
+                "3": "Giá gốc VND",
+                "4": "Dự phòng giảm giá VND (**)",
+                "5": "Giá trị hợp lý VND",
+                "6": "% sở hữu",
+                "7": "% quyền biểu quyết",
+                "8": "Giá gốc VND",
+                "9": "Dự phòng giảm giá VND (**)",
+                "10": "Giá trị hợp lý VND"
+            },
+            {
+                "0": "Công ty TNHH The SHERPA (\"SHERPA\")",
+                "1": "100%",
+                "2": "100%",
+                "3": "15.466.355.000.000",
+                "4": "-",
+                "5": "(*)",
+                "6": "100%",
+                "7": "100%",
+                "8": "15.466.355.000.000",
+                "9": "-",
+                "10": "(*)"
+            },
+            {
+                "0": "Công ty TNHH Zenith Investment (\"Zenith\")",
+                "1": "100%",
+                "2": "100%",
+                "3": "2.583.010.000.000",
+                "4": "-",
+                "5": "(*)",
+                "6": "100%",
+                "7": "100%",
+                "8": "2.583.010.000.000",
+                "9": "-",
+                "10": "(*)"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "18.049.365.000.000",
+                "4": "-",
+                "5": "(*)",
+                "6": "",
+                "7": "",
+                "8": "18.049.365.000.000",
+                "9": "-",
+                "10": "(*)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_10",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "(*) Công ty chưa xác định giá trị hợp lý cửa các khoản đầu tư góp vốn này để thuyết minh trong báo cáo tài chính riêng bởi vì Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam hiện chưa có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý cửa các khoản đầu tư này có thể khác với giá trị ghi sổ cửa chúng.\n\n(**) Dự phòng giảm giá khoản đầu tư vào các công ty con được xác định và trích lập theo chính sách kế toán được mô tả trong Thuyết minh 3(c)(iii). Tại ngày 31 tháng 12 năm 2025 và ngày 1 tháng 1 năm 2025, giá trị của các khoản đầu tư này được đánh giá là không bị suy giảm, do đó không có khoản dự phòng nào được trích lập.\n\nKhông có biến động các khoản đầu tư vào các công ty con trong năm.\n\n17\n\n1121 大<工 121\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n5 CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH (tiếp theo)\n\n(c) Đầu tư vào một công ty liên kết\n\nChi tiết khoản đầu tư của Công ty vào một công ty liên kết như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "31/12/2025",
+                "3": "31/12/2025",
+                "4": "31/12/2025",
+                "5": "31/12/2025",
+                "6": "1/1/2025",
+                "7": "1/1/2025",
+                "8": "1/1/2025",
+                "9": "1/1/2025",
+                "10": "1/1/2025"
+            },
+            {
+                "0": "",
+                "1": "% sở hữu",
+                "2": "% quyền biểu quyết",
+                "3": "Giá gốc VND",
+                "4": "Dự phòng giảm giá VND",
+                "5": "Giá trị hợp lý VND",
+                "6": "% sở hữu",
+                "7": "% quyền biểu quyết",
+                "8": "Giá gốc VND",
+                "9": "Dự phòng giảm giá VND",
+                "10": "Giá trị hợp lý VND"
+            },
+            {
+                "0": "Ngân hàng Thương mại Cổ phần Kỹ thương Việt Nam (\"Techcombank\")",
+                "1": "14,8%",
+                "2": "14,8%",
+                "3": "4.378.837.077.636",
+                "4": "-",
+                "5": "36.597.221.830.200",
+                "6": "14,8%",
+                "7": "14,8%",
+                "8": "4.378.837.077.636",
+                "9": "-",
+                "10": "25.848.754.100.700"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_11",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Trong năm, Techcombank đã phát hành cổ phiếu cho nhân viên theo kế hoạch về quyền chọn mua cổ phần cho nhân viên. Do kết quả của giao dịch này, tỷ lệ sở hữu của Công ty trong Techcombank giảm từ 14,84% xuống 14,80%.\n\nGiá trị hợp lý tại ngày 31 tháng 12 năm 2025 và ngày 1 tháng 1 năm 2025 của khoản đầu tư vào Techcombank được xác định bằng cách tham chiếu giá niêm yết tại các ngày tương ứng trên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh.\n\nKhông có biến động khoản đầu tư vào một công ty liên kết trong năm.\n\n18\n\n101 27 101\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n6 CÁC KHOÀN PHẢI THU\n\n(a) Phải thu về cho vay ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025VND",
+                "2": "1/1/2025VND"
+            },
+            {
+                "0": "Công ty con sở hữu trực tiếp",
+                "1": "Công ty con sở hữu trực tiếp",
+                "2": "Công ty con sở hữu trực tiếp"
+            },
+            {
+                "0": "■ Công ty TNHH The SHERPA, một công ty con sở hữu trực tiếp",
+                "1": "9.119.000.000.000",
+                "2": "4.495.350.000.000"
+            },
+            {
+                "0": "■ Công ty TNHH Zenith Investment, một công ty con sở hữu trực tiếp",
+                "1": "15.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty con sở hữu gián tiếp",
+                "1": "Công ty con sở hữu gián tiếp",
+                "2": "Công ty con sở hữu gián tiếp"
+            },
+            {
+                "0": "■ Công ty TNHH Plutus Holdings, một công ty con sở hữu gián tiếp",
+                "1": "922.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "■ Công ty Cổ phần Mobicast, một công ty con sở hữu gián tiếp",
+                "1": "87.900.000.000",
+                "2": "304.500.000.000"
+            },
+            {
+                "0": "■ Công ty TNHH Khai thác Chế biến Khoáng sản Núi Pháo, một công ty con sở hữu gián tiếp",
+                "1": "-",
+                "2": "239.838.000.000"
+            },
+            {
+                "0": "",
+                "1": "10.143.900.000.000",
+                "2": "5.039.688.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_12",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Các khoản cho vay này không có đảm bảo và hưởng lãi suất theo quy định trong các hợp đồng cho vay tương ứng. Các khoản cho vay này sẽ đáo hạn trong vòng 12 tháng kể từ ngày kết thúc ký kế toán năm và lãi sẽ được thu vào ngày đáo hạn của nợ gốc cho vay.\n\n(b) Phải thu về cho vay dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025VND",
+                "2": "1/1/2025VND"
+            },
+            {
+                "0": "Các công ty con",
+                "1": "Các công ty con",
+                "2": "Các công ty con"
+            },
+            {
+                "0": "■ Công ty Cổ phần Masan Blue, một công tycon sở hữu gián tiếp",
+                "1": "11.032.345.779.967",
+                "2": "18.053.345.779.967"
+            },
+            {
+                "0": "■ Công ty TNHH Zenith Investment, một côngty con sở hữu trực tiếp",
+                "1": "1.000.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "",
+                "1": "12.032.345.779.967",
+                "2": "18.053.345.779.967"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_13",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Các khoản cho vay này không có đảm bảo và hưởng lãi suất theo quy định trong các hợp đồng cho vay tương ứng. Các khoản cho vay này sẽ đáo hạn sau 12 tháng kể từ ngày kết thúc kỳ kể toán năm và lãi sẽ được thu vào ngày đáo hạn của nợ gốc cho vay.\n\n19\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n6 CÁC KHOÀN PHẢI THU (tiếp theo)\n\n(c) Phải thu ngắn hạn khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025VND",
+                "2": "1/1/2025VND"
+            },
+            {
+                "0": "Lãi phải thu từ các công ty con (*)",
+                "1": "Lãi phải thu từ các công ty con (*)",
+                "2": "Lãi phải thu từ các công ty con (*)"
+            },
+            {
+                "0": "▪ Công ty TNHH The SHERPA, một công ty con sở hữu trực tiếp",
+                "1": "227.350.410.959",
+                "2": "113.143.607.669"
+            },
+            {
+                "0": "▪ Công ty TNHH Plutus Holdings, một công ty con sở hữu gián tiếp",
+                "1": "38.395.616.440",
+                "2": "-"
+            },
+            {
+                "0": "▪ Công ty Cổ phần Mobicast, một công ty con sở hữu gián tiếp",
+                "1": "2.911.136.990",
+                "2": "50.864.893.147"
+            },
+            {
+                "0": "▪ Công ty TNHH Zenith Investment, một công ty con sở hữu trực tiếp",
+                "1": "423.287.671",
+                "2": "-"
+            },
+            {
+                "0": "▪ Công ty TNHH Khai thác Chế biến Khoáng sản Núi Pháo, một công ty con sở hữu gián tiếp",
+                "1": "-",
+                "2": "6.357.349.726"
+            },
+            {
+                "0": "Lãi phải thu từ ngân hàng",
+                "1": "3.156.854.109",
+                "2": "3.776.686.186"
+            },
+            {
+                "0": "Phải thu khác từ các công ty con (**)",
+                "1": "Phải thu khác từ các công ty con (**)",
+                "2": "Phải thu khác từ các công ty con (**)"
+            },
+            {
+                "0": "▪ Công ty TNHH Đầu tư Sản xuất Phát triển Nông nghiệp WinEco, một công ty con sở hữu gián tiếp",
+                "1": "213.665.000.000",
+                "2": "213.665.000.000"
+            },
+            {
+                "0": "▪ Các công ty con khác",
+                "1": "43.909.756.783",
+                "2": "97.789.392.227"
+            },
+            {
+                "0": "Ký quỹ ngắn hạn",
+                "1": "122.000.000",
+                "2": "232.000.000"
+            },
+            {
+                "0": "Phải thu khác",
+                "1": "1.320.614.862",
+                "2": "43.520.420.950"
+            },
+            {
+                "0": "",
+                "1": "531.254.677.814",
+                "2": "529.349.349.905"
+            },
+            {
+                "0": "Lãi phải thu từ các công ty con (*)",
+                "1": "Lãi phải thu từ các công ty con (*)",
+                "2": "Lãi phải thu từ các công ty con (*)"
+            },
+            {
+                "0": "▪ Công ty Cổ phần Masan Blue, một công ty con sở hữu gián tiếp",
+                "1": "3.894.070.229.949",
+                "2": "4.571.229.756.112"
+            },
+            {
+                "0": "▪ Công ty TNHH Zenith Investment, một công ty con sở hữu trực tiếp",
+                "1": "5.517.808.219",
+                "2": "-"
+            },
+            {
+                "0": "Ký quỹ dài hạn",
+                "1": "17.915.184.807",
+                "2": "5.773.984.807"
+            },
+            {
+                "0": "",
+                "1": "3.917.503.222.975",
+                "2": "4.577.003.740.919"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_14",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "(*) Lãi phải thu ngắn hạn và dài hạn từ các công ty con không có đảm bảo và phải thu vào ngày đáo hạn của các khoản cho vay tương ứng.\n\n(**) Các khoản phải thu khác từ các công ty con không có đầm bảo, không hưởng lãi và phải thu theo yêu cầu.\n\n20\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n7 TÀI SẢN CỐ ĐỊNH HỮU HÌNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nâng cấptài sản thuêVND",
+                "2": "Thiết bịvăn phòngVND",
+                "3": "Phương tiệnvận chuyểnVND",
+                "4": "TổngVND"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá",
+                "3": "Nguyên giá",
+                "4": "Nguyên giá"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "34.614.411.928",
+                "2": "10.210.389.422",
+                "3": "6.619.023.455",
+                "4": "51.443.824.805"
+            },
+            {
+                "0": "Tăng trong năm",
+                "1": "130.000.000",
+                "2": "1.324.665.473",
+                "3": "3.136.912.727",
+                "4": "4.591.578.200"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "(124.500.000)",
+                "2": "-",
+                "3": "-",
+                "4": "(124.500.000)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "34.619.911.928",
+                "2": "11.535.054.895",
+                "3": "9.755.936.182",
+                "4": "55.910.903.005"
+            },
+            {
+                "0": "Giá trị hao mònlũy kế",
+                "1": "Giá trị hao mònlũy kế",
+                "2": "Giá trị hao mònlũy kế",
+                "3": "Giá trị hao mònlũy kế",
+                "4": "Giá trị hao mònlũy kế"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "33.554.907.397",
+                "2": "9.838.498.599",
+                "3": "4.365.021.299",
+                "4": "47.758.427.295"
+            },
+            {
+                "0": "Khấu hao trongnăm",
+                "1": "1.064.021.197",
+                "2": "351.910.096",
+                "3": "1.344.319.312",
+                "4": "2.760.250.605"
+            },
+            {
+                "0": "Thanh lý",
+                "1": "(120.350.000)",
+                "2": "-",
+                "3": "-",
+                "4": "(120.350.000)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "34.498.578.594",
+                "2": "10.190.408.695",
+                "3": "5.709.340.611",
+                "4": "50.398.327.900"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại",
+                "3": "Giá trị còn lại",
+                "4": "Giá trị còn lại"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "1.059.504.531",
+                "2": "371.890.823",
+                "3": "2.254.002.156",
+                "4": "3.685.397.510"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "121.333.334",
+                "2": "1.344.646.200",
+                "3": "4.046.595.571",
+                "4": "5.512.575.105"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_15",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Trong tài sản cố định hữu hình tại ngày 31 tháng 12 năm 2025 có các tài sản có nguyên giá 44.190 triệu VND (1/1/2025: 37.315 triệu VND) đã khấu hao hết, nhưng văn đang được sử dụng.\n\n8 XÂY DỰNG CO' BẢN DỒ' DANG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "VND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "28.384.673.471"
+            },
+            {
+                "0": "Tăng trong năm",
+                "1": "12.157.283.310"
+            },
+            {
+                "0": "Xóa số",
+                "1": "(28.207.190.047)"
+            },
+            {
+                "0": "Chuyển sang tài sản cố định vô hình",
+                "1": "(4.518.819.692)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "7.815.947.042"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_16",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Các công trình xây dựng cơ bản dở dang lớn tại ngày kết thúc kỳ kế toán năm như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025VND",
+                "2": "1/1/2025VND"
+            },
+            {
+                "0": "Phần mềm máy vi tính",
+                "1": "7.815.947.042",
+                "2": "28.384.673.471"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_17",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "21\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n9 CHI PHÍ TRẢ TRƯỚC DÀI HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Chi phí di vaytrà trướcVND",
+                "2": "Công cụ vàdụng cụVND",
+                "3": "TổngVND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "225.778.048.600",
+                "2": "4.476.231.500",
+                "3": "230.254.280.100"
+            },
+            {
+                "0": "Tăng trong năm",
+                "1": "140.893.692.413",
+                "2": "439.075.000",
+                "3": "141.332.767.413"
+            },
+            {
+                "0": "Phân bổ trong năm",
+                "1": "(98.807.050.185)",
+                "2": "(1.788.910.530)",
+                "3": "(100.595.960.715)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "267.864.690.828",
+                "2": "3.126.395.970",
+                "3": "270.991.086.798"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_18",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "10 CHI PHÍ PHÀI TRÀ\n\n(a) Chi phí phải trả ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025VND",
+                "2": "1/1/2025VND"
+            },
+            {
+                "0": "Chi phí lãi vay phải trả cho:",
+                "1": "Chi phí lãi vay phải trả cho:",
+                "2": "Chi phí lãi vay phải trả cho:"
+            },
+            {
+                "0": "■ Ngân hàng và trái chủ",
+                "1": "269.414.353.817",
+                "2": "253.456.823.375"
+            },
+            {
+                "0": "■ Một bên liên quan (Thuyết minh 12)",
+                "1": "-",
+                "2": "820.821.918"
+            },
+            {
+                "0": "Phí dịch vụ chuyên môn",
+                "1": "38.446.528.882",
+                "2": "11.718.254.000"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "86.070.170.835",
+                "2": "90.665.147.378"
+            },
+            {
+                "0": "",
+                "1": "393.931.053.534",
+                "2": "356.661.046.671"
+            },
+            {
+                "0": "Chi phí lãi vay phải trả cho các bên thứ ba(Thuyết minh 11)",
+                "1": "-",
+                "2": "55.061.479.450"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_19",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "22\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n11 PHÀI TRÀ KHÁC\n\n(a) Phải trả ngắn hạn khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025VND",
+                "2": "1/1/2025VND"
+            },
+            {
+                "0": "Cổ tức phải trả",
+                "1": "25.942.160",
+                "2": "25.942.160"
+            },
+            {
+                "0": "Phải trả khác",
+                "1": "9.027.885.639",
+                "2": "8.227.532.099"
+            },
+            {
+                "0": "",
+                "1": "9.053.827.799",
+                "2": "8.253.474.259"
+            },
+            {
+                "0": "Đặt cọc nhận được từ các bên thứ ba cho các khoản đầu tư (*)",
+                "1": "-",
+                "2": "1.500.000.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_20",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "(*) Theo các hợp đồng hợp tác đầu tư, Công ty cam kết cung cấp cho các bên thứ ba lợi tức đầu tư trên số tiền đặt cọc nhận được theo mức được quy định trong các hợp đồng hợp tác đầu tư tương ứng (Thuyết minh 10).\n\n12 VAY VÀ TRÁI PHIẾU",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025VND",
+                "2": "1/1/2025VND"
+            },
+            {
+                "0": "Vay ngắn hạn (a)",
+                "1": "Vay ngắn hạn (a)",
+                "2": "Vay ngắn hạn (a)"
+            },
+            {
+                "0": "Vay ngắn hạn",
+                "1": "-",
+                "2": "516.000.000.000"
+            },
+            {
+                "0": "Vay dài hạn đến hạn trả",
+                "1": "2.149.389.000.000",
+                "2": "2.000.701.500.000"
+            },
+            {
+                "0": "",
+                "1": "2.149.389.000.000",
+                "2": "2.516.701.500.000"
+            },
+            {
+                "0": "Vay và trái phiếu phát hành dài hạn",
+                "1": "Vay và trái phiếu phát hành dài hạn",
+                "2": "Vay và trái phiếu phát hành dài hạn"
+            },
+            {
+                "0": "Vay dài hạn (b)",
+                "1": "12.001.989.150.000",
+                "2": "12.891.947.500.000"
+            },
+            {
+                "0": "Trái phiếu phát hành dài hạn (c)",
+                "1": "8.664.757.484.983",
+                "2": "8.650.530.066.205"
+            },
+            {
+                "0": "Khoản đến hạn trả trong vòng 12 tháng",
+                "1": "(2.149.389.000.000)",
+                "2": "(2.000.701.500.000)"
+            },
+            {
+                "0": "",
+                "1": "18.517.357.634.983",
+                "2": "19.541.776.066.205"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_21",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "23\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n12 VAY VÀ TRÁI PHIẾU (tiếp theo)\n\n(a) Vay ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "1/1/2025Giá trị ghi sổ/Số có khả năngtrả nợVND",
+                "2": "Biến động trong năm",
+                "3": "Biến động trong năm",
+                "4": "31/12/2025Giá trị ghi sổ/Số có khả năngtrả nợVND"
+            },
+            {
+                "0": "",
+                "1": "1/1/2025Giá trị ghi sổ/Số có khả năngtrả nợVND",
+                "2": "TăngVND",
+                "3": "Hoàn trảVND",
+                "4": "31/12/2025Giá trị ghi sổ/Số có khả năngtrả nợVND"
+            },
+            {
+                "0": "Vay ngắn hạn",
+                "1": "516.000.000.000",
+                "2": "851.435.450.000",
+                "3": "(1.367.435.450.000)",
+                "4": "-"
+            },
+            {
+                "0": "Vay dài hạn đến hạn trả",
+                "1": "2.000.701.500.000",
+                "2": "2.149.389.000.000",
+                "3": "(2.000.701.500.000)",
+                "4": "2.149.389.000.000"
+            },
+            {
+                "0": "",
+                "1": "2.516.701.500.000",
+                "2": "3.000.824.450.000",
+                "3": "(3.368.136.950.000)",
+                "4": "2.149.389.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_22",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Điều khoản và điều kiện của các khoản vay ngắn hạn hiện còn số dư như sau:",
+        "dataframe": [
+            {
+                "0": "Bên cho vay:",
+                "1": "31/12/2025VND",
+                "2": "1/1/2025VND"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Sản xuất Phát triểnNông nghiệp WinEco, một công ty con sởhửu gián tiếp",
+                "1": "-",
+                "2": "516.000.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_23",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Khoản vay ngắn hạn từ một công ty con sở hữu gián tiếp không được đảm bảo và chịu lãi suất theo mức lãi suất được quy định trong hợp đồng vay.\n\n24\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n12 VAY VÀ TRÁI PHIÉU (tiếp theo)\n\n(b) Vay dài hạn\n\nĐiều khoản và điều kiện của các khoản vay dài hạn hiện còn số dư như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Loại tiền tệ",
+                "2": "Năm đáo hạn",
+                "3": "31/12/2025 VND",
+                "4": "1/1/2025 VND"
+            },
+            {
+                "0": "Khoản vay hợp vốn có đảm bảo (*)",
+                "1": "USD",
+                "2": "2027-2030 (**)",
+                "3": "10.891.246.000.000",
+                "4": "12.891.947.500.000"
+            },
+            {
+                "0": "Khoản vay hợp vốn có đảm bảo (*)",
+                "1": "USD",
+                "2": "2029",
+                "3": "1.110.743.150.000",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "12.001.989.150.000",
+                "4": "12.891.947.500.000"
+            },
+            {
+                "0": "Trong đó:Khoản đến hạn trảtrong vòng 12 tháng",
+                "1": "",
+                "2": "",
+                "3": "2.149.389.000.000",
+                "4": "2.000.701.500.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_24",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "(*) Các khoản vay hợp vốn tại ngày 31 tháng 12 năm 2025 chịu lãi suất năm là SOFR + biển độ từ 1,9% đến 2,9% một năm (1/1/2025: từ 2,9% đến 3,5% một năm). Tại ngày 31 tháng 12 năm 2025 và ngày 1 tháng 1 năm 2025, các khoản vay hợp vốn của Công ty được đảm bảo bằng các tài sản sau:\n\n- tiền gửi ngân hàng của Công ty;\n\n- cổ phiếu phổ thông đã phát hành và các lợi ích liên quan của một công ty con sở hữu gián tiếp của Công ty; và\n\nđược bảo lãnh bởi một công ty con sở hữu trực tiếp.\n\nTrong năm, Công ty đã tuân thủ các điều khoản của các khoản vay trên.\n\n(**) Trong tháng 1 năm 2025, Công ty đã gia hạn thành công thời hạn đáo hạn thêm hai năm đến năm 2030 và giảm lãi suất lên đến 85 điểm cơ bản đối với khoản vay hợp vốn bằng USD năm 2023.\n\nTại ngày 31 tháng 12 năm 2025, Công ty bảo lãnh cho các khoản vay ngắn hạn và dài hạn của các công ty con với tổng giá trị ghi số lần lượt là 7.215.707 triệu VND và 17.810.933 triệu VND (1/1/2025: lần lượt là 7.573.412 triệu VND và 16.962.397 triệu VND).\n\n25\n\ni→→→\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n12 VAY VÀ TRÁI PHIÊU (tiếp theo)\n\n(c) Trái phiếu phát hành dài hạn\n\nĐiều khoản và điều kiện của các trái phiếu phát hành dài hạn hiện còn số dư như sau:",
+        "dataframe": [
+            {
+                "0": "Bảo lãnh phát hành",
+                "1": "31/12/2025Giá trị ghi sốVND",
+                "2": "1/1/2025Giá trị ghi sốVND",
+                "3": "Ngàyđảo hạn",
+                "4": "Lãi suất"
+            },
+            {
+                "0": "Công ty Cổ phần Chứng khoán Kỹ thương",
+                "1": "Công ty Cổ phần Chứng khoán Kỹ thương",
+                "2": "Công ty Cổ phần Chứng khoán Kỹ thương",
+                "3": "Công ty Cổ phần Chứng khoán Kỹ thương",
+                "4": "Công ty Cổ phần Chứng khoán Kỹ thương"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "9,5% trong năm đầu tiên, và 3,975% một năm cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại."
+            },
+            {
+                "0": "■ Trái phiếu khôngđảm bảo",
+                "1": "3.000.000.000.000",
+                "2": "3.000.000.000.000",
+                "3": "Từ2027đến2028",
+                "4": "9,5% trong năm đầu tiên, và 3,975% một năm cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại."
+            },
+            {
+                "0": "Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+                "1": "Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+                "2": "Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+                "3": "Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+                "4": "Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "4,1% một năm cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại."
+            },
+            {
+                "0": "■ Trái phiếu khôngđảm bảo",
+                "1": "1.700.000.000.000",
+                "2": "1.700.000.000.000",
+                "3": "2027",
+                "4": "4,1% một năm cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại."
+            },
+            {
+                "0": "Công ty Cổ phần Chứng khoán MB",
+                "1": "Công ty Cổ phần Chứng khoán MB",
+                "2": "Công ty Cổ phần Chứng khoán MB",
+                "3": "Công ty Cổ phần Chứng khoán MB",
+                "4": "Công ty Cổ phần Chứng khoán MB"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "Từ 11,45% đến 11,65% một năm trong năm đầu tiên, và 4,1% một năm cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại."
+            },
+            {
+                "0": "■ Trái phiếu khôngđảm bảo",
+                "1": "4.000.000.000.000",
+                "2": "4.000.000.000.000",
+                "3": "2028",
+                "4": "Từ 11,45% đến 11,65% một năm trong năm đầu tiên, và 4,1% một năm cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại."
+            },
+            {
+                "0": "Trái phiếu thương dài hạn theo mệnh giáChi phí phát hành trái phiếu chưa phân bổ",
+                "1": "8.700.000.000.000(35.242.515.017)",
+                "2": "8.700.000.000.000(49.469.933.795)",
+                "3": "",
+                "4": "Từ 11,45% đến 11,65% một năm trong năm đầu tiên, và 4,1% một năm cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại."
+            },
+            {
+                "0": "",
+                "1": "8.664.757.484.983",
+                "2": "8.650.530.066.205",
+                "3": "",
+                "4": "Từ 11,45% đến 11,65% một năm trong năm đầu tiên, và 4,1% một năm cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại."
+            },
+            {
+                "0": "Trong đó:Khoản đến hạn trảtrong vòng 12 tháng",
+                "1": "-",
+                "2": "-",
+                "3": "",
+                "4": "Từ 11,45% đến 11,65% một năm trong năm đầu tiên, và 4,1% một năm cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại."
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_25",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Tại ngày 31 tháng 12 năm 2025, Công ty bảo lãnh cho các trái phiếu phát hành của các công ty con với tổng mệnh giá là 10.299.980 triệu VND (1/1/2025: 13.299.980 triệu VND).\n\n26\n\ni≠1 G⇒≤ i≤11\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n13 BIÊN ĐỘNG CỦA VỐN CHỦ SỞ HỮU",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốncổ phầnVND",
+                "2": "Thặng dưvốn cổ phầnVND",
+                "3": "Vốn khác của chủ sở hữuVND",
+                "4": "Lợi nhuận sau thuế chưa phân phốiVND",
+                "5": "TổngVND"
+            },
+            {
+                "0": "Số dư tại ngày 1 tháng 1 năm 2024",
+                "1": "14.308.434.060.000",
+                "2": "8.723.077.701.079",
+                "3": "(1.695.338.182.568)",
+                "4": "259.366.070.952",
+                "5": "21.595.539.649.463"
+            },
+            {
+                "0": "Phát hành cổ phiếu ưu đãi cổ tức có quyền chuyển đổi",
+                "1": "745.764.700.000",
+                "2": "5.441.529.802.182",
+                "3": "-",
+                "4": "-",
+                "5": "6.187.294.502.182"
+            },
+            {
+                "0": "Phát hành cổ phiếu phổ thông",
+                "1": "75.082.110.000",
+                "2": "(50.000.000)",
+                "3": "-",
+                "4": "-",
+                "5": "75.032.110.000"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "626.222.499.951",
+                "5": "626.222.499.951"
+            },
+            {
+                "0": "Số dư tại ngày 1 tháng 1 năm 2025",
+                "1": "15.129.280.870.000",
+                "2": "14.164.557.503.261",
+                "3": "(1.695.338.182.568)",
+                "4": "885.588.570.903",
+                "5": "28.484.088.761.596"
+            },
+            {
+                "0": "Phát hành cổ phiếu phổ thông",
+                "1": "75.638.400.000",
+                "2": "(50.000.000)",
+                "3": "-",
+                "4": "-",
+                "5": "75.588.400.000"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "363.206.553.054",
+                "5": "363.206.553.054"
+            },
+            {
+                "0": "Số dư tại ngày 31 tháng 12 năm 2025",
+                "1": "15.204.919.270.000",
+                "2": "14.164.507.503.261",
+                "3": "(1.695.338.182.568)",
+                "4": "1.248.795.123.957",
+                "5": "28.922.883.714.650"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_26",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "27\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n14 VỐN CỔ PHẦN VÀ THẶNG DỰ VỐN CỔ PHẦN\n\nVốn cổ phần được duyệt và đã phát hành của Công ty là:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "31/12/2025",
+                "3": "1/1/2025",
+                "4": "1/1/2025"
+            },
+            {
+                "0": "",
+                "1": "Số lượng cổ phiếu",
+                "2": "VND",
+                "3": "Số lượng cổ phiếu",
+                "4": "VND"
+            },
+            {
+                "0": "Vốn cổ phần được duyệt",
+                "1": "1.520.491.927",
+                "2": "15.204.919.270.000",
+                "3": "1.512.928.087",
+                "4": "15.129.280.870.000"
+            },
+            {
+                "0": "Vốn cổ phần đã phát hànhCổ phiếu phổ thôngCổ phiếu ưu đãi",
+                "1": "1.520.491.9271.445.915.45774.576.470",
+                "2": "15.204.919.270.00014.459.154.570.000745.764.700.000",
+                "3": "1.512.928.0871.438.351.61774.576.470",
+                "4": "15.129.280.870.00014.383.516.170.000745.764.700.000"
+            },
+            {
+                "0": "Cổ phiếu đang lưu hànhCổ phiếu phổ thôngCổ phiếu ưu đãi",
+                "1": "1.520.491.9271.445.915.45774.576.470",
+                "2": "15.204.919.270.00014.459.154.570.000745.764.700.000",
+                "3": "1.512.928.0871.438.351.61774.576.470",
+                "4": "15.129.280.870.00014.383.516.170.000745.764.700.000"
+            },
+            {
+                "0": "Thặng dư vốn cổ phần",
+                "1": "-",
+                "2": "14.164.507.503.261",
+                "3": "-",
+                "4": "14.164.557.503.261"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_27",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Cổ phiếu phổ thông có mệnh giá là 10.000 VND. Mỗi cổ phiếu phổ thông tương ứng với một phiếu biểu quyết tại các cuộc hop cổ đông của Công ty. Các cổ đông được nhận cổ tức mà Công ty công bố vào từng thời điểm. Tất cả cổ phiếu phổ thông đều có thử tự ưu tiên như nhau đối với tài sản còn lại của Công ty. Các quyền lợi của các cổ phiếu đã được Công ty mua lại đều bị tạm ngừng cho tới khi chúng được phát hành lại.\n\nTrong tháng 4 năm 2024 (\"Ngày hoàn tất\"), Công ty đã phát hành 74.576.470 cổ phiếu ưu đãi cổ tức có quyền chuyển đổi thành cổ phiếu phổ thông (\"CDPS\") cho BCC Meerkat, LLC và BCC Meerkat II, LLC (sau đầy được gọi chung là \"Nhà đầu tư\") với giá 85.000 VND/cổ phiếu, có thể chuyển đổi thành cổ phiếu phổ thông của Công ty vào bất kỳ thời điểm nào kể từ Ngày hoàn tất đến ngày chuyển đổi bất buộc là 10 năm kể từ Ngày hoàn tất và theo tỷ lệ chuyển đổi 1:1. Cổ tức ưu đãi sẽ không được trả trong 5 năm đầu tiên, mỗi năm kể từ năm thứ sau trở đi cổ tức ưu đãi được chi trả bằng 10% mệnh giá của mỗi CDPS còn lại của Nhà đầu tư. Liên quản đến việc phát hành CDPS, Công ty đã ký kết thỏa thuận với Nhà đầu tư, theo đó, Công ty cũng cam kết với Nhà đầu tư rằng Công ty sẽ nỗ lực hết sức để tìm người mua để Nhà đầu tư bán CDPS còn lại của mình với giá đã thỏa thuận trong hợp đồng khi xảy ra một số sự kiện nhất định hoặc vào thời điểm 5 năm rưỡi kể từ Ngày hoàn tất. Nhà đầu tư có thể chọn bán CDPS còn lại của Nhà đầu tư cho bất kỳ bên thứ ba nào. Trong trường hợp Nhà đầu tư không đạt được tổng số tiền thu được như đã thỏa thuận trong hợp đồng sau khi trừ đi việc bán các cổ phiếu CDPS không đủ điều kiện như đã thỏa thuận trong hợp đồng, Công ty sẽ bổ sung tiền mặt để Nhà đầu tư đạt được số tiền mục tiêu như đã thỏa thuận trong hợp đồng.\n\n28\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n14 VỐN CỔ PHẦN VÀ THẢNG DỰ VỐN CỔ PHẦN (tiếp theo)\n\nBiến động vốn cổ phần trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2025",
+                "2": "2025",
+                "3": "2024",
+                "4": "2024"
+            },
+            {
+                "0": "",
+                "1": "Số lượng cổ phiếu",
+                "2": "Mệnh giá VND",
+                "3": "Số lượng cổ phiếu",
+                "4": "Mệnh giá VND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "1.512.928.087",
+                "2": "15.129.280.870.000",
+                "3": "1.430.843.406",
+                "4": "14.308.434.060.000"
+            },
+            {
+                "0": "Phát hành CDPS",
+                "1": "-",
+                "2": "-",
+                "3": "74.576.470",
+                "4": "745.764.700.000"
+            },
+            {
+                "0": "Phát hành cổ phiếu phổ thông (Thuyết minh 15)",
+                "1": "7.563.840",
+                "2": "75.638.400.000",
+                "3": "7.508.211",
+                "4": "75.082.110.000"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "1.520.491.927",
+                "2": "15.204.919.270.000",
+                "3": "1.512.928.087",
+                "4": "15.129.280.870.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_28",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "15 KẾ HOẠCH VỀ QUYỀN CHỌN MUA CỔ PHẦN CHO NHÂN VIÊN\n\nCông ty có kế hoạch về quyền chọn mua cổ phần cho nhân viên dựa trên đánh giá thành tích của nhân viên. Việc phát hành cổ phiếu trong tương lai theo kế hoạch này phải được các cổ đông phê duyệt tại cuộc hợp Đại hội Cổ đông Thương niên.\n\nTrong tháng 7 năm 2025, Công ty đã phát hành 7.563.840 cổ phiếu (2024: 7.508.211 cổ phiếu) cho nhân viên theo giá đã được phê duyệt trong Nghị quyết của Đại hội Cổ đông Thường niên.\n\n16 VỐN KHÁC CỦA CHỦ SỞ HỮU\n\nCác thỏa thuận phát hành một số lượng cố phiếu nhất định vào một ngày ấn định trong tương lai, được ghi nhận dựa trên giá trị hợp lý tại ngày của các thỏa thuận và được ghi nhận vào vốn khác của chủ sở hữu nếu không tồn tại các thỏa thuận thay thế nào khác.\n\n17 CÁC KHOÀN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN\n\n(a) Cam kết thuê hoạt động\n\nCác khoản tiền thuê tối thiểu phải trả cho các hợp đồng thuê hoạt động không được hủy ngang như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025VND",
+                "2": "1/1/2025VND"
+            },
+            {
+                "0": "Trong vòng 1 năm",
+                "1": "40.409.747.828",
+                "2": "55.206.406.140"
+            },
+            {
+                "0": "Từ 2 đến 5 năm",
+                "1": "225.045.773.787",
+                "2": "225.510.417.605"
+            },
+            {
+                "0": "Sau 5 năm",
+                "1": "1.671.952.310.414",
+                "2": "1.740.653.474.136"
+            },
+            {
+                "0": "",
+                "1": "1.937.407.832.029",
+                "2": "2.021.370.297.881"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_29",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "29\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n17 CÁC KHOÀN MỤC NGOÀI BÀNG CÂN ĐỐI KẾ TOÁN (tiếp theo)\n\n(b) Ngoại tệ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "31/12/2025",
+                "3": "1/1/2025",
+                "4": "1/1/2025"
+            },
+            {
+                "0": "",
+                "1": "Nguyên tệ",
+                "2": "Tương đương VND",
+                "3": "Nguyên tệ",
+                "4": "Tương đương VND"
+            },
+            {
+                "0": "USD",
+                "1": "193",
+                "2": "4.689.993",
+                "3": "207",
+                "4": "5.034.545"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_30",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "18 DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2025VND",
+                "2": "2024VND"
+            },
+            {
+                "0": "Thu nhập lãi tiền gửi ngân hàng và các hoạt động đầu tư khác",
+                "1": "51.689.502.495",
+                "2": "73.940.990.110"
+            },
+            {
+                "0": "Thu nhập lãi từ các khoản cho các công ty con vay",
+                "1": "1.827.720.605.927",
+                "2": "2.436.894.561.719"
+            },
+            {
+                "0": "Thu nhập cổ tức",
+                "1": "1.048.630.998.000",
+                "2": "786.473.248.500"
+            },
+            {
+                "0": "Thu nhập khác",
+                "1": "2.310.000.000",
+                "2": "214.553.749.031"
+            },
+            {
+                "0": "",
+                "1": "2.930.351.106.422",
+                "2": "3.511.862.549.360"
+            },
+            {
+                "0": "Chi phí lãi vay, lãi trái phiếu và đặt cọc nhận được cho các hoạt động đầu tư",
+                "1": "1.838.935.566.177",
+                "2": "2.296.519.101.787"
+            },
+            {
+                "0": "Chi phí phát hành trái phiếu",
+                "1": "33.597.418.778",
+                "2": "31.882.418.781"
+            },
+            {
+                "0": "Chi phí đi vay khác",
+                "1": "160.640.960.888",
+                "2": "139.573.111.185"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "15.319.500.000",
+                "2": "2.946.590.978"
+            },
+            {
+                "0": "",
+                "1": "2.048.493.445.843",
+                "2": "2.470.921.222.731"
+            },
+            {
+                "0": "Chi phí khấu hao và phân bổ",
+                "1": "2.888.564.266",
+                "2": "3.001.724.622"
+            },
+            {
+                "0": "Chi phí nhân viên, dịch vụ mua ngoài và chi phí khác",
+                "1": "475.379.723.891",
+                "2": "412.228.247.105"
+            },
+            {
+                "0": "",
+                "1": "478.268.288.157",
+                "2": "415.229.971.727"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_31",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "30\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n21 THUẾ THU NHẬP DOANH NGHIỆP\n\n(a) Đối chiếu thuế suất thực tế",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2025",
+                "2": "2025",
+                "3": "2024",
+                "4": "2024"
+            },
+            {
+                "0": "",
+                "1": "%",
+                "2": "VND",
+                "3": "%",
+                "4": "VND"
+            },
+            {
+                "0": "Lợi nhuận kế toán trước thuế",
+                "1": "100%",
+                "2": "363.206.553.054",
+                "3": "100%",
+                "4": "626.222.499.951"
+            },
+            {
+                "0": "Thuế tính theo thuế suất của Công ty",
+                "1": "20%",
+                "2": "72.641.310.611",
+                "3": "20%",
+                "4": "125.244.499.990"
+            },
+            {
+                "0": "Chi phí không được khấu trừ thuế",
+                "1": "3,39%",
+                "2": "12.304.796.086",
+                "3": "2,21%",
+                "4": "13.823.860.829"
+            },
+            {
+                "0": "Thu nhập không chịu thuế",
+                "1": "(57,74%)",
+                "2": "(209.726.199.600)",
+                "3": "(25,12%)",
+                "4": "(157.294.649.700)"
+            },
+            {
+                "0": "Lỗ tính thuế chưa được ghi nhận",
+                "1": "34,61%",
+                "2": "125.720.092.128",
+                "3": "14,25%",
+                "4": "89.266.931.632"
+            },
+            {
+                "0": "Chuyển chi phí lãi vay theo Nghị định 132/2020/NĐ-CP",
+                "1": "-",
+                "2": "-",
+                "3": "(10,82%)",
+                "4": "(67.727.087.777)"
+            },
+            {
+                "0": "Biến động của các chênh lệch tạm thời được khấu trừ",
+                "1": "(0,26%)",
+                "2": "(939.999.225)",
+                "3": "(0,53%)",
+                "4": "(3.313.554.974)"
+            },
+            {
+                "0": "",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_32",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "(b) Thuế suất áp dụng\n\nTheo Luật thuế thu nhập doanh nghiệp hiện hành, Công ty có nghĩa vụ nộp cho nhà nước thuế thu nhập doanh nghiệp theo mức thuế suất thuế thu nhập phổ thông là 20% trên lợi nhuận tính thuế.\n\n(c) Tài sản thuế thu nhập hoãn lại chưa được ghi nhận\n\nTài sản thuế thu nhập hoãn lại chưa được ghi nhận đối với các khoản mục sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2025",
+                "2": "31/12/2025",
+                "3": "1/1/2025",
+                "4": "1/1/2025"
+            },
+            {
+                "0": "",
+                "1": "Chênh lệch tạm thời VND",
+                "2": "Giá trị tính thuế VND",
+                "3": "Chênh lệch tạm thời VND",
+                "4": "Giá trị tính thuế VND"
+            },
+            {
+                "0": "Các chênh lệch tạm thời được khấu trừ",
+                "1": "1.291.930.597.705",
+                "2": "258.386.119.541",
+                "3": "1.944.944.409.992",
+                "4": "388.988.881.998"
+            },
+            {
+                "0": "Số lỗ được khấu trừ",
+                "1": "1.982.595.681.558",
+                "2": "396.519.136.312",
+                "3": "1.679.655.677.290",
+                "4": "335.931.135.458"
+            },
+            {
+                "0": "",
+                "1": "3.274.526.279.263",
+                "2": "654.905.255.853",
+                "3": "3.624.600.087.282",
+                "4": "724.920.017.456"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_33",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "31\n\n设 \\( x^{2} \\neq 1 \\) 小数\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n21 THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)\n\n(c) Tài sản thuế thu nhập hoãn lại chưa được ghi nhận (tiếp theo)\n\nLỗ tính thuế sẽ hết hiệu lực vào các năm sau:",
+        "dataframe": [
+            {
+                "0": "Năm hết hiệu lực",
+                "1": "Tình hình quyết toán",
+                "2": "Số lỗ được khấu trừ VND"
+            },
+            {
+                "0": "2027",
+                "1": "Đã quyết toán",
+                "2": "757.930.524.449"
+            },
+            {
+                "0": "2028",
+                "1": "Đã quyết toán",
+                "2": "129.162.630.949"
+            },
+            {
+                "0": "2029",
+                "1": "Đã quyết toán",
+                "2": "466.902.065.521"
+            },
+            {
+                "0": "2030",
+                "1": "Chưa quyết toán",
+                "2": "628.600.460.639"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "1.982.595.681.558"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_34",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "Tài sản thuế thu nhập hoãn lại chưa được ghi nhận bởi vì không có sự chắc chắn rằng sẽ có đủ lợi nhuận tính thuế trong tương lai để Công ty có thể sử dụng các lợi ích thuế của các khoản mục này.\n\n(d) Các khoản thuế tiêm tàng\n\nLuật thuế và việc áp dụng các luật này tại Việt Nam phụ thuộc vào diễn giải và thay đổi theo thời gian, từ cục thuế này đến cục thuế khác. Tỉnh hình quyết toán thuế có thể phụ thuộc vào việc tranh trα của các cơ quan nhà nước khác nhau và các cơ quan này có thẩm quyền phạt, đánh thuế và tính lãi chậm nộp. Điều này có thể làm cho rủi ro về thuế ở Việt Nam là lớn hơn so với các nước khác. Ban Tổng Giám đốc cho rằng Công ty đã tính đủ nghĩa vụ thuế phải trả theo diễn giải về luật thuế của Ban Tổng Giám đốc, bao gồm các yêu cầu về chuyển giá và cách tính thuế thu nhập doanh nghiệp. Tuy nhiên, các cơ quan nhà nước liên quan có thể có những cách hiểu khác nhau và ảnh hưởng (nếu có) có thể đáng kể.\n\n32\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n22 CÁC GIAO DỊCH CHỦ YẾU VỚI CÁC BÊN LIÊN QUAN\n\nNgoài số dư với các bên liên quan được trình bày trong các thuyết minh khác của báo cáo tài chính riêng này, trong năm Công ty có các giao dịch chủ yếu sau với các bên liên quan theo các Chuẩn mực Kế toán Việt Nam:",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Tính chất giao dịch",
+                "2": "2025VND",
+                "3": "2024VND"
+            },
+            {
+                "0": "Công ty con sở hữu trực tiếp",
+                "1": "Công ty con sở hữu trực tiếp",
+                "2": "Công ty con sở hữu trực tiếp",
+                "3": "Công ty con sở hữu trực tiếp"
+            },
+            {
+                "0": "Công ty TNHH The SHERPA, công ty con sở hữu trực tiếp",
+                "1": "Góp vốn",
+                "2": "-",
+                "3": "510.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH The SHERPA, công ty con sở hữu trực tiếp",
+                "1": "Khoản cho vay đã cấp",
+                "2": "16.729.000.000.000",
+                "3": "4.617.350.000.000"
+            },
+            {
+                "0": "Công ty TNHH The SHERPA, công ty con sở hữu trực tiếp",
+                "1": "Khoản cho vay đã thu hồi",
+                "2": "12.105.350.000.000",
+                "3": "1.681.600.000.000"
+            },
+            {
+                "0": "Công ty TNHH The SHERPA, công ty con sở hữu trực tiếp",
+                "1": "Thu nhập lãi từ các khoản cho vay đã cấp",
+                "2": "431.236.801.101",
+                "3": "148.837.501.618"
+            },
+            {
+                "0": "Công ty TNHH The SHERPA, công ty con sở hữu trực tiếp",
+                "1": "Thanh toán lãi trái phiếu",
+                "2": "114.657.060.620",
+                "3": "-"
+            },
+            {
+                "0": "Công ty TNHH The SHERPA, công ty con sở hữu trực tiếp",
+                "1": "Chỉ phí chia sẻ cho Công ty",
+                "2": "1.120.658.148",
+                "3": "-"
+            },
+            {
+                "0": "Công ty TNHH The SHERPA, công ty con sở hữu trực tiếp",
+                "1": "Chỉ phí chia sẻ bởi Công ty",
+                "2": "357.613.407",
+                "3": "580.377.650"
+            },
+            {
+                "0": "Công ty TNHH Zenith Investment, công ty con sở hữu trực tiếp",
+                "1": "Góp vốn",
+                "2": "-",
+                "3": "2.483.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH Zenith Investment, công ty con sở hữu trực tiếp",
+                "1": "Khoản cho vay đã cấp",
+                "2": "1.169.000.000.000",
+                "3": "433.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH Zenith Investment, công ty con sở hữu trực tiếp",
+                "1": "Khoản cho vay đã thu hồi",
+                "2": "154.000.000.000",
+                "3": "786.200.000.000"
+            },
+            {
+                "0": "Công ty TNHH Zenith Investment, công ty con sở hữu trực tiếp",
+                "1": "Thu nhập lãi từ các khoản cho vay đã cấp",
+                "2": "7.370.547.944",
+                "3": "14.740.489.317"
+            },
+            {
+                "0": "Công ty TNHH Zenith Investment, công ty con sở hữu trực tiếp",
+                "1": "Thanh toán lãi trái phiếu",
+                "2": "185.536.607.001",
+                "3": "457.932.613.008"
+            },
+            {
+                "0": "Công ty TNHH Zenith Investment, công ty con sở hữu trực tiếp",
+                "1": "Mua dịch vụ",
+                "2": "54.001.593.148",
+                "3": "14.091.837.917"
+            },
+            {
+                "0": "Công ty con sở hữu gián tiếp",
+                "1": "Công ty con sở hữu gián tiếp",
+                "2": "Công ty con sở hữu gián tiếp",
+                "3": "Công ty con sở hữu gián tiếp"
+            },
+            {
+                "0": "Công ty Cổ phần The CrownX, công ty con sở hữu gián tiếp",
+                "1": "Mua dịch vụ",
+                "2": "14.498.411.789",
+                "3": "15.500.057.216"
+            },
+            {
+                "0": "Công ty Cổ phần The CrownX, công ty con sở hữu gián tiếp",
+                "1": "Chỉ phí chia sẻ cho Công ty",
+                "2": "1.286.875.296",
+                "3": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Hàng tiêu dùng Masan, công ty con sở hữu gián tiếp",
+                "1": "Mua hàng",
+                "2": "87.499.152",
+                "3": "57.497.386"
+            },
+            {
+                "0": "Công ty Cổ phần Hàng tiêu dùng Masan, công ty con sở hữu gián tiếp",
+                "1": "Chỉ phí chia sẻ bởi Công ty",
+                "2": "13.567.309.932",
+                "3": "12.891.961.056"
+            },
+            {
+                "0": "Công ty Cổ phần Hàng tiêu dùng Masan, công ty con sở hữu gián tiếp",
+                "1": "Chỉ phí chia sẻ cho Công ty",
+                "2": "1.107.820.351",
+                "3": "1.035.759.721"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Thương mại Tổng hợp WinCommerce, công ty con sở hữu gián tiếp",
+                "1": "Thanh toán lãi trái phiếu",
+                "2": "-",
+                "3": "822.706.880"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Thương mại Tổng hợp WinCommerce, công ty con sở hữu gián tiếp",
+                "1": "Mua hàng",
+                "2": "8.448.921.316",
+                "3": "6.691.227.844"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Thương mại Tổng hợp WinCommerce, công ty con sở hữu gián tiếp",
+                "1": "Chỉ phí chia sẻ bởi Công ty",
+                "2": "11.213.022.326",
+                "3": "15.450.060.790"
+            },
+            {
+                "0": "Công ty Cổ phần The Supra, công ty con sở hữu gián tiếp",
+                "1": "Chỉ phí chia sẻ bởi Công ty",
+                "2": "1.357.200.000",
+                "3": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_35",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "33\n\n||g| 令の三 |回|\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n22 CÁC GIAO DỊCH CHỦ YẾU VỚI CÁC BÊN LIÊN QUAN (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Tính chất giao dịch",
+                "2": "2025 VND",
+                "3": "2024 VND"
+            },
+            {
+                "0": "Công ty TNHH Tầm nhìn Masan, công ty con sở hữu gián tiếp",
+                "1": "Khoản vay đã nhận",
+                "2": "18.000.000.000",
+                "3": "727.446.576.000"
+            },
+            {
+                "0": "Công ty TNHH Tầm nhìn Masan, công ty con sở hữu gián tiếp",
+                "1": "Khoản vay đã hoàn trả",
+                "2": "18.000.000.000",
+                "3": "727.446.576.000"
+            },
+            {
+                "0": "Công ty TNHH Tầm nhìn Masan, công ty con sở hữu gián tiếp",
+                "1": "Chi phí lãi vay từ các khoản",
+                "2": "17.358.904",
+                "3": "4.803.364.687"
+            },
+            {
+                "0": "Công ty TNHH Tầm nhìn Masan, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã cấp",
+                "2": "-",
+                "3": "1.472.230.000.000"
+            },
+            {
+                "0": "Công ty TNHH Tầm nhìn Masan, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã thu hồi",
+                "2": "-",
+                "3": "1.505.230.000.000"
+            },
+            {
+                "0": "Công ty TNHH Tầm nhìn Masan, công ty con sở hữu gián tiếp",
+                "1": "Thu nhập lãi từ các khoản cho vay đã cấp",
+                "2": "-",
+                "3": "26.430.985.205"
+            },
+            {
+                "0": "Công ty Cổ phầnMasan Blue, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã cấp",
+                "2": "-",
+                "3": "200.500.000.000"
+            },
+            {
+                "0": "Công ty Cổ phầnMasan Blue, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã thu hồi",
+                "2": "7.021.000.000.000",
+                "3": "6.007.500.000.000"
+            },
+            {
+                "0": "Công ty Cổ phầnMasan Blue, công ty con sở hữu gián tiếp",
+                "1": "Thu nhập lãi từ các khoản cho vay đã cấp",
+                "2": "1.328.267.182.606",
+                "3": "2.142.211.915.682"
+            },
+            {
+                "0": "Công ty Cổ phầnMasan High-TechMaterials, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã cấp",
+                "2": "-",
+                "3": "500.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phầnMasan High-TechMaterials, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã thu hồi",
+                "2": "-",
+                "3": "500.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phầnMasan High-TechMaterials, công ty con sở hữu gián tiếp",
+                "1": "Thu nhập lãi từ các khoản cho vay đã cấp",
+                "2": "-",
+                "3": "87.671.232"
+            },
+            {
+                "0": "Công ty Cổ phầnMasan High-TechMaterials, công ty con sở hữu gián tiếp",
+                "1": "Chi phí chia sẻ bởi Công ty",
+                "2": "1.995.746.968",
+                "3": "3.041.459.538"
+            },
+            {
+                "0": "Công ty TNHH Khai thác Chế biến Khoáng sản Núi Phảo, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã cấp",
+                "2": "-",
+                "3": "1.408.600.000.000"
+            },
+            {
+                "0": "Công ty TNHH Khai thác Chế biến Khoáng sản Núi Phảo, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã thu hồi",
+                "2": "239.838.000.000",
+                "3": "1.785.262.000.000"
+            },
+            {
+                "0": "Công ty TNHH Khai thác Chế biến Khoáng sản Núi Phảo, công ty con sở hữu gián tiếp",
+                "1": "Thu nhập lãi từ các khoản cho vay đã cấp",
+                "2": "1.751.803.036",
+                "3": "50.347.995.924"
+            },
+            {
+                "0": "Công ty TNHH Khai thác Chế biến Khoáng sản Núi Phảo, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã nhận",
+                "2": "65.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "Công ty TNHH Khai thác Chế biến Khoáng sản Núi Phảo, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã hoàn trả",
+                "2": "65.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "Công ty TNHH Khai thác Chế biến Khoáng sản Núi Phảo, công ty con sở hữu gián tiếp",
+                "1": "Chi phí lãi vay từ các khoản vay đã nhận",
+                "2": "8.904.110",
+                "3": "-"
+            },
+            {
+                "0": "Công ty TNHH Masan Tungsten, công ty con sở hữu gián tiếp",
+                "1": "Khoản vay đã nhận",
+                "2": "684.435.450.000",
+                "3": "-"
+            },
+            {
+                "0": "Công ty TNHH Masan Tungsten, công ty con sở hữu gián tiếp",
+                "1": "Khoản vay đã hoàn trả",
+                "2": "684.435.450.000",
+                "3": "-"
+            },
+            {
+                "0": "Công ty TNHH Masan Tungsten, công ty con sở hữu gián tiếp",
+                "1": "Chi phí lãi vay từ các khoản vay đã nhận",
+                "2": "7.361.387.260",
+                "3": "-"
+            },
+            {
+                "0": "Công ty TNHH Masan Tungsten, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã cấp",
+                "2": "-",
+                "3": "265.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH Masan Tungsten, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã thu hồi",
+                "2": "-",
+                "3": "865.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH Masan Tungsten, công ty con sở hữu gián tiếp",
+                "1": "Thu nhập lãi từ các khoản cho vay đã cấp",
+                "2": "-",
+                "3": "28.091.876.712"
+            },
+            {
+                "0": "Công ty Cổ phầnMasan MEATLife, công ty con sở hữu gián tiếp",
+                "1": "Chi phí chia sẻ bởi Công ty",
+                "2": "2.944.353.897",
+                "3": "-"
+            },
+            {
+                "0": "Công ty TNHH MEATDelì HN, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã cấp",
+                "2": "-",
+                "3": "70.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH MEATDelì HN, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã thu hồi",
+                "2": "-",
+                "3": "70.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH MEATDelì HN, công ty con sở hữu gián tiếp",
+                "1": "Mua hàng",
+                "2": "996.104.397",
+                "3": "1.018.718.405"
+            },
+            {
+                "0": "Công ty TNHH MEATDelì Sài Gòn, công ty con sở hữu gián tiếp",
+                "1": "Mua hàng",
+                "2": "100.672.658",
+                "3": "88.072.814"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_36",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "34\n\n1101 ≤ 2 ≤ 10%\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n22 CÁC GIAO DỊCH CHỦ YẾU VỚI CÁC BÊN LIÊN QUAN (tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Tính chất giao dịch",
+                "2": "2025 VND",
+                "3": "2024 VND"
+            },
+            {
+                "0": "Công ty Cổ phần 3F VIỆT, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã cấp",
+                "2": "-",
+                "3": "90.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần 3F VIỆT, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã thu hồi",
+                "2": "-",
+                "3": "90.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần 3F VIỆT, công ty con sở hữu gián tiếp",
+                "1": "Thu nhập lãi từ các khoản cho vay đã cấp",
+                "2": "-",
+                "3": "3.698.631"
+            },
+            {
+                "0": "Công ty Cổ phần 3F VIỆT, công ty con sở hữu gián tiếp",
+                "1": "Mua hàng",
+                "2": "6.986.855",
+                "3": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Mobicast, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã cấp",
+                "2": "95.900.000.000",
+                "3": "99.300.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Mobicast, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã thu hồi",
+                "2": "312.500.000.000",
+                "3": "32.300.000.000"
+            },
+            {
+                "0": "Công ty Cổ phần Mobicast, công ty con sở hữu gián tiếp",
+                "1": "Thu nhập lãi từ các khoản cho vay đã cấp",
+                "2": "20.698.654.800",
+                "3": "25.262.400.000"
+            },
+            {
+                "0": "Công ty Cổ phần Mobicast, công ty con sở hữu gián tiếp",
+                "1": "Mua dịch vụ",
+                "2": "166.004.691",
+                "3": "132.615.139"
+            },
+            {
+                "0": "Công ty Cổ phần Phúc Long Heritage, công ty con sở hữu gián tiếp",
+                "1": "Thanh toán lãi trái phiếu",
+                "2": "4.289.452.000",
+                "3": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Phúc Long Heritage, công ty con sở hữu gián tiếp",
+                "1": "Mua hàng",
+                "2": "1.404.615.655",
+                "3": "356.205.457"
+            },
+            {
+                "0": "Công ty Cổ phần Phúc Long Heritage, công ty con sở hữu gián tiếp",
+                "1": "Chi phí chia sẻ bởi Công ty",
+                "2": "1.387.219.064",
+                "3": "3.707.614.232"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Sản xuất Phát triển Nông nghiệp WinEco, công ty con sở hữu gián tiếp",
+                "1": "Khoản vay đã nhận",
+                "2": "84.000.000.000",
+                "3": "516.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Sản xuất Phát triển Nông nghiệp WinEco, công ty con sở hữu gián tiếp",
+                "1": "Khoản vay đã hoàn trả",
+                "2": "600.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Sản xuất Phát triển Nông nghiệp WinEco, công ty con sở hữu gián tiếp",
+                "1": "Chi phí lãi vay từ các khoản vay đã nhận",
+                "2": "13.005.465.752",
+                "3": "820.821.918"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Sản xuất Phát triển Nông nghiệp WinEco, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã cấp",
+                "2": "-",
+                "3": "45.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Sản xuất Phát triển Nông nghiệp WinEco, công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã thu hồi",
+                "2": "-",
+                "3": "45.000.000.000"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Sản xuất Phát triển Nông nghiệp WinEco, công ty con sở hữu gián tiếp",
+                "1": "Thu nhập lãi từ các khoản cho vay đã cấp",
+                "2": "-",
+                "3": "880.027.398"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư Sản xuất Phát triển Nông nghiệp WinEco, công ty con sở hữu gián tiếp",
+                "1": "Mua hàng",
+                "2": "4.982.500",
+                "3": "23.940.000"
+            },
+            {
+                "0": "Công ty TNHH Plutus Holdings, một công ty con sở hữu gián tiếp",
+                "1": "Khoản cho vay đã cấp",
+                "2": "922.000.000.000",
+                "3": "-"
+            },
+            {
+                "0": "Công ty TNHH Plutus Holdings, một công ty con sở hữu gián tiếp",
+                "1": "Thu nhập lãi từ các khoản cho vay đã cấp",
+                "2": "38.395.616.440",
+                "3": "-"
+            },
+            {
+                "0": "Các bên liên quan khác",
+                "1": "Các bên liên quan khác",
+                "2": "Các bên liên quan khác",
+                "3": "Các bên liên quan khác"
+            },
+            {
+                "0": "Techcombank và các công ty con (*)",
+                "1": "Bán chứng khoán kinh doanh",
+                "2": "-",
+                "3": "609.860.945.499"
+            },
+            {
+                "0": "Techcombank và các công ty con (*)",
+                "1": "Mua chứng khoán kinh doanh",
+                "2": "-",
+                "3": "609.860.945.499"
+            },
+            {
+                "0": "Techcombank và các công ty con (*)",
+                "1": "Thu nhập cổ tức",
+                "2": "1.048.630.998.000",
+                "3": "786.473.248.500"
+            },
+            {
+                "0": "Techcombank và các công ty con (*)",
+                "1": "Chi phí chia sẻ cho Công ty",
+                "2": "-",
+                "3": "5.511.037.620"
+            },
+            {
+                "0": "Thành viên quản lý chủ chốt",
+                "1": "Thủ lao cho thành viên quản lý chủ chốt (**)",
+                "2": "34.562.941.461",
+                "3": "52.184.675.464"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MSN_2025_separate_table_37",
+        "metadata": {
+            "ticker": "MSN",
+            "company_name": "CTCP Tập đoàn Masan",
+            "year": "2025",
+            "report_type": "separate",
+            "original_folder": "MSN_financial_statements_2025_separate"
+        },
+        "context_text": "35\n\n《中华人民共和国安全生产法》\n\n\n\nCÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN\n\nMẫu số B 09 – DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2025 (tiếp theo)\n\n22 CÁC GIAO DỊCH CHỦ YẾU VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nTại ngày 31 tháng 12 năm 2025, các công ty con và các công ty liên kết của Công ty nằm giữ lần lượt 4.226.537 triệu VND và 324.700 triệu VND (1/1/2025: lần lượt là 4.426.750 triệu VND và 60.000 triệu VND) trái phiếu đã phát hành của Công ty.\n\n(*) Tại ngày và cho các năm kết thúc ngày 31 tháng 12 năm 2025 và 2024, Công ty có các tài khoản tiền gửi không kỳ hạn và có kỳ hạn tại và các giao dịch đại lý với Techcombank và các công ty con theo các điều khoản giao dịch thông thường.\n\n(**) Các thành viên Hội đồng Quản trị và thành viên Ủy ban Kiểm toán của Công ty không hưởng thù lao cho các năm kết thúc ngày 31 tháng 12 năm 2025 và 2024.\n\nBao gồm trong thủ lao trả cho thành viên quản lý chủ chốt, thủ lao, lượng và tiền thường thực tế của từng thành viên trong Hội đồng Quản trị, từng thành viên trong Ủy ban Kiểm toán và Tổng Giám đốc của Công ty trong năm là:",
+        "dataframe": [
+            {
+                "0": "Tên",
+                "1": "Chức vụ",
+                "2": "2025VND",
+                "3": "2024VND"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Dr Nguyễn Đăng Quang",
+                "1": "Chủ tịch",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Bà Nguyễn Hoàng Yến",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Ông Nguyễn Thiều Nam",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Ông Nguyễn Đoan Hùng",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Ông David Tan Wei Míng",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Bà Nguyễn Thị Thu Hà",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Ủy ban Kiểm toán",
+                "1": "",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "Ông Nguyễn Đoan Hùng",
+                "1": "Chủ tịch",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Bà Nguyễn Thị Thu Hà",
+                "1": "Thành viên",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Tổng Giám đốc",
+                "1": "",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "Ông Le Danny",
+                "1": "",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "Lương, thưởng và các phúc lợi khác",
+                "1": "",
+                "2": "24.880.161.402",
+                "3": "21.788.879.333"
+            }
+        ]
+    }
+]

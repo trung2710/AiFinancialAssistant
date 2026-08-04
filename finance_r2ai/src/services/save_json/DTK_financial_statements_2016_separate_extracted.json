@@ -1,0 +1,3974 @@
+[
+    {
+        "chunk_id": "DTK_2016_separate_table_1",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MÊ\n\nTỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nBáo cáo tài chính riêng đã được kiểm toán\n\ncho năm tài chính bắt đầu từ ngày 15/01/2016\n\nvà kết thúc vào ngày 31/12/2016\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nMỤC LỤC\n\nTrang\n\n1. Báo cáo của Ban Tổng Giám đốc 2 - 5\n\n2. Báo cáo kiểm toán độc lập 6 - 7\n\n3. Báo cáo tài chính riêng đã được kiểm toán\n\n- Bảng cân đối kế toán riêng 8 - 9\n\n- Báo cáo kết quả hoạt động kinh doanh riêng 10\n\n- Báo cáo lưu chuyển tiền tệ riêng 11\n\n- Thuyết minh báo cáo tài chính riêng 12 - 47\n\n1\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIÊN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\nBan Tổng Giám đốc Công ty mẹ - Tổng Công ty Điện lực TKV - CTCP trình bày báo cáo này cùng với Báo cáo tài chính riêng cho năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 của Công ty mẹ - Tổng Công ty Điện lực TKV - CTCP (sau đây gọi tất là “Công ty mẹ”) đã được kiểm toán bởi các kiểm toán viên độc lập.\n\n1. Thông tin chung\n\nTổng công ty Điện lực TKV - CTCP được cổ phần hóa từ Tổng công ty Điện lực - Vinacomin (TNHH MTV) theo Quyết định số số 85/QĐ-Ttg ngày 19/01/2015 của Thử tương Chính phủ về việc phê duyệt Phương án cổ phần hóa Công ty mẹ - Tổng công ty Điện lực - Vinacomin thuộc Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam.\n\nTổng công ty Điện lực TKV - CTCP hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp công ty cổ phần đăng ký thay đổi lần 4 ngày 15/01/2016 với mã số doanh nghiệp là 0104297034, theo đó vốn điều lệ của Tổng công ty là 6.800.000.000.000 VND được chia thành 680.000.000 cổ phần (mệnh giá cổ phần là 10.000 đồng), danh sách cổ đông tại ngày 31/12/2016 bao gồm:",
+        "dataframe": [
+            {
+                "0": "TT",
+                "1": "Tên cổ đông",
+                "2": "Số cổ phần theo điều lệ",
+                "3": "Tỷ lệ"
+            },
+            {
+                "0": "1",
+                "1": "Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
+                "2": "677.808.500",
+                "3": "99,68%"
+            },
+            {
+                "0": "2",
+                "1": "Cổ đông khác",
+                "2": "2.191.500",
+                "3": "0,32%"
+            },
+            {
+                "0": "",
+                "1": "Cộng",
+                "2": "680.000.000",
+                "3": "100%"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_2",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Báo cáo tài chính riêng cho năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 đã được kiểm toán của Công ty mẹ được lập trên cơ sở Báo cáo tài chính cho năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 của Văn phòng Công ty mẹ và 07 đơn vị hạch toán phụ thuộc. Chi tiết các đơn vị hạch toán phụ thuộc này được trình bày tại Thuyết minh số 1 của Báo cáo tài chính. Báo cáo tài chính hợp nhất cho năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 của Tổng Công ty bao gồm Công ty mẹ và các công ty con không được trình bày trong Báo cáo tài chính riêng đã được kiểm toán này và vì vậy Báo cáo tài chính riêng này không phần ánh tỉnh hình tài chính hợp nhất của toàn Tổng Công ty tại ngày 31/12/2016 và kết quả kinh doanh hợp nhất, tỉnh hình lưu chuyển tiền tệ hợp nhất của Tổng Công ty trong năm tài chính kết thúc cùng ngày.\n\n2. Hội đồng quản trị và Ban Tổng Giám đốc\n\nHội đồng quản trị, Ban Tổng Giám đốc Công ty mẹ - Tổng Công ty Điện lực TKV - CTCP chịu trách nhiệm lập Báo cáo tài chính riêng cho năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 của Công ty mẹ - Tổng Công ty Điện lực TKV - CTCP bao gồm:\n\nHội đồng quản trị:",
+        "dataframe": [
+            {
+                "0": "Ho và tên:",
+                "1": "Ho và tên:",
+                "2": "Chức vụ:"
+            },
+            {
+                "0": "-",
+                "1": "Ông Nguyễn Trọng Hùng",
+                "2": "Chủ tịch"
+            },
+            {
+                "0": "-",
+                "1": "Ông Ngô Trí Thịnh",
+                "2": "Ủy viên"
+            },
+            {
+                "0": "-",
+                "1": "Ông Hoàng Phó Hiềng",
+                "2": "Ủy viên"
+            },
+            {
+                "0": "-",
+                "1": "Ông Nguyễn Đức Pha",
+                "2": "Ủy viên"
+            },
+            {
+                "0": "-",
+                "1": "Ông Phạm Xuân Phong",
+                "2": "Ủy viên"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_3",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "2\n\n4064\nNG\nHIÊM I\n°KI\nT N.\nJÂN\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY ME - TỔNG CÔNG TY ĐIÊN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\nBan Tổng Giám đốc",
+        "dataframe": [
+            {
+                "0": "Ho và tên:",
+                "1": "Ho và tên:",
+                "2": "Chức vụ:",
+                "3": "Chức vụ:"
+            },
+            {
+                "0": "-",
+                "1": "Ông Ngô Trí Thịnh",
+                "2": "Tổng Giám đốc",
+                "3": "(i)"
+            },
+            {
+                "0": "-",
+                "1": "Ông Nguyễn Văn Hải",
+                "2": "Phó Tổng Giám đốc",
+                "3": "(ii)"
+            },
+            {
+                "0": "-",
+                "1": "Ông Hoàng Phó Hiềng",
+                "2": "Phó Tổng Giám đốc",
+                "3": "(iii)"
+            },
+            {
+                "0": "-",
+                "1": "Ông Bùi Minh Tân",
+                "2": "Phó Tổng Giám đốc",
+                "3": "(iv)"
+            },
+            {
+                "0": "-",
+                "1": "Ông Phạm Xuân Phong",
+                "2": "Phó Tổng Giám đốc",
+                "3": "(v)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_4",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "(i) Theo Quyết định số 16/QĐ-ĐLTKV ngày 21/01/2016 của Chủ tịch Hội đồng quản trị Tổng Công ty Điện lực TKV - CTCP\n\n(ii) Theo Quyết định số 17/QĐ-ĐLTKV ngày 21/01/2016 của Chủ tịch Hội đồng quản trị Tổng Công ty Điện lực TKV - CTCP\n\n(iii) Theo Quyết định số 18/QĐ-ĐLTKV ngày 21/01/2016 của Chủ tịch Hội đồng quản trị Tổng Công ty Điện lực TKV - CTCP\n\n(iv) Theo Quyết định số 19/QĐ-ĐLTKV ngày 21/01/2016 của Chủ tịch Hội đồng quản trị Tổng Công ty Điện lực TKV - CTCP\n\n(v) Theo Quyết định số 20/QĐ - ĐLTKV ngày 21/01/2016 của Chủ tịch Hội đồng quản trị Tổng Công ty Điện lực TKV - CTCP\n\n3. Trụ sở\n\nCông ty mẹ - Tổng Công ty Điện lực TKV - CTCP có trụ sở chính theo đăng ký kinh doanh thay đổi lần 4 tại số 78 tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, quận Cầu Giấy, thành phố Hà Nội.\n\n4. Hoạt động chính\n\nTrong Năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016, hoạt động chính của Công ty mẹ là:\n\n- Đầu tư xây dựng, khai thác, vận hành các nhà máy nhiệt điện, các nhà máy thủy điện; Sản xuất điện;\n\n- Mua bán điện;\n\n- Quản lý các dự án đầu tư xây dựng công trình điện;\n\n- Xây dựng các công trình nhà máy điện, đường dây và trạm điện.\n\nNgoài ra, Công ty mẹ không có hoạt động đáng kể nào ngoài chức năng kinh doanh đã được đăng ký.\n\n3\n\nY\nYU HAN\nM\nT.PHA\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n5. Tình hình tài chính và kết quả hoạt động kinh doanh\n\nChi tiết tình hình tài chính vào ngày 31/12/2016 và kết quả hoạt động kinh doanh cho năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 của Công ty mẹ được trình bày trong Báo cáo tài chính riêng đã được kiểm toán dính kèm.\n\n6. Sự kiện quan trọng phát sinh sau niên độ\n\nĐến thời điểm lập báo cáo này, Công ty mẹ - Tổng Công ty Điện lực TKV - CTCP chưa có quyết định công bố giá trị thực tế phần vốn nhà nước tại thời điểm doanh nghiệp cổ phần hóa chính thức chuyển thành công ty cổ phần.\n\nBan Tổng Giám đốc Tổng Công ty cũng cho ràng, ngoài sự kiện nếu trên không còn sự kiện nào cần phải công bố hoặc có thể làm cho các số liệu và thông tin đã được trình bày trong Báo cáo tài chính đã được kiểm toán của Công ty mẹ bị phần ánh sai lệch.\n\n7. Công ty kiểm toán\n\nCông ty TNHH PKF Việt Nam đã được chỉ định là kiểm toán viên thực hiện kiểm toán Báo cáo tài chính riêng cho năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 của Công ty mẹ.\n\n8. Công bố trách nhiệm của Ban Tổng Giám đốc\n\nBan Tổng Giám đốc Công ty mẹ chịu trách nhiệm lập Báo cáo tài chính và đảm bảo Báo cáo tài chính riêng đã phần ánh trung thực và hợp lý về tình hình tài chính vào ngày 31/12/2016 cũng như kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ cho năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 của Công ty mẹ. Để lập Báo cáo tài chính riêng này, Ban Tổng Giám đốc Công ty mẹ được yêu cầu:\n\n- Xây dựng và duy trì kiểm soát nội bộ mà Ban Tổng Giám đốc và Hội đồng quản trị xác định là cần thiết để đảm bảo cho việc lập và trình bày Báo cáo tài chính không còn sai sót trọng yếu do gian lận hoặc do nhằm lẫn;\n\n- Lựa chọn phù hợp và áp dụng nhất quán các chính sách kế toán;\n\n- Thực hiện các xét đoán và ước tính một cách hợp lý và thận trọng;\n\n- Nếu rõ các chuẩn mực kế toán được áp dụng có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu đến mức cần phải công bố và giải thích trong Báo cáo tài chính hay không;\n\n- Lập và trình bày các báo cáo tài chính riêng trên cơ sở tuân thủ các chuẩn mục kế toán Việt Nam, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính;\n\n- Lập Báo cáo tài chính trên cơ sở hoạt động liên tục trừ khi giả thuyết Công ty mẹ sẽ tiếp tục hoạt động không còn phù hợp.\n\nBan Tổng Giám đốc Công ty mẹ cam kết rằng đã tuân thủ các yêu cầu nếu trên trong việc lập Báo cáo tài chính riêng và nhận thấy không có vấn đề bất thường xảy ra có thể ảnh hưởng đến khả năng hoạt động liên tục của doanh nghiệp.\n\nBan Tổng Giám đốc Công ty mẹ chịu trách nhiệm đảm bảo sổ kế toán được ghi chép đầy đủ, phần ánh trung thực và hợp lý tình hình tài chính của Công ty mẹ và đảm bảo Báo cáo tài chính riêng của Công ty mẹ được lập phù hợp với các chuẩn mục kế toán Việt Nam, chế độ kế toán doanh nghiệp Việt Nam hiện hành và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.\n\nBan Tổng Giám đốc Công ty mẹ cũng chịu trách nhiệm đảm bảo an toàn cho các tài sản và đã thực hiện các biện pháp phù hợp để ngăn ngừa và phát hiện sai sót và các trường hợp vi phạm khác.\n\n4\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\nBan Tổng Giám đốc Công ty mẹ xác nhận rằng Công ty mẹ đã lập Báo cáo tài chính riêng cho năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 theo đúng các yêu cầu trên.\n\nNgoài ra, Ban Tổng Giám đốc cam kết rằng Tổng Công ty không vi phạm nghĩa vụ công bố thông tin theo quy định tại Thông tư số 155/2015/TT-BTC, ngày 06/10/2015 của Bộ Tài chính hướng dẫn về việc công bố thông tin trên Thị trường chứng khoán.\n\n9. Ý kiến của Ban Tổng Giám đốc\n\nTheo ý kiến của Ban Tổng Giám đốc Công ty mẹ, Báo cáo tài chính riêng của Công ty mẹ đã được kiểm toán (đính kèm) đã phần ánh trung thực và hợp lý tình hình tài chính tại ngày 31/12/2016, kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng trong năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 của Công ty mẹ và được lập phù hợp với các chuẩn mục kế toán Việt Nam, chế độ kế toán doanh nghiệp Việt Nam hiện hành và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.\n\nHà Nội, ngày 07 tháng 4 năm 2017\n\nTHAY MẶT BAN TỔNG GIÁM ĐỐC\nTỔNG GIÁM ĐỐC\n\nNgô Trí Thịnh\n\n5\n\n\\( \\left\\| \\frac{1}{x} \\frac{H N^{2}}{V}\\right\\|_{II} = \\frac{TRAC}{C} \\)  (N:031)\n\n\n\nPKF Vietnam\n\nPKF\n\nAccountants & business advisers\n\nSố: 72 /2017/BCKT- PKF.VPC\n\nHà Nội, ngày 07 tháng 4 năm 2017\n\nBÁO CÁO KIÊM TOÁN ĐỘC LẬP\n\nKính gửi: HỘI ĐỒNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐC TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nChúng tôi đã kiểm toán Báo cáo tài chính riêng cho năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 của Công ty mẹ - Tổng Công ty Điện lực TKV - CTCP(Công ty mẹ) được lập ngày 07 tháng 4 năm 2017 bao gồm: Bằng cân đối kế toán riêng tại ngày 31/12/2016, Báo cáo kết quả hoạt động kinh doanh riêng, Báo cáo lưu chuyển tiền tệ riêng và Thuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc cùng ngày được trình bày từ trang 8 đến trang 47 kèm theo.\n\nBáo cáo tài chính riêng đã được kiểm toán của Công ty mẹ được lập trên cơ sở Báo cáo tài chính của Văn phòng Công ty mẹ và Báo cáo tài chính của 07 đơn vị hạch toán phụ thuộc. Báo cáo tài chính hợp nhất của Tổng Công ty bao gồm Công ty mẹ và các công ty con không được trình bày trong Báo cáo tài chính riêng đã được kiểm toán và vì vậy không phần ánh tỉnh hình tài chính hợp nhất của toàn Tổng Công ty Điện lực TKV - CTCP (\"Tổng công ty\") tại ngày 31/12/2016 và kết quả kinh doanh hợp nhất, tình hình lưu chuyển tiền tệ hợp nhất của Tổng Công ty trong năm tài chính kết thúc cùng ngày.\n\nBáo cáo tài chính riêng này không nhằm phần ánh tỉnh hình tài chính, kết quả hoạt động kinh doanh và tỉnh hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại các nước khác ngoài Việt Nam.\n\nTrách nhiệm của Ban Tổng Giám đốc\n\nBan Tổng Giám đốc Công ty mẹ - Tổng Công ty Điện lực TKV - CTCP chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty mẹ theo các chuẩn mục kế toán Việt Nam, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tôi đã thực hiện kiểm toán theo các chuẩn mục kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính của Công ty mẹ có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên Báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính riêng do gian lân hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty mẹ liên quan đến việc lập và trình bày báo cáo tài chính trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty mẹ.\n\nHead Office • Tel: +84 4 6664 4488 • Fax: +84 4 6664 2233 • Email: pkfvietnam@pkf.com.vn • www.pkf.com.vn\n\nNo.1 Nguyen Huy Tuong Street • Thanh Xuan Trung Ward • Thanh Xuan District • Hanoi • Vietnam\n\n6\n\nPKF Vietnam is a member firm of the PKF International Limited network of legally independent firms and does not accept any responsibility or liability for the actions or inactions on the part of any other individual member firm or firms\n\nA40640-C.T.T.\nLONG TY\nNHIÊM HỮU HẠN\nPKF\nT NAM\nJĂN-T.PHA\n\n\n\nCông việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính.\n\nChúng tôi tin tưởng ràng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán ngoại trừ của chúng tôi.\n\nCơ sở của ý kiến kiểm toán ngoại trừ\n\nĐến thời điểm hiện tại Công ty Nhiệt điện Cao Ngạn - TKV chưa ghi nhận khoản tiền bồi thường chậm tiến độ hợp đồng có thể thu được từ nhà thầu của Gói thầu số 3 - \"Thiết kế, cung cấp thiết bị, xây dựng, lắp đặt, chạy thử và chuyển giao công nghệ Nhà máy Nhiệt điện chạy than Cao Ngạn công suất 2x50MW\" theo kiến nghị của Kiểm toán Nhà nước do chưa thống nhất được số tiền phạt chính thức với nhà thầu như đã trình bày tại Thuyết minh số 7.2 của Thuyết minh Báo cáo tài chính.\n\nÝ kiến kiểm toán ngoại trừ\n\nTheo ý kiến chúng tôi, ngoại trừ ảnh hưởng của của các vấn đề nếu tại đoạn “Cơ sở của ý kiến kiểm toán ngoại trừ”, xét trên các khía cạnh trọng yếu Báo cáo tài chính riêng kèm theo đã phần ánh trung thực và hợp lý tình hình tài chính vào ngày 31/12/2016, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ trong năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 của Công ty mẹ - Tổng Công ty Điện lực TKV - CTCP, và được lập phù hợp với các chuẩn mục kế toán Việt Nam, chế độ kế toán doanh nghiệp Việt Nam hiện hành và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.\n\nĐại diện cho Công ty TNHH PKF Việt Nam\n\nĐỗ Thị Ánh Tuyết\n\nTổng Giám đốc\n\nGiấy chứng nhận đăng ký hành nghề kiểm toán 0079-2015-242-1\n\nHoàng Văn Anh\n\nKiểm toán viên\n\nGiấy chứng nhận đăng ký hành nghề kiểm toán 2917-2015-242-1\n\n7\n\n\n\nTẬP ĐOÀN CỔNG NGHIỆP THAN - KHOÁNG SÁN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG\n\nNgày 31 tháng 12 năm 2016\n\nĐơn vị: VND",
+        "dataframe": [
+            {
+                "0": "TÀI SẢN",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "31/12/2016",
+                "4": "15/01/2016"
+            },
+            {
+                "0": "TÀI SẢN NGÁN HẠN",
+                "1": "100",
+                "2": "",
+                "3": "2.601.338.741.454",
+                "4": "2.682.775.415.141"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền",
+                "1": "110",
+                "2": "",
+                "3": "328.610.885.880",
+                "4": "65.847.900.361"
+            },
+            {
+                "0": "Tiền",
+                "1": "111",
+                "2": "5.1",
+                "3": "48.610.885.880",
+                "4": "65.847.900.361"
+            },
+            {
+                "0": "Các khoản tương đương tiền",
+                "1": "112",
+                "2": "",
+                "3": "280.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Đầu tư tài chính ngắn hạn",
+                "1": "120",
+                "2": "5.2",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Các khoản phải thu ngắn hạn",
+                "1": "130",
+                "2": "",
+                "3": "2.163.923.534.877",
+                "4": "2.503.047.313.530"
+            },
+            {
+                "0": "Phải thu ngắn hạn của khách hàng",
+                "1": "131",
+                "2": "5.4",
+                "3": "1.404.975.769.750",
+                "4": "1.501.967.164.474"
+            },
+            {
+                "0": "Trả trước cho người bán ngắn hạn",
+                "1": "132",
+                "2": "",
+                "3": "15.395.485.398",
+                "4": "30.750.363.785"
+            },
+            {
+                "0": "Phải thu về cho vay ngắn hạn",
+                "1": "135",
+                "2": "5.3",
+                "3": "511.993.604.334",
+                "4": "676.917.444.885"
+            },
+            {
+                "0": "Phải thu ngắn hạn khác",
+                "1": "136",
+                "2": "5.5",
+                "3": "236.620.005.395",
+                "4": "293.412.340.386"
+            },
+            {
+                "0": "DP các khoản phải thu ngắn hạn khó đòi (*)",
+                "1": "137",
+                "2": "5.6",
+                "3": "(5.061.330.000)",
+                "4": "-"
+            },
+            {
+                "0": "Hàng tồn kho",
+                "1": "140",
+                "2": "5.7",
+                "3": "46.556.314.562",
+                "4": "73.594.500.488"
+            },
+            {
+                "0": "Hàng tồn kho",
+                "1": "141",
+                "2": "",
+                "3": "46.556.314.562",
+                "4": "73.594.500.488"
+            },
+            {
+                "0": "Tài sản ngắn hạn khác",
+                "1": "150",
+                "2": "",
+                "3": "62.248.006.135",
+                "4": "40.285.700.762"
+            },
+            {
+                "0": "Chi phí trả trước ngắn hạn",
+                "1": "151",
+                "2": "5.11",
+                "3": "1.021.402.176",
+                "4": "1.712.367.562"
+            },
+            {
+                "0": "Thuế GTGT được khấu trừ",
+                "1": "152",
+                "2": "",
+                "3": "52.899.495.056",
+                "4": "34.822.414.157"
+            },
+            {
+                "0": "Thuế và các khoản phải thu Nhà nước",
+                "1": "153",
+                "2": "5.14",
+                "3": "8.327.108.903",
+                "4": "3.750.919.043"
+            },
+            {
+                "0": "TÀI SẢN DÀI HẠN",
+                "1": "200",
+                "2": "",
+                "3": "19.935.569.034.695",
+                "4": "22.006.575.932.287"
+            },
+            {
+                "0": "Các khoản phải thu dài hạn",
+                "1": "210",
+                "2": "",
+                "3": "2.553.651.376.411",
+                "4": "2.884.348.097.585"
+            },
+            {
+                "0": "Phải thu về cho vay dài hạn",
+                "1": "215",
+                "2": "5.3",
+                "3": "2.552.685.824.033",
+                "4": "2.883.382.545.207"
+            },
+            {
+                "0": "Phải thu dài hạn khác",
+                "1": "216",
+                "2": "5.5",
+                "3": "965.552.378",
+                "4": "965.552.378"
+            },
+            {
+                "0": "Tài sản cố định",
+                "1": "220",
+                "2": "",
+                "3": "14.277.344.079.438",
+                "4": "15.407.201.853.755"
+            },
+            {
+                "0": "TSCĐ hữu hình",
+                "1": "221",
+                "2": "5.9",
+                "3": "14.251.013.839.882",
+                "4": "15.373.101.071.778"
+            },
+            {
+                "0": "- Nguyên giá",
+                "1": "222",
+                "2": "",
+                "3": "21.813.008.995.590",
+                "4": "21.603.504.518.270"
+            },
+            {
+                "0": "- Giá trị hao mòn luỹ kế",
+                "1": "223",
+                "2": "",
+                "3": "(7.561.995.155.708)",
+                "4": "(6.230.403.446.492)"
+            },
+            {
+                "0": "TSCĐ vô hình",
+                "1": "227",
+                "2": "5.10",
+                "3": "26.330.239.556",
+                "4": "34.100.781.977"
+            },
+            {
+                "0": "- Nguyên giá",
+                "1": "228",
+                "2": "",
+                "3": "29.212.729.730",
+                "4": "35.649.701.210"
+            },
+            {
+                "0": "- Giá trị hao mòn luỹ kế",
+                "1": "229",
+                "2": "",
+                "3": "(2.882.490.174)",
+                "4": "(1.548.919.233)"
+            },
+            {
+                "0": "Tài sản dở dang dài hạn",
+                "1": "240",
+                "2": "5.8",
+                "3": "116.903.755.552",
+                "4": "93.508.235.770"
+            },
+            {
+                "0": "Chi phí sản xuất, kinh doanh dở dang dài hạn",
+                "1": "241",
+                "2": "",
+                "3": "30.975.440.633",
+                "4": "20.628.408.300"
+            },
+            {
+                "0": "Chi phí xây dựng cơ bản dở dang",
+                "1": "242",
+                "2": "",
+                "3": "85.928.314.919",
+                "4": "72.879.827.470"
+            },
+            {
+                "0": "Đầu tư tài chính dài hạn",
+                "1": "250",
+                "2": "5.2",
+                "3": "2.181.885.083.795",
+                "4": "2.824.554.177.495"
+            },
+            {
+                "0": "Đầu tư vào công ty con",
+                "1": "251",
+                "2": "",
+                "3": "1.883.306.772.926",
+                "4": "1.883.306.772.926"
+            },
+            {
+                "0": "Đầu tư góp vốn vào đơn vị khác",
+                "1": "253",
+                "2": "",
+                "3": "985.091.726.279",
+                "4": "941.247.404.569"
+            },
+            {
+                "0": "DP giảm giá đầu tư chứng khoán dài hạn (*)",
+                "1": "254",
+                "2": "",
+                "3": "(686.513.415.410)",
+                "4": "-"
+            },
+            {
+                "0": "Tài sản dài hạn khác",
+                "1": "260",
+                "2": "",
+                "3": "805.784.739.499",
+                "4": "796.963.567.682"
+            },
+            {
+                "0": "Chi phí trả trước dài hạn",
+                "1": "261",
+                "2": "5.11",
+                "3": "647.891.360.614",
+                "4": "617.924.480.578"
+            },
+            {
+                "0": "Thiết bị, vật tư, phụ tùng thay thế dài hạn",
+                "1": "263",
+                "2": "",
+                "3": "157.893.378.885",
+                "4": "179.039.087.104"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_5",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "TỔNG CỘNG TÀI SẢN\n\n270\n\n22.536.907.776.149\n\n24.689.351.347.428\n\nBáo cáo tài chính riêng này phải được đọc chung với các thuyết minh kèm theo\n\n8\n\n13440\nCÔNG\nH NHIÊI\nPK\nVIÊT\nXUÃI\n\n\n\nTẬP ĐOÀN CỔNG NGHIỆP THAN - KHOÁNG SÁN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CỘNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG (Tiếp theo)\n\nNgày 31 tháng 12 năm 2016\n\nĐơn vi: VND",
+        "dataframe": [
+            {
+                "0": "NGUÔN VÔN",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "31/12/2016",
+                "4": "15/01/2016"
+            },
+            {
+                "0": "NỘ PHẢI TRẢ",
+                "1": "300",
+                "2": "",
+                "3": "16.094.579.295.457",
+                "4": "17.911.266.347.428"
+            },
+            {
+                "0": "Nợ ngắn hạn",
+                "1": "310",
+                "2": "",
+                "3": "3.047.696.850.961",
+                "4": "3.160.779.333.141"
+            },
+            {
+                "0": "Phải trả người bán ngắn hạn",
+                "1": "311",
+                "2": "5.13",
+                "3": "1.014.220.082.493",
+                "4": "1.068.195.842.261"
+            },
+            {
+                "0": "Người mua trả tiền trước ngắn hạn",
+                "1": "312",
+                "2": "",
+                "3": "41.464.435",
+                "4": "5.487.809.442"
+            },
+            {
+                "0": "Thuế và các khoản phải nộp Nhà nước",
+                "1": "313",
+                "2": "5.14",
+                "3": "24.285.439.584",
+                "4": "59.255.130.083"
+            },
+            {
+                "0": "Phải trả người lao động",
+                "1": "314",
+                "2": "",
+                "3": "39.092.659.161",
+                "4": "48.402.176.823"
+            },
+            {
+                "0": "Chi phí phải trả ngắn hạn",
+                "1": "315",
+                "2": "5.15",
+                "3": "263.684.771.162",
+                "4": "254.603.398.522"
+            },
+            {
+                "0": "Phải trả ngắn hạn khác",
+                "1": "319",
+                "2": "5.16",
+                "3": "43.195.552.523",
+                "4": "64.421.426.496"
+            },
+            {
+                "0": "Vay và nợ thuê tài chính ngắn hạn",
+                "1": "320",
+                "2": "5.12",
+                "3": "1.644.054.757.720",
+                "4": "1.643.691.958.169"
+            },
+            {
+                "0": "Quỹ khen thưởng và phúc lợi",
+                "1": "322",
+                "2": "",
+                "3": "19.122.123.883",
+                "4": "16.721.591.345"
+            },
+            {
+                "0": "Nợ dài hạn",
+                "1": "330",
+                "2": "",
+                "3": "13.046.882.444.496",
+                "4": "14.750.487.014.287"
+            },
+            {
+                "0": "Phải trả người bán dài hạn",
+                "1": "331",
+                "2": "5.13",
+                "3": "626.944.266.919",
+                "4": "618.416.284.351"
+            },
+            {
+                "0": "Vay và nợ thuê tài chính dài hạn",
+                "1": "338",
+                "2": "5.12",
+                "3": "12.419.938.177.577",
+                "4": "14.132.070.729.936"
+            },
+            {
+                "0": "VỐN CHỦ SỞ HỮU",
+                "1": "400",
+                "2": "",
+                "3": "6.442.328.480.692",
+                "4": "6.778.085.000.000"
+            },
+            {
+                "0": "Vốn chủ sở hữu",
+                "1": "410",
+                "2": "5.17",
+                "3": "6.442.328.480.692",
+                "4": "6.778.085.000.000"
+            },
+            {
+                "0": "Vốn góp của chủ sở hữu",
+                "1": "411",
+                "2": "",
+                "3": "6.800.000.000.000",
+                "4": "6.436.967.325.797"
+            },
+            {
+                "0": "Thăng dư vốn cổ phần",
+                "1": "412",
+                "2": "",
+                "3": "(3.640.600.000)",
+                "4": "-"
+            },
+            {
+                "0": "Chênh lệch đánh giá lại tài sản",
+                "1": "416",
+                "2": "",
+                "3": "-",
+                "4": "570.597.908.525"
+            },
+            {
+                "0": "Chênh lệch tỷ giá hối đoái",
+                "1": "417",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Quỹ đầu tư phát triển",
+                "1": "418",
+                "2": "",
+                "3": "-",
+                "4": "1.069.727.013"
+            },
+            {
+                "0": "Lợi nhuận sau thuế chưa phân phối",
+                "1": "421",
+                "2": "",
+                "3": "(354.030.919.308)",
+                "4": "(230.549.961.335)"
+            },
+            {
+                "0": "- LNST chưa phân phối lũy kế đến cuối kỳ trước",
+                "1": "421a",
+                "2": "",
+                "3": "-",
+                "4": "(828.058.894.686)"
+            },
+            {
+                "0": "- LNST chưa phân phối kỳ này",
+                "1": "421b",
+                "2": "",
+                "3": "(354.030.919.308)",
+                "4": "597.508.933.351"
+            },
+            {
+                "0": "Lợi ích cổ đông không kiểm soát",
+                "1": "429",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Nguồn kinh phí và quỹ khác",
+                "1": "430",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Nguồn kinh phí",
+                "1": "431",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Nguồn kinh phí hình thành TSCĐ",
+                "1": "432",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_6",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "TỔNG CỘNG NGUỒN VỐN\n\n440\n\n22.536.907.776.149\n\n24.689.351.347.428\n\nNGU'ÔI LẬP BIỂU\n\nLU'U TH! MINH THANH\n\nKẾ TOÁN TRƯỜNG\n\nNGUYỄN THỊ HÀ\n\nHà Nội, ngày 07 tháng 4 năm 2017\n\nTỔNG GIÁM ĐỐC\n\nNGÔ TRÍ THỊNH\n\nBáo cáo tài chính riêng này phải được đọc chung với các thuyết minh kèm theo\n\n9\n\n\n\nTẬP ĐOÀN CỔNG NGHIỆP THAN - KHOÁNG SÁN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nBÁO CÁO KẾT QUÀ HOẠT ĐỘNG KINH DOANH RIÊNG\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\nĐơn vị: VND",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "Từ 15/01/2016 đến 31/12/2016",
+                "4": "Từ 01/01/2016 đến 14/01/2016"
+            },
+            {
+                "0": "Doanh thu bán hàng và cung cấp dịch vụ",
+                "1": "01",
+                "2": "6.1",
+                "3": "6.461.769.716.201",
+                "4": "(325.217.271.129)"
+            },
+            {
+                "0": "Các khoản giảm trừ doanh thu",
+                "1": "02",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Doanh thu thuần từ bán hàng hoá và cung cấp dịch vụ",
+                "1": "10",
+                "2": "6.2",
+                "3": "6.461.769.716.201",
+                "4": "(325.217.271.129)"
+            },
+            {
+                "0": "Giá vốn hàng bán",
+                "1": "11",
+                "2": "6.3",
+                "3": "5.439.836.662.515",
+                "4": "191.747.318.009"
+            },
+            {
+                "0": "Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "1": "20",
+                "2": "",
+                "3": "1.021.933.053.686",
+                "4": "(516.964.589.138)"
+            },
+            {
+                "0": "Doanh thu hoạt động tài chính",
+                "1": "21",
+                "2": "6.4",
+                "3": "18.419.127.813",
+                "4": "25.325.927.068"
+            },
+            {
+                "0": "Chi phí tài chính",
+                "1": "22",
+                "2": "6.5",
+                "3": "1.237.882.364.495",
+                "4": "(1.096.326.392.178)"
+            },
+            {
+                "0": "- Trong đó: Chi phí lãi vay",
+                "1": "23",
+                "2": "",
+                "3": "390.623.265.254",
+                "4": "14.387.556.616"
+            },
+            {
+                "0": "Chi phí bán hàng",
+                "1": "25",
+                "2": "6.8",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Chi phí quản lý doanh nghiệp",
+                "1": "26",
+                "2": "6.8",
+                "3": "148.396.827.321",
+                "4": "5.725.932.594"
+            },
+            {
+                "0": "Lợi nhuận thuần từ hoạt động kinh doanh",
+                "1": "30",
+                "2": "",
+                "3": "(345.927.010.317)",
+                "4": "598.961.797.514"
+            },
+            {
+                "0": "Thu nhập khác",
+                "1": "31",
+                "2": "6.6",
+                "3": "140.618.196",
+                "4": "(259.543.637)"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "32",
+                "2": "6.7",
+                "3": "8.244.527.187",
+                "4": "1.193.320.526"
+            },
+            {
+                "0": "Lợi nhuận khác (40=31-32)",
+                "1": "40",
+                "2": "",
+                "3": "(8.103.908.991)",
+                "4": "(1.452.864.163)"
+            },
+            {
+                "0": "Tổng lợi nhuận kế toán trước thuế",
+                "1": "50",
+                "2": "",
+                "3": "(354.030.919.308)",
+                "4": "597.508.933.351"
+            },
+            {
+                "0": "Chi phí thuế TNDN hiện hành",
+                "1": "51",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Chi phí thuế TNDN hoãn lại",
+                "1": "52",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Lợi nhuận sau thuế TNDN (60=50-51-52)",
+                "1": "60",
+                "2": "",
+                "3": "(354.030.919.308)",
+                "4": "597.508.933.351"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_7",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "NGU'ÔI LẬP BIỂU\n\nLU'U TH! MINH THANH\n\nKẾ TOÁN TRƯỜNG\n\nNGUYÊN THỊ HÀ\n\nHà Nội, ngày 07 tháng 4 năm 2017\n\nTỔNG GIÁM ĐỐC\n\nNGÔ TRÍ THỊNH\n\nBáo cáo tài chính riêng này phải được đọc chung với các thuyết minh kèm theo\n\n10\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nBÁO CÁO LƯU CHUYỄN TIỀN TỆ RIÊNG (theo phương pháp gián tiếp)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\nĐơn vị: VND",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Mã số",
+                "2": "Từ 15/01/2016đến 31/12/2016",
+                "3": "Từ 01/01/2016đến 14/01/2016"
+            },
+            {
+                "0": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG SXKD",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG SXKD",
+                "2": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG SXKD",
+                "3": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG SXKD"
+            },
+            {
+                "0": "Lợi nhuận trước thuếĐiều chỉnh cho các khoản",
+                "1": "01",
+                "2": "(354.030.919.308)",
+                "3": "597.508.933.351"
+            },
+            {
+                "0": "Khấu hao TSCĐ và BĐSĐT",
+                "1": "02",
+                "2": "1.332.636.852.259",
+                "3": "57.119.388.699"
+            },
+            {
+                "0": "Các khoản dự phòng",
+                "1": "03",
+                "2": "691.574.745.410",
+                "3": "(585.573.231.656)"
+            },
+            {
+                "0": "Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+                "1": "04",
+                "2": "155.638.829.907",
+                "3": "(34.977.051.433)"
+            },
+            {
+                "0": "Lãi lỗ từ hoạt động đầu tư",
+                "1": "05",
+                "2": "(14.345.268.696)",
+                "3": "(25.235.000.000)"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "06",
+                "2": "390.623.265.254",
+                "3": "14.387.556.616"
+            },
+            {
+                "0": "Các khoản điều chỉnh khác",
+                "1": "07",
+                "2": "-",
+                "3": "73.672.668.781"
+            },
+            {
+                "0": "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+                "1": "08",
+                "2": "2.202.097.504.826",
+                "3": "96.903.264.358"
+            },
+            {
+                "0": "(Tăng)/Giảm các khoản phải thu",
+                "1": "09",
+                "2": "146.485.337.343",
+                "3": "385.009.197.216"
+            },
+            {
+                "0": "(Tăng)/Giảm hàng tồn kho",
+                "1": "10",
+                "2": "48.183.894.145",
+                "3": "21.954.427.053"
+            },
+            {
+                "0": "Tăng/(Giảm) các khoản phải trả (Không kể lãi vay phải trả và thuế TNDN phải nộp)",
+                "1": "11",
+                "2": "(117.824.298.330)",
+                "3": "103.050.228.404"
+            },
+            {
+                "0": "(Tăng)/Giảm chi phí trả trước",
+                "1": "12",
+                "2": "(29.275.914.650)",
+                "3": "(565.172.299.436)"
+            },
+            {
+                "0": "Tiền lãi vay đã trả",
+                "1": "14",
+                "2": "(382.298.882.414)",
+                "3": "(3.582.666.667)"
+            },
+            {
+                "0": "Tiền thu khác từ hoạt động kinh doanh",
+                "1": "16",
+                "2": "10.516.650.000",
+                "3": "60.000.000"
+            },
+            {
+                "0": "Tiền chi khác cho hoạt động kinh doanh",
+                "1": "17",
+                "2": "(11.465.124.799)",
+                "3": "(371.700.000)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+                "1": "20",
+                "2": "1.866.419.166.121",
+                "3": "37.850.450.928"
+            },
+            {
+                "0": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "2": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "3": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+            },
+            {
+                "0": "Tiền chi để mua sắm, xây dựng TSCĐ và TS dài hạn khác",
+                "1": "21",
+                "2": "(216.709.319.366)",
+                "3": "(19.279.828.339)"
+            },
+            {
+                "0": "Tiền thu hồi cho vay, bán công cụ nợ của đơn vị khác",
+                "1": "24",
+                "2": "21.928.012.088",
+                "3": "75.927.918"
+            },
+            {
+                "0": "Tiền chi đầu tư góp vốn vào đơn vị khác",
+                "1": "25",
+                "2": "(43.844.321.710)",
+                "3": "-"
+            },
+            {
+                "0": "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+                "1": "27",
+                "2": "14.345.268.696",
+                "3": "25.235.000.000"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+                "1": "30",
+                "2": "(224.280.360.292)",
+                "3": "6.031.099.579"
+            },
+            {
+                "0": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "3": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+            },
+            {
+                "0": "Tiền thu từ đi vay",
+                "1": "33",
+                "2": "751.401.332.755",
+                "3": "-"
+            },
+            {
+                "0": "Tiền trả nợ gốc vay",
+                "1": "34",
+                "2": "(2.130.777.153.065)",
+                "3": "(30.075.927.918)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                "1": "40",
+                "2": "(1.379.375.820.310)",
+                "3": "(30.075.927.918)"
+            },
+            {
+                "0": "LU'U CHUYÊN TIÊN THUẦN TRONG NĂM",
+                "1": "50",
+                "2": "262.762.985.519",
+                "3": "13.805.622.589"
+            },
+            {
+                "0": "Tiền và tương đương tiền đầu năm",
+                "1": "60",
+                "2": "65.847.900.361",
+                "3": "52.042.277.772"
+            },
+            {
+                "0": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+                "1": "61",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Tiền và tương đương tiền cuối năm",
+                "1": "70",
+                "2": "328.610.885.880",
+                "3": "65.847.900.361"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_8",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "NGU'ÔI LẬP BIỂU\n\nLU'U TH! MINH THANH\n\nKẾ TOÁN TRƯỜNG\n\nNGUYÊN THỊ HÀ\n\nHà Nội, ngày 07 tháng 4 năm 2017\n\nTỔNG GIÁM ĐỐC\n\nNGÔ TRÍ THỊNH\n\nBáo cáo tài chính riêng này phải được đọc chung với các thuyết minh kèm theo\n\n11\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY ME - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA DOANH NGHIỆP\n\nHình thức sở hữu vốn\n\nTổng công ty Điện lực TKV - CTCP được cổ phần hóa từ Tổng công ty Điện lực - Vinacomin (TNHH MTV) theo Quyết định số 85/QĐ-Ttg ngày 19/01/2015 của Thủ tướng Chính phủ về việc phê duyệt Phương án cổ phần hóa Công ty mẹ - Tổng công ty Điện lực - Vinacomin thuộc Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam.\n\nTổng công ty Điện lực TKV - CTCP hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp công ty cổ phần đăng ký thay đổi lần 4 ngày 15/01/2016 với mã số doanh nghiệp là 0104297034, theo đó vốn điều lệ của Tổng công ty là 6.800.000.000.000 VND được chia thành 680.000.000 cổ phần (mệnh giá cổ phần là 10.000 đồng), danh sách cổ đông tại ngày 31/12/2016 bao gồm:",
+        "dataframe": [
+            {
+                "0": "TT",
+                "1": "Tên cổ đông",
+                "2": "Số cổ phần theo điều lệ",
+                "3": "Tỷ lệ"
+            },
+            {
+                "0": "1",
+                "1": "Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
+                "2": "677.808.500",
+                "3": "99,68%"
+            },
+            {
+                "0": "2",
+                "1": "Cổ đông khác",
+                "2": "2.191.500",
+                "3": "0,32%"
+            },
+            {
+                "0": "",
+                "1": "Cộng",
+                "2": "680.000.000",
+                "3": "100%"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_9",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Ngành nghề kinh doanh và hoạt động chính\n\nHoạt động chính của Công ty mẹ là Đầu tư xây dựng, khai thác, vận hành các nhà máy nhiệt điện, các nhà máy thủy điện; Sản xuất điện; Mua bán điện; Quản lý các dự án đầu tư xây dựng công trình điện.\n\nChu kỳ sản xuất, kinh doanh thông thường\n\nChu kỳ sản xuất, kinh doanh thông thường của Công ty mẹ được thực hiện trong thời gian không quá 12 tháng.\n\nCấu trúc doanh nghiệp\n\nVăn phòng Công ty mẹ - Tổng công ty Điện lực TKV - CTCP đóng tại số 78 tầng 2 tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, quận Cầu Giấy, thành phố Hà Nội.\n\nTrong năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016, Công ty mẹ bao gồm các chi nhánh phụ thuộc sau:\n\n1. Công ty Nhiệt điện Cao Ngạn - TKV, địa chỉ tại phường Quán Triều, TP Thái Nguyên, tỉnh Thái Nguyên;\n\n2. Công ty Nhiệt điện Na Dương - TKV, địa chỉ tại xã Sản Viên, huyện Lộc Bình, tỉnh Lạng Sơn;\n\n3. Công ty Nhiệt điện Sơn Đông - TKV, địa chỉ tại xã Thanh Luận, huyện Sơn Đông, tỉnh Bắc Giang;\n\n4. Ban Quản lý Dự án Nhà máy Nhiệt điện Mạo Khê - Vinacomin, địa chỉ tại xã Bình Khê, huyện Đông Triều, tỉnh Quảng Ninh;\n\n5. Ban Quản lý Dự án Nhà máy Thủy điện Đồng Nai 5 - Vinacomin, địa chỉ tại thị trấn Lộc Thắng, huyện Bảo Lâm, tỉnh Lâm Đồng.\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n12\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MÊ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n6. Công ty Nhiệt điện Đông Triều - TKV, địa chỉ tại xã Bình Khê, huyện Đông Triều, tỉnh Quảng Ninh.\n\n7. Công ty Thủy điện Đồng Nai 5 - TKV, địa chỉ tại thị trấn Lộc Thắng, huyện Bảo Lâm, tỉnh Lâm Đồng.\n\n2 CO' SÔ' LẬP BÁO CÁO TÀI CHÍNH\n\nChuẩn mực và chế độ kế toán áp dụng\n\nCông ty mẹ áp dụng chế độ kế toán Doanh nghiệp được ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ tài chính và Thông tư số 53/2016/TT-BTC ngày 21/3/2016 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 200/2014/TT-BTC ngày 22/12/2014 Hướng dẫn chế độ kế toán doanh nghiệp.\n\n3 NĂM TÀI CHÍNH, ĐƠN VỊ TIỀN TỆ SỬ DỤNG TRONG KẾ TOÁN\n\nNăm tài chính của Công ty mẹ bắt đầu từ ngày 01/01 và kết thúc vào ngày 31/12 năm dương lịch.\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 là năm tài chính đầu tiên của Công ty mẹ - Tổng Công ty Điện lực TKV - CTCP.\n\nĐơn vị tiền tệ sử dụng trong kế toán là đồng Việt Nam (VND).\n\n4 TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN QUAN TRỌNG\n\n4.1 U'óc tính kê toán\n\nViệc lập Báo cáo tài chính riêng cho năm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016 của Công ty mẹ tuân thủ theo các chuẩn mục kế toán Việt Nam, chế độ kế toán Việt Nam yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày kết thúc năm tài chính cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt năm tài chính. Kết quả hoạt động kinh doanh thực tế có thể khác với các ước tính, giả định đặt ra.\n\n4.2 Tiền và các khoản tương đương tiền\n\nTiền bao gồm tiền mặt tại quỹ, các khoản tiền gửi ngân hàng (không kỳ hạn).\n\nCác khoản tương đương tiền là các khoản đầu tư ngắn hạn có thời hạn thu hồi hoặc đáo hạn không quá 3 tháng có khả năng chuyển đổi thành một lượng tiền xác định và không có rủi ro trong chuyển đổi thành tiền kể từ ngày mua khoản đầu tư đó tại thời điểm báo cáo.\n\n4.3 Các giao dịch ngoại tệ\n\nCác nghiệp vụ phát sinh bằng đồng tiền khác ngoài đồng Việt Nam (VND) được chuyển đổi thành đồng Việt Nam theo tỷ giá thực tế tại thời điểm phát sinh nghiệp vụ. Các khoản chênh lệch tỷ giá đã thực hiện phát sinh trong năm tài chính được ghi nhận vào chi phí hoặc doanh thu hoạt động tài chính trong năm.\n\nSố dư các tài sản bằng tiền, tương đương tiền và công nợ có gốc là ngoại tệ vào ngày kết thúc năm tài chính được quy đổi sang đồng Việt Nam theo tỷ giá giao dịch của các ngân\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n13\n\nM.S.D.N.O3\nTRÁC\n★\nΘ\n. THAN\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\nhàng thương mại có tài khoản giao dịch tại ngày kết thúc năm tài chính. Tỷ giá áp dụng đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ cuối năm áp dụng thống nhất trong Tổng Công ty được thực hiện theo Công văn số 04/TKV-KT ngày 03/01/2017 của Tập đoàn, cụ thể như sau:\n\n- Các khoản tiền gửi, tiền tồn quỹ và các khoản phải thu ngoài TKV có gốc ngoại tệ quy đổi theo tỷ giá mua vào của Ngân hàng là 22.720 VND/USD.\n\n- Các khoản công nợ phải trả, tiền vay ngoài TKV có gốc ngoại tệ quy đổi theo tỷ giá bán ra của Ngân hàng là 22.790 VND/USD.\n\n- Các khoản công nợ phải thu, phải trả trong TKV có gốc ngoại tệ quy đổi theo tỷ giá bán ra của Ngân hàng là 22.790 VND/USD.\n\n- Các loại ngoại tệ khác (nếu có) được căn cứ vào thông báo của Ngân hàng hoặc quy đổi qua đồng đồ la Mỹ theo nguyên tắc như hướng dẫn nếu trên.\n\nCác khoản chênh lệch tỷ giá phát sinh do đánh giá lại các số dư tại ngày kết thúc năm tài chính được ghi nhận vào chi phí hoặc doanh thu hoạt động tài chính trong năm tài chính theo chuẩn mục kế toán số 10 “Ảnh hưởng của việc thay đổi tỷ giá hối đoái”.\n\nKhoản chênh lệch tỷ giá do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm chính thức chuyển thành công ty cổ phần của Công ty mẹ - Tổng công ty Điện lực – TKV được phân bổ không quá 5 năm (bắt đầu từ thời điểm 15/01/2016) theo hướng dẫn tại Công văn số 558/BTC-TCDN ngày 13/01/2017 của Bộ Tài chính.\n\n4.4 Nợ phải thu\n\nCác khoản phải thu trình bày trong Báo cáo tài chính theo giá trị ghi sổ phải thu từ khách hàng cửa Công ty mẹ và các khoản phải thu khác cộng với dự phòng nợ phải thu khó đòi. Tại thời điểm báo cáo, nếu:\n\n- Khoản phải thu có thời gian thu hồi hoặc thanh toán từ 01 năm trở xuống (hoặc trong một chu kỳ sản xuất kinh doanh) được phân loại là Tài sản ngắn hạn;\n\n- Khoản phải thu có thời gian thu hồi hoặc thanh toán trên 01 năm (hoặc nhiều hơn một chu kỳ sản xuất kinh doanh) được phân loại là Tài sản dài hạn.\n\nDự phòng nợ phải thu khó đòi thể hiện phần giá trị dự kiến bị tổn thất do các khoản phải thu không được khách hàng thanh toán phát sinh đối với số dự các khoản phải thu vào ngày kết thúc năm tài chính.\n\nDự phòng nợ phải thu khó đòi được trích lập cho những khoản phải thu đã quá hạn thanh toán từ sáu tháng trở lên hoặc các khoản phải thu mà khách nợ khó có khả năng thanh toán do bị thanh lý, phá sẵn hay các khó khăn tương tự (không bao gồm những khách hàng đã quá hạn trên nhưng đang tiến hành thanh toán hoặc có cam kết thanh toán trong thời gian tới).\n\n4.5 Hàng tồn kho\n\nHàng tồn kho tại thời điểm 31/12/2016 được ghi nhận theo giá gốc.\n\nGiá gốc hàng tồn kho bao gồm chỉ phí mua, chế biến và các chỉ phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái sẵn sàng sử dụng.\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n14\n\n344064\nÔNG T\nNHIÊM H\nPKF\nIÊT NJ\nYUÂN\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\nGiá trị thuần có thể thực hiện được của hàng tồn kho là giá bán ước tính của hàng tồn kho trong năm sản xuất, kinh doanh bình thường trừ chi phí ước tính để hoàn thành sản phẩm và chỉ phí ước tính cần thiết cho việc tiêu thụ chúng.\n\nCông ty mẹ áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho với giá trị được xác định theo như sau:\n\n- Nguyên vật liệu, công cụ dụng cụ, vật tư và hàng hoá được xác định theo các phương pháp nhập trước xuất trước và bình quân gia quyền.\n\nDự phòng giảm giá hàng tồn kho được trích lập cho các vật tự, hàng hóa tồn kho có giá gốc lớn hơn giá trị thuần có thể thực hiện được theo quy định tại Chuẩn mực kế toán Việt Nam số 02 \"Hàng tồn kho\" và Thông tư số 228/2009/TT - BTC ngày 07/12/2009 của Bộ Tài chính về việc hướng dẫn trích lập và sử dụng các khoản dự phòng giảm giá hàng tồn kho, tổn thất các khoản đầu tư tài chính, nợ phải thu khó đòi và bảo hành sản phẩm, hàng hóa, công trình xây lắp tại doanh nghiệp.\n\n4.6 Tài sản cố định và khấu hao tài sản cố định\n\n4.6.1 Tài sản cố định hữu hình\n\nĐối với những tài sản cố định hữu hình đưa vào sử dụng trước ngày 01/4/2014\n\nNguyên giá và giá trị còn lại của các tài sản đưa vào sử dụng trước ngày 01/4/2014 được ghi nhận theo giá trị đánh giá lại theo Quyết định phê duyệt số 1930/QĐ-HĐTV ngày 29/8/2014 của Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam.\n\nĐối với những tài sản cố định hữu hình đưa vào sử dụng sau ngày 01/4/2014\n\nTài sản cố định được phần ánh theo nguyên giá và giá trị hao mòn luỹ kê.\n\nNguyên giá tài sản cố định hữu hình tăng sau ngày 01/4/2014 bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng. Nguyên giá tài sản cố định hữu hình do tự làm, tự xây dựng bao gồm chi phí xây dựng, chi phí sẵn xuất thực tế phát sinh cộng chi phí lắp đặt và chạy thử. Các chi phí nâng cấp tài sẵn cố định hữu hình được vốn hóa, ghi tăng nguyên giá tài sản cố định; các chi phí bảo trì, sửa chữa được tính vào kết quả hoạt động kinh doanh trong năm. Khi tài sản cố định hữu hình được bán hay thanh lý, nguyên giá và giá trị hao mòn lũy kế được xóa sổ và bất kỳ các khoản lãi lỗ nào phát sinh do thanh lý tài sản cố định hữu hình đều được hạch toán vào kết quả hoạt động kinh doanh.\n\nKhấu hao tài sản cố định hữu hình được tính theo phương pháp đường thẳng, áp dụng cho tất cả các tài sản theo tỷ lệ được tính toán để phân bổ nguyên giá trong suốt thời gian ước tính sử dụng và phù hợp với hướng dẫn tại Thông tư 45/2013/TT-BTC ngày 25/04/2013 của Bộ Tài chính về việc hướng dẫn Chế độ quản lý, sử dụng và trích khấu hao tài sản cố định.\n\nThời gian trích khấu hao tài sản cố định hữu hình của Công ty mẹ như sau:",
+        "dataframe": [
+            {
+                "0": "Nhà cửa, vật kiến trúc",
+                "1": "5 - 50 năm"
+            },
+            {
+                "0": "Máy móc, thiết bị",
+                "1": "3 - 20 năm"
+            },
+            {
+                "0": "Phương tiện vận tải, truyền dẫn",
+                "1": "2 - 12 năm"
+            },
+            {
+                "0": "Thiết bị dụng cụ, quản lý",
+                "1": "3 - 6 năm"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_10",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n15\n\nC.T.T.A\nU HAN\nM\nI.P.HA\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY ME - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n4.6.2 Tài sản cố định vô hình\n\nĐối với những tài sản cố định hữu hình đưa vào sử dụng trước ngày 01/4/2014\n\nNguyên giá và giá trị còn lại của các tài sản cố định vô hình đưa vào sử dụng trước ngày 01/4/2014 được ghi nhận theo giá trị đánh giá lại theo Quyết định phê duyệt số 1930/QĐ-HĐTV ngày 29/8/2014 của Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam.\n\nĐối với những tài sản cố định hữu hình đưa vào sử dụng sau ngày 01/4/2014\n\nNguyên giá tài sản cố định vô hình tăng sau ngày 01/4/2014 bao gồm giá mua và các chi phí trực tiếp liên quan đến việc chuẩn bị để đưa tài sản vào trạng thái sẵn sàng sử dụng. Các chi phí nâng cấp tài sản được vốn hóa vào nguyên giá tài sản cố định; các chi phí khác được tính vào kết quả hoạt động kinh doanh trongnăm. Khi tài sản cố định vô hình được bán hay thanh lý, nguyên giá và giá trị hao mòn lũy kế được xóa số và bất kỳ các khoản lãi lỗ nào phát sinh do thanh lý tài sản cố định hữu hình đều được hạch toán vào kết quả hoạt động kinh doanh.\n\nKhấu hao tài sản cố định vô hình được tính theo phương pháp đường thẳng, áp dụng cho tất cả các tài sản theo tỷ lệ được tính toán để phân bổ nguyên giá trong suốt thời gian ước tính sử dụng và phù hợp với hướng dẫn tại Thông tư 45/2013/TT-BTC ngày 25/04/2013 của Bộ Tài chính về việc hướng dẫn Chế độ quản lý, sử dụng và trích khấu hao tài sản cố định.\n\nThời gian trích khấu hao của tài sản cố định vô hình của công ty như sau:\n\n- Phàn mềm máy tính 3 - 6 năm\n\n- Quyền sử dụng đất 8 - 50 năm\n\n- Tài sản cố định vô hình khác 6 năm\n\n4.7 Các khoản đầu tư tài chính\n\nCác khoản đầu tư tài chính được kế toán theo phương pháp giá gốc. Theo đó, các khoản đầu tư chỉ được ghi nhận ban đầu theo giá gốc, sau đó không được điều chỉnh theo những thay đổi của phần sở hữu của Công ty mẹ trong tài sản thuần của bên nhận đầu tư. Công ty mẹ chỉ hạch toán vào thu nhập trên báo cáo kết quả hoạt động kinh doanh riêng khoản được chia từ lợi nhuận thuần luỹ kế của bên nhận đầu tư phát sinh sau ngày đầu tư. Các khoản khác mà Công ty mẹ nhận được ngoài lợi nhuận được chia được coi là phần thu hồi các khoản đầu tư và được ghi nhận là khoản giảm trừ giá gốc khoản đầu tư.\n\nCác khoản đầu tư tài chính tại thời điểm báo cáo, nếu:\n\n(i) Có thời hạn thu hồi hoặc đáo hạn không quá 90 ngày kể từ ngày mua khoản đầu tư đó được coi là “tương đương tiền”;\n\n(ii) Có thời hạn thu hồi vốn dưới 1 (một) năm hoặc trong 1 (một) chu kỳ kinh doanh được phân loại là tài sản ngắn hạn;\n\n(iii) Có thời hạn thu hồi vốn trên 1 (một) năm hoặc trên 1 (một) chu kỳ kinh doanh được phân loại là tài sản dài hạn (các khoản đầu tư tài chính dài hạn).\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n16\n\nM.S.D.N.\n\n★★\n\n\n\nTẬP ĐOÀN CÔNG NGHIÊP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY ME - TỔNG CÔNG TY ĐIÊN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\nCác khoản đầu tư tài chính dài hạn:\n\n+ Công ty con là công ty mà Công ty mẹ có quyền chi phối các chính sách và hoạt động nhằm thu được lợi ích kinh tế từ hoạt động kinh doanh.\n\n+ Các khoản góp vốn liên doanh là thỏa thuận trên cơ sở ký kết hợp đồng mà theo đó Công ty mẹ và các bên tham gia thực hiện hoạt động kinh tế trên cơ sở đồng kiểm soát cơ sở đồng kiểm soát được hiểu là việc đưa ra các quyết định mang tính chiến lược liên quan đến các chính sách hoạt động và tài chính của đơn vị liên doanh phải có sự đồng thuận của các bên đồng kiểm soát.\n\n+ Công ty liên kết là một công ty mà Công ty mẹ có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của Công ty mẹ. Ảnh hưởng đáng kể thể hiện ở quyền tham gia vào việc đưa ra các quyết định về chính sách và hoạt động của bên đầu tư nhưng không có ảnh hưởng về mặt kiểm soát hoặc đồng kiểm soát những chính sách này.\n\n+ Các khoản đầu tư dài hạn khác bao gồm các khoản đầu tư cổ phiếu, góp vốn vào các đơn vị khác với tỷ lệ nhỏ hơn 20% vốn điều lệ của công ty nhận đầu tư, các khoản cho vay và đầu tư dài hạn khác. Các khoản đầu tư này được phần ánh theo giá gốc.\n\nDự phòng giảm giá đầu tư được lập vào thời điểm cuối năm tài chính là số chênh lệch giữa giá gốc của các khoản đầu tư được hạch toán trên số kế toán lớn hơn giá trị thị trường của chúng tại thời điểm lập dự phòng. Việc trích lập và hoàn nhập các khoản dự phòng giảm giá đầu tư được thực hiện theo Thông tư 228/2009/TT-BTC ban hành ngày 07/12/2009 và Thông tư 89/2013/TT-BTC ban hành ngày 28/06/2013 của Bộ Tài chính.\n\n4.8 Chi phí đi vay và vốn hoá các khoản chi phí đi vay\n\nChi phí đi vay bao gồm các khoản lãi tiền vay, các khoản chi phí khác phát sinh liên quan tới quá trình làm thủ tục vay, có liên quan trực tiếp đến việc đầu tư xây dựng hoặc sản xuất một tài sản dở dang được tính vào giá trị của tài sản đó (được vốn hoá) khi có đủ điều kiện theo quy định tại chuẩn mục chi phí đi vay. Các chi phí đi vay được vốn hoá khi doanh nghiệp chắc chắn thu được lợi ích trong tương lai do sử dụng tài sản đó và chi phí lãi vay có thể xác định được một cách đáng tin cây. Việc vốn hoá các chi phí đi vay sẽ chấm dứt khi các hoạt động chủ yếu cần thiết cho việc chuẩn bị đưa tài sản dở dang vào sử dụng hoặc bán đã hoàn thành. Chi phí đi vay phát sinh sau đó được ghi nhận là chi phí hoạt động kinh doanh trong năm.\n\nChi phí đi vay được vốn hóa trong năm tài chính không được vượt quá tổng số chi phí đi vay phát sinh trong năm tài chính. Các khoản lãi tiền vay và khoản phân bổ chiết khấu hoặc phụ trội được vốn hóa trong từng năm không vượt quá số lãi vay thực tế phát sinh và số phân bổ chiết khấu hoặc phụ trội trong năm tài chính đó.\n\n4.9 Chi phí xây dựng đồ dang\n\nChi phí xây dựng cơ bản dở dang bao gồm các khoản chi phí đầu tư hình thành tài sản cố định (chi phí mua sắm tài sản cố định, đầu tư xây dựng cơ bản) và chi phí sửa chữa tài sản cố định còn chưa hoàn thành tại ngày kết thúc năm tài chính. Chi phí xây dựng cơ bản\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n17\n\nVIE RACH NI CO 03134\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY ME - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\nđược ghi nhận theo giá gốc. Tài sản sau khi kết thúc quá trình đầu tư sẽ được trích khấu hao giống như các tài sản cố định khác, bắt đầu từ khi tài sản được đưa vào sử dụng.\n\nTheo quy định về quản lý đầu tư xây dựng của Nhà nước, các công trình xây dựng cơ bản hoàn thành và mua sắm máy móc, thiết bị hoàn thành cần được các cơ quan có thẩm quyền về quản lý đầu tư phê duyệt. Do đó, giá trị cuối cùng về các công trình xây dựng cơ bản và mua sắm máy móc thiết bị này sẽ phụ thuộc vào phê duyệt của cơ quan có thẩm quyền.\n\n4.10 Chi phí trả trước\n\nChi phí trả trước bao chi phí trả trước ngắn hạn và chi phí trả trước dài hạn trên bằng cân đối kế toán riêng và được phân bổ trong thời gian trả trước của chi phí tương ứng với các lợi ích kinh tế được tạo ra từ chi phí này.\n\nChi phí trả trước chữ yếu là giá trị của các công cụ, dụng cụ xuất dùng chờ phân bổ, tiền thuê nhà trả trước nhiều năm và các chi phí trả trước khác.\n\n4.11 Nợ phải trả\n\nCác khoản phải trả trình bày trong Báo cáo tài chính theo giá trị ghi số phải trả từ khách hàng của Công ty mẹ và các khoản phải trả khác và được chi tiết cho từng đối tượng phải trả. Tại thời điểm báo cáo, nếu:\n\n- Khoản phải trả có thời hạn thanh toán từ 1 năm trở xuống (hoặc trong một chu kỳ sản xuất kinh doanh) được phân loại là ngắn hạn;\n\n- Khoản phải trả có thời hạn thanh toán trên 1 năm (hoặc nhiều hơn một chu kỳ sản xuất kinh doanh) được phân loại là dài hạn;\n\n4.12 Chi phí phải trả\n\nChi phí phải trả bao gồm giá trị các khoản chi phí đã được tính vào chi phí hoạt động kinh doanh trong năm, nhưng chưa được thực chi tại thời điểm kết thúc năm tài chính để đảm bảo khi chi phí phát sinh thực tế không gây đột biến cho chi phí hoạt động kinh doanh trên cơ sở đảm bảo nguyên tắc phù hợp giữa doanh thu và chi phí. Khi các chi phí đó phát sinh, nếu có chênh lệch với số đã trích, kế toán tiến hành ghi bổ sung hoặc ghi giảm chi phí phần chênh lệch tương ứng.\n\n4.13 Vốn chủ sở hữu\n\nVốn đầu tư của chủ sở hữu của Công ty mẹ thuộc Nhà nước sở hữu do Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam quản lý.\n\nNguồn vốn kinh doanh được thể hiện trên Báo cáo tài chính của Công ty mẹ bao gồm nguồn vốn góp của các cổ đông, nguồn vốn tự bổ sung từ lợi nhuận hàng năm.\n\n4.14 Doanh thu\n\nDoanh thu được ghi nhận khi kết quả giao dịch được xác định một cách đáng tin cây và Công ty mẹ có khả năng thu được lợi ích kinh tế từ giao dịch này.\n\n(i) Doanh thu bán hàng được ghi nhận khi phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu hàng hóa đã được chuyển giao cho người mua và hàng hóa đã được giao cho người mua và được chấp nhận của khách hàng.\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n18\n\n\\( \\left\\| \\frac{1}{2} \\right|_{N A} \\) \\( \\left\\| \\frac{1}{2} \\right|_{E F} \\) \\( \\left\\| \\frac{1}{2} \\right|_{E M H} \\) \\( \\left\\| \\frac{1}{2} \\right|_{M G T} \\) \\( \\left\\| \\frac{1}{2} \\right|_{O C A} \\)\n\n\n\nTẬP ĐOÀN CÔNG NGHIÊP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY ME - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n(ii) Doanh thu xây dựng được ghi nhận tương ứng với phần công việc đã hoàn thành được khách hàng xác nhận trong năm, khi Công ty mẹ đảm bảo thu được lợi ích từ hợp đồng xây dựng và chi phí để hoàn thành phần công việc đã hoàn thành tại thời điểm lập Báo cáo tài chính được tính toán một cách tin cây.\n\n(iii) Doanh thu cung cấp dịch vụ được ghi nhận khi phần lớn rủi ro và lợi ích đã được chuyển giao cho khách hàng, dịch vụ đã được cung cấp và được khách hàng chấp nhận.\n\n(iv) Doanh thu hoạt động tài chính bao gồm doanh thu phát sinh từ lãi tiền gửi, lãi tiền cho vay, lãi chênh lệch tỷ giá, và các khoản doanh thu hoạt động tài chính khác. Lãi tiền gửi, lãi tiền vay được xác định trên cơ sở dồn tích, được xác định trên số dư các khoản tiền gửi và lãi suất áp dụng.\n\n(v) Lãi từ các khoản đầu tư được ghi nhận khi Công ty mẹ có quyền nhận khoản lãi.\n\n4.15 Chi phí hoạt động tài chính\n\nChi phí tài chính của Công ty mẹ bao gồm các khoản chi phí lãi tiền vay không được vốn hoá theo quy định và các chi phí khác phát sinh trong năm tài chính. Trong đó chi phí lãi tiền vay là lãi vay phải trả trong năm của các khoản vay ngắn hạn và dài hạn của Công ty mẹ.\n\n4.16 Thuế\n\nThuế Giá trị gia tăng: các sản phẩm của Công ty mẹ chịu thuế suất 10%\n\nThuế Thu nhập Doanh nghiệp: thể hiện tổng giá trị của số thuế phải trả hiện tại và số thuế hoãn lại.\n\nSố thuế hiện tại phải trả được tính dựa trên thu nhập chịu thuế trong năm. Thu nhập chịu thuế khác với lợi nhuận thuần được trình bày trên báo cáo kết quả hoạt động kinh doanh riêng vi thu nhập chịu thuế không bao gồm các khoản thu nhập hay chi phí tính thuế hoặc được khấu trừ trong các năm khác (bao gồm cả lỗ mang sang, nếu có) và ngoài ra không bao gồm các chỉ tiêu không chịu thuế hoặc không được khấu trừ.\n\nViệc xác định thuế thu nhập của Công ty mẹ căn cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm tra của cơ quan thuế có thẩm quyền.\n\nThuế thu nhập hoãn lại được tính trên các khoản chênh lệch giữa giá trị ghi sổ và cơ sở tính thuế thu nhập doanh nghiệp của các khoản mục tài sản hoặc công nợ trên Báo cáo tài chính riêng và được ghi nhận theo phương pháp dựa trên bằng cân đối kế toán. Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời còn tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắc có đủ lợi nhuận tính thuế trong tương lai để khấu trừ các khoản chênh lệch tạm thời.\n\nThuế thu nhập hoãn lại được xác định theo thuế suất dự tính sẽ áp dụng cho năm tài sản được thu hồi hay nợ phải trả được thanh toán. Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh trừ trường hợp khoản thuế đó có liên quan đến các\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n19\n\nC.T.T.A.\nJ HAN\nA PHA\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\nkhoin mục được ghi thẳng vào vốn chủ sở hữu. Trong trường hợp đó, thuế thu nhập hoãn lại cũng được ghi thẳng vào vốn chủ sở hữu.\n\nTài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được bù trừ khi Công ty mẹ có quyền hợp pháp để bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và khi các tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả liên quan đến thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế và Công ty mẹ có dự định thanh toán thuế thu nhập hiện hành trên cơ sở thuần. Công ty mẹ không ghi nhận thuế thu nhập hoãn lại do các khoản chênh lệch giữa giá trị ghi sổ cửa các khoản mục tài sản hoặc công nợ trên Bằng cân đối kế toán và cơ sở tính thuế thu nhập là không trọng yếu tại ngày 31/12/2016.\n\nCác loại thuế khác: theo quy định hiện hành của Việt Nam.\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời cửa Báo cáo tài chính riêng\n\n20\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY ME - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n5 THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRONG BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG\n\n5.1 Tiền",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "31/12/2016(VND)",
+                "3": "15/01/2016(VND)"
+            },
+            {
+                "0": "Tiền mặt tại quỹ",
+                "1": "(i)",
+                "2": "665.429.248",
+                "3": "863.233.731"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "(ii)",
+                "2": "47.945.456.632",
+                "3": "64.984.666.630"
+            },
+            {
+                "0": "Cộng",
+                "1": "",
+                "2": "48.610.885.880",
+                "3": "65.847.900.361"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_11",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "(i) Số dư tiền mặt tại quỹ vào ngày 31/12/2016 bao gồm:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nguyên tệ",
+                "2": "VND"
+            },
+            {
+                "0": "Ngoại tệ",
+                "1": "",
+                "2": "-"
+            },
+            {
+                "0": "Đồng Việt Nam",
+                "1": "",
+                "2": "665.429.248"
+            },
+            {
+                "0": "Cộng",
+                "1": "",
+                "2": "665.429.248"
+            },
+            {
+                "0": "Ngoại tệ (USD)",
+                "1": "0,04 #",
+                "2": "912"
+            },
+            {
+                "0": "Đồng Việt Nam",
+                "1": "",
+                "2": "47.945.455.720"
+            },
+            {
+                "0": "Cộng",
+                "1": "",
+                "2": "47.945.456.632"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_12",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n21\n\n03134\nCÔI\nRÁCH NF\nP\nVIỆ\nVH XU\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng H",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016(VND)",
+                "2": "31/12/2016(VND)",
+                "3": "31/12/2016(VND)",
+                "4": "15/01/2016(VND)",
+                "5": "15/01/2016(VND)",
+                "6": "15/01/2016(VND)"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Giá trị hợp lý",
+                "3": "Dự phòng",
+                "4": "Giá gốc",
+                "5": "Giá trị hợp lý",
+                "6": "Dự phòng"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "2.868.398.499.205",
+                "2": "2.181.885.083.795",
+                "3": "(686.513.415.410)",
+                "4": "2.824.554.177.495",
+                "5": "2.824.554.177.495",
+                "6": "-"
+            },
+            {
+                "0": "Đầu tư góp vốn vào đơn vị khác",
+                "1": "2.868.398.499.205",
+                "2": "2.181.885.083.795",
+                "3": "(686.513.415.410)",
+                "4": "2.824.554.177.495",
+                "5": "2.824.554.177.495",
+                "6": "-"
+            },
+            {
+                "0": "Đầu tư vào Công ty con:",
+                "1": "1.883.306.772.926",
+                "2": "1.384.412.157.799",
+                "3": "(498.894.615.127)",
+                "4": "1.883.306.772.926",
+                "5": "1.883.306.772.926",
+                "6": "-"
+            },
+            {
+                "0": "- Công ty CP Nhiệt điện Cẩm Phả",
+                "1": "1.757.179.069.334",
+                "2": "1.258.284.454.207",
+                "3": "(498.894.615.127)",
+                "4": "1.757.179.069.334",
+                "5": "1.757.179.069.334",
+                "6": "-"
+            },
+            {
+                "0": "- Công ty CP Than điện Nông Sơn",
+                "1": "126.127.703.592",
+                "2": "126.127.703.592",
+                "3": "-",
+                "4": "126.127.703.592",
+                "5": "126.127.703.592",
+                "6": "-"
+            },
+            {
+                "0": "Đầu tư vào đơn vi khác:",
+                "1": "985.091.726.279",
+                "2": "797.472.925.996",
+                "3": "(187.618.800.283)",
+                "4": "941.247.404.569",
+                "5": "941.247.404.569",
+                "6": "-"
+            },
+            {
+                "0": "- Công ty TNHH Điện lực Vĩnh Tân",
+                "1": "146.750.416.279",
+                "2": "146.750.416.279",
+                "3": "-",
+                "4": "102.906.094.569",
+                "5": "102.906.094.569",
+                "6": "-"
+            },
+            {
+                "0": "- Công ty CP Nhiệt điện Hải Phòng",
+                "1": "360.500.000.000",
+                "2": "360.500.000.000",
+                "3": "-",
+                "4": "360.500.000.000",
+                "5": "360.500.000.000",
+                "6": "-"
+            },
+            {
+                "0": "- Công ty CP Nhiệt điện Quảng Ninh",
+                "1": "477.841.310.000",
+                "2": "290.222.509.717",
+                "3": "(187.618.800.283)",
+                "4": "477.841.310.000",
+                "5": "477.841.310.000",
+                "6": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "2.868.398.499.205",
+                "2": "2.181.885.083.795",
+                "3": "(686.513.415.410)",
+                "4": "2.824.554.177.495",
+                "5": "2.824.554.177.495",
+                "6": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_13",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "22\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n\\( \\left\\| \\begin{array}{c:c} N & T \\\\ A & N \\end{array} \\right. \\) \\( \\left\\| \\begin{array}{c:c} E & M \\\\ H & G \\end{array} \\right. \\) \\( \\left\\| \\begin{array}{c:c} O & 6 \\\\ A & C \\end{array} \\right. \\)\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\nCÔNG TY ME - TỔNG CÔNG TY ĐIÊN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\nTóm tắt tình hình hoạt động của các công ty con, công ty liên doanh, liên kết tại ngày 31/12/2016",
+        "dataframe": [
+            {
+                "0": "Tên công ty",
+                "1": "Nơi thành lập và hoạt động",
+                "2": "Tỷ lệ lợi ích",
+                "3": "Tỷ lệ biểu quyết",
+                "4": "Hoạt động kinh doanh chính"
+            },
+            {
+                "0": "Đầu tư vào công ty con:",
+                "1": "Đầu tư vào công ty con:",
+                "2": "Đầu tư vào công ty con:",
+                "3": "Đầu tư vào công ty con:",
+                "4": "Đầu tư vào công ty con:"
+            },
+            {
+                "0": "Công ty CP Nhiệt điện Cẩm Phả - TKV",
+                "1": "Quảng Ninh",
+                "2": "89,21%",
+                "3": "89,21%",
+                "4": "Sản xuất, truyền tải và phân phối điện"
+            },
+            {
+                "0": "Công ty CP Than Điện Nông Sơn – TKV",
+                "1": "Quảng Nam",
+                "2": "88,77%",
+                "3": "88,77%",
+                "4": "Sản xuất than và sản xuất điện"
+            },
+            {
+                "0": "Đầu tư vào Công ty khác:",
+                "1": "Đầu tư vào Công ty khác:",
+                "2": "Đầu tư vào Công ty khác:",
+                "3": "Đầu tư vào Công ty khác:",
+                "4": "Đầu tư vào Công ty khác:"
+            },
+            {
+                "0": "Công ty TNHH Điện lực Vĩnh Tân",
+                "1": "Bình Thuận",
+                "2": "5%",
+                "3": "5%",
+                "4": "Sản xuất, truyền tải và phân phối điện"
+            },
+            {
+                "0": "Công ty CP Nhiệt điện Hải Phòng",
+                "1": "Hải Phòng",
+                "2": "7,21%",
+                "3": "7,21%",
+                "4": "Sản xuất, truyền tải và phân phối điện"
+            },
+            {
+                "0": "Công ty CP Nhiệt điện Quảng Ninh",
+                "1": "Quảng Ninh",
+                "2": "10,62%",
+                "3": "10,62%",
+                "4": "Sản xuất, truyền tải và phân phối điện"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_14",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "23\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIÊT NAM\n\nCÔNG TY ME - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐia chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n5.3 Phải thu về cho vay\n\n31/12/2016",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "(VND)",
+                "2": "(VND)",
+                "3": "(VND)",
+                "4": "(VND)",
+                "5": "(VND)",
+                "6": "(VND)"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Giá trị hợp lý",
+                "3": "Dự phòng",
+                "4": "Giá gốc",
+                "5": "Giá trị hợp lý",
+                "6": "Dự phòng"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "511.993.604.334",
+                "2": "511.993.604.334",
+                "3": "-",
+                "4": "676.917.444.885",
+                "5": "676.917.444.885",
+                "6": "-"
+            },
+            {
+                "0": "Công ty CP Nhiệt điện Cẩm Phả - TKV",
+                "1": "508.346.258.498",
+                "2": "508.346.258.498",
+                "3": "-",
+                "4": "501.431.500.266",
+                "5": "501.431.500.266",
+                "6": "-"
+            },
+            {
+                "0": "+ Gốc vay",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "+ Cho vay dài hạn đến hạn trả",
+                "1": "508.346.258.498",
+                "2": "508.346.258.498",
+                "3": "-",
+                "4": "501.431.500.266",
+                "5": "501.431.500.266",
+                "6": "-"
+            },
+            {
+                "0": "Công ty CP Than Điện Nông Sơn - TKV",
+                "1": "3.647.345.836",
+                "2": "3.647.345.836",
+                "3": "-",
+                "4": "175.485.944.619",
+                "5": "175.485.944.619",
+                "6": "-"
+            },
+            {
+                "0": "+ Gốc vay",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "18.356.594.170",
+                "5": "18.356.594.170",
+                "6": "-"
+            },
+            {
+                "0": "+ Cho vay dài hạn đến hạn trả",
+                "1": "3.647.345.836",
+                "2": "3.647.345.836",
+                "3": "-",
+                "4": "157.129.350.449",
+                "5": "157.129.350.449",
+                "6": "-"
+            },
+            {
+                "0": "Dải hạn",
+                "1": "2.552.685.824.033",
+                "2": "2.552.685.824.033",
+                "3": "-",
+                "4": "2.883.382.545.207",
+                "5": "2.883.382.545.207",
+                "6": "-"
+            },
+            {
+                "0": "Công ty CP Nhiệt điện Cẩm Phả - TKV",
+                "1": "2.292.254.857.539",
+                "2": "2.292.254.857.539",
+                "3": "-",
+                "4": "2.772.942.083.098",
+                "5": "2.772.942.083.098",
+                "6": "-"
+            },
+            {
+                "0": "Công ty CP Than Điện Nông Sơn - TKV",
+                "1": "260.430.966.494",
+                "2": "260.430.966.494",
+                "3": "-",
+                "4": "110.440.462.109",
+                "5": "110.440.462.109",
+                "6": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "3.064.679.428.367",
+                "2": "3.064.679.428.367",
+                "3": "-",
+                "4": "3.560.299.990.092",
+                "5": "3.560.299.990.092",
+                "6": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_15",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n24\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n5.4 Phải thu khách hàng",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "31/12/2016(VND)",
+                "3": "15/01/2016(VND)"
+            },
+            {
+                "0": "a.",
+                "1": "Ngắn hạn",
+                "2": "1.404.975.769.750",
+                "3": "1.501.967.164.474"
+            },
+            {
+                "0": "a.",
+                "1": "Công ty Mua bán điện",
+                "2": "1.399.557.641.042",
+                "3": "1.500.866.757.437"
+            },
+            {
+                "0": "a.",
+                "1": "Các khách hàng khác",
+                "2": "5.418.128.708",
+                "3": "1.100.407.037"
+            },
+            {
+                "0": "b.",
+                "1": "Dải hạn",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "b.",
+                "1": "Cộng",
+                "2": "1.404.975.769.750",
+                "3": "1.501.967.164.474"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_16",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "5.5 Phải thu khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "31/12/2016(VND)",
+                "4": "31/12/2016(VND)",
+                "5": "15/01/2016(VND)",
+                "6": "15/01/2016(VND)"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "Giá trị",
+                "4": "Dự phòng",
+                "5": "Giá trị",
+                "6": "Dự phòng"
+            },
+            {
+                "0": "a.",
+                "1": "Ngắn hạn",
+                "2": "",
+                "3": "236.620.005.395",
+                "4": "",
+                "5": "293.412.340.386",
+                "6": "-"
+            },
+            {
+                "0": "a.",
+                "1": "Phải thu về lãi cho vay",
+                "2": "(i)",
+                "3": "206.544.019.958",
+                "4": "-",
+                "5": "200.144.032.111",
+                "6": "-"
+            },
+            {
+                "0": "a.",
+                "1": "Phải thu khác",
+                "2": "(ii)",
+                "3": "30.075.985.437",
+                "4": "-",
+                "5": "93.268.308.275",
+                "6": "-"
+            },
+            {
+                "0": "b.",
+                "1": "Dài hạn",
+                "2": "",
+                "3": "965.552.378",
+                "4": "-",
+                "5": "965.552.378",
+                "6": "-"
+            },
+            {
+                "0": "b.",
+                "1": "Ký cược, ký quỹ",
+                "2": "",
+                "3": "965.552.378",
+                "4": "",
+                "5": "965.552.378",
+                "6": ""
+            },
+            {
+                "0": "b.",
+                "1": "Cộng",
+                "2": "",
+                "3": "237.585.557.773",
+                "4": "-",
+                "5": "294.377.892.764",
+                "6": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_17",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "",
+        "dataframe": [
+            {
+                "0": "(i)",
+                "1": "Phải thu về lãi vay",
+                "2": "31/12/2016(VND)"
+            },
+            {
+                "0": "(i)",
+                "1": "Phải thu lãi vay của Công ty CP Than Điện Nông Sơn - TKV",
+                "2": "149.791.681.554"
+            },
+            {
+                "0": "(i)",
+                "1": "Phải thu lãi vay của Công ty CP Nhiệt điện Cẩm Phả - TKV",
+                "2": "56.752.338.404"
+            },
+            {
+                "0": "(i)",
+                "1": "Cộng",
+                "2": "206.544.019.958"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_18",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n25\n\n1640-C.T.\nG TY\nEM HOU HA\nKHT\nNAM\nAN-T.P.\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIÊN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016",
+        "dataframe": [
+            {
+                "0": "(ii) Phải thu khác",
+                "1": "31/12/2016(VND)"
+            },
+            {
+                "0": "Phải thu tiền than không đủ chất lượng (Nhiệt điện Na Dương)",
+                "1": "5.701.943.699"
+            },
+            {
+                "0": "Phải thu thuế nhập khẩu thiết bị nộp hộ nhà thầu (BQL Dự án Đồng Nai 5)",
+                "1": "1.945.463.773"
+            },
+            {
+                "0": "Tiền giải phóng mặt bằng - Trung tâm phát triển quỹ đất huyện Đắk R'Lắp",
+                "1": "1.420.905.880"
+            },
+            {
+                "0": "Phải thu tiền vật tư nhà thầu SFECO",
+                "1": "4.532.276.360"
+            },
+            {
+                "0": "Phải thu tiền cổ tức của Công ty Cổ phần Nhiệt điện Hải Phòng",
+                "1": "7.210.000.000"
+            },
+            {
+                "0": "Phải thu về cổ phần hóa",
+                "1": "1.317.349.800"
+            },
+            {
+                "0": "Phải thu nhà thầu phụ của dự án NMND Cao Ngạn - Công ty Đầu tư XD&TM – Tổng Công ty Đông Bắc",
+                "1": "850.000.000"
+            },
+            {
+                "0": "Phải thu nhà thầu phụ của dự án NMND Cao Ngạn - Công ty cổ phần Đầu tư và Xây dựng - VVMI",
+                "1": "1.000.000.000"
+            },
+            {
+                "0": "Phải thu nhà thầu phụ của dự án NMND Cao Ngạn - Công ty TNHH một thành viên môi trường - Vinacomin",
+                "1": "1.250.000.000"
+            },
+            {
+                "0": "Các khoản khác",
+                "1": "4.848.045.925"
+            },
+            {
+                "0": "Cộng",
+                "1": "30.075.985.437"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_19",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "5.6 Nợ xấu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016(VND)",
+                "2": "31/12/2016(VND)",
+                "3": "15/01/2016(VND)",
+                "4": "15/01/2016(VND)"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Giá trị có thể thu hồi",
+                "3": "Giá gốc",
+                "4": "Giá trị có thể thu hồi"
+            },
+            {
+                "0": "Tổng giá trị các khoản phải thu, cho vay quá hạn thanh toán hoặc chưa quá hạn nhưng khó có khả năng thu hồi:",
+                "1": "5.061.330.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Từ 3 năm trở lên",
+                "1": "5.061.330.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Điện lực Thái Nguyên",
+                "1": "13.621.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Vụ Năng lượng - Bộ Công thương",
+                "1": "42.110.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Công ty CP xây dựng số 18",
+                "1": "5.005.599.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_20",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n26\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n5.7 Hàng tồn kho",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016(VND)",
+                "2": "31/12/2016(VND)",
+                "3": "15/01/2016(VND)",
+                "4": "15/01/2016(VND)"
+            },
+            {
+                "0": "",
+                "1": "Giá trị",
+                "2": "Dự phòng",
+                "3": "Giá trị",
+                "4": "Dự phòng"
+            },
+            {
+                "0": "Nguyên liệu, vật liệu",
+                "1": "46.207.394.163",
+                "2": "-",
+                "3": "73.072.927.036",
+                "4": "-"
+            },
+            {
+                "0": "Công cụ, dụng cụ",
+                "1": "348.920.399",
+                "2": "-",
+                "3": "390.919.952",
+                "4": "-"
+            },
+            {
+                "0": "Chi phí SXKD dở dang",
+                "1": "-",
+                "2": "-",
+                "3": "130.653.500",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "46.556.314.562",
+                "2": "-",
+                "3": "73.594.500.488",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Dự phòng",
+                "3": "Giá gốc",
+                "4": "Dự phòng"
+            },
+            {
+                "0": "a. Chi phí sản xuất, kinh doanh dở dang dài hạn",
+                "1": "30.975.440.633",
+                "2": "-",
+                "3": "20.628.408.300",
+                "4": "-"
+            },
+            {
+                "0": "Chi phí sản xuất, kinh doanh dở dang dài hạn (Dự án san gạt Vĩnh Tân)",
+                "1": "30.975.440.633",
+                "2": "-",
+                "3": "20.628.408.300",
+                "4": "-"
+            },
+            {
+                "0": "b. Xây dựng cơ bản dở dang",
+                "1": "85.928.314.919",
+                "2": "-",
+                "3": "72.879.827.470",
+                "4": "-"
+            },
+            {
+                "0": "- Mua sắm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "- Xây dựng cơ bản",
+                "1": "85.928.314.919",
+                "2": "-",
+                "3": "72.879.827.470",
+                "4": "-"
+            },
+            {
+                "0": "Dự án Nhà máy Nhiệt điện Đồng Nai 5",
+                "1": "20.734.461.167",
+                "2": "-",
+                "3": "21.748.387.400",
+                "4": "-"
+            },
+            {
+                "0": "Dự án Nhà máy Nhiệt điện Quỳnh Lập 1",
+                "1": "17.819.613.177",
+                "2": "-",
+                "3": "17.230.670.450",
+                "4": "-"
+            },
+            {
+                "0": "Dự án Nhà máy Nhiệt điện Na Dương 2",
+                "1": "9.019.902.990",
+                "2": "-",
+                "3": "5.807.169.036",
+                "4": "-"
+            },
+            {
+                "0": "Dự án ĐTXD nhà máy sản xuất Vật liệu không nung và bãi tập kết nguyên liệu tại Đồng Giếng To",
+                "1": "2.922.993.200",
+                "2": "-",
+                "3": "2.922.993.200",
+                "4": "-"
+            },
+            {
+                "0": "Xây dựng bãi thải xì NMND Na Dương",
+                "1": "19.360.236.232",
+                "2": "-",
+                "3": "19.162.311.982",
+                "4": "-"
+            },
+            {
+                "0": "Dự án đầu tư mở rộng nâng công suất làm mát cho NM NDND",
+                "1": "-",
+                "2": "-",
+                "3": "3.257.253.366",
+                "4": ""
+            },
+            {
+                "0": "Khu CBCNV điều hành sản xuất (NMND Son Đông)",
+                "1": "8.798.105.351",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Đường công vụ từ Quốc lộ 18A đến NMND Đông Triêu",
+                "1": "5.571.542.971",
+                "2": "-",
+                "3": "50.825.589",
+                "4": "-"
+            },
+            {
+                "0": "Dự án khác",
+                "1": "1.701.459.831",
+                "2": "-",
+                "3": "2.700.216.447",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "116.903.755.552",
+                "2": "-",
+                "3": "93.508.235.770",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_21",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n27\n\n\n\nTẠP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào\n\n5.9 Tăng giảm tài sản cố định hữu hình",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nhà cửa,vật kiến trúcVND",
+                "2": "Máy móc, trangthiết bịVND",
+                "3": "Phương tiệnvận tảiVND",
+                "4": "Thiết bịvăn phòngVND",
+                "5": "TSCĐ khácVND",
+                "6": "Tổng cộngVND"
+            },
+            {
+                "0": "NGUYÊN GIÁ",
+                "1": "NGUYÊN GIÁ",
+                "2": "NGUYÊN GIÁ",
+                "3": "NGUYÊN GIÁ",
+                "4": "NGUYÊN GIÁ",
+                "5": "NGUYÊN GIÁ",
+                "6": "NGUYÊN GIÁ"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "6.498.229.386.994",
+                "2": "14.112.546.406.989",
+                "3": "491.711.864.364",
+                "4": "71.877.141.083",
+                "5": "429.139.718.840",
+                "6": "21.603.504.518.270"
+            },
+            {
+                "0": "- Mua trong năm",
+                "1": "-",
+                "2": "6.020.164.545",
+                "3": "-",
+                "4": "3.067.081.819",
+                "5": "-",
+                "6": "9.087.246.364"
+            },
+            {
+                "0": "- Đầu tư XDCB hoàn thành",
+                "1": "163.454.753.349",
+                "2": "81.682.088.529",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "245.136.841.878"
+            },
+            {
+                "0": "- Phân loại lại nhóm TSCĐ",
+                "1": "-",
+                "2": "441.922.890.514",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "441.922.890.514"
+            },
+            {
+                "0": "- Tăng khác",
+                "1": "-",
+                "2": "-",
+                "3": "2.411.962.727",
+                "4": "248.948.052",
+                "5": "-",
+                "6": "2.660.910.779"
+            },
+            {
+                "0": "- Thanh lý, nhượng bán",
+                "1": "(535.756.350)",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "(535.756.350)"
+            },
+            {
+                "0": "- Phân loại lại nhóm TSCĐ",
+                "1": "(4.445.374.753)",
+                "2": "-",
+                "3": "(241.038.199.933)",
+                "4": "(26.466.101.263)",
+                "5": "(169.973.214.565)",
+                "6": "(441.922.890.514)"
+            },
+            {
+                "0": "- Giảm khác",
+                "1": "(12.227.863.265)",
+                "2": "(32.131.627.671)",
+                "3": "(2.411.962.727)",
+                "4": "(73.311.688)",
+                "5": "-",
+                "6": "(46.844.765.351)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "6.644.475.145.975",
+                "2": "14.610.039.922.906",
+                "3": "250.673.664.431",
+                "4": "48.653.758.003",
+                "5": "259.166.504.275",
+                "6": "21.813.008.995.590"
+            },
+            {
+                "0": "GIÁ TRỊ HAO MÒN",
+                "1": "GIÁ TRỊ HAO MÒN",
+                "2": "GIÁ TRỊ HAO MÒN",
+                "3": "GIÁ TRỊ HAO MÒN",
+                "4": "GIÁ TRỊ HAO MÒN",
+                "5": "GIÁ TRỊ HAO MÒN",
+                "6": "GIÁ TRỊ HAO MÒN"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "810.589.899.159",
+                "2": "5.009.930.502.150",
+                "3": "190.488.185.597",
+                "4": "46.908.682.994",
+                "5": "172.486.176.592",
+                "6": "6.230.403.446.492"
+            },
+            {
+                "0": "- Khấu hao trong năm",
+                "1": "334.981.913.809",
+                "2": "930.638.159.699",
+                "3": "26.385.232.555",
+                "4": "8.585.469.219",
+                "5": "30.712.506.036",
+                "6": "1.331.303.281.318"
+            },
+            {
+                "0": "- Hao mòn trong năm",
+                "1": "502.271.703",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "502.271.703"
+            },
+            {
+                "0": "- Tăng khác",
+                "1": "-",
+                "2": "151.649.605.273",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "151.649.605.273"
+            },
+            {
+                "0": "- Thanh lý, nhượng bán",
+                "1": "(206.064.286)",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "(206.064.286)"
+            },
+            {
+                "0": "- Giảm khác",
+                "1": "(1.353.608.102)",
+                "2": "-",
+                "3": "(63.759.006.294)",
+                "4": "(16.668.030.982)",
+                "5": "(69.876.739.414)",
+                "6": "(151.657.384.792)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "1.144.514.412.283",
+                "2": "6.092.218.267.122",
+                "3": "153.114.411.858",
+                "4": "38.826.121.231",
+                "5": "133.321.943.214",
+                "6": "7.561.995.155.708"
+            },
+            {
+                "0": "GIÁ TRỊ CÒN LẠI",
+                "1": "GIÁ TRỊ CÒN LẠI",
+                "2": "GIÁ TRỊ CÒN LẠI",
+                "3": "GIÁ TRỊ CÒN LẠI",
+                "4": "GIÁ TRỊ CÒN LẠI",
+                "5": "GIÁ TRỊ CÒN LẠI",
+                "6": "GIÁ TRỊ CÒN LẠI"
+            },
+            {
+                "0": "Tại ngày đầu năm",
+                "1": "5.687.639.487.835",
+                "2": "9.102.615.904.839",
+                "3": "301.223.678.767",
+                "4": "24.968.458.089",
+                "5": "256.653.542.248",
+                "6": "15.373.101.071.778"
+            },
+            {
+                "0": "Tại ngày cuối năm",
+                "1": "5.499.960.733.692",
+                "2": "8.517.821.655.784",
+                "3": "97.559.252.573",
+                "4": "9.827.636.772",
+                "5": "125.844.561.061",
+                "6": "14.251.013.839.882"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_22",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n28\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n5.10 Tăng giảm tài sản cố định vô hình",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Quyên sử dụng đất VND",
+                "2": "Phân mềm máy vi tính VND",
+                "3": "TSCĐVH Khác VND",
+                "4": "Tổng cộng VND"
+            },
+            {
+                "0": "NGUYÊN GIÁ",
+                "1": "NGUYÊN GIÁ",
+                "2": "NGUYÊN GIÁ",
+                "3": "NGUYÊN GIÁ",
+                "4": "NGUYÊN GIÁ"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "33.899.779.267",
+                "2": "1.522.195.579",
+                "3": "227.726.364",
+                "4": "35.649.701.210"
+            },
+            {
+                "0": "- Mua trong năm",
+                "1": "-",
+                "2": "810.000.000",
+                "3": "-",
+                "4": "810.000.000"
+            },
+            {
+                "0": "- Đầu tư XDCB hoàn thành",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "- Tăng khác",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "- Chuyển sang BDS đầu tư",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "- Thanh lý, nhượng bán",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "- Giảm khác",
+                "1": "(7.246.971.480)",
+                "2": "-",
+                "3": "-",
+                "4": "(7.246.971.480)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "26.652.807.787",
+                "2": "2.332.195.579",
+                "3": "227.726.364",
+                "4": "29.212.729.730"
+            },
+            {
+                "0": "GIÁ TRỊ HAO MÒN",
+                "1": "GIÁ TRỊ HAO MÒN",
+                "2": "GIÁ TRỊ HAO MÒN",
+                "3": "GIÁ TRỊ HAO MÒN",
+                "4": "GIÁ TRỊ HAO MÒN"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "662.659.492",
+                "2": "770.035.195",
+                "3": "116.224.546",
+                "4": "1.548.919.233"
+            },
+            {
+                "0": "- Khấu hao trong năm",
+                "1": "975.896.518",
+                "2": "332.426.067",
+                "3": "25.248.356",
+                "4": "1.333.570.941"
+            },
+            {
+                "0": "- Tăng khác",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "- Chuyển sang BDS đầu tư",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "- Thanh lý, nhượng bán",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "- Giảm khác",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "1.638.556.010",
+                "2": "1.102.461.262",
+                "3": "141.472.902",
+                "4": "2.882.490.174"
+            },
+            {
+                "0": "GIÁ TRỊ CÒN LẠI",
+                "1": "GIÁ TRỊ CÒN LẠI",
+                "2": "GIÁ TRỊ CÒN LẠI",
+                "3": "GIÁ TRỊ CÒN LẠI",
+                "4": "GIÁ TRỊ CÒN LẠI"
+            },
+            {
+                "0": "Tại ngày đầu năm",
+                "1": "33.237.119.775",
+                "2": "752.160.384",
+                "3": "111.501.818",
+                "4": "34.100.781.977"
+            },
+            {
+                "0": "Tại ngày cuối năm",
+                "1": "25.014.251.777",
+                "2": "1.229.734.317",
+                "3": "86.253.462",
+                "4": "26.330.239.556"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_23",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n29\n\n.9 ★ M.S.\n\nA NÔI ★ H'H'N\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n5.11 Chi phí trả trước",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "31/12/2016(VND)",
+                "3": "15/01/2016(VND)"
+            },
+            {
+                "0": "a.",
+                "1": "Ngắn hạn",
+                "2": "1.021.402.176",
+                "3": "1.712.367.562"
+            },
+            {
+                "0": "a.",
+                "1": "Công cụ, dụng cụ xuất dùng",
+                "2": "730.939.540",
+                "3": "445.793.903"
+            },
+            {
+                "0": "a.",
+                "1": "Chi phí bảo hiểm",
+                "2": "232.878.755",
+                "3": "965.686.739"
+            },
+            {
+                "0": "a.",
+                "1": "Chi phí trả trước ngắn hạn khác",
+                "2": "57.583.881",
+                "3": "300.886.920"
+            },
+            {
+                "0": "b.",
+                "1": "Dài hạn",
+                "2": "647.891.360.614",
+                "3": "617.924.480.578"
+            },
+            {
+                "0": "b.",
+                "1": "Công cụ dụng cụ phân bổ nhiều năm",
+                "2": "801.543.579",
+                "3": "1.272.577.288"
+            },
+            {
+                "0": "b.",
+                "1": "Chi phí sửa chữa lớn chờ phân bổ",
+                "2": "45.843.558.285",
+                "3": "43.720.393.591"
+            },
+            {
+                "0": "b.",
+                "1": "Tiền thuê nhà trả trước nhiều năm",
+                "2": "3.594.516.480",
+                "3": "7.189.032.960"
+            },
+            {
+                "0": "b.",
+                "1": "Chi phí thành lập doanh nghiệp",
+                "2": "910.711.270",
+                "3": "1.787.148.473"
+            },
+            {
+                "0": "b.",
+                "1": "Chi phí giai đoạn triển khai không đủ tiêu chuẩn ghi nhận TSCĐ vô hình",
+                "2": "32.185.394.733",
+                "3": "-"
+            },
+            {
+                "0": "b.",
+                "1": "Lỗ chênh lệch tỷ giá phân bổ 5 năm",
+                "2": "563.867.266.554",
+                "3": "563.867.266.554"
+            },
+            {
+                "0": "b.",
+                "1": "Chi phí trả trước dài hạn khác",
+                "2": "688.369.713",
+                "3": "88.061.712"
+            },
+            {
+                "0": "b.",
+                "1": "Cộng",
+                "2": "648.912.762.790",
+                "3": "619.636.848.140"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_24",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n30\n\nTHANK\nVI\nTRÁCH\nCÍ\nJ.D.N:0313\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n5.12 Vay và nợ thuê tài chính\n\n15/01/2016",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "(VND)",
+                "3": "(VND)",
+                "4": "Tăng trong năm",
+                "5": "Giảm trong năm",
+                "6": "(VND)",
+                "7": "(VND)"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Giá trị",
+                "3": "Khả năng trả nợ",
+                "4": "Tăng trong năm",
+                "5": "Giảm trong năm",
+                "6": "Giá trị",
+                "7": "Khả năng trả nợ"
+            },
+            {
+                "0": "a.",
+                "1": "Gốc vay ngắn hạn",
+                "2": "238.356.594.170",
+                "3": "238.356.594.170",
+                "4": "514.195.349.632",
+                "5": "752.551.943.802",
+                "6": "-",
+                "7": "-"
+            },
+            {
+                "0": "a.",
+                "1": "Vay ngân hàng",
+                "2": "220.000.000.000",
+                "3": "220.000.000.000",
+                "4": "514.195.349.632",
+                "5": "734.195.349.632",
+                "6": "-",
+                "7": "-"
+            },
+            {
+                "0": "a.",
+                "1": "Vay Tập đoàn",
+                "2": "18.356.594.170",
+                "3": "18.356.594.170",
+                "4": "-",
+                "5": "18.356.594.170",
+                "6": "-",
+                "7": "-"
+            },
+            {
+                "0": "b.",
+                "1": "Gốc vay dài hạn",
+                "2": "15.537.406.093.935",
+                "3": "15.537.406.093.935",
+                "4": "517.092.712.421",
+                "5": "1.990.505.871.059",
+                "6": "14.063.992.935.297",
+                "7": "14.063.992.935.297"
+            },
+            {
+                "0": "+",
+                "1": "Từ 1 năm đến 5 năm",
+                "2": "148.589.624.169",
+                "3": "148.589.624.169",
+                "4": "10.571.684.505",
+                "5": "134.274.817.742",
+                "6": "24.886.490.932",
+                "7": "24.886.490.932"
+            },
+            {
+                "0": "+",
+                "1": "Vay ngân hàng",
+                "2": "148.589.624.169",
+                "3": "148.589.624.169",
+                "4": "10.571.684.505",
+                "5": "134.274.817.742",
+                "6": "24.886.490.932",
+                "7": "24.886.490.932"
+            },
+            {
+                "0": "+",
+                "1": "Vay Tập đoàn",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "-",
+                "7": "-"
+            },
+            {
+                "0": "+",
+                "1": "Trên 5 năm",
+                "2": "15.388.816.469.766",
+                "3": "15.388.816.469.766",
+                "4": "506.521.027.916",
+                "5": "1.856.231.053.317",
+                "6": "14.039.106.444.365",
+                "7": "14.039.106.444.365"
+            },
+            {
+                "0": "+",
+                "1": "Vay ngân hàng",
+                "2": "3.849.072.108.665",
+                "3": "3.849.072.108.665",
+                "4": "314.436.795.047",
+                "5": "94.364.461.672",
+                "6": "4.069.144.442.040",
+                "7": "4.069.144.442.040"
+            },
+            {
+                "0": "+",
+                "1": "Vay Tập đoàn",
+                "2": "11.539.744.361.101",
+                "3": "11.539.744.361.101",
+                "4": "192.084.232.869",
+                "5": "1.761.866.591.645",
+                "6": "9.969.962.002.325",
+                "7": "9.969.962.002.325"
+            },
+            {
+                "0": "+",
+                "1": "Cộng",
+                "2": "15.775.762.688.105",
+                "3": "15.775.762.688.105",
+                "4": "1.031.288.062.053",
+                "5": "2.743.057.814.861",
+                "6": "14.063.992.935.297",
+                "7": "14.063.992.935.297"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_25",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n31\n\n(4064) JAN.\n\n\n\nTẬP ĐOÀN CÔNG NGHIÊP THAN - KHOÁNG SẢN VIÊT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "15/01/2016(VND)",
+                "3": "15/01/2016(VND)",
+                "4": "31/12/2016(VND)",
+                "5": "31/12/2016(VND)"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Giá trị",
+                "3": "Khả năng trả nợ",
+                "4": "Giá trị",
+                "5": "Khả năng trả nợ"
+            },
+            {
+                "0": "c.",
+                "1": "Phân loại gốc vay dài hạn đến hạn trả tại thời điểm lập BCTC",
+                "2": "1.405.335.363.999",
+                "3": "1.405.335.363.999",
+                "4": "1.644.054.757.720",
+                "5": "1.644.054.757.720"
+            },
+            {
+                "0": "c.",
+                "1": "Vay ngân hàng",
+                "2": "193.526.769.260",
+                "3": "193.526.769.260",
+                "4": "471.422.018.968",
+                "5": "471.422.018.968"
+            },
+            {
+                "0": "c.",
+                "1": "Vay Tập đoàn",
+                "2": "1.211.808.594.739",
+                "3": "1.211.808.594.739",
+                "4": "1.172.632.738.752",
+                "5": "1.172.632.738.752"
+            },
+            {
+                "0": "d.",
+                "1": "Số dư tại thời điểm lập BCTC",
+                "2": "15.775.762.688.105",
+                "3": "15.775.762.688.105",
+                "4": "14.063.992.935.297",
+                "5": "14.063.992.935.297"
+            },
+            {
+                "0": "d.1",
+                "1": "Vay và nợ ngắn hạn (d.1 = a + c)",
+                "2": "1.643.691.958.169",
+                "3": "1.643.691.958.169",
+                "4": "1.644.054.757.720",
+                "5": "1.644.054.757.720"
+            },
+            {
+                "0": "d.2",
+                "1": "Vay và nợ dài hạn (d.2 = b - c)",
+                "2": "14.132.070.729.936",
+                "3": "14.132.070.729.936",
+                "4": "12.419.938.177.577",
+                "5": "12.419.938.177.577"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "15/01/2016(VND)",
+                "3": "15/01/2016(VND)",
+                "4": "31/12/2016(VND)",
+                "5": "31/12/2016(VND)"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Giá trị",
+                "3": "Khả năng trả nợ",
+                "4": "Giá trị",
+                "5": "Khả năng trả nợ"
+            },
+            {
+                "0": "e.",
+                "1": "Thuyết minh chi tiết về các khoản vay và nợ thuê tài chính đối với các bên liên quan",
+                "2": "11.558.100.955.271",
+                "3": "11.558.100.955.271",
+                "4": "9.969.962.002.325",
+                "5": "9.969.962.002.325"
+            },
+            {
+                "0": "e.",
+                "1": "Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam – Vinacomin",
+                "2": "11.558.100.955.271",
+                "3": "11.558.100.955.271",
+                "4": "9.969.962.002.325",
+                "5": "9.969.962.002.325"
+            },
+            {
+                "0": "e.",
+                "1": "Vay ngắn hạn",
+                "2": "1.230.165.188.909",
+                "3": "1.230.165.188.909",
+                "4": "1.172.632.738.752",
+                "5": "1.172.632.738.752"
+            },
+            {
+                "0": "e.",
+                "1": "Vay dài hạn",
+                "2": "10.327.935.766.362",
+                "3": "10.327.935.766.362",
+                "4": "8.797.329.263.573",
+                "5": "8.797.329.263.573"
+            },
+            {
+                "0": "e.",
+                "1": "Cộng",
+                "2": "11.558.100.955.271",
+                "3": "11.558.100.955.271",
+                "4": "9.969.962.002.325",
+                "5": "9.969.962.002.325"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_26",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyet minh Bao cao tai chihi ring ta moṭ bō phān khoang tach roi cua Bao cao tai chihi ring\n\n32\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng H\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n5.13 Phải trả người bán",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016(VND)",
+                "2": "31/12/2016(VND)",
+                "3": "15/01/2016(VND)",
+                "4": "15/01/2016(VND)"
+            },
+            {
+                "0": "",
+                "1": "Giá trị",
+                "2": "Số có khả năng trả nợ",
+                "3": "Giá trị",
+                "4": "Số có khả năng trả nợ"
+            },
+            {
+                "0": "Các khoản phải trả người bán ngắn hạn",
+                "1": "1.014.220.082.493",
+                "2": "1.014.220.082.493",
+                "3": "1.068.195.842.261",
+                "4": "1.068.195.842.261"
+            },
+            {
+                "0": "Công ty Kho vận và cảng Cẩm Phả",
+                "1": "57.051.357.089",
+                "2": "57.051.357.089",
+                "3": "74.747.344.039",
+                "4": "74.747.344.039"
+            },
+            {
+                "0": "Tổng Công ty Đông Bắc",
+                "1": "152.534.868.663",
+                "2": "152.534.868.663",
+                "3": "186.203.196.129",
+                "4": "186.203.196.129"
+            },
+            {
+                "0": "Công ty Kho Vận Đá Bạc",
+                "1": "84.759.333.730",
+                "2": "84.759.333.730",
+                "3": "60.448.391.305",
+                "4": "60.448.391.305"
+            },
+            {
+                "0": "Ban Điều hành Dự án Thủy điện Đồng Nai 5 Tổng Công ty Sông Đà",
+                "1": "524.772.038.806",
+                "2": "524.772.038.806",
+                "3": "556.626.952.526",
+                "4": "556.626.952.526"
+            },
+            {
+                "0": "LD HydroChina HuaDong và Tianjin Alstom Hydro",
+                "1": "10.467.633.422",
+                "2": "10.467.633.422",
+                "3": "63.567.142.902",
+                "4": "63.567.142.902"
+            },
+            {
+                "0": "Phải trả các đối tượng khác",
+                "1": "184.634.850.783",
+                "2": "184.634.850.783",
+                "3": "126.602.815.360",
+                "4": "126.602.815.360"
+            },
+            {
+                "0": "Các khoản phải trả người bán dài hạn",
+                "1": "626.944.266.919",
+                "2": "626.944.266.919",
+                "3": "618.416.284.351",
+                "4": "618.416.284.351"
+            },
+            {
+                "0": "Nhà thầu SFECO",
+                "1": "391.979.361.677",
+                "2": "391.979.361.677",
+                "3": "386.647.479.181",
+                "4": "386.647.479.181"
+            },
+            {
+                "0": "Công ty TNHH công trình điện Cáp Nhĩ Tân - DA Cao Ngạn",
+                "1": "234.964.905.242",
+                "2": "234.964.905.242",
+                "3": "231.768.805.170",
+                "4": "231.768.805.170"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.641.164.349.412",
+                "2": "1.641.164.349.412",
+                "3": "1.686.612.126.612",
+                "4": "1.686.612.126.612"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_27",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "33\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời cửa Báo cáo tài chính riêng\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào\n\n5.14 Thuế và các khoản phải thu, phải trả Nhà nước",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "15/01/2016(VND)",
+                "2": "Số phải nộp trong năm",
+                "3": "Số đã thực nộp trong năm",
+                "4": "31/12/2016(VND)"
+            },
+            {
+                "0": "Phải nộp",
+                "1": "Phải nộp",
+                "2": "Phải nộp",
+                "3": "Phải nộp",
+                "4": "Phải nộp"
+            },
+            {
+                "0": "Thuế giá trị gia tăng",
+                "1": "58.960.137.942",
+                "2": "167.805.355.112",
+                "3": "213.738.583.322",
+                "4": "13.026.909.732"
+            },
+            {
+                "0": "Thuế xuất nhập khẩu",
+                "1": "3.292",
+                "2": "257.457.801",
+                "3": "257.461.093",
+                "4": "-"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "247.107.116",
+                "2": "1.282.535.718",
+                "3": "1.242.468.417",
+                "4": "287.174.417"
+            },
+            {
+                "0": "Thuế tài nguyên",
+                "1": "45.229.905",
+                "2": "37.372.547.691",
+                "3": "36.418.480.600",
+                "4": "999.296.996"
+            },
+            {
+                "0": "Thuế đất và tiền thuê đất",
+                "1": "-",
+                "2": "7.508.229.102",
+                "3": "1.170.608.219",
+                "4": "6.337.620.883"
+            },
+            {
+                "0": "Các loại thuế khác",
+                "1": "-",
+                "2": "905.507.097",
+                "3": "905.507.097",
+                "4": "-"
+            },
+            {
+                "0": "Các khoản phí, lệ phí và các khoản phải nộp khác",
+                "1": "2.651.828",
+                "2": "11.366.138.994",
+                "3": "7.734.353.266",
+                "4": "3.634.437.556"
+            },
+            {
+                "0": "Cộng",
+                "1": "59.255.130.083",
+                "2": "226.497.771.515",
+                "3": "261.467.462.014",
+                "4": "24.285.439.584"
+            },
+            {
+                "0": "Phải thu",
+                "1": "Phải thu",
+                "2": "Phải thu",
+                "3": "Phải thu",
+                "4": "Phải thu"
+            },
+            {
+                "0": "Thuế giá trị gia tăng",
+                "1": "-",
+                "2": "5.990.400.703",
+                "3": "12.621.021.515",
+                "4": "6.630.620.812"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp",
+                "1": "413.904.592",
+                "2": "-",
+                "3": "-",
+                "4": "413.904.592"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "261.421.945",
+                "2": "261.421.945",
+                "3": "7.137.356",
+                "4": "7.137.356"
+            },
+            {
+                "0": "Thuế tài nguyên",
+                "1": "3.075.592.506",
+                "2": "3.075.592.506",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Các loại thuế khác",
+                "1": "-",
+                "2": "19.696.106",
+                "3": "1.295.142.249",
+                "4": "1.275.446.143"
+            },
+            {
+                "0": "Các khoản phí, lệ phí và các khoản phải nộp khác",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "3.750.919.043",
+                "2": "9.347.111.260",
+                "3": "13.923.301.120",
+                "4": "8.327.108.903"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_28",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "34\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời cửa Báo cáo tài chính riêng\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n5.15 Chi phí phải trả",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016(VND)",
+                "2": "15/01/2016(VND)"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "263.684.771.162",
+                "2": "254.603.398.522"
+            },
+            {
+                "0": "Chi phí lãi vay phải trả",
+                "1": "253.930.454.089",
+                "2": "242.718.580.471"
+            },
+            {
+                "0": "Lãi trả chậm tiền than",
+                "1": "6.241.752.788",
+                "2": "6.131.950.127"
+            },
+            {
+                "0": "Chi phí phải trả khác",
+                "1": "3.512.564.285",
+                "2": "5.752.867.924"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "263.684.771.162",
+                "2": "254.603.398.522"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "43.195.552.523",
+                "2": "64.421.426.496"
+            },
+            {
+                "0": "Phải trả nhà thầu SFECO",
+                "1": "4.322.434.076",
+                "2": "4.322.434.076"
+            },
+            {
+                "0": "Phải trả về mô tơ, máy phát nhà thầu Harbin - DA Cao Ngạn",
+                "1": "3.304.550.000",
+                "2": "3.259.600.000"
+            },
+            {
+                "0": "Các khoản khác (i)",
+                "1": "35.568.568.447",
+                "2": "56.839.392.420"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "43.195.552.523",
+                "2": "64.421.426.496"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_29",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "(i) Số các khoản khác ngày 31/12/2016 bao gồm:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "VND"
+            },
+            {
+                "0": "Các khoản phải trả Tập đoàn",
+                "1": "29.636.487.926"
+            },
+            {
+                "0": "Thường an toàn điện",
+                "1": "3.669.598.359"
+            },
+            {
+                "0": "Các khoản phải trả khác",
+                "1": "2.262.482.162"
+            },
+            {
+                "0": "Cộng",
+                "1": "35.568.568.447"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_30",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n35\n\n40640\nNG T'\nHÊM HÍ\nK F\nT NA\nJÂN -\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n5.17 Vốn chủ sở hữu\n\nBàng đối chiếu biến động của vốn chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn đầu tư của chủ SH VND (*)",
+                "2": "Thặng dư vốn cổ phần VND",
+                "3": "Quỹ đầu tư phát triển VND",
+                "4": "Chênh lệch đánh giá lại TS VND",
+                "5": "Lợi nhuận chưa phân phối VND",
+                "6": "Tổng cộng VND"
+            },
+            {
+                "0": "Số dư tại ngày 15/01/2016",
+                "1": "6.436.967.325.797",
+                "2": "-",
+                "3": "1.069.727.013",
+                "4": "570.597.908.525",
+                "5": "(230.549.961.335)",
+                "6": "6.778.085.000.000"
+            },
+            {
+                "0": "Tăng vốn trong năm nay",
+                "1": "21.915.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "21.915.000.000"
+            },
+            {
+                "0": "Lãi trong năm nay",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Tăng khác",
+                "1": "571.667.635.538",
+                "2": "",
+                "3": "(1.069.727.013)",
+                "4": "(570.597.908.525)",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Giảm vốn trong năm nay",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Lỗ trong năm nay",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(354.030.919.308)",
+                "6": "(354.030.919.308)"
+            },
+            {
+                "0": "Giảm khác",
+                "1": "(230.549.961.335)",
+                "2": "(3.640.600.000)",
+                "3": "-",
+                "4": "-",
+                "5": "230.549.961.335",
+                "6": "(3.640.600.000)"
+            },
+            {
+                "0": "Số dư cuối năm nay",
+                "1": "6.800.000.000.000",
+                "2": "(3.640.600.000)",
+                "3": "-",
+                "4": "-",
+                "5": "(354.030.919.308)",
+                "6": "6.442.328.480.692"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_31",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n36\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n(*) Chi tiết vốn đầu tư của chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016(VND)",
+                "2": "15/01/2016(VND)"
+            },
+            {
+                "0": "Vốn của Nhà nước",
+                "1": "6.778.085.000.000",
+                "2": "6.436.967.325.797"
+            },
+            {
+                "0": "Vốn của đối tượng khác",
+                "1": "21.915.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "6.800.000.000.000",
+                "2": "6.436.967.325.797"
+            },
+            {
+                "0": "",
+                "1": "Từ 15/01/2016đến 31/12/2016(VND)",
+                "2": "Từ 01/01/2016đến 14/01/2016(VND)"
+            },
+            {
+                "0": "Vốn đầu tư của chủ sở hữu",
+                "1": "Vốn đầu tư của chủ sở hữu",
+                "2": "Vốn đầu tư của chủ sở hữu"
+            },
+            {
+                "0": "Vốn đầu năm",
+                "1": "6.436.967.325.797",
+                "2": "6.436.967.325.797"
+            },
+            {
+                "0": "Vốn tăng trong năm",
+                "1": "593.582.635.538",
+                "2": "-"
+            },
+            {
+                "0": "Vốn giảm trong năm",
+                "1": "(230.549.961.335)",
+                "2": "-"
+            },
+            {
+                "0": "Vốn cuối năm",
+                "1": "6.800.000.000.000",
+                "2": "6.436.967.325.797"
+            },
+            {
+                "0": "Cổ tức, lợi nhuận đã chia",
+                "1": "-",
+                "2": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_32",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n37\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MÊ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n6 THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRONG BẢO CẢO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG\n\n6.1 Doanh thu bán hàng và cung cấp dịch vụ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "Từ 15/01/2016đến 31/12/2016(VND)",
+                "3": "Từ 01/01/2016đến 14/01/2016(VND)"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Từ 15/01/2016đến 31/12/2016(VND)",
+                "3": "Từ 01/01/2016đến 14/01/2016(VND)"
+            },
+            {
+                "0": "Tổng doanh thu bán hàng và cung cấp dịch vụ",
+                "1": "Tổng doanh thu bán hàng và cung cấp dịch vụ",
+                "2": "6.461.769.716.201",
+                "3": "(325.217.271.129)"
+            },
+            {
+                "0": "Doanh thu bán than",
+                "1": "Doanh thu bán than",
+                "2": "131.456.990.630",
+                "3": "-"
+            },
+            {
+                "0": "Doanh thu bán điện",
+                "1": "Doanh thu bán điện",
+                "2": "6.283.463.671.279",
+                "3": "(326.273.581.932)"
+            },
+            {
+                "0": "Doanh thu khác",
+                "1": "Doanh thu khác",
+                "2": "46.849.054.292",
+                "3": "1.056.310.803"
+            },
+            {
+                "0": "6.2 Doanh thu thuần",
+                "1": "6.2 Doanh thu thuần",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Từ 15/01/2016đến 31/12/2016(VND)",
+                "3": "Từ 01/01/2016đến 14/01/2016(VND)"
+            },
+            {
+                "0": "D. thu thuần về bán hàng và cung cấp dịch vụ",
+                "1": "D. thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "6.461.769.716.201",
+                "3": "(325.217.271.129)"
+            },
+            {
+                "0": "Doanh thu thuần bán than",
+                "1": "Doanh thu thuần bán than",
+                "2": "131.456.990.630",
+                "3": "-"
+            },
+            {
+                "0": "Doanh thu thuần bán điện",
+                "1": "Doanh thu thuần bán điện",
+                "2": "6.283.463.671.279",
+                "3": "(326.273.581.932)"
+            },
+            {
+                "0": "Doanh thu thuần khác",
+                "1": "Doanh thu thuần khác",
+                "2": "46.849.054.292",
+                "3": "1.056.310.803"
+            },
+            {
+                "0": "6.3 Giá vốn hàng bán",
+                "1": "6.3 Giá vốn hàng bán",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Từ 15/01/2016đến 31/12/2016(VND)",
+                "3": "Từ 01/01/2016đến 14/01/2016(VND)"
+            },
+            {
+                "0": "Giá vốn than bán",
+                "1": "Giá vốn than bán",
+                "2": "131.456.990.630",
+                "3": "-"
+            },
+            {
+                "0": "Giá vốn điện",
+                "1": "Giá vốn điện",
+                "2": "5.264.048.232.952",
+                "3": "190.729.579.764"
+            },
+            {
+                "0": "Giá vốn khác",
+                "1": "Giá vốn khác",
+                "2": "44.331.438.933",
+                "3": "1.017.738.245"
+            },
+            {
+                "0": "Cộng",
+                "1": "Cộng",
+                "2": "5.439.836.662.515",
+                "3": "191.747.318.009"
+            },
+            {
+                "0": "6.4 Doanh thu hoạt động tài chính",
+                "1": "6.4 Doanh thu hoạt động tài chính",
+                "2": "",
+                "3": ""
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "Từ 15/01/2016đến 31/12/2016(VND)",
+                "3": "Từ 01/01/2016đến 14/01/2016(VND)"
+            },
+            {
+                "0": "Lãi tiền gửi, tiền cho vay",
+                "1": "Lãi tiền gửi, tiền cho vay",
+                "2": "7.135.268.696",
+                "3": "-"
+            },
+            {
+                "0": "Tiền cổ tức và lợi nhuận được chia",
+                "1": "Tiền cổ tức và lợi nhuận được chia",
+                "2": "7.210.000.000",
+                "3": "25.235.000.000"
+            },
+            {
+                "0": "Lãi chênh lệch tỷ giá",
+                "1": "Lãi chênh lệch tỷ giá",
+                "2": "4.073.859.117",
+                "3": "59.995.000"
+            },
+            {
+                "0": "Doanh thu tài chính khác",
+                "1": "Doanh thu tài chính khác",
+                "2": "-",
+                "3": "30.932.068"
+            },
+            {
+                "0": "Cộng",
+                "1": "Cộng",
+                "2": "18.419.127.813",
+                "3": "25.325.927.068"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_33",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n38\n\nCÔI TRÁCH NH P VIỆ\nTHANH XU\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n6.5 Chi phí hoạt động tài chính",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Từ 15/01/2016đến 31/12/2016(VND)",
+                "2": "Từ 01/01/2016đến 14/01/2016(VND)"
+            },
+            {
+                "0": "Lãi tiền vay",
+                "1": "390.623.265.254",
+                "2": "14.387.556.616"
+            },
+            {
+                "0": "Giảm chi phí tài chính do treo lại khoản chênh lệch tỷ giá để phân bổ 5 năm",
+                "1": "-",
+                "2": "(563.867.266.554)"
+            },
+            {
+                "0": "Chênh lệch tỷ giá",
+                "1": "160.626.881.170",
+                "2": "(34.977.051.433)"
+            },
+            {
+                "0": "Chi phí tài chính khác",
+                "1": "118.802.661",
+                "2": "73.703.600.849"
+            },
+            {
+                "0": "Dự phòng đầu tư tài chính dài hạn",
+                "1": "686.513.415.410",
+                "2": "(585.573.231.656)"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.237.882.364.495",
+                "2": "(1.096.326.392.178)"
+            },
+            {
+                "0": "6.6 Thu nhập khác",
+                "1": "6.6 Thu nhập khác",
+                "2": "6.6 Thu nhập khác"
+            },
+            {
+                "0": "",
+                "1": "Từ 15/01/2016đến 31/12/2016(VND)",
+                "2": "Từ 01/01/2016đến 14/01/2016(VND)"
+            },
+            {
+                "0": "Thu nhập khác",
+                "1": "140.618.196",
+                "2": "(259.543.637)"
+            },
+            {
+                "0": "Cộng",
+                "1": "140.618.196",
+                "2": "(259.543.637)"
+            },
+            {
+                "0": "6.7 Chi phí khác",
+                "1": "6.7 Chi phí khác",
+                "2": "6.7 Chi phí khác"
+            },
+            {
+                "0": "",
+                "1": "Từ 15/01/2016đến 31/12/2016(VND)",
+                "2": "Từ 01/01/2016đến 14/01/2016(VND)"
+            },
+            {
+                "0": "Tiền thuê đất từ 2012-2015 (Cao Ngạn)",
+                "1": "5.070.096.706",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí thanh lý TSCĐ",
+                "1": "620.376.038",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "2.554.054.443",
+                "2": "1.193.320.526"
+            },
+            {
+                "0": "Cộng",
+                "1": "8.244.527.187",
+                "2": "1.193.320.526"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_34",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n39\n\n0640-C.T.\nIG TY\nÊM HỦU HẠI\nKF\nΓ NAM\nN-T.P.H.\n\n\n\nTÂP ĐOÀN CÔNG NGHIÊP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n6.8 Chi phí bán hàng và chi phí quản lý doanh nghiệp",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "",
+                "2": "Từ 15/01/2016đến 31/12/2016(VND)",
+                "3": "Từ 01/01/2016đến 14/01/2016(VND)"
+            },
+            {
+                "0": "a.",
+                "1": "Chỉ phí quản lý doanh nghiệp",
+                "2": "148.396.827.321",
+                "3": "5.725.932.594"
+            },
+            {
+                "0": "a.",
+                "1": "Chỉ phí nhân viên",
+                "2": "72.601.924.296",
+                "3": "2.691.072.612"
+            },
+            {
+                "0": "a.",
+                "1": "Chỉ phí khấu hao",
+                "2": "15.750.858.389",
+                "3": "567.908.001"
+            },
+            {
+                "0": "a.",
+                "1": "Dịch vụ mua ngoài",
+                "2": "11.087.607.056",
+                "3": "347.163.161"
+            },
+            {
+                "0": "a.",
+                "1": "Các khoản khác",
+                "2": "48.956.437.580",
+                "3": "2.119.788.820"
+            },
+            {
+                "0": "b.",
+                "1": "Chỉ phí bán hàng",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "c.",
+                "1": "Các khoản ghi giảm chi phí bán hàngvà Chỉ phí quản lý doanh nghiệp",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "c.",
+                "1": "Cộng",
+                "2": "148.396.827.321",
+                "3": "5.725.932.594"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_35",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "6.10 Chi phí sản xuất kinh doanh theo yếu tố",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Từ 15/01/2016đến 31/12/2016(VND)",
+                "2": "Từ 01/01/2016đến 14/01/2016(VND)"
+            },
+            {
+                "0": "Chi phí nguyên liệu, vật liệu",
+                "1": "3.809.259.485.829",
+                "2": "126.164.198.515"
+            },
+            {
+                "0": "Chi phí nhân công",
+                "1": "191.053.074.245",
+                "2": "7.628.198.764"
+            },
+            {
+                "0": "Chi phí khấu hao TSCĐ",
+                "1": "1.332.636.852.259",
+                "2": "57.119.388.699"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "80.077.368.552",
+                "2": "2.807.042.249"
+            },
+            {
+                "0": "Chi phí khác bằng tiền",
+                "1": "175.206.708.951",
+                "2": "3.754.422.376"
+            },
+            {
+                "0": "Cộng",
+                "1": "5.588.233.489.836",
+                "2": "197.473.250.603"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_36",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n40\n\nT.N.H.H ★ ION &\n\nM.S.D.A. Q.TH\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n7 NHỮNG THÔNG TIN KHÁC\n\n7.1 Công cụ tài chính\n\nCông ty mẹ chịu các rủi ro sau khi sử dụng các công cụ tài chính: rủi ro thị trường, rủi ro tín dụng và rủi ro thanh khoản.\n\nBan Điều hành chịu trách nhiệm chung đối với việc thiết lập và giám sát nguyên tắc quản lý rủi ro tài chính. Ban Tổng Giám đốc thiết lập các chính sách nhằm phát hiện và phân tích các rủi ro mà Tổng Công ty phải chịu, thiết lập các biện pháp kiểm soát rủi ro và các hạn mức rủi ro thích hợp, và giám sát các rủi ro và việc thực hiện các hạn mức rủi ro. Hệ thống và chính sách quản lý rủi ro được xem xét lại định kỳ nhằm phần ánh những thay đổi của các điều kiện thị trường và hoạt động của Công ty mẹ.\n\nBan Tổng Giám đốc xem xét và thống nhất áp dụng các chính sách quản lý cho những rủi ro nói trên như sau:\n\n(i) Rủi ro thị trường\n\nRủi ro thị trường là rủi ro mà giá trị hợp lý cửa các luồng tiền trong tương lai cửa các công cụ tài chính sẽ biến động theo những thay đổi cửa giá thị trường. Rủi ro thị trường có bốn loại rủi ro: rủi ro lãi suất, rủi ro tiền tệ, rủi ro về giá hàng hóa và rủi ro về giá khác.\n\nRùi ro lãi suất\n\nRủi ro lãi suất là rủi ro mà giá trị hợp lý hoặc các lường tiền trong tương lai của một công cụ tài chính sẽ biến động theo những thay đổi của lãi suất thị trường. Rủi ro thị trường do thay đổi lãi suất của Công ty mẹ chủ yếu liên quan đến tiền, các khoản tiền gửi ngắn hạn và các khoản vay của Công ty mẹ.\n\nCông ty mẹ quản lý rủi ro lãi suất bằng cách phân tích tình hình cạnh tranh trên thị trường để có được lãi suất có lợi cho mục đích của Công ty mẹ và vẫn nằm trong giới hạn quản lý rủi ro của mình.\n\nRùi ro ngoại tê\n\nRủi ro ngoại tệ là rủi ro mà giá trị hợp lý của các lường tiền trong tương lai của các công cụ tài chính sẽ biến động theo những thay đổi của tỉ giá hối đoái. Công ty mẹ chịu rủi ro do sự thay đổi của tỉ giá hối đoái liên quan trực tiếp đến hoạt động kinh doanh của Công ty mẹ.\n\nCông ty mẹ có rủi ro tỷ giá hối đoái từ các giao dịch mua, bán bằng đơn vị tiền tệ không phải là đơn vị tiền tệ kế toán của Công ty mẹ.\n\nRùi ro về giá cổ phiếu, trái phiếu\n\nCổ phiếu do Công ty mẹ nấm giữ có thể bị ảnh hưởng bởi các rủi ro về giá trị tương lai của cổ phiếu đầu tư. Công ty mẹ đầu tư cổ phiếu vào một số dự án điện nhiệt điện có cùng các rủi ro. Đây là cổ phiếu đầu tư dài hạn và chưa được niêm yết nên Công ty mẹ đánh giá mức độ nhạy cảm đối với biến động về giá cổ phiếu này là thấp.\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n41\n\n.031344C\nCÔNÇ\nRÁCH NHIỆ\nPÊ\nVIỆT\nNH XUÃ\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n(ii) Rủi ro tín dụng\n\nRủi ro tín dụng là rủi ro mà một bên tham gia trong một công cụ tài chính hoặc hợp đồng giao dịch không thực hiện được nghĩa vụ của mình, dẫn đến tổn thất về tài chính. Công ty mẹ có rủi ro tín dụng từ các hoạt động kinh doanh của mình (chủ yếu đối với tài khoản phải thu khách hàng), và từ hoạt động tài chính của mình, bao gồm tiền gửi ngân hàng, các khoản cho vay và các công cụ tài chính khác.\n\nPhải thu khách hàng\n\nCông ty mẹ thường xuyên theo dõi các khoản phải thu khách hàng chưa thu được. Đối với các khách hàng lớn, Công ty mẹ xem xét sự suy giảm trong chất lượng tín dụng của từng khách hàng tại ngày lập báo cáo. Công ty mẹ tìm cách duy trì sự kiểm soát chặt chế các khoản phải thu tồn động và bố trí nhân sự kiểm soát tín dụng để giảm thiểu rủi ro tín dụng.\n\nCông ty mẹ sẽ lập dự phòng giảm giá trị để phản ánh mức độ thiệt hại ước tính đối với phải thu khách hàng, phải thu khác và các khoản đầu tư. Thành phần chính của khoản dự phòng giảm giá trị này là khoản lỗ cụ thể có liên quan đến mức độ thiệt hại cụ thể đối với từng khách hàng.\n\nTiền gửi ngân hàng\n\nCông ty mẹ chủ yếu duy trì số dư tiền gửi tại các ngân hàng được nhiều người biết đến tại Việt Nam. Rủi ro tín dụng của số dư tiền gửi tại các ngân hàng được quản lý bởi bộ phận ngân quỹ của Công ty mẹ theo chính sách của Công ty mẹ. Rủi ro tín dụng tối đa của Công ty mẹ đối với các khoản mục trên bản cân đối kế toán tại ngày kết thúc năm tài chính là giá trị ghi sổ như trình bày trong Thuyết minh số 5.1. Công ty mẹ nhận thấy mức độ tập trung rủi ro tín dụng đối với khoản tiền gửi ngân hàng là thấp.\n\n(iii) Rủi ro thanh khoản\n\nRủi ro thanh khoản là rủi ro mà Công ty mẹ sẽ gặp khó khăn khi thực hiện các nghĩa vụ tài chính do thiếu vốn. Rủi ro thanh khoản của Công ty mẹ chủ yếu phát sinh từ việc các tài sản tài chính và nợ phải trả tài chính có thời điểm đáo hạn khác biệt nhau.\n\nCông ty mẹ giảm thiểu rủi ro thanh khoản bằng cách duy trì một lượng tiền mặt và các khoản tương đương tiền và các khoản vay ngân hàng ở mức mà Ban Tổng Giám đốc cho rằng đủ để đáp ứng cho các hoạt động của Công ty mẹ và giảm thiểu rủi ro do những biến động của lường tiền.\n\nBằng dưới đây phân tích đối với tài sản tài chính và các khoản nợ tài chính phi phải sinh vào các nhóm đáo hạn có liên quan dựa trên kỳ hạn còn lại từ ngày lập bằng cân đối kế toán đến ngày đáo hạn theo hợp đồng. Các số tiền được trình bày trong bằng sau là các lường tiền theo hợp đồng không chiết khấu. Việc trình bày thông tin tài sản tài chính phi phải sinh là cần thiết để hiểu được việc quản lý rủi ra thanh khoản của Công ty mẹ khi tính thanh khoản được quản lý trên cơ sở công nợ và tài sản thuần.\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n42\n\n40-C.T.\nTY\nHUU HAN\nF\nNAM\n-T.P.H\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Dưới 1 năm",
+                "2": "Từ 1 năm trở lên",
+                "3": "Tổng cộng"
+            },
+            {
+                "0": "Ngày 31/12/2016",
+                "1": "Ngày 31/12/2016",
+                "2": "Ngày 31/12/2016",
+                "3": "Ngày 31/12/2016"
+            },
+            {
+                "0": "Giá trị ghi sổ:",
+                "1": "Giá trị ghi sổ:",
+                "2": "Giá trị ghi sổ:",
+                "3": "Giá trị ghi sổ:"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền",
+                "1": "328.610.885.880",
+                "2": "-",
+                "3": "328.610.885.880"
+            },
+            {
+                "0": "Phải thu khách hàng",
+                "1": "1.404.975.769.750",
+                "2": "-",
+                "3": "1.404.975.769.750"
+            },
+            {
+                "0": "Đầu tư",
+                "1": "-",
+                "2": "2.868.398.499.205",
+                "3": "2.868.398.499.205"
+            },
+            {
+                "0": "Phải thu khác",
+                "1": "825.235.699.086",
+                "2": "965.552.378",
+                "3": "826.201.251.464"
+            },
+            {
+                "0": "Tài sản tài chính khác",
+                "1": "-",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Trừ:",
+                "1": "Trừ:",
+                "2": "Trừ:",
+                "3": "Trừ:"
+            },
+            {
+                "0": "Dự phòng phải thu khó đòi",
+                "1": "(5.061.330.000)",
+                "2": "-",
+                "3": "(5.061.330.000)"
+            },
+            {
+                "0": "Dự phòng giảm giá các khoản đầu tư",
+                "1": "-",
+                "2": "(686.513.415.410)",
+                "3": "(686.513.415.410)"
+            },
+            {
+                "0": "Tổng cộng",
+                "1": "2.553.761.024.716",
+                "2": "2.182.850.636.173",
+                "3": "4.736.611.660.889"
+            },
+            {
+                "0": "Ngày 31/12/2016",
+                "1": "Ngày 31/12/2016",
+                "2": "Ngày 31/12/2016",
+                "3": "Ngày 31/12/2016"
+            },
+            {
+                "0": "Các khoản vay và nợ",
+                "1": "1.644.054.757.720",
+                "2": "12.419.938.177.577",
+                "3": "14.063.992.935.297"
+            },
+            {
+                "0": "Phải trả người bán",
+                "1": "1.014.220.082.493",
+                "2": "626.944.266.919",
+                "3": "1.641.164.349.412"
+            },
+            {
+                "0": "Phải trả, PN khác và chi phí phải trả",
+                "1": "370.299.886.865",
+                "2": "-",
+                "3": "370.299.886.865"
+            },
+            {
+                "0": "Tổng cộng",
+                "1": "3.028.574.727.078",
+                "2": "13.046.882.444.496",
+                "3": "16.075.457.171.574"
+            },
+            {
+                "0": "Chênh lệch thanh khoản thuần",
+                "1": "(474.813.702.362)",
+                "2": "(10.864.031.808.323)",
+                "3": "(11.338.845.510.685)"
+            },
+            {
+                "0": "Ngày 15/01/2016",
+                "1": "Ngày 15/01/2016",
+                "2": "Ngày 15/01/2016",
+                "3": "Ngày 15/01/2016"
+            },
+            {
+                "0": "Giá trị ghi sổ:",
+                "1": "Giá trị ghi sổ:",
+                "2": "Giá trị ghi sổ:",
+                "3": "Giá trị ghi sổ:"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền",
+                "1": "65.847.900.361",
+                "2": "-",
+                "3": "65.847.900.361"
+            },
+            {
+                "0": "Phải thu khách hàng",
+                "1": "1.501.967.164.474",
+                "2": "-",
+                "3": "1.501.967.164.474"
+            },
+            {
+                "0": "Đầu tư",
+                "1": "-",
+                "2": "2.824.554.177.495",
+                "3": "2.824.554.177.495"
+            },
+            {
+                "0": "Phải thu khác",
+                "1": "1.039.653.482.256",
+                "2": "965.552.378",
+                "3": "1.040.619.034.634"
+            },
+            {
+                "0": "Tài sản tài chính khác",
+                "1": "-",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Trừ:",
+                "1": "Trừ:",
+                "2": "Trừ:",
+                "3": "Trừ:"
+            },
+            {
+                "0": "Dự phòng phải thu khó đòi",
+                "1": "-",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Dự Phòng giảm giá các khoản đầu tư",
+                "1": "-",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "Tổng cộng",
+                "1": "2.607.468.547.091",
+                "2": "2.825.519.729.873",
+                "3": "5.432.988.276.964"
+            },
+            {
+                "0": "Ngày 15/01/2016",
+                "1": "Ngày 15/01/2016",
+                "2": "Ngày 15/01/2016",
+                "3": "Ngày 15/01/2016"
+            },
+            {
+                "0": "Các khoản vay và nợ",
+                "1": "1.643.691.958.169",
+                "2": "14.132.070.729.936",
+                "3": "15.775.762.688.105"
+            },
+            {
+                "0": "Phải trả người bán",
+                "1": "1.068.195.842.261",
+                "2": "618.416.284.351",
+                "3": "1.686.612.126.612"
+            },
+            {
+                "0": "Phải trả, PN khác và chi phí phải trả",
+                "1": "432.169.941.366",
+                "2": "-",
+                "3": "432.169.941.366"
+            },
+            {
+                "0": "Tổng cộng",
+                "1": "3.144.057.741.796",
+                "2": "14.750.487.014.287",
+                "3": "17.894.544.756.083"
+            },
+            {
+                "0": "Chênh lệch thanh khoản thuần",
+                "1": "(536.589.194.705)",
+                "2": "(11.924.967.284.414)",
+                "3": "(12.461.556.479.119)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_37",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n43\n\n9★Mc\n\nVOLI ★ H'H'N\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\nCông ty mẹ cho rằng mức độ tập trung rủi ro đối với việc trả nợ là thấp. Công ty mẹ có đủ khả năng tiếp cận các nguồn vốn cần thiết.\n\n(iv) Giá trị hợp lý\n\nGiá trị ghi số trừ dự phòng của các khoản phải thu ngắn hạn, tiền gửi ngân hàng và các khoản phải trả người bán và phải trả khác là gần bằng với giá trị hợp lý của chúng",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Giá trị ghi sổ",
+                "2": "Giá trị ghi sổ",
+                "3": "Giá trị hợp lý",
+                "4": "Giá trị hợp lý"
+            },
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "15/01/2016",
+                "3": "31/12/2016",
+                "4": "15/01/2016"
+            },
+            {
+                "0": "Tài sản tài chính",
+                "1": "Tài sản tài chính",
+                "2": "Tài sản tài chính",
+                "3": "Tài sản tài chính",
+                "4": "Tài sản tài chính"
+            },
+            {
+                "0": "Các khoản đầu tư nắm giữ đến ngày đáo hạn",
+                "1": "2.868.398.499.205",
+                "2": "2.824.554.177.495",
+                "3": "2.181.885.083.795",
+                "4": "2.824.554.177.495"
+            },
+            {
+                "0": "Các khoản cho vay và phải thu",
+                "1": "Các khoản cho vay và phải thu",
+                "2": "Các khoản cho vay và phải thu",
+                "3": "Các khoản cho vay và phải thu",
+                "4": "Các khoản cho vay và phải thu"
+            },
+            {
+                "0": "Phải thu khách hàng",
+                "1": "1.404.975.769.750",
+                "2": "1.501.967.164.474",
+                "3": "1.399.914.439.750",
+                "4": "1.501.967.164.474"
+            },
+            {
+                "0": "Các khoản PT khác",
+                "1": "826.201.251.464",
+                "2": "1.040.619.034.634",
+                "3": "826.201.251.464",
+                "4": "1.040.619.034.634"
+            },
+            {
+                "0": "Tài sản tài chính sẵn sàng để bán",
+                "1": "Tài sản tài chính sẵn sàng để bán",
+                "2": "Tài sản tài chính sẵn sàng để bán",
+                "3": "Tài sản tài chính sẵn sàng để bán",
+                "4": "Tài sản tài chính sẵn sàng để bán"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền",
+                "1": "328.610.885.880",
+                "2": "65.847.900.361",
+                "3": "328.610.885.880",
+                "4": "65.847.900.361"
+            },
+            {
+                "0": "Tổng cộng",
+                "1": "5.428.186.406.299",
+                "2": "5.432.988.276.964",
+                "3": "4.736.611.660.889",
+                "4": "5.432.988.276.964"
+            },
+            {
+                "0": "Nợ phải trả tài chính",
+                "1": "Nợ phải trả tài chính",
+                "2": "Nợ phải trả tài chính",
+                "3": "Nợ phải trả tài chính",
+                "4": "Nợ phải trả tài chính"
+            },
+            {
+                "0": "Vay và nợ",
+                "1": "14.063.992.935.297",
+                "2": "15.775.762.688.105",
+                "3": "14.063.992.935.297",
+                "4": "15.775.762.688.105"
+            },
+            {
+                "0": "Phải trả người bán",
+                "1": "1.641.164.349.412",
+                "2": "1.686.612.126.612",
+                "3": "1.641.164.349.412",
+                "4": "1.686.612.126.612"
+            },
+            {
+                "0": "Phải trả khác",
+                "1": "370.299.886.865",
+                "2": "432.169.941.366",
+                "3": "370.200.610.411",
+                "4": "432.169.941.366"
+            },
+            {
+                "0": "Tổng cộng",
+                "1": "16.075.457.171.574",
+                "2": "17.894.544.756.083",
+                "3": "16.075.457.171.574",
+                "4": "17.894.544.756.083"
+            }
+        ]
+    },
+    {
+        "chunk_id": "DTK_2016_separate_table_38",
+        "metadata": {
+            "ticker": "DTK",
+            "company_name": "Tổng Công ty Điện lực TKV - CTCP",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "DTK_financial_statements_2016_separate"
+        },
+        "context_text": "Giá trị hợp lý cửa tài sản và nợ phải trả tài chính không được đánh giá và xác định một cách chính thức vào ngày 31/12/2016 và ngày 15/01/2016. Tuy nhiên, Ban Tổng Giám đốc đánh giá giá trị hợp lý cửa những tài sản và phải trả tài chính này không có chênh lệch trọng yếu với giá trị ghi sổ cửa chúng tại ngày kết thúc năm tài chính.\n\n7.2 Thực hiện kiến nghị của Kiểm toán Nhà nước\n\nTrong năm 2008, Kiểm toán nhà nước đã thực hiện kiểm toán Báo cáo tài chính năm 2007 của Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam. Đến ngày lập Báo cáo tài chính này, kiến nghị của Kiểm toán Nhà nước liên quan đến Công ty Nhiệt điện Cao Ngạn - TKV chi nhánh của Công ty mẹ chưa được thực hiện hoặc đã thực hiện nhưng chưa được hoàn tất như sau:\n\nTheo “Báo cáo kiểm toán Dự án Nhà máy Nhiệt điện Cao Ngạn” ngày 15/01/2009 của Kiểm toán Nhà nước, tổng số tiền phạt Công ty TNHH Công trình điện Cáp Nhĩ Tân do nhà thầu này thực hiện chậm tiến độ Gói thầu số 3 - “Thiết kế, cung cấp thiết bị, xây dựng, lắp đặt, chạy thử và chuyển giao công nghệ Nhà máy Nhiệt điện chạy than Cao Ngạn công suất\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n44\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM\n\nCÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n2x50MW” là 8.505.661,63 USD (tương đương với 193.248.632.234 đồng). Tuy nhiên, đến thời điểm lập Báo cáo tài chính này, Công ty Nhiệt điện Cao Ngạn - Vinacomin và nhà thầu vẫn đang trong quá trình đảm phán nên chưa hoàn tất được vấn đề thương mại của gói thầu EPC.\n\nĐồng thời Công ty đang trong quá trình xem xét để trình cấp có thẩm quyền phê duyệt quyết toán vốn đầu tư, vì vậy Tổng Công ty chưa có bút toán điều chỉnh nào được thực hiện liên quan đến vấn đề này.\n\nThuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng\n\n45\n\n\\( \\left|\\left|\\begin{matrix}\\text{A406}\\\\\\text{ING}\\end{matrix}\\right|\\right| \\)  \\( \\left|\\begin{matrix}\\text{IHIEM}\\\\\\text{K}\\end{matrix}\\right| \\)   \\( \\left|\\begin{matrix}\\text{T N}\\\\\\text{JAN}\\end{matrix}\\right| \\)\n\n\n\nTẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP\n\nĐịa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)\n\nNăm tài chính bắt đầu từ ngày 15/01/2016 và kết thúc vào ngày 31/12/2016\n\n7.3 Báo cáo bộ phận\n\nTổng Công ty báo cáo kết quả hoạt động kinh doanh theo các lĩnh vực hoạt động, bao gồm: Doanh thu than, Doanh thu điện và Doanh thu khác. Chi tiết kết quả hoạt động kinh doanh theo từng ngành nghề như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Than VND",
+                "2": "Điện VND",
+                "3": "Khác VND",
+                "4": "Tổng cộng VND"
+            },
+            {
+                "0": "Doanh thu",
+                "1": "-",
+                "2": "(326.273.581.932)",
+                "3": "1.056.310.803",
+                "4": "(325.217.271.129)"
+            },
+            {
+                "0": "Các khoản giảm trừ",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Giá vốn hàng bán",
+                "1": "-",
+                "2": "190.729.579.764",
+                "3": "1.017.738.245",
+                "4": "191.747.318.009"
+            },
+            {
+                "0": "Lợi nhuận gộp",
+                "1": "-",
+                "2": "(517.003.161.696)",
+                "3": "38.572.558",
+                "4": "(516.964.589.138)"
+            },
+            {
+                "0": "Từ 15/01/2016 đến 31/12/2016",
+                "1": "Từ 15/01/2016 đến 31/12/2016",
+                "2": "Từ 15/01/2016 đến 31/12/2016",
+                "3": "Từ 15/01/2016 đến 31/12/2016",
+                "4": "Từ 15/01/2016 đến 31/12/2016"
+            },
+            {
+                "0": "Doanh thu",
+                "1": "131.456.990.630",
+                "2": "6.283.463.671.279",
+                "3": "46.849.054.292",
+                "4": "6.461.769.716.201"
+            },
+            {
+                "0": "Các khoản giảm trừ",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Giá vốn hàng bán",
+                "1": "131.456.990.630",
+                "2": "5.264.048.232.952",
+                "3": "44.331.438.933",
+                "4": "5.439.836.662.515"
+            },
+            {
+                "0": "Lợi nhuận gộp",
+                "1": "-",
+                "2": "1.019.415.438.327",
+                "3": "2.517.615.359",
+                "4": "1.021.933.053.686"
+            }
+        ]
+    }
+]

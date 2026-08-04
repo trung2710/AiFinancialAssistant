@@ -1,0 +1,4060 @@
+[
+    {
+        "chunk_id": "VRE_2019_separate_table_1",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "CÔNG TY CÓ PHẦN VINCOM RETAIL\n\nC3 ⊕ B0\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập – Tự do – Hạnh phúc\n\nG\n\nHà Nội, ngày 30 tháng 03 năm 2020\n\nSố:.049./2020/CV-TGD-VCR JSC\n\nCÔNG BÓ THÔNG TIN TRÊN CÔNG THÔNG TIN ĐIỆN TỪ CỦA\nỦY BAN CHỨNG KHOÁN NHÀ NƯỚC VÀ SGDCK TPHCM\n\nKính gửi: - Ủy ban Chứng khoán Nhà nước\n\n- Sở Giao dịch Chứng khoán TP. Hồ Chí Minh\n\nCông ty: CÔNG TY CÓ PHẦN VINCOM RETAIL (\"Công ty\")\n\nMã chứng khoán: VRE\n\nĐịa chỉ trụ sở chính: Số 7, đường Bằng Lăng 1, khu đô thị sinh thái Vinhomes Riverside, phường Việt Hưng, quận Long Biên, Thành phố Hà Nội\n\nĐiện thoại: (84 24) 3974 9999\n\nFax: (84 24) 3974 8888\n\nNgười thực hiện công bố thông tin: Trần Mai Hoa – Tổng Giám đốc\n\nLoại thông tin công bố: □ 24 giờ □ 72 giờ □ bất thường □ theo yêu cầu √ định kỳ\n\nNội dung thông tin công bố: Báo cáo tài chính năm 2019 đã được kiểm toán\n\nThông tin này được công bố trên trang thông tin điện tử của Công ty: http://ir.vincom.com.vn vào ngày. 30./.03./2020.\n\nChúng tôi xin cam kết các thông tin công bố trên dây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố.\n\nNơi nhận:\n\n- Như trên\n\n- Liru VP.\n\nĐẠI DIỆN THEO PHÁP LUẬT CỦA CÔNG TY\n\nTRẦN MAI HOA\n\n\n\nPHỤ LỤC 1- GIẢI TRÌNH BIẾN ĐỘNG KẾT QUẢ KINH DOANH RIÊNG SO VỚI NĂM TRƯỚC\n\nĐơn vị tính: Triệu VND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "Chỉ tiêu",
+                "2": "Năm nay",
+                "3": "Năm trước",
+                "4": "Chênh lệch",
+                "5": "%"
+            },
+            {
+                "0": "10",
+                "1": "Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "3.808.486",
+                "3": "1.526.303",
+                "4": "2.282.183",
+                "5": "150%"
+            },
+            {
+                "0": "11",
+                "1": "Giá vốn hàng bán và dịch vụ cung cấp",
+                "2": "2.344.237",
+                "3": "1.017.675",
+                "4": "1.326.562",
+                "5": "130%"
+            },
+            {
+                "0": "21",
+                "1": "Doanh thu hoạt động tài chính",
+                "2": "3.433.674",
+                "3": "1.337.762",
+                "4": "2.095.912",
+                "5": "157%"
+            },
+            {
+                "0": "22",
+                "1": "Chỉ phí tài chính",
+                "2": "275.249",
+                "3": "351.290",
+                "4": "(76.041)",
+                "5": "-22%"
+            },
+            {
+                "0": "25",
+                "1": "Chỉ phí bán hàng",
+                "2": "156.695",
+                "3": "59.787",
+                "4": "96.908",
+                "5": "162%"
+            },
+            {
+                "0": "26",
+                "1": "Chỉ phí quản lý doanh nghiệp",
+                "2": "96.375",
+                "3": "40.959",
+                "4": "55.416",
+                "5": "135%"
+            },
+            {
+                "0": "60",
+                "1": "Lợi nhuận sau thuế TNDN",
+                "2": "4.102.673",
+                "3": "1.227.590",
+                "4": "2.875.083",
+                "5": "234%"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_2",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Giải trình nguyên nhân biến động trong trường hợp kết quả kinh doanh giữa hai kỳ báo cáo biến động từ 10% trở lên:\n\n- Doanh thu thuần về bán hàng và cung cấp dịch vụ tăng 2.282 tỷ, trong đó: Doanh thu cho thuê bất động sản đầu tư và cung cấp dịch vụ liên quan tăng 857 tỷ VND do các trung tâm thương mại mở mới trong năm 2018 di vào hoạt động ổn định; Doanh thu chuyển nhượng bất động sản tăng 1.344 tỷ VND. Giá vốn hàng bán và dịch vụ cung cấp tăng tương ứng với doanh thu ghi nhận.\n\n- Doanh thu hoạt động tài chính tăng 2.096 tỷ đồng so với năm 2018 chủ yếu do: (i) tăng 2.392 tỷ đồng lợi nhuận được chia từ công ty con; (ii) giảm lãi tiền gửi, lãi cho vay và đặt cọc 296 tỷ đồng.\n\n- Chi phí tài chính giảm 76 tỷ đồng chủ yếu do giảm 74 tỷ đồng chi phí lãi vay do đã thanh toán bót khoản vay.\n\n- Chi phí bán hàng và chi phí quản lý doanh nghiệp tăng theo mức tăng trưởng của doanh thu.\n\n- Lợi nhuận sau thuế TNDN tăng 2.875 tỷ đồng so với năm trước do các nguyên nhân nếu trên.\n\nNO:01058\n\n\n\nPHỤ LỤC 2 - GIẢI TRÌNH BIẾN ĐỘNG KẾT QUẢ KINH DOANH HỢP NHÁT SO VỚI NĂM TRƯỚC\n\nĐơn vị tính: Triệu VND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "Chỉ tiêu",
+                "2": "Năm 2019",
+                "3": "Năm 2018",
+                "4": "Chênh lệch",
+                "5": "%"
+            },
+            {
+                "0": "10",
+                "1": "Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "9.259.257",
+                "3": "9.123.952",
+                "4": "135.305",
+                "5": "1%"
+            },
+            {
+                "0": "11",
+                "1": "Giá vốn hàng bán và dịch vụ cung cấp",
+                "2": "4.855.637",
+                "3": "5.482.655",
+                "4": "(627.018)",
+                "5": "-11%"
+            },
+            {
+                "0": "21",
+                "1": "Doanh thu hoạt động tài chính",
+                "2": "265.083",
+                "3": "519.224",
+                "4": "(254.141)",
+                "5": "-49%"
+            },
+            {
+                "0": "22",
+                "1": "Chi phí tài chính",
+                "2": "302.500",
+                "3": "417.400",
+                "4": "(114.900)",
+                "5": "-28%"
+            },
+            {
+                "0": "26",
+                "1": "Chi phí quản lý doanh nghiệp",
+                "2": "448.658",
+                "3": "342.115",
+                "4": "106.543",
+                "5": "31%"
+            },
+            {
+                "0": "60",
+                "1": "Lợi nhuận sau thuế TNDN",
+                "2": "2.851.933",
+                "3": "2.413.227",
+                "4": "438.706",
+                "5": "18%"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_3",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Giải trình nguyên nhân biến động trong trường hợp kết quả kinh doanh giữa hai kỳ báo cáo biến động từ 10% trở lên:\n\n- Giá vốn hàng bán giảm 627 tỷ đồng so với năm 2018, tương đương với 11% do: (i) Giá vốn cho thuê bất động sản đầu tư và cung cấp các dịch vụ liên quan tăng 640 tỷ đồng tương ứng với mức tăng của doanh thu cho thuê bất động sản đầu tư và các dịch vụ liên quan (tăng 1.511 tỷ đồng); (ii) Giá vốn chuyển nhượng bất động sản giảm 1.334 tỷ đồng tương ứng với mức giảm của doanh thu chuyển nhượng bất động sản.\n\n- Doanh thu hoạt động tài chính giảm 254 tỷ do giảm thu nhập từ lãi cho vay và hoạt động đầu tư.\n\n- Chi phí tài chính giảm 115 tỷ đồng với với năm 2018, tương đương với 28% do: (i) giảm chi phí lãi vay 74 tỷ đồng do thanh toán bót khoản vay trong năm 2018; (ii) chi phí tài chính khác giảm 39 tỷ chủ yếu do giảm khoản chiết khấu thanh toán sớm liên quan tới bất động sản tương ứng với doanh thu bàn giao.\n\n- Lợi nhuận sau thuế TNDN tăng 438 tỷ đồng, tương đương với 18% so với năm trước do các nguyên nhân nếu trên.\n\nOM RETAIL\n\n\n\nKPMG\n\nCông ty Cổ phần Vincom Retail\n\nBáo cáo tài chính riêng cho năm tài chính\nkết thúc ngày 31 tháng 12 năm 2019\n\n\n\nCông ty Cổ phần Vincom Retail\nThông tin về Công ty\n\nGiấy Chứng nhận Đăng ký\nDoanh nghiệp số\n\n0105850244 ngày 11 tháng 4 năm 2012\n\nGiấy Chứng nhận Đăng ký Doanh nghiệp của Công ty đã được điều chỉnh nhiều lần, lần điều chỉnh gần nhất là ngày 2 tháng 1 năm 2019. Giấy Chứng nhận Đăng ký Doanh nghiệp của Công ty do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp.",
+        "dataframe": [
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Bà Thái Thị Thanh Hải",
+                "2": "Chủ tịch"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Bà Mai Thu Thủy",
+                "2": "Thành viên(dến ngày 1 tháng 8 năm 2019)"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Bà Trần Mai Hoa",
+                "2": "Thành viên"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Bà Nguyễn Thị Dịu",
+                "2": "Thành viên"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Bà Lê Mai Lan",
+                "2": "Thành viên"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Ông Jeffrey David Perlman",
+                "2": "Thành viên(dến ngày 8 tháng 7 năm 2019)"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Ông Timothy J. Daly",
+                "2": "Thành viên"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Ông Brett Krause",
+                "2": "Thành viên"
+            },
+            {
+                "0": "Hội đồng Quản trị",
+                "1": "Ông Phan Thanh Sơn",
+                "2": "Thành viên(dến ngày 1 tháng 8 năm 2019)"
+            },
+            {
+                "0": "Ban Giám đốc",
+                "1": "Bà Trần Mai HoaÔng Nguyễn Anh DũngBà Trần Thu HiềnBà Phạm Ngọc Thoa",
+                "2": "Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcGiám đốc Tài chính"
+            },
+            {
+                "0": "Ban Kiểm soát",
+                "1": "Bà Đỗ Thị Quỳnh Trang",
+                "2": "Trường ban Kiểm soát"
+            },
+            {
+                "0": "Ban Kiểm soát",
+                "1": "Bà Nguyễn Thu Phương",
+                "2": "Thành viên"
+            },
+            {
+                "0": "Ban Kiểm soát",
+                "1": "Bà Trần Thanh Tâm",
+                "2": "Thành viên"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_4",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "",
+        "dataframe": [
+            {
+                "0": "Trụ sở đăng ký",
+                "1": "Số 7, Đường Bằng Lăng 1Khu đô thị sinh thái Vinhomes RiversidePhường Việt Hung, Quận Long BiênThành phố Hà NộiViệt Nam"
+            },
+            {
+                "0": "Công ty kiểm toán",
+                "1": "Công ty TNHH KPMG Việt Nam"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_5",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "1\n\n\n\nCông ty Cổ phần Vincom Retail\nBáo cáo của Ban Giám đốc\n\nBan Giám đốc Công ty Cổ phần Vincom Retail (\"Công ty\") trình bày báo cáo này và báo cáo tải chính riêng dính kèm của Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019.\n\nBan Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính riêng theo các Chuẩn mực Kế toán Việt Nam. Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Theo ý kiến của Ban Giám đốc Công ty:\n\n(a) báo cáo tài chính riêng được trình bày từ trang 6 đến trang 46 đã phản ánh trung thực và hợp lý tính hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2019, kết quả hoạt động kinh doanh riêng và lưu chuyển tiền tệ riêng của Công ty cho năm tài chính kết thúc cũng ngày phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính; và\n\n(b) tại ngày lập báo cáo này, không có lý do gì để Ban Giám đốc Công ty cho ràng Công ty sẽ không thể thanh toán các khoản nợ phải trả khi đến hạn.\n\nTại ngày lập báo cáo này. Ban Giám đốc Công ty đã phê duyệt phát hành báo cáo tài chính riêng dính kèm.\n\nHà Nội, ngày 25 tháng 3 năm 2020\n\n?\n\n\n\nKPMG\n\nKPMG Limited Branch\n\n\\(10^{\\text{th}}\\) Floor, Sun Wah Tower\n\n115 Nguyen Hue Street, Ben Nghe Ward\n\nDistrict 1, Ho Chi Minh City, Vietnam\n\n+84 (28) 3821 9266 | kpmg.com.vn\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP\n\nKính gửi các Cổ đông\n\nCông ty Cổ phần Vincom Retail\n\nChủng tối đã kiểm toán báo cáo tài chính riêng dính kèm của Công ty Cổ phần Vincom Retail (\"Công ty\"), bao gồm bảng cân đối kế toán riêng tai ngày 31 tháng 12 năm 2019, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tế riêng cho năm tài chính kết thúc cùng ngày và các thuyết minh kèm theo được Ban Giám đốc Công ty phê duyệt phát hành ngày 25 tháng 3 năm 2020, được trình bày từ trang ô đến trang 46.\n\nTrách nhiệm của Ban Giám đốc\n\nBan Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính riêng này theo các Chuẩn mục Kế toán Việt Nam. Chế đồ Kế toán Doanh nghiệp Việt Nam và các quy định pháp ly có liên quan đến việc lập và trình bày bảo cáo tài chính, và chịu trách nhiệm về kiểm soát nội bộ mã Ban Giám đốc xác định là cần thiết để đảm bảo việc lập bảo cáo tài chính riêng không có sai sốt trong yếu do gian lần hay nhằm lẫn.\n\nTrách nhiệm của kiểm toán viên\n\nTrách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng này dựa trên kết quả kiểm toán của chúng tôi. Chủng tối đã thực hiện công việc kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng có còn sai sót trong yếu hay không.\n\nCông việc kiểm toán bao gồm việc thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và các thuyết minh trong báo cáo tài chính. Các thủ tục được lựa chọn dưa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sốt trong yếu trong báo cáo tài chính do gian lân hoặc nhằm lỗn. Khi thực hiện các đánh giá rủi ro này, kiểm toán viên xem xét kiểm soát nổi bộ của Công ty liên quan tới việc lập và trình bày báo cáo tài chính trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiểu quả của kiểm soát nổi bộ của Công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Giám đốc Công ty, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính.\n\nChúng tôi tin răng các bằng chứng kiểm toán mà chủng tôi thu được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chủng tôi.\n\nKPMG limited Branch of the State, a member of KPMG, being a Chinese one member in the company and a member of the KPMG sector of independent member for affiliated with KPMG International Cooperative (KPMG) territory.\n\n?\n\n\n\nKPMG\n\nÝ kiến của kiểm toán viên\n\nTheo ý kiến của chúng tối, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khía cạnh trong yếu, tỉnh hình tài chính riêng của Công ty Cổ phần Vincom Retail tại ngày 31 tháng 12 năm 2019, kết quả hoạt động kinh doanh riêng và lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cũng ngày, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.\n\nChínhánh Công ty TNHH KPMG tại Thành phố Hồ Chí Minh\n\nViet Nam\n\nBáo cáo kiểm toán số: 19-01-00249-20-1\n\nCHI NHANH\n\nCÔNG TÍ NYNH\n\nKPMG00\n\nHà Vù Dìn\n\nGiay Chung nhan Dang ký Hanh nghe\n\nKiểm toán số 0414-2018-007-1\n\nPhó Tổng Giám đốc\n\nChang Hung Chun\n\nGiấy Chứng nhận Đăng ký Hành nghề\n\nKiểm toán số 0863-2018-007-1\n\nThành phố Hồ Chí Minh, ngày 25 tháng 3 năm 2020\n\n4\n\n\n\nCông ty Cổ phần Vincom Retail\n\nBảng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2019\n\nMâu B 01 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "31/12/2019Triệu VND",
+                "4": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "TÀI SẢN",
+                "1": "TÀI SẢN",
+                "2": "TÀI SẢN",
+                "3": "TÀI SẢN",
+                "4": "TÀI SẢN"
+            },
+            {
+                "0": "Tài sản ngắn hạn\\( (100 = 110 + 120 + 130 + 140 + 150) \\)",
+                "1": "100",
+                "2": "",
+                "3": "5.364.782",
+                "4": "6.838.572"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền",
+                "1": "110",
+                "2": "4",
+                "3": "1.197.520",
+                "4": "2.051.375"
+            },
+            {
+                "0": "Tiền",
+                "1": "111",
+                "2": "",
+                "3": "1.197.520",
+                "4": "401.375"
+            },
+            {
+                "0": "Các khoản tương đương tiền",
+                "1": "112",
+                "2": "",
+                "3": "-",
+                "4": "1.650.000"
+            },
+            {
+                "0": "Đầu tư tài chính ngắn hạn",
+                "1": "120",
+                "2": "",
+                "3": "700.000",
+                "4": "600.000"
+            },
+            {
+                "0": "Đầu tư nằm giữ đến ngày đáo hạn",
+                "1": "123",
+                "2": "5(c)",
+                "3": "700.000",
+                "4": "600.000"
+            },
+            {
+                "0": "Các khoản phải thu ngắn hạn",
+                "1": "130",
+                "2": "",
+                "3": "1.398.011",
+                "4": "1.520.935"
+            },
+            {
+                "0": "Phải thu ngắn hạn của khách hàng",
+                "1": "131",
+                "2": "6",
+                "3": "279.822",
+                "4": "262.676"
+            },
+            {
+                "0": "Trả trước cho người bán ngắn hạn",
+                "1": "132",
+                "2": "",
+                "3": "54.606",
+                "4": "164.344"
+            },
+            {
+                "0": "Phải thu về cho vay ngắn hạn",
+                "1": "135",
+                "2": "7(a)",
+                "3": "-",
+                "4": "792.293"
+            },
+            {
+                "0": "Phải thu ngắn hạn khác",
+                "1": "136",
+                "2": "8",
+                "3": "1.064.460",
+                "4": "301.667"
+            },
+            {
+                "0": "Dự phòng các khoản phải thu khó đòi",
+                "1": "137",
+                "2": "9",
+                "3": "(877)",
+                "4": "(45)"
+            },
+            {
+                "0": "Hàng tồn kho",
+                "1": "140",
+                "2": "10",
+                "3": "952.143",
+                "4": "772.330"
+            },
+            {
+                "0": "Hàng tồn kho",
+                "1": "141",
+                "2": "",
+                "3": "952.143",
+                "4": "772.330"
+            },
+            {
+                "0": "Tài sản ngắn hạn khác",
+                "1": "150",
+                "2": "",
+                "3": "1.117.108",
+                "4": "1.893.932"
+            },
+            {
+                "0": "Chi phí trả trước ngắn hạn",
+                "1": "151",
+                "2": "16(a)",
+                "3": "51.225",
+                "4": "110.932"
+            },
+            {
+                "0": "Thuế giá trị gia tăng được khấu trừ",
+                "1": "152",
+                "2": "",
+                "3": "650",
+                "4": "-"
+            },
+            {
+                "0": "Thuế và các khoản phải thu Nhà nước",
+                "1": "153",
+                "2": "",
+                "3": "233",
+                "4": "-"
+            },
+            {
+                "0": "Tài sản ngắn hạn khác",
+                "1": "155",
+                "2": "11",
+                "3": "1.065.000",
+                "4": "1.783.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_6",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính riêng này\n\n5\n\n\n\nCông ty Cổ phần Vincom Retail\n\nBảng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMãu B 01 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "31/12/2019Triệu VND",
+                "4": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Tài sản dài hạn (\\( 200 = 210 + 220 + 230 + 240 + 250 + 260 \\))",
+                "1": "200",
+                "2": "",
+                "3": "23.670.937",
+                "4": "22.716.754"
+            },
+            {
+                "0": "Các khoản phải thu dài hạn",
+                "1": "210",
+                "2": "",
+                "3": "1.403.223",
+                "4": "1.401.849"
+            },
+            {
+                "0": "Phải thu về cho vay dài hạn",
+                "1": "215",
+                "2": "7(b)",
+                "3": "1.400.000",
+                "4": "1.400.000"
+            },
+            {
+                "0": "Phải thu dài hạn khác",
+                "1": "216",
+                "2": "",
+                "3": "3.223",
+                "4": "1.849"
+            },
+            {
+                "0": "Tài sản cố định",
+                "1": "220",
+                "2": "",
+                "3": "31.862",
+                "4": "27.850"
+            },
+            {
+                "0": "Tài sản cố định hữu hình",
+                "1": "221",
+                "2": "12",
+                "3": "10.264",
+                "4": "3.686"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "222",
+                "2": "",
+                "3": "13.054",
+                "4": "5.088"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế",
+                "1": "223",
+                "2": "",
+                "3": "(2.790)",
+                "4": "(1.402)"
+            },
+            {
+                "0": "Tài sản cố định vô hình",
+                "1": "227",
+                "2": "13",
+                "3": "21.598",
+                "4": "24.164"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "228",
+                "2": "",
+                "3": "44.222",
+                "4": "40.170"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế",
+                "1": "229",
+                "2": "",
+                "3": "(22.624)",
+                "4": "(16.006)"
+            },
+            {
+                "0": "Bất động sản đầu tư",
+                "1": "230",
+                "2": "14",
+                "3": "4.268.587",
+                "4": "2.858.866"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "231",
+                "2": "",
+                "3": "4.692.049",
+                "4": "3.145.230"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế",
+                "1": "232",
+                "2": "",
+                "3": "(423.462)",
+                "4": "(286.364)"
+            },
+            {
+                "0": "Tài sản dở dang dài hạn",
+                "1": "240",
+                "2": "",
+                "3": "377.409",
+                "4": "371.762"
+            },
+            {
+                "0": "Chi phí xây dựng cơ bản dở dang",
+                "1": "242",
+                "2": "15",
+                "3": "377.409",
+                "4": "371.762"
+            },
+            {
+                "0": "Đầu tư tài chính dài hạn",
+                "1": "250",
+                "2": "",
+                "3": "16.942.609",
+                "4": "17.469.885"
+            },
+            {
+                "0": "Dầu tư vào công ty con",
+                "1": "251",
+                "2": "5(a)",
+                "3": "12.579.789",
+                "4": "12.199.789"
+            },
+            {
+                "0": "Dầu tư vào đơn vị khác",
+                "1": "253",
+                "2": "5(b)",
+                "3": "4.362.820",
+                "4": "3.570.096"
+            },
+            {
+                "0": "Dầu tư nằm giữ đến ngày đáo hạn",
+                "1": "255",
+                "2": "5(c)",
+                "3": "-",
+                "4": "1.700.000"
+            },
+            {
+                "0": "Tài sản dài hạn khác",
+                "1": "260",
+                "2": "",
+                "3": "647.247",
+                "4": "586.542"
+            },
+            {
+                "0": "Chi phí trả trước dài hạn",
+                "1": "261",
+                "2": "16(b)",
+                "3": "50.247",
+                "4": "30.542"
+            },
+            {
+                "0": "Tài sản dài hạn khác",
+                "1": "268",
+                "2": "11",
+                "3": "597.000",
+                "4": "556.000"
+            },
+            {
+                "0": "TỔNG TÀI SẢN (\\( 270 = 100 + 200 \\))",
+                "1": "270",
+                "2": "",
+                "3": "29.035.719",
+                "4": "29.555.326"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_7",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Các thuyết minh đình kèm là bộ phận hợp thành của báo cáo tài chính riêng này\n\n6\n\n\n\nCông ty Cổ phần Vincom Retail\n\nBảng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 01 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "31/12/2019Triệu VND",
+                "4": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "NGUỒN VỐN",
+                "1": "NGUỒN VỐN",
+                "2": "NGUỒN VỐN",
+                "3": "NGUỒN VỐN",
+                "4": "NGUỒN VỐN"
+            },
+            {
+                "0": "NỘ PHẢI TRẢ (300 = 310 + 330)",
+                "1": "300",
+                "2": "",
+                "3": "5.029.817",
+                "4": "5.252.580"
+            },
+            {
+                "0": "Nợ ngắn hạn",
+                "1": "310",
+                "2": "",
+                "3": "2.036.684",
+                "4": "2.275.745"
+            },
+            {
+                "0": "Phải trả người bán ngắn hạn",
+                "1": "311",
+                "2": "17",
+                "3": "214.731",
+                "4": "419.861"
+            },
+            {
+                "0": "Người mua trả tiền trước ngắn hạn",
+                "1": "312",
+                "2": "18",
+                "3": "436.259",
+                "4": "778.647"
+            },
+            {
+                "0": "Thuế và các khoản phải nộp Nhà nước",
+                "1": "313",
+                "2": "19",
+                "3": "78.870",
+                "4": "95.614"
+            },
+            {
+                "0": "Phải trả người lao động",
+                "1": "314",
+                "2": "",
+                "3": "469",
+                "4": "655"
+            },
+            {
+                "0": "Chỉ phí phải trả ngắn hạn",
+                "1": "315",
+                "2": "20",
+                "3": "567.395",
+                "4": "370.205"
+            },
+            {
+                "0": "Doanh thu chưa thực hiện ngắn hạn",
+                "1": "318",
+                "2": "21(a)",
+                "3": "7.332",
+                "4": "4.208"
+            },
+            {
+                "0": "Phải trả ngắn hạn khác",
+                "1": "319",
+                "2": "22(a)",
+                "3": "721.783",
+                "4": "598.923"
+            },
+            {
+                "0": "Dự phòng phải trả ngắn hạn",
+                "1": "321",
+                "2": "24",
+                "3": "9.845",
+                "4": "7.632"
+            },
+            {
+                "0": "Nợ dài hạn",
+                "1": "330",
+                "2": "",
+                "3": "2.993.133",
+                "4": "2.976.835"
+            },
+            {
+                "0": "Doanh thu chưa thực hiện dài hạn",
+                "1": "336",
+                "2": "21(b)",
+                "3": "120.204",
+                "4": "107.774"
+            },
+            {
+                "0": "Phải trả dư hạn khác",
+                "1": "337",
+                "2": "22(c)",
+                "3": "274.834",
+                "4": "271.846"
+            },
+            {
+                "0": "Trải phiếu phát hành dài hạn",
+                "1": "338",
+                "2": "23",
+                "3": "2.595.095",
+                "4": "2.597.215"
+            },
+            {
+                "0": "Vốn chủ sở hữu (400 = 410)",
+                "1": "400",
+                "2": "",
+                "3": "24.005.902",
+                "4": "24.302.746"
+            },
+            {
+                "0": "Vốn chủ sở hữu",
+                "1": "410",
+                "2": "25",
+                "3": "24.005.902",
+                "4": "24.302.746"
+            },
+            {
+                "0": "Vốn cổ phần",
+                "1": "411",
+                "2": "26",
+                "3": "23.288.184",
+                "4": "23.288.184"
+            },
+            {
+                "0": "- Cổ phiếu phổ thông cổ quyềnbiểu quyết",
+                "1": "411a",
+                "2": "",
+                "3": "23.288.184",
+                "4": "23.288.184"
+            },
+            {
+                "0": "Thắng dư vốn cổ phần",
+                "1": "412",
+                "2": "",
+                "3": "46.983",
+                "4": "46.983"
+            },
+            {
+                "0": "Cổ phiếu quỹ",
+                "1": "415",
+                "2": "",
+                "3": "(1.954.258)",
+                "4": "-"
+            },
+            {
+                "0": "Quỹ khác thuộc vốn chủ sở hữu",
+                "1": "420",
+                "2": "",
+                "3": "5.000",
+                "4": "-"
+            },
+            {
+                "0": "Lợi nhuận sau thuế chưa phân phối",
+                "1": "421",
+                "2": "",
+                "3": "2.619.993",
+                "4": "967.579"
+            },
+            {
+                "0": "- Lỗ lũy kế đến cuối năm trước",
+                "1": "421a",
+                "2": "",
+                "3": "-",
+                "4": "(260.010)"
+            },
+            {
+                "0": "- LNST chưa phân phối năm nay",
+                "1": "421b",
+                "2": "",
+                "3": "2.619.993",
+                "4": "1.227.589"
+            },
+            {
+                "0": "TỔNG NGUỒN VỐN(440 = 300 + 400)",
+                "1": "440",
+                "2": "",
+                "3": "29.035.719",
+                "4": "29.555.326"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_8",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Ngày 25 tháng 3 năm 2020\n\nNgười lập:\n\nPhùng Thị Thanh\n\nNgười duyệt\n\nNguyễn Thị Xuân Nghĩa\n\nKế tuân Trương\n\nCác thuyết minh dính kèm là bộ phận hợp thành của báo cáo tài chính riêng này\n\n7\n\n\n\nCông ty Cổ phần Vincom Retail\n\nBáo cáo kết quả hoạt động kinh doanh riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019\n\nMâu B 02 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "2019Triệu VND",
+                "4": "2018Triệu VND"
+            },
+            {
+                "0": "Doanh thu bán hàng và cung cấp dịch vụ",
+                "1": "01",
+                "2": "29",
+                "3": "3.808.486",
+                "4": "1.526.303"
+            },
+            {
+                "0": "Các khoản giảm trừ doanh thu",
+                "1": "02",
+                "2": "29",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02)",
+                "1": "10",
+                "2": "29",
+                "3": "3.808.486",
+                "4": "1.526.303"
+            },
+            {
+                "0": "Giá vốn hàng bán",
+                "1": "11",
+                "2": "30",
+                "3": "2.344.237",
+                "4": "1.017.675"
+            },
+            {
+                "0": "Lợi nhuận gộp (20 = 10 - 11)",
+                "1": "20",
+                "2": "",
+                "3": "1.464.249",
+                "4": "508.628"
+            },
+            {
+                "0": "Doanh thu hoạt động tải chính",
+                "1": "21",
+                "2": "31",
+                "3": "3.433.674",
+                "4": "1.337.762"
+            },
+            {
+                "0": "Chi phí tài chính",
+                "1": "22",
+                "2": "32",
+                "3": "275.249",
+                "4": "351.290"
+            },
+            {
+                "0": "Trong đó: Chi phí lãi vay",
+                "1": "23",
+                "2": "",
+                "3": "274.908",
+                "4": "351.230"
+            },
+            {
+                "0": "Chi phí bán hàng",
+                "1": "25",
+                "2": "33",
+                "3": "156.695",
+                "4": "59.787"
+            },
+            {
+                "0": "Chi phí quản lý doanh nghiệp",
+                "1": "26",
+                "2": "34",
+                "3": "96.375",
+                "4": "40.959"
+            },
+            {
+                "0": "Lợi nhuận thuần từ hoạt động kinh doanh\\( \\{ {30} = {20} + \\left( {{21} - {22}}\\right) - \\left( {{25} + {26}}\\right) \\} \\)",
+                "1": "30",
+                "2": "",
+                "3": "4.369.604",
+                "4": "1.394.354"
+            },
+            {
+                "0": "Thu nhập khác",
+                "1": "31",
+                "2": "",
+                "3": "12.930",
+                "4": "1.488"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "32",
+                "2": "",
+                "3": "1.186",
+                "4": "7.081"
+            },
+            {
+                "0": "Kết quả từ các hoạt động khác(40 = 31 - 32)",
+                "1": "40",
+                "2": "",
+                "3": "11.744",
+                "4": "(5.593)"
+            },
+            {
+                "0": "Lợi nhuận kế toán trước thuế(50 = 30 + 40)",
+                "1": "50",
+                "2": "",
+                "3": "4.381.348",
+                "4": "1.388.761"
+            },
+            {
+                "0": "Chi phí thuế TNDN hiện hành",
+                "1": "51",
+                "2": "36",
+                "3": "278.675",
+                "4": "161.172"
+            },
+            {
+                "0": "Chi phí thuế TNDN hoãn lại",
+                "1": "52",
+                "2": "36",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Lợi nhuận sau thuế TNDN(60 = 50 - 51 - 52)",
+                "1": "60",
+                "2": "",
+                "3": "4.102.673",
+                "4": "1.227.589"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_9",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Ngày 25 tháng 3 năm 2020\n\nNgười lập:\n\nPhùng Thị Thanh\n\nNgười duyệt:\n\nNguyễn Thị Xuân Nghĩa\nKế toán Trương\n\nTrân-Mai Hoa\nTổng Giám đốc\n\nCác thuyết minh đình kèm là bộ phận hợp thành của báo cáo tài chính riêng này\n\n8\n\n\n\nCông ty Cổ phần Vincom Retail\n\nBáo cáo lưu chuyển tiên tệ riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (Phương pháp gián tiếp)\n\nMâu B 03 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "2019Triệu VND",
+                "4": "2018Triệu VND"
+            },
+            {
+                "0": "LUÙ CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "1": "LUÙ CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "LUÙ CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "3": "LUÙ CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "4": "LUÙ CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH"
+            },
+            {
+                "0": "Lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản",
+                "1": "01",
+                "2": "",
+                "3": "4.381.348",
+                "4": "1.388.761"
+            },
+            {
+                "0": "Khẩu hao và phân bổ",
+                "1": "02",
+                "2": "",
+                "3": "145.108",
+                "4": "124.715"
+            },
+            {
+                "0": "Các khoản dự phòng",
+                "1": "03",
+                "2": "",
+                "3": "3.045",
+                "4": "213"
+            },
+            {
+                "0": "Lãi từ các hoạt động đầu tư",
+                "1": "05",
+                "2": "",
+                "3": "(3.433.674)",
+                "4": "(1.337.538)"
+            },
+            {
+                "0": "Chi phí lãi vay và phát hành trái phiếu",
+                "1": "06",
+                "2": "",
+                "3": "274.908",
+                "4": "351.230"
+            },
+            {
+                "0": "Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động",
+                "1": "08",
+                "2": "",
+                "3": "1.370.735",
+                "4": "527.381"
+            },
+            {
+                "0": "Biến động các khoản phải thu và tài sản khác",
+                "1": "09",
+                "2": "",
+                "3": "128.890",
+                "4": "(121.104)"
+            },
+            {
+                "0": "Biến động hàng tồn kho",
+                "1": "10",
+                "2": "",
+                "3": "(179.813)",
+                "4": "(396.040)"
+            },
+            {
+                "0": "Biến động các khoản phases trả và nợ phải trả khác",
+                "1": "11",
+                "2": "",
+                "3": "(371.750)",
+                "4": "1.259.550"
+            },
+            {
+                "0": "Biến động chủ phí trả trước",
+                "1": "12",
+                "2": "",
+                "3": "40.036",
+                "4": "(77.909)"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "988.098",
+                "4": "1.191.878"
+            },
+            {
+                "0": "Tiền lãi vay đã trả",
+                "1": "14",
+                "2": "",
+                "3": "(257.653)",
+                "4": "(360.206)"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp đã nộp",
+                "1": "15",
+                "2": "",
+                "3": "(226.118)",
+                "4": "(172.216)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+                "1": "20",
+                "2": "",
+                "3": "504.327",
+                "4": "659.456"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_10",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính riêng này\n\n9\n\n\n\nCông ty Cổ phần Vincom Retail\n\nBáo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (Phương pháp gián tiếp – tiếp theo)\n\nMẫu B 03 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Mã số",
+                "2": "Thuyết minh",
+                "3": "2019Triệu VND",
+                "4": "2018Triệu VND"
+            },
+            {
+                "0": "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ",
+                "1": "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ",
+                "2": "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ",
+                "3": "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ",
+                "4": "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ"
+            },
+            {
+                "0": "Tiền chỉ mua tài sản cố định và tài sản dài hạn khác",
+                "1": "21",
+                "2": "",
+                "3": "(3.903.066)",
+                "4": "(1.160.329)"
+            },
+            {
+                "0": "Tiền thu lại khoản đặt cọc cho mục đích đầu tư",
+                "1": "21",
+                "2": "",
+                "3": "1.596.000",
+                "4": "585.000"
+            },
+            {
+                "0": "Tiền thu từ thanh lý tài sản cố định",
+                "1": "22",
+                "2": "",
+                "3": "-",
+                "4": "1.530"
+            },
+            {
+                "0": "Tiền chỉ cho vay và gửi tiền gửi có kỳ hạn",
+                "1": "23",
+                "2": "",
+                "3": "(305.000)",
+                "4": "(50.000)"
+            },
+            {
+                "0": "Tiền thu hồi cho vay và rút tiền gửi có kỳ hạn",
+                "1": "24",
+                "2": "",
+                "3": "2.697.293",
+                "4": "2.936.385"
+            },
+            {
+                "0": "Tiền chỉ đầu tư góp vốn vào đơn vị khác",
+                "1": "25",
+                "2": "",
+                "3": "(380.000)",
+                "4": "(1.000)"
+            },
+            {
+                "0": "Tiền thu từ chuyển nhượng khoản đầu tư vào đơn vị khác",
+                "1": "26",
+                "2": "",
+                "3": "1.000",
+                "4": "100.000"
+            },
+            {
+                "0": "Tiền thu lãi tiền gửi và cổ tức",
+                "1": "27",
+                "2": "",
+                "3": "3.335.094",
+                "4": "1.420.256"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+                "1": "30",
+                "2": "",
+                "3": "3.041.321",
+                "4": "3.831.842"
+            },
+            {
+                "0": "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "1": "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "3": "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "4": "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+            },
+            {
+                "0": "Mua lại cố phiếu đã phát hành",
+                "1": "32",
+                "2": "",
+                "3": "(1.954.258)",
+                "4": "-"
+            },
+            {
+                "0": "Tiền chỉ trả nợ gốc vay",
+                "1": "34",
+                "2": "",
+                "3": "-",
+                "4": "(3.200.000)"
+            },
+            {
+                "0": "Tiền chỉ trả cổ tức",
+                "1": "36",
+                "2": "",
+                "3": "(2.445.245)",
+                "4": "-"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                "1": "40",
+                "2": "",
+                "3": "(4.399.503)",
+                "4": "(3.200.000)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần trong năm (50 = 20 + 30 + 40)",
+                "1": "50",
+                "2": "",
+                "3": "(853.855)",
+                "4": "1.291.298"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền đầu năm",
+                "1": "60",
+                "2": "",
+                "3": "2.051.375",
+                "4": "760.077"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền cuối năm (70 = 50 + 60)",
+                "1": "70",
+                "2": "4",
+                "3": "1.197.520",
+                "4": "2.051.375"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_11",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Ngày 25 tháng 3 năm 2020\n\nNgười lập:\n\nPhùng Thị Thanh\n\nNgười duyệt\n\nNguyễn Thị Xuân Nghĩa\nKế toán Trương\n\nTrân Mai Hoa\nTổng Giám đốc\n\nCác thuyết minh đánh kèm là bộ phận hợp thành của bảo cáo tài chính riêng này\n\n10\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\nCác thuyết minh này là bộ phận hợp thành và cần được dọc đồng thời với báo cáo tài chính riêng dính kèm.\n\n1. Đơn vị báo cáo\n\n(a) Hình thức số hữu vốn\n\nCông ty Cổ phần Vincom Retail (\"Công ty\") lũ một công ty cổ phần được thành lập tại Việt Nam.\n\n(b) Hoạt động chính\n\nCác hoạt động chính của Công ty là đầu tư, phát triển các trung tâm thương mại để cho thuê và các bất động sản đề bán.\n\n(c) Chu kỳ sản xuất kinh doanh\n\nChu kỳ sản xuất kinh doanh của hoạt động phát triển và chuyển nhượng bất động sản của Công ty bất đầu từ thôn điểm xin giấy phép dấu tư, thực hiện giai phòng mặt bằng, xây dựng cơ ban cho đến thời điểm hoàn thiện dự án, đo vậy, chu kỳ sản xuất kinh doanh của hoạt động chuyển nhượng bất động sản của Công ty thông thường là từ 12 tháng đến 36 tháng. Chu kỳ sản xuất, kinh doanh của các hoạt động khác của Công ty thông thường là trong vòng 12 tháng.\n\n(d) Câu trúc Công ty\n\nTại ngày 31 tháng 12 năm 2019, Công ty có 1.076 nhân viên (1/1/2019: 981 nhân viên).\n\n2. Cơ sở lập báo cáo tài chính\n\n(a) Tuyên bố về tuân thủ\n\nBáo cáo tài chính riêng này được lập theo các Chuẩn mực Kế toán Việt Nam. Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.\n\nCông ty đã lập và phát hành báo cáo tài chính hợp nhất để ngày 25 tháng 3 năm 2020. Đế có thông tin đầy đủ về tỉnh hình tài chính hợp nhất của Công ty, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất, báo cáo tài chính riêng này cần được độc đồng thời với báo cáo tài chính hợp nhất của Công ty.\n\n11\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(b) Cơ sở do lương\n\nBáo cáo tài chính riêng, ngoại trừ báo cáo lưu chuyển tiền tệ riêng, được lập trên cơ sở dồn tích theo nguyên tắc giá gốc. Báo cáo lưu chuyển tiền tệ riêng được lập theo phương pháp gián tiếp.\n\n(c) Năm tài chính\n\nNăm tài chính của Công ty là từ ngày 1 tháng 1 đến ngày 31 tháng 12.\n\n(d) Đơn vị tiền tệ kế toán và trình bày báo cáo\n\nĐơn vị tiền tệ kế toán của Công ty là Đồng Việt Nam (“VND”).\n\nBáo cáo tài chính được lập và trình bày bằng triệu Đồng Việt Nam (“triệu VND”).\n\n3. Tóm tát những chính sách kế toán chủ yếu\n\nSau dây là những chính sách kế toán chủ yếu được Công ty áp dụng trong việc lập báo cáo tài chính riêng này.\n\n(a) Các giao dịch bằng ngoại tệ\n\nCác giao dịch bằng các đơn vị tiền tệ khác VND trong năm được quy đổi sang VND theo tỷ giá thực tế tại ngày giao dịch.\n\nCác khoản mục tài sản và nợ phải trả có gốc bằng đơn vị tiền tệ khác VND được quy đổi sang VND lần lượt theo tỷ giá mua chuyển khoản và tỷ giá bán chuyển khoản của ngân hàng thương mại nơi Công ty thưởng xuyên có giao dịch tại ngày kết thúc năm tài chính.\n\nTất cả các khoản chênh lệch tỷ giá hối đoái được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng.\n\n(b) Tiền và các khoản tương đương tiền\n\nTiền bao gồm tiền gửi ngân hàng không kỳ hạn và tiền đang chuyển. Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có tính thanh khoản cao, có thể dễ dàng chuyển đổi thành một lượng tiền xác định, không có nhiều rủi ro về thay đổi giá trị và được sử dụng cho mục đích đáp ứng các cam kết chi tiền ngắn hạn hơn là cho mục đích đầu tư hay là các mục đích khác.\n\n12\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(c) Các khoản đầu tư\n\n(i) Đầu tư nằm giữ đến ngày đáo hạn\n\nĐầu tư nằm giữ đến ngày đáo hạn là các khoản đầu tư mà Công ty dự định và có khả năng nằm giữ đến ngày đáo hạn. Đầu tư nằm giữ đến ngày đáo hạn gồm tiền gửi ngân hàng có kỳ hạn. Các khoản đầu tư này được ghi nhận theo giá gốc trừ đi dự phòng giám giá các khoản đầu tư.\n\n(ii) Đầu tư vào công ty con\n\nCho mục đích của báo cáo tài chính riêng này, các khoản đầu tư vào công ty con được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí mua có liên quan trực tiếp. Sau ghi nhận ban đầu, các khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá khoản đầu tư. Dự phòng giảm giá đầu tư được lập khi đơn vị nhận đầu tư phát sinh lỗ, ngoại trừ trưởng hợp khoản lỗ đó đã nằm trong dự kiến của Công ty qui quyết định đầu tư. Dự phòng giảm giá đầu tư được hoàn nhập khi đơn vị nhận đầu tư sau đó tạo ra lợi nhuận đề bù trừ cho các khoản lỗ đã được lập dự phòng trước kia. Khoản dự phòng chi được hoàn nhập trong phạm vi sao cho giá trị ghi sở của khoản đầu tư không vượt quá giá trị ghi sở của chúng khi giả định không có khoản dự phòng nào đã được ghi nhận.\n\n(a) Các khoản phải thu khách hàng và phải thu khác\n\nPhải thu của khách hàng và phải thu khác được phản ánh theo giá gốc trì đi dự phòng phải thu khó đòi.\n\n(e) Hàng tồn kho\n\n(i) Hàng tồn kho bất động sản\n\nBất động sản được xây dựng đề bán hoặc để cho thuê dài hạn đáp ứng được điều kiện ghi nhận doanh thu một lần trong quá trình hoạt động bình thường của Công ty, không phải để cho thuê hoặc chờ tăng giá, được ghi nhận là hàng hóa bất động sản theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.\n\nGiá thành của thành phẩm bất động sản bao gồm:\n\n- Chi phí tiền sử dụng đất, tiền thuê đất, và các chi phí phát triển đất;\n\n- Chi phí xây dựng trả cho nhà thầu; và\n\n- Chi phí lãi vay, chi phí tư vấn, thiết kế, chi phí san lắp, đến bù giải phóng mặt bằng, phí tư vấn, thuế chuyển nhượng đất, chi phí quản lý xây dựng chung trực tiếp, và các chi phí liên quan khác.\n\nGiá trị thuần có thể thực hiện được ước tính dựa vào giá bán của hàng tồn kho trừ đi các khoản chi phí ước tính để hoàn thành sản phẩm và các chi phí bán hàng trực tiếp.\n\nGiá vốn của hàng tồn kho bắt động sản đã bán được ghi nhận trên báo cáo kết quả hoạt động kinh doanh riêng dựa trên các chi phí trực tiếp tạo thành bắt động sản đó và các chi phí chung được phân bổ theo tiêu thức phù hợp.\n\n13\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(ii) Hàng tồn kho khác\n\nHàng tốn kho khác được ghi nhận theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.\n\nGiá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính đề hoàn thành và chi phí bán hàng ước tính.\n\nCông ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho, giá trị của hàng tồn kho được xác định theo phương pháp bình quân gia quyền.\n\n(f) Tài sản cố định hữu hình\n\n(i) Nguyên giá\n\nTài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá tài sản cố định hữu hình bao gồm giá mua, thuế nhập khẩu, các loại thuế mua hàng không hoàn lại và chi phí liên quan trực tiếp đề đưa tài sản đến vị trí và trạng thải hoạt động cho mục đích sử dụng đã dự kiến. Các chỉ phí phát sinh sau khi tài sản cố định hữu hình đã đưa vào hoạt động như chỉ phí sửa chữa, bảo dưỡng và đại tu được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng trong năm mà chỉ phí phát sinh. Trong các trường hợp có thể chứng minh một cách rõ ràng răng các khoản chỉ phí này làm tăng lợi ích kinh tế trong tương lai dự tính thu được từ việc sử dụng tài sản cố định hữu hình vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban đầu, thì các chỉ phí này được vốn hóa như một khoản nguyên giá tăng thêm của tài sản cố định hữu hình.\n\n(ii) Khâu hao\n\nKhẩu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của tài sản cố định hữu hình. Thời gian hữu dụng ước tính như sau:\n\n- nhà cửa, vật kiến trúc 5 - 15 năm\n\nmáy móc và thiết bị 3 - 5 năm\n\n■ thiết bị quản lý 3 - 5 năm\n\n(g) Tài sản cố định vô hình\n\nPhân mềm vi tính\n\nGiá mua của phần mềm vi tính mới mà phần mềm này không phải là một bộ phận gắn kết với phần cứng có liên quan thì được vốn hóa và hạch toán là tài sản cố định vô hình. Nguyên giá của phần mềm vi tính được tính khấu hao theo phương pháp đường thẳng trong 3 – 8 năm.\n\n14\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(h) Bát động sản đầu tư\n\nBất động sản đầu tư cho thuê\n\nNguyên giá\n\nBất động sản đầu tư cho thuê được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá ban đầu của bất động sản đầu tư cho thuê bao gồm giá mua, chi phí quyền sử dụng đất và các chi phí liên quan trực tiếp đến việc đưa tài sản đến điều kiện cần thiết để tài sản có thể hoạt động theo cách thức đã dự kiến bởi Ban Giám đốc. Các chí phí phát sinh sau khi bất động sản đầu tư cho thuê đã được đưa vào hoạt động như chi phí sửa chữa và bảo trì được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng trong năm mà các chi phí này phát sinh. Trong các trường hợp có thể chứng minh một cách rõ ràng ràng các khoản chi phí này làm tăng lợi ích kinh tế trong tương lai dự tính thu được từ bất động sản đầu tư cho thuê vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban đầu, thì các chi phí này được vốn hóa như một khoản nguyên giá tăng thêm của bất động sản đầu tư cho thuê.\n\nKhâu hao\n\nKhâu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của bắt động sản đầu tư. Thời gian hữu dụng ước tính như sau:\n\nquyền sử dụng đất và nhà cửa, vật kiến trúc 5 - 50 năm\n\nmáy móc và thiết bị 5 - 25 năm\n\n(i) Chi phí xây dựng cơ bản dô dang\n\nChỉ phí xây dựng cơ bản dở dang phần ánh các khoản chỉ phí xây dựng và máy móc chưa được hoàn thành hoặc chưa lắp đặt xong. Không tính khấu hao cho xây dựng cơ bản dở dang trong quá trình xây dựng và lắp đặt.\n\n(j) Chi phí trả trước\n\nChỉ phí trả trước bao gồm các chỉ phí trả trước ngắn hạn hoặc chỉ phí trả trước dài hạn trên bảng cân đối\nkề toán riêng và được phân bổ trong khoảng thời gian trả trước của chỉ phí tương ứng hoặc trong khoảng\nthời gian mà các lợi ích kinh tế được tạo ra từ các chỉ phí này.\n\n(i) Chi phí đất trả trước\n\nChi phí đất trả trước bao gồm tiền thuê đất trả trước, kể cả các khoản liên quan đến đất thuê mà Công ty đã nhận được giấy chứng nhận quyền sử dụng đất nhưng không đủ điều kiện ghi nhận tài sản cố định vô hình theo các quy định hiện hành của Bộ Tài chính và các chi phí phát sinh khác liên quan đến việc bảo đảm cho việc sử dụng đất thuê. Các chi phí này được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng dựa trên thời hạn của hợp đồng thuê đất.\n\n15\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMãu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(ii) Công cụ và dụng cụ\n\nCông cụ và dụng cụ bao gồm các tài sản Công ty nấm giữ để sử dụng trong quá trình hoạt động kinh doanh bình thường và không đủ điều kiện ghi nhận là tài sản cố định theo quy định hiện hành. Nguyên giá của công cụ và dụng cụ được phân bổ theo phương pháp đường thẳng trong khoảng thời gian không quá 3 năm.\n\n(iii) Chi phí hoa hông\n\nChỉ phí hoa hồng liên quan trực tiếp đến việc bán hàng tồn kho bất động sản và môi giới trung tâm thương mại được vốn hóa vào tài khoản chi phí trả trước trong bảng cân đối kế toán riêng và sau đó được ghi nhận vào chi phí khi Công ty ghi nhận doanh thu từ việc bán tài sản tồn kho và cho thuê trung tâm thương mại liên quan.\n\n(iv) Chi phí sửa chữa lớn\n\nChi phí sửa chữa lớn bao gồm chi phí sửa chữa và bảo trì trả trước được phản ánh theo nguyên giá và được phân bổ theo phương pháp đường thẳng trong thời hạn thông thường là 3 năm kể từ ngày hoàn tất việc nâng cấp.\n\n(k) Phải trả người bán và phải trả khác\n\nPhải trả người bán và phải trả khác được thể hiện theo giá gốc.\n\n(1) Dự phòng\n\nMột khoản dự phòng được ghi nhận nếu, do kết quả của một sự kiện trong quá khứ, Công ty có nghĩa vụ pháp lý hiện tại hoặc liên đối có thể ước tính một cách đăng tin cây, và chắc chắn sẽ làm giảm sút các lợi ích kinh tế trong tương lai để thanh toán các khoản nợ phải trả do nghĩa vụ đó. Khoản dự phòng được xác định bằng cách chiết khấu dòng tiền dự kiến phải trả trong tương lai với tỷ lệ chiết khấu trước thuế phân ánh đánh giá của thị trường ở thời điểm hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó.\n\nDự phòng chỉ phí bảo hành cho căn hộ và nhà phố thương mại\n\nViệc cung cấp dịch vụ bảo hành liên quan đến các căn hộ thiết kế sẵn và nhà phố thương mại đã bán. Dịch vụ bảo hành được lập dựa trên các ước tính có được từ các dữ liệu quá khứ của chi phí sửa chữa trước dây liên quan đến căn hộ và nhà phố thương mại đã bán.\n\n(m) Vốn cổ phần và thăng dư vốn cổ phần\n\n(i) Cổ phiếu phổ thông\n\nCổ phiếu phổ thông được ghi nhận theo giá phát hành trừ đi các chỉ phí phát sinh liên quan trực tiếp đến việc phát hành cổ phiếu, trừ đi ảnh hưởng thuế. Các chỉ phí đó được ghi giảm vào thăng dư vốn cổ phần.\n\n(ii) Mua lại cổ phiếu phổ thông (cổ phiếu quỹ)\n\nKhi mua lại cổ phiếu đã được ghi nhận là vốn chủ sở hữu, giá trị khoản thanh toán bao gồm các chi phí liên quan trực tiếp, trừ đi thuế, được ghi giảm vào vốn chủ sở hữu. Cổ phiếu đã mua lại được phân loại là cổ phiếu quỹ trong vốn chủ sở hữu.\n\n16\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMãu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(n) Trái phiếu phát hành\n\nTại thời điểm ghi nhận ban đầu, trái phiếu thường được xác định theo giá gốc bao gồm khoản tiền thu được từ việc phát hành trái phiếu trừ đi chi phí phát hành. Các khoản chiết khấu, phụ trội và chi phí phát hành được phân bổ theo phương pháp đường thẳng trong suốt kỳ hạn của trái phiếu.\n\n(o) Thuê\n\nThuế thu nhập doanh nghiệp tính trên lợi nhuận hoặc lỗ riêng trong năm bao gồm thuế thu nhập hiện hành và thuế thu nhập hoãn lại. Thuế thu nhập doanh nghiệp được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp có các khoản thuế thu nhập liên quan đến các khoản mục được ghi nhận thắng vào vốn chủ sở hữu, thì khi đó các khoản thuế thu nhập này cũng được ghi nhận thắng vào vốn chủ sở hữu.\n\nThuế thu nhập hiện hành là khoản thuế dự kiến phải nộp dựa trên thu nhập chịu thuế trong năm, sử dụng các mức thuế suất có hiệu lực tại ngày kết thúc kỳ kế toán năm, và các khoản điều chỉnh thuế phải nộp liên quan đến những năm trước.\n\nThuế thu nhập hoãn lại được tính theo phương pháp bảng cân đối kế toán cho các chênh lệch tạm thời giữa giá trị ghi sổ cho mục đích báo cáo tài chính và giá trị sử dụng cho mục đích tính thuế của các khoản mục tài sản và nợ phải trả. Giá trị của thuế thu nhập hoãn lại được ghi nhận dựa trên cách thức dự kiến thu hồi hoặc thanh toán giá trị ghi sổ của các khoản mục tài sản và nợ phải trả sử dụng các mức thuế suất có hiệu lực hoặc cơ bản có hiệu lực tại ngày kết thúc kỳ kế toán năm.\n\nTài sản thuế thu nhập hoãn lại chỉ được ghi nhận trong phạm vi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để chênh lệch tạm thời này có thể sử dụng được. Tài sản thuế thu nhập hoãn lại được ghi giảm trong phạm vi không còn chắc chắn là các lợi ích về thuế liên quan này sẽ sử dụng được.\n\n(p) Doanh thu và thu nhập khác\n\n(i) Doanh thu chuyển nhượng bất động sản\n\nDoanh thu chuyển nhượng căn hộ thiết kế sẵn và nhà phố thương mại mà không yêu cầu thiết kế riêng theo từng khách hàng được ghi nhận khi phần lớn các rủi ro và lợi ích gắn liền với quyền sở hữu bất động sản được chuyển giao cho người mua.\n\nDoanh thu chuyển nhượng bất động sản cũng bao gồm doanh thu ghi nhận một lần từ việc cho thuê dài hạn bất động sản. Trường hợp thời gian cho thuê chiếm trên 90% thời gian sử dụng hữu ích của tài sản, Công ty lựa chọn phương pháp ghi nhận doanh thu một lần đối với toàn bộ số tiền cho thuê nhận trước nếu thỏa mãn đồng thời các điều kiện sau:\n\nBên đi thuê không có quyền hủy ngang hợp đồng thuê và doanh nghiệp cho thuê không có nghĩa vụ phải trả lại số tiền đã nhận trước trong mọi trường hợp và dưới mọi hình thức;\n\n- Số tiền nhận trước từ việc cho thuê không nhỏ hơn 90% tổng số tiền cho thuê dự kiến thu được theo hợp đồng trong suốt thời hạn cho thuê và bên đi thuê phải thanh toán toàn bộ số tiền thuê trong vòng 12 tháng kể từ thời điểm khởi đầu thuê tài sản;\n\n- Hầu như toàn bộ rủi ro và lợi ích gắn liền với quyền sở hữu tài sản thuê đã chuyển giao cho bên đi thuê; và\n\nDoanh nghiệp cho thuê phải ước tính được tương đối đầy đủ giá vốn của hoạt động cho thuê.\n\n17\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(ii) Doanh thu cho thuê bắt động sản đầu tư\n\nDoanh thu cho thuê bất động sản theo hợp đồng thuê hoạt động được ghi nhận trên báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp dưỡng thăng dựa trên thời hạn của hợp đồng thuê. Các khoản chiết khấu tiền thuê (nếu có) được ghi nhận giảm doanh thu cho thuê.\n\n(iii) Doanh thu cung cấp dịch vụ\n\nDoanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi dịch vụ được cung cấp. Doanh thu không được ghi nhận nếu như có những yếu tố không chắc chắn trọng yếu liên quan tới khả năng thu hồi các khoản phải thu.\n\n(iv) Thu nhập từ tiền lãi\n\nThu nhập từ tiền lãi được ghi nhận theo tỷ lệ tương ứng với thời gian dựa trên số dư gốc và lãi suất áp dụng.\n\n(v) Thu nhập từ cổ tức\n\nThu nhập từ cổ tức được ghi nhận khi quyền nhận cổ tức được xác lập.\n\n(q) Thuê tài sản\n\nViệc xác định một thỏa thuận có phải là thỏa thuận thuê tài sản hay không dựa trên bản chất của thỏa thuận đó tại thời điểm khởi đầu: liệu việc thực hiện thỏa thuận này có phụ thuộc vào việc sử dụng một tài sản nhất định và thỏa thuận có bao gồm điều khoản về quyền sử dụng tài sản hay không.\n\nThỏa thuận thuê tài sản được phân loại là thuê tài chính nếu theo hợp đồng thuê tài sản bên cho thuê chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu tài sản cho bên đi thuê. Tất cả các thỏa thuận thuê tài sản khác được phân loại là thuê hoạt động.\n\nTrong trường hợp Công ty là bên đi thuê\n\nCác khoản tiền thuê theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng trong thời hạn của hợp đồng thuê.\n\nTrong trường hợp Công ty là bên cho thuê.\n\nTài sản theo hợp đồng cho thuê hoạt động được ghi nhận là bất động sản đầu tư trên bảng cân đối kế toán riêng.\n\nThu nhập từ tiền cho thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng trong thời gian cho thuê. Các khoản chiết khấu tiền thuê (nếu có) được ghi nhận giám doanh thu cho thuê.\n\n(r) Chi phí di vay\n\nChi phí đi vay được ghi nhận là một chi phí trong năm khi chi phí này phát sinh, ngoại trừ trường hợp chi phí đi vay liên quan đến các khoản vay cho mục đích hình thành tài sản đủ điều kiện vốn hóa chi phí đi vay thì khi đó chi phí đi vay sẽ được vốn hóa và được ghi vào nguyên giá các tài sản này.\n\n18\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(s) Các bên liên quan\n\nCác bên được xem là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hay gián tiếp, kiểm soát bên kia hay gây ảnh hưởng đáng kể đến bên kia trong việc đưa ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên gia đình thân cận của các cá nhân được xem là liên quan.\n\n4. Tiền và các khoản tương đương tiền",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "1.197.500",
+                "2": "401.316"
+            },
+            {
+                "0": "Tiền đang chuyển",
+                "1": "20",
+                "2": "59"
+            },
+            {
+                "0": "Các khoản tương đương tiền",
+                "1": "-",
+                "2": "1.650.000"
+            },
+            {
+                "0": "",
+                "1": "1.197.520",
+                "2": "2.051.375"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_12",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Không có các khoản tương đương tiền trong báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (1/1/2019: các khoản tiền gửi bằng VND có kỳ hạn từ 1 đến 3 tháng và hướng lãi suất từ 5,3%/năm đến 5,5%/năm).\n\n19\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n5. Đầu tư tài chính\n\n(a) Đầu tư vào công ty con",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019",
+                "2": "31/12/2019",
+                "3": "31/12/2019",
+                "4": "1/1/2019",
+                "5": "1/1/2019",
+                "6": "1/1/2019",
+                "7": "1/1/2019",
+                "8": "1/1/2019"
+            },
+            {
+                "0": "",
+                "1": "Số cổ phiếu",
+                "2": "% quyền sở hữu và quyền biểu quyết",
+                "3": "Giá gốc Triệu VND",
+                "4": "Giá trị hợp lý",
+                "5": "Số cổ phiếu",
+                "6": "% quyền sở hữu và quyền biểu quyết",
+                "7": "Giá gốc Triệu VND",
+                "8": "Giá trị hợp lý"
+            },
+            {
+                "0": "▪ Công ty TNHH Vincom Retail Miền Nam",
+                "1": "(*)",
+                "2": "100%",
+                "3": "5.779.000",
+                "4": "(**)",
+                "5": "(*)",
+                "6": "100%",
+                "7": "5.779.000",
+                "8": "(**)"
+            },
+            {
+                "0": "▪ Công ty TNHH Vincom Retail Miền Bắc",
+                "1": "(*)",
+                "2": "100%",
+                "3": "5.858.780",
+                "4": "(**)",
+                "5": "(*)",
+                "6": "100%",
+                "7": "5.858.780",
+                "8": "(**)"
+            },
+            {
+                "0": "▪ Công ty Cổ phần Đầu tư và Phát triển Đô thị Suối Hoa",
+                "1": "34.240.000",
+                "2": "97,27%",
+                "3": "562.009",
+                "4": "(**)",
+                "5": "34.240.000",
+                "6": "97,27%",
+                "7": "562.009",
+                "8": "(**)"
+            },
+            {
+                "0": "▪ Công ty TNHH Đầu tư và Phát triển Bất động sản Hà Thành (***)",
+                "1": "(*)",
+                "2": "100%",
+                "3": "380.000",
+                "4": "(**)",
+                "5": "-",
+                "6": "-",
+                "7": "-",
+                "8": ""
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "12.579.789",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": "12.199.789",
+                "8": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_13",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "(*) Đây là các công ty trách nhiệm hữu hạn.\n\n(**) Công ty chưa xác định giá trị hợp lý của các khoản đầu tư góp vốn vào các công ty con này và các đơn vị khác đề thuyết minh trong báo cáo tài chính riêng bởi vì không có giá niêm yết trên thị trường cho các khoản đầu tư góp vốn này và Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam hiện không có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các khoản đầu tư góp vốn này có thể khác với giá trị ghi số của chúng.\n\n20\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(***) Tại ngày 20 tháng 6 năm 2019, Công ty TNHH Vincom Retail Miền Bắc đã hoàn tất việc mua lại 100% vốn cổ phần của Công ty TNHH Đầu tư và Phát triển Bắt động sản Hà Thành (trước dây là Công ty Cổ phần Đầu tư và Phát triển Bắt động sản Hà Thành). Tại ngày 29 tháng 10 năm 2019, Công ty TNHH Vincom Retail Miền Bắc đã chuyển 100% vốn cổ phần của Công ty TNHH Đầu tư và Phát triển Bắt động sản Hà Thành cho Công ty.\n\nCông ty không có khoản dự phòng giảm giá nào cho các khoản đầu tư vào các công ty con được trích lập trên báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018.\n\nThông tin chỉ tiết của công ty con tại ngày 31 tháng 12 năm 2019 được mô tả như sau:\n\nTên công ty",
+        "dataframe": [
+            {
+                "0": "Công ty TNHH Vincom Retail Miền Nam"
+            },
+            {
+                "0": "Công ty TNHH Vincom Retail Miền Bắc"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Suối Hoa"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư và Phát triếu Bất động sản Hà Thành"
+            },
+            {
+                "0": "72 Đường Lê Thánh Tôn và số 45A Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh."
+            },
+            {
+                "0": "72A đường Nguyễn Trải, phương Thương Đình, quận Thanh Xuân, thành phố Hà Nội, Việt Nam."
+            },
+            {
+                "0": "Kim 1+200, đường Trần Hưng Đạo, phương Suổi Hoa, thành phố Bắc Ninh, tỉnh Bắc Ninh, Việt Nam."
+            },
+            {
+                "0": "Số 7, Đường Bằng Lăng 1, Khu đô thị sinh thái Vinhomes Riverside, Phường Việt Hưng, Quận Long Biên, Thành phố Hà Nội, Việt Nam."
+            },
+            {
+                "0": "Cho thuê trung tâm thương mại, văn phòng, cung cấp các dịch vụ liên quan, và kinh doanh bất động sản và dịch vụ vui chơi giải trí."
+            },
+            {
+                "0": "Cho thuê trung tâm thương mại, văn phòng, cung cấp các dịch vụ liên quan, và kinh doanh bất động sản và dịch vụ vui chơi giải trí."
+            },
+            {
+                "0": "Cho thuê trung tâm thương mại, văn phòng, cung cấp các dịch vụ liên quan, và kinh doanh bất động sản và dịch vụ vui chơi giải trí."
+            },
+            {
+                "0": "Cho thuê trung tâm thương mại, văn phòng, cung cấp các dịch vụ liên quan, và kinh doanh bất động sản và dịch vụ vui chơi giải trí."
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_14",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "21\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMãu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(b) Đầu tư vào đơn vị khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019",
+                "2": "31/12/2019",
+                "3": "31/12/2019",
+                "4": "31/12/2019",
+                "5": "1/1/2019",
+                "6": "1/1/2019",
+                "7": "1/1/2019",
+                "8": "1/1/2019"
+            },
+            {
+                "0": "",
+                "1": "Số cổ phiếu",
+                "2": "% lợi ích kinh tế và quyền biểu quyết",
+                "3": "Giá gốc Triệu VND",
+                "4": "Giá trị hợp lý",
+                "5": "Số cổ phiếu",
+                "6": "% lợi ích kinh tế và quyền biểu quyết",
+                "7": "Giá gốc Triệu VND",
+                "8": "Giá trị hợp lý"
+            },
+            {
+                "0": "▪ Đầu tư vào hợp đồng hợp tác kinh doanh",
+                "1": "-",
+                "2": "-",
+                "3": "4.362.820",
+                "4": "(*)",
+                "5": "-",
+                "6": "-",
+                "7": "3.569.096",
+                "8": "(*)"
+            },
+            {
+                "0": "▪ Đầu tư vốn vào đơn vị khác",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "100.000",
+                "6": "5%",
+                "7": "1.000",
+                "8": ""
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "4.362.820",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": "3.570.096",
+                "8": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_15",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Đầu tư vào các đơn vị khác bao gồm góp vốn theo hợp đồng hợp tác kinh doanh trị giá 4.362.820 triệu VND (1/1/2019: 3.569.096 triệu VND) cho Tập đoàn Vingroup – Công ty CP, công ty mẹ và các công ty liên quan (gọi tất là đối tác), để phát triển các thành phần trung tâm mua sắm của các dự án bất động sản. Việc xây dựng trung tâm mua sắm đã được hoàn thành và sẵn sàng cho các hoạt động thương mại. Hợp đồng hợp tác kinh doanh cho các trung tâm mua sắm đã được ký kết cho Công ty có quyền kiểm soát, quản lý và vận hành trung tâm mua sắm và chia sẻ một phần lợi nhuận trước thuế từ hoạt động của trung tâm mua sắm cho các đối tác.\n\n(*) Công ty chưa xác định giá trị hợp lý của công cụ tài chính này để thuyết minh trong báo cáo tài chính riêng bởi vì không có giá niêm yết trên thị trường cho các công cụ tài chính này và các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam hiện không có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các công cụ tài chính này có thể khác với giá trị ghi sở.\n\n22\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(c) Đầu tư nằm giữ đến ngày đáo hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Đầu tư nắm giữ đến ngày đáo hạn – ngắn hạn▪ Tiền gửi có kỳ hạn (i)",
+                "1": "700.000",
+                "2": "600.000"
+            },
+            {
+                "0": "Đầu tư nắm giữ đến ngày đáo hạn – dài hạn▪ Tiền gửi có kỳ hạn",
+                "1": "-",
+                "2": "1.700.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_16",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "(i) Đầu tư năm giữ đến ngày đáo hạn – ngắn hạn phản ánh khoản tiền gửi ngân hàng có kỳ hạn còn lại dưới 12 tháng và hưởng lãi suất 7,1%/năm (2018: 7,1%/năm).\n\n6. Phải thu ngắn hạn của khách hàng",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Phải thu từ cho thuê bất động sản và cung cấp dịch vụ liên quan",
+                "1": "86.346",
+                "2": "128.894"
+            },
+            {
+                "0": "Phải thu từ cung cấp dịch vụ quản lý",
+                "1": "85.963",
+                "2": "101.005"
+            },
+            {
+                "0": "Phải thu từ chuyển nhượng bất động sản",
+                "1": "107.513",
+                "2": "32.777"
+            },
+            {
+                "0": "",
+                "1": "279.822",
+                "2": "262.676"
+            },
+            {
+                "0": "Công ty TNHH Vincom Retail Miền Nam",
+                "1": "32.713",
+                "2": "28.954"
+            },
+            {
+                "0": "Công ty TNHH Vincom Retail Miền Bắc",
+                "1": "64.938",
+                "2": "40.827"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Suối Hoa",
+                "1": "1.252",
+                "2": "31.918"
+            },
+            {
+                "0": "Phải thu từ một đối tác doanh nghiệp cho khoản thuê dài hạn",
+                "1": "-",
+                "2": "76.904"
+            },
+            {
+                "0": "Các khách hàng khác",
+                "1": "180.919",
+                "2": "84.073"
+            },
+            {
+                "0": "",
+                "1": "279.822",
+                "2": "262.676"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_17",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "23\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMãu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(b) Phải thu ngắn hạn của khách hàng là các bên liên quan",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Các công ty con",
+                "1": "Các công ty con",
+                "2": "Các công ty con"
+            },
+            {
+                "0": "▪ Công ty TNHH Vincom Retail Miền Nam",
+                "1": "32.713",
+                "2": "28.954"
+            },
+            {
+                "0": "▪ Công ty TNHH Vincom Retail Miền Bắc",
+                "1": "64.938",
+                "2": "40.827"
+            },
+            {
+                "0": "▪ Công ty Cổ phần Đầu tư và Phát triển Đô thị Suối Hoa",
+                "1": "1.252",
+                "2": "31.918"
+            },
+            {
+                "0": "Các bên liên quan khác",
+                "1": "Các bên liên quan khác",
+                "2": "Các bên liên quan khác"
+            },
+            {
+                "0": "▪ Công ty Cổ phần Dịch vụ Thương mại Tổng hợp Vincommerce (*)",
+                "1": "-",
+                "2": "11.497"
+            },
+            {
+                "0": "▪ Các công ty liên quan khác",
+                "1": "14.099",
+                "2": "10.895"
+            },
+            {
+                "0": "",
+                "1": "113.002",
+                "2": "124.091"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_18",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "(*) Tại ngày 31 tháng 12 năm 2019, Công ty Cổ phần Dịch vụ Thương mại Tổng hợp Vincommerce (“Vincommerce”) không còn là bên liên quan của Công ty. Do đó, Công ty không trình bày số dư công nợ với Vincommerce tại ngày 31 tháng 12 năm 2019 như là số dư công nợ với bên liên quan. Các giáo dịch phát sinh trong năm giữa Công ty và Vincommerce vẫn được trình bày là giáo dịch với bên liên quan trong. Thuyết minh 37.\n\n7. Phải thu về cho vay\n\n(a) Phải thu về cho vay ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Lãi suấtnăm",
+                "2": "31/12/2019Triệu VND",
+                "3": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Các công ty con",
+                "1": "Các công ty con",
+                "2": "Các công ty con",
+                "3": "Các công ty con"
+            },
+            {
+                "0": "▪ Công ty TNHH Vincom Retail Miền Nam",
+                "1": "9%-10%",
+                "2": "-",
+                "3": "792.293"
+            },
+            {
+                "0": "",
+                "1": "Năm đáo hạn",
+                "2": "Lãi suất năm",
+                "3": "31/12/2019và 1/1/2019Triệu VND"
+            },
+            {
+                "0": "Các công ty con",
+                "1": "Các công ty con",
+                "2": "Các công ty con",
+                "3": "Các công ty con"
+            },
+            {
+                "0": "▪ Công ty TNHH Vincom Retail Miền Nam",
+                "1": "2019-2022",
+                "2": "8,1%-9,8%",
+                "3": "500.000"
+            },
+            {
+                "0": "▪ Công ty TNHH Vincom Retail Miền Bắc",
+                "1": "2019-2022",
+                "2": "8,1%-9,8%",
+                "3": "900.000"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "1.400.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_19",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Các khoản vay không được đảm bảo.\n\n24\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n8. Phải thu ngắn hạn khác\n\n(a) Phải thu ngắn hạn khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Lãi phải thu từ các khoản tiền gửi ngân hàng, ký quỹ và cho vay",
+                "1": "51.270",
+                "2": "172.690"
+            },
+            {
+                "0": "Phải thu các khoản chỉ hộ",
+                "1": "13.945",
+                "2": "56.001"
+            },
+            {
+                "0": "Đặt cọc mua trung tâm thương mại",
+                "1": "750.000",
+                "2": "-"
+            },
+            {
+                "0": "Đặt cọc cho các dự án và hợp đồng",
+                "1": "14.565",
+                "2": "-"
+            },
+            {
+                "0": "Đặt cọc dấu thầu đất xây dựng trung tâm thương mại",
+                "1": "-",
+                "2": "39.000"
+            },
+            {
+                "0": "Cổ tức phải thu",
+                "1": "220.000",
+                "2": "-"
+            },
+            {
+                "0": "Phải thu ngắn hạn khác",
+                "1": "14.680",
+                "2": "33.976"
+            },
+            {
+                "0": "",
+                "1": "1.064.460",
+                "2": "301.667"
+            },
+            {
+                "0": "Công ty mẹ",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Tập đoàn Vingroup – Công ty CP",
+                "1": "4.291",
+                "2": "88.585"
+            },
+            {
+                "0": "Các công ty con",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Công ty TNHH Vincom Retail Miền Nam",
+                "1": "758.182",
+                "2": "11.332"
+            },
+            {
+                "0": "Công ty TNHH Vincom Retail Miền Bắc",
+                "1": "242.579",
+                "2": "59.947"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Suối Hoa",
+                "1": "9",
+                "2": "704"
+            },
+            {
+                "0": "Các bên liên quan khác",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Công ty Cổ phần Tư vấn Đầu tư và Đầu tư Việt Nam",
+                "1": "19.459",
+                "2": "19.381"
+            },
+            {
+                "0": "Các công ty liên quan khác",
+                "1": "16.482",
+                "2": "20.762"
+            },
+            {
+                "0": "",
+                "1": "1.041.002",
+                "2": "200.711"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_20",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "25\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n9. Dự phòng các khoản phải thu khó đòi\n\nBiến động dự phòng nợ phải thu khó đòi trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019Triệu VND",
+                "2": "2018Triệu VND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "45",
+                "2": "22.000"
+            },
+            {
+                "0": "Tăng dự phòng trong năm",
+                "1": "832",
+                "2": "45"
+            },
+            {
+                "0": "Sử dụng trong năm",
+                "1": "-",
+                "2": "(22.000)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "877",
+                "2": "45"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_21",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "10. Hàng tồn kho",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019",
+                "2": "31/12/2019",
+                "3": "1/1/2019",
+                "4": "1/1/2019"
+            },
+            {
+                "0": "",
+                "1": "Giá gốcTriệu VND",
+                "2": "Dự phòngTriệu VND",
+                "3": "Giá gốcTriệu VND",
+                "4": "Dự phòngTriệu VND"
+            },
+            {
+                "0": "Bắt động sản để bán đã xây dựng hoàn thành",
+                "1": "130.405",
+                "2": "-",
+                "3": "2.026",
+                "4": "-"
+            },
+            {
+                "0": "Bắt động sản để bán đang xây dựng",
+                "1": "812.345",
+                "2": "-",
+                "3": "769.200",
+                "4": "-"
+            },
+            {
+                "0": "Hàng tồn kho khác",
+                "1": "9.393",
+                "2": "-",
+                "3": "1.104",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "952.143",
+                "2": "-",
+                "3": "772.330",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_22",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Biến động hàng tồn kho trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019Triệu VND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "772.330"
+            },
+            {
+                "0": "Tăng trong năm",
+                "1": "1.338.026"
+            },
+            {
+                "0": "Bất động sản đã bán trong năm",
+                "1": "(1.158.213)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "952.143"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_23",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "26\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMãu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n11. Tài sản khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Tài sản ngắn hạn khác",
+                "1": "Tài sản ngắn hạn khác",
+                "2": "Tài sản ngắn hạn khác"
+            },
+            {
+                "0": "Đặt cọc cho các bên liên quan vì mục đích đầu tư",
+                "1": "1.065.000",
+                "2": "1.783.000"
+            },
+            {
+                "0": "Tài sản dài hạn khác",
+                "1": "Tài sản dài hạn khác",
+                "2": "Tài sản dài hạn khác"
+            },
+            {
+                "0": "Đặt cọc cho các bên liên quan vì mục đích đầu tư",
+                "1": "597.000",
+                "2": "414.000"
+            },
+            {
+                "0": "Đặt cọc cho một bên thứ ba vì mục đích đầu tư",
+                "1": "-",
+                "2": "142.000"
+            },
+            {
+                "0": "",
+                "1": "597.000",
+                "2": "556.000"
+            },
+            {
+                "0": "",
+                "1": "1.662.000",
+                "2": "2.339.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_24",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Dây là các khoản đặt cọc cho Tập đoàn Vingroup – Công ty CP, công ty mẹ, và một số công ty liên quan (sâu dây gọi là “các đối tác đầu tư”) cho mục đích đầu tư và kinh doanh cấu phần trung tâm thương mại của một số dự án bất động sản. Các khoản đặt cọc này không có tài sản đảm bảo. Theo các thỏa thuận này, các đối tác đầu tư đã cam kết chuyển nhượng các cấu phần trung tâm thương mại trong tài sản của họ hoặc trao quyền ưu tiên mua các trung tâm thương mại cho Công ty.\n\nĐặt cọc cho mục đích đầu tư chi tiết theo các bên liên quan",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Công ty mẹ",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Tập đoàn Vingroup – Công ty CP",
+                "1": "958.000",
+                "2": "1.933.000"
+            },
+            {
+                "0": "Các bên liên quan khác",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư Xây dựng Thái Sơn",
+                "1": "81.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư và Phát triển Đô thị Gia Lâm",
+                "1": "98.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Đô thị Du lịch Cần Giờ",
+                "1": "163.000",
+                "2": "163.000"
+            },
+            {
+                "0": "Công ty Cổ phần Phát triển Thành phố Xanh",
+                "1": "362.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Phát triển Công viên Trung tâm",
+                "1": "-",
+                "2": "101.000"
+            },
+            {
+                "0": "",
+                "1": "1.662.000",
+                "2": "2.197.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_25",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "27\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n12. Tài sản cố định hữu hình",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nhà cửa,vật kiến trúcTriệu VND",
+                "2": "Máy mócvà thiết bịTriệu VND",
+                "3": "Thiết bịvăn phòngTriệu VND",
+                "4": "TổngTriệu VND"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá",
+                "3": "Nguyên giá",
+                "4": "Nguyên giá"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "226",
+                "2": "4.036",
+                "3": "826",
+                "4": "5.088"
+            },
+            {
+                "0": "Tăng trong năm",
+                "1": "-",
+                "2": "6.084",
+                "3": "1.920",
+                "4": "8.004"
+            },
+            {
+                "0": "Chuyển sang chi phí trả trướcngắn hạn",
+                "1": "-",
+                "2": "(38)",
+                "3": "-",
+                "4": "(38)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "226",
+                "2": "10.082",
+                "3": "2.746",
+                "4": "13.054"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "Giá trị hao mòn lũy kế",
+                "3": "Giá trị hao mòn lũy kế",
+                "4": "Giá trị hao mòn lũy kế"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "139",
+                "2": "933",
+                "3": "330",
+                "4": "1.402"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "45",
+                "2": "1.157",
+                "3": "190",
+                "4": "1.392"
+            },
+            {
+                "0": "Chuyển sang chi phí trả trướcngắn hạn",
+                "1": "-",
+                "2": "(4)",
+                "3": "-",
+                "4": "(4)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "184",
+                "2": "2.086",
+                "3": "520",
+                "4": "2.790"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại",
+                "3": "Giá trị còn lại",
+                "4": "Giá trị còn lại"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "87",
+                "2": "3.103",
+                "3": "496",
+                "4": "3.686"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "42",
+                "2": "7.996",
+                "3": "2.226",
+                "4": "10.264"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_26",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "13. Tài sản cố định vô hình",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Phần mềmvi tínhTriệu VND"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "40.170"
+            },
+            {
+                "0": "Tăng trong năm",
+                "1": "4.052"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "44.222"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế",
+                "1": "Giá trị hao mòn lũy kế"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "16.006"
+            },
+            {
+                "0": "Khẩu hao trong năm",
+                "1": "6.618"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "22.624"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "24.164"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "21.598"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_27",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "28\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n14. Bát động sản đầu tư",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Quyền sử dụng đất và nhà cửa, vật kiến trúc Triệu VND",
+                "2": "Máy móc và thiết bị Triệu VND",
+                "3": "Tổng Triệu VND"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá",
+                "3": "Nguyên giá"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "2.560.785",
+                "2": "584.445",
+                "3": "3.145.230"
+            },
+            {
+                "0": "Tăng trong năm",
+                "1": "1.583",
+                "2": "18.268",
+                "3": "19.851"
+            },
+            {
+                "0": "Chuyển từ xây dựng cơ bản dở dang",
+                "1": "1.105.315",
+                "2": "421.653",
+                "3": "1.526.968"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "3.667.683",
+                "2": "1.024.366",
+                "3": "4.692.049"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "Giá trị hao mòn lũy kế",
+                "3": "Giá trị hao mòn lũy kế"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "183.861",
+                "2": "102.503",
+                "3": "286.364"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "82.178",
+                "2": "54.920",
+                "3": "137.098"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "266.039",
+                "2": "157.423",
+                "3": "423.462"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại",
+                "3": "Giá trị còn lại"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "2.376.924",
+                "2": "481.942",
+                "3": "2.858.866"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "3.401.644",
+                "2": "866.943",
+                "3": "4.268.587"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_28",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Bất động sản đầu tư của Công ty chủ yếu bao gồm tài sản của các trung tâm thương mại do Công ty sở hữu. Tại ngày 31 tháng 12 năm 2019, Công ty đang trong quá trình xác định giá trị hợp lý của các bất động sản đầu tư này.\n\nChi tiết về việc sử dụng các bất động sản đầu tư làm tài sản thế chấp cho trái phiếu của Công ty được trình bày tại Thuyết minh số 23.\n\n15. Chi phí xây dựng cơ bản dở dang",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019Triệu VND"
+            },
+            {
+                "0": "Số dư dầu năm",
+                "1": "371.762"
+            },
+            {
+                "0": "Tăng trong năm",
+                "1": "1.532.615"
+            },
+            {
+                "0": "Chuyển sang bất động sản đầu tư",
+                "1": "(1.526.968)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "377.409"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_29",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "29\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMãu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\nCác công trình xây dựng cơ bản đồ đang lớn như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Dự án Vincom Plaza Mỹ Tho",
+                "1": "103.448",
+                "2": "-"
+            },
+            {
+                "0": "Dự án Vincom+ Sông Công",
+                "1": "108.973",
+                "2": "-"
+            },
+            {
+                "0": "Dự án Vincom Plaza Bạc Liêu",
+                "1": "92.312",
+                "2": "-"
+            },
+            {
+                "0": "Dự án Vincom Plaza Bắc Kạn",
+                "1": "-",
+                "2": "66.430"
+            },
+            {
+                "0": "Dự án Vincom Plaza Hòa Bình",
+                "1": "-",
+                "2": "62.624"
+            },
+            {
+                "0": "Dự án Vincom Plaza Mống Cái",
+                "1": "-",
+                "2": "88.581"
+            },
+            {
+                "0": "Dự án Vincom Plaza Dĩ An, Bình Dương",
+                "1": "-",
+                "2": "79.358"
+            },
+            {
+                "0": "Các dự án nâng cấp trung tâm thương mại",
+                "1": "5.897",
+                "2": "7.497"
+            },
+            {
+                "0": "Các dự án khác",
+                "1": "66.779",
+                "2": "67.272"
+            },
+            {
+                "0": "",
+                "1": "377.409",
+                "2": "371.762"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_30",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Không có chí phí đi vay được vốn hóa vào xây dựng cơ bản dở dang trong năm 2019 (2018: 4.484 triệu VND).\n\n16. Chi phí trả trước\n\n(a) Chi phí trả trước ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Chi phí hoa hồng liên quan đến bắt động sản chưa bàn giao",
+                "1": "24.541",
+                "2": "54.766"
+            },
+            {
+                "0": "Tiền thuê đất trả trước",
+                "1": "13.236",
+                "2": "17.197"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp trả trước (*)",
+                "1": "4.331",
+                "2": "7.750"
+            },
+            {
+                "0": "Chi phí đầu tư các dự án",
+                "1": "-",
+                "2": "21.879"
+            },
+            {
+                "0": "Chi phí trả trước ngăn hạn khác",
+                "1": "9.117",
+                "2": "9.340"
+            },
+            {
+                "0": "",
+                "1": "51.225",
+                "2": "110.932"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_31",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "(*) Công ty tạm thời nộp 1% tiền thuế cho các khoản thu tiền tử khách hàng trong khi chờ ghi nhận doanh thu và chỉ phí bán hàng từ việc bán bất động sản.\n\n30\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMãu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(b) Chi phí trả trước dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Công cụ, dụng cụTriệu VND",
+                "2": "Chi phí sửa chữa lớnTriệu VND",
+                "3": "Chi phí khácTriệu VND",
+                "4": "TổngTriệu VND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "8.979",
+                "2": "11.070",
+                "3": "10.493",
+                "4": "30.542"
+            },
+            {
+                "0": "Tăng trong năm",
+                "1": "17.195",
+                "2": "808",
+                "3": "18.518",
+                "4": "36.521"
+            },
+            {
+                "0": "Phân bổ trong năm",
+                "1": "(5.480)",
+                "2": "(736)",
+                "3": "(10.600)",
+                "4": "(16.816)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "20.694",
+                "2": "11.142",
+                "3": "18.411",
+                "4": "50.247"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_32",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "17. Phải trả người bán ngắn hạn\n\n(a) Phải trả người bán ngắn hạn chi tiết theo nhà cung cấp lớn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019",
+                "2": "31/12/2019",
+                "3": "1/1/2019",
+                "4": "1/1/2019"
+            },
+            {
+                "0": "",
+                "1": "Giá gốcTriệu VND",
+                "2": "Số có khả năngtrả nợTriệu VND",
+                "3": "Giá gốcTriệu VND",
+                "4": "Số có khả năngtrả nợTriệu VND"
+            },
+            {
+                "0": "Tập đoàn Vingroup– Công ty CP",
+                "1": "3.944",
+                "2": "3.944",
+                "3": "103.973",
+                "4": "103.973"
+            },
+            {
+                "0": "Công ty Cổ phầnVinhomes",
+                "1": "32.933",
+                "2": "32.933",
+                "3": "233.894",
+                "4": "233.894"
+            },
+            {
+                "0": "Các nhà cung cấp khác",
+                "1": "177.854",
+                "2": "177.854",
+                "3": "81.994",
+                "4": "81.994"
+            },
+            {
+                "0": "",
+                "1": "214.731",
+                "2": "214.731",
+                "3": "419.861",
+                "4": "419.861"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_33",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "31\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(b) Phải trả người bán ngắn hạn là các bên liên quan",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019",
+                "2": "31/12/2019",
+                "3": "1/1/2019",
+                "4": "1/1/2019"
+            },
+            {
+                "0": "",
+                "1": "Giá gốcTriệu VND",
+                "2": "Số có khả năngtrả nợTriệu VND",
+                "3": "Giá gốcTriệu VND",
+                "4": "Số có khả năngtrả nợTriệu VND"
+            },
+            {
+                "0": "Các công ty con",
+                "1": "Các công ty con",
+                "2": "Các công ty con",
+                "3": "Các công ty con",
+                "4": "Các công ty con"
+            },
+            {
+                "0": "Công ty TNHH Vincom",
+                "1": "Công ty TNHH Vincom",
+                "2": "Công ty TNHH Vincom",
+                "3": "Công ty TNHH Vincom",
+                "4": "Công ty TNHH Vincom"
+            },
+            {
+                "0": "Retail Miền Nam",
+                "1": "19",
+                "2": "19",
+                "3": "404",
+                "4": "404"
+            },
+            {
+                "0": "Công ty TNHH Vincom",
+                "1": "Công ty TNHH Vincom",
+                "2": "Công ty TNHH Vincom",
+                "3": "Công ty TNHH Vincom",
+                "4": "Công ty TNHH Vincom"
+            },
+            {
+                "0": "Retail Miền Bắc",
+                "1": "3.385",
+                "2": "3.385",
+                "3": "267",
+                "4": "267"
+            },
+            {
+                "0": "Các bên liên quan khác",
+                "1": "Các bên liên quan khác",
+                "2": "Các bên liên quan khác",
+                "3": "Các bên liên quan khác",
+                "4": "Các bên liên quan khác"
+            },
+            {
+                "0": "Tập đoàn Vingroup",
+                "1": "Tập đoàn Vingroup",
+                "2": "Tập đoàn Vingroup",
+                "3": "Tập đoàn Vingroup",
+                "4": "Tập đoàn Vingroup"
+            },
+            {
+                "0": "– Công ty CP",
+                "1": "3.944",
+                "2": "3.944",
+                "3": "103.973",
+                "4": "103.973"
+            },
+            {
+                "0": "Công ty Cổ phần Vinhomes",
+                "1": "32.933",
+                "2": "32.933",
+                "3": "233.894",
+                "4": "233.894"
+            },
+            {
+                "0": "Các bên liên quan khác",
+                "1": "15.009",
+                "2": "15.009",
+                "3": "10.636",
+                "4": "10.636"
+            },
+            {
+                "0": "",
+                "1": "55.290",
+                "2": "55.290",
+                "3": "349.174",
+                "4": "349.174"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_34",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "18. Người mua trả tiền trước ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Người mua trả tiền trước theo các hợp đồng chuyển nhượng bất động sản đề bán",
+                "1": "433.041",
+                "2": "775.031"
+            },
+            {
+                "0": "Trả trước khác",
+                "1": "3.218",
+                "2": "3.616"
+            },
+            {
+                "0": "",
+                "1": "436.259",
+                "2": "778.647"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_35",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "32\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n19. Thuế và các khoản phải nộp Nhà nước",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "1/1/2019Triệu VND",
+                "2": "Số phải nộp trong nămTriệu VND",
+                "3": "Số đã nộp trong nămTriệu VND",
+                "4": "Chuyển/(cấn trừ)Triệu VND",
+                "5": "31/12/2019Triệu VND"
+            },
+            {
+                "0": "Thuế giá trị gia tăng",
+                "1": "5.614",
+                "2": "341.855",
+                "3": "(121.778)",
+                "4": "(225.691)",
+                "5": "-"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp",
+                "1": "26.049",
+                "2": "278.675",
+                "3": "(226.118)",
+                "4": "(3.419)",
+                "5": "75.187"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "1.954",
+                "2": "52.402",
+                "3": "(50.673)",
+                "4": "-",
+                "5": "3.683"
+            },
+            {
+                "0": "Tiền thuê đất và tiền sử dụng đất",
+                "1": "61.997",
+                "2": "959.412",
+                "3": "(1.021.409)",
+                "4": "-",
+                "5": "-"
+            },
+            {
+                "0": "Các loại thuế khác",
+                "1": "-",
+                "2": "305",
+                "3": "(538)",
+                "4": "233",
+                "5": "-"
+            },
+            {
+                "0": "",
+                "1": "95.614",
+                "2": "1.632.649",
+                "3": "(1.420.516)",
+                "4": "(228.877)",
+                "5": "78.870"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_36",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "20. Chi phí phải trả",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Lãi vay phải trả và lãi trái phiếu",
+                "1": "103.993",
+                "2": "85.199"
+            },
+            {
+                "0": "Chi phí hoa hồng và môi giới phải trả",
+                "1": "22.809",
+                "2": "49.602"
+            },
+            {
+                "0": "Chi phí xây dựng trích trước",
+                "1": "359.167",
+                "2": "178.420"
+            },
+            {
+                "0": "Chi phí phải trả khác",
+                "1": "81.426",
+                "2": "56.984"
+            },
+            {
+                "0": "",
+                "1": "567.395",
+                "2": "370.205"
+            },
+            {
+                "0": "Các bên liên quan khác",
+                "1": "1.393",
+                "2": "1.787"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_37",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "33\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMãu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n21. Doanh thu chưa thực hiện\n\n(a) Doanh thu chưa thực hiện - ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Doanh thu nhận trước từ cho thuê bất động sản đầu tư và cung cấp các dịch vụ liên quan",
+                "1": "-",
+                "2": "1.999"
+            },
+            {
+                "0": "Phần doanh thu chưa thực hiện dài hạn sẽ được thực hiện trong vòng 12 tháng",
+                "1": "7.332",
+                "2": "2.209"
+            },
+            {
+                "0": "",
+                "1": "7.332",
+                "2": "4.208"
+            },
+            {
+                "0": "Doanh thu nhận trước từ cho thuê bắt động sản đầu tư và cung cấp các dịch vụ liên quan",
+                "1": "127.536",
+                "2": "109.983"
+            },
+            {
+                "0": "Phần doanh thu sẽ được thực hiện trong vòng 12 tháng",
+                "1": "(7.332)",
+                "2": "(2.209)"
+            },
+            {
+                "0": "Phần doanh thu sẽ được thực hiện sau 12 tháng",
+                "1": "120.204",
+                "2": "107.774"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_38",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "22. Phải trả khác\n\n(a) Phải trả ngắn hạn khác",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Tiền quản lý tập trung phải trả các công ty con",
+                "1": "308.888",
+                "2": "236.820"
+            },
+            {
+                "0": "Tiền thu từ các hợp đồng đặt cọc và vay vốn từ khách hàng",
+                "1": "274.198",
+                "2": "319.743"
+            },
+            {
+                "0": "Đặt cọc thuê văn phòng và nhà phố thương mại phải hoàn trả trong vòng 12 tháng tới",
+                "1": "18.767",
+                "2": "19.282"
+            },
+            {
+                "0": "Cổ tức phải trả",
+                "1": "14",
+                "2": "-"
+            },
+            {
+                "0": "Đặt cọc xây dựng quầy hàng",
+                "1": "16.341",
+                "2": "-"
+            },
+            {
+                "0": "Đặt cọc bên thứ ba cho dự án nhà phố thương mại",
+                "1": "87.634",
+                "2": "-"
+            },
+            {
+                "0": "Phải trả khác",
+                "1": "15.941",
+                "2": "23.078"
+            },
+            {
+                "0": "",
+                "1": "721.783",
+                "2": "598.923"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_39",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "34\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(b) Phải trả ngắn hạn khác chi tiết theo các bên liên quan",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Các công ty con",
+                "1": "Các công ty con",
+                "2": "Các công ty con"
+            },
+            {
+                "0": "Công ty TNHH Vincom Retail Miền Nam",
+                "1": "119.269",
+                "2": "193.353"
+            },
+            {
+                "0": "Công ty TNHH Vincom Retail Miền Bắc",
+                "1": "5.964",
+                "2": "47.532"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Suối Hoa",
+                "1": "189.261",
+                "2": "243"
+            },
+            {
+                "0": "Các bên liên quan khác",
+                "1": "Các bên liên quan khác",
+                "2": "Các bên liên quan khác"
+            },
+            {
+                "0": "Các bên liên quan khác",
+                "1": "141",
+                "2": "295"
+            },
+            {
+                "0": "",
+                "1": "314.635",
+                "2": "241.423"
+            },
+            {
+                "0": "Đặt cọc thuê mặt bằng trung tâm thương mại",
+                "1": "293.601",
+                "2": "291.128"
+            },
+            {
+                "0": "Đặt cọc thuê mặt bằng trung tâm thương mại phải hoàn trả trong vòng 12 tháng tối",
+                "1": "(18.767)",
+                "2": "(19.282)"
+            },
+            {
+                "0": "",
+                "1": "274.834",
+                "2": "271.846"
+            },
+            {
+                "0": "Phải trả các bên liên quan khác",
+                "1": "6.866",
+                "2": "10.036"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_40",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "35\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMẫu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC)\n\nngày 22/12/2014 của Bộ Tài chính)\n\n23. Trái phiếu phát hành dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Trái phiếu thường",
+                "1": "2.598.095",
+                "2": "2.597.215"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_41",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Trái phiếu có giá trị ghi sở là 3.000 tỷ VND bao gồm 3.000 trái phiếu, được tư vấn phát hành vào ngày 8 tháng 3 năm 2017 bởi Công ty Cổ phần Chứng khoán Ngân hàng Công thương, với kỳ hạn 5 năm. Lãi suất trái phiếu áp dụng cho kỳ tính lãi đầu tiên là 8,1% một năm, lãi suất áp dụng cho các kỳ tính lãi tiếp theo được xác định bằng lại suất thả nổii, một năm điều chỉnh một lần và được xác định theo nguyên tắc bằng tổng lãi suất huy động tiền gửi tiết kiệm bằng đồng VND kỳ hạn 12 tháng trả lãi sau của Ngân hàng TMCP Công thương Việt Nam – Chi nhánh Thành phố Hà Nội vào mỗi ngày xác định lãi suất cộng (+) biên độ 3%. Giá trị ghi sở của khoản trái phiếu này được trình bày sau khi bù trừ với chi phí phát hành.\n\nTrong năm 2018, Công ty đã mua lại 400 trái phiếu trước hạn.\n\nTrái phiếu này được thế chấp bằng quyền sử dụng đất và tài sản gắn liền với đất của một số trung tâm thương mại được sở hữu bồn Công ty TNHH Vincom Retail Miền Bắc và Công ty TNHH Vincom Retail Miền Nam, hai công ty con.\n\n24. Dự phòng phải trả ngắn hạn\n\nDự phòng phải trả ngắn hạn thể hiện số dư dự phòng bảo hành cho diện tích thương mại và nhà phố thương mại.\n\nBiến động của dự phòng phải trả ngắn hạn trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019Triệu VND"
+            },
+            {
+                "0": "Số dư dầu năm",
+                "1": "7.632"
+            },
+            {
+                "0": "Dự phòng trong năm",
+                "1": "2.213"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "9.845"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_42",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "36\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n25. Thay đổi vốn chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Cổ phần phổ thông có quyền biểu quyếtTriệu VND",
+                "2": "Thặng dư vốncổ phầnTriệu VND",
+                "3": "Cổ phiếu quỹTriệu VND",
+                "4": "Quỹ khác thuộcvốn chủ sở hữuTriệu VND",
+                "5": "Lợi nhuận chưa phân phối/(lỗ lũy kế)Triệu VND",
+                "6": "TổngTriệu VND"
+            },
+            {
+                "0": "Số dư tại ngày 1 tháng 1 năm 2018",
+                "1": "19.010.787",
+                "2": "4.324.380",
+                "3": "-",
+                "4": "-",
+                "5": "(260.010)",
+                "6": "23.075.157"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "1.227.589",
+                "6": "1.227.589"
+            },
+            {
+                "0": "Tăng vốn từ nguồn vốn chủ sở hữu",
+                "1": "4.277.397",
+                "2": "(4.277.397)",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Số dư tại ngày 1 tháng 1 năm 2019",
+                "1": "23.288.184",
+                "2": "46.983",
+                "3": "-",
+                "4": "-",
+                "5": "967.579",
+                "6": "24.302.746"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "4.102.673",
+                "6": "4.102.673"
+            },
+            {
+                "0": "Phân bổ vào các quỹ",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "5.000",
+                "5": "(5.000)",
+                "6": "-"
+            },
+            {
+                "0": "Mua lại cổ phiếu quỹ",
+                "1": "-",
+                "2": "-",
+                "3": "(1.954.258)",
+                "4": "-",
+                "5": "-",
+                "6": "(1.954.258)"
+            },
+            {
+                "0": "Cổ tức (Thuyết minh 27)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(2.445.259)",
+                "6": "(2.445.259)"
+            },
+            {
+                "0": "Số dư tại ngày 31 tháng 12 năm 2019",
+                "1": "23.288.184",
+                "2": "46.983",
+                "3": "(1.954.258)",
+                "4": "5.000",
+                "5": "2.619.993",
+                "6": "24.005.902"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_43",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "37\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n26. Vốn cổ phần\n\nVốn cổ phần được duyệt và đã phát hành của Công ty là:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019",
+                "2": "31/12/2019",
+                "3": "1/1/2019",
+                "4": "1/1/2019"
+            },
+            {
+                "0": "",
+                "1": "Số lượngcổ phiếu",
+                "2": "Triệu VND",
+                "3": "Số lượngcổ phiếu",
+                "4": "Triệu VND"
+            },
+            {
+                "0": "Vốn cổ phần được duyệtvà đã phát hành",
+                "1": "Vốn cổ phần được duyệtvà đã phát hành",
+                "2": "Vốn cổ phần được duyệtvà đã phát hành",
+                "3": "Vốn cổ phần được duyệtvà đã phát hành",
+                "4": "Vốn cổ phần được duyệtvà đã phát hành"
+            },
+            {
+                "0": "Cổ phiếu phổ thông",
+                "1": "2.328.818.410",
+                "2": "23.288.184",
+                "3": "2.328.818.410",
+                "4": "23.288.184"
+            },
+            {
+                "0": "Cổ phiếu quỹ",
+                "1": "Cổ phiếu quỹ",
+                "2": "Cổ phiếu quỹ",
+                "3": "Cổ phiếu quỹ",
+                "4": "Cổ phiếu quỹ"
+            },
+            {
+                "0": "Cổ phiếu phổ thông",
+                "1": "56.500.000",
+                "2": "1.954.258",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Vốn cổ phần hiện danglưu hành",
+                "1": "Vốn cổ phần hiện danglưu hành",
+                "2": "Vốn cổ phần hiện danglưu hành",
+                "3": "Vốn cổ phần hiện danglưu hành",
+                "4": "Vốn cổ phần hiện danglưu hành"
+            },
+            {
+                "0": "Cổ phiếu phổ thông",
+                "1": "2.272.318.410",
+                "2": "22.723.184",
+                "3": "2.328.818.410",
+                "4": "23.288.184"
+            },
+            {
+                "0": "Thặng dư vốn cổ phần",
+                "1": "-",
+                "2": "46.983",
+                "3": "-",
+                "4": "46.983"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_44",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Cổ phiếu phổ thông có mènh giá là 10,000 VND. Mỗi cổ phiếu phổ thông tương ứng với một quyền biểu quyết tại các cuộc họp cổ đông của Công ty. Các cổ đông được nhận cổ tức mà Công ty công bố vào từng thời điểm. Tất cả cổ phiếu phổ thông đều có thứ tự ưu tiên như nhau đối với tài sản còn lại của Công ty. Đối với cổ phiếu đã được Công ty mua lại, các quyền trên đều bị tạm ngừng cho tới khi chúng được phát hành lại.\n\nBiến động vốn có phần trong năm như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019",
+                "2": "2019",
+                "3": "2018",
+                "4": "2018"
+            },
+            {
+                "0": "",
+                "1": "Số lượng cổ phiếu",
+                "2": "Triệu VND",
+                "3": "Số lượng cổ phiếu",
+                "4": "Triệu VND"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "2.328.818.410",
+                "2": "23.288.184",
+                "3": "1.901.078.733",
+                "4": "19.010.787"
+            },
+            {
+                "0": "Mua lại cổ phiếu quỹ",
+                "1": "(56.500.000)",
+                "2": "(565.000)",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Phát hành vốn cổ phần từ thăng dư vốn",
+                "1": "-",
+                "2": "-",
+                "3": "427.739.677",
+                "4": "4.277.397"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "2.272.318.410",
+                "2": "22.723.184",
+                "3": "2.328.818.410",
+                "4": "23.288.184"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_45",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "27. Cổ tức\n\nVào ngày 11 tháng 4 năm 2019, các cổ đông của Công ty đã quyết định chia cổ tức bằng tiền cho các cổ đông hiện hữu với tỷ lệ 10,5% (1 cổ phiếu nhận được 1.050 VND) (cho năm kết thúc ngày 31 tháng 12 năm 2018: Không).\n\n38\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n28. Các khoản mục ngoài bảng cân đối kế toán\n\n(a) Cam kết thuê\n\nCác cam kết thuê hoạt động trong đó Công ty là bên cho thuê\n\nCông ty hiện đang cho thuê mặt bằng diện tích trung tâm thương mại theo các thỏa thuận thuê hoạt động. Số tiền thuê tối thiểu trong tương lai theo các thỏa thuận này vào ngày kết thúc năm tài chính như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Trong vòng 1 năm",
+                "1": "834.885",
+                "2": "674.932"
+            },
+            {
+                "0": "Trong vòng 2 đến 5 năm",
+                "1": "1.574.595",
+                "2": "1.639.457"
+            },
+            {
+                "0": "Sau 5 năm",
+                "1": "1.559.295",
+                "2": "1.115.741"
+            },
+            {
+                "0": "",
+                "1": "3.968.775",
+                "2": "3.430.130"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_46",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "Các cam kết thuê hoạt động trong đó Công ty là bên đi thuê\n\nCông ty là bên đi thuê, đã ký kết một số hợp đồng thuê hoạt động. Các khoản tiền thuê tối thiểu phải trả cho các hợp đồng thuê hoạt động không được hủy ngang như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2019Triệu VND",
+                "2": "1/1/2019Triệu VND"
+            },
+            {
+                "0": "Trong vòng 1 năm",
+                "1": "10.389",
+                "2": "8.842"
+            },
+            {
+                "0": "Trong vòng 2 đến 5 năm",
+                "1": "41.554",
+                "2": "35.370"
+            },
+            {
+                "0": "Sau 5 năm",
+                "1": "428.256",
+                "2": "490.171"
+            },
+            {
+                "0": "",
+                "1": "480.199",
+                "2": "534.383"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_47",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "(b) Cam kết chi tiêu vốn\n\nCông ty đã ký các hợp đồng liên quan đến việc triển khai các dự án bất động sản. Tổng số vốn cam kết theo những hợp đồng này tại ngày 31 tháng 12 năm 2019 ước tính là 1.076.191 triệu VND (1/1/2019: 963.826 triệu VND).\n\n39\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n(c) Các cam kết khác\n\nCam kết cìng phát triển trung tâm thương mại\n\nTheo các thỏa thuận hợp tác giữa Công ty với Tập đoàn Vingroup – Công ty CP, Công ty cam kết nhận chuyển nhượng toàn bộ phần vốn góp của các công ty mục tiêu sẽ được thành lập để sở hữu và vận hành một số trung tâm thương mại tại một số tỉnh, thành phố sau khi các điều kiện ký kết trong các thỏa thuận được hoàn tất. Công ty chuyển tiền cho Tập đoàn Vingroup – Công ty CP để xây dựng trung tâm thương mại. Trong các trường hợp Tập đoàn Vingroup – Công ty CP chưa đủ các điều kiện để chuyển giao về mặt pháp lý các trung tâm thương mại sang công ty mục tiêu dưới hình thức góp vốn, các bên sẽ hợp tác để quản lý vận hành, khai thác các trung tâm thương mại. Theo đó, Công ty cam kết sẽ nhận bàn giao để vận hành và khai thác kinh doanh các trung tâm thương mại và chia lại một phần lợi nhuận cho Tập đoàn Vingroup – Công ty CP.\n\nCam kết thanh toán theo hợp đồng hợp tác đầu tư các dự án trung tâm thương mại\n\nNhư đã trình bày ở Thuyết minh 11. Công ty đã ký kết các thỏa thuận và hợp đồng hợp tác đầu tư và kinh doanh dự án với Tập đoàn Vingroup – Công ty CP và một số công ty trong Tập đoàn (sau đây gọi là“các đối tác đầu tư”) cho mục đích hợp tác đầu tư và kinh doanh cấu phần trung tâm thương mại của một số dự án bất động sản. Theo các thỏa thuận này, các đối tác đầu tư đã cam kết chuyển nhượng các dự án trung tâm thương mại hoặc trao quyền ưu tiên mua trung tâm thương mại cho Công ty. Công ty ước tính sẽ còn phải thanh toán 3.825.914 triệu VND (1/1/2019: 4.205.000 triệu VND) cho các đối tác đầu tư theo các quy định của các thỏa thuận này.\n\n29. Doanh thu bán hàng và cung cấp dịch vụ\n\nTổng doanh thu thể hiện tổng giá trị hàng bán và dịch vụ đã cung cấp, không bao gồm thuế giá trị gia tăng.\n\nDoanh thu thuần bao gồm:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019Triệu VND",
+                "2": "2018Triệu VND"
+            },
+            {
+                "0": "Tổng doanh thu",
+                "1": "Tổng doanh thu",
+                "2": "Tổng doanh thu"
+            },
+            {
+                "0": "▪ Doanh thu chuyển nhượng bất động sản",
+                "1": "1.859.727",
+                "2": "516.011"
+            },
+            {
+                "0": "▪ Doanh thu cho thuê bất động sản đầu tư và cung cấp các dịch vụ liên quan",
+                "1": "1.572.013",
+                "2": "714.623"
+            },
+            {
+                "0": "▪ Doanh thu cung cấp dịch vụ quản lý",
+                "1": "356.096",
+                "2": "287.266"
+            },
+            {
+                "0": "▪ Doanh thu từ các dịch vụ khác",
+                "1": "20.650",
+                "2": "8.403"
+            },
+            {
+                "0": "Doanh thu thuần",
+                "1": "3.808.486",
+                "2": "1.526.303"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_48",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "40\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n30. Giá vốn hàng bán và dịch vụ cung cấp",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019Triệu VND",
+                "2": "2018Triệu VND"
+            },
+            {
+                "0": "Tổng giá vốn hàng bán",
+                "1": "Tổng giá vốn hàng bán",
+                "2": "Tổng giá vốn hàng bán"
+            },
+            {
+                "0": "▪ Giá vốn chuyển nhượng bất động sản",
+                "1": "1.160.426",
+                "2": "351.729"
+            },
+            {
+                "0": "▪ Giá vốn cho thuê bất động sản đầu tư và cung cấp các dịch vụ liên quan",
+                "1": "829.639",
+                "2": "402.010"
+            },
+            {
+                "0": "▪ Giá vốn cung cấp dịch vụ quản lý và dịch vụ môi giới",
+                "1": "347.020",
+                "2": "261.232"
+            },
+            {
+                "0": "▪ Giá vốn các dịch vụ khác",
+                "1": "7.152",
+                "2": "2.704"
+            },
+            {
+                "0": "",
+                "1": "2.344.237",
+                "2": "1.017.675"
+            },
+            {
+                "0": "Cổ tức được chia",
+                "1": "2.991.810",
+                "2": "600.000"
+            },
+            {
+                "0": "Lãi tiến gửi, lãi cho vay và đặt cọc",
+                "1": "441.864",
+                "2": "737.762"
+            },
+            {
+                "0": "",
+                "1": "3.433.674",
+                "2": "1.337.762"
+            },
+            {
+                "0": "Chi phí lãi trái phiếu",
+                "1": "274.028",
+                "2": "347.959"
+            },
+            {
+                "0": "Phân bổ chi phí phát hành trái phiếu",
+                "1": "880",
+                "2": "3.271"
+            },
+            {
+                "0": "Chi phí tài chính khác",
+                "1": "341",
+                "2": "60"
+            },
+            {
+                "0": "",
+                "1": "275.249",
+                "2": "351.290"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_49",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "41\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMãu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n33. Chi phí bán hàng",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019Triệu VND",
+                "2": "2018Triệu VND"
+            },
+            {
+                "0": "Chỉ phí nhân viên",
+                "1": "4.432",
+                "2": "3.295"
+            },
+            {
+                "0": "Chỉ phí tư vấn, hoa hồng môi giới và giao dịch qua sản",
+                "1": "77.426",
+                "2": "24.111"
+            },
+            {
+                "0": "Phí quản lý thương hiệu",
+                "1": "28.167",
+                "2": "13.098"
+            },
+            {
+                "0": "Chỉ phí tiếp thị",
+                "1": "46.181",
+                "2": "18.600"
+            },
+            {
+                "0": "Chỉ phí bán hàng khác",
+                "1": "489",
+                "2": "683"
+            },
+            {
+                "0": "",
+                "1": "156.695",
+                "2": "59.787"
+            },
+            {
+                "0": "Chi phí nhân viên",
+                "1": "1.405",
+                "2": "7.138"
+            },
+            {
+                "0": "Chi phí dự phòng",
+                "1": "832",
+                "2": "45"
+            },
+            {
+                "0": "Chi phí dịch vụ thuê ngoài",
+                "1": "163",
+                "2": "1.563"
+            },
+            {
+                "0": "Chi phí quản lý doanh nghiệp",
+                "1": "93.750",
+                "2": "31.909"
+            },
+            {
+                "0": "Chi phí khác",
+                "1": "225",
+                "2": "304"
+            },
+            {
+                "0": "",
+                "1": "96.375",
+                "2": "40.959"
+            },
+            {
+                "0": "Chỉ phí phát triển bắt động sản",
+                "1": "1.331.950",
+                "2": "777.591"
+            },
+            {
+                "0": "Chỉ phí nhân viên",
+                "1": "281.885",
+                "2": "80.955"
+            },
+            {
+                "0": "Chỉ phí khấu hao và phân bổ",
+                "1": "145.108",
+                "2": "124.715"
+            },
+            {
+                "0": "Chỉ phí dịch vụ mua ngoài",
+                "1": "658.741",
+                "2": "283.305"
+            },
+            {
+                "0": "Phí quản lý từ công ty mẹ",
+                "1": "283.025",
+                "2": "261.232"
+            },
+            {
+                "0": "Chỉ phí khác",
+                "1": "68.122",
+                "2": "16.666"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_50",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "42\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n36. Thuế thu nhập doanh nghiệp\n\n(a) Ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "2019Triệu VND",
+                "2": "2018Triệu VND"
+            },
+            {
+                "0": "Chi phí thuế thu nhập doanh nghiệp hiện hành",
+                "1": "Chi phí thuế thu nhập doanh nghiệp hiện hành",
+                "2": "Chi phí thuế thu nhập doanh nghiệp hiện hành"
+            },
+            {
+                "0": "Năm hiện hành",
+                "1": "278.675",
+                "2": "158.783"
+            },
+            {
+                "0": "Điều chính thuế thu nhập doanh nghiệp những năm trước",
+                "1": "-",
+                "2": "2.389"
+            },
+            {
+                "0": "",
+                "1": "278.675",
+                "2": "161.172"
+            },
+            {
+                "0": "Lợi nhuận kế toán trước thuế",
+                "1": "4.381.348",
+                "2": "1.388.761"
+            },
+            {
+                "0": "Thuế tính theo thuế suất của Công ty",
+                "1": "876.270",
+                "2": "277.752"
+            },
+            {
+                "0": "Chi phí không được khấu trừ thuế",
+                "1": "767",
+                "2": "1.031"
+            },
+            {
+                "0": "Thu nhập không bị tính thuế",
+                "1": "(598.362)",
+                "2": "(120.000)"
+            },
+            {
+                "0": "Điều chỉnh thuế thu nhập doanh nghiệp những năm trước",
+                "1": "-",
+                "2": "2.389"
+            },
+            {
+                "0": "",
+                "1": "278.675",
+                "2": "161.172"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_51",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "(c) Thuế suất áp dụng\n\nCông ty có nghĩa vụ nộp cho Nhà nước thuế thu nhập doanh nghiệp với thuế suất là 20% trên lợi nhuận tính thuế (2018: 20%).\n\n43\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMãu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)\n\n37. Các giao dịch chủ yếu với các bên liên quan\n\nCác điều kiện và điều khoản của giao dịch với các bên liên quan:\n\nTrong năm, Công ty đã mua và bán hàng hóa, dịch vụ từ các bên liên quan với giá được xác định dựa trên cơ sở thỏa thuận.\n\nCác khoản phải thu từ hoặc phải trả cho các bên liên quan theo điều khoản kinh doanh thông thường và có thời hoàn thu hồi hoặc thanh toán dựa trên cơ sở thỏa thuận theo hợp đồng.\n\nNgoài các số dư với các bên liên quan được trình bày tại các thuyết minh khác của báo cáo tài chính riêng, trong năm Công ty có các giao dịch chú yếu sau với các bên liên quan:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Giá trị giao dịch",
+                "2": "Giá trị giao dịch"
+            },
+            {
+                "0": "",
+                "1": "2019Triệu VND",
+                "2": "2018Triệu VND"
+            },
+            {
+                "0": "Cổ đông",
+                "1": "Cổ đông",
+                "2": "Cổ đông"
+            },
+            {
+                "0": "Công ty TNHH Kinh doanh và Phát triển Đô thịNam Hà Nội",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Cổ tức phải trả",
+                "1": "201.798",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Sài Đồng",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Cổ tức phải trả",
+                "1": "788.582",
+                "2": "-"
+            },
+            {
+                "0": "Công ty mẹ",
+                "1": "Công ty mẹ",
+                "2": "Công ty mẹ"
+            },
+            {
+                "0": "Tập đoàn Vingroup – Công ty CP",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Mua hàng hóa và dịch vụ",
+                "1": "323.040",
+                "2": "217.435"
+            },
+            {
+                "0": "Lãi cho vay, lãi đặt cọc phải thu",
+                "1": "7.200",
+                "2": "169.080"
+            },
+            {
+                "0": "Thu hồi gốc cho vay",
+                "1": "-",
+                "2": "2.613.600"
+            },
+            {
+                "0": "Đặt cọc cho mục đích đầu tư",
+                "1": "289.495",
+                "2": "589.487"
+            },
+            {
+                "0": "Thu hồi đặt cọc cho mục đích đầu tư",
+                "1": "796.000",
+                "2": "585.000"
+            },
+            {
+                "0": "Cổ tức phải trả",
+                "1": "449.101",
+                "2": "-"
+            },
+            {
+                "0": "Các công ty con",
+                "1": "Các công ty con",
+                "2": "Các công ty con"
+            },
+            {
+                "0": "Công ty TNHH Vincom Retail Miền Nam",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "197.413",
+                "2": "152.690"
+            },
+            {
+                "0": "Lãi cho vay phải thu",
+                "1": "100.250",
+                "2": "132.858"
+            },
+            {
+                "0": "Cho vay",
+                "1": "305.000",
+                "2": "50.000"
+            },
+            {
+                "0": "Thu hồi gốc cho vay",
+                "1": "1.037.293",
+                "2": "202.300"
+            },
+            {
+                "0": "Cổ tức được nhận",
+                "1": "800.000",
+                "2": "-"
+            },
+            {
+                "0": "Đặt cọc mua trung tâm thương mại",
+                "1": "750.000",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Vincom Retail Miền Bắc",
+                "1": "Công ty TNHH Vincom Retail Miền Bắc",
+                "2": "Công ty TNHH Vincom Retail Miền Bắc"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "206.603",
+                "2": "143.464"
+            },
+            {
+                "0": "Lãi cho vay phải thu",
+                "1": "88.699",
+                "2": "111.769"
+            },
+            {
+                "0": "Thu hồi gốc cho vay",
+                "1": "-",
+                "2": "900.000"
+            },
+            {
+                "0": "Cán trừ phải thu về cho vay dài hạn với tài sản ngắn hạn khác",
+                "1": "-",
+                "2": "225.184"
+            },
+            {
+                "0": "Cổ tức được nhận",
+                "1": "1.900.000",
+                "2": "600.000"
+            },
+            {
+                "0": "Trả cho chuyển nhượng đầu tư",
+                "1": "380.000",
+                "2": "-"
+            },
+            {
+                "0": "Thu nhập từ chuyển nhượng đầu tư",
+                "1": "1.000",
+                "2": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_52",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "44\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Giá trị giao dịch",
+                "2": "Giá trị giao dịch"
+            },
+            {
+                "0": "",
+                "1": "2019Triệu VND",
+                "2": "2018Triệu VND"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Suối Hoa",
+                "1": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Suối Hoa",
+                "2": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Suối Hoa"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "2.827",
+                "2": "33.233"
+            },
+            {
+                "0": "Cổ tức được nhận",
+                "1": "291.810",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Phát triển và Đầu tư Bất động sản",
+                "1": "Công ty TNHH Phát triển và Đầu tư Bất động sản",
+                "2": "Công ty TNHH Phát triển và Đầu tư Bất động sản"
+            },
+            {
+                "0": "Hà Thành",
+                "1": "Hà Thành",
+                "2": "Hà Thành"
+            },
+            {
+                "0": "Góp vốn",
+                "1": "380.000",
+                "2": "-"
+            },
+            {
+                "0": "Các công ty liên quan khác",
+                "1": "Các công ty liên quan khác",
+                "2": "Các công ty liên quan khác"
+            },
+            {
+                "0": "Công ty Cổ phần Vinhomes",
+                "1": "Công ty Cổ phần Vinhomes",
+                "2": "Công ty Cổ phần Vinhomes"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "6.602",
+                "2": "38.945"
+            },
+            {
+                "0": "Mua hàng hóa và dịch vụ",
+                "1": "314.179",
+                "2": "226.534"
+            },
+            {
+                "0": "Lãi đặt cọc phải thu",
+                "1": "-",
+                "2": "84.791"
+            },
+            {
+                "0": "Đặt cọc cho mục đích đầu tư",
+                "1": "273.485",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Dịch vụ Thương mại Tổng hợp",
+                "1": "Công ty Cổ phần Dịch vụ Thương mại Tổng hợp",
+                "2": "Công ty Cổ phần Dịch vụ Thương mại Tổng hợp"
+            },
+            {
+                "0": "Vincommerce",
+                "1": "Vincommerce",
+                "2": "Vincommerce"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "197.485",
+                "2": "84.808"
+            },
+            {
+                "0": "Mua hàng hóa và dịch vụ",
+                "1": "12.388",
+                "2": "13.469"
+            },
+            {
+                "0": "Công ty Cổ phần Vinpearl",
+                "1": "Công ty Cổ phần Vinpearl",
+                "2": "Công ty Cổ phần Vinpearl"
+            },
+            {
+                "0": "Đặt cọc cho mục đích đầu tư",
+                "1": "108.931",
+                "2": "178.425"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "6.575",
+                "2": "-"
+            },
+            {
+                "0": "Mua hàng hóa và dịch vụ",
+                "1": "37.126",
+                "2": "11.636"
+            },
+            {
+                "0": "Công ty Cổ phần Kinh doanh và Thương mại Dịch vụ Vinpro",
+                "1": "Công ty Cổ phần Kinh doanh và Thương mại Dịch vụ Vinpro",
+                "2": "Công ty Cổ phần Kinh doanh và Thương mại Dịch vụ Vinpro"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "64.836",
+                "2": "20.533"
+            },
+            {
+                "0": "Công ty TNHH Phát triển Công viên Trung tâm",
+                "1": "Công ty TNHH Phát triển Công viên Trung tâm",
+                "2": "Công ty TNHH Phát triển Công viên Trung tâm"
+            },
+            {
+                "0": "Đặt cọc cho mục đích đầu tư",
+                "1": "20.814",
+                "2": "-"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư Xây dựng Thái Sơn",
+                "1": "Công ty Cổ phần Đầu tư Xây dựng Thái Sơn",
+                "2": "Công ty Cổ phần Đầu tư Xây dựng Thái Sơn"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "32.286",
+                "2": "-"
+            },
+            {
+                "0": "Đặt cọc cho mục đích đầu tư",
+                "1": "81.000",
+                "2": "-"
+            },
+            {
+                "0": "Lãi đặt cọc phải thu",
+                "1": "7.812",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH Đầu tư và Phát triển Đô thị Gia Lâm",
+                "1": "Công ty TNHH Đầu tư và Phát triển Đô thị Gia Lâm",
+                "2": "Công ty TNHH Đầu tư và Phát triển Đô thị Gia Lâm"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "37.617",
+                "2": "-"
+            },
+            {
+                "0": "Đặt cọc cho mục đích đầu tư",
+                "1": "98.000",
+                "2": "-"
+            },
+            {
+                "0": "Lãi đặt cọc phải thu",
+                "1": "9.451",
+                "2": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VRE_2019_separate_table_53",
+        "metadata": {
+            "ticker": "VRE",
+            "company_name": "CTCP Vincom Retail",
+            "year": "2019",
+            "report_type": "separate",
+            "original_folder": "VRE_financial_statements_2019_separate"
+        },
+        "context_text": "45\n\n\n\nCông ty Cổ phần Vincom Retail\n\nThuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)\n\nMâu B 09 - DN\n\n(Ban hành theo Thông tư số 200/2014/TT-BTC\n\nngày 22/12/2014 của Bộ Tài chính)",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Giá trị giao dịch",
+                "2": "Giá trị giao dịch"
+            },
+            {
+                "0": "",
+                "1": "2019Triệu VND",
+                "2": "2018Triệu VND"
+            },
+            {
+                "0": "Công ty Cổ phần Phát triển Thành phố Xanh",
+                "1": "Công ty Cổ phần Phát triển Thành phố Xanh",
+                "2": "Công ty Cổ phần Phát triển Thành phố Xanh"
+            },
+            {
+                "0": "Đặt cọc cho mục đích đầu tư",
+                "1": "1.020.000",
+                "2": "-"
+            },
+            {
+                "0": "Thu hồi đặt cọc cho mục đích đầu tư",
+                "1": "800.000",
+                "2": "-"
+            },
+            {
+                "0": "Lãi đặt cọc phải thu",
+                "1": "90.989",
+                "2": "8.403"
+            },
+            {
+                "0": "Thành viên Hội đồng Quản trị và Ban giám đốc",
+                "1": "Thành viên Hội đồng Quản trị và Ban giám đốc",
+                "2": "Thành viên Hội đồng Quản trị và Ban giám đốc"
+            },
+            {
+                "0": "Tiền lương và thường",
+                "1": "28.064",
+                "2": "25.581"
+            },
+            {
+                "0": "",
+                "1": "2019Triệu VND",
+                "2": "2018Triệu VND"
+            },
+            {
+                "0": "Cân trụ phần thu về cho vay dản hạn von tài sảnngăn hạn khác",
+                "1": "-",
+                "2": "225.184"
+            },
+            {
+                "0": "Chuyển tài sản ngắn hạn khác sang đầu tư vào đơn vị khác",
+                "1": "101.000",
+                "2": "3.569.096"
+            }
+        ]
+    }
+]

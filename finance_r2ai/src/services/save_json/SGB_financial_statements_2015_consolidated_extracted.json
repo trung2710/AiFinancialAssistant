@@ -1,0 +1,1120 @@
+[
+    {
+        "chunk_id": "SGB_2015_consolidated_table_1",
+        "metadata": {
+            "ticker": "SGB",
+            "company_name": "Ngân hàng TMCP Sài Gòn Công Thương",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "SGB_financial_statements_2015_consolidated"
+        },
+        "context_text": "BÁO CÁO TÀI CHÍNH HỢP NHẤT\nĐÃ ĐƯỢC KIỂM TOÁN\n\nNăm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI\nGÒN CÔNG THƯƠNG\n\n\n\n(1) 2024年1月1日至2024年1月31日，公司与关联方累计发生关联交易的总金额为人民币45,000万元。\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG\n\nMẫu số: B02/TCTD-HN\n\nBẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT\n\nTại ngày 31 tháng 12 năm 2015\n\nĐơn vị tính: Triệu đồng Việt Nam",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Thuyết minh",
+                "2": "31/12/2015",
+                "3": "31/12/2014"
+            },
+            {
+                "0": "A. TÀI SẢN",
+                "1": "A. TÀI SẢN",
+                "2": "A. TÀI SẢN",
+                "3": "A. TÀI SẢN"
+            },
+            {
+                "0": "I. Tiền mặt, vàng bạc, đá quý",
+                "1": "V.01",
+                "2": "190.900",
+                "3": "187.678"
+            },
+            {
+                "0": "II. Tiền gửi tại ngân hàng nhà nước",
+                "1": "V.02",
+                "2": "477.364",
+                "3": "563.314"
+            },
+            {
+                "0": "III. Tiền, vàng gửi tại các TCTD khác và cho vay các TCTD khác",
+                "1": "V.03",
+                "2": "1.370.657",
+                "3": "132.356"
+            },
+            {
+                "0": "1. Tiền, vàng gửi tại các TCTD khác",
+                "1": "",
+                "2": "1.370.657",
+                "3": "132.356"
+            },
+            {
+                "0": "2. Cho vay các TCTD khác",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "3. Dự phòng rủi ro cho vay các TCTD khác",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "IV. Chứng khoán kinh doanh",
+                "1": "V.04",
+                "2": "-",
+                "3": "35.000"
+            },
+            {
+                "0": "1. Chứng khoán kinh doanh",
+                "1": "",
+                "2": "-",
+                "3": "35.000"
+            },
+            {
+                "0": "2. Dự phòng giảm giá chứng khoán kinh doanh",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "V. Các công cụ tài chính phải sinh và các tài sản tài chính khác",
+                "1": "V.05",
+                "2": "3.068",
+                "3": "-"
+            },
+            {
+                "0": "VI. Cho vay khách hàng",
+                "1": "",
+                "2": "11.520.181",
+                "3": "11.139.340"
+            },
+            {
+                "0": "1. Cho vay khách hàng",
+                "1": "V.06",
+                "2": "11.612.018",
+                "3": "11.232.242"
+            },
+            {
+                "0": "2. Dự phòng rủi ro cho vay khách hàng",
+                "1": "V.07",
+                "2": "(91.837)",
+                "3": "(92.902)"
+            },
+            {
+                "0": "VII. Hoạt động mua nợ",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "1. Mua nợ",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "2. Dự phòng rủi ro hoạt động mua nợ",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "VII. Chứng khoán đầu tư",
+                "1": "V.08",
+                "2": "2.528.123",
+                "3": "2.128.387"
+            },
+            {
+                "0": "1. Chứng khoán đầu tư sẵn sàng để bán",
+                "1": "",
+                "2": "-",
+                "3": "670.580"
+            },
+            {
+                "0": "2. Chứng khoán đầu tư giữ đến ngày đáo hạn",
+                "1": "",
+                "2": "2.772.732",
+                "3": "1.510.458"
+            },
+            {
+                "0": "3. Dự phòng giảm giá chứng khoán đầu tư",
+                "1": "",
+                "2": "(244.609)",
+                "3": "(52.651)"
+            },
+            {
+                "0": "VIII. Góp vốn, đầu tư dài hạn",
+                "1": "V.09",
+                "2": "117.336",
+                "3": "118.086"
+            },
+            {
+                "0": "1. Đầu tư vào công ty con",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "2. Vốn góp liên doanh",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "3. Đầu tư vào công ty liên kết",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "4. Đầu tư dài hạn khác",
+                "1": "",
+                "2": "118.276",
+                "3": "118.276"
+            },
+            {
+                "0": "5. Dự phòng giảm giá đầu tư dài hạn",
+                "1": "",
+                "2": "(940)",
+                "3": "(190)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SGB_2015_consolidated_table_2",
+        "metadata": {
+            "ticker": "SGB",
+            "company_name": "Ngân hàng TMCP Sài Gòn Công Thương",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "SGB_financial_statements_2015_consolidated"
+        },
+        "context_text": "Các thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.\n\nTrang 5\n\n\\( \\therefore {S}_{\\Delta APQ} = {S}_{\\Delta AQP} + {S}_{\\Delta PQQ} \\)\n\n\n\n[Non-Text]\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG\n\nMẫu số: B02/TCTD-HN\n\nBẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT\n\nTại ngày 31 tháng 12 năm 2015\n\nĐơn vị tính: Triệu đồng Việt Nam",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Thuyết minh",
+                "2": "31/12/2015",
+                "3": "31/12/2014"
+            },
+            {
+                "0": "IX. Tài sản cố định",
+                "1": "",
+                "2": "947.836",
+                "3": "952.272"
+            },
+            {
+                "0": "1. Tài sản cố định hữu hình",
+                "1": "V.10",
+                "2": "587.865",
+                "3": "595.690"
+            },
+            {
+                "0": "a. Nguyên giá tài sản cố định hữu hình",
+                "1": "",
+                "2": "879.943",
+                "3": "853.318"
+            },
+            {
+                "0": "b. Hao mòn tài sản cố định hữu hình",
+                "1": "",
+                "2": "(292.078)",
+                "3": "(257.628)"
+            },
+            {
+                "0": "2. Tài sản cố định thuê tài chính",
+                "1": "V.11",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "a. Nguyên giá tài sản cố định thuê tài chính",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "b. Hao mòn tài sản cố định thuê tài chính",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "3. Tài sản cố định vô hình",
+                "1": "V.12",
+                "2": "359.971",
+                "3": "356.582"
+            },
+            {
+                "0": "a. Nguyên giá tài sản cố định vô hình",
+                "1": "",
+                "2": "412.150",
+                "3": "405.866"
+            },
+            {
+                "0": "b. Hao mòn tài sản cố định vô hình",
+                "1": "",
+                "2": "(52.179)",
+                "3": "(49.284)"
+            },
+            {
+                "0": "X. Bất động sản đầu tư",
+                "1": "V.13",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "a. Nguyên giá bất động sản đầu tư",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "b. Hao mòn bất động sản đầu tư",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "XI. Tài sản có khác",
+                "1": "V.14",
+                "2": "593.280",
+                "3": "566.903"
+            },
+            {
+                "0": "1. Các khoản phải thu",
+                "1": "V.14.1&2",
+                "2": "227.090",
+                "3": "239.252"
+            },
+            {
+                "0": "2. Các khoản lãi, phí phải thu",
+                "1": "",
+                "2": "198.844",
+                "3": "202.040"
+            },
+            {
+                "0": "3. Tài sản thuế TNDN hoãn lại",
+                "1": "V.22.1",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "4. Tài sản Có khác",
+                "1": "V.14.3",
+                "2": "167.346",
+                "3": "125.611"
+            },
+            {
+                "0": "- Trong đó: Lợi thế thương mại",
+                "1": "V.15",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "5. Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "TỔNG TÀI SẢN CÓ",
+                "1": "",
+                "2": "17.748.745",
+                "3": "15.823.336"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SGB_2015_consolidated_table_3",
+        "metadata": {
+            "ticker": "SGB",
+            "company_name": "Ngân hàng TMCP Sài Gòn Công Thương",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "SGB_financial_statements_2015_consolidated"
+        },
+        "context_text": "Các thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.\n\nTrang 6\n\n이용품명한 10%\n\n\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG\n\nMẫu số: B02/TCTD-HN\n\nBẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT\n\nTại ngày 31 tháng 12 năm 2015\n\nĐơn vị tính: Triệu đồng Việt Nam",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Thuyết minh",
+                "2": "31/12/2015",
+                "3": "31/12/2014"
+            },
+            {
+                "0": "B. NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU",
+                "1": "B. NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU",
+                "2": "B. NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU",
+                "3": "B. NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU"
+            },
+            {
+                "0": "I. Các khoản nợ chính phủ và Ngân hàng Nhà nước",
+                "1": "V.16",
+                "2": "-",
+                "3": "129.121"
+            },
+            {
+                "0": "II. Tiền gửi và vay các TCTD khác",
+                "1": "V.17",
+                "2": "945.771",
+                "3": "91.607"
+            },
+            {
+                "0": "1. Tiền gửi của các TCTD khác",
+                "1": "",
+                "2": "894.494",
+                "3": "18.783"
+            },
+            {
+                "0": "2. Vay các TCTD khác",
+                "1": "",
+                "2": "51.277",
+                "3": "72.824"
+            },
+            {
+                "0": "III. Tiền gửi của khách hàng",
+                "1": "V.18",
+                "2": "13.141.759",
+                "3": "11.843.167"
+            },
+            {
+                "0": "IV. Các công cụ tài chính phải sinh và các khoản nợ tài chính khác",
+                "1": "V.05",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "V. Vốn tài trợ, Ủy thác đầu tư, cho vay TCTD chịu rủi ro",
+                "1": "V.19",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "VI. Phát hành giấy tờ có giá",
+                "1": "V.20",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "VII. Các khoản nợ khác",
+                "1": "",
+                "2": "270.271",
+                "3": "273.611"
+            },
+            {
+                "0": "1. Các khoản lãi, phí phải trả",
+                "1": "",
+                "2": "167.664",
+                "3": "127.499"
+            },
+            {
+                "0": "2. Thuế TNDN hoãn lại phải trả",
+                "1": "V.22.2",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "3. Các khoản phải trả và công nợ khác",
+                "1": "V.21",
+                "2": "102.607",
+                "3": "146.112"
+            },
+            {
+                "0": "4. Dự phòng rủi ro khác (DP cho công nợ tiềm ẩn và cam kết ngoại bảng)",
+                "1": "V.21",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "TỔNG NỘ PHẢI TRẢ",
+                "1": "",
+                "2": "14.357.801",
+                "3": "12.337.506"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SGB_2015_consolidated_table_4",
+        "metadata": {
+            "ticker": "SGB",
+            "company_name": "Ngân hàng TMCP Sài Gòn Công Thương",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "SGB_financial_statements_2015_consolidated"
+        },
+        "context_text": "Các thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.\n\nTrang 7\n\n\n\n[Non-Text]\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG\n\nMẫu số: B02/TCTD-HN\n\nBẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT\n\nTại ngày 31 tháng 12 năm 2015\n\nĐơn vị tính: Triệu đồng Việt Nam",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Thuyết minh",
+                "2": "31/12/2015",
+                "3": "31/12/2014"
+            },
+            {
+                "0": "VIII. Vốn và các quỹ",
+                "1": "V.23",
+                "2": "3.390.944",
+                "3": "3.485.830"
+            },
+            {
+                "0": "1. Vốn của TCTD",
+                "1": "",
+                "2": "3.080.716",
+                "3": "3.080.716"
+            },
+            {
+                "0": "a. Vốn điều lệ",
+                "1": "",
+                "2": "3.080.000",
+                "3": "3.080.000"
+            },
+            {
+                "0": "b. Vốn đầu tư XDCB",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "c. Thặng dư vốn cổ phần",
+                "1": "",
+                "2": "716",
+                "3": "716"
+            },
+            {
+                "0": "d. Cổ phiếu quỹ",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "e. Cổ phiếu ưu đãi",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "g. Vốn khác",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "2. Quỹ của TCTD",
+                "1": "",
+                "2": "245.682",
+                "3": "218.550"
+            },
+            {
+                "0": "3. Chênh lệch tỷ giá hối đoái",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "4. Chênh lệch đánh giá lại tài sản",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "5. Lợi nhuận chưa phân phối",
+                "1": "",
+                "2": "64.546",
+                "3": "186.564"
+            },
+            {
+                "0": "IX. Lợi ích của cổ đông thiểu số",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SGB_2015_consolidated_table_5",
+        "metadata": {
+            "ticker": "SGB",
+            "company_name": "Ngân hàng TMCP Sài Gòn Công Thương",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "SGB_financial_statements_2015_consolidated"
+        },
+        "context_text": "TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU",
+        "dataframe": [
+            {
+                "0": "17.748.745",
+                "1": "15.823.336"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SGB_2015_consolidated_table_6",
+        "metadata": {
+            "ticker": "SGB",
+            "company_name": "Ngân hàng TMCP Sài Gòn Công Thương",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "SGB_financial_statements_2015_consolidated"
+        },
+        "context_text": "CÁC CHỈ TIÊU NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Thuyết minh",
+                "2": "31/12/2015",
+                "3": "31/12/2014"
+            },
+            {
+                "0": "I. Nghĩa vụ nợ tiềm ăn",
+                "1": "VIII.38",
+                "2": "364.830",
+                "3": "294.583"
+            },
+            {
+                "0": "1. Bảo lãnh vay vốn",
+                "1": "",
+                "2": "-",
+                "3": "18.500"
+            },
+            {
+                "0": "2.Cam kết giao dịch ngoại hối",
+                "1": "",
+                "2": "109.450",
+                "3": "-"
+            },
+            {
+                "0": "Cam kết bán ngoại tệ",
+                "1": "",
+                "2": "109.450",
+                "3": "-"
+            },
+            {
+                "0": "4. Cam kết trong nghiệp vụ L/C",
+                "1": "",
+                "2": "118.463",
+                "3": "121.631"
+            },
+            {
+                "0": "5. Bảo lãnh khác",
+                "1": "",
+                "2": "136.917",
+                "3": "154.452"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SGB_2015_consolidated_table_7",
+        "metadata": {
+            "ticker": "SGB",
+            "company_name": "Ngân hàng TMCP Sài Gòn Công Thương",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "SGB_financial_statements_2015_consolidated"
+        },
+        "context_text": "Lập bằng\n\nNguyễn Thị Thanh Thủy\n\n$duv\n\nKế toán trưởng\n\nĐỗ Thị Loan Anh\n\nTp. HCM, ngày 25 tháng 3 năm 2016\n\nCác thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.\n\nTrang 8\n\n\n\n[Non-Text]\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG\n\nMẫu số: B03/TCTD-HN\n\nBÁO CÁO KẾT QUẢ KINH DOANH HỢP NHẤT\n\nNăm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\nĐơn vị tính: Triệu đồng Việt Nam",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Thuyết minh",
+                "2": "Năm 2015",
+                "3": "Năm 2014"
+            },
+            {
+                "0": "1. Thu nhập lãi và các khoản thu nhập tương tự",
+                "1": "VI.24",
+                "2": "1.313.359",
+                "3": "1.392.266"
+            },
+            {
+                "0": "2. Chi phí lãi và các chi phí tương tự",
+                "1": "VI.25",
+                "2": "690.537",
+                "3": "716.485"
+            },
+            {
+                "0": "I. Thu nhập lãi thuần",
+                "1": "",
+                "2": "622.822",
+                "3": "675.781"
+            },
+            {
+                "0": "3. Thu nhập từ hoạt động dịch vụ",
+                "1": "",
+                "2": "51.113",
+                "3": "54.398"
+            },
+            {
+                "0": "4. Chi phí hoạt động dịch vụ",
+                "1": "",
+                "2": "20.249",
+                "3": "19.961"
+            },
+            {
+                "0": "II. Lãi/lỗ thuần từ hoạt động dịch vụ",
+                "1": "VI.26",
+                "2": "30.864",
+                "3": "34.437"
+            },
+            {
+                "0": "III. Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối",
+                "1": "VI.27",
+                "2": "21.822",
+                "3": "22.197"
+            },
+            {
+                "0": "IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh",
+                "1": "VI.28",
+                "2": "2.565",
+                "3": "99"
+            },
+            {
+                "0": "V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư",
+                "1": "VI.29",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "5. Thu nhập từ hoạt động khác",
+                "1": "",
+                "2": "38.658",
+                "3": "82.877"
+            },
+            {
+                "0": "6. Chi phí hoạt động khác",
+                "1": "",
+                "2": "18.007",
+                "3": "26.144"
+            },
+            {
+                "0": "VI. Lãi/lỗ thuần từ hoạt động khác",
+                "1": "VI.31",
+                "2": "20.651",
+                "3": "56.733"
+            },
+            {
+                "0": "VII. Thu nhập từ góp vốn, mua cổ phần",
+                "1": "\"VI.30",
+                "2": "1.735",
+                "3": "4.627"
+            },
+            {
+                "0": "VIII. Chi phí hoạt động",
+                "1": "VI.32",
+                "2": "377.440",
+                "3": "319.213"
+            },
+            {
+                "0": "IX. Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng",
+                "1": "",
+                "2": "323.019",
+                "3": "474.661"
+            },
+            {
+                "0": "X. Chi phí dự phòng rủi ro tín dụng",
+                "1": "",
+                "2": "268.286",
+                "3": "244.054"
+            },
+            {
+                "0": "XI. Tổng lợi nhuận trước thuế",
+                "1": "",
+                "2": "54.733",
+                "3": "230.607"
+            },
+            {
+                "0": "7. Chi phí thuế TNDN hiện hành",
+                "1": "",
+                "2": "11.619",
+                "3": "~49.722"
+            },
+            {
+                "0": "8. Chi phí thuế TNDN hoãn lại",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "XII. Chi phí thuế Thu nhập doanh nghiệp",
+                "1": "VI.33",
+                "2": "11.619",
+                "3": "49.722"
+            },
+            {
+                "0": "XIII. Lợi nhuận sau thuế Thu nhập doanh nghiệp",
+                "1": "",
+                "2": "43.114",
+                "3": "180.885"
+            },
+            {
+                "0": "XIV. Lợi ích của cổ đông thiểu số",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "XV. Lãi cơ bản trên cổ phiếu",
+                "1": "VI.23.2",
+                "2": "140",
+                "3": "587"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SGB_2015_consolidated_table_8",
+        "metadata": {
+            "ticker": "SGB",
+            "company_name": "Ngân hàng TMCP Sài Gòn Công Thương",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "SGB_financial_statements_2015_consolidated"
+        },
+        "context_text": "Lập bằng\n\nNguyễn Thị Thanh Thuỷ\n\nKế toán trưởng\n\nĐỗ Thị Loan Anh\n\nTrần Thị Việt Ánh\n\nCác thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.\n\nTrang 9\n\n\n\n[Non-Text]\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG\n\nMẫu số: B04/TCTD-HN\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT\n\n(Theo phương pháp trực tiếp)\n\nNăm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\nĐơn vị tính: Triệu đồng Việt Num",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Thuyết minh",
+                "2": "Năm 2015",
+                "3": "Năm 2014"
+            },
+            {
+                "0": "LU'U CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+                "1": "LU'U CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "LU'U CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+                "3": "LU'U CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH"
+            },
+            {
+                "0": "01. Thu nhập lãi và các khoản thu nhập tương tự nhận được",
+                "1": "",
+                "2": "1.316.554",
+                "3": "1.366.102"
+            },
+            {
+                "0": "02. Chi phí lãi và các khoản thu nhập tương tự đã trả",
+                "1": "",
+                "2": "(650.372)",
+                "3": "(728.739)"
+            },
+            {
+                "0": "03. Thu nhập từ hoạt động dịch vụ nhận được",
+                "1": "",
+                "2": "30.864",
+                "3": "34.438"
+            },
+            {
+                "0": "04. Chênh lệch số tiền thực thu/ thực chi từ hoạt động kinh doanh (ngoại tệ, vàng bạc, chứng khoán)",
+                "1": "",
+                "2": "24.387",
+                "3": "22.295"
+            },
+            {
+                "0": "05. Thu nhập khác",
+                "1": "",
+                "2": "(9.557)",
+                "3": "23.036"
+            },
+            {
+                "0": "06. Tiền thu các khoản nợ đã được xử lý hoá, bù đáp bằng nguồn rủi ro",
+                "1": "",
+                "2": "25.873",
+                "3": "27.700"
+            },
+            {
+                "0": "07. Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ",
+                "1": "",
+                "2": "(336.869)",
+                "3": "(278.858)"
+            },
+            {
+                "0": "08. Tiền thuế thu nhập thực nộp trong năm",
+                "1": "",
+                "2": "(6.335)",
+                "3": "(3.634)"
+            },
+            {
+                "0": "Lưu chuyển tiền thuần từ hoạt động kinh doanh trước những thay đổi về tài sản và vốn lưu động",
+                "1": "",
+                "2": "394.545",
+                "3": "462.340"
+            },
+            {
+                "0": "Những thay đổi về tài sản hoạt động",
+                "1": "Những thay đổi về tài sản hoạt động",
+                "2": "Những thay đổi về tài sản hoạt động",
+                "3": "Những thay đổi về tài sản hoạt động"
+            },
+            {
+                "0": "09. (Tăng)/Giảm các khoản tiền, vàng gửi và cho vay các TCTD khác",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "10. (Tăng)/Giảm các khoản về kinh doanh chứng khoán",
+                "1": "",
+                "2": "(364.736)",
+                "3": "(593.568)"
+            },
+            {
+                "0": "11. (Tăng)/Giảm các công cụ tài chính phải sinh và các tài sản tài chính khác",
+                "1": "",
+                "2": "(3.068)",
+                "3": "-"
+            },
+            {
+                "0": "12. (Tăng)/Giảm các khoản cho vay khách hàng",
+                "1": "",
+                "2": "(379.776)",
+                "3": "(562.274)"
+            },
+            {
+                "0": "13. Giảm nguồn dự phòng để bù đáp tổn thất các khoản",
+                "1": "",
+                "2": "(77.256)",
+                "3": "(191.251)"
+            },
+            {
+                "0": "14. (Tăng)/Giảm khác về tài sản hoạt động",
+                "1": "",
+                "2": "(218.483)",
+                "3": "(107.074)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SGB_2015_consolidated_table_9",
+        "metadata": {
+            "ticker": "SGB",
+            "company_name": "Ngân hàng TMCP Sài Gòn Công Thương",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "SGB_financial_statements_2015_consolidated"
+        },
+        "context_text": "Các thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.\n\nTrang 10\n\n\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG\n\nMâu số: B04/TCTD-HN\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT\n\n(Theo phương pháp trực tiếp)\n\nNăm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\nĐơn vị tính: Triệu đồng Việt Nam",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Thuyết minh",
+                "2": "Năm 2015",
+                "3": "Năm 2014"
+            },
+            {
+                "0": "Những thay đổi về công nợ hoạt động",
+                "1": "Những thay đổi về công nợ hoạt động",
+                "2": "Những thay đổi về công nợ hoạt động",
+                "3": "Những thay đổi về công nợ hoạt động"
+            },
+            {
+                "0": "15. Tăng/(Giảm) các khoản nợ chính phủ và NHNN",
+                "1": "",
+                "2": "(129.121)",
+                "3": "129.121"
+            },
+            {
+                "0": "16. Tăng/(Giảm) các khoản tiền gửi và vay các TCTD",
+                "1": "",
+                "2": "854.164",
+                "3": "71.490"
+            },
+            {
+                "0": "17. Tăng/(Giảm) tiền gửi của khách hàng (bao gồm cả Kho bạc Nhà nước)",
+                "1": "",
+                "2": "1.298.592",
+                "3": "1.040.132"
+            },
+            {
+                "0": "18. Tăng/(Giảm) phát hành giấy tờ có giá (ngoại trừ GTCG được tính vào hoạt động tài chính)",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "19. Tăng/(Giảm) vốn tài trợ, ủy thác đầu tư, cho vay mà TCTD chịu rủi ro",
+                "1": "",
+                "2": "-",
+                "3": "(108.356)"
+            },
+            {
+                "0": "20. Tăng/(Giảm) các công cụ tài chính phải sinh và các khoản nợ tài chính khác",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "21. Tăng/(Giảm) khác về công nợ hoạt động",
+                "1": "",
+                "2": "(94.452)",
+                "3": "(86.385)"
+            },
+            {
+                "0": "22. Chi từ các quỹ của tổ chức tín dụng",
+                "1": "",
+                "2": "-",
+                "3": "(14.324)"
+            },
+            {
+                "0": "I. Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+                "1": "",
+                "2": "1.280.409",
+                "3": "39.851"
+            },
+            {
+                "0": "LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "1": "LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "2": "LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+                "3": "LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+            },
+            {
+                "0": "01. Mua sắm TSCĐ",
+                "1": "",
+                "2": "(38.569)",
+                "3": "(143.684)"
+            },
+            {
+                "0": "02. Tiền thu từ thanh lý, nhượng bán TSCĐ",
+                "1": "",
+                "2": "4.335",
+                "3": "5.996"
+            },
+            {
+                "0": "03. Tiền chi từ thanh-lý, nhượng bán TSCĐ",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "04. Mua sắm bất động sản đầu tư",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "05. Tiền thu từ bán, thanh lý bất động sản đầu tư",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "06. Tiền chi ra do bán, thanh lý bất động sản đầu tư",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "07. Tiền chi đầu tư, góp vốn vào các đơn vị khác",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "08. Tiền thu đầu tư, góp vốn vào các đơn vị khác",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "09. Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư, góp vốn dài hạn",
+                "1": "",
+                "2": "1.735",
+                "3": "4.627"
+            },
+            {
+                "0": "II. Lưu chuyển tiền từ hoạt động đầu tư",
+                "1": "",
+                "2": "(32.499)",
+                "3": "(133.061)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "SGB_2015_consolidated_table_10",
+        "metadata": {
+            "ticker": "SGB",
+            "company_name": "Ngân hàng TMCP Sài Gòn Công Thương",
+            "year": "2015",
+            "report_type": "consolidated",
+            "original_folder": "SGB_financial_statements_2015_consolidated"
+        },
+        "context_text": "Các thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.\n\nTrang 11\n\n\n\n[Non-Text]\n\nNGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG\n\nMâu số: B04/TCTD-HN\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT\n\n(Theo phương pháp trực tiếp)\n\nNăm tài chính kết thúc ngày 31 tháng 12 năm 2015\n\nĐơn vị tính: Triệu đồng Việt Nam",
+        "dataframe": [
+            {
+                "0": "CHỈ TIÊU",
+                "1": "Thuyết minh",
+                "2": "Năm 2015",
+                "3": "Năm 2014"
+            },
+            {
+                "0": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "1": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "3": "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+            },
+            {
+                "0": "01. Tăng vốn cổ phần từ góp vốn và/hoặc phát hành cổ phiếu",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "02. Tiền thu từ phát hành giấy tờ có giá dài hạn đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "03. Tiền chi thanh toán giấy tờ có giá dài hạn đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "04. Cổ tức trả cho cổ đông, lợi nhuận đã chia",
+                "1": "",
+                "2": "(92.337)",
+                "3": "(107.800)"
+            },
+            {
+                "0": "05. Tiền chi ra mua cổ phiếu quỹ",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "06. Tiền thu được do bán cổ phiếu quỹ",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "III. Lưu chuyển tiền từ hoạt động tài chính",
+                "1": "",
+                "2": "(92.337)",
+                "3": "(107.800)"
+            },
+            {
+                "0": "IV. Lưu chuyển tiền thuần trong năm",
+                "1": "",
+                "2": "1.155.573",
+                "3": "(201.010)"
+            },
+            {
+                "0": "V. Tiền và các khoản tương đương tiền đầu năm",
+                "1": "",
+                "2": "883.348",
+                "3": "1.084.357"
+            },
+            {
+                "0": "VI. Điều chỉnh của ảnh hưởng thay đổi tỷ giá",
+                "1": "",
+                "2": "-",
+                "3": "-"
+            },
+            {
+                "0": "VII. Tiền và các khoản tương đương tiền cuối năm",
+                "1": "VII.34",
+                "2": "2.038.921",
+                "3": "883.347"
+            }
+        ]
+    }
+]

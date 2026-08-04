@@ -1,0 +1,1785 @@
+[
+    {
+        "chunk_id": "MWG_2020_separate_table_1",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "Công ty Cổ phần Đầu tư Thế Giới Di Động\n\nBáo cáo tài chính riêng\n\nCho năm tài chính kết thúc ngày 31 tháng 12 năm 2020\n\nEY\n\nBuilding a better working world\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nMỤC LỤC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Trang"
+            },
+            {
+                "0": "Thông tin chung",
+                "1": "1"
+            },
+            {
+                "0": "Báo cáo của Ban Giám đốc",
+                "1": "2"
+            },
+            {
+                "0": "Báo cáo kiểm toán độc lập",
+                "1": "3 - 4"
+            },
+            {
+                "0": "Bằng cân đối kế toán riêng",
+                "1": "5 - 6"
+            },
+            {
+                "0": "Báo cáo kết quả hoạt động kinh doanh riêng",
+                "1": "7"
+            },
+            {
+                "0": "Báo cáo lưu chuyển tiền tệ riêng",
+                "1": "8"
+            },
+            {
+                "0": "Thuyết minh báo cáo tài chính riêng",
+                "1": "9 - 23"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_2",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "Công ty Cổ phần Đầu tư Thế Giới Di Động\n\nTHÔNG TIN CHUNG\n\nCÔNG TY\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động (\"Công ty\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đảng ký Doanh nghiệp (\"GCNĐKDN\") số 0306731335 do Sở Kế hoạch và Đầu tư (\"Sở KH&ĐT\") Tĩnh Bình Dương cấp ngày 16 tháng 1 năm 2009, và theo các GCNĐKDN điều chỉnh.\n\nCõ phiếu của Công ty được niêm yết tai Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (\"SGDCKHCM\") với mã chứng khoán \"MWG\" theo Quyết định niêm yết số 253/QĐ-SGDHCM do SGDCKHCM cấp ngày 7 tháng 7 năm 2014.\n\nHoạt động chính trong năm hiện tại của Công ty là quản lý các khoản đầu tư vào các công ty con.\n\nCông ty có trụ sở chính tại Số 222, Đường Yersin, Phường Phú Cường, Thị Xã Thủ Dầu Một, Tĩnh Bình Dương, Việt Nam và văn phòng hoạt động tại Tòa nhà MWG, Lô T2-1.2, Đường D1, Khu Công nghệ cao, Quận 9, Thành phố Hồ Chí Minh, Việt Nam.\n\nHỘI ĐỒNG QUẢN TRỊ\n\nCác thành viên Hội đồng Quản trị trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Nguyễn Đức Tài",
+                "1": "Chủ tịch",
+                "2": ""
+            },
+            {
+                "0": "Ông Điều Chính Hải Triều",
+                "1": "Thành viên",
+                "2": ""
+            },
+            {
+                "0": "Ông Thomas Lanyi",
+                "1": "Thành viên",
+                "2": ""
+            },
+            {
+                "0": "Ông Trần Kinh Doanh",
+                "1": "Thành viên",
+                "2": ""
+            },
+            {
+                "0": "Ông Robert Willet",
+                "1": "Thành viên",
+                "2": ""
+            },
+            {
+                "0": "Ông Đặng Minh Lương",
+                "1": "Thành viên",
+                "2": ""
+            },
+            {
+                "0": "Ông Đoàn Văn Hiểu Em",
+                "1": "Thành Viên",
+                "2": ""
+            },
+            {
+                "0": "Ông Đào Thế Vinh",
+                "1": "Thành viên",
+                "2": ""
+            },
+            {
+                "0": "Ông Trần Huy Thanh Tùng",
+                "1": "Thành Viên",
+                "2": "bổ nhiệm ngày 6 tháng 6 năm 2020"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_3",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "BAN KIỂM SOÁT\n\nCác thành viên Ban kiểm soát trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Trần Huy Thanh Tùng",
+                "1": "Trường ban",
+                "2": "miễn nhiệm ngày 6 tháng 6 năm 2020"
+            },
+            {
+                "0": "Ông Hoàng Hữu Hưng",
+                "1": "Thành viên",
+                "2": "miễn nhiệm ngày 6 tháng 6 năm 2020"
+            },
+            {
+                "0": "Bà Đỗ Thị Loan",
+                "1": "Thành viên",
+                "2": "miễn nhiệm ngày 6 tháng 6 năm 2020"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_4",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "BAN KIỂM TOÁN NỘI BỘ\n\nCác thành viên Ban kiểm toán nội bộ trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Trần Huy Thanh Tùng",
+                "1": "Trường ban",
+                "2": "bổ nhiệm ngày 1 tháng 7 năm 2020"
+            },
+            {
+                "0": "Ông Điều Chính Hải Triêu",
+                "1": "Thành viên",
+                "2": "bổ nhiệm ngày 1 tháng 7 năm 2020"
+            },
+            {
+                "0": "Ông Đào Thế Vinh",
+                "1": "Thành viên",
+                "2": "bổ nhiệm ngày 1 tháng 7 năm 2020"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_5",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "BAN GIÁM ĐỐC\n\nCác thành viên Ban Giám đốc trong năm và vào ngày lập báo cáo này như sau:",
+        "dataframe": [
+            {
+                "0": "Ông Trần Kinh Doanh",
+                "1": "Tổng Giám đốc"
+            },
+            {
+                "0": "Ông Phạm Văn Trọng",
+                "1": "Giám đốc Kỹ thuật"
+            },
+            {
+                "0": "Ông Vũ Đăng Linh",
+                "1": "Giám đốc Tài chính"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_6",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT\n\nNgười đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo này là Ông Trần Kinh Doanh.\n\nKIÊM TOÁN VIÊN\n\nCông ty Trách Nhiệm Hữu Hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.\n\n1\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nBÁO CÁO CỦA BAN GIÁM ĐỐC\n\nBan Giám đốc Công ty Cổ phần Đầu tư Thế Giới Di Đông (\"Công ty\") trình bày báo cáo này và báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020.\n\nTRÁCH NHIỆM CỦA BAN GIÁM ĐÓC ĐỐI VỚI BÁO CÁO TÀI CHÍNH RIÊNG\n\nBan Giám đốc Công ty chịu trách nhiệm đảm bảo báo cáo tài chính riêng cho từng năm tài chính phần ánh trung thực và hợp lý tỉnh hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng của Công ty trong năm. Trong quá trình báo cáo tài chính riêng này, Ban Giám đốc cần phải:\n\nlựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;\n\n- thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;\n\nnêu rõ các chuẩn mục kế toán áp dụng cho Công ty có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mục này đã được trình bày và giải thích trong báo cáo tài chính riêng; và\n\nlập báo cáo tài chính riêng trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động.\n\nBan Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phần ánh tính hình tài chính riêng của Công ty, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Công ty và do độ phải thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lập và những vi phạm khác.\n\nBan Giám đốc cam kết đã tuân thủ những yêu cầu nêu trên trong việc lập báo cáo tài chính riêng kèm theo.\n\nCÔNG BỐ CỦA BAN GIÁM ĐỐC\n\nTheo ý kiến của Ban Giám đốc, báo cáo tài chính riêng kèm theo đã phần ánh trung thực và hợp lý tinh hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2020, kết quả hoạt động kinh doanh riêng và tinh hình lưu chuyển tiền tệ riêng cho năm tài chính cùng ngày phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nCông ty có các công ty con như được trình bày trong báo cáo tài chính riêng. Công ty đã lập báo cáo tài chính riêng này nhằm đáp ứng các yếu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 155/2015/TT-BTC - Hướng dẫn về việc công bố thông tin trên thị trường chứng khoán. Cứng theo quy định tại các văn bản này, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con (\"Nhóm công ty\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 (\"báo cáo tài chính hợp nhất\") đề ngày 8 tháng 3 năm 2021.\n\nNgười sử dụng báo cáo tài chính riêng nên đọc báo cáo này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty.\n\nThay mặt Ban Giám đốc:\n\nTrần Kinh Doanh\n\nTổng Giám đốc\n\nTỉnh Bình Dương, Việt Nam\n\nNgày 8 tháng 3 năm 2021\n\n2\n\n\n\nEY\nBuilding a better working world\n\nErnst & Young Vietnam Limited\n20th Floor, Bitexco Financial Tower\n2 Hai Trieu Street, District 1\nHo Chi Minh City, S.R. of Vietnam\n\nTel: +84 28 3824 5252\nFax: +84 28 3824 5250\ney.com\n\nSố tham chiếu: 61110221/21898498\n\nBÁO CÁO KIÊM TOÁN ĐỘC LẬP\n\nKính gửi: Các cổ đông và Hội đồng Quản trị Công ty Cổ phần Đầu tư Thế Giới Di Động\n\nChúng tôi đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Đầu tư Thế Giới Di Đông (\"Công ty\") được lập ngày 8 tháng 3 năm 2021 và được trình bày từ trang 5 đến trang 23 bao gồm bằng cân đối kế toán riêng vào ngày 31 tháng 12 năm 2020, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cũng ngày và các thuyết minh báo cáo tài chính riêng kèm theo.\n\nTrách nhiệm của Ban Giám đốc\n\nBan Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính riêng theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Giám đốc xác định là cần thiết để đảm bảo việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chứng tối là đưa ra ý kiến về báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tối đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chứng tối tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sốt trọng yếu trong báo cáo tài chính riêng do gian lận hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\nA member firm of Ernst & Young Global Limited\n\n3\n\n\n\n[Non-Text]\n\nEY\n\nBuilding a better working world\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến của chúng tôi, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tỉnh hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2020, kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.\n\nCông ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam\n\nLê Vũ Trường\n\nPhó Tổng Giám đốc\n\nGiấy CNĐKHN kiểm toán\n\nSố: 1588-2018-004-1\n\nTrần Thanh Thúy\n\nKiểm toán viên\n\nGiấy CNDKHN kiểm toán\n\nSố: 3076-2019-004-1\n\nThành phố Hồ Chí Minh, Việt Nam\n\nNgày 8 tháng 3 năm 2021\n\nA member firm of Ernst & Young Global Limited\n\n4\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB01-DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG\n\nvào ngày 31 tháng 12 năm 2020\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "100",
+                "1": "A. TÀI SẢN NGẮN HẠN",
+                "2": "",
+                "3": "1.750.488.535.287",
+                "4": "1.194.443.941.362"
+            },
+            {
+                "0": "110",
+                "1": "I. Tiền",
+                "2": "4",
+                "3": "4.476.161.365",
+                "4": "87.872.626.449"
+            },
+            {
+                "0": "111",
+                "1": "1. Tiền",
+                "2": "",
+                "3": "4.476.161.365",
+                "4": "87.872.626.449"
+            },
+            {
+                "0": "130",
+                "1": "II. Các khoản phải thu ngắn hạn",
+                "2": "",
+                "3": "1.738.084.660.577",
+                "4": "1.098.515.797.074"
+            },
+            {
+                "0": "135",
+                "1": "1. Phải thu về cho vay ngắn hạn",
+                "2": "5",
+                "3": "1.696.375.000.000",
+                "4": "180.700.090.000"
+            },
+            {
+                "0": "136",
+                "1": "2. Phải thu ngắn hạn khác",
+                "2": "6",
+                "3": "41.709.660.577",
+                "4": "917.815.707.074"
+            },
+            {
+                "0": "150",
+                "1": "III. Tài sản ngắn hạn khác",
+                "2": "",
+                "3": "7.927.713.345",
+                "4": "8.055.517.839"
+            },
+            {
+                "0": "151",
+                "1": "1. Chi phí trả trước ngắn hạn",
+                "2": "",
+                "3": "7.637.928.082",
+                "4": "7.684.571.915"
+            },
+            {
+                "0": "152",
+                "1": "2. Thuế GTGT được khấu trừ",
+                "2": "",
+                "3": "-",
+                "4": "28.001"
+            },
+            {
+                "0": "153",
+                "1": "3. Thuế và các khoản khác phải thu Nhà nước",
+                "2": "",
+                "3": "289.785.263",
+                "4": "370.917.923"
+            },
+            {
+                "0": "200",
+                "1": "B. TÀI SẢN DÀI HẠN",
+                "2": "",
+                "3": "15.041.217.541.707",
+                "4": "8.244.540.821.707"
+            },
+            {
+                "0": "210",
+                "1": "I. Khoản phải thu dài hạn",
+                "2": "",
+                "3": "1.126.500.000.000",
+                "4": "1.126.500.000.000"
+            },
+            {
+                "0": "215",
+                "1": "1. Phải thu về cho vay dài hạn",
+                "2": "5",
+                "3": "1.126.500.000.000",
+                "4": "1.126.500.000.000"
+            },
+            {
+                "0": "250",
+                "1": "II. Đầu tư tài chính dài hạn",
+                "2": "7",
+                "3": "13.914.717.541.707",
+                "4": "7.118.040.821.707"
+            },
+            {
+                "0": "251",
+                "1": "1. Đầu tư vào các công ty con",
+                "2": "7.1",
+                "3": "13.852.678.791.707",
+                "4": "7.056.002.071.707"
+            },
+            {
+                "0": "252",
+                "1": "2. Đầu tư vào công ty liên kết",
+                "2": "7.2",
+                "3": "62.038.750.000",
+                "4": "62.038.750.000"
+            },
+            {
+                "0": "270",
+                "1": "TỔNG CỘNG TÀI SẢN",
+                "2": "",
+                "3": "16.791.706.076.994",
+                "4": "9.438.984.763.069"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_7",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "5\n\n11. ١٢٠٥٣\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB01-DN\n\nBẢNG CÂN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "300",
+                "1": "C. NỘ PHẢI TRẢ",
+                "2": "",
+                "3": "3.029.111.712.275",
+                "4": "1.693.308.987.339"
+            },
+            {
+                "0": "310",
+                "1": "I. Nợ ngắn hạn",
+                "2": "",
+                "3": "1.902.435.045.622",
+                "4": "571.172.320.682"
+            },
+            {
+                "0": "313",
+                "1": "1. Thuế và các khoản phải nộp Nhà nước",
+                "2": "",
+                "3": "2.669.603.062",
+                "4": "-"
+            },
+            {
+                "0": "315",
+                "1": "2. Chi phí phải trả ngắn hạn",
+                "2": "8",
+                "3": "42.567.680.643",
+                "4": "18.759.525.231"
+            },
+            {
+                "0": "319",
+                "1": "3. Phải trả ngắn hạn khác",
+                "2": "9",
+                "3": "2.597.761.917",
+                "4": "88.412.795.451"
+            },
+            {
+                "0": "320",
+                "1": "4. Vay ngắn hạn",
+                "2": "10",
+                "3": "1.854.600.000.000",
+                "4": "464.000.000.000"
+            },
+            {
+                "0": "330",
+                "1": "II. Nợ dài hạn",
+                "2": "",
+                "3": "1.126.676.666.653",
+                "4": "1.122.136.666.657"
+            },
+            {
+                "0": "338",
+                "1": "1. Vay dài hạn",
+                "2": "10",
+                "3": "1.126.676.666.653",
+                "4": "1.122.136.666.657"
+            },
+            {
+                "0": "400",
+                "1": "D. VỐN CHỦ SỞ HỮU",
+                "2": "",
+                "3": "13.762.594.364.719",
+                "4": "7.745.675.775.730"
+            },
+            {
+                "0": "410",
+                "1": "I. Vốn chủ sở hữu",
+                "2": "11.1",
+                "3": "13.762.594.364.719",
+                "4": "7.745.675.775.730"
+            },
+            {
+                "0": "411",
+                "1": "1. Vốn cổ phần",
+                "2": "",
+                "3": "4.532.099.870.000",
+                "4": "4.435.461.780.000"
+            },
+            {
+                "0": "411a",
+                "1": "- Cổ phiếu phổ thông có quyền biểu quyết",
+                "2": "",
+                "3": "4.532.099.870.000",
+                "4": "4.435.461.780.000"
+            },
+            {
+                "0": "412",
+                "1": "2. Thặng dư vốn cổ phần",
+                "2": "",
+                "3": "522.021.325.200",
+                "4": "519.117.889.700"
+            },
+            {
+                "0": "415",
+                "1": "3. Cổ phiếu quỹ",
+                "2": "",
+                "3": "(6.040.930.000)",
+                "4": "(5.658.924.500)"
+            },
+            {
+                "0": "421",
+                "1": "4. Lợi nhuận sau thuế chưa phân phối",
+                "2": "",
+                "3": "8.714.514.099.519",
+                "4": "2.796.755.030.530"
+            },
+            {
+                "0": "421a",
+                "1": "- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước",
+                "2": "",
+                "3": "2.117.846.189.530",
+                "4": "647.602.102.060"
+            },
+            {
+                "0": "421b",
+                "1": "- Lợi nhuận sau thuế chưa phân phối năm nay",
+                "2": "",
+                "3": "6.596.667.909.989",
+                "4": "2.149.152.928.470"
+            },
+            {
+                "0": "440",
+                "1": "TỔNG CỘNG NGUỒN VỐN",
+                "2": "",
+                "3": "16.791.706.076.994",
+                "4": "9.438.984.763.069"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_8",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "Lý Trần Kim Ngân\nNgười lập\n\nVũ Đăng Linh\nGiám đốc Tài chính\n\nTrần Kinh Doanh\nTổng Giám đốc\n\nNgày 8 tháng 3 năm 2021\n\n6\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB02-DN\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2020\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "21",
+                "1": "1. Doanh thu hoạt động tài chính",
+                "2": "12",
+                "3": "6.776.223.360.514",
+                "4": "2.270.961.609.321"
+            },
+            {
+                "0": "22",
+                "1": "2. Chi phí tài chính- Trong đó: Chi phí lãi vay",
+                "2": "13",
+                "3": "(172.491.295.154)(172.491.295.154)",
+                "4": "(116.857.311.471)(115.275.167.916)"
+            },
+            {
+                "0": "23",
+                "1": "2. Chi phí tài chính- Trong đó: Chi phí lãi vay",
+                "2": "13",
+                "3": "(172.491.295.154)(172.491.295.154)",
+                "4": "(116.857.311.471)(115.275.167.916)"
+            },
+            {
+                "0": "26",
+                "1": "3. Chi phí quản lý doanh nghiệp",
+                "2": "",
+                "3": "(6.983.041.819)",
+                "4": "(4.838.999.576)"
+            },
+            {
+                "0": "30",
+                "1": "4. Lợi nhuận thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "6.596.749.023.541",
+                "4": "2.149.265.298.274"
+            },
+            {
+                "0": "31",
+                "1": "5. Thu nhập khác",
+                "2": "",
+                "3": "19.108",
+                "4": "150.000"
+            },
+            {
+                "0": "32",
+                "1": "6. Chi phí khác",
+                "2": "",
+                "3": "-",
+                "4": "(21.195.116)"
+            },
+            {
+                "0": "40",
+                "1": "7. Lợi nhuận (lỗ) khác",
+                "2": "",
+                "3": "19.108",
+                "4": "(21.045.116)"
+            },
+            {
+                "0": "50",
+                "1": "8. Tổng lợi nhuận trước thuế",
+                "2": "",
+                "3": "6.596.749.042.649",
+                "4": "2.149.244.253.158"
+            },
+            {
+                "0": "51",
+                "1": "9. Chi phí thuế TNDN hiện hành",
+                "2": "14.1",
+                "3": "(81.132.660)",
+                "4": "(91.324.688)"
+            },
+            {
+                "0": "60",
+                "1": "10. Lợi nhuận sau thuế TNDN",
+                "2": "",
+                "3": "6.596.667.909.989",
+                "4": "2.149.152.928.470"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_9",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "Ngày 8 tháng 3 năm 2021\n\n7\n\n15\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB03-DN\n\nBÁO CÁO LƯU CHUYỄN TIỀN TỆ RIÊNG\n\ncho năm tài chính kết thúc ngày 31 tháng 12 năm 2020\n\nVND",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIỀU",
+                "2": "Thuyết minh",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "",
+                "1": "I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "01",
+                "1": "Lợi nhuận trước thuế Điều chỉnh cho các khoản:",
+                "2": "",
+                "3": "6.596.749.042.649",
+                "4": "2.149.244.253.158"
+            },
+            {
+                "0": "05",
+                "1": "Lãi từ hoạt động đầu tư Chi phí lãi vay",
+                "2": "13",
+                "3": "(6.776.223.360.514)",
+                "4": "(2.270.961.609.321)"
+            },
+            {
+                "0": "06",
+                "1": "Lãi từ hoạt động đầu tư Chi phí lãi vay",
+                "2": "13",
+                "3": "172.491.295.154",
+                "4": "115.275.167.916"
+            },
+            {
+                "0": "08",
+                "1": "Lỗ từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+                "2": "",
+                "3": "(6.983.022.711)",
+                "4": "(6.442.188.247)"
+            },
+            {
+                "0": "09",
+                "1": "Giảm các khoản phải thu (Giảm) tăng các khoản phải trả",
+                "2": "",
+                "3": "915.696.640.067",
+                "4": "8.746.412.112"
+            },
+            {
+                "0": "11",
+                "1": "Giảm các khoản phải thu (Giảm) tăng các khoản phải trả",
+                "2": "",
+                "3": "(67.274.169.917)",
+                "4": "1.931.284.420"
+            },
+            {
+                "0": "12",
+                "1": "Tăng chi phí trả trước",
+                "2": "",
+                "3": "(27.932.174.378)",
+                "4": "(18.490.393.836)"
+            },
+            {
+                "0": "14",
+                "1": "Tiền lãi vay đã trả",
+                "2": "",
+                "3": "(132.035.582.090)",
+                "4": "(83.517.476.081)"
+            },
+            {
+                "0": "15",
+                "1": "Thuế thu nhập doanh nghiệp đã nộp",
+                "2": "",
+                "3": "-",
+                "4": "(49.834.302)"
+            },
+            {
+                "0": "17",
+                "1": "Tiền chi khác cho hoạt động kinh doanh",
+                "2": "",
+                "3": "-",
+                "4": "(15.000.000.000)"
+            },
+            {
+                "0": "20",
+                "1": "Lưu chuyển tiền thuần từ (sử dụng vào) hoạt động kinh doanh",
+                "2": "",
+                "3": "681.471.690.971",
+                "4": "(112.822.195.934)"
+            },
+            {
+                "0": "",
+                "1": "II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "23",
+                "1": "Tiền chi cho vay",
+                "2": "",
+                "3": "(2.351.375.000.000)",
+                "4": "(762.032.000.000)"
+            },
+            {
+                "0": "24",
+                "1": "Tiền thu hồi cho vay",
+                "2": "",
+                "3": "835.700.090.000",
+                "4": "583.151.910.000"
+            },
+            {
+                "0": "25",
+                "1": "Tiền chi đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "(6.796.676.720.000)",
+                "4": "(1.915.018.185.000)"
+            },
+            {
+                "0": "27",
+                "1": "Tiền thu lãi từ tiền gửi, cho vay và cổ tức",
+                "2": "",
+                "3": "6.736.632.794.945",
+                "4": "2.282.011.076.675"
+            },
+            {
+                "0": "30",
+                "1": "Lưu chuyển tiền thuần (sử dụng vào) từ hoạt động đầu tư",
+                "2": "",
+                "3": "(1.575.718.835.055)",
+                "4": "188.112.801.675"
+            },
+            {
+                "0": "",
+                "1": "III. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "31",
+                "1": "Tiền thu từ phát hành cổ phiếu Mua lại cổ phiếu của doanh nghiệp đã phát hành",
+                "2": "11.1",
+                "3": "105.200.450.000",
+                "4": "89.974.580.000"
+            },
+            {
+                "0": "32",
+                "1": "Tiền thu từ đi vay",
+                "2": "",
+                "3": "(6.040.930.000)",
+                "4": "(4.850.060.000)"
+            },
+            {
+                "0": "33",
+                "1": "Tiền trả nợ gốc vay",
+                "2": "11.1",
+                "3": "1.854.600.000.000",
+                "4": "464.000.000.000"
+            },
+            {
+                "0": "34",
+                "1": "Cổ tức đã trả cho chủ sở hữu",
+                "2": "10",
+                "3": "(464.000.000.000)",
+                "4": "-"
+            },
+            {
+                "0": "36",
+                "1": "Cổ tức đã trả cho chủ sở hữu",
+                "2": "11.2",
+                "3": "(678.908.841.000)",
+                "4": "(664.179.295.500)"
+            },
+            {
+                "0": "40",
+                "1": "Lưu chuyển tiền thuần từ (sử dụng vào) hoạt động tài chính",
+                "2": "",
+                "3": "810.850.679.000",
+                "4": "(115.054.775.500)"
+            },
+            {
+                "0": "50",
+                "1": "Lưu chuyển tiền thuần trong năm",
+                "2": "",
+                "3": "(83.396.465.084)",
+                "4": "(39.764.169.759)"
+            },
+            {
+                "0": "60",
+                "1": "Tiền đầu năm",
+                "2": "",
+                "3": "87.872.626.449",
+                "4": "127.636.796.208"
+            },
+            {
+                "0": "70",
+                "1": "Tiền cuối năm",
+                "2": "4",
+                "3": "4.476.161.365",
+                "4": "87.872.626.449"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_10",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "Lý Trần Kim Ngân\nNgười lập\n\nVũ Đăng Linh\nGiám đốc Tài chính\n\nTrần Kinh Doanh\nTổng Giám đốc\n\nNgày 8 tháng 3 năm 2021\n\n8\n\n101=057/81\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n1. THÔNG TIN CÔNG TY\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động (\"Công ty\") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Doanh nghiệp (\"GCNĐKDN\") số 0306731335 do Sở Kế hoạch và Đầu tư (\"Sở KH&ĐT\") Tĩnh Bình Dương cấp ngày 16 tháng 1 năm 2009, và theo các GCNĐKDN điều chỉnh.\n\nCổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (\"SGDCKHCM\") với mã chứng khoán \"MWG\" theo Quyết định niêm yết số 253/QĐ-SGDHCM do SGDCKHCM cấp ngày 7 tháng 7 năm 2014.\n\nHoạt động chính trong năm hiện tại của Công ty là quản lý các khoản đầu tư vào các công ty con.\n\nCông ty có trụ sở chính tại Số 222, Đường Yersin, Phường Phú Cường, Thị Xã Thử Dầu Một, Tĩnh Bình Dương, Việt Nam và văn phòng hoạt động tại Tòa nhà MWG, Lô T2-1.2, Đường D1, Khu Công nghệ cao, Quận 9, Thành phố Hồ Chí Minh, Việt Nam.\n\nCơ cấu tổ chức\n\nVào ngày 31 tháng 12 năm 2020, Công ty có bốn (4) công ty con trực tiếp và một (1) công ty liên kết như sau:",
+        "dataframe": [
+            {
+                "0": "Tên công ty",
+                "1": "Trụ sở",
+                "2": "Lĩnh vực kinh doanh",
+                "3": "Tỷ lệ sở hữu và quyền biểu quyết (%)",
+                "4": "Tỷ lệ sở hữu và quyền biểu quyết (%)"
+            },
+            {
+                "0": "Tên công ty",
+                "1": "Trụ sở",
+                "2": "Lĩnh vực kinh doanh",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm"
+            },
+            {
+                "0": "Công ty con",
+                "1": "Công ty con",
+                "2": "Công ty con",
+                "3": "Công ty con",
+                "4": "Công ty con"
+            },
+            {
+                "0": "Công ty Cổ phầnThế Giới Di Đông",
+                "1": "Thành phố Hồ Chí Minh, Việt Nam",
+                "2": "Thương mại sản phẩm điện tử",
+                "3": "9995",
+                "4": "9995"
+            },
+            {
+                "0": "Công ty Cổ phầnThương mại Bách Hóa Xanh",
+                "1": "Thành phố Hồ Chí Minh, Việt Nam",
+                "2": "Thương mại thực phẩm",
+                "3": "9995",
+                "4": "9995"
+            },
+            {
+                "0": "Công ty Cổ phần Thế giới Số Trần Anh",
+                "1": "Thành phố Hà Nội, Việt Nam",
+                "2": "Thương mại sản phẩm điện tử",
+                "3": "9933",
+                "4": "9933"
+            },
+            {
+                "0": "Công ty TNHH MTVCông nghệ Thông tinThế Giới Di Đông",
+                "1": "Thành phố Hồ Chí Minh, Việt Nam",
+                "2": "Công nghệ thông tin",
+                "3": "10000",
+                "4": "10000"
+            },
+            {
+                "0": "Công ty liên kết",
+                "1": "Công ty liên kết",
+                "2": "Công ty liên kết",
+                "3": "Công ty liên kết",
+                "4": "Công ty liên kết"
+            },
+            {
+                "0": "Công ty Cổ phần Bán lẻAn Khang",
+                "1": "Thành phố Hồ Chí Minh, Việt Nam",
+                "2": "Bán lẻ được phẩm",
+                "3": "4900",
+                "4": "4900"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_11",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "2. CO'SO TRÌNH BÀY\n\n2.1 Mục đích lập báo cáo tài chính riêng\n\nCông ty có các công ty con như được trình bày tại Thuyết minh số 7.1. Công ty đã lập báo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 155/2015/TT-BTC - Hướng dẫn về việc công bố thông tin trên thị trường chứng khoán. Công theo quy định tại các văn bản này, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con (\"Nhóm Công tỷ\") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 đề ngày 8 tháng 3 năm 2021.\n\n9\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN\n\nTHUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n2. CO' SÔ' TRÌNH BÀY (tiếp theo)\n\n2.1 Mục đích lập báo cáo tài chính riêng (tiếp theo)\n\nNgười sử dụng báo cáo tài chính riêng nên đọc báo cáo này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tinh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Công ty và các công ty con.\n\n2.2 Chuẩn mực và Chế độ kế toán áp dụng\n\nBáo cáo tài chính riêng của Công ty được trình bày bằng đồng Việt Nam (\"VND\") phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam do Bộ Tài chính ban hành theo:\n\n▶ Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);\n\n▶ Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);\n\n▶ Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 3);\n\n▶ Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 4); và\n\n▶ Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).\n\nTheo đó, báo cáo tài chính riêng được trình bày kèm theo và việc sử dụng các báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tỉnh hình tài chính, kết quả hoạt động kinh doanh và lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.\n\n2.3 Hình thức số kế toán áp dụng\n\nHình thức số kế toán được áp dụng của Công ty là Nhật ký chung.\n\n2.4 Ký kế toán năm\n\nKỳ kế toán năm của Công ty ty áp dụng cho việc lập báo cáo tài chính riêng bắt đầu từ ngày 1 tháng 1 và kết thúc ngày 31 tháng 12.\n\n2.5 Đơn vị tiền tệ trong kế toán\n\nBáo cáo tài chính riêng được lập bằng đơn vị tiền tệ trong kế toán của Công ty là VND.\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU\n\n3.1 Tiền\n\nTiền bao gồm tiền gửi ngân hàng.\n\n3.2 Các khoản phải thu\n\nCác khoản phải thu được trình bày trên báo cáo tài chính riêng theo giá trị ghi số các khoản phải thu từ khách hàng và phải thu khác sau khi cấn trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.\n\nDự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc kỳ kế toán năm. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh riêng.\n\n10\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.3 Chi phí đi vay\n\nChỉ phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Công ty, và được hạch toán như chi phí phát sinh trong năm.\n\n3.4 Các khoản đầu tư\n\nĐầu tư vào các công ty con\n\nCác khoản đầu tư vào các công ty con mà trong đó Công ty nằm quyền kiểm soát được trình bày theo phương pháp giá gốc.\n\nCác khoản phân phối lợi nhuận mà Công ty nhận được từ số lợi nhuận lũy kế của các công ty con sau ngày Công ty nấm quyền kiểm soát được ghi nhận vào kết quả hoạt động kinh doanh riêng của Công ty. Các khoản phân phối khác được xem như phần thu hồi của các khoản đầu tư và được trừ vào giá trị đầu tư.\n\nĐầu tư vào các công ty liên kết\n\nCác khoản đầu tư vào các công ty liên kết mà trong đó Công ty có ảnh hưởng đáng kể được trình bày theo phương pháp giá gốc.\n\nCác khoản phân phối lợi nhuận từ lợi nhuận thuần lũy kế của các công ty liên kết sau ngày Công ty có ảnh hưởng đáng kể được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng của Công ty. Các khoản phân phối khác được xem như phần thu hồi các khoản đầu tư và được trừ vào giá trị đầu tư.\n\nDự phòng giảm giá trị các khoản đầu tư\n\nDự phòng cho việc giảm giá trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này vào ngày kết thúc kỳ kế toán năm. Tăng hoặc giảm số dư dự phòng được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh riêng.\n\n3.5 Các khoản phải trả và chi phí trích trước\n\nCác khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.\n\n3.6 Cổ phiếu quỹ\n\nCác công cụ vốn chủ sở hữu được Công ty mua lại (cỗ phiếu quỹ) được ghi nhận theo nguyên giá và trừ vào vốn chủ sở hữu. Công ty không ghi nhận các khoản lãi/(lỗ) khi mua, bán, phát hành hoặc hủy các công cụ vốn chủ sở hữu của mình.\n\n3.7 Phân chia lợi nhuận\n\nLợi nhuận thuần sau thuế thu nhập doanh nghiệp (không bao gồm lãi từ giao dịch mua giá rễ) có thể được chia cho các cổ đông sau khi được Đại hội đồng cổ đông phê duyệt, và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam.\n\nCông ty trích lập các quỹ dự phòng sau từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Công ty theo đề nghị của Hội đồng Quản trị và được các cổ đông phê duyệt tại Đại hội đồng cổ đông thường niên.\n\nQuỹ khen thưởng, phúc lợi\n\nQuỹ này được trích lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho công nhân viên, và được trình bày như một khoản phải trả trên bằng cân đối kế toán riêng.\n\n11\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.8 Ghi nhận doanh thu\n\nDoanh thu được ghi nhận khi Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng trước khi ghi nhận doanh thu:\n\nTiền lãi\n\nDoanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở đồn tích (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.\n\nCổ tức\n\nDoanh thu được ghi nhận khi quyền được nhận khoản thanh toán cổ tức của Công ty được xác lập.\n\n3.9 Thuế\n\nThuế thu nhập hiện hành\n\nTài sản thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến phải nộp cho (hoặc được thu hồi từ) cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc kỳ kế toán năm.\n\nThuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\nCông ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.\n\nThuế thu nhập hoãn lại\n\nThuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của các khoản mục này trong báo cáo tài chính riêng.\n\nThuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế.\n\nTài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này.\n\nGiá trị ghi sổ cửa tài sản thuế thu nhập doanh nghiệp hoãn lại phải được xem xét lại vào ngày kết thúc kỳ kể toán năm và phải giảm giá trị ghi sổ cửa tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoãn lại chưa được ghi nhận trước đây được xem xét lại vào ngày kết thúc kỳ kể toán năm và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.\n\nTài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho năm tài chính khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc ký kế toán năm.\n\n12\n\nN.H.H. ★ L. M.S.D.\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)\n\n3.9 Thuế (tiếp theo)\n\nThuế thu nhập hoãn lại (tiếp theo)\n\nThuế thu nhập hoãn lại được ghi nhận vào kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.\n\nCông ty chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải nộp khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải nộp liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế đối với cùng một đơn vị chịu thuế.\n\n3.10 Các bên liên quan\n\nCác bên được coi là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm các thành viên gia đình thân cận của các cá nhân được coi là liên quan.\n\n4. TIỀN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Tiền gửi ngân hàng",
+                "1": "4.476.161.365",
+                "2": "87.872.626.449"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_12",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "5. PHÀI THU VỀ CHO VAY\n\nPhải thu về cho vay thể hiện khoản cho các công ty con và công ty liên kết vay tín chấp, vô thời hạn và hưởng lãi suất từ 6%/năm đến 8,65%/năm (Thuyết minh số 15).\n\n6. PHÀI THU NGĂN HẠN KHÁC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Phải thu từ các bên liên quan(Thuyết minh số 15)",
+                "1": "41.537.648.939",
+                "2": "917.633.192.020"
+            },
+            {
+                "0": "Khác",
+                "1": "172.011.638",
+                "2": "182.515.054"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "41.709.660.577",
+                "2": "917.815.707.074"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm"
+            },
+            {
+                "0": "Đầu tư vào các công ty con(Thuyết minh số 7.1)",
+                "1": "13.852.678.791.707",
+                "2": "7.056.002.071.707"
+            },
+            {
+                "0": "Đầu tư vào công ty liên kết(Thuyết minh số 7.2)",
+                "1": "62.038.750.000",
+                "2": "62.038.750.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "13.914.717.541.707",
+                "2": "7.118.040.821.707"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_13",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "13\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09a-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n7. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)\n\n7.1 Đầu tư vào các công ty con\n\nChi tiết khoản đầu tư vào công ty con như sau:",
+        "dataframe": [
+            {
+                "0": "Tên công ty",
+                "1": "Địa chỉ",
+                "2": "Hoạt động chính"
+            },
+            {
+                "0": "Công ty Cổ phần Thương mạiBách Hóa Xanh (*)",
+                "1": "Thành phốHồ Chí Minh, Việt Nam",
+                "2": "Thương mạithực phẩm"
+            },
+            {
+                "0": "Công ty Cổ phầnThế Giới Di Động (*)",
+                "1": "Thành phốHồ Chí Minh, Việt Nam",
+                "2": "Thương majsản phẩm điện tử"
+            },
+            {
+                "0": "Công ty Cổ phần Thế Giới SốTrần Anh",
+                "1": "Thành phố Hà Nội,Việt Nam",
+                "2": "Thương majsản phẩm điện tử"
+            },
+            {
+                "0": "Công ty TNHH MTV Công nghệThông tin Thế Giới Di Động",
+                "1": "Thành phốHồ Chí Minh, Việt Nam",
+                "2": "Công nghệthống tin"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_14",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "TỔNG CỘNG\n\n(*) Trong năm, Công ty đã góp thêm vốn vào các công ty con này.\n\n7.2 Đầu tư vào công ty liên kết\n\nChi tiết khoản đầu tư vào công ty liên kết như sau:",
+        "dataframe": [
+            {
+                "0": "Tên công ty",
+                "1": "Địa chỉ",
+                "2": "Lĩnh vực kinh doanh"
+            },
+            {
+                "0": "Công ty Cổ phần Bán lẻ An Khang",
+                "1": "Thành phố Hồ Chí Minh, Việt Nam",
+                "2": "Bán lẻ dược phẩm"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_15",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số cuối năm",
+                "3": "Số cuối năm",
+                "4": "Số đầu năm",
+                "5": "Số đầu năm",
+                "6": "Số đầu năm"
+            },
+            {
+                "0": "",
+                "1": "%sở hữu",
+                "2": "Giá gốc đầu tưVND",
+                "3": "Dự phòngVND",
+                "4": "%sở hữu",
+                "5": "Giá gốc đầu tưVND",
+                "6": "Dự phòngVND"
+            },
+            {
+                "0": 9995.0,
+                "1": "9.626.831.940.000",
+                "2": "-",
+                "3": "9995",
+                "4": "3.629.712.000.000",
+                "5": "-",
+                "6": ""
+            },
+            {
+                "0": 9995.0,
+                "1": "2.826.909.551.000",
+                "2": "-",
+                "3": "9995",
+                "4": "2.027.352.771.000",
+                "5": "-",
+                "6": ""
+            },
+            {
+                "0": 9933.0,
+                "1": "860.937.300.707",
+                "2": "-",
+                "3": "9933",
+                "4": "860.937.300.707",
+                "5": "-",
+                "6": ""
+            },
+            {
+                "0": 10000.0,
+                "1": "538.000.000.000",
+                "2": "-",
+                "3": "10000",
+                "4": "538.000.000.000",
+                "5": "-",
+                "6": ""
+            },
+            {
+                "0": "",
+                "1": "13.852.678.791.707",
+                "2": "-",
+                "3": "",
+                "4": "7.056.002.071.707",
+                "5": "-",
+                "6": ""
+            },
+            {
+                "0": "",
+                "1": "% sở hữu",
+                "2": "Giá gốc đầu tư VND",
+                "3": "Dự phòng VND",
+                "4": "% sở hữu",
+                "5": "Giá gốc đầu tư VND",
+                "6": "Dự phòng VND"
+            },
+            {
+                "0": 4900.0,
+                "1": "62.038.750.000",
+                "2": "-",
+                "3": "4900",
+                "4": "62.038.750.000",
+                "5": "-",
+                "6": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_16",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "14\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09a-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n8. CHI PHÍ PHẢI TRẢ NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "VND Số đầu năm"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "25.672.672.306",
+                "2": "17.735.777.449"
+            },
+            {
+                "0": "Phí thu xếp hạn mức",
+                "1": "16.721.008.337",
+                "2": "-"
+            },
+            {
+                "0": "Khác",
+                "1": "174.000.000",
+                "2": "1.023.747.782"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "42.567.680.643",
+                "2": "18.759.525.231"
+            },
+            {
+                "0": "Nhận trước tiền phát hành cổ phiếu",
+                "1": "-",
+                "2": "85.719.580.000"
+            },
+            {
+                "0": "Khác",
+                "1": "2.597.761.917",
+                "2": "2.693.215.451"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "2.597.761.917",
+                "2": "88.412.795.451"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_17",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "15\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN\n\nTHUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n10. VAY",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số đầu năm",
+                "2": "Tăng trong năm",
+                "3": "Giảm trong năm",
+                "4": "VND Số cuối năm"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "464.000.000.000",
+                "2": "1.854.600.000.000",
+                "3": "(464.000.000.000)",
+                "4": "1.854.600.000.000"
+            },
+            {
+                "0": "Vay ngắn hạn từ ngân hàng (Thuyết minh số 10.1)",
+                "1": "464.000.000.000",
+                "2": "1.854.600.000.000",
+                "3": "(464.000.000.000)",
+                "4": "1.854.600.000.000"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "1.122.136.666.657",
+                "2": "4.539.999.996",
+                "3": "-",
+                "4": "1.126.676.666.653"
+            },
+            {
+                "0": "Trái phiếu thông thường (Thuyết minh số 10.2)",
+                "1": "1.122.136.666.657",
+                "2": "4.539.999.996",
+                "3": "-",
+                "4": "1.126.676.666.653"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "1.586.136.666.657",
+                "2": "1.859.139.999.996",
+                "3": "(464.000.000.000)",
+                "4": "2.981.276.666.653"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_18",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "10.1 Vay ngắn hạn ngân hàng\n\nĐây là khoản vay tín chấp Ngân hàng BNP Paribas Chi nhánh Singapore nhằm bổ sung nhu cầu vốn lưu động với kỳ hạn gốc là một năm kể từ ngày giải ngân và chịu lãi suất LIBOR 3 tháng + 2,5%/năm.\n\n16\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n10. VAY (tiếp theo)\n\n10.2 Trái phiếu thường trong nước",
+        "dataframe": [
+            {
+                "0": "Trái chủ",
+                "1": "Số cuối năm VND",
+                "2": "Lãi suất (%/năm)",
+                "3": "Ngày đáo hạn",
+                "4": "Mục đích",
+                "5": "Tài sản đảm bảo"
+            },
+            {
+                "0": "Công ty TNHH Manulife (Việt Nam)",
+                "1": "480.000.000.000",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "Công ty TNHH Bảo hiểm Nhân thọ Prudential Việt Nam",
+                "1": "470.000.000.000",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "Công ty TNHH Bảo hiểm Nhân thọ AIA (Việt Nam)",
+                "1": "100.000.000.000",
+                "2": "655",
+                "3": "17 Tháng 11 năm 2022",
+                "4": "Tài trợ vốn lưu động",
+                "5": "Tín chấp"
+            },
+            {
+                "0": "Công ty TNHH Bảo hiểm Nhân thọ Chubb Việt Nam",
+                "1": "45.000.000.000",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "Công ty TNHH Bảo hiểm Nhân thọ Sun Life Việt Nam",
+                "1": "40.000.000.000",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "Chi phí phát hành trái phiếu",
+                "1": "(8.323.333.347)",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "1.126.676.666.653",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_19",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "Trái phiếu thường trong nước được thu xếp phát hành bởi Ngân hàng TNHH Một Thành Viên Standard Chartered (Việt Nam) và được bảo lãnh bởi Credit Guarantee and Investment Facility - quỹ đầu tư tín thác của Ngân hàng Phát triển Châu Á. Phí bảo lãnh là 1,5%/năm nhằm bổ sung nhu cầu vốn lưu động của Công ty.\n\n17\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n11. VÓN CHỦ SỞ HỮU\n\n11.1 Tỉnh hình tăng (giảm) nguồn vốn chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn cổ phần",
+                "2": "Thặng dư vốn cổ phần",
+                "3": "Cổ phiếu quỹ",
+                "4": "Lợi nhuận sau thuế chưa phân phối",
+                "5": "VND Tổng cộng"
+            },
+            {
+                "0": "Năm trước",
+                "1": "Năm trước",
+                "2": "Năm trước",
+                "3": "Năm trước",
+                "4": "Năm trước",
+                "5": "Năm trước"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "4.434.961.780.000",
+                "2": "515.362.889.700",
+                "3": "(808.864.500)",
+                "4": "1.321.781.397.560",
+                "5": "6.271.297.202.760"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "2.149.152.928.470",
+                "5": "2.149.152.928.470"
+            },
+            {
+                "0": "Phát hành cổ phiếu",
+                "1": "500.000.000",
+                "2": "3.755.000.000",
+                "3": "-",
+                "4": "-",
+                "5": "4.255.000.000"
+            },
+            {
+                "0": "Cổ phiếu quỹ",
+                "1": "-",
+                "2": "-",
+                "3": "(4.850.060.000)",
+                "4": "-",
+                "5": "(4.850.060.000)"
+            },
+            {
+                "0": "Trích lập quỹ",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(10.000.000.000)",
+                "5": "(10.000.000.000)"
+            },
+            {
+                "0": "Cổ tức công bố",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(664.179.295.500)",
+                "5": "(664.179.295.500)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "4.435.461.780.000",
+                "2": "519.117.889.700",
+                "3": "(5.658.924.500)",
+                "4": "2.796.755.030.530",
+                "5": "7.745.675.775.730"
+            },
+            {
+                "0": "Năm nay",
+                "1": "Năm nay",
+                "2": "Năm nay",
+                "3": "Năm nay",
+                "4": "Năm nay",
+                "5": "Năm nay"
+            },
+            {
+                "0": "Số đầu năm",
+                "1": "4.435.461.780.000",
+                "2": "519.117.889.700",
+                "3": "(5.658.924.500)",
+                "4": "2.796.755.030.530",
+                "5": "7.745.675.775.730"
+            },
+            {
+                "0": "Lợi nhuận thuần trong năm",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "6.596.667.909.989",
+                "5": "6.596.667.909.989"
+            },
+            {
+                "0": "Phát hành cổ phiếu (*)",
+                "1": "96.638.090.000",
+                "2": "2.903.435.500",
+                "3": "5.658.924.500",
+                "4": "-",
+                "5": "105.200.450.000"
+            },
+            {
+                "0": "Mua lại cổ phiếu",
+                "1": "-",
+                "2": "-",
+                "3": "(6.040.930.000)",
+                "4": "-",
+                "5": "(6.040.930.000)"
+            },
+            {
+                "0": "Cổ tức công bố (**)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(678.908.841.000)",
+                "5": "(678.908.841.000)"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "4.532.099.870.000",
+                "2": "522.021.325.200",
+                "3": "(6.040.930.000)",
+                "4": "8.714.514.099.519",
+                "5": "13.762.594.364.719"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_20",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "(*) Vào ngày 6 tháng 1 năm 2020, Công ty đã hoàn thành việc phát hành 10.520.045 cổ phiếu với mức giá phát hành là 10.000 VND/cổ phiếu từ việc sử dụng 856.236 cổ phiếu quỹ (giá gốc là 6.609 VND/cổ phiếu) và phát hành 9.663.809 cổ phiếu mới theo Nghị quyết Đại hội đồng Cổ đông số 01_2019/NQĐHĐCD/TGĐĐ ngày 22 tháng 3 năm 2019, Nghị quyết Hội đồng Quản trị số 12/2019/NQ/HĐQT-2019 và Nghị quyết Hội đồng Quản trị số 13/2019/NQ/HĐQT-2019 ngày 27 tháng 11 năm 2019. Theo đó, vốn cổ phần đăng ký của Công ty tăng từ 4.435.461.780.000 VND lên 4.532.099.870.000 VND. Vào ngày 12 tháng 2 năm 2020, Công ty đã nhận được GCNĐKDN điều chỉnh được cấp bởi Sở KH & ĐT Tĩnh Bình Dương cho lần phát hành cổ phiếu trên.\n\n(**) Trong năm, Công ty đã công bố cổ tức bằng tiền với tổng giá trị là 678.908.841.000 VND từ lợi nhuận sau thuế chưa phân phối của Công ty tại ngày 31 tháng 12 năm 2019 cho các cổ đông hiện hữu theo Nghị quyết Đại hội đồng cổ đông thường niên số 01_2020/NQĐHĐCD/TGĐĐ ngày 6 tháng 6 năm 2020 và theo Nghị quyết Hội đồng Quản trị số 09/NQ/HĐQT-2020 ngày 28 tháng 9 năm 2020.\n\n18\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n11. VỐN CHỦ SỞ HỮU (tiếp theo)\n\n11.2 Các giao dịch về vốn với các chủ sở hữu\n\nVND\n\nNăm nay\n\nNăm trước\n\nVốn đầu tư đã góp của chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "Số đầu năm",
+                "1": "4.435.461.780.000",
+                "2": "4.434.961.780.000"
+            },
+            {
+                "0": "Vốn góp tăng trong năm",
+                "1": "96.638.090.000",
+                "2": "500.000.000"
+            },
+            {
+                "0": "Số cuối năm",
+                "1": "4.532.099.870.000",
+                "2": "4.435.461.780.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_21",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "Cổ tức đã công bố và đã trả trong năm",
+        "dataframe": [
+            {
+                "0": "678.908.841.000",
+                "1": "664.179.295.500"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_22",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "Các cổ đông nắm giữ cổ phiếu phổ thông của Công ty được quyền hưởng cổ tức do Công ty công bố. Mỗi cổ phiếu phổ thông với mệnh giá 10.000 VND thể hiện một quyền biểu quyết, không hạn chế.\n\n11.3 Cổ phiếu\n\nSố cổ phiếu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số cuối năm",
+                "2": "Số đầu năm"
+            },
+            {
+                "0": "Số lượng cổ phiếu được phép phát hành",
+                "1": "453.209.987",
+                "2": "443.546.178"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã phát hành và được góp vốn đầy đủCổ phiếu phổ thông",
+                "1": "453.209.987",
+                "2": "443.546.178"
+            },
+            {
+                "0": "Số lượng cổ phiếu quỹCổ phiếu phổ thông",
+                "1": "(604.093)",
+                "2": "(856.236)"
+            },
+            {
+                "0": "Số lượng cổ phiếu đang lưu hànhCổ phiếu phổ thông",
+                "1": "452.605.894",
+                "2": "442.689.942"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_23",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "12. DOANH THU HOẠT ĐỘNG TÀI CHÍNH\n\nVND",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "Năm trước"
+            },
+            {
+                "0": "Thu nhập từ cổ tức",
+                "1": "6.596.343.379.349",
+                "2": "2.148.808.824.834"
+            },
+            {
+                "0": "Lãi tiền cho vay",
+                "1": "158.148.507.133",
+                "2": "122.118.816.439"
+            },
+            {
+                "0": "Phí thu xếp hạn mức",
+                "1": "21.721.008.334",
+                "2": "-"
+            },
+            {
+                "0": "Lãi tiền gửi",
+                "1": "10.465.698",
+                "2": "33.968.048"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "6.776.223.360.514",
+                "2": "2.270.961.609.321"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_24",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "19\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN\n\nTHUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n13. CHI PHÍ TÀI CHÍNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Chi phí lãi vay",
+                "1": "172.491.295.154",
+                "2": "115.275.167.916"
+            },
+            {
+                "0": "Khác",
+                "1": "-",
+                "2": "1.582.143.555"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "172.491.295.154",
+                "2": "116.857.311.471"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_25",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "14. THUẾ THU NHẬP DOANH NGHIỆP\n\nThuế suất thuế thu nhập doanh nghiệp (\"thuế TNDN\") áp dụng cho Công ty là 20% thu nhập chịu thuế.\n\nCác báo cáo thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính riêng có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.\n\n14.1 Chi phí thuế TNDN\n\nDưới đây là đối chiếu chi phí thuế TNDN và lợi nhuận kế toán trước thuế nhân với thuế suất thuế TNDN:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm nay",
+                "2": "VNDNăm trước"
+            },
+            {
+                "0": "Tổng lợi nhuận kế toán trước thuế",
+                "1": "6.596.749.042.649",
+                "2": "2.149.244.253.158"
+            },
+            {
+                "0": "Thuế TNDN theo thuế suất 20% áp dụng cho Công ty",
+                "1": "1.319.349.808.530",
+                "2": "429.848.850.632"
+            },
+            {
+                "0": "Các khoản điều chỉnh:Chi phí không được trừThu nhập từ cổ tức",
+                "1": "(1.319.268.675.870)",
+                "2": "4.239.023(429.761.764.967)"
+            },
+            {
+                "0": "Chi phí thuế TNDN",
+                "1": "81.132.660",
+                "2": "91.324.688"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_26",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "14.2 Thuế TNDN hiện hành\n\nThuế TNDN hiện hành phải nộp được xác định dựa trên thu nhập chịu thuế của năm hiện tại. Thu nhập chịu thuế của Công ty khác với lợi nhuận được báo cáo trong báo cáo kết quả sản xuất kinh doanh riêng vi thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được khấu trừ cho mục đích tính thuế trong các năm khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được khấu trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải nộp của Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc kỳ kế toán năm.\n\n20\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n15. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN\n\nCác giao dịch trọng yếu của Công ty với các bên liên quan trong năm nay và năm trước bao gồm:\n\nVND",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ",
+                "2": "Nội dung nghiệp vụ",
+                "3": "Năm nay",
+                "4": "Năm trước"
+            },
+            {
+                "0": "Công ty Cổ phầnThế Giới Di Động",
+                "1": "Công ty con",
+                "2": "Cổ tứcCho vayGóp vốnLãi cho vayPhí thu xếp hạn mức",
+                "3": "6.596.343.379.3492.210.800.000.000799.556.780.000152.266.174.52921.721.008.334",
+                "4": "2.148.808.824.834697.032.000.000-119.711.916.895-"
+            },
+            {
+                "0": "Công ty Cổ phầnThương mạiBách Hóa Xanh",
+                "1": "Công ty con",
+                "2": "Góp vốnTạm ứng",
+                "3": "5.997.119.940.000-",
+                "4": "1.000.000.000.000915.000.000.000"
+            },
+            {
+                "0": "Công ty Cổ phầnBán lẻ An Khang",
+                "1": "Công ty liên kết",
+                "2": "Cho vayLãi cho vay",
+                "3": "80.000.000.000968.589.041",
+                "4": "--"
+            },
+            {
+                "0": "Công ty TNHHMTV Công nghệThông tinThế Giới Di Động",
+                "1": "Công ty con",
+                "2": "Cho vayLãi cho vay",
+                "3": "60.575.000.0004.913.743.563",
+                "4": "65.000.000.0002.406.899.544"
+            },
+            {
+                "0": "Ông Robert Willet",
+                "1": "Thành viênHội đồngQuản trị",
+                "2": "Chi phí tư vấn",
+                "3": "2.139.920.184",
+                "4": "2.146.976.781"
+            }
+        ]
+    },
+    {
+        "chunk_id": "MWG_2020_separate_table_27",
+        "metadata": {
+            "ticker": "MWG",
+            "company_name": "CTCP Đầu tư Thế giới Di động",
+            "year": "2020",
+            "report_type": "separate",
+            "original_folder": "MWG_financial_statements_2020_separate"
+        },
+        "context_text": "21\n\n\n\nCông ty Cổ phần Đầu tư Thế Giới Di Động\n\nB09-DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)\n\nvào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày\n\n15. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)\n\nVào ngày kết thúc ký kế toán, các khoản phải thu với các bên liên quan như sau:",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quanhệ",
+                "2": "Nội dungnghiệp vụ",
+                "3": "Số cuối năm",
+                "4": "VNDSố đầu năm"
+            },
+            {
+                "0": "Phải thu cho vay ngắn hạn",
+                "1": "Phải thu cho vay ngắn hạn",
+                "2": "Phải thu cho vay ngắn hạn",
+                "3": "Phải thu cho vay ngắn hạn",
+                "4": "Phải thu cho vay ngắn hạn"
+            },
+            {
+                "0": "Công ty Cổ phầnThế Giới Di Động",
+                "1": "Công ty con",
+                "2": "Cho vay",
+                "3": "1.555.800.000.000",
+                "4": "115.700.090.000"
+            },
+            {
+                "0": "Công ty Cổ phầnBán lẻ An Khang",
+                "1": "Công tyliên kết",
+                "2": "Cho vay",
+                "3": "80.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty TNHHMTV Công nghệThông tin Thế GiớiDi Động",
+                "1": "Công ty con",
+                "2": "Cho vay",
+                "3": "60.575.000.000",
+                "4": "65.000.000.000"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "",
+                "3": "1.696.375.000.000",
+                "4": "180.700.090.000"
+            },
+            {
+                "0": "Phải thu cho vay dài hạn",
+                "1": "Phải thu cho vay dài hạn",
+                "2": "Phải thu cho vay dài hạn",
+                "3": "Phải thu cho vay dài hạn",
+                "4": "Phải thu cho vay dài hạn"
+            },
+            {
+                "0": "Công ty Cổ phầnThế Giới Di Động",
+                "1": "Công ty con",
+                "2": "Cho vay",
+                "3": "1.126.500.000.000",
+                "4": "1.126.500.000.000"
+            },
+            {
+                "0": "Các khoản phải thu ngắn hạn khác",
+                "1": "Các khoản phải thu ngắn hạn khác",
+                "2": "Các khoản phải thu ngắn hạn khác",
+                "3": "Các khoản phải thu ngắn hạn khác",
+                "4": "Các khoản phải thu ngắn hạn khác"
+            },
+            {
+                "0": "Công ty Cổ phầnThế Giới Di Động",
+                "1": "Công ty con",
+                "2": "Lãi cho vayChi hộ",
+                "3": "41.154.416.062",
+                "4": "1.521.435.629662.968.650"
+            },
+            {
+                "0": "Công ty Cổ phầnThương mạiBách Hóa Xanh",
+                "1": "Công ty con",
+                "2": "Tạm ứngChi hộ",
+                "3": "--",
+                "4": "915.000.000.00018.185.000"
+            },
+            {
+                "0": "Công ty TNHHMTV Công nghệThông tin Thế GiớiDi Động",
+                "1": "Công ty con",
+                "2": "Lãi cho vayChi hộ",
+                "3": "--",
+                "4": "425.647.7414.955.000"
+            },
+            {
+                "0": "Công ty Cổ phầnBán lẻ An Khang",
+                "1": "Công tyliên kết",
+                "2": "Lãi cho vay",
+                "3": "383.232.877",
+                "4": "-"
+            },
+            {
+                "0": "TỔNG CỘNG",
+                "1": "",
+                "2": "",
+                "3": "41.537.648.939",
+                "4": "917.633.192.020"
+            }
+        ]
+    }
+]

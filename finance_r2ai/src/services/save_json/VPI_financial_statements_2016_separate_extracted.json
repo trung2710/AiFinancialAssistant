@@ -1,0 +1,4216 @@
+[
+    {
+        "chunk_id": "VPI_2016_separate_table_1",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "CÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nĐã được kiểm toán\n\nHà Nội - Tháng 11 năm 2017\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nMỤC LỤC",
+        "dataframe": [
+            {
+                "0": "Nội dung",
+                "1": "Trang"
+            },
+            {
+                "0": "Báo cáo của Ban Tổng Giám đốc",
+                "1": "2 - 3"
+            },
+            {
+                "0": "Báo cáo Kiểm toán độc lập",
+                "1": "4 - 5"
+            },
+            {
+                "0": "Báo cáo tài chính riêng đã được kiểm toán",
+                "1": ""
+            },
+            {
+                "0": "Bảng cân đối kế toán",
+                "1": "6 - 7"
+            },
+            {
+                "0": "Báo cáo kết quả hoạt động kinh doanh",
+                "1": "8"
+            },
+            {
+                "0": "Báo cáo lưu chuyển tiền tệ",
+                "1": "9"
+            },
+            {
+                "0": "Bàn thuyết minh Báo cáo tài chính",
+                "1": "10 - 42"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_2",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "1\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC\n\nBan Tổng Giám đốc Công ty Cổ phần Đầu tư Văn Phú - Invest (sau đây gọi tất là “Công ty”) trình bày Báo cáo của mình và Báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31/12/2016.\n\nKHÁI QUÁT CHUNG\n\nCông ty Cổ phần Đầu tư Văn Phú - Invest tiền thân là Công ty Cổ phần Kinh doanh nhà Quảng Ninh được thành lập và hoạt động theo Giấy chứng nhận đăng ký kinh doanh do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp, đăng ký lần đầu ngày 12/03/2008, đăng ký thay đổi lần thứ 15 ngày 24/12/2015, mã số doanh nghiệp 0102702590.\n\nTrụ sở chính của Công ty tại số 177, tổ 51, phố Trung Kính, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội.\n\nHỘI ĐỒNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐC\n\nCác thành viên của Hội đồng quản trị và Ban Tổng Giám đốc đã điều hành Công ty trong năm và đến ngày lập báo cáo này gồm:\n\nHội đồng quản trị",
+        "dataframe": [
+            {
+                "0": "Ông Tô Như Toàn",
+                "1": "Chủ tịch HĐQT",
+                "2": "Bổ nhiệm ngày 07/03/2008"
+            },
+            {
+                "0": "Ông Tô Như Thắng",
+                "1": "Thành viên HĐQT",
+                "2": "Bổ nhiệm ngày 25/08/2016"
+            },
+            {
+                "0": "Ông Vũ Thanh Tuân",
+                "1": "Thành viên HĐQT",
+                "2": "Bổ nhiệm ngày 25/08/2016"
+            },
+            {
+                "0": "Ông Tạ Hữu Long",
+                "1": "Thành viên HĐQT",
+                "2": "Miễn nhiệm ngày 25/08/2016"
+            },
+            {
+                "0": "Ông Nguyễn Minh Tuân",
+                "1": "Thành viên HĐQT",
+                "2": "Miễn nhiệm ngày 25/08/2016"
+            },
+            {
+                "0": "Bà Hoàng Thị Liên",
+                "1": "Thành viên HĐQT",
+                "2": "Miễn nhiệm ngày 25/08/2016"
+            },
+            {
+                "0": "Ông Tô Như Toàn",
+                "1": "Tổng Giám đốc",
+                "2": "Bổ nhiệm ngày 04/11/2016"
+            },
+            {
+                "0": "Ông Nguyễn Minh Tuấn",
+                "1": "Tổng Giám đốc",
+                "2": "Miễn nhiệm ngày 04/11/2016"
+            },
+            {
+                "0": "Ông Tô Như Thắng",
+                "1": "Phó Tổng Giám đốc",
+                "2": "Bổ nhiệm ngày 01/11/2015"
+            },
+            {
+                "0": "Bà Nguyễn Diệu Tú",
+                "1": "Phó Tổng Giám đốc",
+                "2": "Bổ nhiệm ngày 18/08/2010"
+            },
+            {
+                "0": "Ông Đình Quốc Hà",
+                "1": "Phó Tổng Giám đốc",
+                "2": "Bổ nhiệm ngày 15/12/2016"
+            },
+            {
+                "0": "Ông Tạ Hữu Long",
+                "1": "Phó Tổng Giám đốc",
+                "2": "Miễn nhiệm ngày 01/09/2016"
+            },
+            {
+                "0": "Bà Hoàng Thị Liên",
+                "1": "Phó Tổng Giám đốc",
+                "2": "Miễn nhiệm ngày 01/09/2016"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_3",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "KIÊM TOÁN VIÊN\n\nBáo cáo tài chính riêng cho năm tài chính kết thúc ngày 31/12/2016 của Công ty được kiểm toán bởi Công ty TNHH Kiểm toán AFC Việt Nam - Chi nhánh Phía Bắc.\n\nTRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC\n\nBan Tổng Giám đốc Công ty chịu trách nhiệm về việc lập Báo cáo tài chính riêng phần ánh trung thực, hợp lý tỉnh hình hoạt động, kết quả hoạt động kinh doanh và tỉnh hình lưu chuyển tiền tệ của Công ty trong kỳ. Trong quá trình lập Báo cáo tài chính riêng, Ban Tổng Giám đốc Công ty cam kết đã tuân thủ các yêu cầu sau:\n\n2\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\n- Xây dựng và duy trì kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày Báo cáo tài chính riêng không còn sai sót trọng yếu do gian lận hoặc do nhằm lẫn;\n\n- Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;\n\n- Đưa ra các đánh giá và dự đoán hợp lý và thận trọng;\n\n- Nếu rõ các chuẩn mực kế toán được áp dụng có được tuân thủ hay không, có những áp dụng sai lệch trong yếu đến mức cần phải công bố và giải thích trong Báo cáo tài chính riêng hay không;\n\n- Lập và trình bày các Báo cáo tài chính riêng trên cơ sở tuân thủ các chuẩn mục kế toán, chế độ kế toán và các quy định có liên quan hiện hành;\n\n- Lập các Báo cáo tài chính riêng dựa trên cơ sở hoạt động kinh doanh liên tục, trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động kinh doanh.\n\nBan Tổng Giám đốc Công ty đảm bảo rằng các số kế toán được lưu giữ để phần ánh tỉnh hình tài chính của Công ty, với mức độ trung thực, hợp lý tại bất cứ thời điểm nào và đảm bảo rằng Báo cáo tài chính riêng tuân thủ các quy định hiện hành của Nhà nước. Đồng thời có trách nhiệm trong việc bảo đảm an toàn tài sản của Công ty và thực hiện các biện pháp thích hợp để ngăn chặn, phát hiện các hành vi gian lận và các vi phạm khác.\n\nBan Tổng Giám đốc Công ty cam kết rằng Báo cáo tài chính riêng đã phần ánh trung thực và hợp lý tình hình tài chính của Công ty tại thời điểm ngày 31/12/2016, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ cho năm tài chính kết thúc ngày 31/12/2016, phù hợp với chuẩn mục, chế độ kế toán Việt Nam và tuân thủ các quy định hiện hành có liên quan.\n\nTô Như Toàn\n\nTổng Giám đốc\n\nHà Nội, ngày 10 tháng 11 năm 2017\n\n3\n\n\n\nCông ty TNHH Kiểm Toán AFC Việt Nam AFC Vietnam Auditing Co., Ltd.\n\nPKF\n\nAccountants & business advisers\n\nSố: 093/2017/BCKTTT-PB.00048\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP\n\nKính gửi: Các cổ đông, Hội đồng quản trị và Ban Tổng Giám đốc Công ty Cổ phần Đầu tư Văn Phú - Invest\n\nChúng tôi đã kiểm toán Báo cáo tài chính riêng kèm theo của Công ty Cổ phần Đầu tư Văn Phú - Invest được lập ngày 10 tháng 11 năm 2017, từ trang 06 đến trang 42, bao gồm: Bằng cân đối kế toán tại ngày 31/12/2016, Báo cáo kết quả hoạt động kinh doanh, Báo cáo lưu chuyển tiền tệ cho năm tài chính kết thúc cùng ngày và Bản thuyết minh Báo cáo tài chính riêng.\n\nTrách nhiệm của Ban Tổng Giám đốc\n\nBan Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý Báo cáo tài chính riêng cửa Công ty theo chuẩn mục kế toán, chế độ kế toán Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày Báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chúng tối là đưa ra ý kiến về Báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tối đã tiến hành kiểm toán theo các chuẩn mục kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tối tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu Báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên Báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong Báo cáo tài chính riêng do gian lập hoặc nhằm lấn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày Báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể Báo cáo tài chính riêng.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\nHa Noi City Office • Tel: +84 43 200 2016 • Fax: +84 43 795 0832 • Email: pkf.afcpb@pkf.afcvietnam.vn\n\n709, Sunrise Building • D11, Tran Thai Tong Street • Dich Vong Hau Ward • Cau Giay District • Hanoi • Website: pkf.afcvietnam.vn\n\nPKF – AFC Vietnam Auditing Co., Ltd. is a member firm of the PKF International Limited family of legally independent firms and does not accept any responsibility or liability for the actions or inactions of any individual member firm or firms.\n\n4\n\n\n\nÝ kiến của Kiểm toán viên\n\nTheo ý kiến của chúng tôi, Báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu tình hình tài chính của Công ty tại ngày 31/12/2016, cũng như kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ cho năm tài chính kết thúc cùng ngày, phù hợp với chuẩn mục kế toán, chế độ kế toán Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính riêng.\n\nVân đề khác\n\nBáo cáo kiểm toán này được phát hành để thay thế cho báo cáo kiểm toán số 093/2017/BCKT-PB.00048 ngày 28 tháng 03 năm 2017 do điều chỉnh khoản trích kinh phí tài trợ dự án xây dựng đình Phong Mỹ từ lợi nhuận sau thuế chưa phân phối sang ghi nhận chi phí khác trong kỳ, đồng thời trình bày bổ sung thông tin, giao dịch và số dư với các bên liên quan.\n\nOng Thế Đức\n\nLê Viết Cường\n\nGiám đốc\n\nGiấy chứng nhận đăng ký hành nghề kiểm toán số: 0855-2016-009-1\n\nKiểm toán viên\n\nGiấy chứng nhận đăng ký hành nghề kiểm toán số: 2478-2016-009-1\n\nThay mặt và đại diện cho\n\nCÔNG TY TNHH KIỂM TOÁN AFC VIỆT NAM - CHI NHÁNH PHÍA BẮC\n\nHà Nội, ngày 10 tháng 11 năm 2017\n\n5\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nBẢNG CÂN ĐỐI KẾ TOÁN\n\nTại ngày 31 tháng 12 năm 2016\n\nMẫu số B01 - DN",
+        "dataframe": [
+            {
+                "0": "TÀI SẢN",
+                "1": "Mã số",
+                "2": "TM",
+                "3": "31/12/2016",
+                "4": "Đơn vị tính: VND01/01/2016"
+            },
+            {
+                "0": "A/ TÀI SẢN NGĂN HẠN",
+                "1": "100",
+                "2": "",
+                "3": "1.717.965.932.223",
+                "4": "1.361.193.832.366"
+            },
+            {
+                "0": "I/ Tiền và các khoản tương đương tiền",
+                "1": "110",
+                "2": "V.01",
+                "3": "94.923.320.849",
+                "4": "9.465.199.342"
+            },
+            {
+                "0": "1. Tiền",
+                "1": "111",
+                "2": "",
+                "3": "26.923.320.849",
+                "4": "9.465.199.342"
+            },
+            {
+                "0": "2. Các khoản tương đương tiền",
+                "1": "112",
+                "2": "",
+                "3": "68.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "II/ Đầu tư tài chính ngắn hạn",
+                "1": "120",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "III/ Các khoản phải thu ngắn hạn",
+                "1": "130",
+                "2": "",
+                "3": "445.799.897.590",
+                "4": "184.947.163.768"
+            },
+            {
+                "0": "1. Phải thu ngắn hạn của khách hàng",
+                "1": "131",
+                "2": "V.02",
+                "3": "346.174.707.918",
+                "4": "82.602.989.665"
+            },
+            {
+                "0": "2. Trả trước cho người bán ngắn hạn",
+                "1": "132",
+                "2": "V.03",
+                "3": "36.031.430.189",
+                "4": "61.111.024.610"
+            },
+            {
+                "0": "3. Phải thu về cho vay ngắn hạn",
+                "1": "135",
+                "2": "V.04",
+                "3": "3.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "4. Phải thu ngắn hạn khác",
+                "1": "136",
+                "2": "V.05",
+                "3": "60.846.227.990",
+                "4": "41.485.618.000"
+            },
+            {
+                "0": "5. Dự phòng phải thu ngắn hạn khó đòi",
+                "1": "137",
+                "2": "",
+                "3": "(252.468.507)",
+                "4": "(252.468.507)"
+            },
+            {
+                "0": "IV/ Hàng tồn kho",
+                "1": "140",
+                "2": "V.06",
+                "3": "1.115.879.384.898",
+                "4": "1.077.245.605.897"
+            },
+            {
+                "0": "1. Hàng tồn kho",
+                "1": "141",
+                "2": "",
+                "3": "1.115.879.384.898",
+                "4": "1.077.245.605.897"
+            },
+            {
+                "0": "V/ Tài sản ngắn hạn khác",
+                "1": "150",
+                "2": "",
+                "3": "61.363.328.886",
+                "4": "89.535.863.359"
+            },
+            {
+                "0": "1. Thuế GTGT được khấu trừ",
+                "1": "152",
+                "2": "",
+                "3": "61.363.328.886",
+                "4": "88.370.944.740"
+            },
+            {
+                "0": "2. Thuế và các khoản phải thu Nhà nước",
+                "1": "153",
+                "2": "V.14",
+                "3": "-",
+                "4": "1.164.918.619"
+            },
+            {
+                "0": "B/ TÀI SẢN DÀI HẠN",
+                "1": "200",
+                "2": "",
+                "3": "825.128.510.964",
+                "4": "675.962.845.689"
+            },
+            {
+                "0": "I/ Các khoản phải thu dài hạn",
+                "1": "210",
+                "2": "",
+                "3": "79.173.000.000",
+                "4": "49.173.000.000"
+            },
+            {
+                "0": "1. Phải thu về cho vay dài hạn",
+                "1": "215",
+                "2": "V.04",
+                "3": "1.825.000.000",
+                "4": "1.825.000.000"
+            },
+            {
+                "0": "2. Phải thu dài hạn khác",
+                "1": "216",
+                "2": "V.05",
+                "3": "77.348.000.000",
+                "4": "47.348.000.000"
+            },
+            {
+                "0": "II/ Tài sản cố định",
+                "1": "220",
+                "2": "",
+                "3": "10.555.678.859",
+                "4": "4.623.670.665"
+            },
+            {
+                "0": "1. Tài sản cố định hữu hình",
+                "1": "221",
+                "2": "V.07",
+                "3": "10.555.678.859",
+                "4": "4.623.670.665"
+            },
+            {
+                "0": "- Nguyên giá",
+                "1": "222",
+                "2": "",
+                "3": "14.737.241.593",
+                "4": "10.426.816.253"
+            },
+            {
+                "0": "- Giá trị hao mòn lũy kế",
+                "1": "223",
+                "2": "",
+                "3": "(4.181.562.734)",
+                "4": "(5.803.145.588)"
+            },
+            {
+                "0": "III/ Bất động sản đầu tư",
+                "1": "230",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "IV/ Tài sản dở dang dài hạn",
+                "1": "240",
+                "2": "",
+                "3": "39.576.448.077",
+                "4": "39.045.669.459"
+            },
+            {
+                "0": "1. Chi phí sân xuất, kinh doanh dở dang dài hạn",
+                "1": "241",
+                "2": "V.06",
+                "3": "39.576.448.077",
+                "4": "39.045.669.459"
+            },
+            {
+                "0": "V/ Đầu tư tài chính dài hạn",
+                "1": "250",
+                "2": "V.08",
+                "3": "694.723.438.175",
+                "4": "580.703.606.208"
+            },
+            {
+                "0": "1. Đầu tư vào công ty con",
+                "1": "251",
+                "2": "",
+                "3": "481.894.535.000",
+                "4": "235.417.900.208"
+            },
+            {
+                "0": "2. Đầu tư vào công ty liên doanh, liên kết",
+                "1": "252",
+                "2": "",
+                "3": "208.263.903.175",
+                "4": "129.790.706.000"
+            },
+            {
+                "0": "3. Đầu tư góp vốn vào đơn vị khác",
+                "1": "253",
+                "2": "",
+                "3": "4.565.000.000",
+                "4": "215.495.000.000"
+            },
+            {
+                "0": "VI/ Tài sản dài hạn khác",
+                "1": "260",
+                "2": "",
+                "3": "1.099.945.853",
+                "4": "2.416.899.357"
+            },
+            {
+                "0": "1. Chi phí trả trước dài hạn",
+                "1": "261",
+                "2": "V.09",
+                "3": "1.099.945.853",
+                "4": "2.416.899.357"
+            },
+            {
+                "0": "TỔNG CỘNG TÀI SẢN",
+                "1": "270",
+                "2": "",
+                "3": "2.543.094.443.187",
+                "4": "2.037.156.678.055"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_4",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "6\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp: Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nBẢNG CÂN ĐỐI KẾ TOÁN (TIẾP)\n\nTại ngày 31 tháng 12 năm 2016\n\nMẫu số B01 - DN",
+        "dataframe": [
+            {
+                "0": "NGUỒN VỐN",
+                "1": "Mã số",
+                "2": "TM",
+                "3": "31/12/2016",
+                "4": "Đơn vị tính: VND01/01/2016"
+            },
+            {
+                "0": "C/ NỘ PHẢI TRẢ",
+                "1": "300",
+                "2": "",
+                "3": "2.188.648.914.414",
+                "4": "1.695.208.190.457"
+            },
+            {
+                "0": "I/ Nợ ngắn hạn",
+                "1": "310",
+                "2": "",
+                "3": "1.741.306.769.982",
+                "4": "1.166.237.908.126"
+            },
+            {
+                "0": "1. Phải trả người bán ngắn hạn",
+                "1": "311",
+                "2": "V.10",
+                "3": "101.193.379.042",
+                "4": "73.737.182.852"
+            },
+            {
+                "0": "2. Người mua trả tiền trước ngắn hạn",
+                "1": "312",
+                "2": "",
+                "3": "1.965.606.017",
+                "4": "2.186.388.042"
+            },
+            {
+                "0": "3. Thuế và các khoản phải nộp Nhà nước",
+                "1": "313",
+                "2": "V.14",
+                "3": "2.542.217.408",
+                "4": "-"
+            },
+            {
+                "0": "4. Phải trả người lao động",
+                "1": "314",
+                "2": "",
+                "3": "1.278.852.542",
+                "4": "1.748.994.315"
+            },
+            {
+                "0": "5. Chi phí phải trả ngắn hạn",
+                "1": "315",
+                "2": "V.11",
+                "3": "688.072.340.420",
+                "4": "763.305.431.712"
+            },
+            {
+                "0": "6. Doanh thu chưa thực hiện ngắn hạn",
+                "1": "318",
+                "2": "V.12",
+                "3": "301.449.571.462",
+                "4": "-"
+            },
+            {
+                "0": "7. Phải trả ngắn hạn khác",
+                "1": "319",
+                "2": "V.13",
+                "3": "131.622.484.356",
+                "4": "121.108.942.391"
+            },
+            {
+                "0": "8. Vay và nợ thuê tài chính ngắn hạn",
+                "1": "320",
+                "2": "V.15",
+                "3": "512.957.103.204",
+                "4": "203.673.096.493"
+            },
+            {
+                "0": "9. Quỹ khen thưởng phúc lợi",
+                "1": "322",
+                "2": "",
+                "3": "225.215.531",
+                "4": "477.872.321"
+            },
+            {
+                "0": "II/ Nợ dài hạn",
+                "1": "330",
+                "2": "",
+                "3": "447.342.144.432",
+                "4": "528.970.282.331"
+            },
+            {
+                "0": "1. Phải trả dài hạn khác",
+                "1": "337",
+                "2": "V.13",
+                "3": "387.918.636.432",
+                "4": "357.213.649.331"
+            },
+            {
+                "0": "2. Vay và nợ thuê tài chính dài hạn",
+                "1": "338",
+                "2": "V.15",
+                "3": "59.423.508.000",
+                "4": "171.756.633.000"
+            },
+            {
+                "0": "D/ VỐN CHỦ SỞ HỮU",
+                "1": "400",
+                "2": "",
+                "3": "354.445.528.773",
+                "4": "341.948.487.598"
+            },
+            {
+                "0": "I/ Vốn chủ sở hữu",
+                "1": "410",
+                "2": "V.16",
+                "3": "354.445.528.773",
+                "4": "341.948.487.598"
+            },
+            {
+                "0": "1. Vốn góp của chủ sở hữu",
+                "1": "411",
+                "2": "",
+                "3": "262.200.000.000",
+                "4": "262.200.000.000"
+            },
+            {
+                "0": "- Cổ phiếu phổ thông có quyền biểu quyết",
+                "1": "411a",
+                "2": "",
+                "3": "262.200.000.000",
+                "4": "262.200.000.000"
+            },
+            {
+                "0": "- Cổ phiếu ưu đãi",
+                "1": "411b",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "2. Quỹ đầu tư phát triển",
+                "1": "418",
+                "2": "",
+                "3": "15.177.859.740",
+                "4": "15.177.859.740"
+            },
+            {
+                "0": "3. Quỹ khác thuộc vốn chủ sở hữu",
+                "1": "420",
+                "2": "",
+                "3": "7.588.929.869",
+                "4": "7.588.929.869"
+            },
+            {
+                "0": "4. Lợi nhuận sau thuế chưa phân phối",
+                "1": "421",
+                "2": "",
+                "3": "69.478.739.164",
+                "4": "56.981.697.989"
+            },
+            {
+                "0": "- LNST chưa phân phối lũy kế đến cuối kỳ trước",
+                "1": "421a",
+                "2": "",
+                "3": "51.981.697.989",
+                "4": "59.493.261.964"
+            },
+            {
+                "0": "- LNST chưa phân phối kỳ này",
+                "1": "421b",
+                "2": "",
+                "3": "17.497.041.175",
+                "4": "(2.511.563.975)"
+            },
+            {
+                "0": "II/ Nguồn kinh phí và quỹ khác",
+                "1": "430",
+                "2": "",
+                "3": "-",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_5",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "TỔNG CỘNG NGUỒN VỐN\n\n440\n\n2.543.094.443.187\n\n2.037.156.678.055\n\nTô Như Toàn\n\nTổng Giám đốc\n\nHà Nội, ngày 10 tháng 11 năm 2017\n\nĐỗ Thị Thanh Phương\n\nKế toán trường\n\nTrần Mỹ Yến\n\nNgười lập biểu\n\n7\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nMẫu số B02 - DN\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH\n\nNăm 2016",
+        "dataframe": [
+            {
+                "0": "Chỉ tiêu",
+                "1": "Chỉ tiêu",
+                "2": "Mã số",
+                "3": "TM",
+                "4": "Năm 2016",
+                "5": "Đơn vị tính: VNDNăm 2015"
+            },
+            {
+                "0": "1.",
+                "1": "Doanh thu bán hàng và cung cấp dịch vụ",
+                "2": "01",
+                "3": "VI.01",
+                "4": "268.629.216.390",
+                "5": "252.243.719.435"
+            },
+            {
+                "0": "2.",
+                "1": "Các khoản giảm trừ doanh thu",
+                "2": "02",
+                "3": "V.02",
+                "4": "1.626.530.304",
+                "5": "23.636.412.003"
+            },
+            {
+                "0": "3.",
+                "1": "Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "10",
+                "3": "",
+                "4": "267.002.686.086",
+                "5": "228.607.307.432"
+            },
+            {
+                "0": "4.",
+                "1": "Giá vốn hàng bán",
+                "2": "11",
+                "3": "VI.03",
+                "4": "190.890.202.969",
+                "5": "208.680.274.387"
+            },
+            {
+                "0": "5.",
+                "1": "Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "2": "20",
+                "3": "",
+                "4": "76.112.483.117",
+                "5": "19.927.033.045"
+            },
+            {
+                "0": "6.",
+                "1": "Doanh thu hoạt động tài chính",
+                "2": "21",
+                "3": "VI.04",
+                "4": "2.054.976.425",
+                "5": "2.508.909.566"
+            },
+            {
+                "0": "7.",
+                "1": "Chi phí tài chính",
+                "2": "22",
+                "3": "VI.05",
+                "4": "19.261.213.689",
+                "5": "9.200.997.086"
+            },
+            {
+                "0": "",
+                "1": "Trong đó: Chi phí lãi vay",
+                "2": "23",
+                "3": "",
+                "4": "19.261.213.689",
+                "5": "9.200.997.086"
+            },
+            {
+                "0": "8.",
+                "1": "Chi phí bán hàng",
+                "2": "25",
+                "3": "VI.06",
+                "4": "2.281.949.493",
+                "5": "2.991.684.863"
+            },
+            {
+                "0": "9.",
+                "1": "Chi phí quản lý doanh nghiệp",
+                "2": "26",
+                "3": "VI.06",
+                "4": "29.727.218.999",
+                "5": "8.763.427.566"
+            },
+            {
+                "0": "10.",
+                "1": "Lợi nhuận thuần từ hoạt động kinh doanh",
+                "2": "30",
+                "3": "",
+                "4": "26.897.077.361",
+                "5": "1.479.833.096"
+            },
+            {
+                "0": "11.",
+                "1": "Thu nhập khác",
+                "2": "31",
+                "3": "VI.07",
+                "4": "1.657.427.730",
+                "5": "51.306.876"
+            },
+            {
+                "0": "12.",
+                "1": "Chi phí khác",
+                "2": "32",
+                "3": "VI.08",
+                "4": "5.160.547.026",
+                "5": "3.200.110.695"
+            },
+            {
+                "0": "13.",
+                "1": "Lợi nhuận khác",
+                "2": "40",
+                "3": "",
+                "4": "(3.503.119.296)",
+                "5": "(3.148.803.819)"
+            },
+            {
+                "0": "14.",
+                "1": "Tổng lợi nhuận kế toán trước thuế",
+                "2": "50",
+                "3": "",
+                "4": "23.393.958.065",
+                "5": "(1.668.970.723)"
+            },
+            {
+                "0": "15.",
+                "1": "Chi phí thuế TNDN hiện hành",
+                "2": "51",
+                "3": "VI.09",
+                "4": "5.896.916.890",
+                "5": "842.593.250"
+            },
+            {
+                "0": "16.",
+                "1": "Chi phí thuế TNDN hoãn lại",
+                "2": "52",
+                "3": "",
+                "4": "-",
+                "5": "-"
+            },
+            {
+                "0": "17.",
+                "1": "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+                "2": "60",
+                "3": "",
+                "4": "17.497.041.175",
+                "5": "(2.511.563.973)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_6",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "Tô Như Toàn\n\nTổng Giám đốc\n\nHà Nội, ngày 10 tháng 11 năm 2017\n\nĐỗ Thị Thanh Phương\n\nKế toán trường\n\nTrần Mỹ Yến\n\nNgười lập biểu\n\n8\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ\n\n(Theo phương pháp trực tiếp)\n\nNăm 2016\n\nMẫu số B03 - DN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Chỉ tiêu",
+                "2": "Mã số",
+                "3": "Năm 2016",
+                "4": "Đơn vị tính: VND Năm 2015"
+            },
+            {
+                "0": "I/",
+                "1": "Lưu chuyển tiền từ hoạt động kinh doanh",
+                "2": "Lưu chuyển tiền từ hoạt động kinh doanh",
+                "3": "Lưu chuyển tiền từ hoạt động kinh doanh",
+                "4": "Lưu chuyển tiền từ hoạt động kinh doanh"
+            },
+            {
+                "0": "1.",
+                "1": "Tiền thu từ bán hàng, cung cấp dịch vụ và doanh thu khác",
+                "2": "01",
+                "3": "494.309.079.012",
+                "4": "194.971.576.077"
+            },
+            {
+                "0": "2.",
+                "1": "Tiền chi trả cho người cung cấp hàng hoá, dịch vụ",
+                "2": "02",
+                "3": "(404.835.880.885)",
+                "4": "(1.001.982.171.154)"
+            },
+            {
+                "0": "3.",
+                "1": "Tiền chi trả cho người lao động",
+                "2": "03",
+                "3": "(14.248.934.442)",
+                "4": "(19.893.888.876)"
+            },
+            {
+                "0": "4.",
+                "1": "Tiền chi trả lãi vay",
+                "2": "04",
+                "3": "(31.251.385.785)",
+                "4": "(12.665.533.322)"
+            },
+            {
+                "0": "5.",
+                "1": "Thuế TNDN đã nộp",
+                "2": "05",
+                "3": "(2.337.000.000)",
+                "4": "(6.157.789.552)"
+            },
+            {
+                "0": "6.",
+                "1": "Tiền thu khác từ hoạt động kinh doanh",
+                "2": "06",
+                "3": "625.403.040.013",
+                "4": "808.215.720.027"
+            },
+            {
+                "0": "7.",
+                "1": "Tiền chi khác cho hoạt động kinh doanh",
+                "2": "07",
+                "3": "(658.997.835.291)",
+                "4": "(335.685.601.753)"
+            },
+            {
+                "0": "",
+                "1": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+                "2": "20",
+                "3": "8.041.082.622",
+                "4": "(373.197.688.553)"
+            },
+            {
+                "0": "II/",
+                "1": "Lưu chuyển tiền từ hoạt động đầu tư",
+                "2": "Lưu chuyển tiền từ hoạt động đầu tư",
+                "3": "Lưu chuyển tiền từ hoạt động đầu tư",
+                "4": "Lưu chuyển tiền từ hoạt động đầu tư"
+            },
+            {
+                "0": "1.",
+                "1": "Tiền chi đề mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",
+                "2": "21",
+                "3": "(7.023.987.284)",
+                "4": "(4.388.320.000)"
+            },
+            {
+                "0": "2.",
+                "1": "Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",
+                "2": "22",
+                "3": "630.000.000",
+                "4": "530.000.000"
+            },
+            {
+                "0": "3.",
+                "1": "Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",
+                "2": "23",
+                "3": "(3.000.000.000)",
+                "4": "-"
+            },
+            {
+                "0": "4.",
+                "1": "Tiền chi đầu tư góp vốn vào đơn vị khác",
+                "2": "25",
+                "3": "(423.527.331.967)",
+                "4": "(304.225.788.808)"
+            },
+            {
+                "0": "5.",
+                "1": "Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
+                "2": "26",
+                "3": "311.332.500.000",
+                "4": "478.580.000.000"
+            },
+            {
+                "0": "6.",
+                "1": "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+                "2": "27",
+                "3": "2.054.976.425",
+                "4": "2.508.909.566"
+            },
+            {
+                "0": "",
+                "1": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+                "2": "30",
+                "3": "(119.533.842.826)",
+                "4": "173.004.800.758"
+            },
+            {
+                "0": "III/",
+                "1": "Lưu chuyển tiền từ hoạt động tài chính",
+                "2": "Lưu chuyển tiền từ hoạt động tài chính",
+                "3": "Lưu chuyển tiền từ hoạt động tài chính",
+                "4": "Lưu chuyển tiền từ hoạt động tài chính"
+            },
+            {
+                "0": "1.",
+                "1": "Tiền thu từ đi vay",
+                "2": "33",
+                "3": "971.444.742.579",
+                "4": "677.545.996.493"
+            },
+            {
+                "0": "2.",
+                "1": "Tiền trả nợ gốc vay",
+                "2": "34",
+                "3": "(774.493.860.868)",
+                "4": "(505.997.358.050)"
+            },
+            {
+                "0": "",
+                "1": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                "2": "40",
+                "3": "196.950.881.711",
+                "4": "171.548.638.443"
+            },
+            {
+                "0": "",
+                "1": "Lưu chuyển tiền thuần trong kỳ",
+                "2": "50",
+                "3": "85.458.121.507",
+                "4": "(28.644.249.352)"
+            },
+            {
+                "0": "",
+                "1": "Tiền và tương đương tiền đầu kỳ",
+                "2": "60",
+                "3": "9.465.199.342",
+                "4": "38.109.448.694"
+            },
+            {
+                "0": "",
+                "1": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi",
+                "2": "61",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "Tiền và tương đương tiền cuối kỳ",
+                "2": "70",
+                "3": "94.923.320.849",
+                "4": "9.465.199.342"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_7",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "Tô Như Toàn\n\nTổng Giám đốc\n\nHà Nội, ngày 10 tháng 11 năm 2017\n\nĐỗ Thị Thanh Phương\n\nKế toán trường\n\nTrần Mỹ Yến\n\nNgười lập biểu\n\n9\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nMẫu số B09 - DN\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n\nNăm 2016\n\nI. THÔNG TIN CHUNG\n\nHình thức sở hữu vốn\n\nCông ty Cổ phần Đầu tư Văn Phú - Invest tiền thân là Công ty Cổ phần Kinh doanh nhà Quảng Ninh được thành lập và hoạt động theo Giấy chứng nhận đăng ký kinh doanh do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp, đăng ký lần đầu ngày 12/03/2008, đăng ký thay đổi lần thứ 15 ngày 24/12/2015, mã số doanh nghiệp 0102702590.\n\nTrụ sở chính của Công ty tại số 177, tổ 51, phố Trung Kính, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội.\n\nVốn điều lệ của Công ty theo Giấy chứng nhận đăng ký kinh doanh đăng ký thay đổi lần 15 là 262.200.000.000 VND.\n\nNgành nghề kinh doanh chính\n\n- Kinh doanh bất động sản, quyền sử dụng đất, kinh doanh khai thác và quản lý chợ, siêu thị;\n\n- Thi công xây lắp các công trình dân dụng, công nghiệp, giao thông, thủy lợi;\n\n- Mua bán vật tư, thiết bị, vật liệu xây dựng.\n\nCông ty con\n\n- Công ty TNHH MTV Đầu tư Văn Phú Giảng Võ\n\n- Công ty CP Đầu tư Văn Phú - Land\n\n- Công ty CP Đầu tư Văn Phú - IBS\n\n- Công ty CP Văn Phú Bắc Ái\n\nCông ty liên kết\n\n- Công ty CP Đầu tư BOT Hà Nội - Bắc Giang\n\n- Công ty CP In và Văn hóa phẩm\n\n- Công ty CP Tài nguyên và Môi trường Trường Minh\n\n- Công ty CP Đầu tư Văn Phú - IPS\n\nTuyên bố về khả năng so sánh thông tin trên Báo cáo tài chính\n\nThông tin trình bày trên Báo cáo tài chính riêng là có thể so sánh được.\n\nII. NIÊN ĐỘ KẾ TOÁN, ĐƠN VỊ TIỀN TỆ SỬ DỤNG TRONG KẾ TOÁN\n\nKỳ kế toán năm của Công ty bắt đầu từ ngày 01/01 và kết thúc vào ngày 31/12 hàng năm. Đơn vị tiền tệ sử dụng trong ghi chép kế toán là đồng Việt Nam (VND).\n\n10\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nIII. CHUÁN MỤC VÀ CHẾ ĐỘ KẾ TOÁN ÁP DỤNG\n\nChế độ kế toán áp dụng\n\nCông ty áp dụng Chế độ kế toán ban hành theo Thông tư số 200/2014/TT-BTC về hướng dẫn Chế độ kế toán doanh nghiệp ngày 22/12/2014 đã được sửa đổi, bổ sung theo Thông tư số 75/2015/TT-BTC ngày 18/05/2015 và Thông tư số 53/2016/TT-BTC ngày 21/03/2016 của Bộ Tài chính.\n\nTuyên bố về việc tuân thủ Chuẩn mực kế toán và Chế độ kế toán\n\nCông ty đã áp dụng các Chuẩn mực kế toán Việt Nam và các văn bản hướng dẫn Chuẩn mực do Nhà nước đã ban hành. Các Báo cáo tài chính riêng được lập và trình bày theo đúng moi quy định của từng chuẩn mực, thông tư hướng dẫn thực hiện chuẩn mực và Chế độ kế toán hiện hành đang áp dụng.\n\nHình thức kế toán áp dụng\n\nCông ty áp dụng hình thức kế toán nhật ký chung.\n\nIV. CÁC CHÍNH SÁCH KÉ TOÁN ÁP DỤNG\n\nTiền và các khoản tương đương tiền\n\nTiền bao gồm tiền mặt, tiền gửi ngân hàng không có kỳ hạn và có kỳ hạn, tiền đang chuyển, vàng tiền tệ. Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có thời hạn thu hồi hoặc đáo hạn không quá 03 tháng kể từ ngày mua, dễ dàng chuyển đổi thành một lượng tiền xác định cũng như không có nhiều rủi ro trong việc chuyển đổi thành tiền.\n\nCác khoản đầu tư tài chính\n\nCác khoản đầu tư nằm giữ đến ngày đáo hạn\n\nKhoản đầu tư được phân loại là nằm giữ đến ngày đáo hạn khi Công ty có ý định và khả năng giữ đến ngày đáo hạn. Các khoản đầu tư nằm giữ đến ngày đáo hạn bao gồm: các khoản tiền gửi ngân hàng có kỳ hạn (bao gồm cả các loại tín phiếu, kỳ phiếu), trái phiếu, cổ phiếu ưu đãi bên phát hành bắt buộc phải mua lại tại một thời điểm nhất định trong tương lai và các khoản cho vay nằm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ và các khoản đầu tư nằm giữ đến ngày đáo hạn khác.\n\nCác khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư. Sau khi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Thu nhập lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh trên cơ sở dự thu. Lãi được hưởng trước khi Công ty nắm giữ được ghi giảm trừ vào giá gốc tại thời điểm mua.\n\nKhi có các bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được và số tổn thất được xác định một cách đáng tin cậy thì tổn thất được ghi nhận vào chi phí tài chính trong năm và giảm trừ trực tiếp giá trị đầu tư.\n\nCác khoản cho vay\n\nCác khoản cho vay được xác định theo giá gốc trừ các khoản dự phòng phải thu khó đòi. Dự phòng phải thu khó đòi của các khoản cho vay được lập căn cứ vào dự kiến mức tổn thất có thể xảy ra.\n\n11\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nCác khoản đầu tư vào công ty con, công ty liên doanh, liên kết\n\nCông ty con\n\nCông ty con là doanh nghiệp chịu sự kiểm soát của Công ty. Việc kiểm soát đạt được khi Công ty có khả năng kiểm soát các chính sách tài chính và hoạt động của doanh nghiệp nhận đầu tư nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó.\n\nCông ty liên doanh\n\nCông ty liên doanh là doanh nghiệp được thành lập trên cơ sở thỏa thuận trên hợp đồng mà theo đó Công ty và các bên tham gia thực hiện hoạt động kinh tế trên cơ sở đồng kiểm soát. Đồng kiểm soát được hiểu là việc đưa ra các quyết định mang tính chiến lược liên quan đến các chính sách hoạt động và tài chính của công ty liên doanh phải có sự đồng thuận của các bên tham gia liên doanh.\n\nCông ty liên kết\n\nCông ty liên kết là doanh nghiệp mà Công ty có ảnh hưởng đáng kể nhưng không có quyền kiểm soát đối với các chính sách tài chính và hoạt động. Ảnh hưởng đáng kể thể hiện ở quyền tham gia vào việc đưa ra các quyết định về chính sách tài chính và hoạt động của doanh nghiệp nhận đầu tư nhưng không kiểm soát các chính sách này.\n\nCác khoản đầu tư vào công ty con, công ty liên doanh, liên kết được ghi nhận ban đầu theo giá gốc, bao gồm giá mua hoặc khoản góp vốn công các chi phí liên quan trực tiếp đến việc đầu tư. Trường hợp đầu tư bằng tài sản phi tiền tệ, giá phí khoản đầu tư được ghi nhận theo giá trị hợp lý của tài sản phi tiền tệ tại thời điểm phát sinh.\n\nCổ tức và lợi nhuận của các kỳ trước khi khoản đầu tư được mua được hạch toán giảm giá trị của chính khoản đầu tư đó. Cổ tức và lợi nhuận của các kỳ sau khi khoản đầu tư được mua được ghi nhận doanh thu. Cổ tức được nhận bằng cổ phiếu chỉ được theo dõi số lượng cổ phiếu tăng thêm, không ghi nhận giá trị cổ phiếu nhận được.\n\nDự phòng tổn thất cho các khoản đầu tư vào công ty con, công ty liên doanh, liên kết được trích lập khi công ty con, công ty liên doanh, liên kết bị lỗ với mức trích lập bằng chênh lệch giữa vốn góp thực tế của các bên tại công ty con, công ty liên doanh, liên kết và vốn chủ sở hữu thực có nhân với tỷ lệ góp vốn của Công ty so với tổng số vốn góp thực tế của các bên tại công ty con, công ty liên doanh, liên kết. Nếu công ty con, công ty liên doanh, liên kết là đối tượng lập Báo cáo tài chính riêng hợp nhất thì căn cứ để xác định dự phòng tổn thất là Báo cáo tài chính riêng hợp nhất.\n\nTăng, giảm số dự phòng tổn thất đầu tư vào công ty con, công ty liên doanh, liên kết cần phải trích lập tại ngày kết thúc năm tài chính được ghi nhận vào chi phí tài chính.\n\nCác khoản đầu tư vào công cụ vốn của đơn vị khác\n\nĐầu tư vào công cụ vốn của đơn vị khác bao gồm các khoản đầu tư công cụ vốn nhưng Công ty không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu tư.\n\nCác khoản đầu tư vào công cụ vốn của đơn vị khác được ghi nhận ban đầu theo giá gốc, bao gồm giá mua hoặc khoản góp vốn cộng các chi phí trực tiếp liên quan đến hoạt động đầu tư. Cổ tức và lợi nhuận của các kỳ trước khi khoản đầu tư được mua được hạch toán giảm giá trị của chính khoản đầu tư đó. Cổ tức và lợi nhuận của các kỳ sau khi khoản đầu tư được mua được ghi nhận doanh thu. Cổ tức được nhận bằng cổ phiếu chỉ được theo dõi số lượng cổ phiếu tăng thêm, không ghi nhận giá trị cổ phiếu nhận được.\n\nDự phòng tổn thất cho các khoản đầu tư vào công cụ vốn của đơn vị khác được trích lập như sau:\n\n12\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\n- Đối với khoản đầu tư vào cổ phiếu niêm yết hoặc giá trị hợp lý khoản đầu tư được xác định tin cậy, việc lập dự phòng dựa trên giá trị thị trường của cổ phiếu.\n\nĐối với khoản đầu tư không xác định được giá trị hợp lý tại thời điểm báo cáo, việc lập dự phòng được thực hiện căn cứ vào khoản lỗ của bên được đầu tư với mức trích lập bằng chênh lệch giữa vốn góp thực tế của các bên tại đơn vị khác và vốn chủ sở hữu thực có nhân với tỷ lệ góp vốn của Công ty so với tổng số vốn góp thực tế của các bên tại đơn vị khác.\n\nTăng, giảm số dự phòng tổn thất đầu tư vào công cụ vốn của đơn vị khác cần phải trích lập tại ngày kết thúc năm tài chính được ghi nhận vào chi phí tài chính.\n\nCác khoản phải thu\n\nCác khoản nợ phải thu được trình bày theo giá trị ghi sổ trừ đi các khoản dự phòng phải thu khó đòi.\n\nViệc phân loại các khoản phải thu là phải thu khách hàng, phải thu nội bộ và phải thu khác được thực hiện theo nguyên tắc sau:\n\n- Phải thu cửa khách hàng phần ánh các khoản phải thu mang tính chất thương mại phát sinh từ giao dịch có tính chất mua - bán giữa Công ty và người mua là đơn vị độc lập với Công ty, bao gồm cả các khoản phải thu về tiền bán hàng xuất khẩu ủy thác cho đơn vị khác.\n\n- Phải thu nội bộ phần ánh các khoản phải thu các đơn vị trực thuộc không có tư cách pháp nhân hạch toán phụ thuộc.\n\n- Phải thu khác phần ánh các khoản phải thu không có tính thương mại, không liên quan đến giao dịch mua - bán.\n\nDự phòng phải thu khó đòi được lập cho từng khoản nợ phải thu khó đòi căn cứ vào tuổi nợ quá hạn của các khoản nợ hoặc dự kiến mức tổn thất có thể xảy ra, cụ thể như sau:\n\n- Đối với nợ phải thu quá hạn thanh toán:\n\n• 30% giá trị đối với khoản nợ phải thu quá hạn từ trên 6 tháng đến dưới 1 năm.\n\n• 50% giá trị đối với khoản nợ phải thu quá hạn từ 1 năm đến dưới 2 năm.\n\n• 70% giá trị đối với khoản nợ phải thu quá hạn từ 2 năm đến dưới 3 năm.\n\n• 100% giá trị đối với khoản nợ phải thu quá hạn từ 3 năm trở lên.\n\n- Đối với nợ phải thu chưa quá hạn thanh toán nhưng khó có khả năng thu hồi: căn cứ vào dự kiến mức tổn thất để lập dự phòng.\n\nTăng, giảm số dư dự phòng nợ phải thu khó đòi cần phải trích lập tại ngày kết thúc năm tài chính được ghi nhận vào chi phí quản lý doanh nghiệp.\n\nHàng tồn kho\n\nHàng tồn kho được ghi nhận theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được.\n\nGiá gốc hàng tồn kho được xác định như sau:\n\n- Đối với các dự án bất động sản: giá gốc bao gồm giá trị quyền sử dụng đất, chi phí phát triển đất và cơ sở hạ tầng, chi phí xây dựng;\n\n- Đối với các nhóm hàng tồn kho khác: giá gốc bao gồm chi phí mua và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái hiện tại.\n\nGiá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong kỳ sản xuất, kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí ước tính cần thiết cho việc tiêu thụ chúng.\n\nPhương pháp tính giá hàng tồn kho:\n\n- Đối với các dự án bất động sản: được xác định theo phương pháp đích danh.\n\n- Đối với các nhóm hàng tồn kho khác: được xác định theo phương pháp bình quân gia quyền.\n\n13\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nPhương pháp hạch toán hàng tồn kho là phương pháp kê khai thường xuyên.\n\nDự phòng giảm giá hàng tồn kho được lập cho từng mặt hàng tồn kho có giá gốc lớn hơn giá trị thuần có thể thực hiện được. Tăng, giảm số dự phòng giảm giá hàng tồn kho cần phải trích lập tại ngày kết thúc năm tài chính được ghi nhận vào giá vốn hàng bán.\n\nTài sản cố định và khấu hao tài sản cố định\n\nTài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận theo giá gốc. Trong quá trình sử dụng, tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận theo nguyên giá, hao mòn luỹ kế và giá trị còn lại.\n\nNguyên giá tài sản cố định bao gồm toàn bộ các chi phí mà Công ty phải bỏ ra để có được tài sản cố định tính đến thời điểm đưa tài sản đó vào trạng thái sẵn sàng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên giá tài sản cố định nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí sản xuất, kinh doanh trong kỳ.\n\nKhi tài sản cố định được bán hay thanh lý, nguyên giá và giá trị hao mòn lũy kế được xóa sổ và lãi, lỗ phát sinh do thanh lý được ghi nhận vào thu nhập hay chỉ phí trong năm.\n\nKhấu hao được trích theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính phù hợp với quy định tại Thông tư 45/2013/TT-BTC ngày 25/04/2013 được sửa đổi, bổ sung theo quy định tại Thông tư 147/2016/TT-BTC ngày 13/10/2016 về hướng dẫn chế độ quản lý, sử dụng và trích khấu hao tài sản cố định, cụ thể như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số năm"
+            },
+            {
+                "0": "Nhà cửa, vật kiến trúc",
+                "1": "05 - 50"
+            },
+            {
+                "0": "Máy móc thiết bị",
+                "1": "05 - 12"
+            },
+            {
+                "0": "Phương tiện vận tải truyền dẫn",
+                "1": "06 - 10"
+            },
+            {
+                "0": "Thiết bị văn phòng",
+                "1": "03 - 10"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_8",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "Chi phí xây dựng cơ bản dở dang\n\nCác tài sản đang trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê, quản trị hoặc cho bất kỳ mục đích nào khác được ghi nhận theo giá gốc. Chi phí này bao gồm chi phí dịch vụ và chi phí lãi vay có liên quan phù hợp với chính sách kể toán của Công ty. Việc tính khấu hao của các tài sản này được áp dụng giống như với các tài sản khác, bắt đầu từ khi tài sản ở vào trạng thái sẵn sàng sử dụng.\n\nTheo quy định về quản lý đầu tư và xây dựng của Nhà nước, tùy theo phân cấp quản lý, giá trị quyết toán các công trình xây dựng cơ bản hoàn thành cần được các cơ quan có thẩm quyền phê duyệt. Do đó, giá trị cuối cùng về giá trị các công trình xây dựng cơ bản, mua sắm máy móc thiết bị có thể thay đổi và phụ thuộc vào quyết toán được phê duyệt bởi các cơ quan có thẩm quyền.\n\nChi phí trả trước\n\nChi phí trả trước bao gồm các chi phí thực tế đã phát sinh nhưng có liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều kỳ kế toán. Chi phí trả trước của Công ty bao gồm các chi phí sau:\n\nCông cụ, dụng cụ\n\nCác công cụ, dụng cụ đã đưa vào sử dụng được phân bổ vào chi phí theo phương pháp đường thẳng với thời gian phân bổ không quá 03 năm.\n\nChi phí sửa chữa, phục hồi tài sản\n\nCác chi phí sửa chữa, phục hồi tài sản phát sinh được phân bổ theo phương pháp đường thẳng với thời gian phân bổ không quá 03 năm.\n\n14\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nCác khoản nợ phải trả và chi phí phải trả\n\nCác khoản nợ phải trả và chi phí phải trả được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được. Chi phí phải trả được ghi nhận dựa trên các ước tính hợp lý về số tiền phải trả.\n\nViệc phân loại các khoản phải trả là phải trả người bán, chỉ phí phải trả, phải trả nội bộ và phải trả khác được thực hiện theo nguyên tắc sau:\n\n- Phải trả người bán phần ánh các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa, dịch vụ, tài sản và người bán là đơn vị độc lập với Công ty, bao gồm cả các khoản phải trả khi nhập khẩu thông qua người nhận ủy thác.\n\n- Chi phí phải trả phần ánh các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán hoặc đã cung cấp cho người mua nhưng chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán và các khoản phải trả cho người lao động về tiền lương nghĩ phép, các khoản chi phí sản xuất, kinh doanh phải trích trước.\n\n- Phải trả nội bộ phần ánh các khoản phải trả giữa đơn vị cấp trên và đơn vị cấp dưới trực thuộc không có tư cách pháp nhân hạch toán phụ thuộc.\n\n- Phải trả khác phần ánh các khoản phải trả không có tính thương mại, không liên quan đến giao dịch mua, bán, cung cấp hàng hóa dịch vụ.\n\nVay và nợ phải trả thuê tài chính\n\nCác khoản vay được theo dõi theo từng đối tượng cho vay, từng khế ước vay nợ và kỳ hạn phải trả của các khoản vay. Trường hợp vay nợ bằng ngoại tệ thì thực hiện theo dõi chỉ tiết theo nguyên tệ.\n\nChi phí đi vay\n\nChi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay.\n\nChi phí đi vay được ghi nhận vào chi phí khi phát sinh. Trường hợp chi phí đi vay liên quan trực tiếp đến việc đầu tư xây dựng hoặc sản xuất tài sản dở dang cần có một thời gian đủ dài (trên 12 tháng) để có thể đưa vào sử dụng theo mục đích định trước hoặc bán thì chi phí đi vay này được vốn hóa. Đối với khoản vay riêng phục vụ việc xây dựng tài sản cố định, bất động sản đầu tư, lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng. Các khoản thu nhập phát sinh từ việc đầu tư tạm thời các khoản vay được ghi giảm nguyên giá tài sản có liên quan.\n\nĐối với các khoản vốn vay chung trong đó có sử dụng cho mục đích đầu tư xây dựng hoặc sản xuất tài sản dở dang thì chi phí đi vay vốn hóa được xác định theo tỷ lệ vốn hóa đối với chi phí lũy kế bình quân gia quyền phát sinh cho việc đầu tư xây dựng cơ bản hoặc sản xuất tài sản đó. Tỷ lệ vốn hóa được tính theo tỷ lệ lãi suất bình quân gia quyền của các khoản vay chưa trả trong năm, ngoại trừ các khoản vay riêng biệt phục vụ cho mục đích hình thành một tài sản cụ thể.\n\nVốn chủ sở hữu\n\nVốn góp của chủ sở hữu được ghi nhận theo số vốn thực góp của các cổ đông.\n\nThặng dư vốn cổ phần được ghi nhận theo số chênh lệch giữa giá phát hành và mệnh giá cổ phiếu khi phát hành lần đầu, phát hành bổ sung, chênh lệch giữa giá tái phát hành và giá trị sổ sách của cổ phiếu quỹ và cấu phần vốn của trái phiếu chuyển đổi khi đáo hạn. Chi phí trực tiếp liên quan đến việc phát hành bổ sung cổ phiếu và tái phát hành cổ phiếu quỹ được ghi giảm thặng dư vốn cổ phần.\n\nVốn khác của chủ sở hữu được hình thành do bổ sung từ kết quả hoạt động kinh doanh, đánh giá lại tài sản và giá trị còn lại giữa giá trị hợp lý của các tài sản được tặng, biểu, tài trợ sau khi trừ các khoản thuế phải nộp (nếu có) liên quan đến các tài sản này.\n\n15\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nLợi nhuận sau thuế chưa phân phối là số lợi nhuận từ các hoạt động của doanh nghiệp sau khi trừ (-) các khoản điều chỉnh do áp dụng hồi tố thay đổi chính sách kế toán và điều chỉnh hồi tố sai sót trọng yếu của các năm trước. Lợi nhuận sau thuế thu nhập doanh nghiệp được phân phối cho các cổ đông sau khi đã trích lập các quỹ theo Điều lệ của Công ty cũng như các quy định của pháp luật và đã được Đại hội đồng cổ đông phê duyệt.\n\nDoanh thu và thu nhập\n\nDoanh thu bán hàng\n\nDoanh thu bán hàng được ghi nhận khi đồng thời thỏa mãn các điều kiện sau:\n\n- Phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa đã được chuyển giao cho người mua;\n\n- Công ty không còn nằm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa;\n\n- Doanh thu được xác định tương đối chắc chắn;\n\n- Công ty đã thu được hoặc sẽ thu được lợi ích kinh tế từ giao dịch bán hàng;\n\n- Xác định được chi phí liên quan đến giao dịch bán hàng.\n\nDoanh thu cung cấp dịch vụ\n\nDoanh thu cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch đó được xác định một cách đáng tin cây. Trường hợp việc cung cấp dịch vụ liên quan đến nhiều kỳ thì doanh thu được ghi nhận trong kỳ theo kết quả phần công việc đã hoàn thành vào ngày lập Bằng Cân đối kế toán của kỳ đó. Kết quả của giao dịch cung cấp dịch vụ được xác định khi thỏa mãn các điều kiện sau:\n\n- Doanh thu được xác định tương đối chắc chắn;\n\n- Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;\n\n- Xác định được phần công việc đã hoàn thành vào ngày lập Bằng cân đối kế toán;\n\n- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.\n\nPhần công việc cung cấp dịch vụ đã hoàn thành được xác định theo phương pháp đánh giá công việc hoàn thành.\n\nDoanh thu hoạt động tài chính\n\nDoanh thu phát sinh từ tiền lãi, tiền bản quyền, cổ tức, lợi nhuận được chia và các khoản doanh thu hoạt động tài chính khác được ghi nhận khi thỏa mãn đồng thời hai (2) điều kiện sau:\n\n- Có khả năng thu được lợi ích kinh tế từ giao dịch đó;\n\n- Doanh thu được xác định tương đối chắc chắn.\n\nCổ tức và lợi nhuận được chia được ghi nhận khi Công ty được quyền nhận cổ tức hoặc lợi nhuận từ việc góp vốn. Cổ tức được nhận bằng cổ phiếu chỉ được theo dõi số lượng cổ phiếu tăng thêm, không ghi nhận giá trị cổ phiếu nhận được, không ghi nhận doanh thu hoạt động tài chính.\n\nTiền lãi được ghi nhận trên cơ sở dồn tích, được xác định trên số dư các tài khoản tiền gửi và lãi suất thực tế từng kỳ.\n\nThuế thu nhập doanh nghiệp\n\nThuế thu nhập hiện hành\n\nThuế thu nhập hiện hành là khoản thuế được tính dựa trên thu nhập tính thuế. Thu nhập tính thuế chênh lệch so với lợi nhuận kế toán là do điều chỉnh các khoản chênh lệch tạm thời giữa thuế và kế toán, các chi phí không được trừ cũng như điều chỉnh các khoản thu nhập không phải chịu thuế và các khoản lỗ được chuyển.\n\n16\n\n\n\n图 1\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nThuế thu nhập hoãn lại\n\nThuế thu nhập hoãn lại là khoản thuế thu nhập doanh nghiệp sẽ phải nộp hoặc sẽ được hoàn lại do chênh lệch tạm thời giữa giá trị ghi sổ cửa tài sản và nợ phải trả cho mục đích lập Báo cáo tài chính riêng và cơ sở tính thuế thu nhập. Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế. Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ này.\n\nGiá trị ghi sổ cửa tài sản thuế thu nhập doanh nghiệp hoãn lại được xem xét lại vào ngày kết thúc năm tài chính và sẽ được ghi giảm đến mức đảm bảo chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoãn lại chưa được ghi nhận trước đây được xem xét lại vào ngày kết thúc năm tài chính và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.\n\nTài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho năm tài sản được thu hồi hay nợ phải trả được thanh toán dựa trên các mức thuế suất có hiệu lực tại ngày kết thúc năm tài chính. Thuế thu nhập hoãn lại được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh và chỉ ghi trực tiếp vào vốn chủ sở hữu khi khoản thuế đó liên quan đến các khoản mục được ghi thẳng vào vốn chủ sở hữu.\n\nTài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả được bù trừ khi:\n\n- Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp; và\n\n- Các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả này liên quan đến thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế:\n\n• Đối với cùng một đơn vị chịu thuế; hoặc\n\n• Công ty dự định thanh toán thuế thu nhập hiện hành phải trả và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng kỳ tương lai khi các khoản trọng yếu của thuế thu nhập hoãn lại phải trả hoặc tài sản thuế thu nhập hoãn lại được thanh toán hoặc thu hồi.\n\nCác bên liên quan\n\nCác bên được coi là bên liên quan nếu bên đó có khả năng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên kia trong việc ra quyết định về các chính sách tài chính và hoạt động. Các bên liên quan của Công ty bao gồm:\n\n- Các doanh nghiệp trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Công ty hoặc chịu sự kiểm soát của Công ty, hoặc cùng chung sự kiểm soát với Công ty bao gồm cả công ty mẹ, công ty con và công ty liên kết;\n\n- Các cá nhân trực tiếp hoặc gián tiếp nằm quyền biểu quyết của Công ty mà có ảnh hưởng đáng kể đối với Công ty, những nhân sự quản lý chủ chốt của Công ty, những thành viên mật thiết trong gia đình của các cá nhân này;\n\n- Các doanh nghiệp do các cá nhân nếu trên nằm trực tiếp hoặc gián tiếp phần quan trọng quyền biểu quyết hoặc có ảnh hưởng đáng kể tới Công ty.\n\nTrong việc xem xét mối quan hệ của các bên liên quan, bản chất của mối quan hệ được chú trọng nhiều hơn hình thức pháp lý của các quan hệ đó.\n\n17\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nV. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRONG BẢNG CÂN ĐỐI KẾ TOÁN\n\n01. Tiền và các khoản tương đương tiền",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016VND",
+                "2": "01/01/2016VND"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "8.065.236.118",
+                "2": "1.865.222.901"
+            },
+            {
+                "0": "Tiền gửi ngân hàng không kỳ hạn",
+                "1": "18.858.084.731",
+                "2": "7.599.976.441"
+            },
+            {
+                "0": "Ngân hàng TMCP Kỹ thương Việt Nam - CN Thăng Long",
+                "1": "18.373.468.507",
+                "2": "5.962.774.050"
+            },
+            {
+                "0": "Ngân hàng TNHH Indovina - CN Thiên Long",
+                "1": "465.780.190",
+                "2": "1.449.063.638"
+            },
+            {
+                "0": "Các Ngân hàng khác",
+                "1": "18.836.034",
+                "2": "188.138.753"
+            },
+            {
+                "0": "Các khoản tương đương tiền",
+                "1": "68.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Tiền gửi có kỳ hạn",
+                "1": "68.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "- Ngân hàng TNHH Indovina - CN Thiên Long (i)",
+                "1": "50.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "- Ngân hàng TMCP Kỹ thương Việt Nam - CN Thăng Long (ii)",
+                "1": "18.000.000.000",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "94.923.320.849",
+                "2": "9.465.199.342"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_9",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "(i) Khoản tiền gửi tại Ngân hàng TNHH Indovina - CN Thiên Long kỳ hạn 1 tháng, lãi suất 4,7%/năm.\n\n(ii) Khoản tiền gửi tại Ngân hàng TMCP Kỹ thương Việt Nam - CN Thăng Long kỳ hạn 1 tháng, lãi suất 5%/năm.\n\n02. Phải thu khách hàng\n\na) Phải thu của khách hàng ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trị VND",
+                "2": "Dự phòng VND",
+                "3": "Giá trị VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Công ty CP KD dịch vụ cao cấp đầu khí Việt Nam (PVR)",
+                "1": "10.000.000.000",
+                "2": "-",
+                "3": "10.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Ban Quản lý giao thông 1",
+                "1": "12.577.195.000",
+                "2": "-",
+                "3": "12.577.195.000",
+                "4": "-"
+            },
+            {
+                "0": "Hoàng Thị Liên (i)",
+                "1": "45.625.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Tạ Hữu Long (ii)",
+                "1": "43.800.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Công ty CP TM Đầu tư BĐS An Phát (iii)",
+                "1": "66.000.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Các khoản phải thu khách hàng khác",
+                "1": "168.172.512.918",
+                "2": "(252.468.507)",
+                "3": "60.025.794.665",
+                "4": "(252.468.507)"
+            },
+            {
+                "0": "Cộng",
+                "1": "346.174.707.918",
+                "2": "(252.468.507)",
+                "3": "82.602.989.665",
+                "4": "(252.468.507)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_10",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "(i) Khoản phải thu về giá trị chuyển nhượng cổ phần tại Công ty CP Đầu tư Văn Phú - House theo Hợp đồng chuyển nhượng cổ phần số 03/HĐCNCP-VPHOUSE ngày 31/12/2016: số lượng cổ phần chuyển nhượng 4.562.500 cổ phần, giá chuyển nhượng 10.000 VND/cổ phần tương ứng với 45.625.000.000 VND.\n\n(ii) Khoản phải thu về giá trị chuyển nhượng cổ phần tại Công ty CP Đầu tư Văn Phú - House Hợp đồng chuyển nhượng cổ phần số 02/HĐCNCP-VPHOUSE ngày 31/12/2016: số lượng cổ phần chuyển nhượng 4.380.000 cổ phần, giá chuyển nhượng 10.000 VND/cổ phần tương ứng với 43.800.000.000 VND.\n\n(iii) Khoản phải thu về giá trị chuyển nhượng quyền sở hữu, sử dụng Nhà đất tại 92 Khuất Duy Tiến theo Hợp đồng chuyển nhượng số 01/HĐCN/VP-AP ngày 26/12/2016, tổng giá trị chuyển nhượng là 66.000.000.000 VND.\n\n18\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nb) Phải thu của khách hàng là các bên liên quan",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trị VND",
+                "2": "Dự phòng VND",
+                "3": "Giá trị VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - Land",
+                "1": "3.131.946.837",
+                "2": "-",
+                "3": "4.853.588.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty CP Tài nguyên và Môi trường Trường Minh",
+                "1": "4.173.090",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - IPS",
+                "1": "6.605.212",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Công ty CP Đầu tư và Phát triển Thương mại Văn Phú",
+                "1": "1.191.322.284",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Công ty CP ĐT Văn Phú số 1",
+                "1": "19.527.354.012",
+                "2": "-",
+                "3": "",
+                "4": "-"
+            },
+            {
+                "0": "Công ty CP ĐT Văn Phú số 2",
+                "1": "25.838.103.315",
+                "2": "-",
+                "3": "",
+                "4": "-"
+            },
+            {
+                "0": "Công ty CP Tư vấn Đầu tư và Phát triển kiến trúc I.D.E.A",
+                "1": "23.232.574",
+                "2": "-",
+                "3": "23.242.360",
+                "4": "-"
+            },
+            {
+                "0": "Nguyễn Minh Tuấn",
+                "1": "1.322.712.000",
+                "2": "-",
+                "3": "1.322.712.000",
+                "4": "-"
+            },
+            {
+                "0": "Hoàng Thị Liên",
+                "1": "46.726.820.000",
+                "2": "-",
+                "3": "1.101.820.000",
+                "4": "-"
+            },
+            {
+                "0": "Vũ Thanh Tuấn",
+                "1": "9.285.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Tô Như Thắng",
+                "1": "360.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Tạ Hữu Long",
+                "1": "45.625.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "153.042.269.324",
+                "2": "-",
+                "3": "7.301.362.360",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_11",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "03. Trả trước cho người bán\n\na) Trả trước cho người bán ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trị VND",
+                "2": "Dự phòng VND",
+                "3": "Giá trị VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Công ty CP TM TKKT Cơ và Điện",
+                "1": "7.206.985.606",
+                "2": "-",
+                "3": "7.099.131.016",
+                "4": "-"
+            },
+            {
+                "0": "Các khoản trả trước cho người bán khác",
+                "1": "28.824.444.583",
+                "2": "-",
+                "3": "54.011.893.594",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "36.031.430.189",
+                "2": "-",
+                "3": "61.111.024.610",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "Giá trị VND",
+                "2": "Dự phòng VND",
+                "3": "Giá trị VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Công ty CP Văn Phú Holdings",
+                "1": "1.960.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.960.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_12",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "19\n\n\n\nCÔNG TY CÓ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\n04. Phải thu về cho vay\n\na) Ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trị VND",
+                "2": "Dự phòng VND",
+                "3": "Giá trị VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - Bắc Ái (i)",
+                "1": "3.000.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "3.000.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_13",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "(i) Hợp đồng vay vốn số 27/2016/VP-VPBA ngày 27/09/2016: Số tiền cho vay là 10.000.000.000 VND, số tiền thực tế cho vay đến 31/12/2016 là 3.000.000.000 VND; Lãi suất tiền vay: không tính lãi; Mục đích sử dụng tiền vay để thực hiện hoạt động sản xuất kinh doanh; thời hạn cho vay là 06 tháng kể từ khi bên vay nhận đủ tiền vay.\n\nb) Dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trị VND",
+                "2": "Dự phòng VND",
+                "3": "Giá trị VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Tạ Hữu Long",
+                "1": "1.825.000.000",
+                "2": "-",
+                "3": "1.825.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.825.000.000",
+                "2": "-",
+                "3": "1.825.000.000",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "Giá trị VND",
+                "2": "Dự phòng VND",
+                "3": "Giá trị VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - Bắc Aj",
+                "1": "3.000.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Tạ Hữu Long",
+                "1": "1.825.000.000",
+                "2": "-",
+                "3": "1.825.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "4.825.000.000",
+                "2": "-",
+                "3": "1.825.000.000",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_14",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "05. Phải thu khác\n\na) Ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trị VND",
+                "2": "Dự phòng VND",
+                "3": "Giá trị VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Ký quỹ, ký cược",
+                "1": "24.505.000.000",
+                "2": "-",
+                "3": "2.505.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Tiền tạm ứng cho CBNV",
+                "1": "17.231.776.580",
+                "2": "-",
+                "3": "5.079.629.700",
+                "4": "-"
+            },
+            {
+                "0": "Phải thu về chuyển nhượng vốn đầu tư",
+                "1": "-",
+                "2": "-",
+                "3": "24.780.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Phải thu khác",
+                "1": "19.109.451.410",
+                "2": "-",
+                "3": "9.120.988.300",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "60.846.227.990",
+                "2": "-",
+                "3": "41.485.618.000",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_15",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "20\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nb) Dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trị VND",
+                "2": "Dự phòng VND",
+                "3": "Giá trị VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Gớp vốn hợp tác kinh doanh với Công ty CP Đầu tư Văn Phú - Land (i)",
+                "1": "36.562.000.000",
+                "2": "-",
+                "3": "36.562.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Gớp vốn hợp tác kinh doanh với Công ty CP Bất động sản Song Lộc (ii)",
+                "1": "10.786.000.000",
+                "2": "-",
+                "3": "10.786.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Đặt cọc đầu tư xây dựng DA xây dựng lại khu tập thể 3A - Công ty CP Nhật Quân Anh (iii)",
+                "1": "30.000.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "77.348.000.000",
+                "2": "-",
+                "3": "47.348.000.000",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_16",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "(i) Hợp đồng hợp tác kinh doanh số 02/2011/HĐHT về việc góp vốn tham gia hoạt động sản xuất kinh doanh ngày 24/01/2011:\n\n- Tổng số vốn góp là 121.873.000.000 VND: đợt 1 là 36.562.000.000 VND ngay sau ký hợp đồng, đợt tiếp theo là 85.311.000.000 VND khi nhận được yêu cầu của bên nhận góp vốn.\n\n- Phân chia kết quả: Kết quả thực hiện dự án được xác định bằng toàn bộ các khoản thu được từ hoạt động kinh doanh trừ đi các khoản chi phí liên quan đến hoạt động sản xuất kinh doanh của Công ty theo tỷ lệ vốn kinh doanh hàng năm Công ty CP Đầu tư Văn Phú - Land thực hiện.\n\n(ii) Khoản góp vốn hợp tác kinh doanh - Công ty CP Bất động sản Song Lộc theo Hợp đồng nguyên tắc hợp tác kinh doanh số 1/12/HĐNT/2014 ngày 31/12/2014 và Hợp đồng nguyên tắc hợp tác kinh doanh số 57/HĐNT/2015 ngày 28/10/2015:\n\n- Nội dung: Công ty CP Bắt động sản Song Lộc thực hiện đầu tư một số các dự án và các hoạt động sản xuất kinh doanh khác theo đúng quy định của pháp luật, Công ty CP Đầu tư Văn Phú - Invest sẽ cùng tham gia vào các giai đoạn công việc và cùng chia sẻ lợi ích, rủi ro phát sinh từ việc hợp tác kinh doanh theo các thỏa thuận của các bên.\n\n- Phân chia kết quả: Công ty CP Đầu tư Văn Phú - Invest được phân chia lợi nhuận hoặc được quyền mua sản phẩm các dự án theo tỷ lệ sẽ được quy định cụ thể trong hợp đồng hợp tác kinh doanh chính thức.\n\n(iii) Hợp đồng đặt cọc số 11/HĐ/VPI-NAQ ngày 11/04/2016: khoản đặt cọc nhằm mục đích được hợp tác đầu tư cùng thực hiện Dự án xây dựng lại khu tập thể số 3A Quang Trung, quận Hoàn Kiểm, TP. Hà Nội do Công ty CP Nhật Quân Anh là chủ đầu tư khi có đủ điều kiện. Sau khi hoàn tất các thủ tục pháp lý, thủ tục hành chính có liên quan để được quyền huy động vốn thực hiện Dự án theo quy định của pháp luật, các bên sẽ tiến hành ký kết Hợp đồng hợp tác đầu tư thực hiện Dự án.\n\n21\n\n\n\nCÔNG TY CÓ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nc) Phải thu khác của các bên liên quan",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trị VND",
+                "2": "Dự phòng VND",
+                "3": "Giá trị VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - Land",
+                "1": "36.568.000.000",
+                "2": "-",
+                "3": "36.568.000.000",
+                "4": "-"
+            },
+            {
+                "0": "Công ty TNHH MTV Đầu tư Văn Phú Giảng Võ",
+                "1": "7.562.535.911",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Công ty CP ĐT Văn Phú - House",
+                "1": "2.716.564.564",
+                "2": "-",
+                "3": "2.713.564.564",
+                "4": "-"
+            },
+            {
+                "0": "Công ty CP SX và TM Tây Hà",
+                "1": "4.020.607.137",
+                "2": "-",
+                "3": "3.197.257.153",
+                "4": "-"
+            },
+            {
+                "0": "Công ty CP Thời trang Gina Le",
+                "1": "3.016.667",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "50.870.724.279",
+                "2": "-",
+                "3": "42.478.821.717",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_17",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "Nợ xấu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "31/12/2016",
+                "4": "01/01/2016",
+                "5": "01/01/2016",
+                "6": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "T/g quá hạn",
+                "2": "Giá gốcVND",
+                "3": "Giá trị có thể thu hồiVND",
+                "4": "T/g quá hạn",
+                "5": "Giá gốcVND",
+                "6": "Giá trị có thể thu hồiVND"
+            },
+            {
+                "0": "Công ty Xây lắp 665 - Bộ Quốc phòng",
+                "1": "10 năm",
+                "2": "252.468.507",
+                "3": "-",
+                "4": "9 năm",
+                "5": "252.468.507",
+                "6": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "",
+                "2": "252.468.507",
+                "3": "-",
+                "4": "",
+                "5": "252.468.507",
+                "6": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_18",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "06. Hàng tồn kho",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc VND",
+                "2": "Dự phòng VND",
+                "3": "Giá gốc VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Chi phí sản xuất, kinh doanh dở dang",
+                "1": "1.113.444.121.557",
+                "2": "-",
+                "3": "1.031.442.140.241",
+                "4": "-"
+            },
+            {
+                "0": "Hàng hoá",
+                "1": "2.435.263.341",
+                "2": "-",
+                "3": "45.803.465.656",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.115.879.384.898",
+                "2": "-",
+                "3": "1.077.245.605.897",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_19",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "- Giá trị hàng tồn kho dùng để thế chấp, cầm cố bảo đảm các khoản vay ngân hàng tại thời điểm cuối kỳ: 864.319.106.381 đồng.\n\nChi tiết chi phí sản xuất, kinh doanh dở dang",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016VND",
+                "2": "01/01/2016VND"
+            },
+            {
+                "0": "Ngắn hạn",
+                "1": "1.113.444.121.557",
+                "2": "1.031.442.140.241"
+            },
+            {
+                "0": "Dự án nhà ở thấp tầng V5+V6 - KĐT Văn Phú (i)",
+                "1": "192.766.871.955",
+                "2": "9.277.617.319"
+            },
+            {
+                "0": "Dự án KĐT An Hưng (ii)",
+                "1": "699.949.203.659",
+                "2": "691.108.231.795"
+            },
+            {
+                "0": "Dự án Thảo Điền - TP. HCM (iii)",
+                "1": "163.245.944.314",
+                "2": "162.739.089.440"
+            },
+            {
+                "0": "Các dự án khác",
+                "1": "57.482.101.629",
+                "2": "168.317.201.687"
+            },
+            {
+                "0": "Dài hạn",
+                "1": "39.576.448.077",
+                "2": "39.045.669.459"
+            },
+            {
+                "0": "Dự án Nam Sầm Sơn - Thanh Hoá (iv)",
+                "1": "39.576.448.077",
+                "2": "39.045.669.459"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.153.020.569.634",
+                "2": "1.070.487.809.700"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_20",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "22\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\n(i) Dự án nhà ở thấp tầng V5+V6 được xây dựng tại lô đất V5 và V6 thuộc khu đô thị Văn Phú, có diện tích quy hoạch là 18.430 m2. Dự án bao gồm 148 ô liền kể có diện tích 73 - 215 m2 với mật độ xây dựng dưới 60%.\n\n(ii) Dự án KĐT An Hưng được nhận chuyển nhượng từ Công ty CP Đầu tư Đô thị An Hưng, tổng giá trị chuyển nhượng đã bao gồm thuế GTGT là 747.060.300.000 đồng.\n\nCông ty được cấp Giấy chứng nhận quyền sử dụng đất cho Dự án số CC216528 ngày 14/12/2015, tổng diện tích 35.574 m2, mục đích sử dụng để thực hiện Dự án xây dựng công trình tổ hợp thương mại dịch vụ và căn hộ cao cấp An Hưng.\n\n(iii) Dự án Thảo Điền - TP.HCM được nhận chuyển nhượng từ Công ty TNHH Xây dựng Thế Minh, tổng giá trị chuyển nhượng đã bao gồm thuế GTGT là 162.000.000.000 đồng.\n\nCông ty được cấp Giấy chứng nhận quyền sử dụng đất cho Dư án số BA881005 ngày 15/01/2010, tổng diện tích 4.967 m2, mục đích sử dụng để xây dựng chung cư.\n\n(iv) Dự án Nam Sầm Sơn - Thanh Hóa được chấp thuận đầu tư xây dựng và kinh doanh hạ tầng Khu biệt thự Hùng Sơn - Nam Sầm Sơn theo Văn bản số 4038/QĐ-CT ngày 15/12/2004 của Ủy ban nhân dân tỉnh Thanh Hóa, tổng diện tích 26,09 ha.\n\n07. Tăng, giảm tài sản cố định hữu hình",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Phương tiện vận tải,truyền dẫnVND",
+                "2": "Thiết bị, dụng cụquản lýVND",
+                "3": "Tổng cộngVND"
+            },
+            {
+                "0": "NGUYÊN GIÁ",
+                "1": "NGUYÊN GIÁ",
+                "2": "NGUYÊN GIÁ",
+                "3": "NGUYÊN GIÁ"
+            },
+            {
+                "0": "Số dư tại 01/01/2016",
+                "1": "9.673.978.686",
+                "2": "752.837.567",
+                "3": "10.426.816.253"
+            },
+            {
+                "0": "Mua trong kỳ",
+                "1": "5.147.003.636",
+                "2": "-",
+                "3": "5.147.003.636"
+            },
+            {
+                "0": "Tăng khác",
+                "1": "2.778.293.148",
+                "2": "-",
+                "3": "2.778.293.148"
+            },
+            {
+                "0": "Thanh lý, nhượng bán",
+                "1": "(3.614.871.444)",
+                "2": "-",
+                "3": "(3.614.871.444)"
+            },
+            {
+                "0": "Số dư tại 31/12/2016",
+                "1": "13.984.404.026",
+                "2": "752.837.567",
+                "3": "14.737.241.593"
+            },
+            {
+                "0": "GIÁ TRỊ HAO MÒN",
+                "1": "GIÁ TRỊ HAO MÒN",
+                "2": "GIÁ TRỊ HAO MÒN",
+                "3": "GIÁ TRỊ HAO MÒN"
+            },
+            {
+                "0": "Số dư tại 01/01/2016",
+                "1": "5.050.308.021",
+                "2": "752.837.567",
+                "3": "5.803.145.588"
+            },
+            {
+                "0": "Khấu hao trong năm",
+                "1": "1.775.453.337",
+                "2": "-",
+                "3": "1.775.453.337"
+            },
+            {
+                "0": "Thanh lý, nhượng bán",
+                "1": "(3.397.036.191)",
+                "2": "-",
+                "3": "(3.397.036.191)"
+            },
+            {
+                "0": "Số dư tại 31/12/2016",
+                "1": "3.428.725.167",
+                "2": "752.837.567",
+                "3": "4.181.562.734"
+            },
+            {
+                "0": "GIÁ TRỊ CÒN LẠI",
+                "1": "GIÁ TRỊ CÒN LẠI",
+                "2": "GIÁ TRỊ CÒN LẠI",
+                "3": "GIÁ TRỊ CÒN LẠI"
+            },
+            {
+                "0": "Số dư tại 01/01/2016",
+                "1": "4.623.670.665",
+                "2": "-",
+                "3": "4.623.670.665"
+            },
+            {
+                "0": "Số dư tại 31/12/2016",
+                "1": "10.555.678.859",
+                "2": "-",
+                "3": "10.555.678.859"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_21",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "- Nguyên giá TSCĐ hữu hình cuối năm đã khấu hao hết nhưng vấn còn sử dụng: 2.423.624.809\n\n23\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\n08. Các khoản đầu tư tài chính",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "31/12/2016",
+                "4": "01/01/2016",
+                "5": "01/01/2016",
+                "6": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc VND",
+                "2": "DP VND",
+                "3": "Giá hợp lý VND",
+                "4": "Giá gốc VND",
+                "5": "DP VND",
+                "6": "Giá hợp lý VND"
+            },
+            {
+                "0": "Đầu tư vào công ty con",
+                "1": "481.894.535.000",
+                "2": "-",
+                "3": "481.894.535.000",
+                "4": "235.417.900.208",
+                "5": "-",
+                "6": "235.417.900.208"
+            },
+            {
+                "0": "Công ty TNHH MTV Đầu tư Văn Phú Giăng Võ (i)",
+                "1": "428.000.000.000",
+                "2": "-",
+                "3": "428.000.000.000",
+                "4": "190.315.365.208",
+                "5": "-",
+                "6": "190.315.365.208"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - Land",
+                "1": "36.886.535.000",
+                "2": "-",
+                "3": "36.886.535.000",
+                "4": "36.886.535.000",
+                "5": "-",
+                "6": "36.886.535.000"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - IBS",
+                "1": "12.008.000.000",
+                "2": "-",
+                "3": "12.008.000.000",
+                "4": "8.216.000.000",
+                "5": "-",
+                "6": "8.216.000.000"
+            },
+            {
+                "0": "Công ty CP Văn Phú Bắc Ái",
+                "1": "5.000.000.000",
+                "2": "-",
+                "3": "5.000.000.000",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Đầu tư vào công ty liên doanh, liên kết",
+                "1": "208.263.903.175",
+                "2": "-",
+                "3": "208.263.903.175",
+                "4": "129.790.706.000",
+                "5": "-",
+                "6": "129.790.706.000"
+            },
+            {
+                "0": "Công ty CP ĐT BOT Hà Nội - Bắc Giang",
+                "1": "163.786.400.000",
+                "2": "-",
+                "3": "163.786.400.000",
+                "4": "129.790.706.000",
+                "5": "-",
+                "6": "129.790.706.000"
+            },
+            {
+                "0": "Công ty CP In và Văn hóa phẩm",
+                "1": "33.777.503.175",
+                "2": "-",
+                "3": "33.777.503.175",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Công ty CP Tài nguyên và Môi trường Trường Minh",
+                "1": "9.100.000.000",
+                "2": "-",
+                "3": "9.100.000.000",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - IPS",
+                "1": "1.600.000.000",
+                "2": "-",
+                "3": "1.600.000.000",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Đầu tư vào đơn vị khác",
+                "1": "4.565.000.000",
+                "2": "-",
+                "3": "4.565.000.000",
+                "4": "215.495.000.000",
+                "5": "-",
+                "6": "215.495.000.000"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - Bắc Ái",
+                "1": "4.565.000.000",
+                "2": "-",
+                "3": "4.565.000.000",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - Mineral",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "1.610.000.000",
+                "5": "-",
+                "6": "1.610.000.000"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - House (ii)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "179.675.000.000",
+                "5": "-",
+                "6": "179.675.000.000"
+            },
+            {
+                "0": "Công ty CP Sản xuất và Thương mại Tây Hà",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "23.700.000.000",
+                "5": "-",
+                "6": "23.700.000.000"
+            },
+            {
+                "0": "Công ty CP Tư vấn đầu tư và Phát triển kiến trúc IDEA",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "360.000.000",
+                "5": "-",
+                "6": "360.000.000"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú số 1",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "10.000.000.000",
+                "5": "-",
+                "6": "10.000.000.000"
+            },
+            {
+                "0": "Công ty CP Thời trang Gina Le",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "150.000.000",
+                "5": "-",
+                "6": "150.000.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "694.723.438.175",
+                "2": "-",
+                "3": "694.723.438.175",
+                "4": "580.703.606.208",
+                "5": "-",
+                "6": "580.703.606.208"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_22",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "(i) Công ty thực hiện góp bổ sung vốn vào Công ty TNHH MTV Đầu tư Văn Phú - Giảng Võ theo Nghị quyết HĐQT số 09/NQ-HĐQT ngày 27/01/2015.\n(ii) Công ty thực hiện chuyển nhượng toàn bộ cổ phần đầu tư vào Công ty CP Đầu tư Văn Phú - House theo Nghị quyết HĐQT số 52/NQ-HĐQT ngày 28/12/2016, giá chuyển nhượng 10.000 VND/cổ phần.\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\n24\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nThông tin chỉ tiết các khoản đầu tư vào công ty con:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "31/12/2016",
+                "4": "01/01/2016",
+                "5": "01/01/2016",
+                "6": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Số lượngCP",
+                "2": "Tỷ lệ lợi ích%",
+                "3": "Tỷ lệ biểu quyết%",
+                "4": "Số lượngCP",
+                "5": "Tỷ lệ lợi ích%",
+                "6": "Tỷ lệ biểu quyết%"
+            },
+            {
+                "0": "Công ty TNHH MTV Đầu tư Văn Phú Giảng Võ",
+                "1": "",
+                "2": "100%",
+                "3": "100%",
+                "4": "",
+                "5": "100%",
+                "6": "100%"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - Land",
+                "1": "3.688.654",
+                "2": "80,04%",
+                "3": "80,04%",
+                "4": "3.688.654",
+                "5": "80,04%",
+                "6": "80,04%"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - IBS",
+                "1": "1.200.800",
+                "2": "76,00%",
+                "3": "76,00%",
+                "4": "821.600",
+                "5": "52,00%",
+                "6": "52,00%"
+            },
+            {
+                "0": "Công ty CP Văn Phú Bắc Ái (i)",
+                "1": "500.000",
+                "2": "33,33%",
+                "3": "33,33%",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_23",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "(i) Công ty CP Văn Phú Bắc Ái thành lập ngày 23/11/2016. Theo cam kết tiến độ góp vốn, tỷ lệ góp vốn của Công ty CP Đầu tư Văn Phú - Invest trong Công ty CP Văn Phú Bắc Ái là 60%. Đến ngày 24/03/2017, Công ty CP Đầu tư Văn Phú - Invest đã góp đủ vốn theo cam kết.\n\nHoạt động kinh doanh chính của các công ty con:\n\n- Công ty TNHH MTV Văn Phú - Giảng Võ được thành lập theo Giấy chứng nhận đăng ký doanh nghiệp số 0106746133 do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp, với số vốn điều lệ là 428.000.000.000 VND. Trụ sở chính tại số 177 phố Trung Kính, phường Yên Hoà, quận Cầu Giấy, Tp. Hà Nội. Hoạt động chính là kinh doanh bất động sản.\n\n- Công ty CP Đầu tư Văn Phú - Land được thành lập theo Giấy chứng nhận đăng ký doanh nghiệp số 0103015142 do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp, với số vốn điều lệ là 258.000.000.000 VND. Trụ sở chính tại số 24-N7B, Khu đô thị Trung Hòa - Nhân Chính, quận Thanh Xuân, Tp. Hà Nội. Hoạt động chính là kinh doanh bất động sản.\n\n- Công ty CP Đầu tư Văn Phú - IBS được thành lập theo Giấy chứng nhận đăng ký doanh nghiệp số 0106226215 do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp, với số vốn điều lệ là 35.800.000.000 VND. Trụ sở chính tại số 177 phố Trung Kính, phường Yên Hoà, quận Cầu Giấy, Tp. Hà Nội. Hoạt động chính là kinh doanh bất động sản.\n\n- Công ty CP Văn Phú Bắc Ái được thành lập theo Giấy chứng nhận đăng ký doanh nghiệp số 0314126148 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp, với số vốn điều lệ là 150.000.000.000 VND. Trụ sở chính tại số 129 Đình Tiên Hoàng, phường 3, quận Bình Thạnh, Tp. Hồ Chí Minh. Hoạt động chính là kinh doanh bất động sản.\n\nThông tin chỉ tiết các khoản đầu tư vào công ty liên doanh, liên kết:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "31/12/2016",
+                "4": "01/01/2016",
+                "5": "01/01/2016",
+                "6": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Số lượngCP",
+                "2": "Tỷ lệ sở hữu%",
+                "3": "Tỷ lệ biểu quyết%",
+                "4": "Số lượngCP",
+                "5": "Tỷ lệ sở hữu%",
+                "6": "Tỷ lệ biểu quyết%"
+            },
+            {
+                "0": "Công ty CP ĐT BOT Hà Nội - Bắc Giang (i)",
+                "1": "16.378.640",
+                "2": "33,00%",
+                "3": "33,00%",
+                "4": "12.979.071",
+                "5": "30,69%",
+                "6": "30,69%"
+            },
+            {
+                "0": "Công ty CP In và Văn hóa phẩm",
+                "1": "3.377.750",
+                "2": "46,89%",
+                "3": "46,89%",
+                "4": "",
+                "5": "",
+                "6": ""
+            },
+            {
+                "0": "Công ty CP Tài nguyên và Môi trường Trường Minh (ii)",
+                "1": "910.000",
+                "2": "64,54%",
+                "3": "35,00%",
+                "4": "",
+                "5": "",
+                "6": ""
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - IPS (iii)",
+                "1": "160.000",
+                "2": "44,44%",
+                "3": "40,00%",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_24",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "25\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\n(i) Khoản vốn góp thành lập Công ty CP Đầu tư BOT Hà Nội - Bắc Giang để thực hiện Dự án BOT đường cao tốc Hà Nội - Bắc Giang.\n\n(ii) Tại thời điểm 31/12/2016, tỷ lệ vốn thực góp của Công ty CP Đầu tư Văn Phú Invest trong Công ty CP Tài nguyên và Môi trường Trường Minh là 64,54%, tuy nhiên tỷ lệ vốn góp theo cam kết là 35% (do các bên đang góp vốn theo tiến độ cam kết).\n\n(iii) Tại thời điểm 31/12/2016, tỷ lệ vốn thực góp của Công ty CP Đầu tư Văn Phú Invest trong Công ty CP Đầu tư Văn Phú - IPS là 44,44%, tuy nhiên tỷ lệ vốn góp theo cam kết là 40%.\n\n09. Chi phí trả trước dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016VND",
+                "2": "01/01/2016VND"
+            },
+            {
+                "0": "Công cụ, dụng cụ xuất dùng",
+                "1": "80.576.360",
+                "2": "30.176.136"
+            },
+            {
+                "0": "Chi phí sửa chữa văn phòng",
+                "1": "128.572.157",
+                "2": "2.386.723.221"
+            },
+            {
+                "0": "Chi phí sửa chữa xe ô tô",
+                "1": "603.380.000",
+                "2": "-"
+            },
+            {
+                "0": "Các khoản khác",
+                "1": "287.417.336",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.099.945.853",
+                "2": "2.416.899.357"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_25",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "10. Phải trả người bán\n\na) Phải trả người bán ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trịVND",
+                "2": "Số có khã năng trả nợVND",
+                "3": "Giá trịVND",
+                "4": "Số có khã năng trả nợVND"
+            },
+            {
+                "0": "Công ty Galaxy Việt Nam",
+                "1": "725.338.062",
+                "2": "725.338.062",
+                "3": "7.070.338.062",
+                "4": "7.070.338.062"
+            },
+            {
+                "0": "Công ty TNHH Bình Yên",
+                "1": "12.888.510.919",
+                "2": "12.888.510.919",
+                "3": "5.693.461.831",
+                "4": "5.693.461.831"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú số 1",
+                "1": "24.462.464.000",
+                "2": "24.462.464.000",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Phải trả cho các đối tượng khác",
+                "1": "63.117.066.061",
+                "2": "63.117.066.061",
+                "3": "60.973.382.959",
+                "4": "60.973.382.959"
+            },
+            {
+                "0": "Cộng",
+                "1": "101.193.379.042",
+                "2": "101.193.379.042",
+                "3": "73.737.182.852",
+                "4": "73.737.182.852"
+            },
+            {
+                "0": "",
+                "1": "Giá trịVND",
+                "2": "Số có khànăng trả nợVND",
+                "3": "Giá trịVND",
+                "4": "Số có khànăng trả nợVND"
+            },
+            {
+                "0": "Công ty CP ĐT và PTThương mại Văn Phú",
+                "1": "194.193.289",
+                "2": "194.193.289",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - Mineral",
+                "1": "292.632.000",
+                "2": "292.632.000",
+                "3": "292.632.000",
+                "4": "292.632.000"
+            },
+            {
+                "0": "Công ty CP Tư vấn ĐTVà PT kiến trúc I.D.E.A",
+                "1": "525.508.550",
+                "2": "525.508.550",
+                "3": "448.550",
+                "4": "448.550"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú số 1",
+                "1": "24.462.464.000",
+                "2": "24.462.464.000",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "25.474.797.839",
+                "2": "25.474.797.839",
+                "3": "293.080.550",
+                "4": "293.080.550"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_26",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "26\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\n11. Chi phí phải trả ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016VND",
+                "2": "01/01/2016VND"
+            },
+            {
+                "0": "Chi phí trích trước dự án Văn Phú",
+                "1": "Chi phí trích trước dự án Văn Phú",
+                "2": "Chi phí trích trước dự án Văn Phú"
+            },
+            {
+                "0": "Hạng mục Hạ tầng kỹ thuật",
+                "1": "493.259.698.655",
+                "2": "538.781.864.836"
+            },
+            {
+                "0": "Hạng mục Nhà xây thổ thấp tầng",
+                "1": "3.782.562.652",
+                "2": "3.782.562.652"
+            },
+            {
+                "0": "Hạng mục Nhà cao tầng - CT9",
+                "1": "191.030.079.113",
+                "2": "220.741.004.224"
+            },
+            {
+                "0": "Cộng",
+                "1": "688.072.340.420",
+                "2": "763.305.431.712"
+            },
+            {
+                "0": "Doanh thu nhận trước",
+                "1": "301.449.571.462",
+                "2": "-"
+            },
+            {
+                "0": "Dự án nhà thấp tầng V5+V6 KĐT Văn Phú",
+                "1": "300.358.434.562",
+                "2": "-"
+            },
+            {
+                "0": "Dự án nhà cao tầng CT9 KĐT Văn Phú",
+                "1": "1.091.136.900",
+                "2": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "301.449.571.462",
+                "2": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_27",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "13. Phải trả khác\n\na) Ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trịVND",
+                "2": "Số có khảnăng trả nợVND",
+                "3": "Giá trịVND",
+                "4": "Số có khảnăng trả nợVND"
+            },
+            {
+                "0": "Bảo hiểm xã hội",
+                "1": "-",
+                "2": "-",
+                "3": "606.488",
+                "4": "606.488"
+            },
+            {
+                "0": "Công ty CP Đầu tư VănPhú-Land (i)",
+                "1": "49.300.000.000",
+                "2": "49.300.000.000",
+                "3": "49.300.000.000",
+                "4": "49.300.000.000"
+            },
+            {
+                "0": "Phải trả khác",
+                "1": "82.322.484.356",
+                "2": "82.322.484.356",
+                "3": "71.808.335.903",
+                "4": "71.808.335.903"
+            },
+            {
+                "0": "Cộng",
+                "1": "131.622.484.356",
+                "2": "131.622.484.356",
+                "3": "121.108.942.391",
+                "4": "121.108.942.391"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_28",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "(i) Khoản nhận góp vốn hợp tác kinh doanh với Công ty CP Đầu tư Văn Phú - Land theo Hợp đồng nguyên tắc hợp tác kinh doanh số 19/HĐNT/2011 ngày 13/06/2011, số 07/HĐNT/2012 ngày 12/01/2012 và số 12/HĐNT/2013 ngày 10/04/2013:\n\n- Nội dung: Công ty CP Đầu tư Văn Phú - Invest thực hiện đầu tư một số các dự án và các hoạt động sản xuất kinh doanh khác, Công ty CP Đầu tư Văn Phú - Land sẽ cùng tham gia vào các giai đoạn công việc và cùng chia sẻ lợi ích, rủi ro phát sinh từ việc hợp tác kinh doanh theo các thỏa thuận của các bên.\n\n- Phân chia kết quả: Công ty CP Đầu tư Văn Phú - Land được phân chia lợi nhuận hoặc được quyền mua sản phẩm các dự án theo tỷ lệ sẽ được quy định cụ thể trong hợp đồng hợp tác kinh doanh chính thức.\n\n27\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nb) Dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trịVND",
+                "2": "Số có khảnăng trả nợVND",
+                "3": "Giá trịVND",
+                "4": "Số có khảnăng trả nợVND"
+            },
+            {
+                "0": "Công ty TNHH MTV ĐTVăn Phú-Trung Kính (ii)",
+                "1": "362.318.636.432",
+                "2": "362.318.636.432",
+                "3": "357.213.649.331",
+                "4": "357.213.649.331"
+            },
+            {
+                "0": "Nhận góp vốn hợp táckinh doanh - Công ty CPVăn Phú-Holdings",
+                "1": "25.600.000.000",
+                "2": "25.600.000.000",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "387.918.636.432",
+                "2": "387.918.636.432",
+                "3": "357.213.649.331",
+                "4": "357.213.649.331"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_29",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "(ii) Hợp đồng hợp tác đầu tư ngày 09/01/2015:\n\n- Nội dung: Công ty CP Đầu tư Văn Phú - Invest và Công ty TNHH MTV Đầu tư Văn Phú Trung Kính cùng hợp tác đầu tư nhận chuyển nhượng quyền sử dụng đất và quyền phát triển dự án trên đất đối với ô đất quy hoạch ký hiệu TTDV-01 Khu đô thị mới An Hưng, quận Hà Đông, TP. Hà Nội của Công ty CP Đầu tư đô thị An Hưng;\n\n- Vốn góp của các bên: Giá nhận chuyển nhượng dự kiến là 800.000.000.000 VND, giá trị vốn góp mỗi bên là 400.000.000.000 VND, Công ty TNHH MTV Đầu tư Văn Phú Trung Kính có trách nhiệm chuyển tiền góp vốn cho Công ty Văn Phú - Invest;\n\n- Phân chia lợi nhuận: Sau khi Công ty CP Đầu tư Văn Phú - Invest hoàn tất thủ tục nhận chuyển nhượng theo quy định của pháp luật, các bên sẽ tiến hành thỏa thuận phương thức đầu tư Dự án trên khu đất nhận chuyển nhượng, phương thức phân chia lợi nhuận khi đưa Dự án vào kinh doanh, phù hợp với mục đích hợp tác, phù hợp ngành nghề đăng ký kinh doanh của các bên và theo quy định của pháp luật.\n\nc) Phải trả khác cho các bên liên quan",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trịVND",
+                "2": "Số có khảnăng trả nợVND",
+                "3": "Giá trịVND",
+                "4": "Số có khảnăng trả nợVND"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú-Land",
+                "1": "49.300.000.000",
+                "2": "49.300.000.000",
+                "3": "49.300.000.000",
+                "4": "49.300.000.000"
+            },
+            {
+                "0": "Công ty CP ĐT BOT Hà Nội - Bắc Giang",
+                "1": "12.936.000.000",
+                "2": "12.936.000.000",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Công ty CP Văn Phú Holdings",
+                "1": "25.600.000.000",
+                "2": "25.600.000.000",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "87.836.000.000",
+                "2": "87.836.000.000",
+                "3": "49.300.000.000",
+                "4": "49.300.000.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_30",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "28\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\n14. Thuế và các khoản phải nộp Nhà nước\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số phải thu cuối năm VND",
+                "2": "Số phải nộp cuối năm VND",
+                "3": "Số đã thực nộp trong năm VND",
+                "4": "Số phải nộp trong năm VND",
+                "5": "Số phải thu đầu năm VND",
+                "6": "Số phải nộp đầu năm VND"
+            },
+            {
+                "0": "Thuế tiêu thụ đặc biệt",
+                "1": "-",
+                "2": "-",
+                "3": "766.113.075",
+                "4": "766.113.075",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Thuế xuất, nhập khẩu",
+                "1": "-",
+                "2": "-",
+                "3": "630.916.650",
+                "4": "630.916.650",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Thuế thu nhập doanh nghiệp",
+                "1": "-",
+                "2": "2.516.740.545",
+                "3": "2.337.000.000",
+                "4": "5.896.916.890",
+                "5": "1.043.176.345",
+                "6": "-"
+            },
+            {
+                "0": "Thuế thu nhập cá nhân",
+                "1": "-",
+                "2": "25.476.863",
+                "3": "296.979.073",
+                "4": "367.286.421",
+                "5": "44.830.485",
+                "6": "-"
+            },
+            {
+                "0": "Các loại thuế khác",
+                "1": "-",
+                "2": "-",
+                "3": "326.551.390",
+                "4": "403.463.179",
+                "5": "76.911.789",
+                "6": "-"
+            },
+            {
+                "0": "Phí, lệ phí và các khoản khác",
+                "1": "-",
+                "2": "-",
+                "3": "968.760.000",
+                "4": "968.760.000",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "-",
+                "2": "2.542.217.408",
+                "3": "5.326.320.188",
+                "4": "9.033.456.215",
+                "5": "1.164.918.619",
+                "6": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_31",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "15. Vay và nợ thuê tài chính\na) Vay ngắn hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "Trong năm",
+                "4": "Trong năm",
+                "5": "01/01/2016",
+                "6": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trịVND",
+                "2": "Số có khànăng trả nợVND",
+                "3": "TăngVND",
+                "4": "GiảmVND",
+                "5": "Giá trịVND",
+                "6": "Số có khànăng trả nợVND"
+            },
+            {
+                "0": "Ngân hàng TNHH Indovina - CN Thiên Long (i)",
+                "1": "326.163.609.204",
+                "2": "326.163.609.204",
+                "3": "595.463.248.579",
+                "4": "412.433.735.868",
+                "5": "143.134.096.493",
+                "6": "143.134.096.493"
+            },
+            {
+                "0": "Ngân hàng TMCP Kỹ thương Việt Nam - CNThăng Long (ii)",
+                "1": "131.793.494.000",
+                "2": "131.793.494.000",
+                "3": "170.981.494.000",
+                "4": "49.655.000.000",
+                "5": "10.467.000.000",
+                "6": "10.467.000.000"
+            },
+            {
+                "0": "Vay của đối tượng khác",
+                "1": "55.000.000.000",
+                "2": "55.000.000.000",
+                "3": "5.000.000.000",
+                "4": "72.000.000",
+                "5": "50.072.000.000",
+                "6": "50.072.000.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "512.957.103.204",
+                "2": "512.957.103.204",
+                "3": "771.444.742.579",
+                "4": "462.160.735.868",
+                "5": "203.673.096.493",
+                "6": "203.673.096.493"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_32",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "29\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nb) Vay dài hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "Trong năm",
+                "4": "Trong năm",
+                "5": "01/01/2016",
+                "6": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trịVND",
+                "2": "Số có khảnăng trả nợVND",
+                "3": "TăngVND",
+                "4": "GiảmVND",
+                "5": "Giá trịVND",
+                "6": "Số có khảnăng trả nợVND"
+            },
+            {
+                "0": "Tô Như Toàn (iii)",
+                "1": "31.923.508.000",
+                "2": "31.923.508.000",
+                "3": "160.000.000.000",
+                "4": "299.833.125.000",
+                "5": "171.756.633.000",
+                "6": "171.756.633.000"
+            },
+            {
+                "0": "Tô Như Thắng (iv)",
+                "1": "27.500.000.000",
+                "2": "27.500.000.000",
+                "3": "40.000.000.000",
+                "4": "12.500.000.000",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Cộng",
+                "1": "59.423.508.000",
+                "2": "59.423.508.000",
+                "3": "200.000.000.000",
+                "4": "312.333.125.000",
+                "5": "171.756.633.000",
+                "6": "171.756.633.000"
+            },
+            {
+                "0": "c) Vay các bên liên quan",
+                "1": "c) Vay các bên liên quan",
+                "2": "c) Vay các bên liên quan",
+                "3": "c) Vay các bên liên quan",
+                "4": "c) Vay các bên liên quan",
+                "5": "c) Vay các bên liên quan",
+                "6": "c) Vay các bên liên quan"
+            },
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "Trong năm",
+                "4": "Trong năm",
+                "5": "01/01/2016",
+                "6": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá trịVND",
+                "2": "Số có khảnăng trả nợVND",
+                "3": "TăngVND",
+                "4": "GiảmVND",
+                "5": "Giá trịVND",
+                "6": "Số có khảnăng trả nợVND"
+            },
+            {
+                "0": "Tô Như Toàn",
+                "1": "31.923.508.000",
+                "2": "31.923.508.000",
+                "3": "160.000.000.000",
+                "4": "299.833.125.000",
+                "5": "171.756.633.000",
+                "6": "171.756.633.000"
+            },
+            {
+                "0": "Tô Như Thắng",
+                "1": "27.500.000.000",
+                "2": "27.500.000.000",
+                "3": "40.000.000.000",
+                "4": "12.500.000.000",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Tạ Hữu Long",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "72.000.000",
+                "5": "72.000.000",
+                "6": "72.000.000"
+            },
+            {
+                "0": "Cộng",
+                "1": "59.423.508.000",
+                "2": "59.423.508.000",
+                "3": "200.000.000.000",
+                "4": "312.405.125.000",
+                "5": "171.828.633.000",
+                "6": "171.828.633.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_33",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "(i) Hợp đồng hạn mức tín dụng số 40/2016/HĐHM/IVBTL-VPINVEST ngày 25/04/2016:\n\n- Hạn mức khoản vay 600.000.000.000 VND;\n\n- Thời hạn hạn mức 01 năm; Thời hạn các khoản vay thông thường không quá 10 tháng kể từ ngày giải ngân;\n\n- Lãi suất từ 7%-8,25%/năm;\n\n- Biện pháp bảo đảm:\n\nThế chấp quyền sử dụng đất và tài sản gắn liền với đất tại số 92 Khuất Duy Tiến, quận Thanh Xuân, TP. Hà Nội;\n\nThế chấp quyền sử dụng đất tại thừa đất số HH1, KDTM Văn Phú, quận Hà Đông, TP. Hà Nội;\n\nThế chấp quyền sử dụng đất, quyền sở hữu nhà và tài sản gắn liền với đất tại khu đất ký hiệu TTDV-01, KĐT An Hưng, quận Hà Đông, TP. Hà Nội.\n\n30\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\n(ii) Hợp đồng tín dụng số TLG20160695/HĐTD ngày 19/09/2016 và Phụ lục số TL20150622/HĐCTD/PL03 ngày 19/09/2016:\n\n- Hạn mức khoản vay 165.000.000.000 VND;\n\n- Thời hạn sử dụng hạn mức 12 tháng; Thời hạn các khoản vay theo từng khế ước nhận nợ là 06 tháng;\n\n- Lãi suất từ 7%-8%/năm;\n\n- Mục đích vay: bổ sung vốn lưu động góp vốn vào Công ty TNHH MTV Đầu tư Văn Phú Giảng Võ để thực hiện xây dựng trường Đại học y tế Cộng đồng;\n\n- Biện pháp bảo đảm: Thế chấp tài sản gắn liền với đất đã hình thành là công trình xây dựng tại CT9, KDTM Văn Phú, quận Hà Đông, TP. Hà Nội.\n\n(iii) Hợp đồng vay vốn số 04/2011-HĐVV ngày 01/11/2011 và Phụ lục hợp đồng số 49-1/PLHĐ ngày 30/05/2013;\n\n- Số tiền vay 250.000.000.000 VND;\n\n- Thời hạn cho vay là 24 tháng kể từ ngày nhận tiền vay;\n\n- Lãi suất là 0%/năm trong suốt thời gian thực hiện hợp đồng;\n\n- Mục đích vay: phục vụ mục đích kinh doanh.\n\n(iv) Hợp đồng vay vốn số 20/2016-HĐVV ngày 27/06/2016 và Phụ lục hợp đồng số 20-1/PLHĐ ngày 30/06/2016:\n\n- Số tiền vay 100.000.000.000 VND;\n\n- Thời hạn cho vay là 24 tháng kể từ ngày nhận tiền vay;\n\n- Lãi suất là 0%/năm trong suốt thời gian thực hiện hợp đồng;\n\n- Mục đích vay: phục vụ mục đích kinh doanh.\n\n31\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\n16. Vốn chủ sở hữu\n\nBảng đối chiếu biến động vốn chủ sở hữu\n\nBÁO CÁO TÀI CHÍNH RIÊNG\nCho năm tài chính kết thúc ngày 31/12/2016",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn góp của chủ sở hữu VND",
+                "2": "Quỹ đầu tư phát triển VND",
+                "3": "Quỹ khác thuộc vốn chủ sở hữu VND",
+                "4": "LNST chưa phân phối VND",
+                "5": "Tổng cộng VND"
+            },
+            {
+                "0": "Số dư tại 01/01/2015",
+                "1": "538.000.000.000",
+                "2": "15.177.859.740",
+                "3": "7.588.929.869",
+                "4": "59.493.261.962",
+                "5": "620.260.051.571"
+            },
+            {
+                "0": "Giảm vốn trong năm trước (i)",
+                "1": "(275.800.000.000)",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(275.800.000.000)"
+            },
+            {
+                "0": "Lỗ trong năm trước",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(2.511.563.973)",
+                "5": "(2.511.563.973)"
+            },
+            {
+                "0": "Số dư tại 31/12/2015",
+                "1": "262.200.000.000",
+                "2": "15.177.859.740",
+                "3": "7.588.929.869",
+                "4": "56.981.697.989",
+                "5": "341.948.487.598"
+            },
+            {
+                "0": "Số dư tại 01/01/2016",
+                "1": "262.200.000.000",
+                "2": "15.177.859.740",
+                "3": "7.588.929.869",
+                "4": "56.981.697.989",
+                "5": "341.948.487.598"
+            },
+            {
+                "0": "Lãi trong năm nay",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "17.497.041.175",
+                "5": "17.497.041.175"
+            },
+            {
+                "0": "Phân phối lợi nhuận (ii)",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "(5.000.000.000)",
+                "5": "(5.000.000.000)"
+            },
+            {
+                "0": "Số dư tại 31/12/2016",
+                "1": "262.200.000.000",
+                "2": "15.177.859.740",
+                "3": "7.588.929.869",
+                "4": "69.478.739.164",
+                "5": "354.445.528.773"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_34",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "(i) Theo Biên bản hợp Đại hội đồng cổ đông số 58/201/BBH ngày 10/12/2015: Công ty thực hiện tách chuyển một phần cổ phần của các cổ đông cùng với tài sản tương ứng với giá trị cổ phần được tách ra để chuyển sang công ty mới - Công ty CP Đầu tư phát triển Thương mại Văn Phú.\n(ii) Công ty thực hiện phân phối lợi nhuận năm 2015 theo Nghị quyết của Đại hội đồng cổ đông số 24/NQ-ĐHĐCD ngày 02/11/2016: trích quỹ khen thưởng, phúc lợi với số tiền 5.000.000.000 VND.\n\n32\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nChi tiết vốn đầu tư của chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "31/12/2016",
+                "4": "01/01/2016",
+                "5": "01/01/2016",
+                "6": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Số lượng CP",
+                "2": "Giá trị VND",
+                "3": "Tỷ lệ %",
+                "4": "Số lượng CP",
+                "5": "Giá trị VND",
+                "6": "Tỷ lệ %"
+            },
+            {
+                "0": "Ông Tô Như Toàn",
+                "1": "865.260",
+                "2": "86.526.000.000",
+                "3": "33%",
+                "4": "1.494.540",
+                "5": "149.454.000.000",
+                "6": "57%"
+            },
+            {
+                "0": "Ông Tạ Hữu Long",
+                "1": "-",
+                "2": "-",
+                "3": "0%",
+                "4": "367.080",
+                "5": "36.708.000.000",
+                "6": "14%"
+            },
+            {
+                "0": "Ông Nguyễn Minh Tuấn",
+                "1": "-",
+                "2": "-",
+                "3": "0%",
+                "4": "393.300",
+                "5": "39.330.000.000",
+                "6": "15%"
+            },
+            {
+                "0": "Bà Hoàng Thị Liên",
+                "1": "-",
+                "2": "-",
+                "3": "0%",
+                "4": "367.080",
+                "5": "36.708.000.000",
+                "6": "14%"
+            },
+            {
+                "0": "Ông Tô Như Thắng",
+                "1": "524.400",
+                "2": "52.440.000.000",
+                "3": "20%",
+                "4": "-",
+                "5": "-",
+                "6": "0%"
+            },
+            {
+                "0": "Bà Đào Thị Hồng Hạnh",
+                "1": "1.179.900",
+                "2": "117.990.000.000",
+                "3": "45%",
+                "4": "-",
+                "5": "-",
+                "6": "0%"
+            },
+            {
+                "0": "Ông Vũ Thanh Tuấn",
+                "1": "52.440",
+                "2": "5.244.000.000",
+                "3": "2%",
+                "4": "-",
+                "5": "-",
+                "6": "0%"
+            },
+            {
+                "0": "Cộng",
+                "1": "2.622.000",
+                "2": "262.200.000.000",
+                "3": "100%",
+                "4": "2.622.000",
+                "5": "262.200.000.000",
+                "6": "100%"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_35",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "Cổ phiếu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2016Cổ phiếu",
+                "2": "01/01/2016Cổ phiếu"
+            },
+            {
+                "0": "Số lượng cổ phiếu đăng ký phát hành",
+                "1": "2.622.000",
+                "2": "2.622.000"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã bán ra công chúng",
+                "1": "2.622.000",
+                "2": "2.622.000"
+            },
+            {
+                "0": "Cổ phiếu phổ thông",
+                "1": "2.622.000",
+                "2": "2.622.000"
+            },
+            {
+                "0": "Cổ phiếu ưu đãi",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Số lượng cổ phiếu được mua lại",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Cổ phiếu phổ thông",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Cổ phiếu ưu đãi",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Số lượng cổ phiếu đang lưu hành",
+                "1": "2.622.000",
+                "2": "2.622.000"
+            },
+            {
+                "0": "Cổ phiếu phổ thông",
+                "1": "2.622.000",
+                "2": "2.622.000"
+            },
+            {
+                "0": "Cổ phiếu ưu đãi",
+                "1": "-",
+                "2": "-"
+            },
+            {
+                "0": "Mệnh giá cổ phiếu đang lưu hành (đồng/Cổ phiếu)",
+                "1": "100.000",
+                "2": "100.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_36",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "VI. THÔNG TIN BÓ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRONG BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH\n\n01. Doanh thu bán hàng và cung cấp dịch vụ\n\na) Doanh thu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2016VND",
+                "2": "Năm 2015VND"
+            },
+            {
+                "0": "Doanh thu bán hàng",
+                "1": "41.671.700.800",
+                "2": "9.957.008.029"
+            },
+            {
+                "0": "Doanh thu kinh doanh bất động sản",
+                "1": "211.764.101.229",
+                "2": "229.189.583.074"
+            },
+            {
+                "0": "Doanh thu cung cấp dịch vụ",
+                "1": "15.193.414.361",
+                "2": "13.097.128.332"
+            },
+            {
+                "0": "Cộng",
+                "1": "268.629.216.390",
+                "2": "252.243.719.435"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_37",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "33\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nb) Doanh thu với các bên liên quan",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2016VND",
+                "2": "Năm 2015VND"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - Land",
+                "1": "-",
+                "2": "6.544.545.455"
+            },
+            {
+                "0": "Công ty CP Tài nguyên và Môi trường Trường Minh",
+                "1": "27.252.092",
+                "2": "-"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - IPS",
+                "1": "43.180.549",
+                "2": "-"
+            },
+            {
+                "0": "Công ty TNHH MTV Văn Phú - Giảng Võ",
+                "1": "-",
+                "2": "1.163.796.301"
+            },
+            {
+                "0": "Công ty CP Đầu tư và Phát triển Thương mại Văn Phú",
+                "1": "1.136.730.940",
+                "2": "-"
+            },
+            {
+                "0": "Công ty CP Thời trang Gina Le",
+                "1": "409.090.909",
+                "2": "-"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú số 1",
+                "1": "17.773.474.771",
+                "2": "-"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú số 2",
+                "1": "23.567.950.887",
+                "2": "-"
+            },
+            {
+                "0": "Công ty CP Tư vấn ĐT và PT kiến trúc I.D.E.A",
+                "1": "86.729.677",
+                "2": "214.531.912"
+            },
+            {
+                "0": "Cộng",
+                "1": "43.044.409.825",
+                "2": "7.922.873.668"
+            },
+            {
+                "0": "Hàng bán bị trả lại",
+                "1": "1.626.530.304",
+                "2": "23.636.412.003"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.626.530.304",
+                "2": "23.636.412.003"
+            },
+            {
+                "0": "Giá vốn bán hàng",
+                "1": "44.423.232.972",
+                "2": "12.928.820.921"
+            },
+            {
+                "0": "Giá vốn kinh doanh bất động sản",
+                "1": "132.235.420.780",
+                "2": "184.197.745.623"
+            },
+            {
+                "0": "Giá vốn cung cấp dịch vụ",
+                "1": "14.231.549.217",
+                "2": "11.553.707.843"
+            },
+            {
+                "0": "Cộng",
+                "1": "190.890.202.969",
+                "2": "208.680.274.387"
+            },
+            {
+                "0": "Lãi tiền gửi, tiền cho vay",
+                "1": "27.376.425",
+                "2": "2.508.909.566"
+            },
+            {
+                "0": "Cổ tức, lợi nhuận được chia",
+                "1": "2.027.600.000",
+                "2": "-"
+            },
+            {
+                "0": "",
+                "1": "2.054.976.425",
+                "2": "2.508.909.566"
+            },
+            {
+                "0": "Lãi tiền vay",
+                "1": "19.261.213.689",
+                "2": "9.200.997.086"
+            },
+            {
+                "0": "Cộng",
+                "1": "19.261.213.689",
+                "2": "9.200.997.086"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_38",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "34\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\n06. Chi phí bán hàng và Chi phí quản lý doanh nghiệp\n\na) Chi phí bán hàng",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2016VND",
+                "2": "Năm 2015VND"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "2.281.949.493",
+                "2": "2.991.684.863"
+            },
+            {
+                "0": "Cộng",
+                "1": "2.281.949.493",
+                "2": "2.991.684.863"
+            },
+            {
+                "0": "b) Chi phí quản lý doanh nghiệp",
+                "1": "b) Chi phí quản lý doanh nghiệp",
+                "2": "b) Chi phí quản lý doanh nghiệp"
+            },
+            {
+                "0": "",
+                "1": "Năm 2016VND",
+                "2": "Năm 2015VND"
+            },
+            {
+                "0": "Chi phí nhân viên quản lý",
+                "1": "14.249.527.524",
+                "2": "3.989.358.546"
+            },
+            {
+                "0": "Chi phí đồ dùng văn phòng",
+                "1": "2.884.934.922",
+                "2": "1.137.309.516"
+            },
+            {
+                "0": "Chi phí khấu hao TSCĐ",
+                "1": "1.775.453.337",
+                "2": "802.690.863"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "1.535.283.439",
+                "2": "1.082.970.644"
+            },
+            {
+                "0": "Chi phí bằng tiền khác",
+                "1": "9.282.019.777",
+                "2": "1.751.097.997"
+            },
+            {
+                "0": "Cộng",
+                "1": "29.727.218.999",
+                "2": "8.763.427.566"
+            },
+            {
+                "0": "Thanh lý, nhượng bán TSCĐ",
+                "1": "354.892.019",
+                "2": "21.749.528"
+            },
+            {
+                "0": "Tiền phạt thu được",
+                "1": "391.003.064",
+                "2": "28.080.000"
+            },
+            {
+                "0": "Các khoản khác",
+                "1": "911.532.647",
+                "2": "1.477.348"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.657.427.730",
+                "2": "51.306.876"
+            },
+            {
+                "0": "Các khoản bị phạt",
+                "1": "80.106.226",
+                "2": "566.500.000"
+            },
+            {
+                "0": "Chi phí tài trợ xây dựng đình Phong Mỹ",
+                "1": "4.940.840.000",
+                "2": "2.608.900.000"
+            },
+            {
+                "0": "Các khoản khác",
+                "1": "139.600.800",
+                "2": "24.710.695"
+            },
+            {
+                "0": "Cộng",
+                "1": "5.160.547.026",
+                "2": "3.200.110.695"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_39",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "35\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\n09. Chi phí thuế TNDN hiện hành",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2016VND",
+                "2": "Năm 2015VND"
+            },
+            {
+                "0": "Tổng lợi nhuận kế toán trước thuế",
+                "1": "23.393.958.065",
+                "2": "(1.668.970.723)"
+            },
+            {
+                "0": "Hoạt động kinh doanh bất động sản",
+                "1": "26.631.767.964",
+                "2": "3.829.969.317"
+            },
+            {
+                "0": "Hoạt động kinh doanh khác",
+                "1": "(3.237.809.899)",
+                "2": "(5.498.940.040)"
+            },
+            {
+                "0": "Các khoản điều chỉnh lợi nhuận kế toán để xác định thu nhập chịu thuế TNDN",
+                "1": "6.090.626.384",
+                "2": "3.200.102.789"
+            },
+            {
+                "0": "Hoạt động kinh doanh bất động sản",
+                "1": "1.149.786.384",
+                "2": "-"
+            },
+            {
+                "0": "Các khoản điều chỉnh tăng",
+                "1": "1.149.786.384",
+                "2": "-"
+            },
+            {
+                "0": "Các khoản chi phí không được trừ",
+                "1": "1.149.786.384",
+                "2": "-"
+            },
+            {
+                "0": "Hoạt động kinh doanh khác",
+                "1": "4.940.840.000",
+                "2": "3.200.102.789"
+            },
+            {
+                "0": "Các khoản điều chỉnh tăng",
+                "1": "4.940.840.000",
+                "2": "3.200.102.789"
+            },
+            {
+                "0": "Các khoản chi phí không được trừ",
+                "1": "4.940.840.000",
+                "2": "3.200.102.789"
+            },
+            {
+                "0": "Thu nhập tính thuế TNDN",
+                "1": "29.484.584.449",
+                "2": "1.531.132.066"
+            },
+            {
+                "0": "Hoạt động kinh doanh bất động sản",
+                "1": "27.781.554.348",
+                "2": "3.829.969.317"
+            },
+            {
+                "0": "Hoạt động kinh doanh khác",
+                "1": "1.703.030.101",
+                "2": "(2.298.837.251)"
+            },
+            {
+                "0": "Thuế suất thuế TNDN",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Hoạt động kinh doanh bất động sản",
+                "1": "20%",
+                "2": "22%"
+            },
+            {
+                "0": "Hoạt động kinh doanh khác",
+                "1": "20%",
+                "2": "22%"
+            },
+            {
+                "0": "Thuế TNDN",
+                "1": "5.896.916.890",
+                "2": "842.593.250"
+            },
+            {
+                "0": "Hoạt động kinh doanh bất động sản",
+                "1": "5.556.310.870",
+                "2": "842.593.250"
+            },
+            {
+                "0": "Hoạt động kinh doanh khác",
+                "1": "340.606.020",
+                "2": "-"
+            },
+            {
+                "0": "Chi phí thuế TNDN tính trên TNCT năm hiện hành",
+                "1": "5.896.916.890",
+                "2": "842.593.250"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_40",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "VIII. NHỮNG THÔNG TIN KHÁC\n\n01. Các khoản công nợ tiềm tàng\n\nCông ty không có khoản công nợ tiềm tàng nào cần trình bày trên Báo cáo tài chính riêng.\n\n02. Các sự kiện phát sinh sau ngày kết thúc kỳ kế toán\n\nBan Tổng Giám đốc Công ty khẳng định rằng, theo nhận định của Ban Tổng Giám đốc, xét trên những khía cạnh trọng yếu, không có sự kiện bất thường nào xảy ra sau ngày kết thúc ký kế toán làm ảnh hưởng đến tỉnh hình tài chính và hoạt động của Công ty cần thiết phải điều chỉnh hoặc trình bày trên Báo cáo tài chính riêng này.\n\n03. Công cụ tài chính\n\nCác loại công cụ tài chính của Công ty",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Giá trị ghi số",
+                "2": "Giá trị ghi số",
+                "3": "Giá trị ghi số",
+                "4": "Giá trị ghi số"
+            },
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "31/12/2016",
+                "3": "01/01/2016",
+                "4": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc VND",
+                "2": "Dự phòng VND",
+                "3": "Giá gốc VND",
+                "4": "Dự phòng VND"
+            },
+            {
+                "0": "Tài sản tài chính",
+                "1": "Tài sản tài chính",
+                "2": "Tài sản tài chính",
+                "3": "Tài sản tài chính",
+                "4": "Tài sản tài chính"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền",
+                "1": "94.923.320.849",
+                "2": "-",
+                "3": "9.465.199.342",
+                "4": "-"
+            },
+            {
+                "0": "Phải thu khách hàng và phải thu khác",
+                "1": "484.368.935.908",
+                "2": "(252.468.507)",
+                "3": "171.436.607.665",
+                "4": "(252.468.507)"
+            },
+            {
+                "0": "Đầu tư tài chính",
+                "1": "694.723.438.175",
+                "2": "-",
+                "3": "580.703.606.208",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "1.274.015.694.932",
+                "2": "(252.468.507)",
+                "3": "761.605.413.215",
+                "4": "(252.468.507)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_41",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "36\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Giá trị ghi sổ",
+                "2": "Giá trị ghi sổ"
+            },
+            {
+                "0": "",
+                "1": "31/12/2016",
+                "2": "01/01/2016"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Nợ phải trả tài chính",
+                "1": "Nợ phải trả tài chính",
+                "2": "Nợ phải trả tài chính"
+            },
+            {
+                "0": "Vay và nợ",
+                "1": "572.380.611.204",
+                "2": "375.429.729.493"
+            },
+            {
+                "0": "Phải trả người bán và phải trả khác",
+                "1": "620.734.499.830",
+                "2": "552.059.774.574"
+            },
+            {
+                "0": "Chi phí phải trả",
+                "1": "688.072.340.420",
+                "2": "763.305.431.712"
+            },
+            {
+                "0": "",
+                "1": "1.881.187.451.454",
+                "2": "1.690.794.935.779"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_42",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "Công ty chưa đánh giá giá trị hợp lý của tài sản tài chính và nợ phải trả tài chính tại ngày kết thúc kỳ kế toán do Thông tư 210/2009/TT-BTC và các quy định hiện hành yêu cầu trình bày Báo cáo tài chính riêng và thuyết minh thông tin với công cụ tài chính nhưng không đưa ra các hướng dẫn tương đương cho việc đánh giá và ghi nhận giá trị hợp lý của tài sản tài chính và nợ phải trả tài chính, ngoại trừ các khoản trích lập dự phòng nợ phải thu khó đòi và dự phòng giảm giá các khoản đầu tư chứng khoán đã được nếu chi tiết tại các thuyết minh liên quan.\n\nQuản lý rủi ro vốn\n\nCông ty quản trị nguồn vốn nhằm đảm bảo rằng Công ty có thể vừa hoạt động liên tục, vừa tối đa hóa lợi ích của các chủ sở hữu thông qua tối ưu hóa số dư nguồn vốn và công nợ:\n\nQuản lý rủi ro tài chính\n\nRủi ro tài chính của Công ty bao gồm rủi ro thị trường, rủi ro tín dụng và rủi ro thanh khoản. Công ty đã xây dựng hệ thống kiểm soát nhằm đảm bảo sự cân bằng ở mức hợp lý giữa chi phí rủi ro phát sinh và chi phí quản lý rủi ro. Ban Tổng Giám đốc Công ty có trách nhiệm theo dõi quy trình quản lý rủi ro để đảm bảo sự cân bằng hợp lý giữa rủi ro và kiểm soát rủi ro.\n\nRùi ro thị trường\n\nHoạt động kinh doanh của Công ty sẽ chủ yếu chịu rủi ro khi có sự thay đổi lãi suất, giá hàng hóa và giá cổ phiếu.\n\nRủi ro về lãi suất\n\nRủi ro về lãi suất là rủi ro mà giá trị hợp lý hoặc các lường tiền trong tương lai của một công cụ tài chính sẽ biến động theo lãi suất của thị trường khi Công ty có phát sinh các khoản tiền gửi có hoặc không kỳ hạn, các khoản vay và nợ chịu lãi suất thả nổi. Công ty quản lý rủi ro lãi suất bằng cách phân tích tình hình cạnh tranh trên thị trường để có được các lãi suất có lợi cho mục đích của Công ty.\n\nRủi ro về giá hàng hóa\n\nCông ty mua nguyên vật liệu, hàng hóa từ các nhà cung cấp trong nước để phục vụ cho hoạt động sản xuất kinh doanh. Do vậy, Công ty sẽ chịu rủi ro từ việc thay đổi giá bán của nguyên vật liệu, hàng hóa. Rủi ro này sẽ được Công ty quản trị bằng việc thực hiện mua hàng từ một số lượng lớn các nhà cung cấp khác nhau, cũng như linh hoạt trong việc đảm phán.\n\nRủi ro về giá cổ phiếu\n\nCác cổ phiếu do Công ty nấm giữ bị ảnh hưởng bởi các rủi ro thị trường phát sinh từ tính không chắc chắn về giá trị tương lai của các cổ phiếu đầu tư. Công ty quản lý rủi ro về giá cổ phiếu bằng cách thiết lập hạn mức đầu tư. Hội đồng quản trị của Công ty cũng xem xét và phê duyệt các quyết định đầu tư vào cổ phiếu. Công ty đánh giá rủi ro về giá cổ phiếu là không đáng kể.\n\n37\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nRùi ro tín dụng\n\nRủi ro tín dụng xảy ra khi đối tác không đáp ứng được các nghĩa vụ trong hợp đồng dẫn đến các tổn thất tài chính cho Công ty. Công ty có các rủi ro tín dụng từ hoạt động sản xuất kinh doanh (chủ yếu đối với các khoản phải thu khách hàng) và hoạt động tài chính (bao gồm tiền gửi ngân hàng, cho vay và các công cụ tài chính khác), cụ thể:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Từ 1 nămtrở xuốngVND",
+                "2": "Trên 1 nămđến 5 nămVND",
+                "3": "Trên 5 nămVND",
+                "4": "CộngVND"
+            },
+            {
+                "0": "Tài sản tài chính",
+                "1": "Tài sản tài chính",
+                "2": "Tài sản tài chính",
+                "3": "Tài sản tài chính",
+                "4": "Tài sản tài chính"
+            },
+            {
+                "0": "Tại ngày 31/12/2016",
+                "1": "Tại ngày 31/12/2016",
+                "2": "Tại ngày 31/12/2016",
+                "3": "Tại ngày 31/12/2016",
+                "4": "Tại ngày 31/12/2016"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền",
+                "1": "94.923.320.849",
+                "2": "-",
+                "3": "-",
+                "4": "94.923.320.849"
+            },
+            {
+                "0": "Phải thu khách hàng và phải thu khác",
+                "1": "406.768.467.401",
+                "2": "77.348.000.000",
+                "3": "-",
+                "4": "484.116.467.401"
+            },
+            {
+                "0": "Đầu tư tài chính",
+                "1": "-",
+                "2": "-",
+                "3": "694.723.438.175",
+                "4": "694.723.438.175"
+            },
+            {
+                "0": "Cộng",
+                "1": "501.691.788.250",
+                "2": "77.348.000.000",
+                "3": "694.723.438.175",
+                "4": "1.273.763.226.425"
+            },
+            {
+                "0": "Tại ngày 01/01/2016",
+                "1": "Tại ngày 01/01/2016",
+                "2": "Tại ngày 01/01/2016",
+                "3": "Tại ngày 01/01/2016",
+                "4": "Tại ngày 01/01/2016"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền",
+                "1": "9.465.199.342",
+                "2": "-",
+                "3": "-",
+                "4": "9.465.199.342"
+            },
+            {
+                "0": "Phải thu khách hàng và phải thu khác",
+                "1": "123.836.139.158",
+                "2": "47.348.000.000",
+                "3": "-",
+                "4": "171.184.139.158"
+            },
+            {
+                "0": "Đầu tư tài chính",
+                "1": "-",
+                "2": "-",
+                "3": "580.703.606.208",
+                "4": "580.703.606.208"
+            },
+            {
+                "0": "Cộng",
+                "1": "133.301.338.500",
+                "2": "47.348.000.000",
+                "3": "580.703.606.208",
+                "4": "761.352.944.708"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_43",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "Công ty xây dựng chính sách tín dụng phù hợp và thường xuyên theo dõi tỉnh hình để đánh giá xem Công ty có chịu rủi ro tín dụng hay không.\n\nRùi ro thanh khoản\n\nRủi ro thanh khoản là rủi ro Công ty gặp khó khăn khi thực hiện các nghĩa vụ tài chính do thiếu vốn. Rủi ro thanh khoản của Công ty chủ yếu phát sinh từ việc các tài sản tài chính và nợ phải trả tài chính có các thời điểm đáo hạn khác nhau.\n\nThời hạn thanh toán của các khoản nợ phải trả tài chính dựa trên các khoản thanh toán dự kiến theo hợp đồng (trên cơ sở dòng tiền của các khoản gốc) như sau:\n\n38\n\n\n\nCÔNG TY CÓ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Từ 1 nămtrở xuốngVND",
+                "2": "Trên 1 nămđến 5 nămVND",
+                "3": "Trên 5 nămVND",
+                "4": "CộngVND"
+            },
+            {
+                "0": "Nợ phải trả tài chính",
+                "1": "Nợ phải trả tài chính",
+                "2": "Nợ phải trả tài chính",
+                "3": "Nợ phải trả tài chính",
+                "4": "Nợ phải trả tài chính"
+            },
+            {
+                "0": "Tại ngày 31/12/2016",
+                "1": "Tại ngày 31/12/2016",
+                "2": "Tại ngày 31/12/2016",
+                "3": "Tại ngày 31/12/2016",
+                "4": "Tại ngày 31/12/2016"
+            },
+            {
+                "0": "Vay và nợ",
+                "1": "512.957.103.204",
+                "2": "59.423.508.000",
+                "3": "-",
+                "4": "572.380.611.204"
+            },
+            {
+                "0": "Phải trả người bán và phải trả khác",
+                "1": "232.815.863.398",
+                "2": "387.918.636.432",
+                "3": "-",
+                "4": "620.734.499.830"
+            },
+            {
+                "0": "Chi phí phải trả",
+                "1": "688.072.340.420",
+                "2": "-",
+                "3": "-",
+                "4": "688.072.340.420"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.433.845.307.022",
+                "2": "447.342.144.432",
+                "3": "-",
+                "4": "1.881.187.451.454"
+            },
+            {
+                "0": "Tại ngày 01/01/2016",
+                "1": "Tại ngày 01/01/2016",
+                "2": "Tại ngày 01/01/2016",
+                "3": "Tại ngày 01/01/2016",
+                "4": "Tại ngày 01/01/2016"
+            },
+            {
+                "0": "Vay và nợ",
+                "1": "203.673.096.493",
+                "2": "171.756.633.000",
+                "3": "-",
+                "4": "375.429.729.493"
+            },
+            {
+                "0": "Phải trả người bán và phải trả khác",
+                "1": "194.846.125.243",
+                "2": "357.213.649.331",
+                "3": "-",
+                "4": "552.059.774.574"
+            },
+            {
+                "0": "Chi phí phải trả",
+                "1": "763.305.431.712",
+                "2": "-",
+                "3": "-",
+                "4": "763.305.431.712"
+            },
+            {
+                "0": "Cộng",
+                "1": "1.161.824.653.448",
+                "2": "528.970.282.331",
+                "3": "-",
+                "4": "1.690.794.935.779"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_44",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "Công ty cho rằng mức độ tập trung rủi ro đối với việc trả nợ là thấp. Công ty có khả năng thanh toán các khoản nợ đến hạn từ dòng tiền từ hoạt động kinh doanh và tiền thu từ các tài sản tài chính đáo hạn.\n\n04. Thông tin về các bên liên quan\n\nDanh sách bên liên quan",
+        "dataframe": [
+            {
+                "0": "Bên liên quan",
+                "1": "Mối quan hệ"
+            },
+            {
+                "0": "Công ty TNHH MTV Đầu tư Văn Phú Giảng VõCông ty CP Đầu tư Văn Phú - LandCông ty CP Đầu tư Văn Phú - IBSCông ty CP Văn Phú Bắc ÁiCông ty CP Đầu tư BOT Hà Nội - Bắc GiangCông ty CP In và Văn hóa phẩmCông ty CP Tài nguyên và Môi trường Trường MinhCông ty CP Đầu tư Văn Phú - IPSCông ty CP Văn Phú Holdings",
+                "1": "Công ty conCông ty conCông ty conCông ty conCông ty liên kếtCông ty liên kếtCông ty liên kếtÔng Tô Như Toàn là Chủ tịch HĐQT,Ông Tô Như Thắng là Phó Giám đốc"
+            },
+            {
+                "0": "Công ty CP Đầu tư và Phát triển Thương mại Văn Phú",
+                "1": "Ông Tạ Hữu Long là Chủ tịch HĐQT, Ông Tô Như Toàn là thành viên HĐQT"
+            },
+            {
+                "0": "Công ty CP Thời trang Gina LeCông ty CP Đầu tư Văn Phú - MineralCông ty CP Đầu tư Văn Phú - HouseCông ty CP SX và TM Tây Hà(tên cũ Công ty CP Đầu tư Văn Phú - ITC)",
+                "1": "Ông Tô Như Toàn là Chủ tịch HĐQTÔng Tạ Hữu Long là Chủ tịch HĐQTÔng Tô Như Toàn là thành viên HĐQTÔng Tô Như Toàn là Chủ tịch HĐQT"
+            },
+            {
+                "0": "Công ty CP Tư vấn ĐT và PT kiến trúc I.D.E.ACông ty CP Đầu tư Văn Phú số 1Công ty CP Đầu tư Văn Phú số 2Công ty CP Đầu tư Văn Phú - Bắc ÁiÔng Tô Như ToànÔng Nguyễn Minh TuânÔng Tô Như ThắngÔng Tạ Hữu LongBà Hoàng Thị LiênÔng Vũ Thanh TuánÔng Đình Quốc HàBà Đào Thị Hồng Hạnh",
+                "1": "Ông Tô Như Thắng là thành viên HĐQTÔng Đình Quốc Hà là thành viên HĐQTÔng Tô Như Toàn là Chủ tịch HĐQTÔng Tô Như Toàn là Chủ tịch HĐQTChủ tịch HĐQT - Tổng Giám đốcThành viên HĐQT - Tổng Giám đốcThành viên HĐQT - Phó Tổng Giám đốcThành viên HĐQT - Phó Tổng Giám đốcThành viên HĐQTPhó Tổng Giám đốcvợ Ông Tô Như Toàn"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_45",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "39\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016\n\nGiao dịch với các bên liên quan trong kỳ\n\nNgoài các giao dịch với các bên liên quan đã nếu ở các Thuyết minh trên, Công ty còn có các giao dịch với các bên liên quan như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2016VND"
+            },
+            {
+                "0": "Công ty TNHH MTV Đầu tư Văn Phú Giảng Võ",
+                "1": "Công ty TNHH MTV Đầu tư Văn Phú Giảng Võ"
+            },
+            {
+                "0": "Góp vốn điều lệ",
+                "1": "237.684.634.792"
+            },
+            {
+                "0": "Ứng vốn phục vụ hoạt động sản xuất kinh doanh và thực hiện dự án đầu tư",
+                "1": "7.562.535.911"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - Land",
+                "1": "Công ty CP Đầu tư Văn Phú - Land"
+            },
+            {
+                "0": "Thu thi công xây dựng",
+                "1": "1.721.641.163"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - IBS",
+                "1": "Công ty CP Đầu tư Văn Phú - IBS"
+            },
+            {
+                "0": "Nhận chuyển nhượng cổ phần",
+                "1": "3.792.000.000"
+            },
+            {
+                "0": "Công ty CP Văn Phú Bắc Ái",
+                "1": "Công ty CP Văn Phú Bắc Ái"
+            },
+            {
+                "0": "Chuyển tiền góp vốn",
+                "1": "5.000.000.000"
+            },
+            {
+                "0": "Công ty CP Đầu tư BOT Hà Nội - Bắc Giang",
+                "1": "Công ty CP Đầu tư BOT Hà Nội - Bắc Giang"
+            },
+            {
+                "0": "Chuyển tiền góp vốn",
+                "1": "33.995.694.000"
+            },
+            {
+                "0": "Thu tiền hợp tác đầu tư",
+                "1": "12.936.000.000"
+            },
+            {
+                "0": "Công ty CP In và Văn hóa phẩm",
+                "1": "Công ty CP In và Văn hóa phẩm"
+            },
+            {
+                "0": "Nhận chuyển nhượng cổ phần",
+                "1": "33.777.503.175"
+            },
+            {
+                "0": "Công ty CP Tài nguyên và Môi trường Trường Minh",
+                "1": "Công ty CP Tài nguyên và Môi trường Trường Minh"
+            },
+            {
+                "0": "Thu phí hoạt động văn phòng",
+                "1": "25.804.212"
+            },
+            {
+                "0": "Giá trị tư vấn xây dựng",
+                "1": "59.600.000"
+            },
+            {
+                "0": "Trả tiền tư vấn xây dựng",
+                "1": "59.600.000"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - IPS",
+                "1": "Công ty CP Đầu tư Văn Phú - IPS"
+            },
+            {
+                "0": "Chuyển tiền góp vốn",
+                "1": "1.600.000.000"
+            },
+            {
+                "0": "Thu phí hoạt động văn phòng",
+                "1": "40.893.392"
+            },
+            {
+                "0": "Công ty CP Văn Phú Holdings",
+                "1": "Công ty CP Văn Phú Holdings"
+            },
+            {
+                "0": "Ứng trước tiền thi công xây dựng",
+                "1": "1.960.000.000"
+            },
+            {
+                "0": "Thu tiền hợp tác đầu tư",
+                "1": "32.000.000.000"
+            },
+            {
+                "0": "Trả tiền hợp tác đầu tư",
+                "1": "6.400.000.000"
+            },
+            {
+                "0": "Công ty CP Đầu tư và Phát triển Thương mại Văn Phú",
+                "1": "Công ty CP Đầu tư và Phát triển Thương mại Văn Phú"
+            },
+            {
+                "0": "Giá trị dịch vụ quản lý vận hành",
+                "1": "4.820.485.231"
+            },
+            {
+                "0": "Trả phí dịch vụ quản lý vận hành",
+                "1": "4.626.291.942"
+            },
+            {
+                "0": "Công ty CP Thời trang Gina Le",
+                "1": "Công ty CP Thời trang Gina Le"
+            },
+            {
+                "0": "Chuyển tiền góp vốn",
+                "1": "900.000.000"
+            },
+            {
+                "0": "Chuyển nhượng phần vốn góp",
+                "1": "1.050.000.000"
+            },
+            {
+                "0": "Thu tiền cho thuê mặt bằng",
+                "1": "450.000.000"
+            },
+            {
+                "0": "Chuyển tiền phục vụ hoạt động sản xuất kinh doanh",
+                "1": "3.016.667"
+            },
+            {
+                "0": "Công ty CP đầu tư Văn Phú - Mineral",
+                "1": "Công ty CP đầu tư Văn Phú - Mineral"
+            },
+            {
+                "0": "Chuyển nhượng phần vốn góp",
+                "1": "1.610.000.000"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - House",
+                "1": "Công ty CP Đầu tư Văn Phú - House"
+            },
+            {
+                "0": "Chuyển nhượng phần vốn góp",
+                "1": "179.675.000.000"
+            },
+            {
+                "0": "Chuyển tiền phục vụ hoạt động sản xuất kinh doanh",
+                "1": "3.000.000"
+            },
+            {
+                "0": "Công ty CP SX và TM Tây Hà",
+                "1": "Công ty CP SX và TM Tây Hà"
+            },
+            {
+                "0": "Chuyển nhượng phần vốn góp",
+                "1": "23.700.000.000"
+            },
+            {
+                "0": "Chuyển tiền phục vụ hoạt động sản xuất kinh doanh",
+                "1": "823.349.984"
+            }
+        ]
+    },
+    {
+        "chunk_id": "VPI_2016_separate_table_46",
+        "metadata": {
+            "ticker": "VPI",
+            "company_name": "CTCP Phát triển Bất động sản Văn Phú",
+            "year": "2016",
+            "report_type": "separate",
+            "original_folder": "VPI_financial_statements_2016_separate"
+        },
+        "context_text": "40\n\n\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ' VĂN PHÚ - INVEST\n\nSố 177 Trung Kính, quận Cầu Giấy, Tp. Hà Nội\n\nBÁO CÁO TÀI CHÍNH RIÊNG\n\nCho năm tài chính kết thúc ngày 31/12/2016",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2016VND"
+            },
+            {
+                "0": "Công ty CP Tư vấn ĐT và PT kiến trúc I.D.E.A",
+                "1": "Công ty CP Tư vấn ĐT và PT kiến trúc I.D.E.A"
+            },
+            {
+                "0": "Chuyển nhượng phần vốn góp",
+                "1": "360.000.000"
+            },
+            {
+                "0": "Thu phí hoạt động văn phòng",
+                "1": "95.412.431"
+            },
+            {
+                "0": "Trả tiền tư vấn thiết kế",
+                "1": "2.626.000.000"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú số 1",
+                "1": "Công ty CP Đầu tư Văn Phú số 1"
+            },
+            {
+                "0": "Nhận chuyển nhượng vốn góp",
+                "1": "49.285.000.000"
+            },
+            {
+                "0": "Chuyển nhượng phần vốn góp",
+                "1": "59.285.000.000"
+            },
+            {
+                "0": "Giá trị thi công xây dựng",
+                "1": "153.426.464.000"
+            },
+            {
+                "0": "Trả tiền thi công xây dựng",
+                "1": "128.964.000.000"
+            },
+            {
+                "0": "Thu phí hoạt động văn phòng",
+                "1": "23.468.236"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú số 2",
+                "1": "Công ty CP Đầu tư Văn Phú số 2"
+            },
+            {
+                "0": "Chuyển tiền góp vốn",
+                "1": "43.827.500.000"
+            },
+            {
+                "0": "Chuyển nhượng phần vốn góp",
+                "1": "43.827.500.000"
+            },
+            {
+                "0": "Công ty CP Đầu tư Văn Phú - Bắc Ái",
+                "1": "Công ty CP Đầu tư Văn Phú - Bắc Ái"
+            },
+            {
+                "0": "Chuyển tiền góp vốn",
+                "1": "4.565.000.000"
+            },
+            {
+                "0": "Chuyển tiền cho vay",
+                "1": "3.000.000.000"
+            },
+            {
+                "0": "Ông Tô Như Toàn",
+                "1": "Ông Tô Như Toàn"
+            },
+            {
+                "0": "Nhận chuyển nhượng cổ phần của Công ty Văn Phú - House",
+                "1": "89.425.000.000"
+            },
+            {
+                "0": "Nhận chuyển nhượng cổ phần của Công ty Gina Le",
+                "1": "1.050.000.000"
+            },
+            {
+                "0": "Thu tiền chuyển nhượng cổ phần của Công ty Văn Phú - House",
+                "1": "89.425.000.000"
+            },
+            {
+                "0": "Thu tiền chuyển nhượng cổ phần của Công ty Gina Le",
+                "1": "1.050.000.000"
+            },
+            {
+                "0": "Chuyển nhượng cổ phần của Công ty Văn Phú - Invest",
+                "1": "62.928.000.000"
+            },
+            {
+                "0": "Thu tiền thuế TNCN chuyển nhượng vốn",
+                "1": "62.928.000"
+            },
+            {
+                "0": "Thu tiền vay vốn cá nhân",
+                "1": "160.000.000.000"
+            },
+            {
+                "0": "Trả gốc vay vốn cá nhân",
+                "1": "299.833.125.000"
+            },
+            {
+                "0": "Ông Tô Như Thắng",
+                "1": "Ông Tô Như Thắng"
+            },
+            {
+                "0": "Nhận chuyển nhượng cổ phần của Công ty Văn Phú - Invest",
+                "1": "52.440.000.000"
+            },
+            {
+                "0": "Nhận chuyển nhượng cổ phần của Công ty I.D.E.A",
+                "1": "360.000.000"
+            },
+            {
+                "0": "Thu tiền vay vốn cá nhân",
+                "1": "40.000.000.000"
+            },
+            {
+                "0": "Trả gốc vay vốn cá nhân",
+                "1": "12.500.000.000"
+            },
+            {
+                "0": "Bà Đào Thị Hồng Hạnh",
+                "1": "Bà Đào Thị Hồng Hạnh"
+            },
+            {
+                "0": "Nhận chuyển nhượng cổ phần của Công ty Văn Phú - Invest",
+                "1": "117.990.000.000"
+            },
+            {
+                "0": "Ông Vũ Thanh Tuán",
+                "1": "Ông Vũ Thanh Tuán"
+            },
+            {
+                "0": "Nhận chuyển nhượng cổ phần của Công ty Văn Phú - Invest",
+                "1": "5.244.000.000"
+            },
+            {
+                "0": "Nhận chuyển nhượng cổ phần của Công ty Văn Phú số 1",
+                "1": "59.285.000.000"
+            },
+            {
+                "0": "Thu tiền chuyển nhượng cổ phần của Công ty Văn Phú số 1",
+                "1": "50.000.000.000"
+            },
+            {
+                "0": "Ông Tạ Hữu Long",
+                "1": "Ông Tạ Hữu Long"
+            },
+            {
+                "0": "Chuyển nhượng cổ phần của Công ty Văn Phú - Invest",
+                "1": "36.708.000.000"
+            },
+            {
+                "0": "Thu tiền thuế TNCN chuyển nhượng vốn",
+                "1": "36.708.000"
+            },
+            {
+                "0": "Trả gốc vay vốn cá nhân",
+                "1": "72.000.000"
+            },
+            {
+                "0": "Ông Nguyễn Minh Tuán",
+                "1": "Ông Nguyễn Minh Tuán"
+            },
+            {
+                "0": "Chuyển nhượng cổ phần của Công ty Văn Phú - Invest",
+                "1": "39.330.000.000"
+            },
+            {
+                "0": "Thu tiền thuế TNCN chuyển nhượng vốn",
+                "1": "39.330.000"
+            },
+            {
+                "0": "Bà Hoàng Thị Liên",
+                "1": "Bà Hoàng Thị Liên"
+            },
+            {
+                "0": "Chuyển nhượng cổ phần của Công ty Văn Phú - Invest",
+                "1": "36.708.000.000"
+            },
+            {
+                "0": "Thu tiền thuế TNCN chuyển nhượng vốn",
+                "1": "36.708.000"
+            },
+            {
+                "0": "Thu nhập của HDQT và Ban Giám đốc",
+                "1": "1.998.219.333"
+            }
+        ]
+    }
+]

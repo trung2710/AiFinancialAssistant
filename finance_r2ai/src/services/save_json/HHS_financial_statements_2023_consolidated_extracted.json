@@ -1,0 +1,3701 @@
+[
+    {
+        "chunk_id": "HHS_2023_consolidated_table_1",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nCÔNG TY CỔ PHẦN ĐẦU TƯ DỊCH VỤ HOÀNG HUY\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n(dã được kiểm toán)\n\n\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cành, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nNỘI DUNG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Trang"
+            },
+            {
+                "0": "Báo cáo của Ban Giám đốc",
+                "1": "02 - 03"
+            },
+            {
+                "0": "Báo cáo Kiểm toán độc lập",
+                "1": "04 - 05"
+            },
+            {
+                "0": "Báo cáo tài chính hợp nhất đã được kiểm toán",
+                "1": "06 - 42"
+            },
+            {
+                "0": "Bàng cân đối kế toán hợp nhất",
+                "1": "06 - 07"
+            },
+            {
+                "0": "Báo cáo kết quả hoạt động kinh doanh hợp nhất",
+                "1": "08"
+            },
+            {
+                "0": "Báo cáo lưu chuyển tiền tệ hợp nhất",
+                "1": "09 - 10"
+            },
+            {
+                "0": "Thuyết minh Báo cáo tài chính hợp nhất",
+                "1": "11 - 42"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_2",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "1\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cành, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nBÁO CÁO CỦA BAN GIÁM ĐỐC\n\nBan Giám đốc Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy (sau đây gọi tất là “Công ty”) trình bày Báo cáo của mình và Báo cáo tài chính hợp nhất của Công ty cho năm tài chính kết thúc ngày 31/12/2023.\n\nCÔNG TY\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy được thành lập và hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp Công ty cổ phần số 0200815578 do Sở Kế hoạch và Đầu tư Thành phố Hải Phòng cấp lần đầu ngày 10 tháng 05 năm 2008, đăng ký thay đổi lần thứ mười lăm ngày 18 tháng 07 năm 2023.\n\nTrụ sở chính của Công ty tại: Tòa nhà 116 Nguyễn Đức Cảnh, phường Cát Dài, quận Lê Chân, thành phố Hải Phòng.\n\nHỘI ĐỒNG QUẢN TRỊ, BAN GIÁM ĐỐC VÀ BAN KIỂM SOÁT\n\nCác thành viên của Hội đồng quản trị trong năm và tại ngày lập báo cáo này bao gồm:\n\nÔng: Đỗ Hữu Hạ\n\nChủ tịch\n\nÔng: Đỗ Hữu Hậu\n\nThành viên HĐQT\n\nBà: Nguyễn Thị Hà\n\nThành viên HĐQT\n\nÔng: Trần Mạnh Luân\n\nThành viên độc lập HĐQT\n\nBà: Nguyễn Thị Thu Trang\n\nThành viên độc lập HĐQT\n\nCác thành viên của Ban Giám đốc đã điều hành Công ty trong năm và tại ngày lập báo cáo này bao gồm:\n\nÔng: Nguyễn Thế Hùng\n\nGiám đốc\n\nCác thành viên của Ban Kiểm soát bao gồm:\n\nBà: Phùng Thị Thu Hương\n\nTrường Ban kiểm soát\n\nÔng: Nguyễn Trọng Cường\n\nThành viên Ban kiểm soát\n\nBà: Bùi Thị Trà\n\nThành viên Ban kiểm soát\n\nKIỂM TOÁN VIÊN\n\nCông ty TNHH Hăng Kiểm toán AASC đã thực hiện kiểm toán các Báo cáo tài chính hợp nhất cho Công ty.\n\nCÔNG BÓ TRÁCH NHIỆM CỦA BAN GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nBan Giám đốc Công ty chịu trách nhiệm về việc lập Báo cáo tài chính hợp nhất phần ánh trung thực, hợp lý tính hình tài chính, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ của Công ty trong năm. Trong quá trình lập Báo cáo tài chính hợp nhất, Ban Giám đốc Công ty cam kết đã tuân thủ các yêu cầu sau:\n\n- Xây dựng và duy trì kiểm soát nội bộ mà Ban Giám đốc và Ban Quản trị Công ty xác định là cần thiết để đảm bảo cho việc lập và trình bày Báo cáo tài chính hợp nhất không còn sai sót trọng yếu do gian lận hoặc do nhằm lẫn;\n\n- Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;\n\n- Đưa ra các đánh giá và dự đoán hợp lý và thận trọng;\n\n- Nếu rõ các chuẩn mục kế toán được áp dụng có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu đến mức cần phải công bố và giải thích trong Báo cáo tài chính hợp nhất hay không;\n\n- Lập và trình bày các Báo cáo tài chính hợp nhất trên cơ sở tuân thủ các Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính hợp nhất;\n\n2\n\n\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\n- Lập các Báo cáo tài chính hợp nhất dựa trên cơ sở hoạt động kinh doanh liên tục, trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động kinh doanh.\n\nBan Giám đốc Công ty đảm bảo rằng các số kế toán được lưu giữ để phản ánh tỉnh hình tài chính của Công ty, với mức độ trung thực, hợp lý tại bất cứ thời điểm nào và đảm bảo rằng Báo cáo tài chính hợp nhất tuân thủ các quy định hiện hành của Nhà nước. Đồng thời có trách nhiệm trong việc bảo đảm an toàn tài sản của Công ty và thực hiện các biện pháp thích hợp để ngăn chắn, phát hiện các hành vi gian lập và các vi phạm khác.\n\nBan Giám đốc Công ty cam kết rằng Báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý tính hình tài chính của Công ty tại thời điểm ngày 31/12/2023, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ cho năm tài chính kết thúc cùng ngày, phù hợp với Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam và tuân thủ các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính hợp nhất.\n\nCam kết khác\n\nBan Giám đốc cam kết rằng Công ty tuân thủ Nghị định 155/2020/NĐ-CP ngày 31/12/2020 về quy định chi tiết thi hành một số điều của Luật chứng khoán và Công ty không vi phạm nghĩa vụ công bố thông tin theo quy định tại Thông tư số 96/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính hướng dẫn công bố thông tin trên Thị trường chứng khoán.\n\nThay mặt Ban Giám đốc\n\nNguyễn Thế Hùng\n\nGiám đốc\n\nHải Phòng, ngày 18 tháng 03 năm 2024\n\n3\n\n\n\naasc since 1991\n\nSố: 190324.005/BCTC.KT7\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP\n\nKính gửi: Quý Cổ đông, Hội đồng quản trị và Ban Giám đốc Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nChúng tôi đã kiểm toán Báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy được lập ngày 18 tháng 03 năm 2024, từ trang 06 đến trang 42, bao gồm: Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2023, Báo cáo kết quả hoạt động kinh doanh hợp nhất, Báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và Bản Thuyết minh Báo cáo tài chính hợp nhất.\n\nTrách nhiệm của Ban Giám đốc\n\nBan Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý Báo cáo tài chính hợp nhất của Công ty theo Chuẩn mục kế toán, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày Báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lập hoặc nhằm lẫn.\n\nTrách nhiệm của Kiểm toán viên\n\nTrách nhiệm của chứng tôi là đưa ra ý kiến về Báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chứng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu Báo cáo tài chính hợp nhất của Công ty có còn sai sót trọng yếu hay không.\n\nCông việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên Báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong Báo cáo tài chính hợp nhất do gian lần hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày Báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Giám đốc cũng như đánh giá việc trình bày tổng thể Báo cáo tài chính hợp nhất.\n\nChúng tôi tin tưởng ràng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.\n\naasc.com.vn\n\nT:(84) 24 3824 1990 I F:(84) 24 3825 3973 I 1 Le Phung Hieu, Hanoi, Vietnam\n\nAASC AUDITING FIRM\n\nHLB\nWE ARE AN ASSOCIATED NUMBER OF\nTHE GLOBAL ADVISORY AND ACCOUNTING NETWORK\n\n4\n\n\n\nÝ kiến của kiểm toán viên\n\nTheo ý kiến của chúng tôi, Báo cáo tài chính hợp nhất đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu tình hình tài chính của Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy tại ngày 31 tháng 12 năm 2023, cũng như kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ cho năm tài chính kết thúc cùng ngày, phù hợp với Chuẩn mực, Chế độ kế toán doanh nghiệp Việt Nam hiện hành và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính hợp nhất.\n\nCông ty TNHH Hăng Kiểm toán AASC\n\nNguyễn Ngọc Lân\n\nPhó Tổng Giám đốc\n\nGiấy chứng nhận đăng ký hành nghề\n\nsố: 1427-2023-002-1\n\nHà Nội, ngày 19 tháng 03 năm 2024\n\nBùi Thị Loan\n\nKiểm toán viên\n\nGiấy chứng nhận đăng ký hành nghề\n\nsố: 4927-2022-002-1\n\n5\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải\n\nPhòng\n\nBáo cáo tài chính hợp nhất\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\nBẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT\n\nTại ngày 31 tháng 12 năm 2023",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "31/12/2023",
+                "4": "01/01/2023"
+            },
+            {
+                "0": "Mã số",
+                "1": "TÀI SẢN",
+                "2": "Thuyết minh",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "100",
+                "1": "A. TÀI SẢN NGĂN HẠN",
+                "2": "",
+                "3": "1.036.383.290.648",
+                "4": "1.231.562.458.402"
+            },
+            {
+                "0": "110",
+                "1": "I. Tiền và các khoản tương đương tiền",
+                "2": "04",
+                "3": "94.879.567.912",
+                "4": "237.757.092.560"
+            },
+            {
+                "0": "111",
+                "1": "1. Tiền",
+                "2": "",
+                "3": "94.879.567.912",
+                "4": "198.757.092.560"
+            },
+            {
+                "0": "112",
+                "1": "2. Các khoản tương đương tiền",
+                "2": "",
+                "3": "-",
+                "4": "39.000.000.000"
+            },
+            {
+                "0": "120",
+                "1": "II. Đầu tư tài chính ngắn hạn",
+                "2": "05",
+                "3": "538.794.066.400",
+                "4": "473.346.594.521"
+            },
+            {
+                "0": "123",
+                "1": "1. Đầu tư nằm giữ đến ngày đáo hạn",
+                "2": "",
+                "3": "538.794.066.400",
+                "4": "473.346.594.521"
+            },
+            {
+                "0": "130",
+                "1": "III. Các khoản phải thu ngắn hạn",
+                "2": "",
+                "3": "59.303.254.121",
+                "4": "33.994.060.148"
+            },
+            {
+                "0": "131",
+                "1": "1. Phải thu ngắn hạn của khách hàng",
+                "2": "06",
+                "3": "37.357.465.986",
+                "4": "13.446.833.384"
+            },
+            {
+                "0": "132",
+                "1": "2. Trả trước cho người bán ngắn hạn",
+                "2": "07",
+                "3": "2.942.917.406",
+                "4": "80.763.871"
+            },
+            {
+                "0": "136",
+                "1": "3. Phải thu ngắn hạn khác",
+                "2": "08",
+                "3": "20.750.370.729",
+                "4": "21.514.962.893"
+            },
+            {
+                "0": "137",
+                "1": "4. Dự phòng phải thu ngắn hạn khó đòi",
+                "2": "",
+                "3": "(1.747.500.000)",
+                "4": "(1.048.500.000)"
+            },
+            {
+                "0": "140",
+                "1": "IV. Hàng tồn kho",
+                "2": "10",
+                "3": "261.329.528.294",
+                "4": "416.808.118.989"
+            },
+            {
+                "0": "141",
+                "1": "1. Hàng tồn kho",
+                "2": "",
+                "3": "261.415.803.592",
+                "4": "421.704.837.549"
+            },
+            {
+                "0": "149",
+                "1": "2. Dự phòng giảm giá hàng tồn kho",
+                "2": "",
+                "3": "(86.275.298)",
+                "4": "(4.896.718.560)"
+            },
+            {
+                "0": "150",
+                "1": "V. Tài sản ngắn hạn khác",
+                "2": "",
+                "3": "82.076.873.921",
+                "4": "69.656.592.184"
+            },
+            {
+                "0": "151",
+                "1": "1. Chỉ phí trả trước ngắn hạn",
+                "2": "15",
+                "3": "1.058.758.807",
+                "4": "169.514.849"
+            },
+            {
+                "0": "152",
+                "1": "2. Thuế GTGT được khấu trừ",
+                "2": "",
+                "3": "79.943.797.604",
+                "4": "65.871.036.089"
+            },
+            {
+                "0": "153",
+                "1": "3. Thuế và các khoản khác phải thu Nhà nước",
+                "2": "19",
+                "3": "1.074.317.510",
+                "4": "3.616.041.246"
+            },
+            {
+                "0": "200",
+                "1": "B. TÀI SẢN DÀI HẠN",
+                "2": "",
+                "3": "3.637.207.943.090",
+                "4": "3.261.028.637.108"
+            },
+            {
+                "0": "220",
+                "1": "I. Tài sản cố định",
+                "2": "",
+                "3": "7.113.331.042",
+                "4": "23.153.837.779"
+            },
+            {
+                "0": "221",
+                "1": "1. Tài sản cố định hữu hình",
+                "2": "12",
+                "3": "3.593.331.042",
+                "4": "19.633.837.779"
+            },
+            {
+                "0": "222",
+                "1": "- Nguyên giá",
+                "2": "",
+                "3": "8.381.475.226",
+                "4": "31.692.909.172"
+            },
+            {
+                "0": "223",
+                "1": "- Giá trị hao mòn lũy kế",
+                "2": "",
+                "3": "(4.788.144.184)",
+                "4": "(12.059.071.393)"
+            },
+            {
+                "0": "227",
+                "1": "2. Tài sản cố định vô hình",
+                "2": "13",
+                "3": "3.520.000.000",
+                "4": "3.520.000.000"
+            },
+            {
+                "0": "228",
+                "1": "- Nguyên giá",
+                "2": "",
+                "3": "3.520.000.000",
+                "4": "3.520.000.000"
+            },
+            {
+                "0": "230",
+                "1": "II. Bất động sản đầu tư",
+                "2": "14",
+                "3": "485.214.788.736",
+                "4": "196.739.165.150"
+            },
+            {
+                "0": "231",
+                "1": "- Nguyên giá",
+                "2": "",
+                "3": "533.497.027.228",
+                "4": "228.897.249.378"
+            },
+            {
+                "0": "232",
+                "1": "- Giá trị hao mòn lũy kế",
+                "2": "",
+                "3": "(48.282.238.492)",
+                "4": "(32.158.084.228)"
+            },
+            {
+                "0": "240",
+                "1": "III. Tài sản dở dang dài hạn",
+                "2": "11",
+                "3": "10.047.350.614",
+                "4": "16.083.110.583"
+            },
+            {
+                "0": "242",
+                "1": "1. Chỉ phí xây dựng cơ bản dở dang",
+                "2": "",
+                "3": "10.047.350.614",
+                "4": "16.083.110.583"
+            },
+            {
+                "0": "250",
+                "1": "IV. Đầu tư tài chính dài hạn",
+                "2": "05",
+                "3": "3.128.859.858.789",
+                "4": "3.015.361.937.021"
+            },
+            {
+                "0": "252",
+                "1": "1. Đầu tư vào công ty liên doanh, liên kết",
+                "2": "",
+                "3": "3.128.859.858.789",
+                "4": "3.011.361.937.021"
+            },
+            {
+                "0": "255",
+                "1": "2. Đầu tư nằm giữ đến ngày đáo hạn",
+                "2": "",
+                "3": "-",
+                "4": "4.000.000.000"
+            },
+            {
+                "0": "260",
+                "1": "V. Tài sản dài hạn khác",
+                "2": "",
+                "3": "5.972.613.909",
+                "4": "9.690.586.575"
+            },
+            {
+                "0": "261",
+                "1": "1. Chỉ phí trả trước dài hạn",
+                "2": "15",
+                "3": "5.972.613.909",
+                "4": "9.690.586.575"
+            },
+            {
+                "0": "270",
+                "1": "TỔNG CỘNG TÀI SẢN",
+                "2": "",
+                "3": "4.673.591.233.738",
+                "4": "4.492.591.095.510"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_3",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "6\n\n\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dải, Q.Lê Chân, TP.Hải Phòng\n\nBáo cáo tài chính hợp nhất\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\nBẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT\n\nTại ngày 31 tháng 12 năm 2023\n\n(tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "31/12/2023",
+                "4": "01/01/2023"
+            },
+            {
+                "0": "Mã số",
+                "1": "NGUỒN VỐN",
+                "2": "Thuyết minh",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "300",
+                "1": "C. NỘ PHẢI TRẢ",
+                "2": "",
+                "3": "172.310.356.348",
+                "4": "326.454.566.169"
+            },
+            {
+                "0": "310",
+                "1": "I. Nợ ngắn hạn",
+                "2": "",
+                "3": "171.644.230.752",
+                "4": "315.146.608.222"
+            },
+            {
+                "0": "311",
+                "1": "1. Phải trả người bán ngắn hạn",
+                "2": "17",
+                "3": "49.049.661.996",
+                "4": "59.887.433.037"
+            },
+            {
+                "0": "312",
+                "1": "2. Người mua trả tiền trước ngắn hạn",
+                "2": "18",
+                "3": "11.175.579.988",
+                "4": "19.040.979.988"
+            },
+            {
+                "0": "313",
+                "1": "3. Thuế và các khoản phải nộp Nhà nước",
+                "2": "19",
+                "3": "8.877.369.119",
+                "4": "14.980.252.473"
+            },
+            {
+                "0": "315",
+                "1": "4. Chi phí phải trả ngắn hạn",
+                "2": "20",
+                "3": "9.467.019.245",
+                "4": "1.476.893.150"
+            },
+            {
+                "0": "318",
+                "1": "5. Doanh thu chưa thực hiện ngắn hạn",
+                "2": "22",
+                "3": "10.056.070.258",
+                "4": "16.981.880.516"
+            },
+            {
+                "0": "319",
+                "1": "6. Phải trả ngắn hạn khác",
+                "2": "21",
+                "3": "74.953.911.081",
+                "4": "54.029.963.663"
+            },
+            {
+                "0": "320",
+                "1": "7. Vay và nợ thuê tài chính ngắn hạn",
+                "2": "16",
+                "3": "-",
+                "4": "138.303.975.600"
+            },
+            {
+                "0": "321",
+                "1": "8. Dự phòng phải trả ngắn hạn",
+                "2": "23",
+                "3": "1.606.315.783",
+                "4": "3.986.926.513"
+            },
+            {
+                "0": "322",
+                "1": "9. Quỹ khen thưởng phúc lợi",
+                "2": "",
+                "3": "6.458.303.282",
+                "4": "6.458.303.282"
+            },
+            {
+                "0": "330",
+                "1": "II. Nợ dài hạn",
+                "2": "",
+                "3": "666.125.596",
+                "4": "11.307.957.947"
+            },
+            {
+                "0": "336",
+                "1": "1. Doanh thu chưa thực hiện dài hạn",
+                "2": "22",
+                "3": "568.610.577",
+                "4": "9.742.370.326"
+            },
+            {
+                "0": "342",
+                "1": "2. Dự phòng phải trả dài hạn",
+                "2": "23",
+                "3": "97.515.019",
+                "4": "1.565.587.621"
+            },
+            {
+                "0": "400",
+                "1": "D. VỐN CHỦ SỞ HỮU",
+                "2": "",
+                "3": "4.501.280.877.390",
+                "4": "4.166.136.529.341"
+            },
+            {
+                "0": "410",
+                "1": "I. Vốn chủ sở hữu",
+                "2": "24",
+                "3": "4.501.280.877.390",
+                "4": "4.166.136.529.341"
+            },
+            {
+                "0": "411",
+                "1": "1. Vốn góp của chủ sở hữu",
+                "2": "",
+                "3": "3.471.607.130.000",
+                "4": "3.214.481.530.000"
+            },
+            {
+                "0": "411a",
+                "1": "Cổ phiếu phổ thông có quyền biểu quyết",
+                "2": "",
+                "3": "3.471.607.130.000",
+                "4": "3.214.481.530.000"
+            },
+            {
+                "0": "412",
+                "1": "2. Thặng dư vốn cổ phần",
+                "2": "",
+                "3": "1.976.351.645",
+                "4": "1.976.351.645"
+            },
+            {
+                "0": "418",
+                "1": "3. Quỹ đầu tư phát triển",
+                "2": "",
+                "3": "19.572.915.034",
+                "4": "19.572.915.034"
+            },
+            {
+                "0": "421",
+                "1": "4. Lợi nhuận sau thuế chưa phân phối",
+                "2": "",
+                "3": "943.307.442.384",
+                "4": "852.278.552.896"
+            },
+            {
+                "0": "421a",
+                "1": "LNST chưa phân phối lũy kế đến cuối năm trước",
+                "2": "",
+                "3": "595.159.837.926",
+                "4": "630.281.878.729"
+            },
+            {
+                "0": "421b",
+                "1": "LNST chưa phân phối năm nay",
+                "2": "",
+                "3": "348.147.604.458",
+                "4": "221.996.674.167"
+            },
+            {
+                "0": "429",
+                "1": "5. Lợi ích cổ đông không kiểm soát",
+                "2": "",
+                "3": "64.817.038.327",
+                "4": "77.827.179.766"
+            },
+            {
+                "0": "440",
+                "1": "TỔNG CỘNG NGUỒN VỐN",
+                "2": "",
+                "3": "4.673.591.233.738",
+                "4": "4.492.591.095.510"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_4",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "Người lập biểu\n\nPhạm Hồng Dung\n\nKế toán trưởng\n\nHồ Thị Xuân Hòa\n\nHải Phòng, ngày 18 tháng 03 năm 2024\n\nGiám đốc\n\nNguyên Thế Hùng\n\n7\n\n\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT\n\nNăm 2023",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm 2023 VND",
+                "4": "Năm 2022 VND"
+            },
+            {
+                "0": "01",
+                "1": "1. Doanh thu bán hàng và cung cấp dịch vụ",
+                "2": "26",
+                "3": "366.584.514.938",
+                "4": "385.322.979.961"
+            },
+            {
+                "0": "02",
+                "1": "2. Các khoản giảm trừ doanh thu",
+                "2": "",
+                "3": "9.259.259",
+                "4": "27.777.777"
+            },
+            {
+                "0": "10",
+                "1": "3. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "366.575.255.679",
+                "4": "385.295.202.184"
+            },
+            {
+                "0": "11",
+                "1": "4. Giá vốn hàng bán",
+                "2": "27",
+                "3": "325.971.613.689",
+                "4": "347.524.873.255"
+            },
+            {
+                "0": "20",
+                "1": "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "2": "",
+                "3": "40.603.641.990",
+                "4": "37.770.328.929"
+            },
+            {
+                "0": "21",
+                "1": "6. Doanh thu hoạt động tài chính",
+                "2": "28",
+                "3": "234.586.736.271",
+                "4": "469.229.439.183"
+            },
+            {
+                "0": "22",
+                "1": "7. Chi phí tài chính",
+                "2": "29",
+                "3": "5.422.868.558",
+                "4": "16.105.180.370"
+            },
+            {
+                "0": "23",
+                "1": "Trong đó: Chi phí lãi vay",
+                "2": "",
+                "3": "1.799.147.419",
+                "4": "9.248.499.066"
+            },
+            {
+                "0": "24",
+                "1": "8. Phần lãi hoặc lỗ trong công ty liên doanh, liên kết",
+                "2": "",
+                "3": "117.497.921.768",
+                "4": "(251.232.781.159)"
+            },
+            {
+                "0": "25",
+                "1": "9. Chi phí bán hàng",
+                "2": "30",
+                "3": "26.143.107.407",
+                "4": "6.273.637.784"
+            },
+            {
+                "0": "26",
+                "1": "10. Chi phí quản lý doanh nghiệp",
+                "2": "31",
+                "3": "9.937.165.626",
+                "4": "12.802.458.637"
+            },
+            {
+                "0": "30",
+                "1": "11. Lợi nhuận thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "351.185.158.438",
+                "4": "220.585.710.162"
+            },
+            {
+                "0": "31",
+                "1": "12. Thu nhập khác",
+                "2": "32",
+                "3": "10.502.592.420",
+                "4": "7.514.710.535"
+            },
+            {
+                "0": "32",
+                "1": "13. Chi phí khác",
+                "2": "",
+                "3": "900.406.124",
+                "4": "12.471.679"
+            },
+            {
+                "0": "40",
+                "1": "14. Lợi nhuận khác",
+                "2": "",
+                "3": "9.602.186.296",
+                "4": "7.502.238.856"
+            },
+            {
+                "0": "50",
+                "1": "15. Tổng lợi nhuận kế toán trước thuế",
+                "2": "",
+                "3": "360.787.344.734",
+                "4": "228.087.949.018"
+            },
+            {
+                "0": "51",
+                "1": "16. Chi phí thuế thu nhập doanh nghiệp hiện hành",
+                "2": "33",
+                "3": "8.936.514.092",
+                "4": "3.475.196.775"
+            },
+            {
+                "0": "60",
+                "1": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+                "2": "",
+                "3": "351.850.830.642",
+                "4": "224.612.752.243"
+            },
+            {
+                "0": "61",
+                "1": "19. Lợi nhuận sau thuế của Công ty mẹ",
+                "2": "",
+                "3": "348.147.604.458",
+                "4": "221.996.674.167"
+            },
+            {
+                "0": "62",
+                "1": "20. Lợi nhuận sau thuế của cổ đông không kiểm soát",
+                "2": "",
+                "3": "3.703.226.184",
+                "4": "2.616.078.076"
+            },
+            {
+                "0": "70",
+                "1": "21. Lãi cơ bản trên cổ phiếu",
+                "2": "34",
+                "3": "1.042",
+                "4": "664"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_5",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "Người lập biểu\n\nPhạm Hồng Dung\n\nKế toán trưởng\n\nHồ Thị Xuân Hòa\n\nHải Phòng, ngày 18 tháng 03 năm 2024\n\nNguyễn Thế Hùng\n\n8\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nBáo cáo tài chính hợp nhất\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT\n\nNăm 2023\n\n(Theo phương pháp gián tiếp)",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm 2023 VND",
+                "4": "Năm 2022 VND"
+            },
+            {
+                "0": "I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "1": "I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "2": "I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "3": "I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+                "4": "I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH"
+            },
+            {
+                "0": "01",
+                "1": "Lợi nhuận trước thuế",
+                "2": "",
+                "3": "360.787.344.734",
+                "4": "228.087.949.018"
+            },
+            {
+                "0": "01",
+                "1": "Điều chỉnh cho các khoản",
+                "2": "",
+                "3": "(329.939.759.733)",
+                "4": "(191.600.094.184)"
+            },
+            {
+                "0": "02",
+                "1": "Khấu hao tài sản cố định và bất động sản đầu tư",
+                "2": "",
+                "3": "16.096.257.727",
+                "4": "12.972.092.123"
+            },
+            {
+                "0": "03",
+                "1": "Các khoản dự phòng",
+                "2": "",
+                "3": "(7.875.813.464)",
+                "4": "2.345.421.122"
+            },
+            {
+                "0": "04",
+                "1": "Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+                "2": "",
+                "3": "2.854.623.400",
+                "4": "1.731.694.491"
+            },
+            {
+                "0": "05",
+                "1": "Lãi, lỗ từ hoạt động đầu tư",
+                "2": "",
+                "3": "(351.515.439.766)",
+                "4": "(217.835.372.031)"
+            },
+            {
+                "0": "06",
+                "1": "Chi phí lãi vay",
+                "2": "",
+                "3": "1.799.147.419",
+                "4": "9.248.499.066"
+            },
+            {
+                "0": "07",
+                "1": "Các khoản điều chỉnh khác",
+                "2": "",
+                "3": "8.701.464.951",
+                "4": "(62.428.955)"
+            },
+            {
+                "0": "08",
+                "1": "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+                "2": "",
+                "3": "30.847.585.001",
+                "4": "36.487.854.834"
+            },
+            {
+                "0": "09",
+                "1": "Tăng, giảm các khoản phải thu",
+                "2": "",
+                "3": "(39.217.975.519)",
+                "4": "16.956.161.734"
+            },
+            {
+                "0": "10",
+                "1": "Tăng, giảm hàng tồn kho",
+                "2": "",
+                "3": "128.672.102.433",
+                "4": "(178.568.538.292)"
+            },
+            {
+                "0": "11",
+                "1": "Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",
+                "2": "",
+                "3": "(33.553.443.152)",
+                "4": "(25.246.001.494)"
+            },
+            {
+                "0": "12",
+                "1": "Tăng, giảm chi phí trả trước",
+                "2": "",
+                "3": "2.617.482.148",
+                "4": "(184.261.008)"
+            },
+            {
+                "0": "14",
+                "1": "Tiền lãi vay đã trả",
+                "2": "",
+                "3": "(1.907.640.569)",
+                "4": "(9.140.005.916)"
+            },
+            {
+                "0": "15",
+                "1": "Thuế thu nhập doanh nghiệp đã nộp",
+                "2": "",
+                "3": "(4.561.247.448)",
+                "4": "(7.415.219.130)"
+            },
+            {
+                "0": "20",
+                "1": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+                "2": "",
+                "3": "82.896.862.894",
+                "4": "(167.110.009.272)"
+            },
+            {
+                "0": "II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐÀU TỪ",
+                "1": "II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐÀU TỪ",
+                "2": "II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐÀU TỪ",
+                "3": "II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐÀU TỪ",
+                "4": "II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐÀU TỪ"
+            },
+            {
+                "0": "21",
+                "1": "Tiền chi đề mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác",
+                "2": "",
+                "3": "(264.363.751.855)",
+                "4": "(1.142.127.636)"
+            },
+            {
+                "0": "22",
+                "1": "Tiền thu từ thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác",
+                "2": "",
+                "3": "7.163.636.364",
+                "4": "-"
+            },
+            {
+                "0": "23",
+                "1": "Tiền chi cho vay, mua các công cụ nợ của đơn vị",
+                "2": "",
+                "3": "(791.926.066.400)",
+                "4": "(493.278.594.521)"
+            },
+            {
+                "0": "24",
+                "1": "Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",
+                "2": "",
+                "3": "730.478.594.521",
+                "4": "383.908.000.000"
+            },
+            {
+                "0": "25",
+                "1": "Tiền chi đầu tư góp vốn vào đơn vị khác",
+                "2": "",
+                "3": "-",
+                "4": "(57.459.000.000)"
+            },
+            {
+                "0": "27",
+                "1": "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+                "2": "",
+                "3": "231.212.427.427",
+                "4": "463.122.248.251"
+            },
+            {
+                "0": "30",
+                "1": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+                "2": "",
+                "3": "(87.435.159.943)",
+                "4": "295.150.526.094"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_6",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "9\n\n\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\nBÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT\n\nNăm 2023\n\n(Theo phương pháp gián tiếp)\n\n(tiếp theo)",
+        "dataframe": [
+            {
+                "0": "Mã số",
+                "1": "CHỈ TIÊU",
+                "2": "Thuyết minh",
+                "3": "Năm 2023 VND",
+                "4": "Năm 2022 VND"
+            },
+            {
+                "0": "III. LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "1": "III. LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "2": "III. LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "3": "III. LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+                "4": "III. LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+            },
+            {
+                "0": "33",
+                "1": "1. Tiền thu từ đi vay",
+                "2": "",
+                "3": "-",
+                "4": "553.955.069.685"
+            },
+            {
+                "0": "34",
+                "1": "2. Tiền trả nợ gốc vay",
+                "2": "",
+                "3": "(138.303.975.600)",
+                "4": "(524.896.021.285)"
+            },
+            {
+                "0": "36",
+                "1": "3. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",
+                "2": "",
+                "3": "(30.012.005)",
+                "4": "-"
+            },
+            {
+                "0": "40",
+                "1": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                "2": "",
+                "3": "(138.333.987.605)",
+                "4": "29.059.048.400"
+            },
+            {
+                "0": "50",
+                "1": "Lưu chuyển tiền thuần trong năm",
+                "2": "",
+                "3": "(142.872.284.654)",
+                "4": "157.099.565.222"
+            },
+            {
+                "0": "60",
+                "1": "Tiền và tương đương tiền đầu năm",
+                "2": "",
+                "3": "237.757.092.560",
+                "4": "80.630.981.005"
+            },
+            {
+                "0": "61",
+                "1": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+                "2": "",
+                "3": "(5.239.994)",
+                "4": "26.546.333"
+            },
+            {
+                "0": "70",
+                "1": "Tiền và tương đương tiền cuối năm",
+                "2": "04",
+                "3": "94.879.567.912",
+                "4": "237.757.092.560"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_7",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "III. LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH\n\nNgười lập biểu\n\nPhạm Hồng Dung\n\nKế toán trưởng\n\nHồ Thị Xuân Hòa\n\nNguyễn Thế Hùng\n\n10\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT\n\nNăm 2023\n\n1. ĐẶC ĐIỂM HOẠT ĐỘNG CỦA DOANH NGHIỆP\n\nHình thức sở hữu vốn\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy được thành lập và hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp Công ty cổ phần số 0200815578 do Sở Kế hoạch và Đầu tư Thành phố Hải Phòng cấp lần đầu ngày 10 tháng 05 năm 2008, đăng ký thay đổi lần thứ mười lăm ngày 18 tháng 07 năm 2023.\n\nTrụ sở chính của Công ty tại: Tòa nhà 116 Nguyễn Đức Cảnh, phường Cát Dài, quận Lê Chân, thành phố Hải Phòng.\n\nVốn điều lệ của Công ty là: 3.471.607.130.000 VND; tương đương 347.160.713 cổ phần, mạnh giá một cổ phần là 10.000 VND.\n\nTổng số nhân viên của Công ty và các Công ty con tại ngày 31 tháng 12 năm 2023 là: 60 người (tại ngày 31 tháng 12 năm 2022 là: 31 người).\n\nLĩnh vực kinh doanh\n\nKinh doanh ô tô con, ô tô tải và các phụ tùng, thiết bị phụ trợ.\n\nNgành nghề kinh doanh\n\nHoạt động chính của Công ty là:\n\n- Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê, chi tiết:\n\n+ Thuê nhà, công trình xây dựng để cho thuê lại;\n\n+ Đối với đất được Nhà nước cho thuê thì được đầu tư xây dựng nhà ở để cho thuê; đầu tư xây dựng nhà, công trình xây dựng không phải là nhà ở để bán, cho thuê, cho thuê mua;\n\n+ Nhận chuyển nhượng toàn bộ hoặc một phần dự án bất động sản của chủ đầu tư để xây dựng nhà, công trình xây dựng để bán, cho thuê, cho thuê mua;\n\n+ Đối với đất được Nhà nước giao thì được đầu tư xây dựng nhà ở để bán, cho thuê, cho thuê mua; (Khoản 3 điều 11 Luật kinh doanh bất động sản năm 2014).\n\n- Bán phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác (Trừ hoạt động đầu giá);\n\n- Sản xuất phụ tùng và bộ phận phụ trợ cho xe có động cơ và động cơ xe;\n\n- Bán buôn ô tô và xe có động cơ khác (Trừ hoạt động dấu giá);\n\n- Bảo dưỡng, sửa chữa ô tô và xe có động cơ khác;\n\n- Đại lý ô tô và xe có động cơ khác (Trừ hoạt động dấu giá);\n\n- Xây dựng nhà để ở;\n\n- Xây dựng nhà không để ở;\n\n- Hoàn thiện công trình xây dựng.\n\nĐặc điểm hoạt động của doanh nghiệp trong năm tài chính có ảnh hưởng đến Báo cáo tài chính hợp nhất\n\n- Năm 2023, Sự đi xuống của toàn ngành ô tô đã được dự báo trước do diễn biến bắt ổn khó lường của nền kinh tế tác động tiêu cực đến mọi ngành nghề, cũng như lãi suất ngân hàng không ổn định góp phần ảnh hưởng đến sức mua của người dân; Thị trường xe ô tô tiếp tục cạnh tranh mạnh. Ngoài ra, trong năm Công ty đẩy mạnh đầu tư cho hoạt động mở rộng mạng lưới, tăng độ nhận diện thị trường, đầu tư mở Showroom. Điều này dẫn đến Doanh thu năm 2023 giảm nhẹ và Chỉ phí bán hàng năm 2023 tàng so với cùng kỷ nằm trước. Tuy nhiên, nhỏ sự đóng góp của công ty liên kết dẫn tới Lợi nhuận trước thuế trên Báo cáo tài chính hợp nhất tăng 58,2% so với năm 2022.\n\n11\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cành, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\nCâu trúc tập đoàn\n\n- Công ty có các công ty con được hợp nhất báo cáo tài chính tại thời điểm 31/12/2023 bao gồm:",
+        "dataframe": [
+            {
+                "0": "Tên công ty",
+                "1": "Địa chỉ",
+                "2": "Tỷ lệ lợi ích",
+                "3": "Tỷ lệ quyền biểu quyết",
+                "4": "Hoạt động kinh doanh chính"
+            },
+            {
+                "0": "Công ty Cổ phần Phát triển Dịch vụ Hoàng Giang",
+                "1": "Km9, Quốc lộ 5, Xã Nam Sơn, Huyện An Dương, Thành phố Hải Phòng",
+                "2": "99,794%",
+                "3": "99,794%",
+                "4": "Kinh doanh ô tô và xe động cơ"
+            },
+            {
+                "0": "Công ty TNHH Pruksa Việt Nam",
+                "1": "Phòng A, Tầng 8, Tòa nhà 116 Nguyễn Đức Cảnh, Quận Lê Chân, Thành phố Hải Phòng",
+                "2": "90,17%",
+                "3": "90,17%",
+                "4": "Xây dựng nhà ở xã hội"
+            },
+            {
+                "0": "Công ty Cổ phần Tập đoàn Bất động sản CRV",
+                "1": "Tầng 4, Số 183, Phố Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trung, Thành phố Hà Nội",
+                "2": "43,56%",
+                "3": "43,58%",
+                "4": "Xây dựng và kinh doanh Bất động sản"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_8",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "2. CHẾ ĐỘ VÀ CHÍNH SÁCH KẾ TOÁN ÁP DỤNG TẠI CÔNG TY\n\n2.1. Kỳ kế toán, đơn vị tiền tệ sử dụng trong kế toán\n\nKỳ kế toán năm của Công ty theo năm dương lịch bắt đầu từ ngày 01/01 và kết thúc vào ngày 31/12 hàng năm. Đơn vị tiền tệ sử dụng trong ghi chép kế toán là Đồng Việt Nam (VND).\n\n2.2. Chuẩn mực và Chế độ kế toán áp dụng\n\nChế độ ké toán áp dụng\n\nCông ty áp dụng Chế độ Kế toán doanh nghiệp ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính, Thông tư số 53/2016/TT-BTC ngày 21/03/2016 của Bộ Tài chính về việc sửa đổi, bổ sung một số điều của Thông tư số 200/2014/TT-BTC và Thông tư số 202/2014/TT-BTC hướng dẫn Phương pháp lập và trình bày báo cáo tài chính hợp nhất.\n\nTuyên bố về việc tuân thủ Chuẩn mực kế toán và Chế độ kế toán\n\nCông ty đã áp dụng các Chuẩn mực kế toán Việt Nam và các văn bản hướng dẫn Chuẩn mực do Nhà nước đã ban hành. Các Báo cáo tài chính được lập và trình bày theo đúng mọi quy định của từng chuẩn mực, thông tư hướng dẫn thực hiện Chuẩn mực và Chế độ kế toán doanh nghiệp hiện hành đang áp dụng.\n\n2.3. Cơ sở lập Báo cáo tài chính hợp nhất\n\nBáo cáo tài chính hợp nhất của Công ty được lập trên cơ sở hợp nhất Báo cáo tài chính riêng của Công ty và Báo cáo tài chính của các công ty con do Công ty kiểm soát (các công ty con) được lập cho năm tài chính kết thúc ngày 31 tháng 12 hàng năm.\n\nViệc kiểm soát đạt được khi Công ty có khả năng kiểm soát các chính sách tài chính và hoạt động của các công ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của các công ty này.\n\nBáo cáo tài chính của các công ty con được áp dụng các chính sách kế toán nhất quán với các chính sách kế toán của Công ty. Trong trường hợp cần thiết, Báo cáo tài chính của các công ty con được điều chỉnh để đảm bảo tính nhất quán trong các chính sách kế toán được áp dụng tại Công ty và các công ty con.\n\nCác số dư, thu nhập và chi phí chủ yếu, kể cả các khoản lãi hay lỗ chưa thực hiện phát sinh từ các giao dịch nội bộ được loại trừ khi hợp nhất Báo cáo tài chính.\n\n12\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\nLợi ích của cổ đông không kiểm soát\n\nLợi ích của các cổ đông không kiểm soát là phần lợi ích của những chủ sở hữu không nấm quyền kiểm soát trong lãi, hoặc lỗ, và trong tài sản thuần của công ty con.\n\nLãi, lỗ khi có sự thay đổi tỷ lệ sở hữu tại công ty con\n\n- Trường hợp công ty con huy động thêm vốn góp từ các chủ sở hữu: Khi lập Báo cáo tài chính hợp nhất, công ty mẹ xác định và điều chỉnh lại sự biến động giữa phần sở hữu của mình và cổ đông không kiểm soát trong tài sản thuần của công ty con tại thời điểm trước và sau khi huy động thêm vốn.\n\n2.4. U'óc tính kế toán\n\nViệc lập Báo cáo tài chính hợp nhất tuân thủ theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính hợp nhất yêu cầu Ban Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày kết thúc năm tài chính cũng như các số liệu về doanh thu và chi phí trong suốt năm tài chính.\n\nCác ước tính và giả định có ảnh hưởng trọng yếu trong Báo cáo tài chính hợp nhất bao gồm:\n\n- Dự phòng phải thu khó đòi;\n\n- Dự phòng giảm giá hàng tồn kho;\n\n- Dự phòng bảo hành sản phẩm, hàng hóa;\n\n- Thời gian hữu dụng ước tính của tài sản cố định;\n\n- Uốc tính thuế thu nhập doanh nghiệp.\n\nCác ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khứ và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới Báo cáo tài chính hợp nhất của Công ty và được Ban Giám đốc Công ty đánh giá là hợp lý.\n\n2.5. Công cụ tài chính\n\nGhi nhận ban đầu\n\nTài sản tài chính\n\nTài sản tài chính của Công ty bao gồm tiền và các khoản tương đương tiền, các khoản phải thu khách hàng và phải thu khác, các khoản cho vay. Tại thời điểm ghi nhận ban đầu, tài sản tài chính được xác định theo giá mua/chi phí phát hành cộng các chi phí phát sinh khác liên quan trực tiếp đến việc mua, phát hành tài sản tài chính đó.\n\nNợ phải trả tài chính\n\nNợ phải trả tài chính của Công ty bao gồm các khoản vay, các khoản phải trả người bán và phải trả khác, chi phí phải trả. Tại thời điểm ghi nhận lần đầu, các khoản nợ phải trả tài chính được xác định theo giá phát hành cộng các chi phí phát sinh liên quan trực tiếp đến việc phát hành nợ phải trả tài chính đó.\n\nGiá trị sau ghi nhận ban đầu\n\nTài sản tài chính và nợ phải trả tài chính chưa được đánh giá theo giá trị hợp lý tại ngày kết thúc năm tài chính do Thông tư số 210/2009/TT-BTC và các quy định hiện hành yêu cầu trình bày Báo cáo tài chính và thuyết minh thông tin đối với công cụ tài chính nhưng không đưa ra hướng dẫn tương đương cho việc đánh giá và ghi nhận giá trị hợp lý của các tài sản tài chính và nợ phải trả tài chính.\n\n13\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n2.6. Các nghiệp vụ bằng ngoại tệ\n\nCác giao dịch bằng ngoại tệ trong năm tài chính được quy đổi ra đồng Việt Nam theo tỷ giá thực tế tại ngày giao dịch.\n\nTỷ giá giao dịch thực tế khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm lập Báo cáo tài chính hợp nhất được xác định theo nguyên tắc:\n\n- Đối với khoản mục phân loại là tài sản áp dụng tỷ giá mua ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch;\n\n- Đối với tiền gửi ngoại tệ áp dụng tỷ giá mua của chính ngân hàng nơi Công ty mở tài khoản ngoại tệ;\n\n- Đối với khoản mục phân loại là nợ phải trả áp dụng tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.\n\nTất cả các khoản chênh lệch tỷ giá thực tế phát sinh trong năm và chênh lệch do đánh giá lại số dư các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm lập Báo cáo tài chính được hạch toán vào kết quả hoạt động kinh doanh của năm tài chính.\n\n2.7. Tiền và các khoản tương đương tiền\n\nTiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng không kỳ hạn.\n\nCác khoản tương đương tiền là các khoản đầu tư ngắn hạn có thời gian thu hồi không quá 03 tháng kể từ ngày đầu tư, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.\n\n2.8. Hợp nhất kinh doanh và lợi thế thương mại\n\nHợp nhất kinh doanh được hạch toán theo phương pháp giá mua. Giá phí hợp nhất kinh doanh bao gồm giá trị hợp lý tại ngày diễn ra trao đổi của các tài sản đem trao đổi, các khoản nợ phải trả đã phát sinh hoặc đã thừa nhận và các công cụ vốn do bên mua phát hành để đổi lấy quyền kiểm soát bên bị mua và các chi phí liên quan trực tiếp đến việc hợp nhất kinh doanh. Tài sản, nợ phải trả có thể xác định được và những khoản nợ tiềm tàng phải gánh chịu trong hợp nhất kinh doanh của bên bị mua đều ghi nhận theo giá trị hợp lý tại ngày hợp nhất kinh doanh.\n\nLợi thể thương mại hoặc lãi từ giao dịch mua rẻ được xác định là chênh lệch giữa giá phí khoản đầu tư và giá trị hợp lý của tài sản thuần có thể xác định được của công ty con tại ngày mua do công ty mẹ nằm giữ (thời điểm công ty mẹ nằm giữ quyền kiểm soát công ty con). Lãi mua rẻ (nếu có) sẽ được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Lợi thể thương mại được phân bổ vào chi phí theo phương pháp đường thẳng trong thời gian hữu ích được ước tính là 10 năm. Định kỳ Công ty sẽ đánh giá tổn thất lợi thể thương mại tại công ty con, nếu có bằng chứng cho thấy số lợi thể thương mại bị tổn thất lớn hơn số phân bổ hàng năm thì phân bổ theo số lợi thể thương mại bị tổn thất ngay trong nằm phát sinh.\n\n2.9. Các khoản đầu tư tài chính\n\nCác khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm: Các khoản tiền gửi ngân hàng có kỳ hạn được nằm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ và các khoản đầu tư nắm giữ đến ngày đáo hạn khác.\n\n14\n\n\n\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\nCác khoản đầu tư vào các công ty liên kết mua trong năm được bên mua xác định ngày mua, giá phí khoản đầu tư và thực hiện thủ tục kế toán theo đúng quy định của Chuẩn mực kế toán “Hợp nhất kinh doanh” và “Đầu tư vào công ty liên doanh liên kết”.\n\nTrong Báo cáo tài chính hợp nhất các khoản đầu tư vào công ty liên kết được kế toán theo phương pháp vốn chủ sở hữu. Theo phương pháp vốn chủ sở hữu, khoản đầu tư được ghi nhận ban đầu trên Bảng cân đối kế toán hợp nhất theo giá gốc, sau đó được điều chỉnh theo những thay đổi của phần sở hữu của Tập đoàn trong giá trị tài sản thuần của công ty liên kết sau khi mua. Lợi thế thương mại phát sinh từ việc đầu tư vào công ty liên kết được phân ánh trong giá trị còn lại của khoản đầu tư. Tập đoàn không phân bổ lợi thế thương mại này mà hàng năm thực hiện đánh giá xem lợi thế thương mại có bị suy giảm giá trị hay không.\n\nĐối với việc điều chỉnh giá trị khoản đầu tư vào công ty liên doanh, liên kết từ sau ngày đầu tư đến đầu năm báo cáo, Công ty thực hiện như sau:\n\n- Đối với phần điều chỉnh vào Báo cáo kết quả hoạt động kinh doanh của các năm trước, Công ty điều chỉnh vào Lợi nhuận sau thuế chưa phân phối theo số đã điều chỉnh lũy kế thuần đến đầu năm báo cáo.\n\n- Đối với phần điều chỉnh do chênh lệch đánh giá lại tài sản và chênh lệch tỷ giá hối đoái được ghi nhận vào Bàng cân đối kế toán của các năm trước, Công ty xác định điều chỉnh vào các khoản mục tương ứng trên Bàng cân đối kế toán theo số đã điều chỉnh lũy kế thuần.\n\nĐối với việc điều chỉnh giá trị khoản đầu tư vào công ty liên doanh, liên kết phát sinh trong năm, Công ty loại trừ phần cổ tức ưu đãi của các cổ đông khác (nếu cổ phiếu ưu đãi được phân loại là vốn chủ sở hữu); số dự kiến trích quỹ khen thưởng, phúc lợi của công ty liên doanh, liên kết; phần lãi liên quan tới giao dịch công ty liên doanh, liên kết góp vốn hoặc bán tài sản cho Công ty trước khi xác định phần sở hữu của Công ty trong lợi nhuận hoặc lỗ của công ty liên doanh, liên kết năm báo cáo. Sau đó Công ty điều chỉnh giá trị khoản đầu tư tương ứng với phần sở hữu trong lãi, lỗ của công ty liên doanh, liên kết và ghi nhận ngay vào báo cáo kết quả hoạt động kinh doanh hợp nhất.\n\nBáo cáo tài chính của công ty liên kết được lập cùng năm với Báo cáo tài chính hợp nhất của Tập đoàn và sử dụng các chính sách kế toán nhất quán với Tập đoàn. Các điều chỉnh thích hợp đã được ghi nhận để đảm bảo các chính sách kế toán được áp dụng nhất quán với Tập đoàn trong trường hợp cần thiết.\n\nDự phòng giảm giá các khoản đầu tư được lập vào thời điểm cuối năm:\n\n- Dự phòng giảm giá các khoản đầu tư nắm giữ đến ngày đáo hạn được lập vào thời điểm cuối năm căn cứ khả năng thu hồi để lập dự phòng phải thu khó đòi theo quy định của pháp luật.\n\n2.10. Các khoản nợ phải thu\n\nCác khoản phải thu được theo dõi chi tiết theo kỳ hạn phải thu, đối tượng phải thu, loại nguyên tệ phải thu, và các yếu tố khác theo nhu cầu quản lý của Công ty. Các khoản phải thu được phân loại là ngắn hạn và dài hạn trên báo cáo tài chính hợp nhất căn cứ kỳ hạn còn lại của các khoản phải thu tại ngày báo cáo.\n\nDự phòng nợ phải thu khó đòi được trích lập cho các khoản: nợ phải thu quá hạn thanh toán ghi trong hợp đồng kinh tế, các khế ước vay nợ, cam kết hợp đồng hoặc cam kết nợ và nợ phải thu chưa đến hạn thanh toán nhưng khó có khả năng thu hồi. Trong đó, việc trích lập dự phòng nợ phải thu quá hạn thanh toán được Công ty căn cứ vào thời gian trả nợ gốc thenu hợp đồng mua bán bản đầu, không tính đến việc gia hạn nợ giữa các bên và nợ phải thu chưa đến hạn thanh toán nhưng khách nợ đã lâm vào tỉnh trạng phá sản hoặc đang làm thủ tục giải thể, mất tích, bổ trốn hoặc dự kiến mức tổn thất có thể xảy ra.\n\n15\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n2.11. Hàng tồn kho\n\nHàng tồn kho được ghi nhận ban đầu theo giá gốc bao gồm chi phí mua, chi phí chế biến và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái tại thời điểm ghi nhận ban đầu. Sau ghi nhận ban đầu, tại thời điểm lập Báo cáo tài chính nếu giá trị thuần có thể thực hiện được của hàng tồn kho thấp hơn giá gốc thì hàng tồn kho được ghi nhận theo giá trị thuần có thể thực hiện được.\n\nGiá trị thuần có thể thực hiện được ước tính dựa vào giá bán của hàng tồn kho trừ đi các khoản chi phí ước tính để hoàn thành sản phẩm và các chi phí ước tính để bán sản phẩm.\n\nGiá trị hàng tồn kho được xác định theo phương pháp bình quân gia quyền tháng.\n\nHàng tồn kho được hạch toán theo phương pháp kê khai thường xuyên.\n\nDự phòng giảm giá hàng tồn kho được lập vào thời điểm cuối năm căn cứ theo số chênh lệch giữa giá gốc của hàng tồn kho lớn hơn giá trị thuần có thể thực hiện được. Theo chính sách kế toán mới của Công ty: Công ty áp dụng tỷ lệ trích lập dự phòng đối với linh kiện chậm luân chuyển từ 03 đến 05 năm là 20%, từ 05 năm đến 07 năm là 40%, và 70% đối với các linh kiện chậm luân chuyển trên 7 năm. Theo đó, chi phí dự phòng giảm giá hàng tồn kho trong năm giảm 1,4 tỷ VND so với áp dụng chính sách cũ.\n\n2.12. Tài sản cố định\n\nTài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận ban đầu theo giá gốc. Trong quá trình sử dụng, tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận theo nguyên giá, hao mòn lũy kế và giá trị còn lại.\n\nGiá trị sau ghi nhận ban đầu\n\nNếu các khoản chi phí này làm tăng lợi ích kinh tế trong tương lai dự tính thu được từ việc sử dụng tài sản cố định hữu hình vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban đầu thì các chi phí này được vốn hóa như một khoản nguyên giá tăng thêm của tài sản cố định hữu hình.\n\nCác chỉ phí khác phát sinh sau khi tài sản cố định đã đưa vào hoạt động như chỉ phí sửa chữa, bảo dưỡng và đại tư được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm mà chỉ phí phát sinh.\n\nKhấu hao tài sản cố định được trích theo phương pháp đường thẳng với thời gian khấu hao được ước tính như sau:\n\n- Nhà cửa, vật kiến trúc 05 - 45 năm\n\n- Máy móc, thiết bị 05 - 15 năm\n\n- Phương tiện vận tải 06 - 10 năm\n\n- Thiết bị văn phòng 03 - 10 năm\n\n- Quyền sử dụng đất lâu dài\nKhông trích khấu hao\n\n2.13. Bất động sản đầu tư\n\nBất động sản đầu tư được ghi nhận ban đầu theo giá gốc.\n\nĐối với bất động sản đầu tư nằm giữ chờ tăng giá, trước ngày 01/01/2015 được tính trích khấu hao theo phương pháp đường thẳng tương tự như các tài sản khác, kể từ ngày 01/01/2015 không thực hiện trích khấu hao.\n\nĐối với bất động sản đầu tư cho thuê hoạt động được ghi nhận theo nguyên giá, hao mòn lũy kế và giá trị còn lại. Trong đó khấu hao được trích theo phương pháp đường thẳng với thời gian khấu hao được ước tính như sau:\n\n- Nhà cửa, vật kiến trúc 26 - 37 năm\n\n16\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\nViệc chuyển từ bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho thành bất động sản đầu tư chỉ khi có sự thay đổi về mục đích sử dụng như trường hợp chủ sở hữu chấm dứt sử dụng tài sản đó và bất đầu cho bên khác thuê hoạt động hoặc khi kết thúc giai đoạn xây dựng. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hay hàng tồn kho chỉ khi có sự thay đổi về mục đích sử dụng như các trường hợp chủ sở hữu bất đầu sử dụng tài sản này hoặc bất đầu triển khai cho mục đích bán. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho không làm thay đổi nguyên giá hay giá trị còn lại của bất động sản tại ngày chuyển đổi.\n\n2.14. Chi phí xây dựng cơ bản dở dang\n\nChi phí xây dựng cơ bản dở dang bao gồm tài sản cố định đang mua sắm và xây dựng mà chưa hoàn thành tại ngày kết thúc năm tài chính và được ghi nhận theo giá gốc. Chi phí này bao gồm các chi phí về xây dựng, lắp đặt máy móc thiết bị và các chi phí trực tiếp khác.\n\n2.15. Thuê hoạt động\n\nThuê hoạt động là loại hình thuê tài sản cố định mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.\n\n2.16. Chi phí trả trước\n\nCác chỉ phí đã phát sinh liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều năm tài chính được hạch toán vào chỉ phí trả trước để phân bổ dần vào kết quả hoạt động kinh doanh trong các năm tài chính sau.\n\nViệc tính và phân bổ chi phí trả trước dài hạn vào chi phí sản xuất kinh doanh từng năm tài chính được căn cứ vào tính chất, mức độ từng loại chi phí để lựa chọn phương pháp và tiêu thức phân bổ hợp lý.\n\nCác loại chi phí trả trước của Công ty bao gồm:\n\n- Chi phí đất trả trước bao gồm tiền thuê đất trả trước, kể cả các khoản liên quan đến đất thuê mà Công ty đã nhận được giấy chứng nhận quyền sử dụng đất nhưng không đủ điều kiện ghi nhận tài sản cố định vô hình theo Thông tư số 45/2013/TT-BTC do Bộ Tài chính ban hành ngày 25 tháng 4 năm 2013 hướng dẫn chế độ quản lý, sử dụng và trích khấu hao tài sản cố định và các chi phí phát sinh khác liên quan đến việc đảm bảo cho việc sử dụng đất thuê. Các chi phí này được ghi nhận vào báo cáo kết quả kinh doanh hợp nhất theo phương pháp đường thẳng dựa trên thời hạn của hợp đồng thuê đất.\n\n- Công cụ và dụng cụ bao gồm các tài sản mà Công ty nấm giữ để sử dụng trong quá trình hoạt động kinh doanh bình thường, với nguyên giá của mỗi tài sản thấp hơn 30 triệu VND và do đó không đủ điều kiện để ghi nhận là tài sản cố định theo quy định hiện hành. Nguyên giá công cụ dụng cụ được phân bổ theo phương pháp đường thẳng trong thời gian không quá 03 năm.\n\n- Chi phí trả trước khác được ghi nhận theo nguyên giá và được phân bổ theo phương pháp đường thẳng trong thời gian không quá 03 năm.\n\n2.17. Các khoản nợ phải trả\n\nCác khoản nợ phải trả được theo dõi theo kỳ hạn phải trả, đối tượng phải trả, loại nguyên tệ phải trả và các yếu tố khác theo nhu cầu quản lý của Công ty. Các khoản phải trả được phân loại ngắn hạn và dài hạn trên báo cáo tài chính hợp nhất căn cứ theo kỳ hạn còn lại của các khoản phải trả tại ngày báo cáo.\n\n17\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n2.18. Vay\n\nCác khoản vay được theo dõi theo từng đối tượng cho vay, từng khế ước vay nợ và kỳ hạn phải trả của các khoản vay. Trường hợp vay, nợ bằng ngoại tệ thì theo dõi chi tiết theo nguyên tệ.\n\n2.19. Chi phí đi vay\n\nChi phí đi vay được ghi nhận vào chi phí sản xuất, kinh doanh trong năm khi phát sinh, trừ chi phí đi vay liên quan trực tiếp đến việc đầu tư xây dựng hoặc sản xuất tài sản dở dang được tính vào giá trị của tài sản đó (được vốn hoá) khi có đủ các điều kiện quy định trong Chuẩn mực Kế toán Việt Nam số 16 “Chi phí đi vay”. Ngoài ra, đối với khoản vay riêng phục vụ việc xây dựng tài sản cố định, bắt động sản đầu tư, lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng.\n\n2.20. Chi phí phải trả\n\nCác khoản phải trả cho hàng hóa dịch vụ đã nhận được từ người bán hoặc đã được cung cấp cho người mua trong năm báo cáo nhưng thực tế chưa chi trả và các khoản phải trả khác như chi phí lãi tiền vay phải trả... được ghi nhận vào chi phí sản xuất, kinh doanh của năm báo cáo.\n\nViệc hạch toán các khoản chi phí phải trả vào chi phí sản xuất, kinh doanh trong năm phải thực hiện theo nguyên tắc phù hợp giữa doanh thu và chi phí phát sinh trong năm. Các khoản chi phí phải trả sẽ được quyết toán với số chi phí thực tế phát sinh. Số chênh lệch giữa số trích trước và chi phí thực tế được hoàn nhập.\n\n2.21. Các khoản dự phòng phải trả\n\nCác khoản dự phòng phải trả chỉ được ghi nhận khi thỏa mãn các điều kiện sau:\n\n- Công ty có nghĩa vụ nợ hiện tại (nghĩa vụ pháp lý hoặc nghĩa vụ liên đối) do kết quả từ một sự kiện đã xảy ra;\n\n- Sự giảm sút về những lợi ích kinh tế có thể xảy ra dẫn đến việc yêu cầu phải thanh toán nghĩa vụ nợ;\n\n- Đưa ra được một ước tính đáng tin cây về giá trị của nghĩa vụ nợ đó.\n\nGiá trị được ghi nhận của một khoản dự phòng phải trả là giá trị được ước tính hợp lý nhất về khoản tiền sẽ phải chi để thanh toán nghĩa vụ nợ hiện tại tại ngày kết thúc năm tài chính. Đối với hàng hóa là xe ô tô, Công ty có nghĩa vụ bảo hành 12 tháng kể từ ngày bản giao xe và Công ty đang ước tính dự phòng bảo hành xe ô tô bằng 0,045% doanh thu phát sinh đối với các loại hàng hóa có nghĩa vụ bảo hành. Đối với căn hộ đã bán Công ty thực hiện chính sách bảo hành cho nhà liên kể trong 02 năm (tỉ lệ 0,5% doanh thu), bảo hành cho nhà xã hội trong 05 năm (tỉ lệ 1% doanh thu).\n\nChỉ những khoản chi phí liên quan đến khoản dự phòng phải trả đã lập ban đầu mới được bù đáp bằng khoản dự phòng phải trả đó.\n\nDự phòng phải trả được ghi nhận vào chi phí sản xuất kinh doanh của năm tài chính. Khoản chênh lệch giữa số dự phòng phải trả đã lập ở năm tài chính trước chưa sử dụng hết lớn hơn số dự phòng phải trả lập ở năm báo cáo được hoàn nhập ghi giảm chỉ phí sản xuất, kinh doanh trong năm trừ khoản chênh lệch lớn hơn của khoản dự phòng phải trả về bảo hành công trình xây lắp được hoàn nhập vào thu nhập khác trong năm.\n\n18\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n2.22. Doanh thu chưa thực hiện\n\nDoanh thu chưa thực hiện gồm doanh thu nhận trước như: số tiền của khách hàng đã trả trước cho một hoặc nhiều năm tài chính về cho thuê tài sản.\n\nDoanh thu chưa thực hiện được kết chuyển vào Doanh thu bán hàng và cung cấp dịch vụ theo số tiền được xác định phù hợp với từng năm tài chính.\n\n2.23. Vốn chủ sở hữu\n\nVốn đầu tư của chủ sở hữu được ghi nhận theo số vốn thực góp của chủ sở hữu.\n\nThặng dư vốn cổ phần phản ánh chênh lệch giữa mạnh giá, chi phí trực tiếp liên quan đến việc phát hành cổ phiếu và giá phát hành cổ phiếu (kể cả các trường hợp tái phát hành cổ phiếu quỹ) và có thể là thặng dư dương (nếu giá phát hành cao hơn mạnh giá và chi phí trực tiếp liên quan đến việc phát hành cổ phiếu) hoặc thặng dư âm (nếu giá phát hành thấp hơn mạnh giá và chi phí trực tiếp liên quan đến việc phát hành cổ phiếu).\n\nLợi nhuận sau thuế chưa phân phối phân ánh kết quả kinh doanh (lãi, lỗ) sau thuế thu nhập doanh nghiệp và tình hình phân chia lợi nhuận hoặc xử lý lỗ của Công ty.\n\nCổ tức phải trả cho các cổ đông được ghi nhận là khoản phải trả trên Bảng Cân đối kế toán của Công ty sau khi có thông báo chia cổ tức của Hội đồng Quản trị Công ty và thông báo ngày chất quyền nhận cổ tức của Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam.\n\n2.24. Doanh thu\n\nDoanh thu được ghi nhận khi Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán, hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng khi ghi nhận doanh thu:\n\nDoanh thu bán hàng\n\n- Phàn lón rùi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa đã được chuyển giao cho người mua;\n\n- Công ty không còn nằm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa;\n\nDoanh thu cung cấp dịch vụ\n\n- Xác định được phần công việc đã hoàn thành vào ngày lập Bảng cân đối kế toán.\n\nDoanh thu hoạt động tài chính\n\nDoanh thu phát sinh từ tiền lãi, cổ tức, lợi nhuận được chia và các khoản doanh thu hoạt động tài chính khác được ghi nhận khi thỏa mãn đồng thời hai (2) điều kiện sau:\n\n- Có khả năng thu được lợi ích kinh tế từ giao dịch đó;\n\n- Doanh thu được xác định tương đối chắc chắn.\n\nCổ tức, lợi nhuận được chia được ghi nhận khi Công ty được quyền nhận cổ tức hoặc được quyền nhận lợi nhuận từ việc góp vốn.\n\n2.25. Các khoản giảm trừ doanh thu\n\nCác khoản giảm trừ doanh thu bán hàng, cung cấp dịch vụ phát sinh trong năm gồm: Giảm giá hàng bán.\n\nCác khoản chiết khấu thương mại, giảm giá hàng bán, hàng bán bị trả lại phát sinh cùng năm tiêu thụ sản phẩm, hàng hóa dịch vụ được điều chỉnh giảm doanh thu của năm phát sinh. Trường hợp sản phẩm, hàng hoá, dịch vụ đã tiêu thụ từ các năm trước, đến năm sau mới phát sinh các khoản giảm trừ doanh thu thì Công ty ghi giảm doanh thu theo nguyên tắc: Nếu phát sinh trước thời điểm phát hành Báo cáo tài chính thì Công ty ghi giảm doanh thu trên Báo cáo tài chính của năm lập báo cáo (năm trước), và nếu phát sinh sau thời điểm phát hành Báo cáo tài chính thì Công ty ghi giảm doanh thu của năm phát sinh (năm sau).\n\n19\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n2.26.\"Giá vốn hàng bán và dịch vụ cung cấp\n\nGiá vốn hàng bán và dịch vụ cung cấp là tổng chi phí phát sinh của thành phẩm, hàng hóa, vật tư xuất bán và dịch vụ cung cấp cho khách hàng trong năm được ghi nhận phù hợp với doanh thu phát sinh trong năm và đảm bảo tuân thủ nguyên tắc thận trọng. Các trường hợp hao hụt vật tư hàng hóa vượt định mức, chi phí vượt định mức bình thường, hàng tồn kho bị mất mát sau khi đã trừ đi phần trách nhiệm của tập thể, cá nhân có liên quan... được ghi nhận đầy đủ, kịp thời vào giá vốn hàng bán trong năm.\n\n2.27. Chi phí tài chính\n\nCác khoản chi phí được ghi nhận vào chi phí tài chính gồm:\n\n- Chi phí đi vay vốn;\n\n- Lỗ tỷ giá hối đoái...\n\nCác khoản trên được ghi nhận theo tổng số phát sinh trong năm, không bù trừ với doanh thu hoạt động tài chính.\n\n2.28. Thuế thu nhập doanh nghiệp\n\na) Chi phí thuế TNDN hiện hành\n\nChi phí thuế TNDN hiện hành được xác định trên cơ sở thu nhập chịu thuế trong năm và thuế suất thuế TNDN trong năm tài chính hiện hành.\n\nb) Thuế suất thuế TNDN hiện hành\n\nTrong năm tài chính kết thúc ngày 31/12/2023, Công ty hiện đang áp dụng mức thuế suất thuế TNDN là 20% đối với các hoạt động sản xuất kinh doanh có thu nhập chịu thuế TNDN.\n\n2.29. Lãi cơ bản trên cổ phiếu\n\nLãi cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận hoặc lỗ sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho việc trích lập Quỹ Khen thưởng, phúc lợi và Quỹ khen thưởng Ban điều hành) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm.\n\n2.30. Các bên liên quan\n\nCác bên được coi là liên quan nếu bên đó có khả năng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên kia trong việc ra quyết định về các chính sách tài chính và hoạt động. Các bên liên quan của Công ty bao gồm:\n\n- Các doanh nghiệp trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Công ty hoặc chịu sự kiểm soát của Công ty, hoặc cùng chung sự kiểm soát với Công ty, bao gồm cả công ty mẹ, công ty con và công ty liên kết;\n\n- Các cá nhân trực tiếp hoặc gián tiếp nằm quyền biểu quyết của Công ty mà có ảnh hưởng đáng kể đối với Công ty, những nhân sự quản lý chủ chốt của Công ty, những thành viên mật thiết trong gia đình của các cá nhân này;\n\n- Các doanh nghiệp do các cá nhân nếu trên nấm trực tiếp hoặc gián tiếp phần quan trọng quyền biểu quyết hoặc có ảnh hưởng đáng kể tới các doanh nghiệp này.\n\nTrong việc xem xét từng mối quan hệ của các bên liên quan để phục vụ cho việc lập và trình bày Báo cáo tài chính hợp nhất, Công ty chú ý tới bản chất của mối quan hệ hơn là hình thức pháp lý của các quan hệ đó.\n\n20\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n2.31. Thông tin bộ phận\n\nMột bộ phận là một cấu phần có thể xác định riêng biệt của Công ty tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận được chia theo khu vực địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt so với các bộ phận khác.\n\nThông tin bộ phận được lập và trình bày phù hợp với chính sách kế toán áp dụng cho việc lập và trình bày báo cáo tài chính của Công ty nhằm mục đích để giúp người sử dụng báo cáo tài chính hiểu rõ và đánh giá được tình hình hoạt động của Công ty một cách toàn diện.\n\n3. HỢP NHẤT KINH DOANH VÀ CHUYỀN NHƯỢNG CỔ PHẦN\n\n* Trong năm, Công ty đã có các hoạt động như sau:\n\nHoạt động đầu tư góp vốn mua cổ phần của Công ty Cổ phần Phát triển Dịch vụ Hoàng Giang: Vào ngày 09/01/2023, Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy đã tăng thêm 0,004% sở hữu tại Công ty con là Công ty Cổ phần Phát triển Dịch vụ Hoàng Giang, tương đương tổng mạnh giá 10.000.000.000 VND, giá phí hoạt động đầu tư được góp bằng tiền là 10.000.000.000 VND.\n\n4. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Tiền mặt",
+                "1": "1.656.034.921",
+                "2": "1.806.076.613"
+            },
+            {
+                "0": "Tiền gửi ngân hàng không kỳ hạn",
+                "1": "93.223.532.991",
+                "2": "196.951.015.947"
+            },
+            {
+                "0": "Các khoản tương đương tiền",
+                "1": "-",
+                "2": "39.000.000.000"
+            },
+            {
+                "0": "",
+                "1": "94.879.567.912",
+                "2": "237.757.092.560"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_9",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "5. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH\n\na) Đầu tư nằm giữ đến ngày đáo hạn",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "31/12/2023",
+                "3": "01/01/2023",
+                "4": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Dự phòng",
+                "3": "Giá gốc",
+                "4": "Dự phòng"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "Đầu tư ngắn hạn",
+                "1": "538.794.066.400",
+                "2": "-",
+                "3": "473.346.594.521",
+                "4": "-"
+            },
+            {
+                "0": "- Tiền gửi có kỳ hạn (*)",
+                "1": "538.794.066.400",
+                "2": "-",
+                "3": "473.346.594.521",
+                "4": "-"
+            },
+            {
+                "0": "Đầu tư dài hạn",
+                "1": "-",
+                "2": "-",
+                "3": "4.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "- Tiền gửi có kỳ hạn",
+                "1": "-",
+                "2": "-",
+                "3": "4.000.000.000",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "538.794.066.400",
+                "2": "-",
+                "3": "477.346.594.521",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_10",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "(*) Tại thời điểm 31/12/2023, các khoản đầu tư ngắn hạn là khoản tiền gửi có thời gian đáo hạn từ 06 tháng đến 12 tháng tại các Ngân hàng Thương mại Cổ phần với lãi suất từ 4,5%/năm đến 7,45%/năm.\n\n21\n\n\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nBáo cáo tài chính hợp nhất\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n5. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH\n\nb) Đầu tư vào công ty liên kết",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Địa chỉ",
+                "2": "31/12/2023",
+                "3": "31/12/2023",
+                "4": "31/12/2023",
+                "5": "01/01/2023",
+                "6": "01/01/2023",
+                "7": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "Địa chỉ",
+                "2": "Tỷ lệ lợi ích",
+                "3": "Tỷ lệ quyền biểu quyết",
+                "4": "Giá trị ghi sở theo phương pháp Vốn chủ sở hữu",
+                "5": "Tỷ lệ lợi ích",
+                "6": "Tỷ lệ quyền biểu quyết",
+                "7": "Giá trị ghi sở theo phương pháp Vốn chủ sở hữu"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "%",
+                "3": "%",
+                "4": "VND",
+                "5": "%",
+                "6": "%",
+                "7": "VND"
+            },
+            {
+                "0": "- Công ty Cổ phần Tập đoàn Bất Động sản CRV (*)",
+                "1": "Tầng 4, Số 183, Phố Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trung, Thành phố Hà Nội",
+                "2": "43,56%",
+                "3": "43,58%",
+                "4": "3.128.859.858.789",
+                "5": "43,56%",
+                "6": "43,58%",
+                "7": "3.011.361.937.021"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "3.128.859.858.789",
+                "5": "",
+                "6": "",
+                "7": "3.011.361.937.021"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_11",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "(*) Tỷ lệ lợi ích và biểu quyết của Công ty tại Công ty Cổ phần Tập đoàn Bất động sản CRV bao gồm cả tỷ lệ lợi ích gián tiếp và quyền kiểm soát gián tiếp do Công ty con là Công ty Cổ phần Phát triển Dịch vụ Hoàng Giang đầu tư vào Công ty Cổ phần Tập đoàn Bất động sản CRV.\n\n22\n\n\n\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n6. PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "31/12/2023",
+                "3": "01/01/2023",
+                "4": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "Giá trịVND",
+                "2": "Dự phòngVND",
+                "3": "Giá trịVND",
+                "4": "Dự phòngVND"
+            },
+            {
+                "0": "Bên khác",
+                "1": "Bên khác",
+                "2": "Bên khác",
+                "3": "Bên khác",
+                "4": "Bên khác"
+            },
+            {
+                "0": "- Phải thu các khách hàng mua nhà",
+                "1": "1.954.015.144",
+                "2": "-",
+                "3": "3.976.833.384",
+                "4": "-"
+            },
+            {
+                "0": "- Phải thu các khách hàng mua ô tô",
+                "1": "35.403.450.842",
+                "2": "(1.747.500.000)",
+                "3": "9.470.000.000",
+                "4": "(1.048.500.000)"
+            },
+            {
+                "0": "+ Công ty TNHH Sản xuất và Thươngmại Ô tô Nam Việt",
+                "1": "12.225.000.000",
+                "2": "-",
+                "3": "5.725.000.000",
+                "4": "-"
+            },
+            {
+                "0": "+ Công ty Cổ phần Thương mại Dịch vụPhú Mẫn",
+                "1": "16.195.000.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "+ Công ty Cổ phần Sản xuất Thương mạivà Dịch vụ Phúc Hưng",
+                "1": "3.255.000.000",
+                "2": "(1.627.500.000)",
+                "3": "3.255.000.000",
+                "4": "(976.500.000)"
+            },
+            {
+                "0": "+ Các khoản phải thu khách hàng khác",
+                "1": "3.728.450.842",
+                "2": "(120.000.000)",
+                "3": "490.000.000",
+                "4": "(72.000.000)"
+            },
+            {
+                "0": "",
+                "1": "37.357.465.986",
+                "2": "(1.747.500.000)",
+                "3": "13.446.833.384",
+                "4": "(1.048.500.000)"
+            },
+            {
+                "0": "",
+                "1": "Giá trị",
+                "2": "Dự phòng",
+                "3": "Giá trị",
+                "4": "Dự phòng"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "Bên khác",
+                "1": "Bên khác",
+                "2": "Bên khác",
+                "3": "Bên khác",
+                "4": "Bên khác"
+            },
+            {
+                "0": "- Công ty TNHH Phú Thái Mobility Hà Nội",
+                "1": "2.535.800.000",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            {
+                "0": "- Các khoản trả trước người bán khác",
+                "1": "407.117.406",
+                "2": "-",
+                "3": "80.763.871",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "2.942.917.406",
+                "2": "-",
+                "3": "80.763.871",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "Giá trịVND",
+                "2": "Dự phòngVND",
+                "3": "Giá trịVND",
+                "4": "Dự phòngVND"
+            },
+            {
+                "0": "- Ký cược, ký quỹ",
+                "1": "1.002.352.000",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "0": "- Lãi tiền gửi phải thu tạm tính",
+                "1": "15.293.994.648",
+                "2": "-",
+                "3": "14.431.014.679",
+                "4": "-"
+            },
+            {
+                "0": "- Phải thu tiền thuế GTGT nhập khẩu của lô hàng mua đi đường",
+                "1": "1.659.849.984",
+                "2": "-",
+                "3": "4.302.296.281",
+                "4": "-"
+            },
+            {
+                "0": "- Phải thu khác",
+                "1": "2.794.174.097",
+                "2": "-",
+                "3": "2.781.651.933",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "20.750.370.729",
+                "2": "-",
+                "3": "21.514.962.893",
+                "4": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_12",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "23\n\n\n\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n9. NỘ'XÁU",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "31/12/2023",
+                "3": "01/01/2023",
+                "4": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Giá trị có thể thu hồi",
+                "3": "Giá gốc",
+                "4": "Giá trị có thể thu hồi"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "+ Phải thu khách hàng",
+                "1": "+ Phải thu khách hàng",
+                "2": "+ Phải thu khách hàng",
+                "3": "+ Phải thu khách hàng",
+                "4": "+ Phải thu khách hàng"
+            },
+            {
+                "0": "Công ty Cổ phần Sản xuất Thương mại và Dịch vụ Phúc Hưng",
+                "1": "3.255.000.000",
+                "2": "1.627.500.000",
+                "3": "3.255.000.000",
+                "4": "2.278.500.000"
+            },
+            {
+                "0": "Công ty Cổ phần Thương mại và Dịch vụ Phương Bắc - HA",
+                "1": "240.000.000",
+                "2": "120.000.000",
+                "3": "240.000.000",
+                "4": "168.000.000"
+            },
+            {
+                "0": "",
+                "1": "3.495.000.000",
+                "2": "1.747.500.000",
+                "3": "3.495.000.000",
+                "4": "2.446.500.000"
+            },
+            {
+                "0": "",
+                "1": "Giá gốc",
+                "2": "Dự phòng",
+                "3": "Giá gốc",
+                "4": "Dự phòng"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "- Hàng mua đang đi đường",
+                "1": "20.939.698.800",
+                "2": "-",
+                "3": "53.367.776.622",
+                "4": "-"
+            },
+            {
+                "0": "- Nguyên liệu, vật liệu",
+                "1": "64.286.337.955",
+                "2": "(86.275.298)",
+                "3": "145.769.409.428",
+                "4": "(4.896.718.560)"
+            },
+            {
+                "0": "- Thành phẩm",
+                "1": "7.391.925.827",
+                "2": "-",
+                "3": "21.871.891.074",
+                "4": "-"
+            },
+            {
+                "0": "- Hàng hóa",
+                "1": "26.541.425.057",
+                "2": "-",
+                "3": "47.457.163.274",
+                "4": "-"
+            },
+            {
+                "0": "- Hàng gửi bán",
+                "1": "142.256.415.953",
+                "2": "-",
+                "3": "153.238.597.151",
+                "4": "-"
+            },
+            {
+                "0": "",
+                "1": "261.415.803.592",
+                "2": "(86.275.298)",
+                "3": "421.704.837.549",
+                "4": "(4.896.718.560)"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_13",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "11. CHI PHÍ XÂY DỰNG CƠ BẢN DỞ DANG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "- Các hạng mục chung tại Dự án Khu nhà ở cho người có thu nhập thấp tại xã An Đồng, huyện An Dương, thành phố Hải Phòng (*)",
+                "1": "6.443.731.493",
+                "2": "13.954.701.492"
+            },
+            {
+                "0": "- Công trình khác",
+                "1": "3.603.619.121",
+                "2": "2.128.409.091"
+            },
+            {
+                "0": "",
+                "1": "10.047.350.614",
+                "2": "16.083.110.583"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_14",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "(*) Thông tin của Dự án:\n\n- Tên Dự án: Dự án Khu nhà ở cho người có thu nhập thấp - xã An Đồng, huyện An Dương, thành phố Hải Phòng;\n\n- Địa điểm xây dựng: xã An Đồng, huyện An Dương, thành phố Hải Phòng;\n\n- Chủ đầu tư: Công ty TNHH Pruksa Việt Nam;\n\n- Quy mô của dự án: Đầu tư xây dựng khu nhà ở dưới dạng chung cư gồm: 90 căn hộ chung cư 5 tầng, 1.908 căn hộ chung cư 3 tầng, 11 căn hộ tái định cư và các công trình phụ trợ, 242 căn hộ liên kể;\n\n- Tổng vốn đầu tư của dự án: 1.398.603.917.000 VND, tương đương với 59.401.313 USD;\n\n- Tỉnh trạng của dự án tại thời điểm 31/12/2023: Các căn hộ chung cư đã được bản giao và cho thuê hết. Chi phí xây dựng cơ bản dở dang tại thời điểm 31/12/2023 là phần chi phí chung của Dự án bao gồm các chi phí như: Bồi thường giải phóng mặt bằng, san lắp, hệ thống cơ sở hạ tầng giao thông, thoát nước, cây xanh, phòng cháy chữa cháy... phân bổ cho phần diện tích đất công cộng để nhằm mục đích xây dựng nhà điều hành, nhà văn hóa.\n\n24\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cành, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n12. TÀI SẢN CÓ ĐỊNH HỮU HÌNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Nhà cửa,vật kiến trúc",
+                "2": "Máy móc,thiết bị",
+                "3": "Phương tiện vậntải, truyền dẫn",
+                "4": "TSCĐ dùngtrong quản lý",
+                "5": "Cộng"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND",
+                "5": "VND"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá",
+                "3": "Nguyên giá",
+                "4": "Nguyên giá",
+                "5": "Nguyên giá"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "16.156.288.276",
+                "2": "1.633.829.496",
+                "3": "13.251.615.329",
+                "4": "651.176.071",
+                "5": "31.692.909.172"
+            },
+            {
+                "0": "- Đầu tư xây dựng cơbản hoàn thành",
+                "1": "-",
+                "2": "2.128.409.091",
+                "3": "-",
+                "4": "-",
+                "5": "2.128.409.091"
+            },
+            {
+                "0": "- Chuyển sang BĐSđầu tư",
+                "1": "(13.186.533.163)",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(13.186.533.163)"
+            },
+            {
+                "0": "- Thanh lý, nhượng bán",
+                "1": "-",
+                "2": "-",
+                "3": "(12.253.309.874)",
+                "4": "-",
+                "5": "(12.253.309.874)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "2.969.755.113",
+                "2": "3.762.238.587",
+                "3": "998.305.455",
+                "4": "651.176.071",
+                "5": "8.381.475.226"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "Giá trị hao mòn lũy kế",
+                "3": "Giá trị hao mòn lũy kế",
+                "4": "Giá trị hao mòn lũy kế",
+                "5": "Giá trị hao mòn lũy kế"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "2.860.453.729",
+                "2": "1.434.601.596",
+                "3": "7.112.839.997",
+                "4": "651.176.071",
+                "5": "12.059.071.393"
+            },
+            {
+                "0": "- Khấu hao trong năm",
+                "1": "465.866.220",
+                "2": "209.204.056",
+                "3": "917.249.570",
+                "4": "-",
+                "5": "1.592.319.846"
+            },
+            {
+                "0": "- Chuyển sang BĐSđầu tư",
+                "1": "(1.831.462.943)",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(1.831.462.943)"
+            },
+            {
+                "0": "- Thanh lý, nhượng bán",
+                "1": "-",
+                "2": "-",
+                "3": "(7.031.784.112)",
+                "4": "-",
+                "5": "(7.031.784.112)"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "1.494.857.006",
+                "2": "1.643.805.652",
+                "3": "998.305.455",
+                "4": "651.176.071",
+                "5": "4.788.144.184"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại",
+                "3": "Giá trị còn lại",
+                "4": "Giá trị còn lại",
+                "5": "Giá trị còn lại"
+            },
+            {
+                "0": "Tại ngày đầu năm",
+                "1": "13.295.834.547",
+                "2": "199.227.900",
+                "3": "6.138.775.332",
+                "4": "-",
+                "5": "19.633.837.779"
+            },
+            {
+                "0": "Tại ngày cuối năm",
+                "1": "1.474.898.107",
+                "2": "2.118.432.935",
+                "3": "-",
+                "4": "-",
+                "5": "3.593.331.042"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_15",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "- Nguyên giá TSCĐ cuối năm đã khấu hao hết nhưng vẫn còn sử dụng: 3.066.682.033 VND.\n\n13. TÀI SẢN CÓ ĐỊNH VÔ HÌNH\n\nTài sản cố định vô hình là quyền sử dụng đất sử dụng lâu dài có diện tích 220 m2 tại huyện An Dương, thành phố Hải Phòng nhận chuyển nhượng từ bên bán với giá chuyển nhượng là 3.520.000.000 VND. Đối với quyền sử dụng đất lâu dài, Công ty không trích khấu hao theo quy định.\n\n14. BẮT ĐỘNG SẢN ĐẦU TƯ\n\na) Bất động sản đầu tư cho thuê",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Căn hộ cho thuê",
+                "2": "Cộng"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Nguyên giá",
+                "1": "Nguyên giá",
+                "2": "Nguyên giá"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "228.897.249.378",
+                "2": "228.897.249.378"
+            },
+            {
+                "0": "- Mua trong năm (*)",
+                "1": "259.621.720.926",
+                "2": "259.621.720.926"
+            },
+            {
+                "0": "- Chuyển từ tài sản cố định",
+                "1": "13.186.533.163",
+                "2": "13.186.533.163"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "501.705.503.467",
+                "2": "501.705.503.467"
+            },
+            {
+                "0": "Giá trị hao mòn lũy kế",
+                "1": "Giá trị hao mòn lũy kế",
+                "2": "Giá trị hao mòn lũy kế"
+            },
+            {
+                "0": "Số dư đầu năm",
+                "1": "32.158.084.228",
+                "2": "32.158.084.228"
+            },
+            {
+                "0": "- Khấu hao trong năm",
+                "1": "14.292.691.321",
+                "2": "14.292.691.321"
+            },
+            {
+                "0": "- Chuyển từ tài sản cố định",
+                "1": "1.831.462.943",
+                "2": "1.831.462.943"
+            },
+            {
+                "0": "Số dư cuối năm",
+                "1": "48.282.238.492",
+                "2": "48.282.238.492"
+            },
+            {
+                "0": "Giá trị còn lại",
+                "1": "Giá trị còn lại",
+                "2": "Giá trị còn lại"
+            },
+            {
+                "0": "Tại ngày đầu năm",
+                "1": "196.739.165.150",
+                "2": "196.739.165.150"
+            },
+            {
+                "0": "Tại ngày cuối năm",
+                "1": "453.423.264.975",
+                "2": "453.423.264.975"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_16",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "25\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nBáo cáo tài chính hợp nhất\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n- Bất động sản đầu tư bao gồm 388 căn hộ của Dự án nhà ở cho người có thu nhập thấp tại xã An Đồng, huyện An Dương, thành phố Hải Phòng do Công ty TNHH Pruksa Việt Nam sở hữu. Giá cho thuê áp dụng là giá do UBND tỉnh phê duyệt. Khoản tiền thuê nhà được trả trước cho cả thời gian thuê (05 năm) theo Hợp đồng thuê (Chi tiết tại thuyết minh số 22).\n\n- (*) Một số gian hàng Trung tâm thương mại tại quận Thanh Xuân, thành phố Hà Nội do Công ty Cổ phần Phát triển Dịch vụ Hoàng Giang sở hữu. Đơn giá cho thuê áp dụng theo Hợp đồng thuê ký kết 2 bên và được thanh toán trong vòng 50 ngày kể từ ngày ký kết hợp đồng.\n\n- Giá trị hợp lý của Bất động sản đầu tư chưa được đánh giá và xác định một cách chính thức tại ngày 01/01/2023 và ngày 31/12/2023. Tuy nhiên, dựa trên tỉnh hình cho thuê và giá thị trường của các tài sản này, Ban Giám đốc Công ty tin tưởng rằng giá trị hợp lý của tài sản đầu tư lớn hơn giá trị còn lại trên số tại ngày đầu năm, trong năm và ngày kết thúc năm tài chính.\n\n- Trong năm, doanh thu phát sinh từ bất động sản đầu tư là 29.308.640.147 VND (Năm 2022 là 16.981.880.500 VND).\n\nb) Bất động sản đầu tư nắm giữ chờ tăng giá\n\nBất động sản đầu tư nằm giữ chờ tăng giá là 05 Căn nhà ở liền kề tại Dự án Hoàng Huy Riverside, địa chỉ số 1 và số 8 đường Chi Lăng, Phường Thượng Lý, Quận Hồng Bàng, Thành phố Hải Phòng mua với mục đích nằm giữ chờ tăng giá theo Hợp đồng hợp tác kinh doanh số 1001/HĐHTKD/HG-PRUKSA ngày 10/01/2023 giữa Công ty Cổ phần Phát triển Dịch vụ Hoàng Giang và Công ty TNHH Pruksa Việt Nam, nguyên giá 31.791.523.761 VND.\n\n15. CHI PHÍ TRÀ TRƯỚC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "a) Ngắn hạn",
+                "1": "a) Ngắn hạn",
+                "2": "a) Ngắn hạn"
+            },
+            {
+                "0": "- Chi phí thuê văn phòng",
+                "1": "458.500.000",
+                "2": "-"
+            },
+            {
+                "0": "- Công cụ dụng cụ xuất dùng",
+                "1": "-",
+                "2": "143.798.180"
+            },
+            {
+                "0": "- Chi phí biển hiệu tại đại lý",
+                "1": "543.007.022",
+                "2": "-"
+            },
+            {
+                "0": "- Các khoản khác",
+                "1": "57.251.785",
+                "2": "25.716.669"
+            },
+            {
+                "0": "",
+                "1": "1.058.758.807",
+                "2": "169.514.849"
+            },
+            {
+                "0": "b) Dài hạn",
+                "1": "b) Dài hạn",
+                "2": "b) Dài hạn"
+            },
+            {
+                "0": "- Chi phí trả trước tiền thuê đất (*)",
+                "1": "5.893.043.857",
+                "2": "9.652.719.825"
+            },
+            {
+                "0": "- Các khoản khác",
+                "1": "79.570.052",
+                "2": "37.866.750"
+            },
+            {
+                "0": "",
+                "1": "5.972.613.909",
+                "2": "9.690.586.575"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_17",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "(*): Chi phí thuê đất theo Thông báo số 11327/TB-CT ngày 05/10/2017 của Tổng Cục thuế cho Khu đất có địa chỉ ở xã An Đồng, huyện An Dương, thành phố Hải Phòng, Diện tích 7.090,2 m2. Mục đích để xây dựng Trường học, Nhà điều hành (trong danh mục xây dựng đã được cấp phép của Dự án nhà ở cho người có thu nhập thấp tại xã An Đồng, huyện An Dương, thành phố Hải Phòng của Công ty TNHH Pruksa Việt Nam). Khu đất được nhà nước cho thuê theo hình thức trả tiền một lần. Thời gian thuê là 44 năm 06 tháng kể từ ngày 29/06/2017 đến 02/01/2063 với số tiền thuê đất ban đầu là 10.738.650.807 VND. Trong năm, Công ty TNHH Pruksa Việt Nam đã ghi giảm giá trị tiền thuê đất số tiền là 3.548.429.408 VND tương ứng với phần diện tích đã cho thuê.\n\n26\n\n\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nBáo cáo tài chính hợp nhất\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n16. VAY NGĂN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "01/01/2023",
+                "2": "01/01/2023",
+                "3": "Trong năm",
+                "4": "Trong năm",
+                "5": "31/12/2023",
+                "6": "31/12/2023"
+            },
+            {
+                "0": "",
+                "1": "Giá trị",
+                "2": "Số có khả năng trả nợ",
+                "3": "Tăng",
+                "4": "Giảm",
+                "5": "Giá trị",
+                "6": "Số có khả năng trả nợ"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND",
+                "5": "VND",
+                "6": "VND"
+            },
+            {
+                "0": "+ Ngân hàng Thương mại Cổ phần Tiên Phong - Chi nhánh Thăng Long",
+                "1": "5.890.280.000",
+                "2": "5.890.280.000",
+                "3": "-",
+                "4": "5.890.280.000",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "+ Ngân hàng Thương mại Cổ phần Kỹ thương Việt Nam - Chi nhánh Hải Phòng",
+                "1": "44.413.695.600",
+                "2": "44.413.695.600",
+                "3": "-",
+                "4": "44.413.695.600",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "+ Ngân hàng Thương mại Cổ phần Công Thương Việt Nam - Chi nhánh Ngô Quyền",
+                "1": "88.000.000.000",
+                "2": "88.000.000.000",
+                "3": "-",
+                "4": "88.000.000.000",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "",
+                "1": "138.303.975.600",
+                "2": "138.303.975.600",
+                "3": "-",
+                "4": "138.303.975.600",
+                "5": "-",
+                "6": "-"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_18",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nBáo cáo tài chính hợp nhất\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n17. PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "31/12/2023",
+                "3": "01/01/2023",
+                "4": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "Giá trị",
+                "2": "Số có khả năng trả nợ",
+                "3": "Giá trị",
+                "4": "Số có khả năng trả nợ"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "Bên liên quan",
+                "1": "-",
+                "2": "-",
+                "3": "17.145.500.051",
+                "4": "17.145.500.051"
+            },
+            {
+                "0": "- Công ty Cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy",
+                "1": "-",
+                "2": "-",
+                "3": "17.145.500.051",
+                "4": "17.145.500.051"
+            },
+            {
+                "0": "Bên khác",
+                "1": "49.049.661.996",
+                "2": "49.049.661.996",
+                "3": "42.741.932.986",
+                "4": "42.741.932.986"
+            },
+            {
+                "0": "- China DongFeng Motor Industry Import and Export CO.,LTD",
+                "1": "47.981.437.950",
+                "2": "47.981.437.950",
+                "3": "40.295.100.000",
+                "4": "40.295.100.000"
+            },
+            {
+                "0": "- Phải trả các đối tượng khác",
+                "1": "1.068.224.046",
+                "2": "1.068.224.046",
+                "3": "2.446.832.986",
+                "4": "2.446.832.986"
+            },
+            {
+                "0": "",
+                "1": "49.049.661.996",
+                "2": "49.049.661.996",
+                "3": "59.887.433.037",
+                "4": "59.887.433.037"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_19",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "18. NGƯỜI MUA TRẢ TIỀN TRƯỚC NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Bên khác",
+                "1": "Bên khác",
+                "2": "Bên khác"
+            },
+            {
+                "0": "- Khách hàng trả trước tiền mua ô tô",
+                "1": "11.175.579.988",
+                "2": "17.040.979.988"
+            },
+            {
+                "0": "+ Công ty Cổ phần Đầu tư Xây dựng Hoàng Hiệp",
+                "1": "2.650.000.000",
+                "2": "8.450.000.000"
+            },
+            {
+                "0": "+ Các khách hàng khác",
+                "1": "8.525.579.988",
+                "2": "8.590.979.988"
+            },
+            {
+                "0": "- Khách hàng trả trước mua nhà",
+                "1": "-",
+                "2": "2.000.000.000"
+            },
+            {
+                "0": "",
+                "1": "11.175.579.988",
+                "2": "19.040.979.988"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_20",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "28\n\n\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cành, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nBáo cáo tài chính hợp nhất\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n19. THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Số phải thuđầu nămVND",
+                "2": "Số phải nộpđầu nămVND",
+                "3": "Số phải nộptrong nămVND",
+                "4": "Số đã thực nộptrong nămVND",
+                "5": "Số phải thucuối nămVND",
+                "6": "Số phải nộpcuối nămVND"
+            },
+            {
+                "0": "- Thuế giá trị gia tăng",
+                "1": "233.856.158",
+                "2": "4.302.296.281",
+                "3": "16.281.699.390",
+                "4": "18.924.145.687",
+                "5": "233.856.158",
+                "6": "1.659.849.984"
+            },
+            {
+                "0": "- Thuế xuất, nhập khẩu",
+                "1": "-",
+                "2": "9.925.538.741",
+                "3": "18.184.982.669",
+                "4": "23.322.492.610",
+                "5": "-",
+                "6": "4.788.028.800"
+            },
+            {
+                "0": "- Thuế thu nhập doanh nghiệp",
+                "1": "3.382.185.088",
+                "2": "541.278.097",
+                "3": "8.936.514.092",
+                "4": "4.561.247.448",
+                "5": "840.461.352",
+                "6": "2.374.821.005"
+            },
+            {
+                "0": "- Thuế thu nhập cá nhân",
+                "1": "-",
+                "2": "35.222.467",
+                "3": "483.568.527",
+                "4": "464.121.664",
+                "5": "-",
+                "6": "54.669.330"
+            },
+            {
+                "0": "- Thuế nhà đất và tiền thuê đất",
+                "1": "-",
+                "2": "175.916.887",
+                "3": "45.762.336",
+                "4": "221.679.223",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "- Các loại thuế khác",
+                "1": "-",
+                "2": "-",
+                "3": "3.500.000",
+                "4": "3.500.000",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "- Các khoản phí, lệ phí và các khoản phải nộp khác",
+                "1": "-",
+                "2": "-",
+                "3": "1.601.196.191",
+                "4": "1.601.196.191",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "",
+                "1": "3.616.041.246",
+                "2": "14.980.252.473",
+                "3": "45.537.223.205",
+                "4": "49.098.382.823",
+                "5": "1.074.317.510",
+                "6": "8.877.369.119"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_21",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "Quyết toán thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với nhiều loại giao dịch khác nhau có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên Báo cáo tài chính hợp nhất có thể bị thay đổi theo quyết định của cơ quan thuế.\n\n20\n\n\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n20. CHI PHÍ PHẢI TRẢ NGẮN HẠN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "- Chi phí lãi vay",
+                "1": "-",
+                "2": "108.493.150"
+            },
+            {
+                "0": "- Chi phí thưởng doanh số phải trả cho cộng tác viên",
+                "1": "1.147.000.000",
+                "2": "140.400.000"
+            },
+            {
+                "0": "- Chi phí tiền thưởng phải trả cho đại lý",
+                "1": "7.825.000.000",
+                "2": "1.153.000.000"
+            },
+            {
+                "0": "- Chi phí phải trả khác",
+                "1": "495.019.245",
+                "2": "75.000.000"
+            },
+            {
+                "0": "",
+                "1": "9.467.019.245",
+                "2": "1.476.893.150"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "- Bảo hiểm xã hội",
+                "1": "5.069.550",
+                "2": "5.069.550"
+            },
+            {
+                "0": "- Nhận ký quỹ, ký cược ngắn hạn",
+                "1": "2.466.086.474",
+                "2": "-"
+            },
+            {
+                "0": "- Cổ tức, lợi nhuận phải trả",
+                "1": "16.676.470.588",
+                "2": "-"
+            },
+            {
+                "0": "- Các khoản phải trả phải nộp khác",
+                "1": "55.806.284.469",
+                "2": "54.024.894.113"
+            },
+            {
+                "0": "Công ty TNHH Pruksa International (*)",
+                "1": "55.281.450.000",
+                "2": "53.592.483.000"
+            },
+            {
+                "0": "Phải trả khác",
+                "1": "524.834.469",
+                "2": "432.411.113"
+            },
+            {
+                "0": "",
+                "1": "74.953.911.081",
+                "2": "54.029.963.663"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_22",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "(*): Khoản tiền ứng trước của Công ty TNHH Pruksa International (2.261.000 USD) cho Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy để giải phóng mặt bằng Dự án nhà ở dành cho người có thu nhập thấp tại xã An Đồng, huyện An Dương, thành phố Hải Phòng trên cơ sở Công ty được chấp thuận về nguyên tắc của Sở xây dựng và Ủy ban Nhân dân Thành phố Hải Phòng. Công ty đã sử dụng nguồn tiền này để đầu tư vào Dự án. Sau đó, Tài sản đã được bản giao cho Công ty TNHH Pruksa Việt Nam và tính vào phần vốn góp của Công ty tại Công ty TNHH Pruksa Việt Nam.\n\n22. DOANH THU CHU'A THỰC HIỆN",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "a) Ngắn hạn",
+                "1": "a) Ngắn hạn",
+                "2": "a) Ngắn hạn"
+            },
+            {
+                "0": "- Doanh thu chưa thực hiện từ hoạt động kinh doanh (*)",
+                "1": "9.173.759.765",
+                "2": "16.981.880.516"
+            },
+            {
+                "0": "- Doanh thu nhận trước từ cho thuê tài sản",
+                "1": "882.310.493",
+                "2": "-"
+            },
+            {
+                "0": "",
+                "1": "10.056.070.258",
+                "2": "16.981.880.516"
+            },
+            {
+                "0": "b) Dài hạn",
+                "1": "b) Dài hạn",
+                "2": "b) Dài hạn"
+            },
+            {
+                "0": "- Doanh thu chưa thực hiện từ hoạt động kinh doanh (*)",
+                "1": "568.610.577",
+                "2": "9.742.370.326"
+            },
+            {
+                "0": "",
+                "1": "568.610.577",
+                "2": "9.742.370.326"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_23",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "(*): Doanh thu chưa thực hiện là khoản tiền thuê nhà trả trước cho cả thời gian thuê (05 năm) theo Hợp đồng thuê căn hộ chung cư thuộc Dự án nhà ở cho người có thu nhập thấp tại xã An Đồng, huyện An Dương, thành phố Hải Phòng (Pruksa Town).\n\n30\n\n\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n23. DỰ PHÒNG PHẢI TRẢ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "a) Ngắn hạn",
+                "1": "a) Ngắn hạn",
+                "2": "a) Ngắn hạn"
+            },
+            {
+                "0": "- Dự phòng bảo hành hàng hóa",
+                "1": "138.243.182",
+                "2": "163.081.447"
+            },
+            {
+                "0": "- Dự phòng bảo hành với bất động sản đã bán (*)",
+                "1": "1.468.072.601",
+                "2": "3.823.845.066"
+            },
+            {
+                "0": "",
+                "1": "1.606.315.783",
+                "2": "3.986.926.513"
+            },
+            {
+                "0": "b) Dải hạn",
+                "1": "b) Dải hạn",
+                "2": "b) Dải hạn"
+            },
+            {
+                "0": "- Dự phòng bảo hành với bất động sản đã bán (*)",
+                "1": "97.515.019",
+                "2": "1.565.587.621"
+            },
+            {
+                "0": "",
+                "1": "97.515.019",
+                "2": "1.565.587.621"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_24",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "(*): Công ty trích dự phòng chi phí bảo hành nhà theo quy định của Luật nhà ở năm 2014 như sau:\n\n+ Đối với nhà chung cư thời gian bảo hành là 60 tháng, tỷ lệ trích lập là 1% doanh thu bán nhà chung cư.\n\n+ Đối với nhà ở riêng lẻ (nhà liền kề) thời gian bảo hành là 24 tháng, tỷ lệ trích lập là 0,5% doanh thu bán nhà liền kề.\n\n31\n\n\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nBáo cáo tài chính hợp nhất\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n24. VỐN CHỦ SỞ HỮU\n\na) Băng đối chiếu biến động vốn chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Vốn đầu tư của chủ sở hữu",
+                "2": "Thặng dư vốn cổ phần",
+                "3": "Quỹ đầu tư phát triển",
+                "4": "Lợi nhuận chưa phân phối",
+                "5": "Lợi ích cổ đông không kiểm soát",
+                "6": "Cộng"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND",
+                "5": "VND",
+                "6": "VND"
+            },
+            {
+                "0": "Số dư đầu năm trước",
+                "1": "3.214.481.530.000",
+                "2": "1.976.351.645",
+                "3": "19.572.915.034",
+                "4": "627.967.000.063",
+                "5": "78.045.243.393",
+                "6": "3.942.043.040.135"
+            },
+            {
+                "0": "Lãi trong năm trước",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "221.996.674.167",
+                "5": "2.616.078.076",
+                "6": "224.612.752.243"
+            },
+            {
+                "0": "Lãi lỗ do thay đổi tỉ lệ lợi ích của Công ty con",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "8.516.837",
+                "5": "(8.516.837)",
+                "6": "-"
+            },
+            {
+                "0": "Giảm khác",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "2.306.361.829",
+                "5": "(2.825.624.866)",
+                "6": "(519.263.037)"
+            },
+            {
+                "0": "Số dư cuối năm trước",
+                "1": "3.214.481.530.000",
+                "2": "1.976.351.645",
+                "3": "19.572.915.034",
+                "4": "852.278.552.896",
+                "5": "77.827.179.766",
+                "6": "4.166.136.529.341"
+            },
+            {
+                "0": "Số dư đầu năm nay",
+                "1": "3.214.481.530.000",
+                "2": "1.976.351.645",
+                "3": "19.572.915.034",
+                "4": "852.278.552.896",
+                "5": "77.827.179.766",
+                "6": "4.166.136.529.341"
+            },
+            {
+                "0": "Lãi trong năm nay",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "348.147.604.458",
+                "5": "3.703.226.184",
+                "6": "351.850.830.642"
+            },
+            {
+                "0": "Chia cổ tức bằng cổ phiếu",
+                "1": "257.125.600.000",
+                "2": "-",
+                "3": "-",
+                "4": "(257.125.600.000)",
+                "5": "-",
+                "6": "-"
+            },
+            {
+                "0": "Lãi lỗ do thay đổi tỉ lệ lợi ích của Công ty con",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "6.885.030",
+                "5": "(6.885.030)",
+                "6": "-"
+            },
+            {
+                "0": "Phân phối lợi nhuận",
+                "1": "-",
+                "2": "-",
+                "3": "-",
+                "4": "-",
+                "5": "(16.706.482.593)",
+                "6": "(16.706.482.593)"
+            },
+            {
+                "0": "Số dư cuối năm nay",
+                "1": "3.471.607.130.000",
+                "2": "1.976.351.645",
+                "3": "19.572.915.034",
+                "4": "943.307.442.384",
+                "5": "64.817.038.327",
+                "6": "4.501.280.877.390"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_25",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n□\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\nTheo Nghị quyết của Đại hội đồng cổ đông thường niên năm 2023 số 01/NQ-ĐHĐCD ngày 07 tháng 04 năm 2023 và các Nghị quyết khác của Đại hội đồng cổ đông, Hội đồng thành viên của các Công ty con, Công ty công bố việc phân phối lợi nhuận năm 2022 như sau:",
+        "dataframe": [
+            {
+                "0": "Phân phối lợi nhuận",
+                "1": "Tại Công ty mẹ (1)",
+                "2": "Các công ty con phân phối cho",
+                "3": "Các công ty con phân phối cho",
+                "4": "Cộng (3) = (1) + (2)"
+            },
+            {
+                "0": "Phân phối lợi nhuận",
+                "1": "Tại Công ty mẹ (1)",
+                "2": "Công ty mẹ (2)",
+                "3": "Cổ đông không kiểm soát",
+                "4": "Cộng (3) = (1) + (2)"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "Chi trả cổ tức bằng cổ phiếu (*)",
+                "1": "257.125.600.000",
+                "2": "",
+                "3": "",
+                "4": "257.125.600.000"
+            },
+            {
+                "0": "Pruska chia lợi nhuận",
+                "1": "",
+                "2": "153.293.517.407",
+                "3": "16.706.482.593",
+                "4": "153.293.517.407"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_26",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "(*) Theo Nghị quyết của Đại hội đồng cổ đông số 01/NQ-ĐHĐCD ngày 07 tháng 04 năm 2023, Công ty mẹ công bố việc phân phối lợi nhuận năm 2022 bằng cổ phiếu như sau:\n\n- Số lượng cổ phiếu phát hành thêm tương ứng với số vốn điều lệ tăng thêm: 25.712.560 cổ phiếu;\n\n- Hình thức phát hành: Phát hành cổ phiếu để trả cổ tức năm 2022 với tỷ lệ 8% ( mỗi 25 cổ phiếu nhận thêm 2 cổ phiếu);\n\n- Đối tượng được phân phối: Cổ đông hiện hữu;\n\n- Công ty đã hoàn thành phát hành cổ phiếu đề trả cổ tức vào ngày 03/07/2023 theo Báo cáo kết quả đợt phát hành cổ phiếu đề trả cổ tức số 25/HHS-CV được công bố thông tin ngày 06/07/2023 và đã hoàn thành việc đăng ký thay đổi Giấy chứng nhận đăng ký doanh nghiệp ngày 18/07/2023.\n\n- Ngày 08/08/2023, Công ty đã nhận được quyết định về việc thay đổi niêm yết cổ phiếu tại Sở Giao dịch chứng khoán Tp. Hồ Chí Minh. Ngày giao dịch đầu tiên tại Sở Giao dịch chứng khoán Tp. Hồ Chí Minh của cổ phiếu niêm yết bổ sung là ngày 22/08/2023.\n\nb) Chi tiết vốn đầu tư của chủ sở hữu",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Cuối năm",
+                "2": "Tỷ lệ",
+                "3": "Đầu năm",
+                "4": "Tỷ lệ"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "%",
+                "3": "VND",
+                "4": "%"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy",
+                "1": "1.772.696.010.000",
+                "2": "5106",
+                "3": "1.641.385.200.000",
+                "4": "5106"
+            },
+            {
+                "0": "Cổ đông khác",
+                "1": "1.698.911.120.000",
+                "2": "4894",
+                "3": "1.573.096.330.000",
+                "4": "4894"
+            },
+            {
+                "0": "",
+                "1": "3.471.607.130.000",
+                "2": "10000",
+                "3": "3.214.481.530.000",
+                "4": "10000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_27",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "c) Các giao dịch về vốn với các chủ sở hữu và phân phối cổ tức, chia lợi nhuận",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2023",
+                "2": "Năm 2022"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Vốn đầu tư của chủ sở hữu",
+                "1": "Vốn đầu tư của chủ sở hữu",
+                "2": "Vốn đầu tư của chủ sở hữu"
+            },
+            {
+                "0": "- Vốn góp đầu năm",
+                "1": "3.214.481.530.000",
+                "2": "3.214.481.530.000"
+            },
+            {
+                "0": "- Vốn góp tăng trong năm",
+                "1": "257.125.600.000",
+                "2": "-"
+            },
+            {
+                "0": "- Vốn góp cuối năm",
+                "1": "3.471.607.130.000",
+                "2": "3.214.481.530.000"
+            },
+            {
+                "0": "d) Cổ phiếu",
+                "1": "d) Cổ phiếu",
+                "2": "d) Cổ phiếu"
+            },
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "01/01/2023"
+            },
+            {
+                "0": "Số lượng cổ phiếu đăng ký phát hành",
+                "1": "347.160.713",
+                "2": "321.448.153"
+            },
+            {
+                "0": "Số lượng cổ phiếu đã phát hành và góp vốn đầy đủ",
+                "1": "347.160.713",
+                "2": "321.448.153"
+            },
+            {
+                "0": "- Cổ phiếu phổ thông",
+                "1": "347.160.713",
+                "2": "321.448.153"
+            },
+            {
+                "0": "Số lượng cổ phiếu đang lưu hành",
+                "1": "347.160.713",
+                "2": "321.448.153"
+            },
+            {
+                "0": "- Cổ phiếu phổ thông",
+                "1": "347.160.713",
+                "2": "321.448.153"
+            },
+            {
+                "0": "Mệnh giá cổ phiếu đang lưu hành (VND):",
+                "1": "10.000",
+                "2": "10.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_28",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "33\n\n\n\nThe image contains only a row of empty, thin, horizontal lines that are stylistic or background elements. According to the correction guidelines, such lines must be ignored and not converted into any textual content. Therefore, the correct OCR output is an empty string.\n\n(No text to output)\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cành, P.Cát Dải, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\ne) Các quỹ của Công ty",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "- Quỹ đầu tư phát triển",
+                "1": "19.572.915.034",
+                "2": "19.572.915.034"
+            },
+            {
+                "0": "",
+                "1": "19.572.915.034",
+                "2": "19.572.915.034"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_29",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "25. CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN VÀ CAM KẾT THUÊ HOẠT ĐỘNG\na) Tài sản cho thuê ngoài\n\nCông ty TNHH Pruksa Việt Nam và Công ty Cổ phần Phát triển Dịch vụ Hoàng Giang hiện đang cho thuê tài sản theo hợp đồng cho thuê hoạt động. Vào ngày 31/12/2023, các khoản tiền cho thuê tối thiểu trong tương lai theo hợp đồng cho thuê hoạt động được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "- Từ 1 năm trở xuống",
+                "1": "9.739.461.228",
+                "2": "525.000.000"
+            },
+            {
+                "0": "- Trên 1 năm đến 5 năm",
+                "1": "17.700.699.372",
+                "2": "2.100.000.000"
+            },
+            {
+                "0": "- Trên 5 năm",
+                "1": "5.933.485.424",
+                "2": "2.493.750.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_30",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "b) Tài sản thuê ngoài\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy, Công ty TNHH Pruksa Việt Nam và Công ty Cổ phần Phát triển Dịch vụ Hoàng Giang thuê văn phòng theo hợp đồng thuê hoạt động. Vào ngày 31/12/2023, các khoản tiền thuê phải trả trong tương lai theo hợp đồng thuê hoạt động được trình bày như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "31/12/2023",
+                "2": "01/01/2023"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "- Từ 1 năm trở xuống",
+                "1": "696.000.000",
+                "2": "276.000.000"
+            },
+            {
+                "0": "- Trên 1 năm đến 5 năm",
+                "1": "236.500.000",
+                "2": "558.000.000"
+            },
+            {
+                "0": "c) Ngoại tệ các loại",
+                "1": "c) Ngoại tệ các loại",
+                "2": "c) Ngoại tệ các loại"
+            },
+            {
+                "0": "",
+                "1": "Đơn vị tính",
+                "2": "31/12/2023"
+            },
+            {
+                "0": "Đô la Mỹ",
+                "1": "USD",
+                "2": "67.904,78"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_31",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "34\n\n//是/是/是/是/是\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nBáo cáo tài chính hợp nhất\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n26. TỔNG DOANH THU BÁN HÀNG VÀ CUNG CẤP ĐỊCH VỤ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2023",
+                "2": "Năm 2022"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Doanh thu bán hàng hóa",
+                "1": "229.797.643.081",
+                "2": "297.996.987.422"
+            },
+            {
+                "0": "Doanh thu bán thành phẩm",
+                "1": "77.474.242.427",
+                "2": "66.339.562.291"
+            },
+            {
+                "0": "Doanh thu kinh doanh bất động sản",
+                "1": "55.785.912.875",
+                "2": "16.815.698.720"
+            },
+            {
+                "0": "Doanh thu khác",
+                "1": "3.526.716.555",
+                "2": "4.170.731.528"
+            },
+            {
+                "0": "",
+                "1": "366.584.514.938",
+                "2": "385.322.979.961"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Giá vốn của hàng hóa đã bán",
+                "1": "224.847.774.525",
+                "2": "269.390.610.955"
+            },
+            {
+                "0": "Giá vốn của thành phẩm đã bán",
+                "1": "75.478.059.932",
+                "2": "58.762.090.937"
+            },
+            {
+                "0": "Giá vốn kinh doanh bất động sản",
+                "1": "27.476.878.171",
+                "2": "11.734.649.423"
+            },
+            {
+                "0": "Dự phòng/(Hoàn nhập dự phòng) giảm giá hàng tồn kho",
+                "1": "(4.810.443.262)",
+                "2": "3.144.186.457"
+            },
+            {
+                "0": "Giá vốn hoạt động khác",
+                "1": "2.979.344.323",
+                "2": "4.493.335.483"
+            },
+            {
+                "0": "",
+                "1": "325.971.613.689",
+                "2": "347.524.873.255"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Lãi tiền gửi, tiền cho vay",
+                "1": "26.946.777.396",
+                "2": "26.576.394.190"
+            },
+            {
+                "0": "Cổ tức, lợi nhuận được chia (*)",
+                "1": "205.128.630.000",
+                "2": "442.491.759.000"
+            },
+            {
+                "0": "Lãi chênh lệch tỷ giá phát sinh trong năm",
+                "1": "526.334.243",
+                "2": "20.838.143"
+            },
+            {
+                "0": "Lãi chênh lệch tỷ giá do đánh giá lại số dư cuối năm",
+                "1": "-",
+                "2": "140.447.850"
+            },
+            {
+                "0": "Doanh thu hoạt động tài chính khác",
+                "1": "1.984.994.632",
+                "2": "-"
+            },
+            {
+                "0": "",
+                "1": "234.586.736.271",
+                "2": "469.229.439.183"
+            },
+            {
+                "0": "Trong đó: Doanh thu tài chính từ các bên liên quan",
+                "1": "205.128.630.000",
+                "2": "442.491.759.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_32",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "Trong đó: Doanh thu tài chính từ các bên liên quan (Xem thông tin chi tiết tại Thuyết minh 40)\n\n(*) Công ty nhận cổ tức từ Công ty Cổ phần Tập đoàn Bất động sản CRV theo các Nghị quyết sau của Công ty Cổ phần. Tập đoàn Bất động sản CRV: Nghị quyết số 01/2023/NQ-ĐHĐCD ngày 11/07/2023 và Nghị quyết số 07/2023/NQ-HĐQT ngày 25/07/2023 về việc thực hiện tạm ứng cổ tức lần 1 năm 2023 bằng tiền tỷ lệ 6%; Nghị quyết số 10/2023/NQ-HĐQT ngày 15/11/2023 về việc tạm ứng cổ tức lần 2 năm 2023 bằng tiền tỷ lệ 1%.\n\n29. CHI PHÍ TÀI CHÍNH",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2023",
+                "2": "Năm 2022"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Lãi tiền vay",
+                "1": "1.799.147.419",
+                "2": "9.248.499.066"
+            },
+            {
+                "0": "Lỗ chênh lệch tỷ giá phát sinh trong năm",
+                "1": "769.030.815",
+                "2": "4.984.538.963"
+            },
+            {
+                "0": "Lỗ chênh lệch tỷ giá do đánh giá lại số dư cuối năm",
+                "1": "2.854.623.400",
+                "2": "1.872.142.341"
+            },
+            {
+                "0": "Chi phí tài chính khác",
+                "1": "66.924",
+                "2": "-"
+            },
+            {
+                "0": "",
+                "1": "5.422.868.558",
+                "2": "16.105.180.370"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_33",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "35\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nBáo cáo tài chính hợp nhất\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n30. CHI PHÍ BÁN HÀNG",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2023",
+                "2": "Năm 2022"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Chi phí nguyên liệu, vật liệu",
+                "1": "11.110.606",
+                "2": "15.475.000"
+            },
+            {
+                "0": "Chi phí nhân công",
+                "1": "2.509.844.521",
+                "2": "1.108.193.350"
+            },
+            {
+                "0": "Chi phí khấu hao tài sản cố định",
+                "1": "-",
+                "2": "29.146.848"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "4.141.153.775",
+                "2": "804.598.764"
+            },
+            {
+                "0": "Chi phí khác bằng tiền",
+                "1": "19.421.523.640",
+                "2": "4.281.605.828"
+            },
+            {
+                "0": "Chi phí/ Hoàn nhập dự phòng bảo hành sản phẩm",
+                "1": "59.474.865",
+                "2": "34.617.994"
+            },
+            {
+                "0": "",
+                "1": "26.143.107.407",
+                "2": "6.273.637.784"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Chi phí nguyên liệu, vật liệu",
+                "1": "10.410.345",
+                "2": "22.401.535"
+            },
+            {
+                "0": "Chi phí nhân công",
+                "1": "5.083.144.759",
+                "2": "3.747.012.789"
+            },
+            {
+                "0": "Chi phí khấu hao tài sản cố định",
+                "1": "408.314.409",
+                "2": "2.098.448.426"
+            },
+            {
+                "0": "Chi phí dự phòng",
+                "1": "699.000.000",
+                "2": "1.048.500.000"
+            },
+            {
+                "0": "Thuế, phí, và lệ phí",
+                "1": "61.179.730",
+                "2": "156.060.171"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "1.752.281.495",
+                "2": "1.650.596.124"
+            },
+            {
+                "0": "Chi phí khác bằng tiền",
+                "1": "1.922.834.888",
+                "2": "4.079.439.592"
+            },
+            {
+                "0": "",
+                "1": "9.937.165.626",
+                "2": "12.802.458.637"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Thu nhập từ nhượng bán, thanh lý tài sản cố định",
+                "1": "1.942.110.602",
+                "2": "-"
+            },
+            {
+                "0": "Thu nhập từ tiền hỗ trợ xây dựng Showroom",
+                "1": "1.627.425.000",
+                "2": "-"
+            },
+            {
+                "0": "Thường doanh số",
+                "1": "-",
+                "2": "2.081.652.096"
+            },
+            {
+                "0": "Tiền phạt thu được",
+                "1": "182.488.680",
+                "2": "163.122.604"
+            },
+            {
+                "0": "Hoàn nhập dự phòng bảo hành công trình",
+                "1": "3.823.845.067",
+                "2": "1.753.284.842"
+            },
+            {
+                "0": "Thu nhập từ hàng được tăng",
+                "1": "981.940.757",
+                "2": "3.033.237.881"
+            },
+            {
+                "0": "Thu nhập khác",
+                "1": "1.944.782.314",
+                "2": "483.413.112"
+            },
+            {
+                "0": "",
+                "1": "10.502.592.420",
+                "2": "7.514.710.535"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Chi phí thuế TNDN hiện hành tại Công ty mẹ",
+                "1": "-",
+                "2": "3.110.301.795"
+            },
+            {
+                "0": "Chi phí thuế TNDN hiện hành tại (các) Công ty con",
+                "1": "8.936.514.092",
+                "2": "364.894.980"
+            },
+            {
+                "0": "- Công ty CP Phát triển Dịch vụ Hoàng Giang",
+                "1": "566.865.868",
+                "2": "-"
+            },
+            {
+                "0": "- Công ty TNHH Pruksa Việt Nam",
+                "1": "8.369.648.224",
+                "2": "364.894.980"
+            },
+            {
+                "0": "Tổng chi phí thuế TNDN hiện hành",
+                "1": "8.936.514.092",
+                "2": "3.475.196.775"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_34",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "36\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cành, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n34. LÃI CƠ BẢN TRÊN CỔ PHIÉU\n\nViệc tính toán lãi cơ bản trên cổ phiếu có thể phân phối cho các cổ đông sở hữu cổ phần phổ thông của Công ty được thực hiện dựa trên các số liệu sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2023",
+                "2": "Năm 2022"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Lợi nhuận thuần sau thuế",
+                "1": "348.147.604.458",
+                "2": "221.996.674.167"
+            },
+            {
+                "0": "Lợi nhuận phân bổ cho cổ phiếu phổ thông",
+                "1": "348.147.604.458",
+                "2": "221.996.674.167"
+            },
+            {
+                "0": "Cổ phiếu phổ thông lưu hành bình quân trong năm",
+                "1": "334.269.210",
+                "2": "334.269.210"
+            },
+            {
+                "0": "Lãi cơ bản trên cổ phiếu",
+                "1": "1.042",
+                "2": "664"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_35",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "Công ty chưa có dự tính trích Quỹ khen thưởng, phúc lợi và Quỹ khen thưởng Ban điều hành trên Lợi nhuận sau thuế tại các thời điểm lập Báo cáo tài chính hợp nhất.\n\nTrong năm, Công ty đã hoàn thành phát hành thêm 25.712.560 cổ phiếu, nguồn từ Lợi nhuận sau thuế chưa phân phối để chỉ trả cổ tức. Do đó, số lượng cổ phần phát hành thêm được tính từ đầu năm khi xác định cổ phiếu phổ thông đang lưu hành bình quân trong năm hiện tại và các năm trước khi tính lãi cơ bản trên cổ phiếu đã được điều chỉnh hồi tố theo quy định tại Chuẩn mực kế toán Việt Nam số 30 – Lãi trên cổ phiếu.\n\nTại ngày 31 tháng 12 năm 2023, Công ty không có các cổ phiếu có tiềm năng suy giảm lãi trên cổ phiếu.\n\n35. CHI PHÍ SẢN XUẤT KINH DOANH THEO YỀU TỐ",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2023",
+                "2": "Năm 2022"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Chi phí nguyên liệu, vật liệu",
+                "1": "72.483.187.121",
+                "2": "95.847.556.428"
+            },
+            {
+                "0": "Chi phí nhân công",
+                "1": "7.592.989.280",
+                "2": "4.855.206.139"
+            },
+            {
+                "0": "Chi phí khấu hao tài sản cố định",
+                "1": "15.885.011.167",
+                "2": "12.730.774.127"
+            },
+            {
+                "0": "Chi phí dịch vụ mua ngoài",
+                "1": "5.893.435.270",
+                "2": "2.458.194.888"
+            },
+            {
+                "0": "Chi phí khác bằng tiền",
+                "1": "34.563.013.301",
+                "2": "8.462.900.057"
+            },
+            {
+                "0": "Chi phí/ (hoàn nhập) dự phòng",
+                "1": "758.474.865",
+                "2": "1.083.117.994"
+            },
+            {
+                "0": "",
+                "1": "137.176.111.004",
+                "2": "125.437.749.633"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_36",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "36. CÔNG CỤ TÀI CHÍNH\n\nQuản lý rủi ro tài chính\n\nCác loại rủi ro tài chính của Công ty có thể gặp phải bao gồm: Rủi ro thị trường, rủi ro tín dụng và rủi ro thanh khoản.\n\nCông ty đã xây dựng hệ thống kiểm soát nhằm đảm bảo sự cân bằng ở mức hợp lý giữa chi phí rủi ro phát sinh và chi phí quản lý rủi ro. Ban Giám đốc Công ty có trách nhiệm theo dõi quy trình quản lý rủi ro để đảm bảo sự cân bằng hợp lý giữa rủi ro và kiểm soát rủi ro.\n\nRủi ro thị trường\n\nCông ty có thể sẽ gặp phải các rủi ro thị trường như: tỷ giá hối đoái, lãi suất.\n\nRùi ro về tỷ giá hối đoái:\n\nCông ty chịu rủi ro về tỷ giá khi có các giao dịch thực hiện bằng đơn vị tiền tệ khác với đồng Việt Nam như: vay, doanh thu, chi phí, nhập khẩu vật tư, hàng hóa, máy móc thiết bị,...\n\n37\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\nRùi ro về lãi suất:\n\nCông ty chịu rủi ro về lãi suất do giá trị hợp lý của các luồng tiền trong tương lai của một công cụ tài chính sẽ biến động theo những thay đổi của lãi suất thị trường khi Công ty có phát sinh các khoản tiền gửi có hoặc không có kỳ hạn, các khoản vay và nợ chịu lãi suất thả nổi. Công ty quản lý rủi ro lãi suất bằng cách phân tích tinh hình cạnh tranh trên thị trường để có được các lãi suất có lợi cho mục đích của Công ty.\n\nRüi ro tín dụng\n\nRủi ro tín dụng là rủi ro mà một bên tham gia trong một công cụ tài chính hoặc hợp đồng không có khả năng thực hiện được nghĩa vụ của mình dẫn đến tổn thất về tài chính cho Công ty. Công ty có các rủi ro tín dụng từ hoạt động sản xuất kinh doanh (chủ yếu đối với các khoản phải thu khách hàng) và hoạt động tài chính (bao gồm tiền gửi ngân hàng, cho vay và các công cụ tài chính khác).",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Từ 1 năm trở xuống",
+                "2": "Trên 1 năm đến 5 năm",
+                "3": "Trên 5 năm",
+                "4": "Cộng"
+            },
+            {
+                "0": "Tại ngày 31/12/2023",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền",
+                "1": "93.223.532.991",
+                "2": "-",
+                "3": "-",
+                "4": "93.223.532.991"
+            },
+            {
+                "0": "Phải thu khách hàng, phải thu khác",
+                "1": "56.360.336.715",
+                "2": "-",
+                "3": "-",
+                "4": "56.360.336.715"
+            },
+            {
+                "0": "Các khoản cho vay",
+                "1": "538.794.066.400",
+                "2": "-",
+                "3": "-",
+                "4": "538.794.066.400"
+            },
+            {
+                "0": "",
+                "1": "688.377.936.106",
+                "2": "-",
+                "3": "-",
+                "4": "688.377.936.106"
+            },
+            {
+                "0": "Tại ngày 01/01/2023",
+                "1": "Tại ngày 01/01/2023",
+                "2": "Tại ngày 01/01/2023",
+                "3": "Tại ngày 01/01/2023",
+                "4": "Tại ngày 01/01/2023"
+            },
+            {
+                "0": "Tiền và các khoản tương đương tiền",
+                "1": "235.951.015.947",
+                "2": "-",
+                "3": "-",
+                "4": "235.951.015.947"
+            },
+            {
+                "0": "Phải thu khách hàng, phải thu khác",
+                "1": "33.913.296.277",
+                "2": "-",
+                "3": "-",
+                "4": "33.913.296.277"
+            },
+            {
+                "0": "Các khoản cho vay",
+                "1": "473.346.594.521",
+                "2": "4.000.000.000",
+                "3": "-",
+                "4": "477.346.594.521"
+            },
+            {
+                "0": "",
+                "1": "743.210.906.745",
+                "2": "4.000.000.000",
+                "3": "-",
+                "4": "747.210.906.745"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_37",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "Rủi ro thanh khoản\n\nRùi ro thanh khoản là rùi ro Công ty gặp khó khăn khi thực hiện các nghĩa vụ tài chính đến hạn thanh toán do thiếu vốn. Rùi ro thanh khoản của Công ty chủ yếu phát sinh từ việc các tài sản tài chính và nợ phải trả tài chính có các thời điểm đáo hạn khác nhau.\n\nThời hạn thanh toán của các khoản nợ phải trả tài chính dựa trên các khoản thanh toán dự kiến theo hợp đồng (trên cơ sở dòng tiền của các khoản gốc) như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Từ 1 năm trở xuống",
+                "2": "Trên 1 năm đến 5 năm",
+                "3": "Trên 5 năm",
+                "4": "Cộng"
+            },
+            {
+                "0": "Tại ngày 31/12/2023",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "Phải trả người bán, phải trả khác",
+                "1": "124.003.573.077",
+                "2": "-",
+                "3": "-",
+                "4": "124.003.573.077"
+            },
+            {
+                "0": "Chi phí phải trả",
+                "1": "9.467.019.245",
+                "2": "-",
+                "3": "-",
+                "4": "9.467.019.245"
+            },
+            {
+                "0": "",
+                "1": "133.470.592.322",
+                "2": "-",
+                "3": "-",
+                "4": "133.470.592.322"
+            },
+            {
+                "0": "Tại ngày 01/01/2023",
+                "1": "Tại ngày 01/01/2023",
+                "2": "Tại ngày 01/01/2023",
+                "3": "Tại ngày 01/01/2023",
+                "4": "Tại ngày 01/01/2023"
+            },
+            {
+                "0": "Vay và nợ",
+                "1": "138.303.975.600",
+                "2": "-",
+                "3": "-",
+                "4": "138.303.975.600"
+            },
+            {
+                "0": "Phải trả người bán, phải trả khác",
+                "1": "113.917.396.700",
+                "2": "-",
+                "3": "-",
+                "4": "113.917.396.700"
+            },
+            {
+                "0": "Chi phí phải trả",
+                "1": "1.476.893.150",
+                "2": "-",
+                "3": "-",
+                "4": "1.476.893.150"
+            },
+            {
+                "0": "",
+                "1": "253.698.265.450",
+                "2": "-",
+                "3": "-",
+                "4": "253.698.265.450"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_38",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "Công ty cho rằng mức độ tập trung rủi ro đối với việc trả nợ là thấp. Công ty có khả năng thanh toán các khoản nợ đến hạn từ dòng tiền từ hoạt động kinh doanh và tiền thu từ các tài sản tài chính đáo hạn.\n\n38\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cành, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n37. THÔNG TIN KHÁC\n\nDự án của Công ty TNHH Pruksa Việt Nam\n\n* Dự án: Dự án Khu nhà ở cho người có thu nhập thấp - xã An Đồng, huyện An Dương, thành phố Hải Phòng;\n\n- Địa điểm xây dựng: xã An Đồng, huyện An Dương, thành phố Hải Phòng;\n\n- Mục đích xây dựng: Đầu tư xây dựng khu nhà ở dưới dạng chung cư và các công trình phụ trợ để bán cho đối tượng là người có thu nhập thấp tại khu vực đô thị;\n\n- Chủ đầu tư: Công ty TNHH Pruksa Việt Nam;\n\n- Nguồn vốn đầu tư: Vốn chủ sở hữu của nhà đầu tư đảm bảo theo quy định của pháp luật;\n\n- Quy mô của dự án: Đầu tư xây dựng khu nhà ở dưới dạng chung cư gồm: 90 căn hộ chung cư 5 tầng, 1.908 căn hộ chung cư 3 tầng, 11 căn hộ tái định cư và các công trình phụ trợ, 242 căn hộ liên kể;\n\n- Tổng vốn đầu tư của dự án: 1.398.603.917.000 VND, tương đương với 59.401.313 USD;\n\n- Đến thời điểm 31 tháng 12 năm 2023, Công ty TNHH Pruksa Việt Nam đã hoàn thành, bàn giao các sản phẩm của dự án bao gồm Khu nhà ở xã hội, khu nhà ở thương mại dịch vụ liền kể. Các hàng mục phụ trợ cũng đã cơ bản hoàn thành, một số hạng mục còn triển khai trong thời gian tới bao gồm: Khu nhà điều hành Ban Quản lý.\n\nCác Dự án của Công ty Cổ phần Tập đoàn Bất động sản CRV\n\n* Dự án: Trung tâm Thương mại - Dịch vụ, Nhà ở Golden - Land Building;\n\n- Địa điểm thực hiện dự án: Số 275 đường Nguyễn Trãi, quận Thanh Xuân, thành phố Hà Nội;\n\n- Mục đích xây dựng: Xây dựng công trình hỗn hợp cao tầng đầu tư Trung tâm Thương mại - Dịch vụ, Nhà ở Golden - Land Building;\n\n- Chủ đầu tư: Công ty Cổ phần Tập đoàn Bất động sản CRV;\n\n- Nguồn vốn đầu tư: Đầu tư từ nguồn vốn tự có và nguồn vốn vay;\n\n- Quy mô đầu tư từ dự án và thực trạng dự án:\n\n+ Tòa nhà N01: Gồm 03 công trình, trong đó có hai công trình cao 25 tầng và một công trình cao 27 tầng. Đến thời điểm 31/12/2023, dự án đã hoàn thành bàn giao và đưa vào sử dụng;\n\n+ Tòa nhà N02: Xây dựng khu nhà ở cao tầng bản giao cho thành phố Hà Nội theo chủ trương đầu tư. Đến thời điểm 31/12/2023, dự án đang trong quá trình thực hiện thay đổi quy hoạch tổng mặt bằng và phương án kiến trúc và đã được Sở Quy hoạch - Kiến trúc Hà Nội chấp thuận, đang chờ UBND Thành phố Hà Nội xem xét quyết định;\n\n+ Tòa nhà Gold Tower: Diện tích xây dựng khoản 2.352m2, cao 33 tầng (chưa kể tầng tum) và 03 tầng kỹ thuật và để xe. Đến thời điểm 31 tháng 12 năm 2023, dự án đã hoàn thành bàn giao và đưa vào sử dụng.\n\n* Dự án đầu tư xây dựng Khu đô thị mới dọc đường Đỗ Mười kéo dài và vùng phụ cận tại các xã Tân Dương, Dương Quan, huyện Thủy Nguyên:\n\n- Chủ đầu tư: Công ty Cổ phần Tập đoàn Bất động sản CRV;\n\n- Tổng diện tích đất dự kiến sử dụng: 493.665,41m2;\n\n- Đến thời điểm 31/12/2023, Công ty đã hoàn thành nghĩa vụ tài chính của dự án theo quy định, đang thực hiện nhận bàn giao đất trên thực địa và chuẩn bị các thủ tục để triển khai đầu tư xây dựng dự án.\n\n* Dự án Hoàng Huy - Sở Dầu (Hoang Huy Grand Tower) tại số 2A Sở Dầu, phường Sở Dầu, quận Hồng Bàng:\n\n- Chủ đầu tư: Công ty Cổ phần Xây dựng Đại Thịnh Vượng (Công ty con của Công ty Cổ phần Tập đoàn Bất động sản CRV);\n\n- Quy mô dự án: Dự án xây dựng hạ tầng khu đô thị và khu nhà ở liền kề, nhà ở hỗn hợp gồm 16 lô nhà có chiều cao tối đa 05 tầng thuộc công trình dân dụng cấp III và 01 nhà cao tầng 37 tầng với tổng diện tích sử dụng đất là 9.701,5 m2;\n\n- Tổng mức đầu tư dự án: 1.486.505.000.000 VND.\n\n- Đến thời điểm 31/12/2023, dự án đã hoàn thành và đưa vào sử dụng.\n\n39\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dải, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n* Dự án Hoàng Huy Commerce tại Phường Kênh Dương và Phường Vĩnh Niệm, Quận Lê Chân, Thành phố Hải Phòng:\n\n- Chủ đầu tư: Công ty Cổ phần Phát triển Nhà Đại Lộc (Công ty con của Công ty Cổ phần Tập đoàn Bất động sản CRV);\n\n- Quy mô dự án: Một phần dự án (tương ứng với tòa H1) của Dự án xây dựng hạ tầng 02 tòa nhà chung cư kết hợp thương mại dịch vụ H1 và H2 với chiều cao mỗi tòa là 36 tầng và 03 tầng hầm, tổng diện tích sử dụng đất dự án là 26.308,5m2; Hiện Công ty đang sở hữu và thực hiện đầu tư tòa H1;\n\n- Tổng mức đầu tư dự án: 4.997.900.000.000 VND.\n\n- Đến thời điểm 31/12/2023, dự án đã hoàn thành và đưa vào sử dụng.\n\n38. NHỮNG SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THỨC NĂM TÀI CHÍNH\n\nKhông có sự kiện trọng yếu nào xảy ra sau ngày kết thúc năm tài chính đồi hỏi phải được điều chỉnh hay công bố trên Báo cáo tài chính hợp nhất này.\n\n39. BÁO CÁO BỘ PHẠN\n\nTheo lĩnh vực kinh doanh và địa bàn kinh doanh:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Miền Bắc",
+                "2": "Miền Trung",
+                "3": "Miền Nam",
+                "4": "Tổng cộng toàn doanh nghiệp"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND",
+                "3": "VND",
+                "4": "VND"
+            },
+            {
+                "0": "Doanh thu thuần",
+                "1": "238.909.122.470",
+                "2": "119.482.111.796",
+                "3": "8.184.021.413",
+                "4": "366.575.255.679"
+            },
+            {
+                "0": "+ Kinh doanh ô tô",
+                "1": "179.596.493.040",
+                "2": "119.482.111.796",
+                "3": "8.184.021.413",
+                "4": "307.262.626.249"
+            },
+            {
+                "0": "+ Kinh doanh Bất động sản",
+                "1": "55.785.912.875",
+                "2": "-",
+                "3": "-",
+                "4": "55.785.912.875"
+            },
+            {
+                "0": "+ Hoạt động khác",
+                "1": "3.526.716.555",
+                "2": "-",
+                "3": "-",
+                "4": "3.526.716.555"
+            },
+            {
+                "0": "Giá vốn",
+                "1": "200.849.936.634",
+                "2": "117.040.827.218",
+                "3": "8.080.849.837",
+                "4": "325.971.613.689"
+            },
+            {
+                "0": "+ Kinh doanh ô tô",
+                "1": "170.393.714.140",
+                "2": "117.040.827.218",
+                "3": "8.080.849.837",
+                "4": "295.515.391.195"
+            },
+            {
+                "0": "+ Kinh doanh Bất động sản",
+                "1": "27.476.878.171",
+                "2": "-",
+                "3": "-",
+                "4": "27.476.878.171"
+            },
+            {
+                "0": "+ Hoạt động khác",
+                "1": "2.979.344.323",
+                "2": "-",
+                "3": "-",
+                "4": "2.979.344.323"
+            },
+            {
+                "0": "Lợi nhuận gộp",
+                "1": "38.059.185.836",
+                "2": "2.441.284.578",
+                "3": "103.171.576",
+                "4": "40.603.641.990"
+            },
+            {
+                "0": "+ Kinh doanh ô tô",
+                "1": "9.202.778.900",
+                "2": "2.441.284.578",
+                "3": "103.171.576",
+                "4": "11.747.235.054"
+            },
+            {
+                "0": "+ Kinh doanh Bất động sản",
+                "1": "28.309.034.704",
+                "2": "-",
+                "3": "-",
+                "4": "28.309.034.704"
+            },
+            {
+                "0": "+ Hoạt động khác",
+                "1": "547.372.232",
+                "2": "-",
+                "3": "-",
+                "4": "547.372.232"
+            },
+            {
+                "0": "Tài sản bộ phận",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "4.673.591.233.738"
+            },
+            {
+                "0": "Tổng Tài sản",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "4.673.591.233.738"
+            },
+            {
+                "0": "Nợ phải trả của các bộ phận",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "172.310.356.348"
+            },
+            {
+                "0": "Tổng Nợ phải trả",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "172.310.356.348"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_39",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "40\n\n\n\n□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □\n\nCông ty Cổ phần Đầu tư Dịch vụ Hoàng Huy\n\nBáo cáo tài chính hợp nhất\n\nTòa nhà 116 Nguyễn Đức Cảnh, P.Cát Dài, Q.Lê Chân, TP.Hải Phòng\n\nCho năm tài chính kết thúc ngày 31/12/2023\n\n40. NGHIỆP VỤ VÀ SỐ DỰ VỚI CÁC BÊN LIÊN QUAN\n\nDanh sách mối quan hệ giữa các bên liên quan và Công ty như sau:\n\nBên liên quan\n\nMôi quan hệ",
+        "dataframe": [
+            {
+                "0": "Công ty Cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy"
+            },
+            {
+                "0": "Công ty Cổ phần Tập đoàn Bất động sản CRV"
+            },
+            {
+                "0": "Công ty liên kết"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_40",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "Ngoài các thông tin với các bên liên quan đã trình bày tại các thuyết minh trên, Công ty còn có các giao dịch phát sinh trong năm với các bên liên quan như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Năm 2023",
+                "2": "Năm 2022"
+            },
+            {
+                "0": "",
+                "1": "VND",
+                "2": "VND"
+            },
+            {
+                "0": "Mua hàng",
+                "1": "910.800.000",
+                "2": "32.964.703.043"
+            },
+            {
+                "0": "Công ty Cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy",
+                "1": "910.800.000",
+                "2": "32.964.703.043"
+            },
+            {
+                "0": "Doanh thu tài chính - Nhận cổ tức",
+                "1": "205.128.630.000",
+                "2": "442.491.759.000"
+            },
+            {
+                "0": "Công ty Cổ phần Tập đoàn Bất động sản CRV",
+                "1": "205.128.630.000",
+                "2": "442.491.759.000"
+            }
+        ]
+    },
+    {
+        "chunk_id": "HHS_2023_consolidated_table_41",
+        "metadata": {
+            "ticker": "HHS",
+            "company_name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+            "year": "2023",
+            "report_type": "consolidated",
+            "original_folder": "HHS_financial_statements_2023_consolidated"
+        },
+        "context_text": "Giao dịch với các bên liên quan khác như sau:",
+        "dataframe": [
+            {
+                "0": "",
+                "1": "Chức vụ",
+                "2": "Năm 2023",
+                "3": "Năm 2022"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "VND",
+                "3": "VND"
+            },
+            {
+                "0": "Thu nhập của người quản lý chủ chốt",
+                "1": "Thu nhập của người quản lý chủ chốt",
+                "2": "Thu nhập của người quản lý chủ chốt",
+                "3": "Thu nhập của người quản lý chủ chốt"
+            },
+            {
+                "0": "Thù lao thành viên Hội đồng quản trị",
+                "1": "Thù lao thành viên Hội đồng quản trị",
+                "2": "Thù lao thành viên Hội đồng quản trị",
+                "3": "Thù lao thành viên Hội đồng quản trị"
+            },
+            {
+                "0": "- Đỗ Hữu Hạ",
+                "1": "Chủ tịch HĐQT",
+                "2": "99.000.000",
+                "3": "36.000.000"
+            },
+            {
+                "0": "- Nguyễn Thị Hà",
+                "1": "Thành viên HĐQT",
+                "2": "51.000.000",
+                "3": "24.000.000"
+            },
+            {
+                "0": "- Trần Mạnh Luân",
+                "1": "Thành viên độc lập HĐQT",
+                "2": "51.000.000",
+                "3": "24.000.000"
+            },
+            {
+                "0": "- Nguyễn Thị Thu Trang",
+                "1": "Thành viên độc lập HĐQT",
+                "2": "51.000.000",
+                "3": "24.000.000"
+            },
+            {
+                "0": "- Đỗ Hữu Hậu",
+                "1": "Thành viên HĐQT",
+                "2": "51.000.000",
+                "3": "24.000.000"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "303.000.000",
+                "3": "132.000.000"
+            },
+            {
+                "0": "Thù lao thành viên Ban kiểm soát",
+                "1": "Thù lao thành viên Ban kiểm soát",
+                "2": "Thù lao thành viên Ban kiểm soát",
+                "3": "Thù lao thành viên Ban kiểm soát"
+            },
+            {
+                "0": "- Phùng Thị Thu Hương",
+                "1": "Trường Ban kiểm soát",
+                "2": "51.000.000",
+                "3": "24.000.000"
+            },
+            {
+                "0": "- Nguyễn Trọng Cường",
+                "1": "Thành viên Ban kiểm soát",
+                "2": "30.000.000",
+                "3": "12.000.000"
+            },
+            {
+                "0": "- Bùi Thị Trà",
+                "1": "Thành viên Ban kiểm soát",
+                "2": "30.000.000",
+                "3": "12.000.000"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "111.000.000",
+                "3": "48.000.000"
+            },
+            {
+                "0": "Tiền lương, thưởng của Giám đốc",
+                "1": "Tiền lương, thưởng của Giám đốc",
+                "2": "Tiền lương, thưởng của Giám đốc",
+                "3": "Tiền lương, thưởng của Giám đốc"
+            },
+            {
+                "0": "- Nguyễn Thế Hùng",
+                "1": "Giám đốc",
+                "2": "268.325.000",
+                "3": "239.137.050"
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": "268.325.000",
+                "3": "239.137.050"
+            }
+        ]
+    }
+]
