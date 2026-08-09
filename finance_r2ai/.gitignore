@@ -1,1 +1,6 @@
-finance_r2ai/src/services/
+# Bỏ qua thư mục dữ liệu
+data/
+save_json/
+log_txt/
+*.pyc
+__pycache__/
