@@ -4,3 +4,9 @@ save_json/
 log_txt/
 *.pyc
 __pycache__/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

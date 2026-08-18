@@ -1,5 +1,6 @@
 import os
-
+from pathlib import Path
 
 class Settings:
-    PATH_CODE_STOCK = "/home/manh/Data/data_finance_r2ai/code_stock.csv"
+    BASE_DIR = Path(__file__).resolve().parent.parent.parent
+    PATH_CODE_STOCK = str(BASE_DIR / "data" / "code_stock.csv")
