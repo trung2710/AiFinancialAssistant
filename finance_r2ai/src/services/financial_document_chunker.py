@@ -45,11 +45,16 @@ class FinancialDataPipeline:
             clean_table_data = df_clean.to_dict(orient='records')
 
             # 4.3. Đóng gói chunk
+            chunk_metadata = metadata.copy()
+            chunk_metadata['table_name'] = chunk.get('table_name')
+            chunk_metadata['unit'] = chunk.get('unit')
+            chunk_metadata['start_line'] = chunk.get('start_line')
+            
             final_chunk = {
                 "chunk_id": chunk_id,
-                "metadata": metadata.copy(),  # Dùng copy để đảm bảo an toàn vùng nhớ
+                "metadata": chunk_metadata,
                 "context_text": chunk['context_text'],
-                "dataframe": clean_table_data  # Đã là list of dicts sạch sẽ
+                "dataframe": clean_table_data
             }
             final_chunks.append(final_chunk)
 
