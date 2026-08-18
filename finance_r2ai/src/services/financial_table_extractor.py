@@ -12,7 +12,34 @@ class FinancialTableExtractor:
 
     def _is_noise_text(self, text_chunk: str) -> int:
         lines = [line.strip() for line in text_chunk.split('\n') if line.strip()]
-        return len(lines)
+        
+        filtered_lines = []
+        for line in lines:
+            line_lower = line.lower()
+            
+            # 1. Bỏ qua dòng tên công ty
+            if "công ty" in line_lower and ("cổ phần" in line_lower or "trách nhiệm" in line_lower or "tnhh" in line_lower):
+                continue
+                
+            # 2. Bỏ qua dòng tiêu đề báo cáo / header trang
+            if any(kw in line_lower for kw in ["bảng cân đối", "kết quả hoạt động", "lưu chuyển tiền", "thuyết minh", "tiếp theo", "báo cáo tài chính", "báo cáo hợp nhất", "báo cáo riêng"]):
+                continue
+                
+            # 3. Bỏ qua ngày tháng, đơn vị tính, mã biểu mẫu
+            if any(kw in line_lower for kw in ["đơn vị tính", "vnd", "vnđ", "b01", "b02", "b03", "b09"]):
+                continue
+            if "ngày" in line_lower and "tháng" in line_lower and "năm" in line_lower:
+                continue
+            if "cho năm tài chính" in line_lower:
+                continue
+                
+            # 4. Bỏ qua các dòng chỉ chứa số (thường là đánh số trang bị lệch)
+            if line.isdigit():
+                continue
+                
+            filtered_lines.append(line)
+            
+        return len(filtered_lines)
 
     def _normalize_text(self, text) -> str:
         if pd.isna(text):
@@ -32,6 +59,44 @@ class FinancialTableExtractor:
                 return True
         return False
 
+    def _extract_table_name_and_unit(self, context_text: str):
+        lines = [line.strip() for line in context_text.split('\n') if line.strip()]
+        unit = None
+        table_name = None
+        
+        # 1. Quét tìm đơn vị tính
+        for line in reversed(lines):
+            line_lower = line.lower()
+            if "đơn vị tính" in line_lower or "đvt" in line_lower:
+                import re
+                match = re.search(r'(?i)(?:đơn vị tính|đvt)\s*[:\-\s]\s*(.+)', line)
+                if match:
+                    unit = match.group(1).strip()
+                break
+                
+        # 2. Quét tìm tên bảng từ dưới lên
+        for line in reversed(lines):
+            line_lower = line.lower()
+            if not line:
+                continue
+            if "đơn vị tính" in line_lower or "đvt" in line_lower:
+                continue
+            if "ngày" in line_lower and "tháng" in line_lower and "năm" in line_lower:
+                continue
+            if "cho năm tài chính" in line_lower:
+                continue
+            if "b01" in line_lower or "b02" in line_lower or "b03" in line_lower or "b09" in line_lower:
+                continue
+            if line.isdigit():
+                continue
+            if "công ty" in line_lower and ("cổ phần" in line_lower or "tnhh" in line_lower):
+                continue
+                
+            table_name = line
+            break
+            
+        return table_name, unit
+
     def process(self, raw_txt: str) -> List[Dict[str, Any]]:
         # Xóa marker ngắt trang để nối liền văn bản
         cleaned_text = re.sub(r'===== PAGE \d+ =====', '\n', raw_txt)
@@ -41,10 +106,22 @@ class FinancialTableExtractor:
 
         chunks = []
         pending_chunk = None
+        search_offset = 0
 
         for i in range(0, len(parts) - 1, 2):
             context_text = parts[i].strip()
             table_html = parts[i + 1]
+            
+            # Tìm dòng bắt đầu của bảng
+            start_index = raw_txt.find(table_html, search_offset)
+            if start_index != -1:
+                start_line = raw_txt.count('\n', 0, start_index) + 1
+                search_offset = start_index + len(table_html)
+            else:
+                start_line = None
+                
+            # Trích xuất tên bảng và đơn vị tính
+            table_name, unit = self._extract_table_name_and_unit(context_text)
 
             try:
                 df_current = pd.read_html(StringIO(table_html))[0]
@@ -53,10 +130,18 @@ class FinancialTableExtractor:
 
             # Xử lý gộp bảng
             if pending_chunk is not None:
-                if (self._is_noise_text(context_text) <= self.noise_threshold and
+                is_repeated = self._is_repeated_header(pending_chunk['dataframe'], df_current)
+                # Tín hiệu gộp bảng: có chữ "tiếp theo" VÀ đi kèm tên loại bảng/báo cáo
+                context_lower = context_text.lower()
+                has_tiep_theo = "tiếp theo" in context_lower and any(kw in context_lower for kw in ["bảng", "báo cáo", "thuyết minh"])
+                
+                # Nếu tiêu đề trùng khớp hoàn toàn HOẶC có chữ "tiếp theo"
+                allowed_noise = 10 if (is_repeated or has_tiep_theo) else self.noise_threshold
+
+                if (self._is_noise_text(context_text) <= allowed_noise and
                         len(df_current.columns) == len(pending_chunk['dataframe'].columns)):
 
-                    if self._is_repeated_header(pending_chunk['dataframe'], df_current):
+                    if is_repeated:
                         df_current = df_current.iloc[1:].reset_index(drop=True)
 
                     df_current.columns = pending_chunk['dataframe'].columns
@@ -69,11 +154,15 @@ class FinancialTableExtractor:
                     chunks.append(pending_chunk)
                     pending_chunk = None
 
-            # Đóng gói Chunk mới
-            pending_chunk = {
-                "context_text": context_text,
-                "dataframe": df_current
-            }
+            # Bắt đầu một chunk mới
+            if pending_chunk is None:
+                pending_chunk = {
+                    'context_text': context_text,
+                    'dataframe': df_current,
+                    'start_line': start_line,
+                    'table_name': table_name,
+                    'unit': unit
+                }
 
         if pending_chunk is not None:
             chunks.append(pending_chunk)
