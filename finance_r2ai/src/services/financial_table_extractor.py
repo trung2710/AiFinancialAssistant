@@ -149,11 +149,8 @@ class FinancialTableExtractor:
         return df_clean
 
     def process(self, raw_txt: str, folder_name: str = "") -> tuple:
-        # Xóa marker ngắt trang để nối liền văn bản
-        cleaned_text = re.sub(r'===== PAGE \d+ =====', '\n', raw_txt)
-
-        # Cắt kẹp chả: Text -> Table -> Text -> Table
-        parts = re.split(r'(<table.*?</table>)', cleaned_text, flags=re.IGNORECASE | re.DOTALL)
+        # Cắt kẹp chả trực tiếp từ raw_txt để bảo toàn 100% văn bản gốc (kể cả các thẻ ===== PAGE X =====)
+        parts = re.split(r'(<table.*?</table>)', raw_txt, flags=re.IGNORECASE | re.DOTALL)
 
         chunks = []
         pending_chunk = None
@@ -163,7 +160,9 @@ class FinancialTableExtractor:
         current_chunk_idx = 0
 
         for i in range(0, len(parts) - 1, 2):
-            context_text = parts[i].strip()
+            raw_context_text = parts[i]
+            # Xóa tạm marker ngắt trang cho việc tính toán noise_text và trích metadata
+            clean_context_text = re.sub(r'===== PAGE \d+ =====', '\n', raw_context_text).strip()
             table_html = parts[i + 1]
             
             # Tìm dòng bắt đầu của bảng
@@ -175,7 +174,7 @@ class FinancialTableExtractor:
                 start_line = None
                 
             # Trích xuất tên bảng và đơn vị tính
-            table_name, unit = self._extract_table_name_and_unit(context_text)
+            table_name, unit = self._extract_table_name_and_unit(clean_context_text)
 
             try:
                 df_current = pd.read_html(StringIO(table_html))[0]
@@ -187,13 +186,13 @@ class FinancialTableExtractor:
             if pending_chunk is not None:
                 is_repeated = self._is_repeated_header(pending_chunk['dataframe'], df_current)
                 # Tín hiệu gộp bảng: có chữ "tiếp theo" VÀ đi kèm tên loại bảng/báo cáo
-                context_lower = context_text.lower()
+                context_lower = clean_context_text.lower()
                 has_tiep_theo = "tiếp theo" in context_lower and any(kw in context_lower for kw in ["bảng", "báo cáo", "thuyết minh"])
                 
                 # Nếu tiêu đề trùng khớp hoàn toàn HOẶC có chữ "tiếp theo"
                 allowed_noise = 10 if (is_repeated or has_tiep_theo) else self.noise_threshold
 
-                if (self._is_noise_text(context_text) <= allowed_noise and
+                if (self._is_noise_text(clean_context_text) <= allowed_noise and
                         len(df_current.columns) == len(pending_chunk['dataframe'].columns)):
 
                     if is_repeated:
@@ -202,8 +201,9 @@ class FinancialTableExtractor:
                     df_current.columns = pending_chunk['dataframe'].columns
                     merged_df = pd.concat([pending_chunk['dataframe'], df_current], ignore_index=True)
 
-                    # Cập nhật DataFrame
+                    # Cập nhật DataFrame và nối thêm mã HTML gốc của bảng nối trang
                     pending_chunk['dataframe'] = merged_df
+                    pending_chunk['raw_table'] += "\n" + table_html
                     part_table_map[i + 1] = current_chunk_idx
                     continue
                 else:
@@ -216,12 +216,13 @@ class FinancialTableExtractor:
             if pending_chunk is None:
                 current_chunk_idx += 1
                 pending_chunk = {
-                    'context_text': context_text,
+                    'context_text': clean_context_text,
                     'dataframe': df_current,
                     'start_line': start_line,
                     'table_name': table_name,
                     'unit': unit,
-                    'chunk_index': current_chunk_idx
+                    'chunk_index': current_chunk_idx,
+                    'raw_table': table_html
                 }
                 part_table_map[i + 1] = current_chunk_idx
 

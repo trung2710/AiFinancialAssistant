@@ -75,6 +75,7 @@ class FinancialDataPipeline:
                 "chunk_id": chunk_id,
                 "metadata": chunk_metadata,
                 "context_text": chunk['context_text'],
+                "raw_table": chunk.get('raw_table', ''),
                 "dataframe": clean_table_data
             }
             final_chunks.append(final_chunk)
