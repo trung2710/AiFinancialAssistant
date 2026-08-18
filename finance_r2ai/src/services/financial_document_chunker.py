@@ -8,47 +8,68 @@ from src.services.report_metadata_extractor import ReportMetadataExtractor
 
 
 class FinancialDataPipeline:
-    def __init__(self):
+    def __init__(self, output_base_dir: str = r"C:\vscode\AiFinancialAssistant\finance_r2ai\preprocess"):
         self.metadata_extractor = ReportMetadataExtractor()
         self.table_extractor = FinancialTableExtractor(noise_threshold=1)
+        self.output_base_dir = Path(output_base_dir)
 
     def process_chunk(self, file_path: str) -> List[Dict[str, Any]]:
         """
-        Thực thi toàn bộ luồng: Đọc file -> Lấy Meta -> Parse Bảng -> Làm sạch -> Trả về danh sách Chunk chuẩn JSON
+        Thực thi toàn bộ luồng: Đọc file -> Lấy Meta -> Parse Bảng -> Chuẩn hóa số -> Ghi CSV -> Ghi Synchronized Text -> Trả về list Chunk chuẩn JSON
         """
         # 1. Bóc metadata
         metadata = self.metadata_extractor.extract(file_path)
 
-        # 2. Đọc nội dung file
+        # 2. Lấy tên thư mục chứa file báo cáo
+        folder_name = metadata.get('original_folder') or Path(file_path).parent.name
+
+        # Tạo cấu trúc thư mục đầu ra
+        tables_dir = self.output_base_dir / "tables" / folder_name
+        text_dir = self.output_base_dir / "text"
+        json_dir = self.output_base_dir / "json"
+
+        os.makedirs(tables_dir, exist_ok=True)
+        os.makedirs(text_dir, exist_ok=True)
+        os.makedirs(json_dir, exist_ok=True)
+
+        # 3. Đọc nội dung file
         with open(file_path, 'r', encoding='utf-8') as f:
             raw_txt = f.read()
 
-        # 3. Trích xuất bảng và context text (Trả về list chứa DataFrame thô)
-        table_chunks = self.table_extractor.process(raw_txt)
+        # 4. Trích xuất bảng, chuẩn hóa số liệu và sinh văn bản đồng bộ
+        table_chunks, sync_text = self.table_extractor.process(raw_txt, folder_name=folder_name)
+
+        # Ghi file văn bản đồng bộ
+        sync_file_path = text_dir / f"{folder_name}_synchronized.txt"
+        with open(sync_file_path, 'w', encoding='utf-8') as f:
+            f.write(sync_text)
 
         final_chunks = []
-        # 4. Làm sạch dữ liệu, gắn metadata và đóng gói hoàn chỉnh
-        for idx, chunk in enumerate(table_chunks):
-            # 4.1. Tạo ID chuẩn
-            chunk_id = f"{metadata['ticker']}_{metadata['year']}_{metadata['report_type']}_table_{idx + 1}"
+        # 5. Lưu CSV và đóng gói JSON chunk
+        for idx, chunk in enumerate(table_chunks, start=1):
+            # 5.1. Tạo ID chuẩn
+            chunk_id = f"{metadata['ticker']}_{metadata['year']}_{metadata['report_type']}_table_{idx}"
 
-            # 4.2. XỬ LÝ LÀM SẠCH DATAFRAME CHUẨN JSON
+            # 5.2. Xuất file CSV cho từng bảng
+            csv_filename = f"table_{idx}.csv"
+            csv_file_path = tables_dir / csv_filename
+            rel_csv_path = f"tables/{folder_name}/{csv_filename}"
+
             df_clean = chunk['dataframe'].copy()
+            df_clean.to_csv(csv_file_path, index=False, encoding='utf-8-sig')
 
-            # Biến NaN thành chuỗi rỗng "" để tránh lỗi chuẩn JSON
-            df_clean = df_clean.fillna("")
+            # 5.3. Chuẩn bị DataFrame dạng dict cho JSON
+            df_clean_json = df_clean.fillna("")
+            df_clean_json.columns = df_clean_json.columns.astype(str)
+            clean_table_data = df_clean_json.to_dict(orient='records')
 
-            # Ép tên cột thành string (tránh lỗi JSON do key là số nguyên)
-            df_clean.columns = df_clean.columns.astype(str)
-
-            # Convert thẳng sang dạng list of dicts (thân thiện với LLM)
-            clean_table_data = df_clean.to_dict(orient='records')
-
-            # 4.3. Đóng gói chunk
+            # 5.4. Đóng gói chunk metadata
             chunk_metadata = metadata.copy()
             chunk_metadata['table_name'] = chunk.get('table_name')
             chunk_metadata['unit'] = chunk.get('unit')
             chunk_metadata['start_line'] = chunk.get('start_line')
+            chunk_metadata['csv_path'] = rel_csv_path
+            chunk_metadata['csv_abs_path'] = str(csv_file_path)
             
             final_chunk = {
                 "chunk_id": chunk_id,
@@ -57,6 +78,11 @@ class FinancialDataPipeline:
                 "dataframe": clean_table_data
             }
             final_chunks.append(final_chunk)
+
+        # Ghi file JSON tổng hợp cho file báo cáo này
+        json_file_path = json_dir / f"{folder_name}.json"
+        with open(json_file_path, 'w', encoding='utf-8') as f:
+            json.dump(final_chunks, f, ensure_ascii=False, indent=4)
 
         return final_chunks
 

@@ -97,7 +97,58 @@ class FinancialTableExtractor:
             
         return table_name, unit
 
-    def process(self, raw_txt: str) -> List[Dict[str, Any]]:
+    def _normalize_value(self, val):
+        if pd.isna(val) or val is None:
+            return ""
+        val_str = str(val).strip()
+        if not val_str or val_str == "-":
+            return val_str
+            
+        is_neg = False
+        clean_s = val_str
+        if clean_s.startswith('(') and clean_s.endswith(')'):
+            is_neg = True
+            clean_s = clean_s[1:-1].strip()
+        elif clean_s.startswith('-'):
+            is_neg = True
+            clean_s = clean_s[1:].strip()
+            
+        pattern_thousands = r'^\d{1,3}(?:\.\d{3})+(?:,\d+)?$'
+        pattern_decimal_comma = r'^\d+,\d+$'
+        pattern_plain_int = r'^\d+$'
+        
+        if re.match(pattern_thousands, clean_s):
+            num_s = clean_s.replace('.', '').replace(',', '.')
+            try:
+                num = float(num_s)
+                if num.is_integer():
+                    num = int(num)
+                return -num if is_neg else num
+            except ValueError:
+                return val_str
+        elif re.match(pattern_decimal_comma, clean_s):
+            num_s = clean_s.replace(',', '.')
+            try:
+                num = float(num_s)
+                return -num if is_neg else num
+            except ValueError:
+                return val_str
+        elif re.match(pattern_plain_int, clean_s):
+            try:
+                num = int(clean_s)
+                return -num if is_neg else num
+            except ValueError:
+                return val_str
+                
+        return val_str
+
+    def _normalize_numeric_df(self, df: pd.DataFrame) -> pd.DataFrame:
+        df_clean = df.copy()
+        for col in df_clean.columns:
+            df_clean[col] = df_clean[col].apply(self._normalize_value)
+        return df_clean
+
+    def process(self, raw_txt: str, folder_name: str = "") -> tuple:
         # Xóa marker ngắt trang để nối liền văn bản
         cleaned_text = re.sub(r'===== PAGE \d+ =====', '\n', raw_txt)
 
@@ -107,6 +158,9 @@ class FinancialTableExtractor:
         chunks = []
         pending_chunk = None
         search_offset = 0
+        
+        part_table_map = {}
+        current_chunk_idx = 0
 
         for i in range(0, len(parts) - 1, 2):
             context_text = parts[i].strip()
@@ -126,6 +180,7 @@ class FinancialTableExtractor:
             try:
                 df_current = pd.read_html(StringIO(table_html))[0]
             except ValueError:
+                part_table_map[i + 1] = None
                 continue
 
             # Xử lý gộp bảng
@@ -147,27 +202,46 @@ class FinancialTableExtractor:
                     df_current.columns = pending_chunk['dataframe'].columns
                     merged_df = pd.concat([pending_chunk['dataframe'], df_current], ignore_index=True)
 
-                    # Cập nhật DataFrame, Giữ nguyên đoạn context_text gốc của bảng đầu tiên
+                    # Cập nhật DataFrame
                     pending_chunk['dataframe'] = merged_df
+                    part_table_map[i + 1] = current_chunk_idx
                     continue
                 else:
+                    # Chuẩn hóa số liệu cho pending_chunk trước khi cất
+                    pending_chunk['dataframe'] = self._normalize_numeric_df(pending_chunk['dataframe'])
                     chunks.append(pending_chunk)
                     pending_chunk = None
 
             # Bắt đầu một chunk mới
             if pending_chunk is None:
+                current_chunk_idx += 1
                 pending_chunk = {
                     'context_text': context_text,
                     'dataframe': df_current,
                     'start_line': start_line,
                     'table_name': table_name,
-                    'unit': unit
+                    'unit': unit,
+                    'chunk_index': current_chunk_idx
                 }
+                part_table_map[i + 1] = current_chunk_idx
 
         if pending_chunk is not None:
+            pending_chunk['dataframe'] = self._normalize_numeric_df(pending_chunk['dataframe'])
             chunks.append(pending_chunk)
 
-        return chunks
+        # Tạo chuỗi văn bản đồng bộ
+        sync_parts = list(parts)
+        for i in range(1, len(parts), 2):
+            c_idx = part_table_map.get(i)
+            if c_idx is not None:
+                rel_path = f"tables/{folder_name}/table_{c_idx}.csv" if folder_name else f"table_{c_idx}.csv"
+                sync_parts[i] = f"\n[TABLE_{c_idx}]({rel_path})\n"
+            else:
+                sync_parts[i] = ""
+                
+        synchronized_text = "".join(sync_parts)
+
+        return chunks, synchronized_text
 
 
 # ==========================================
