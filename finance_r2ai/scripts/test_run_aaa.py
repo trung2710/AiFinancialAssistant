@@ -4,8 +4,7 @@ def run_test():
     print("Đang khởi tạo pipeline...")
     pipeline = FinancialDataPipeline()
     
-    test_file = r"C:\vscode\AiFinancialAssistant\finance_r2ai\data\financial_statements\AAA\2025\AAA_financial_statements_2025_consolidated\AAA_financial_statements_2025_consolidated_extracted.txt"
-    
+    test_file = r"C:\vscode\AiFinancialAssistant\finance_r2ai\data\financial_statements\VSF\2025\VSF_financial_statements_2025_consolidated\VSF_financial_statements_2025_consolidated_extracted.txt"
     print(f"Đang xử lý file: {test_file}")
     chunks = pipeline.process_chunk(test_file)
     
