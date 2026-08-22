@@ -1,0 +1,25 @@
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# IDE and editor configurations
+.vscode/
+.idea/
+
+# Byte-compiled / optimized / DLL files / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Data and processed outputs
+finance_r2ai/preprocess/
+finance_r2ai/save_json/
+finance_r2ai/log_txt/
+finance_r2ai/data_first_test/
+instructions/data/
+
+# Logs
+*.log

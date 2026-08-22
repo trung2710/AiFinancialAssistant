@@ -5,10 +5,11 @@ from pathlib import Path
 import pandas as pd
 from src.services.financial_table_extractor import FinancialTableExtractor
 from src.services.report_metadata_extractor import ReportMetadataExtractor
+from src.config.settings import Settings
 
 
 class FinancialDataPipeline:
-    def __init__(self, output_base_dir: str = r"C:\vscode\AiFinancialAssistant\finance_r2ai\preprocess"):
+    def __init__(self, output_base_dir: str = Settings.PREPROCESS_DIR):
         self.metadata_extractor = ReportMetadataExtractor()
         self.table_extractor = FinancialTableExtractor(noise_threshold=1)
         self.output_base_dir = Path(output_base_dir)
@@ -21,7 +22,8 @@ class FinancialDataPipeline:
         metadata = self.metadata_extractor.extract(file_path)
 
         # 2. Lấy tên thư mục chứa file báo cáo
-        folder_name = metadata.get('original_folder') or Path(file_path).parent.name
+        folder_name = metadata.get(
+            'original_folder') or Path(file_path).parent.name
 
         # Tạo cấu trúc thư mục đầu ra
         tables_dir = self.output_base_dir / "tables" / folder_name
@@ -37,7 +39,8 @@ class FinancialDataPipeline:
             raw_txt = f.read()
 
         # 4. Trích xuất bảng, chuẩn hóa số liệu và sinh văn bản đồng bộ
-        table_chunks, sync_text = self.table_extractor.process(raw_txt, folder_name=folder_name)
+        table_chunks, sync_text = self.table_extractor.process(
+            raw_txt, folder_name=folder_name)
 
         # Ghi file văn bản đồng bộ
         sync_file_path = text_dir / f"{folder_name}_synchronized.txt"
@@ -70,7 +73,7 @@ class FinancialDataPipeline:
             chunk_metadata['start_line'] = chunk.get('start_line')
             chunk_metadata['csv_path'] = rel_csv_path
             chunk_metadata['csv_abs_path'] = str(csv_file_path)
-            
+
             final_chunk = {
                 "chunk_id": chunk_id,
                 "metadata": chunk_metadata,
@@ -91,8 +94,8 @@ class FinancialDataPipeline:
 if __name__ == "__main__":
     chunker = FinancialDataPipeline()
 
-    folder_path = "/home/manh/Data/data_finance_r2ai/financial_statements"
-    folder_save_json = "/home/manh/Code/finance_r2ai/save_json"
+    folder_path = Settings.FINANCIAL_STATEMENTS_DIR
+    folder_save_json = Settings.SAVE_JSON_DIR
 
     # Tạo thư mục lưu trữ nếu chưa có
     os.makedirs(folder_save_json, exist_ok=True)
@@ -129,7 +132,8 @@ if __name__ == "__main__":
             with open(save_path, 'w', encoding='utf-8') as f:
                 json.dump(document_chunks, f, ensure_ascii=False, indent=4)
 
-            print(f"[{index}/{total_files}] ✅ Xong: {file_name_txt} -> {len(document_chunks)} bảng")
+            print(
+                f"[{index}/{total_files}] ✅ Xong: {file_name_txt} -> {len(document_chunks)} bảng")
             success_count += 1
 
         except Exception as e:

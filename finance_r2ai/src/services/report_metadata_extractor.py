@@ -1,6 +1,8 @@
 import re
+import sys
 from pathlib import Path
 from typing import Dict
+
 from src.config.settings import Settings
 import pandas as pd
 
@@ -9,17 +11,26 @@ class ReportMetadataExtractor:
     def __init__(self):
         self.path_code_stock = Settings.PATH_CODE_STOCK
         df_mapper = pd.read_csv(self.path_code_stock)
-        self.company_mapper = dict(zip(df_mapper['Mã CK'], df_mapper['Tên công ty']))
+        self.company_mapper = dict(
+            zip(df_mapper['Mã CK'], df_mapper['Tên công ty']))
         self.year_pattern = re.compile(r'20\d{2}$')
 
     def _determine_report_type(self, folder_name: str) -> str:
         folder_lower = folder_name.lower()
+
+        # báo cáo thuyết minh
         if "explanation" in folder_lower or "explanatory" in folder_lower:
             return "explanations"
+
+        # báo cáo tổng hợp
         elif "aggregated" in folder_lower:
             return "aggregated"
+
+        # Báo cáo hợp nhaatss
         elif "consolidated" in folder_lower:
             return "consolidated"
+
+        # Báo cáo riêng lẻ
         elif "separate" in folder_lower:
             return "separate"
         elif self.year_pattern.search(folder_lower):
@@ -47,26 +58,21 @@ class ReportMetadataExtractor:
         }
 
 
-# ==========================================
-# KHU VỰC CHẠY THỬ NGHIỆM (TESTING)
-# ==========================================
+# == == == == == == == == == == == == == == == == == == == == ==
+# KHU VỰC CHẠY THỬ NGHIỆM(TESTING)
+# == == == == == == == == == == == == == == == == == == == == ==
 # if __name__ == "__main__":
 #     # Khởi tạo đối tượng xử lý
 #     metadata_extractor = ReportMetadataExtractor()
-#
+
 #     test_paths = [
-#         "/home/manh/Data/data_finance_r2ai/financial_statements/NAB/2023/NAB_financial_statements_2023_consolidated_1/NAB_financial_statements_2023_consolidated_1_extracted.txt",
-#         "/home/manh/Data/data_finance_r2ai/financial_statements/FTS/2023/FTS_financial_statements_2023/FTS_financial_statements_2023_extracted.txt",
-#         "/home/manh/Data/data_finance_r2ai/financial_statements/VSF/2025/VSF_financial_statements_2025_aggregated/VSF_financial_statements_2025_aggregated_extracted.txt",
-#         "/home/manh/Data/data_finance_r2ai/financial_statements/PRT/2020/PRT_2020_financial_statement_explanations/PRT_2020_financial_statement_explanations_extracted.txt",
-#         "/home/manh/Data/data_finance_r2ai/financial_statements/SJG/2025/SJG_financial_statements_2025_aggregated/SJG_financial_statements_2025_aggregated_extracted.txt",
-#         "/home/manh/Data/data_finance_r2ai/financial_statements/ASM/2020/ASM_financial_statements_2020_separate/ASM_financial_statements_2020_separate_extracted.txt"
-#     ]
-#
+#         "/home/newuser/Code/AiFinancialAssistant/instructions/data/financial_statements/ABB/2022/ABB_financial_statements_2022_consolidated/ABB_financial_statements_2022_consolidated_extracted.txt",
+#         "/home/newuser/Code/AiFinancialAssistant/instructions/data/financial_statements/ABB/2025/ABB_financial_statements_2025_separate/ABB_financial_statements_2025_separate_extracted.txt",
+#         "instructions/data/financial_statements/ACV/2022/ACV_financial_statements_2022_aggregated/ACV_financial_statements_2022_aggregated_extracted.txt"]
+
 #     for p in test_paths:
 #         try:
 #             meta = metadata_extractor.extract(p)
-#             print(f"[{meta['company_name']} - {meta['year']}] Loại: {meta['report_type'].upper().ljust(12)} <- (Folder gốc: {meta['original_folder']})")
+#             print(f"[{meta['ticker']} - {meta['company_name']} - {meta['year']}] Loại: {meta['report_type'].upper().ljust(12)} <- (Folder gốc: {meta['original_folder']})")
 #         except ValueError as e:
 #             print(e)
-

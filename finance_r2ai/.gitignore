@@ -1,14 +1,11 @@
-# Bỏ qua thư mục dữ liệu
-data/
-save_json/
-log_txt/
-*.pyc
-__pycache__/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Bỏ qua thư mục dữ liệu và output
 preprocess/
+save_json/
+log_txt/
 data_first_test/
